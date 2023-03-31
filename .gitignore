@@ -55,3 +55,5 @@ src/flist.txt
 allCountries.zip
 allCountries.txt
 allCountries.tsv
+input.diff
+src/input.diff
