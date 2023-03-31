@@ -1153,6 +1153,7 @@ Elasticsearch Inc.:
 	ChrsMark: ChrsMark!users.noreply.github.com, chrismarkou92!gmail.com
 	DanRoscigno: DanRoscigno!users.noreply.github.com, dan!roscigno.com from 2018-01-01
 	FlaPer87: FlaPer87!users.noreply.github.com from 2019-04-01
+	LikeTheSalad: LikeTheSalad!users.noreply.github.com
 	abeyad: abeyad!users.noreply.github.com from 2015-12-01 until 2017-07-01
 	adriansr: adriansr!users.noreply.github.com from 2017-10-01 until 2022-08-01
 	agup006: agup006!users.noreply.github.com
@@ -6583,8 +6584,6 @@ Free Electrons:
 	miquelraynal: miquel.raynal!bootlin.com, miquel.raynal!free-electrons.com, raynal.miquel!gmail.com from 2017-06-01
 	mripard: maxime.ripard!anandra.org, maxime.ripard!bootlin.com, maxime.ripard!free-electrons.com
 	tpetazzoni: thomas.petazzoni!bootlin.com, thomas.petazzoni!free-electrons.com, tpetazzoni!users.noreply.github.com
-Free Field:
-	LikeTheSalad: LikeTheSalad!users.noreply.github.com until 2022-01-01
 Free Indeed International Ministries:
 	buybackoff: buybackoff!users.noreply.github.com, vbaybekov!gmail.com until 2017-10-01
 Free and Open Source Silicon:
