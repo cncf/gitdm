@@ -5,6 +5,17 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+cfrantsen: cfrantsen!users.noreply.github.com
+	EG Group until 2009-01-01
+	Kjaer Data ApS from 2009-01-01 until 2015-07-01
+	Swire Pacific Offshore Operations Pte Ltd from 2015-07-01
+cfreiner: cfreiner!users.noreply.github.com
+	Concur Technologies Inc.
+cfriedt: cfriedt!users.noreply.github.com, chrisfriedt!gmail.com
+	BlackBerry Limited until 2014-03-01
+	MMB Networks from 2014-03-01 until 2016-12-01
+	Per Vices from 2016-12-01 until 2018-04-01
+	L3 WESCAM from 2018-04-01
 cfryanr: cfryanr!users.noreply.github.com
 	VMware Inc. until 2017-01-01
 	Pivotal from 2017-01-01 until 2020-01-01
@@ -551,7 +562,7 @@ chaspy: chaspy!users.noreply.github.com
 	Independent until 2014-04-01
 	Fujitsu Limited from 2014-04-01 until 2018-06-01
 	Quipper from 2018-06-01
-chasturansky: chas!turansky.net
+chasturansky: chas!turansky.net, chasturansky!users.noreply.github.com
 	Independent until 2015-06-01
 	META+Lab from 2015-06-01 until 2015-09-01
 	VISCOM from 2015-09-01 until 2016-01-01
@@ -1111,7 +1122,7 @@ chih-hung: chh!google.com
 	Google LLC
 chihau: chihau!gmail.com
 	Independent
-chikathreesix: ryo!autify.com
+chikathreesix: chikathreesix!users.noreply.github.com, ryo!autify.com
 	Viki until 2016-02-01
 	Pixel Eyewear from 2016-02-01 until 2016-09-01
 	Autify from 2016-09-01
@@ -5491,7 +5502,7 @@ d2chau: d2chau!users.noreply.github.com, david.luengo!superawesome.tv
 	SuperAwesome
 d2iq-shadowbq: d2iq-shadowbq!users.noreply.github.com
 	D2iQ Inc. (f/k/a Mesosphere)
-d2lam: daolam112!gmail.com
+d2lam: d2lam!users.noreply.github.com, daolam112!gmail.com
 	Independent until 2014-06-01
 	Yahoo! Inc. from 2014-06-01 until 2014-09-01
 	Independent from 2014-09-01 until 2015-10-01
@@ -5862,7 +5873,7 @@ damianszczepanik: damian.publicemail!gmail.com, damian.szczepanik!sollers.eu, da
 	Sollers Consulting from 2014-09-01
 damien-lemoal: damien.lemoal!wdc.com
 	Western Digital Corporation
-damienbiggs: damien.biggs!gmail.com, damir.sirola!gmail.com, dbiggs!vmware.com, sh.github.6811!hykes.org
+damienbiggs: damien.biggs!gmail.com, damienbiggs!users.noreply.github.com, damir.sirola!gmail.com, dbiggs!vmware.com, sh.github.6811!hykes.org
 	VMware Inc.
 damiencarol: damien.carol!gmail.com, damien.carol!gmail.com, damiencarol!users.noreply.github.com, taitbrown!gmail.com, taitbrown!gmail.com
 	Blitz Bureau until 2015-07-01
@@ -9910,7 +9921,7 @@ dheerajjoshim: dheerajjoshim!users.noreply.github.com
 	Celebal Corp from 2017-02-01 until 2017-07-01
 	Grab from 2017-07-01 until 2020-10-01
 	Google LLC from 2020-10-01
-dheerajodha: djodha!redhat.com
+dheerajodha: dheerajodha!users.noreply.github.com, djodha!redhat.com
 	Red Hat Inc.
 dheitmueller: dheitmueller!kernellabs.com
 	Independent until 2017-06-01
@@ -10821,11 +10832,11 @@ dixneuf19: dixneuf19!users.noreply.github.com
 	Ayolab from 2018-08-01 until 2019-01-01
 	CentraleSupélec from 2019-01-01 until 2021-03-01
 	Padok from 2021-03-01
-dixudx: dixudx!users.noreply.github.com, stephenhsu90!gmail.com
+dixudx: di.xu!arm.com, dixudx!users.noreply.github.com, stephenhsu90!gmail.com
 	International Business Machines Corporation until 2016-08-01
 	Startup from 2016-08-01 until 2017-05-01
 	ARM from 2017-05-01 until 2018-07-13
-	Independent from 2018-07-16
+	Independent from 2018-07-13
 diytronic: diytronic!diytronic.ru, diytronic!users.noreply.github.com, diytronic!yandex.ru
 	Nestapart
 dj-wasabi: dj-wasabi!users.noreply.github.com
@@ -13734,7 +13745,7 @@ dvcanton: dvcanton!users.noreply.github.com
 	Independent
 dvdhrm: david.rheinsberg!gmail.com, dh.herrmann!gmail.com, dvdhrm!users.noreply.github.com
 	Red Hat Inc.
-dvdizon: daviddizon!gmail.com
+dvdizon: daviddizon!gmail.com, dvdizon!users.noreply.github.com
 	Yahoo! Inc. until 2018-03-01
 	Splunk Inc. from 2018-03-01 until 2022-05-01
 	Snowflake from 2022-05-01
@@ -17348,7 +17359,7 @@ erwbgy: dbvaughan!gmail.com, erwbgy!users.noreply.github.com, keith.burdis!gs.co
 	Goldman Sachs & Co. LLC
 erwelch: erwelch!users.noreply.github.com
 	Microsoft Corporation
-erwin1: erwin!lodgon.com
+erwin1: erwin!lodgon.com, erwin1!users.noreply.github.com
 	LodgON until 2015-01-01
 	Gluon HQ from 2015-01-01
 erwinvaneyk: erwinvaneyk!users.noreply.github.com
@@ -19707,7 +19718,7 @@ fishilico: nicolas.iooss!m4x.org, nicolas.iooss_linux!m4x.org
 	Akheros from 2014-09-01 until 2015-10-01
 	Polytechnique from 2015-10-01 until 2016-09-01
 	ANSSI from 2016-09-01
-fishseabowl: xuefeih!jfrog.com
+fishseabowl: fishseabowl!users.noreply.github.com, xuefeih!jfrog.com
 	Independent until 2018-01-01
 	Fujitsu Limited from 2018-01-01 until 2018-03-01
 	Huawei from 2018-03-01 until 2019-09-01
@@ -20225,7 +20236,7 @@ fomichev: s!fomichev.me, sdf!google.com
 	Google LLC
 fonsecamau: fonsecamau!hpe.com
 	HP Inc.
-fonsecas72: 1098293+fonsecas72!users.noreply.github.com, hdtfonseca!gmail.com, hugo.fonseca!beubi.com
+fonsecas72: 1098293+fonsecas72!users.noreply.github.com, fonsecas72!users.noreply.github.com, hdtfonseca!gmail.com, hugo.fonseca!beubi.com
 	be.ubi until 2019-03-01
 	Tradier Inc. from 2019-03-01
 font: font!users.noreply.github.com, ifont!redhat.com
@@ -24034,23 +24045,3 @@ goatchurchprime: julian!goatchurch.org.uk
 goaway: goaway!users.noreply.github.com, mike.schore!gmail.com
 	Twitter Inc. until 2015-06-01
 	Lyft Inc. from 2015-06-01
-gobengo: bengoering!gmail.com, gobengo!users.noreply.github.com
-	Livefyre until 2016-08-01
-	Independent from 2016-08-01 until 2017-01-01
-	Abengoa from 2017-01-01 until 2018-01-01
-	Kaiser Permanente from 2018-01-01
-gobenji: benjamin.poirier!gmail.com
-	SUSE LLC
-gobomb: bombcoder!outlook.com, gobomb!users.noreply.github.com
-	Independent
-gobwas: gobwas!gmail.com, gobwas!users.noreply.github.com
-	Tinkoff Bank until 2015-02-01
-	Moscow Design Bureau - Compas from 2015-02-01 until 2018-04-01
-	YANDEX LLC from 2018-04-01 until 2019-11-01
-	Independent from 2019-11-01 until 2020-01-01
-	Netdata from 2020-01-01 until 2020-08-01
-	Screenleap from 2020-08-01
-gocd-ci-user: gocd-ci-user!users.noreply.github.com, godev+gocd-ci-user!thoughtworks.com
-	ThoughtWorks Inc
-gochist: gochist!gmail.com, gochist!users.noreply.github.com, june.yi!samsung.com
-	Samsung SDS

@@ -3209,8 +3209,6 @@ Atrax1: Atrax1!users.noreply.github.com
 	Independent from 2016-08-01 until 2016-10-01
 	Cyclad from 2016-10-01 until 2019-07-01
 	PayFit from 2019-07-01
-Atreus-Technologies: Atreus-Technologies!users.noreply.github.com
-	(Robots)
 Atry: atryyang!thoughtworks.com
 	Meta Platforms Inc.
 AtsushiNemoto: atsushi.nemoto!sord.co.jp
@@ -3465,7 +3463,7 @@ BBerastegui: BBerastegui!users.noreply.github.com
 	Independent from 2016-05-01 until 2017-05-01
 	SoNeMo from 2017-05-01 until 2019-08-01
 	King from 2019-08-01
-BBimie: babatolatemi!gmail.com
+BBimie: BBimie!users.noreply.github.com, babatolatemi!gmail.com
 	Independent until 2018-07-01
 	NACETEM from 2018-07-01 until 2018-09-01
 	Independent from 2018-09-01 until 2020-07-01
@@ -3739,7 +3737,7 @@ BenHizak: BenHizak!users.noreply.github.com, ben!cherre.com
 	Cherre from 2016-06-01
 BenKnigge: Ben!Heptec.com, BenKnigge!users.noreply.github.com
 	Independent
-BenLloydPearson: pearsoben!gmail.com
+BenLloydPearson: BenLloydPearson!users.noreply.github.com, pearsoben!gmail.com
 	Samsung Electronics Co. Ltd. until 2018-04-01
 	Verizon Media from 2018-04-01 until 2019-06-01
 	Lead from 2019-06-01 until 2021-04-01
@@ -6368,7 +6366,7 @@ DavidSpek: DavidSpek!users.noreply.github.com
 	Plural from 2021-08-01
 DavidSpinadel: david.spinadel!intel.com
 	Intel Corporation
-DavidStaheli: dastahel!microsoft.com
+DavidStaheli: DavidStaheli!users.noreply.github.com, dastahel!microsoft.com
 	Microsoft Corporation
 DavidTanner: darthtanner!gmail.com
 	Advanced Micro Devices (AMD) until 2014-06-01
@@ -10220,7 +10218,7 @@ IdahoPL: IdahoPL!users.noreply.github.com, lukasz!wasikowski.net
 	InitZero from 2018-01-01
 IdanAdar: IdanAdar!users.noreply.github.com
 	International Business Machines Corporation
-IdanAtzmon: idan.atzmon!checkmarx.com
+IdanAtzmon: IdanAtzmon!users.noreply.github.com, idan.atzmon!checkmarx.com
 	Independent until 2016-10-01
 	Checkmarx from 2016-10-01
 Idanva7: vaytzman!hpe.com
@@ -12939,7 +12937,7 @@ KiranPadwal: kiran.padwal!smartplayin.com, kiran.padwal21!gmail.com
 	Qualcomm from 2014-02-01 until 2015-02-01
 	Microsemi A/S from 2015-02-01 until 2016-04-01
 	NVIDIA Corporation from 2016-04-01
-KiranSatyaRaj: kiranjamy20021508!gmail.com
+KiranSatyaRaj: KiranSatyaRaj!users.noreply.github.com, kiranjamy20021508!gmail.com
 	Independent
 Kiranmoka: kiran29.moka!gmail.com
 	Independent until 2015-09-01
@@ -21712,7 +21710,7 @@ Sryther: Sryther!users.noreply.github.com
 	Paul Rey from 2016-01-01 until 2017-01-01
 	Intent from 2017-01-01 until 2017-10-01
 	Iterop from 2017-10-01
-StKlug: stefan!123-edv.de
+StKlug: StKlug!users.noreply.github.com, stefan!123-edv.de
 	Basler AG
 StackScribe: DreidelLhasa!yahoo.com, StackScribe!users.noreply.github.com
 	Mirantis until 2015-02-01
@@ -23854,11 +23852,3 @@ VerosK: VerosK!users.noreply.github.com
 	Inuits until 2016-12-01
 	Independent from 2016-12-01 until 2018-01-01
 	wf tech from 2018-01-01
-VerstraeteBert: VerstraeteBert!users.noreply.github.com, bertverstraete22!gmail.com
-	Teamleader CRM until 2018-02-01
-	Independent from 2018-02-01 until 2018-06-01
-	CodeFever from 2018-06-01 until 2018-12-01
-	Independent from 2018-12-01 until 2019-02-01
-	DoubleVerify from 2019-02-01 until 2019-08-01
-	Independent from 2019-08-01 until 2022-02-01
-	Cognite from 2022-02-01

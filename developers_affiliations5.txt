@@ -5,6 +5,33 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+laozc: Zhongcheng.Lao!microsoft.com, laozc!users.noreply.github.com, laozhongcheng!gmail.com
+	Dynatrace LLC until 2014-07-01
+	VMware Inc. from 2014-07-01 until 2018-12-01
+	Microsoft Corporation from 2018-12-01
+laperie: andrei.laperie!intel.com, laperie!users.noreply.github.com
+	Intel Corporation
+laramiel: laramiel!users.noreply.github.com
+	Google LLC
+lareeth: gareth.luckett!gmail.com, lareeth!users.noreply.github.com
+	Reckitt Benckiser (North America) Inc.
+larham: larham!users.noreply.github.com
+	VMware Inc.
+larhauga: larhauga!users.noreply.github.com
+	Experis until 2014-09-01
+	SpareBank from 2014-09-01
+larivierec: lariviere.c!gmail.com, larivierec!users.noreply.github.com
+	Independent until 2015-01-01
+	Triotech from 2015-01-01 until 2015-04-01
+	IntelliCloud from 2015-04-01 until 2015-07-01
+	Independent from 2015-07-01 until 2016-01-01
+	CAE from 2016-01-01 until 2017-07-01
+	Kinova from 2017-07-01 until 2019-04-01
+	Stingray from 2019-04-01
+larkinscarvalho: larkins.l.carvalho!intel.com
+	Intel Corporation
+larkinscott: larkinscott!users.noreply.github.com, scott!codeclimate.com
+	Code Climate
 larmog: larmog!users.noreply.github.com, lars.mogren!gmail.com
 	TheNatureOfSoftware
 larntz: larntz!users.noreply.github.com
@@ -2757,7 +2784,7 @@ lontis: lontis!users.noreply.github.com, shane.lontis!rsa.com
 	Oracle America Inc. from 2018-03-01
 lookfwd: lookfwd!gmail.com, lookfwd!users.noreply.github.com
 	Bloomberg
-lookis: lookisliu!gmail.com
+lookis: lookis!users.noreply.github.com, lookisliu!gmail.com
 	快手
 lookuptable: ccarver01!gmail.com, lookuptable!users.noreply.github.com, rurabe!gmail.com, thoralf21!gmail.com, yangguan!google.com
 	Google LLC
@@ -18166,7 +18193,7 @@ nicolai86: nicolai86!me.com, nicolai86!users.noreply.github.com
 nicolai92: nicolai92!users.noreply.github.com
 	it-novum until 2018-10-01
 	Lufthansa Industry Solutions from 2018-10-01
-nicolaifsf: nicolaifsf!gmail.com
+nicolaifsf: nicolaifsf!gmail.com, nicolaifsf!users.noreply.github.com
 	Independent until 2016-06-01
 	Yahoo! Inc. from 2016-06-01 until 2016-08-01
 	Independent from 2016-08-01 until 2017-06-01
@@ -21734,7 +21761,7 @@ osela: orsela1!gmail.com, osela!users.noreply.github.com
 	Independent from 2014-01-01 until 2015-01-01
 	CEVA from 2015-01-01 until 2017-01-01
 	NoTraffic from 2017-01-01
-oserna3: serna!elasticbox.com
+oserna3: oserna3!users.noreply.github.com, serna!elasticbox.com
 	ING until 2015-10-01
 	ElasticBox from 2015-10-01
 osery: osery!users.noreply.github.com
@@ -21919,9 +21946,9 @@ out-of-band: collierthescott!gmail.com, out-of-band!users.noreply.github.com
 outcoldman: denis!gladkikh.email, outcoldman!users.noreply.github.com
 	Splunk Inc. until 2017-03-01
 	Stripe Inc. from 2017-03-01
-outconn: outconn!microsoft.com
+outconn: outconn!microsoft.com, outconn!users.noreply.github.com
 	Microsoft Corporation
-outofjungle: venkat.venkataraju!gmail.com
+outofjungle: outofjungle!users.noreply.github.com, venkat.venkataraju!gmail.com
 	Yahoo! Inc. until 2017-04-01
 	Yubico from 2017-04-01 until 2020-01-01
 	Independent from 2020-01-01 until 2020-04-01
@@ -24138,33 +24165,3 @@ petergardfjall: peter.gardfjall.work!gmail.com, petergardfjall!users.noreply.git
 petergrau: petergrau!users.noreply.github.com
 	International Business Machines Corporation until 2018-12-01
 	SDA SE from 2018-12-01
-peterhoneder: peterhoneder!users.noreply.github.com
-	Microsoft Corporation until 2015-09-01
-	Independent from 2015-09-01 until 2017-02-01
-	helloplant from 2017-02-01
-peterhuene: peter!segfault.guru, peterhuene!users.noreply.github.com, phuene!mozilla.com
-	Microsoft Corporation
-peterhurley: peter!hurleysoftware.com
-	Hurley until 2016-01-01
-	Independent from 2016-01-01
-peterj: peter!tetrate.io, peter.jausovec!oracle.com, peter.jausovec!solo.io, peterj!users.noreply.github.com
-	Microsoft Corporation until 2017-12-01
-	Oracle America Inc. from 2017-12-01 until 2021-02-08
-	Tetrate.io from 2021-02-08 until 2022-12-27
-	Solo.io from 2022-12-27
-peterjakobs: peterjakobs!users.noreply.github.com
-	Leonardo SpA
-peterjot: piotrekjasina!gmail.com
-	Independent until 2018-07-01
-	CompuGroup Medical USA from 2018-07-01 until 2018-08-01
-	Britenet from 2018-08-01 until 2018-09-01
-	Independent from 2018-09-01 until 2019-09-01
-	Lingaro from 2019-09-01 until 2020-12-01
-	Ringier Axel Springer Tech from 2020-12-01
-peterleonardlie: peter.leonard!grabtaxi.com
-	Independent until 2015-10-01
-	Wilmar from 2015-10-01 until 2016-06-01
-	Independent from 2016-06-01 until 2018-09-01
-	Digibi from 2018-09-01 until 2019-04-01
-	Cyon from 2019-04-01 until 2022-03-01
-	Grab from 2022-03-01

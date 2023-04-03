@@ -5,6 +5,26 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+gobengo: bengoering!gmail.com, gobengo!users.noreply.github.com
+	Livefyre until 2016-08-01
+	Independent from 2016-08-01 until 2017-01-01
+	Abengoa from 2017-01-01 until 2018-01-01
+	Kaiser Permanente from 2018-01-01
+gobenji: benjamin.poirier!gmail.com
+	SUSE LLC
+gobomb: bombcoder!outlook.com, gobomb!users.noreply.github.com
+	Independent
+gobwas: gobwas!gmail.com, gobwas!users.noreply.github.com
+	Tinkoff Bank until 2015-02-01
+	Moscow Design Bureau - Compas from 2015-02-01 until 2018-04-01
+	YANDEX LLC from 2018-04-01 until 2019-11-01
+	Independent from 2019-11-01 until 2020-01-01
+	Netdata from 2020-01-01 until 2020-08-01
+	Screenleap from 2020-08-01
+gocd-ci-user: gocd-ci-user!users.noreply.github.com, godev+gocd-ci-user!thoughtworks.com
+	ThoughtWorks Inc
+gochist: gochist!gmail.com, gochist!users.noreply.github.com, june.yi!samsung.com
+	Samsung SDS
 goddenrich: goddenrich!users.noreply.github.com
 	Ebico Limited until 2014-12-01
 	Glenmore Gas from 2014-12-01 until 2016-06-01
@@ -12153,7 +12173,7 @@ jfcoz: jfcoz!users.noreply.github.com
 	ENTREPRISE PICHETA from 2018-09-01 until 2020-08-01
 	ENGIE from 2020-08-01 until 2021-02-01
 	Independent from 2021-02-01
-jfdenise: jdenise!redhat.com
+jfdenise: jdenise!redhat.com, jfdenise!users.noreply.github.com
 	Oracle America Inc. until 2016-03-01
 	Red Hat Inc. from 2016-03-01
 jfdumont: jfdumont!users.noreply.github.com
@@ -12278,7 +12298,7 @@ jgarcows: jgarcows!us.ibm.com
 	International Business Machines Corporation
 jgardner04: jgardner04!outlook.com
 	Microsoft Corporation
-jgarverick: josh.garverick!gmail.com
+jgarverick: jgarverick!users.noreply.github.com, josh.garverick!gmail.com
 	Inergex until 2015-09-01
 	Liazon from 2015-09-01 until 2018-05-01
 	Willis from 2018-05-01 until 2018-07-01
@@ -15724,7 +15744,7 @@ josepdcs: josepdcs!users.noreply.github.com
 	atSistemas from 2021-05-01
 joseph-lanoux: joseph-lanoux!users.noreply.github.com, joseph.lanoux!hpe.com
 	HP Inc.
-josephakayesi: josephakayesi!gmail.com
+josephakayesi: josephakayesi!gmail.com, josephakayesi!users.noreply.github.com
 	Independent until 2019-10-01
 	dnar from 2019-10-01 until 2020-12-01
 	Khodo from 2020-12-01 until 2021-09-01
@@ -18953,7 +18973,7 @@ karajas: karajas!microsoft.com, karajas!users.noreply.github.com
 	International Business Machines Corporation until 2014-07-01
 	Independent from 2014-07-01 until 2015-08-01
 	Microsoft Corporation from 2015-08-01
-karamjotsingh: karamjot23singh!gmail.com
+karamjotsingh: karamjot23singh!gmail.com, karamjotsingh!users.noreply.github.com
 	Independent until 2019-01-01
 	Tata from 2019-01-01 until 2019-03-01
 	Training & Placement from 2019-03-01 until 2019-05-01
@@ -20458,7 +20478,7 @@ kevva: kevinmartensson!gmail.com, kevva!users.noreply.github.com
 	Ã…hlÃ©ns AB from 2016-12-01 until 2018-08-01
 	Independent from 2018-08-01 until 2019-05-01
 	Coop Cooperative from 2019-05-01
-kevydotvinu: vinu!gnulinuxmate.com
+kevydotvinu: kevydotvinu!users.noreply.github.com, vinu!gnulinuxmate.com
 	Independent until 2015-01-01
 	Reliance Industries from 2015-01-01 until 2017-08-01
 	Ashtech from 2017-08-01 until 2020-03-01
@@ -21828,8 +21848,6 @@ knatch: knatch!users.noreply.github.com
 	Lean Street from 2018-02-01 until 2018-12-01
 	Independent from 2018-12-01 until 2021-05-01
 	Mindera UK Limited from 2021-05-01
-knative-automation: knative-automation!users.noreply.github.com
-	(Robots)
 knecel: necel93!gmail.com
 	Independent until 2014-07-01
 	Dynatrace LLC from 2014-07-01 until 2016-09-01
@@ -22424,7 +22442,7 @@ kpr6: kpr6!users.noreply.github.com, pranaykarnati006!gmail.com
 	HSBC from 2016-06-01
 kprakasam: kprakasam!users.noreply.github.com
 	eBay Inc.
-kprasadpvv: krishnaprasad.457!gmail.com
+kprasadpvv: kprasadpvv!users.noreply.github.com, krishnaprasad.457!gmail.com
 	ZenQ until 2014-12-10
 	Yahoo! Inc. from 2014-12-10
 kpratyus: kpratyus!cisco.com, kpratyus!users.noreply.github.com
@@ -23330,7 +23348,7 @@ kvaradhan3: kannan!ieee.org, kvaradhan3!users.noreply.github.com
 kvaster: kvaster!users.noreply.github.com
 	Mobicon-Media until 2021-07-01
 	viplay from 2021-07-01
-kvdz: kay20!hotmail.com
+kvdz: kay20!hotmail.com, kvdz!users.noreply.github.com
 	My.com B.V. until 2014-09-01
 	Independent from 2014-09-01 until 2015-09-01
 	Fontys Hogescholen from 2015-09-01 until 2016-09-01
@@ -24052,30 +24070,3 @@ laoar: laoar.shao!gmail.com
 	Juniper Networks Inc. until 2015-11-01
 	Hangzhou Juangua Network Co. Ltd. from 2015-11-01 until 2018-03-01
 	Xiaoju Science Technology (Hong Kong) Limited from 2018-03-01
-laozc: Zhongcheng.Lao!microsoft.com, laozc!users.noreply.github.com, laozhongcheng!gmail.com
-	Dynatrace LLC until 2014-07-01
-	VMware Inc. from 2014-07-01 until 2018-12-01
-	Microsoft Corporation from 2018-12-01
-laperie: andrei.laperie!intel.com, laperie!users.noreply.github.com
-	Intel Corporation
-laramiel: laramiel!users.noreply.github.com
-	Google LLC
-lareeth: gareth.luckett!gmail.com, lareeth!users.noreply.github.com
-	Reckitt Benckiser (North America) Inc.
-larham: larham!users.noreply.github.com
-	VMware Inc.
-larhauga: larhauga!users.noreply.github.com
-	Experis until 2014-09-01
-	SpareBank from 2014-09-01
-larivierec: lariviere.c!gmail.com, larivierec!users.noreply.github.com
-	Independent until 2015-01-01
-	Triotech from 2015-01-01 until 2015-04-01
-	IntelliCloud from 2015-04-01 until 2015-07-01
-	Independent from 2015-07-01 until 2016-01-01
-	CAE from 2016-01-01 until 2017-07-01
-	Kinova from 2017-07-01 until 2019-04-01
-	Stingray from 2019-04-01
-larkinscarvalho: larkins.l.carvalho!intel.com
-	Intel Corporation
-larkinscott: larkinscott!users.noreply.github.com, scott!codeclimate.com
-	Code Climate

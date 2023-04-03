@@ -5,6 +5,14 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+VerstraeteBert: VerstraeteBert!users.noreply.github.com, bertverstraete22!gmail.com
+	Teamleader CRM until 2018-02-01
+	Independent from 2018-02-01 until 2018-06-01
+	CodeFever from 2018-06-01 until 2018-12-01
+	Independent from 2018-12-01 until 2019-02-01
+	DoubleVerify from 2019-02-01 until 2019-08-01
+	Independent from 2019-08-01 until 2022-02-01
+	Cognite from 2022-02-01
 VestigeJ: VestigeJ!users.noreply.github.com
 	Independent until 2015-01-01
 	MavroLabs from 2015-01-01 until 2016-08-01
@@ -1920,7 +1928,7 @@ aalmazanarbs: aalmazanarbs!users.noreply.github.com
 	SilverStorm until 2016-12-01
 	Independent from 2016-12-01 until 2017-02-01
 	Autentia from 2017-02-01
-aalmiray: aalmiray!gmail.com
+aalmiray: aalmiray!gmail.com, aalmiray!users.noreply.github.com
 	Canoo until 2018-04-01
 	Independent from 2018-04-01 until 2018-05-01
 	Trivadis AG from 2018-05-01 until 2018-12-01
@@ -9282,7 +9290,7 @@ ananda1066: ananda1066!users.noreply.github.com
 	HackDavis from 2019-09-01 until 2020-05-01
 	Independent from 2020-05-01 until 2020-07-01
 	Google LLC from 2020-07-01
-anandbhagwat: anandbhagwatt3!gmail.com
+anandbhagwat: anandbhagwat!users.noreply.github.com, anandbhagwatt3!gmail.com
 	Independent until 2015-07-01
 	PTC from 2015-07-01 until 2018-06-01
 	Qualys Inc. from 2018-06-01 until 2018-11-01
@@ -12594,7 +12602,7 @@ arjanschaaf: arjan.schaaf!luminis.eu
 	Luminis
 arjav-desai: arjav-desai!users.noreply.github.com
 	Oracle America Inc.
-arjenzhou: raychou1203!gmail.com
+arjenzhou: arjenzhou!users.noreply.github.com, raychou1203!gmail.com
 	Baidu Online Network Technology (Beijing) Co. Ltd
 arjunagl: arjunagl!users.noreply.github.com
 	Navantis until 2015-12-01
@@ -15951,7 +15959,7 @@ balusarakesh: balusarakesh!users.noreply.github.com
 	nexB from 2015-06-01 until 2016-08-01
 	HeartFlow from 2016-08-01 until 2017-07-01
 	Skillz from 2017-07-01
-bamachrn: bkundu!redhat.com
+bamachrn: bamachrn!users.noreply.github.com, bkundu!redhat.com
 	Cybage until 2016-01-01
 	Red Hat Inc. from 2016-01-01
 bamarni: bamarni!users.noreply.github.com, bilal.amarni!gmail.com
@@ -19852,8 +19860,6 @@ bostrowski13: bostrowski13!users.noreply.github.com
 bostrt: bostrt!users.noreply.github.com
 	ECR Software Corporation until 2014-10-01
 	Red Hat Inc. from 2014-10-01
-bots-business: bots-business!users.noreply.github.com
-	(Robots)
 bottkars: Karsten.Bott!bottnet.de, bottkars!users.noreply.github.com
 	Karsten Bott
 botzill: botzill!users.noreply.github.com
@@ -20597,7 +20603,7 @@ brgl: andrewlague!gmail.com, bartekgola!gmail.com, bgolaszewski!baylibre.com, br
 	BayLibre Inc. from 2017-12-01
 brgoode: brgoode!users.noreply.github.com
 	Cox
-briahi: bacem.riahi!gmail.com
+briahi: bacem.riahi!gmail.com, briahi!users.noreply.github.com
 	Esperance
 brian-avery: bavery!redhat.com, brian-avery!users.noreply.github.com
 	Red Hat Inc.
@@ -23957,14 +23963,3 @@ cfontes: cfontes!users.noreply.github.com
 cfortier2: cfortier2!gmail.com, fortier!behance.com
 	Adobe Inc. until 2015-11-01
 	Two Sigma Investments LP from 2015-11-01
-cfrantsen: cfrantsen!users.noreply.github.com
-	EG Group until 2009-01-01
-	Kjaer Data ApS from 2009-01-01 until 2015-07-01
-	Swire Pacific Offshore Operations Pte Ltd from 2015-07-01
-cfreiner: cfreiner!users.noreply.github.com
-	Concur Technologies Inc.
-cfriedt: cfriedt!users.noreply.github.com, chrisfriedt!gmail.com
-	BlackBerry Limited until 2014-03-01
-	MMB Networks from 2014-03-01 until 2016-12-01
-	Per Vices from 2016-12-01 until 2018-04-01
-	L3 WESCAM from 2018-04-01

@@ -5,6 +5,36 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+peterhoneder: peterhoneder!users.noreply.github.com
+	Microsoft Corporation until 2015-09-01
+	Independent from 2015-09-01 until 2017-02-01
+	helloplant from 2017-02-01
+peterhuene: peter!segfault.guru, peterhuene!users.noreply.github.com, phuene!mozilla.com
+	Microsoft Corporation
+peterhurley: peter!hurleysoftware.com
+	Hurley until 2016-01-01
+	Independent from 2016-01-01
+peterj: peter!tetrate.io, peter.jausovec!oracle.com, peter.jausovec!solo.io, peterj!users.noreply.github.com
+	Microsoft Corporation until 2017-12-01
+	Oracle America Inc. from 2017-12-01 until 2021-02-08
+	Tetrate.io from 2021-02-08 until 2022-12-27
+	Solo.io from 2022-12-27
+peterjakobs: peterjakobs!users.noreply.github.com
+	Leonardo SpA
+peterjot: piotrekjasina!gmail.com
+	Independent until 2018-07-01
+	CompuGroup Medical USA from 2018-07-01 until 2018-08-01
+	Britenet from 2018-08-01 until 2018-09-01
+	Independent from 2018-09-01 until 2019-09-01
+	Lingaro from 2019-09-01 until 2020-12-01
+	Ringier Axel Springer Tech from 2020-12-01
+peterleonardlie: peter.leonard!grabtaxi.com
+	Independent until 2015-10-01
+	Wilmar from 2015-10-01 until 2016-06-01
+	Independent from 2016-06-01 until 2018-09-01
+	Digibi from 2018-09-01 until 2019-04-01
+	Cyon from 2019-04-01 until 2022-03-01
+	Grab from 2022-03-01
 peterloeffler: peter.loeffler!guruz.at, peterloeffler!users.noreply.github.com
 	Independent
 peterloron: peterloron!users.noreply.github.com
@@ -2618,7 +2648,7 @@ prime-zeng: prime.zeng!huawei.com
 primeroz: primeroz!users.noreply.github.com
 	Independent until 2021-01-01
 	InfluxData Inc from 2021-01-01
-prince-chrismc: prince.chrismc!gmail.com
+prince-chrismc: prince-chrismc!users.noreply.github.com, prince.chrismc!gmail.com
 	Independent until 2015-07-01
 	AJW from 2015-07-01 until 2015-08-01
 	Independent from 2015-08-01 until 2015-12-01
@@ -4526,7 +4556,7 @@ ragebflame: dani07!users.noreply.github.com, mail!h3po.de, ragebflame!users.nore
 	FBD Insurance
 raggi: jftucker!gmail.com, raggi!google.com, raggi!users.noreply.github.com
 	Google LLC
-raghavbhatnagar96: raghavbhatnagar96!gmail.com
+raghavbhatnagar96: raghavbhatnagar96!gmail.com, raghavbhatnagar96!users.noreply.github.com
 	Independent until 2017-05-01
 	cloudyboss from 2017-05-01 until 2018-12-01
 	International Business Machines Corporation from 2018-12-01 until 2023-01-01
@@ -6425,7 +6455,7 @@ renatodelgaudio: renatodelgaudio!users.noreply.github.com
 renatoviana12: renatoviana!protonmail.com
 	Independent until 2020-06-01
 	Findster from 2020-06-01
-renaud-vmg: renaud!verizonmedia.com
+renaud-vmg: renaud!verizonmedia.com, renaud-vmg!users.noreply.github.com
 	Ericsson until 2014-09-01
 	Yahoo! Inc. from 2014-09-01 until 2017-10-01
 	Verizon Media from 2017-10-01 until 2021-07-01
@@ -11191,7 +11221,7 @@ safvankothawala: safvankothawala!users.noreply.github.com
 sagar-jadhav: sagar-jadhav!users.noreply.github.com, sagarj.jadhav23!gmail.com, sagarj2!vmware.com
 	Independent until 2020-09-05
 	VMware Inc. from 2020-09-05
-sagar1312: sagar1312!gmail.com
+sagar1312: sagar1312!gmail.com, sagar1312!users.noreply.github.com
 	Yahoo! Inc.
 sagaranand015: sagar.anand!live.in, sagaranand015!users.noreply.github.com
 	Independent until 2017-09-01
@@ -15449,7 +15479,7 @@ shashankram: shashankram!users.noreply.github.com
 	VMware Inc. from 2015-02-01 until 2020-01-01
 	Microsoft Corporation from 2020-01-01 until 2022-12-02
 	Solo.io from 2022-12-02
-shashankrnr32: shashankrnr32!gmail.com
+shashankrnr32: shashankrnr32!gmail.com, shashankrnr32!users.noreply.github.com
 	Independent until 2019-07-01
 	Yahoo! Inc. from 2019-07-01 until 2022-03-01
 	Paytm Labs from 2022-03-01
@@ -22502,14 +22532,14 @@ svarnau: steve.varnau!hp.com
 	HP Inc.
 svasek: milos!svasek.net, svasek!gmail.com
 	Concur Technologies Inc
-svc-automator: molivero!ciginsurance.com
+svc-automator: molivero!ciginsurance.com, svc-automator!users.noreply.github.com
 	Apollo until 2015-10-01
 	GWFathom from 2015-10-01 until 2016-07-01
 	Capital from 2016-07-01 until 2019-08-01
 	Ridgeline from 2019-08-01
 svc-oeg-aws2github: svc-oeg-aws2github!users.noreply.github.com
 	GR
-svcautomator: svcautomator!ciginsurance.com
+svcautomator: svcautomator!ciginsurance.com, svcautomator!users.noreply.github.com
 	//
 sveinpg: sveinpg!users.noreply.github.com
 	Uloba SA until 2016-08-01
@@ -24030,43 +24060,3 @@ taywrobel: taywrobel!github.com
 	GitHub Inc. from 2019-10-01
 tazjin: tazjin!gmail.com, tazjin!users.noreply.github.com
 	Goonswarm
-tb137: tb137!users.noreply.github.com
-	Passion Pictures until 2016-05-01
-	dotmailer from 2016-05-01 until 2017-05-01
-	WorldRemit from 2017-05-01 until 2018-04-01
-	Application from 2018-04-01
-tbachman: tbachman!users.noreply.github.com
-	Cisco
-tback: tback!users.noreply.github.com, till!backha.us
-	Traum-Ferienwohnungen GmbH
-tbarbugli: tbarbugli!gmail.com, tbarbugli!users.noreply.github.com
-	Stream.IO Inc
-tbarker25: tbarker25!users.noreply.github.com
-	Independent until 2015-10-01
-	Attendly from 2015-10-01 until 2016-12-01
-	Independent from 2016-12-01 until 2017-02-01
-	Tabcorp from 2017-02-01 until 2018-02-01
-	Independent from 2018-02-01 until 2018-05-01
-	Google LLC from 2018-05-01
-tbarrella: tbarrella!gmail.com, tbarrella!users.noreply.github.com
-	Independent until 2015-09-01
-	L'Arche Preston from 2015-09-01 until 2016-07-01
-	Independent from 2016-07-01 until 2016-10-01
-	Quora from 2016-10-01
-tbartelmess: tbartelmess!marketcircle.com, tbartelmess!users.noreply.github.com, thomas!bartelmess.io
-	Marketcircle until 2020-08-01
-	Independent from 2020-08-01 until 2021-08-01
-	Apple Inc. from 2021-08-01
-tbasim: tbasim!users.noreply.github.com
-	Wipro until 2014-12-01
-	Aircel cellular from 2014-12-01 until 2016-04-01
-	International Business Machines Corporation from 2016-04-01 until 2020-10-01
-	HCL Technologies Ltd. from 2020-10-01
-tbaums: tbaums!users.noreply.github.com
-	ConnectCubed until 2015-12-01
-	Blink Health from 2015-12-01 until 2016-07-01
-	Hippo from 2016-07-01 until 2018-04-01
-	Independent from 2018-04-01 until 2018-09-01
-	D2iQ Inc. (f/k/a Mesosphere) from 2018-09-01
-tbe: davidrlee!gmail.com, loki!lokis-chaos.de
-	1&1 Telecommunication SE

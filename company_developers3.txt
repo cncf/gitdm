@@ -1145,7 +1145,7 @@ ElasticBox:
 	DiegoSanjuan: diego!elasticbox.com, diegosanjuan!users.noreply.github.com until 2016-06-01
 	hectorj2f: hectorj!gmail.com, hectorj2f!users.noreply.github.com, hfernandez!mesosphere.com until 2015-04-01
 	mattnickles: matt!elasticbox.com, mattnickles!users.noreply.github.com
-	oserna3: serna!elasticbox.com from 2015-10-01
+	oserna3: oserna3!users.noreply.github.com, serna!elasticbox.com from 2015-10-01
 	pascualin: ignacio!elasticbox.com until 2015-10-01
 ElasticHosts Ltd.:
 	OwenTuz: OwenTuz!users.noreply.github.com until 2014-12-01
@@ -2772,7 +2772,7 @@ Ericsson:
 	rchench: rchench!gmail.com, rchench!users.noreply.github.com
 	rcoulson-platina: rob.coulson!gmail.com until 2015-12-01
 	ren-yifei: ren-yifei!users.noreply.github.com from 2017-08-01
-	renaud-vmg: renaud!verizonmedia.com until 2014-09-01
+	renaud-vmg: renaud!verizonmedia.com, renaud-vmg!users.noreply.github.com until 2014-09-01
 	rgunaseknokia: rgunaseknokia!users.noreply.github.com until 2016-09-01
 	rjalander: rjalander!users.noreply.github.com from 2021-12-01
 	rob-ward: robert.ward114!googlemail.com until 2018-03-01
@@ -2900,7 +2900,7 @@ Esono AG:
 Esperado Media AB:
 	zimme: simon+github!fridlund.email, zimme!users.noreply.github.com until 2014-11-01
 Esperance:
-	briahi: bacem.riahi!gmail.com
+	briahi: bacem.riahi!gmail.com, briahi!users.noreply.github.com
 Esperanto:
 	Hopobcn: Hopobcn!users.noreply.github.com from 2020-09-01
 Esperanto Technologies Inc.:
@@ -6093,7 +6093,7 @@ Fonticons:
 Fontself ·:
 	Jolg42: Jolg42!users.noreply.github.com from 2015-11-01 until 2019-11-01
 Fontys Hogescholen:
-	kvdz: kay20!hotmail.com from 2015-09-01 until 2016-09-01
+	kvdz: kay20!hotmail.com, kvdz!users.noreply.github.com from 2015-09-01 until 2016-09-01
 Foo Experience:
 	pwaller: p!pwaller.net, pwaller!users.noreply.github.com
 Food Alert:
@@ -6789,7 +6789,7 @@ Freshworks Technologies Pvt. Ltd.:
 	abhargava7: arpit.bhargava!freshworks.com from 2021-09-01
 	adhithyasrinivasan: adhithyasrinivasan!gmail.com, adhithyasrinivasan!users.noreply.github.com from 2019-08-01
 	anandfresh: anandajith!gmail.com from 2018-12-01 until 2021-03-01
-	karamjotsingh: karamjot23singh!gmail.com from 2022-07-01
+	karamjotsingh: karamjot23singh!gmail.com, karamjotsingh!users.noreply.github.com from 2022-07-01
 	ksashikumar: ksashikumar!users.noreply.github.com from 2016-02-01 until 2018-04-01
 	lvijay: laksvij!hawk.iit.edu, lvijay!users.noreply.github.com from 2018-02-01
 	nandu-vinodan: nandu-vinodan!users.noreply.github.com from 2019-09-01
@@ -7018,7 +7018,7 @@ Fujitsu Limited:
 	duanjiong: cardinal.dorian!gmail.com, djduanjiong!gmail.com, duanjiong!users.noreply.github.com, gerges.beshay!gmail.com
 	f-higashi: f-higashi!users.noreply.github.com, higashi.isao!jp.fujitsu.com
 	fatmcgav: fatmcgav!gmail.com, fatmcgav!users.noreply.github.com until 2018-05-01
-	fishseabowl: xuefeih!jfrog.com from 2018-01-01 until 2018-03-01
+	fishseabowl: fishseabowl!users.noreply.github.com, xuefeih!jfrog.com from 2018-01-01 until 2018-03-01
 	floreks: floreks!users.noreply.github.com, madewokherd!gmail.com, s.florek91!gmail.com, sebastian.florek!loodse.com, sebastian.florek!ts.fujitsu.com from 2015-04-15 until 2018-11-01
 	furukawa3: furukawa3!users.noreply.github.com
 	fwalker: florian.walker!est.fujitsu.com, fwalker!users.noreply.github.com
@@ -7851,7 +7851,7 @@ GOJEK:
 	ajatprabha: ajat.prabha.leo!gmail.com, ajatprabha!users.noreply.github.com from 2018-05-01 until 2018-06-01, from 2019-05-01 until 2019-07-01
 	akhy: akhy!chickenzord.com, akhy!users.noreply.github.com from 2018-12-01
 	anagri: anagri!users.noreply.github.com from 2015-12-01
-	anandbhagwat: anandbhagwatt3!gmail.com from 2019-01-01 until 2021-01-01
+	anandbhagwat: anandbhagwat!users.noreply.github.com, anandbhagwatt3!gmail.com from 2019-01-01 until 2021-01-01
 	ariefrahmansyah: ariefrahmansyah!hotmail.com, ariefrahmansyah!users.noreply.github.com from 2018-05-01
 	deryrahman: dery.ra!gmail.com
 	ecojuntak: ecojuntak!gmail.com, ecojuntak!users.noreply.github.com
@@ -8059,7 +8059,7 @@ GVT:
 GWCloud:
 	felpasl: felipe.lambert!outlook.com, felpasl!users.noreply.github.com from 2016-03-01
 GWFathom:
-	svc-automator: molivero!ciginsurance.com from 2015-10-01 until 2016-07-01
+	svc-automator: molivero!ciginsurance.com, svc-automator!users.noreply.github.com from 2015-10-01 until 2016-07-01
 GWI:
 	jancespivo: jancespivo!users.noreply.github.com from 2019-12-01
 	janschauta: janschauta!users.noreply.github.com from 2019-04-01
@@ -9712,9 +9712,9 @@ Gluo NV:
 Gluon:
 	johanvos: johan!lodgon.com, johanvos!users.noreply.github.com from 2015-01-01
 	jperedadnr: jperedadnr!users.noreply.github.com from 2015-07-01
-	tiainen: joeri!sertik.net from 2015-01-01
+	tiainen: joeri!sertik.net, tiainen!users.noreply.github.com from 2015-01-01
 Gluon HQ:
-	erwin1: erwin!lodgon.com from 2015-01-01
+	erwin1: erwin!lodgon.com, erwin1!users.noreply.github.com from 2015-01-01
 GlutenFree Box:
 	rafaeljesus: rafaeljesus!users.noreply.github.com, rafaelljesus86!gmail.com from 2016-03-01 until 2016-06-01
 Glutyfree:
@@ -13104,7 +13104,7 @@ Gradeup:
 Gradient:
 	BlueHatbRit: bluehatbrit!users.noreply.github.com, elliot.blackburn!gmail.com from 2017-01-01 until 2018-11-01
 Gradle:
-	aalmiray: aalmiray!gmail.com from 2018-12-01 until 2019-06-01
+	aalmiray: aalmiray!gmail.com, aalmiray!users.noreply.github.com from 2018-12-01 until 2019-06-01
 	aknuds1: aknuds1!users.noreply.github.com, arve.knudsen!gmail.com from 2014-12-01 until 2015-08-01
 	britter: beneritter!gmail.com, britter!apache.org, britter!users.noreply.github.com from 2019-01-01
 	davinkevin: davin.kevin!gmail.com, davinkevin!users.noreply.github.com from 2021-10-01
@@ -13654,7 +13654,7 @@ Groove:
 	GrooveCS: GrooveCS!users.noreply.github.com until 2019-08-01
 	jscheel: jscheel!users.noreply.github.com from 2015-11-01
 	salbertson: ascottalbertson!gmail.com, salbertson!users.noreply.github.com from 2017-04-01 until 2017-12-01
-	vancanhuit: vancanhuit!gmail.com from 2017-06-01 until 2017-08-01
+	vancanhuit: vancanhuit!gmail.com, vancanhuit!users.noreply.github.com from 2017-06-01 until 2017-08-01
 Groove X:
 	atotto: ato.araki!gmail.com, atotto!users.noreply.github.com
 GroovePacker:
@@ -15097,7 +15097,7 @@ Haltian:
 Halyk Bank:
 	ArtyomTurkin: ArtyomTurkin!users.noreply.github.com
 Hamagami/Carroll:
-	chasturansky: chas!turansky.net from 2016-01-01 until 2016-06-01
+	chasturansky: chas!turansky.net, chasturansky!users.noreply.github.com from 2016-01-01 until 2016-06-01
 Hamburg Süd:
 	schoki040: schoki040!users.noreply.github.com from 2019-10-01
 Hamburger:
@@ -15119,7 +15119,7 @@ Hammerhead:
 Hammerspace:
 	trondmy: trondmy!gmail.com from 2018-02-01
 Hamoye:
-	BBimie: babatolatemi!gmail.com from 2020-07-01 until 2020-12-01
+	BBimie: BBimie!users.noreply.github.com, babatolatemi!gmail.com from 2020-07-01 until 2020-12-01
 Hamravesh:
 	SeMeKh: SeMeKh!users.noreply.github.com, semekh!hamravesh.com, semekh.dev!gmail.com from 2016-12-01
 	bbkgh: bbkgh!users.noreply.github.com, bbkghadiri6!gmail.com from 2018-07-01
@@ -16079,214 +16079,3 @@ Hevo:
 	sar009: sarad.mohanan!gmail.com from 2017-04-01
 Hevo Data:
 	pavan-kalyan: damalapati.pavan!gmail.com from 2020-01-01
-Hewlett:
-	AlexDHoffer: AlexDHoffer!users.noreply.github.com, alexdchoffer!gmail.com from 2017-06-01 until 2019-09-01
-	Aminechakr: Aminechakr!users.noreply.github.com until 2015-10-01
-	BlaineEXE: BlaineEXE!users.noreply.github.com, blaine.gardner!suse.com from 2014-07-01 until 2016-10-01
-	Dar13: dar13.dev!gmail.com until 2015-02-01
-	DerrickMartinez: DerrickMartinez!users.noreply.github.com from 2015-08-01 until 2016-10-01
-	FeynmanZhou: FeynmanZhou!users.noreply.github.com, pengfeizhou!yunify.com from 2016-03-01 until 2017-04-01
-	FlorianOtel: FlorianOtel!users.noreply.github.com, florian.otel!gmail.com until 2014-04-01
-	ForestCold: ForestCold!users.noreply.github.com, hanfeil!google.com from 2015-07-01 until 2016-01-01
-	GheRivero: GheRivero!users.noreply.github.com, ghe.rivero!gmail.com until 2017-09-01
-	HarryStericker: HarryStericker!users.noreply.github.com, hstericker!gmail.com from 2016-06-01 until 2017-03-01
-	IMOKURI: IMOKURI!users.noreply.github.com
-	J-Liu: proljc!gmail.com
-	JungukCho: JungukCho!users.noreply.github.com from 2018-10-01 until 2021-02-01
-	Kelsey-S: skunberg.kelsey!gmail.com from 2018-06-01 until 2019-06-01
-	LCaparelli: LCaparelli!users.noreply.github.com from 2015-07-01 until 2016-03-01
-	LenutaToderean: LenutaToderean!users.noreply.github.com from 2016-06-01 until 2017-09-01
-	Lukasa: Lukasa!users.noreply.github.com, cory!lukasa.co.uk, lukasaoz!gmail.com from 2015-08-01 until 2017-08-01
-	MrAmbiG: MrAmbiG!users.noreply.github.com until 2014-10-01
-	Parvathy-Geetha: Parvathy-Geetha!users.noreply.github.com, pgeetha!andrew.cmu.edu from 2015-08-01 until 2017-07-01
-	Rajalakshmi-Girish: Rajalakshmi-Girish!users.noreply.github.com from 2015-11-01
-	Rami-Y: Rami-Y!users.noreply.github.com from 2015-11-01
-	Ramyrus19: Ramyrus19!users.noreply.github.com from 2015-11-01
-	RevathiNeminathan: RevathiNeminathan!users.noreply.github.com until 2016-08-01
-	SeanWallace: SeanWallace!gmail.com from 2020-01-01
-	Srivaralakshmi: srr!redhat.com from 2018-04-01 until 2020-11-01
-	TDabasinskas: TDabasinskas!users.noreply.github.com until 2016-05-01
-	ToruMakabe: ToruMakabe!users.noreply.github.com until 2015-09-01
-	VIjayHP: VIjayHP!users.noreply.github.com, vijaykumaar.hp!gmail.com from 2015-12-01 until 2018-04-01
-	Xtigyro: Xtigyro!users.noreply.github.com, miroslav.hadzhiev!gmail.com until 2016-07-01
-	YangJiao0817: YangJiao0817!users.noreply.github.com
-	aamirmalek: mr.aamirmalek!gmail.com from 2015-10-01 until 2017-02-01
-	aamonten: aamonten!users.noreply.github.com until 2015-10-01
-	adamdmharvey: adam.harvey!dxc.com, adamdmharvey!users.noreply.github.com until 2017-03-01
-	airwalk-mj: airwalk-mj!users.noreply.github.com until 2016-04-01
-	ajaykathat: ajay.kathat!microchip.com until 2015-05-01
-	alexandrealvino: alexandrealvino!users.noreply.github.com from 2021-05-01
-	alexh-sauce: alexh-sauce!users.noreply.github.com from 2015-08-01 until 2017-02-01
-	alezzandro: alezzandro!gmail.com, alezzandro!users.noreply.github.com until 2015-04-01
-	algebrajones: algebrajones!users.noreply.github.com from 2015-09-01 until 2017-01-01
-	alokmaurya88: alokmaurya88!users.noreply.github.com until 2017-10-01
-	amitbet: amit.bet!gmail.com until 2017-10-01
-	amitkrout: amit.silicon2008!gmail.com, amitkrout!users.noreply.github.com until 2016-04-01
-	angegar: angegar!users.noreply.github.com until 2017-04-01
-	anithashok1910: anith.ashok1910!gmail.com from 2019-06-01
-	annerajb: annerajb!users.noreply.github.com until 2017-05-01
-	arneluehrs: arneluehrs!users.noreply.github.com
-	arunabhabanerjee: arunabhabanerjee!users.noreply.github.com from 2015-05-01
-	asafyish: asafyish!users.noreply.github.com until 2014-05-01
-	ash13: ashvinivaratharaj!gmail.com, me!daannijkamp.com from 2015-08-01 until 2016-09-01
-	aswinsuryan: asuryana!redhat.com, aswinsuryan!users.noreply.github.com from 2015-02-01 until 2016-05-01
-	awalker125: awalker125!users.noreply.github.com until 2017-05-01
-	balamuru: balamuru!users.noreply.github.com from 2019-07-01
-	balonik: balonik!users.noreply.github.com until 2017-04-01
-	bgutjahr: bgutjahr!users.noreply.github.com from 2015-10-01 until 2017-08-01
-	binc75: binc75!users.noreply.github.com from 2022-01-01
-	brentpetit-hpe: brentpetit-hpe!users.noreply.github.com from 2016-12-01
-	brooksgarrett: brooks!respond-software.com, brooksgarrett!users.noreply.github.com until 2017-07-01
-	btat: btat!users.noreply.github.com from 2015-08-01 until 2016-11-01
-	buzzerpuzzle: buzzerpuzzle!users.noreply.github.com from 2015-08-01 until 2018-07-01
-	carabasdaniel: carabasdaniel!users.noreply.github.com from 2015-01-01 until 2018-05-01
-	cdvultur: cdvultur!users.noreply.github.com until 2017-08-01
-	chinochao: chinochao!users.noreply.github.com from 2014-12-01 until 2017-10-01
-	clarktlaugh: clarktlaugh!users.noreply.github.com
-	clarshad: clarshad!users.noreply.github.com until 2014-12-01
-	clsacramento: clsacramento!gmail.com, clsacramento!users.noreply.github.com from 2016-02-01 until 2018-02-01
-	coreypobrien: corey!fairwinds.com, corey!reactiveops.com, coreypobrien!gmail.com, coreypobrien!users.noreply.github.com until 2014-07-01
-	danielpacak: danielpacak!users.noreply.github.com, pacak.daniel!gmail.com from 2016-05-01 until 2016-11-01
-	danpopSD: danpopSD!users.noreply.github.com from 2015-05-01 until 2016-10-01
-	davidharkis: davidharkis!users.noreply.github.com until 2015-06-01
-	dfeldman: dfeldman!users.noreply.github.com, dfeldman.mn!gmail.com from 2020-02-01
-	dlabaj: dlabaj!redhat.com, dlabaj!users.noreply.github.com from 2017-11-01 until 2018-07-01
-	dlom: mold!redhat.com from 2016-05-01 until 2016-08-01
-	dloucasfx: dloucasfx!users.noreply.github.com from 2015-11-01 until 2017-10-01
-	dmesser: dmesser!redhat.com, dmesser!users.noreply.github.com until 2014-05-01
-	dsanchor: dsanchor!users.noreply.github.com until 2016-04-01
-	dynamicmindset: dynamicmindset!users.noreply.github.com until 2016-05-01
-	ebyhr: ebyhr!users.noreply.github.com, ebyhry!gmail.com until 2016-09-01
-	esweiss: esweiss!users.noreply.github.com, eugene.weiss!hpe.com from 2020-03-01
-	ezean21: ezean21!users.noreply.github.com until 2015-02-01
-	falsyvalues: falsyvalues!users.noreply.github.com, mylith!gmail.com from 2015-10-01 until 2017-03-01
-	fbcbarbosa: fbcbarbosa!gmail.com, fbcbarbosa!users.noreply.github.com until 2017-06-01
-	fhartwig: florian.j.hartwig!gmail.com until 2016-10-01
-	florindragos: florindragos!users.noreply.github.com from 2015-01-01 until 2018-05-01
-	font: font!users.noreply.github.com, ifont!redhat.com until 2016-04-01
-	gertd: gertd!users.noreply.github.com until 2016-12-01
-	gokhankocak: gokhan.kocak!mail.ru, gokhankocak!users.noreply.github.com until 2014-09-01
-	hawksight: hawksight!users.noreply.github.com until 2016-10-01
-	hblixt: hblixt!users.noreply.github.com until 2017-05-01
-	her001: aconrad103!gmail.com until 2016-10-01
-	hupiper: mdunnett!redhat.com until 2018-09-01
-	inductor: inductor!users.noreply.github.com from 2020-03-01
-	is-ashish: ashishjainjnp18!gmail.com from 2016-05-01 until 2016-07-01
-	itaytalmi: itaytalmi!users.noreply.github.com from 2017-08-01 until 2020-09-01
-	jack0: jack.li!clarifai.com, jack0!users.noreply.github.com until 2016-01-01
-	jchenry: jchenry!users.noreply.github.com from 2014-10-01 until 2016-06-01
-	jeffkight: jeffkight!users.noreply.github.com
-	jesseolsen: jesseolsen!users.noreply.github.com
-	jiezhang: jiezhang!users.noreply.github.com until 2015-05-01
-	jimcurtis: jim.curtis!redhat.com until 2015-06-01
-	jkraj: jkraj!users.noreply.github.com until 2017-12-01
-	jmalvarezf-lmes: jmalvarezf-lmes!users.noreply.github.com from 2016-03-01 until 2016-12-01
-	jufantozzi: jufantozzi!users.noreply.github.com, juliano.fantozzi!hpe.com from 2021-05-01
-	jzyeezy: jzyeezy!users.noreply.github.com until 2015-11-01
-	kaitoii11: kaitoii11!users.noreply.github.com, kaitoii1111!gmail.com
-	karthiknannapaneni: karthiknannapaneni!users.noreply.github.com from 2020-01-01
-	kirankumar-mahi: kirankumar.mahi!gmail.com from 2019-11-01
-	kishorerj: kishorerj!users.noreply.github.com until 2019-11-01
-	kitos9112: kitos9112!users.noreply.github.com from 2018-03-01 until 2019-05-01
-	knee-berts: knee-berts!users.noreply.github.com until 2014-03-01
-	kraai: kraai!ftbfs.org, kraai!users.noreply.github.com until 2016-04-01
-	krish512: krish512!users.noreply.github.com until 2015-06-01
-	kumaya: makumar!infoblox.com from 2015-10-01 until 2016-05-01
-	kutsav: kutsav!users.noreply.github.com from 2015-10-01 until 2017-04-01
-	llegolas: llegolas!users.noreply.github.com until 2017-01-01
-	lpegoraro: pegorarohluiz!gmail.com until 2014-08-01
-	lreuven: lreuven!users.noreply.github.com until 2015-10-01
-	m-seldin: m-seldin!users.noreply.github.com, michael.seldin!hpe.com until 2018-12-01
-	maciej-karas-form3: maciej-karas-form3!users.noreply.github.com until 2015-03-01
-	manjunath-batakurki: manjunath-batakurki!users.noreply.github.com from 2017-04-01
-	mariobris: mariobris!users.noreply.github.com from 2014-12-01 until 2016-05-01
-	mariuskiessling: mariuskiessling!users.noreply.github.com, vcs!mariuskiessling.de from 2016-09-01 until 2019-11-01
-	markstur: mark.sturdevant!ibm.com until 2016-01-01
-	masstamike: masstamike!users.noreply.github.com until 2014-12-01
-	melnikalex: melnikal!amazon.com, melnikalex!users.noreply.github.com from 2016-07-01 until 2017-03-01
-	mem: marcelo.magallon!gmail.com until 2019-02-01
-	migounette: antmatr!yandex.ru, migounette!users.noreply.github.com from 2020-03-01
-	mike-dunn: mikedunn!newsguy.com until 2015-05-01
-	mike-geiger: mike-geiger!users.noreply.github.com from 2015-10-01 until 2017-03-01
-	mkissam: marton.kiss!gmail.com from 2014-09-01 until 2017-09-01
-	mmisztal1980: mmisztal1980!users.noreply.github.com until 2014-09-01
-	movergan: movergan!users.noreply.github.com from 2016-03-01 until 2016-11-01
-	mrcdb: mrcdb!users.noreply.github.com from 2018-10-01 until 2018-12-01
-	mturley: mike.turley!alum.cs.umass.edu from 2015-02-01 until 2017-11-01
-	muratkars: murat!mayadata.io, murat!openebs.io, muratkars!users.noreply.github.com, muratkarslioglu!gmail.com from 2015-05-01 until 2017-09-01
-	neilalexander: neilalexander!users.noreply.github.com from 2015-11-01 until 2017-04-01
-	neilgierman: neil.gierman!hpe.com
-	nicolas-marcq: nicolas-marcq!users.noreply.github.com from 2020-05-01
-	nimish22: nimish22!users.noreply.github.com until 2015-07-01
-	nwright-nz: nwright-nz!users.noreply.github.com from 2014-12-01 until 2017-04-01
-	ogazitt: ogazitt!gmail.com, ogazitt!users.noreply.github.com until 2016-11-01
-	ojacques: ojacques!users.noreply.github.com, olivier.jacques!dxc.com until 2017-04-01
-	paragw: parag.lkml!gmail.com
-	paulcarlton-ww: paul.carlton!weave.works, paulcarlton-ww!users.noreply.github.com from 2016-10-01 until 2019-10-01
-	paulopontesm: paulo.pontes.m!gmail.com, paulopontesm!users.noreply.github.com from 2014-09-01 until 2016-06-01
-	pavan2004it: pavan2004it!users.noreply.github.com until 2014-09-01
-	pedroarthur: pedroarthur!users.noreply.github.com from 2015-08-01 until 2021-06-01
-	peterducai: peterducai!users.noreply.github.com from 2015-05-01 until 2017-05-01
-	phelinor: gera.glez!gmail.com until 2017-04-01
-	philwhln: philwhln!users.noreply.github.com from 2015-08-01 until 2015-10-01
-	povsister: pov!mahou-shoujo.moe
-	prasek: prasek!users.noreply.github.com until 2015-10-01
-	prashantokochavara: prashantokochavara!users.noreply.github.com from 2017-02-01 until 2020-03-01
-	proffalken: matt!mockingbirdconsulting.co.uk, proffalken!users.noreply.github.com until 2014-10-01
-	pwntester: alvaro!pwntester.com from 2015-11-01 until 2017-09-01
-	ragashreeshekar: ragashreeshekar!gmail.com, ragashreeshekar!users.noreply.github.com from 2018-08-01 until 2020-10-01
-	ramineni: anusha.iiitm!gmail.com, anusha.ramineni!india.nec.com, ramineni!users.noreply.github.com, raminenia!vmware.com until 2015-07-01
-	reikani: harshkumar1!gmail.com, reikani!users.noreply.github.com until 2016-10-01
-	rktidwell: rktidwell!users.noreply.github.com, rtidwell!suse.com from 2014-08-01 until 2017-01-01
-	rockholla: rockholla!users.noreply.github.com from 2021-01-01 until 2021-03-01
-	rv-silva: rv-silva!users.noreply.github.com until 2016-09-01
-	ryancblack: ryanblack!gmail.com until 2016-09-01
-	saiyam1814: saiyam1814!users.noreply.github.com, saiyam911!gmail.com from 2015-01-01 until 2017-03-01
-	samarvin: samarvin!users.noreply.github.com from 2014-11-01 until 2015-01-01
-	samascience: samascience!users.noreply.github.com until 2016-11-01
-	sathiya-mit: sanarayanan!paypal.com from 2015-07-01 until 2018-04-01
-	saumoh: saumoh!users.noreply.github.com from 2018-10-01
-	sbonds: 7qmx4hzhrw!snkmail.com until 2017-04-01
-	schen1: sylvain.chen1!gmail.com from 2016-02-01 until 2017-08-01
-	sergei-utinski: sergei-utinski!users.noreply.github.com
-	serngawy: m.elserngawy!gmail.com, serngawy!users.noreply.github.com from 2019-04-01 until 2020-11-01
-	sgloutnikov: stefan!gloutnikov.com until 2015-12-01
-	sharon-vendrov: sharon-vendrov!users.noreply.github.com, sharonv!perion.com from 2016-03-01 until 2018-05-01
-	sheshankgujjari: sheshankgujjari!users.noreply.github.com until 2015-10-01
-	shivamerla: shivakrishna.merla!hpe.com, shivamerla!users.noreply.github.com from 2017-06-01
-	shouri007: shouri.piratla9!gmail.com from 2016-05-01 until 2016-06-01
-	shreesha21: shreesha!rancher.com, shreesha21!users.noreply.github.com from 2015-03-01 until 2019-02-01
-	sirianni: sirianni!users.noreply.github.com from 2017-04-01 until 2018-10-01
-	sol-lee: sol-lee!users.noreply.github.com until 2017-03-01
-	soninob: soninob!users.noreply.github.com from 2014-02-01 until 2017-02-01
-	soumynathan: SVasudevan!suse.com from 2015-11-01 until 2017-03-01
-	spradeepv: spradeepv!users.noreply.github.com from 2016-05-01
-	srinathhs: srinath.hs!Bankbazaar.com until 2017-09-01
-	sriramss: sriram0296!gmail.com
-	ssdowd: ssdowd!users.noreply.github.com until 2015-05-01
-	stunn3r: stunn3r!users.noreply.github.com from 2016-10-01 until 2018-02-01
-	tardigummie: justin!jvreeland.com from 2015-10-01 until 2017-01-01
-	tdabasinskas: tomas!dabasinskas.net until 2016-05-01
-	tech-geek29: tech-geek29!users.noreply.github.com from 2016-06-01 until 2016-08-01
-	thebsdbox: dan!thebsdbox.co.uk, thebsdbox!users.noreply.github.com from 2014-06-01 until 2017-06-01
-	theodor2311: theodor2311!users.noreply.github.com from 2016-03-01 until 2017-03-01
-	thoslin: lintao.im!gmail.com, thoslin!users.noreply.github.com until 2015-10-01
-	tlwu2013: tony.wu!redhat.com from 2016-09-01 until 2016-12-01
-	tommysitu: tommy.situ!specto.io, tommy_situ!hotmail.com, tommysitu!users.noreply.github.com until 2014-07-01
-	userravs: userravs!users.noreply.github.com from 2016-01-01 until 2017-01-01
-	utahcon: utahcon!users.noreply.github.com from 2016-10-01
-	vbichov: vbichov!users.noreply.github.com
-	victorkirov: victorkirov!users.noreply.github.com from 2016-12-01 until 2017-05-01, from 2018-03-01 until 2020-11-01
-	vidhut-singh: vidhut-singh!users.noreply.github.com from 2018-03-01 until 2022-03-01
-	viniciusfs: viniciusfs!gmail.com until 2015-10-01
-	viovanov: viovanov!users.noreply.github.com from 2016-01-01 until 2021-01-01
-	vkravets: vkravets!users.noreply.github.com, vova.kravets!gmail.com until 2014-10-01
-	vranystepan: vrany.stepan!gmail.com, vranystepan!users.noreply.github.com until 2017-12-01
-	vthapar: vthapar!users.noreply.github.com until 2014-08-01
-	wangchunyang: wangchunyang!gmail.com until 2017-02-01
-	yasensim: yasensim!gmail.com, yasensim!users.noreply.github.com until 2014-09-01
-	youwalther65: youwalther65!users.noreply.github.com until 2016-07-01
-	yrobla: yrobla!users.noreply.github.com from 2014-12-01 until 2016-06-01
-	yuanchen8911: yuanchen8911!users.noreply.github.com, yuanchen97!gmail.com from 2015-12-01 until 2017-12-01
-Hewlett P:
-	rajeshnayakmdCCD: rajeshnayakmdCCD!users.noreply.github.com from 2020-03-01 until 2021-05-01

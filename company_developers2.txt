@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Byte B.V.:
+	Sjord: sjoerd-github!linuxonly.nl until 2016-03-01
+	fliphess: fliphess!users.noreply.github.com until 2017-08-01
+	zoni: nick!groenen.me from 2014-11-01 until 2017-01-01
 Byte-Code:
 	alessandroargentieri: alessandroargentieri!users.noreply.github.com from 2017-07-01 until 2019-10-01
 	alex: alex!users.noreply.github.com from 2017-07-01 until 2019-10-01
@@ -2078,7 +2082,7 @@ Canonical Ltd.:
 Canoniq:
 	joshprice: josh!alembic.com.au, josh!canoniq.com until 2017-02-01
 Canoo:
-	aalmiray: aalmiray!gmail.com until 2018-04-01
+	aalmiray: aalmiray!gmail.com, aalmiray!users.noreply.github.com until 2018-04-01
 Canoo Engineering:
 	hendrikebbers: hendrik.ebbers!web.de, hendrikebbers!users.noreply.github.com from 2014-08-01 until 2018-04-01
 Canopy:
@@ -2305,7 +2309,7 @@ Capital:
 	jesselpalmer: jesse.l.palmer!gmail.com, jesselpalmer!gmail.com, jesselpalmer!users.noreply.github.com from 2015-12-01 until 2018-06-01
 	ms8527: ms8527!nyu.edu from 2018-03-01 until 2019-03-01
 	saiteja313: saiteja313!users.noreply.github.com from 2016-03-01 until 2019-10-01
-	svc-automator: molivero!ciginsurance.com from 2016-07-01 until 2019-08-01
+	svc-automator: molivero!ciginsurance.com, svc-automator!users.noreply.github.com from 2016-07-01 until 2019-08-01
 Capital Angel Network:
 	mostlygeek: mostlygeek!gmail.com from 2017-10-01 until 2020-02-01
 Capital Carbon:
@@ -3702,7 +3706,7 @@ Checkly:
 	tnolet: tnolet!users.noreply.github.com from 2017-07-01
 Checkmarx:
 	4br3mm0rd: 4br3mm0rd!pm.me, 4br3mm0rd!users.noreply.github.com from 2017-04-01 until 2018-03-01
-	IdanAtzmon: idan.atzmon!checkmarx.com from 2016-10-01
+	IdanAtzmon: IdanAtzmon!users.noreply.github.com, idan.atzmon!checkmarx.com from 2016-10-01
 	TsahiCX: tsahi.bar!checkmarx.com from 2015-08-01 until 2016-12-01
 	alexivkin: alexivkin!users.noreply.github.com from 2017-10-01 until 2018-09-01
 	cxGalnus: galnus2!gmail.com from 2015-05-01
@@ -10115,7 +10119,7 @@ Cyanoptics:
 	trashhalo: mrstephen!protonmail.ch, trashhalo!users.noreply.github.com from 2020-12-01
 	xinranxiao: xinranxiao!gmail.com from 2016-01-01
 Cybage:
-	bamachrn: bkundu!redhat.com until 2016-01-01
+	bamachrn: bamachrn!users.noreply.github.com, bkundu!redhat.com until 2016-01-01
 	bibinphilip: bibinphilip!users.noreply.github.com until 2016-12-01
 	sachinar: sachinar!users.noreply.github.com from 2016-12-01 until 2018-02-01
 	sweetib: sweetib!users.noreply.github.com until 2015-10-01
@@ -10718,7 +10722,7 @@ DEEPHi:
 	apepkuss: xin.sam.liu!hotmail.com from 2018-03-01 until 2018-09-01
 DEK:
 	ducoppa: ducoppa!users.noreply.github.com from 2020-07-01
-	vancanhuit: vancanhuit!gmail.com from 2018-08-01
+	vancanhuit: vancanhuit!gmail.com, vancanhuit!users.noreply.github.com from 2018-08-01
 DELA België:
 	mrdfuse: mrdfuse!users.noreply.github.com, nico.mommaerts!gmail.com from 2017-11-01
 DELIPICKS:
@@ -11642,7 +11646,7 @@ Dashmote:
 Dassault:
 	NavnathKumbhar: 37103100+navnathkumbhar!users.noreply.github.com from 2016-09-01
 	jleloup: jleloup!users.noreply.github.com until 2016-07-01
-	tbulubas: tbulubas!gmail.com from 2016-11-01 until 2017-05-01
+	tbulubas: tbulubas!gmail.com, tbulubas!users.noreply.github.com from 2016-11-01 until 2017-05-01
 Dassault Systemes North America:
 	morsok: morsok!users.noreply.github.com, taradof!gmail.com from 2018-05-01 until 2018-09-01
 	rverma-uc: rverma-uc!users.noreply.github.com from 2015-12-01 until 2017-06-01
@@ -13623,7 +13627,7 @@ DevOpsHub:
 DevOpsTech:
 	sanjaynaikwadi: sanjay.naikwadi!gmail.com, sanjaynaikwadi!users.noreply.github.com from 2017-11-01 until 2018-07-01
 DevOpsify Inc.:
-	tomqwu: tom!devopsify.io, tom.q.wu!gmail.com from 2015-06-01
+	tomqwu: tom!devopsify.io, tom.q.wu!gmail.com, tomqwu!users.noreply.github.com from 2015-06-01
 DevRev:
 	prabath: prabath!apache.org, prabath!users.noreply.github.com from 2022-01-01
 DevScope:
@@ -14403,7 +14407,7 @@ Discount Bank:
 	tsadoklevi: 37581507+tsadoklevi!users.noreply.github.com, tsadoklevi!users.noreply.github.com until 2014-02-01
 	tschroeder-zendesk: tschroeder-zendesk!users.noreply.github.com until 2014-02-01
 	tskaiser: tskaiser!users.noreply.github.com until 2014-02-01
-	tspanindra: ptumkurseetharamu!godaddy.com until 2014-02-01
+	tspanindra: ptumkurseetharamu!godaddy.com, tspanindra!users.noreply.github.com until 2014-02-01
 	ttencate: ttencate!gmail.com until 2014-02-01
 Discover:
 	kevincvlam: i.am.kev!gmail.com, kevincvlam!users.noreply.github.com from 2020-03-01 until 2021-04-01
