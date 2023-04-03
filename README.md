@@ -18,6 +18,8 @@ If you find any errors or missing affiliations in those lists, please submit a p
 
 Please note that we need both *current* and *historical* email here as we are processing data from GitHub *Archives*, so old emails are there (even if they are no longer current).
 
+We need historical emails to track historical data (GitHub archives save events every hours, so they contain data as they were at given point in time).
+
 Only the Developers affiliations list [dev1], [dev2], [dev3], [dev4], [dev5], ... should be edited manually.
 
 Company Developers lists [co1], [co2], [co3], [co4], [co5], [co6], [co7], [co8] are computed derivatives of the first list.
