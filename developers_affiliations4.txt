@@ -5,6 +5,16 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+goddenrich: goddenrich!users.noreply.github.com
+	Ebico Limited until 2014-12-01
+	Glenmore Gas from 2014-12-01 until 2016-06-01
+	Independent from 2016-06-01 until 2018-01-01
+	Glenmore Gas from 2018-01-01 until 2018-11-01
+	Thought from 2018-11-01
+goderbauer: goderbauer!google.com
+	Google LLC
+godliness: godliness!users.noreply.github.com, machaojms!gmail.com, me!binoy.io
+	Independent
 goenning: goenning!users.noreply.github.com, me!goenning.net
 	Grupo Malwee until 2016-10-01
 	SoftwareONE from 2016-10-01 until 2019-04-01
@@ -11781,8 +11791,6 @@ jerry153fish: jerry153fish!gmail.com, jerry153fish!users.noreply.github.com
 	AsdeqDocs from 2018-04-01 until 2020-01-01
 	AsdeqDocs from 2020-01-01 until 2021-09-01
 	Dixa from 2021-09-01
-jerrytfleung: jerrytfleung!users.noreply.github.com
-	SolarWinds Worldwide LLC from 2021-06-01
 jerry7z: jerry7z!users.noreply.github.com
 	Red Hat Inc.
 jerrybowman: jerry.bowman!gmail.com
@@ -11790,6 +11798,9 @@ jerrybowman: jerry.bowman!gmail.com
 jerryrelmore: jerryrelmore!users.noreply.github.com
 	Integra until 2018-04-01
 	Awnix from 2018-04-01
+jerrytfleung: jerrytfleung!users.noreply.github.com
+	Independent until 2021-06-01
+	SolarWinds Worldwide LLC from 2021-06-01
 jerryzz0: jerryzz!google.com
 	Google LLC
 jerseybbq: jersey!gmail.com, jerseybbq!users.noreply.github.com
@@ -24068,15 +24079,3 @@ larkinscarvalho: larkins.l.carvalho!intel.com
 	Intel Corporation
 larkinscott: larkinscott!users.noreply.github.com, scott!codeclimate.com
 	Code Climate
-larmog: larmog!users.noreply.github.com, lars.mogren!gmail.com
-	TheNatureOfSoftware
-larntz: larntz!users.noreply.github.com
-	LEK until 2015-09-01
-	Weiss Research from 2015-09-01 until 2017-12-01
-	TBC from 2017-12-01
-larosek: larosek!users.noreply.github.com
-	Asset Science until 2016-01-01
-	GiGrow from 2016-01-01 until 2020-03-01
-	Coveo from 2020-03-01
-larperaxis: lars.persson!axis.com
-	Axis Communications

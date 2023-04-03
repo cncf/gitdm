@@ -5,6 +5,24 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+tbe: tbe!users.noreply.github.com
+	Wipro until 2014-12-01
+	Aircel cellular from 2014-12-01 until 2016-04-01
+	International Business Machines Corporation from 2016-04-01 until 2020-10-01
+	HCL Technologies Ltd. from 2020-10-01
+tbeets: tbeets!users.noreply.github.com
+	Qualcomm until 2016-01-01
+	ChattyRobots from 2016-01-01 until 2021-11-01
+	Synadia Communications from 2021-11-01
+tbenade: tbenade!users.noreply.github.com, terrencebenade!gmail.com
+	SEEK
+tberghammer: tberghammer!google.com, tberghammer!users.noreply.github.com
+	Google LLC
+tberman: tberman!gmail.com
+	GitHub Inc.
+tbetbetbe: tbetbetbe!users.noreply.github.com
+	Google LLC until 2016-12-01
+	Independent from 2016-12-01
 tbetker-rs: thomas.betker!rohde-schwarz.com
 	Independent
 tbg: tbg!users.noreply.github.com, tobias.schottdorf!gmail.com

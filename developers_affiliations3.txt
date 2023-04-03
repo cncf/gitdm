@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+cfryanr: cfryanr!users.noreply.github.com
+	VMware Inc. until 2017-01-01
+	Pivotal from 2017-01-01 until 2020-01-01
+	VMware Inc. from 2020-01-01
+cfs-pure: cfs!purestorage.com
+	Pure Storage
 cfstras: cfstras!users.noreply.github.com
 	Independent until 2015-09-01
 	OneRain from 2015-09-01 until 2018-06-01
@@ -658,7 +664,8 @@ cheddarwhizzy: cheddarwhizzy!users.noreply.github.com
 chedetinaveen: chedeti!google.com, chedetinaveen!users.noreply.github.com
 	Google LLC
 cheempz: cheempz!users.noreply.github.com
-	SolarWinds Worldwide LLC from 2016-09-01
+	Independent until 2022-09-01
+	SolarWinds Worldwide LLC from 2022-09-01
 cheenamalhotra: cheenamalhotra!users.noreply.github.com, v-chmalh!microsoft.com
 	Microsoft Corporation
 chees: chees!users.noreply.github.com, mail!chees.info
@@ -24046,13 +24053,3 @@ gocd-ci-user: gocd-ci-user!users.noreply.github.com, godev+gocd-ci-user!thoughtw
 	ThoughtWorks Inc
 gochist: gochist!gmail.com, gochist!users.noreply.github.com, june.yi!samsung.com
 	Samsung SDS
-goddenrich: goddenrich!users.noreply.github.com
-	Ebico Limited until 2014-12-01
-	Glenmore Gas from 2014-12-01 until 2016-06-01
-	Independent from 2016-06-01 until 2018-01-01
-	Glenmore Gas from 2018-01-01 until 2018-11-01
-	Thought from 2018-11-01
-goderbauer: goderbauer!google.com
-	Google LLC
-godliness: godliness!users.noreply.github.com, machaojms!gmail.com, me!binoy.io
-	Independent
