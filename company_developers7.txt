@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+MetaBrainz:
+	diru1100: diru1100!users.noreply.github.com from 2020-05-01 until 2021-02-01
 MetaCell:
 	filippomc: filippomc!users.noreply.github.com from 2018-12-01
 MetaCloud Inc:
@@ -16485,5 +16487,3 @@ Priceline:
 	tanyabrassie: tanyabrassie!users.noreply.github.com, tbrassie!empatico.org from 2014-09-01 until 2016-04-01
 Pricer:
 	tobiasehlert: tobias.ehlert!gmail.com from 2021-04-01 until 2022-02-01
-Pricerat:
-	maciekmm: business!maciekmm.net from 2015-08-01 until 2016-03-01
