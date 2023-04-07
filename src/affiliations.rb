@@ -422,13 +422,15 @@ def affiliations(affiliations_file, json_file, email_map)
       ghs = h['github']
       gha = ghs.split(',').map(&:strip)
       puts "Note: multiple GH logins #{gha} for emails #{emails}, line #{ln}" if dbg && gha.length > 1
+      # p gha
       gha.each do |gh|
         emails.each do |email|
           next if gh == '-'
           if users[email] == nil
-            puts "Unknown #{email} email - not present in JSON file"
+            puts "#{ghs}: Unknown #{email} email - not present in JSON file"
             # FIXME/TODO we should avoid this
             # next
+            # exit
           end
           entry = users[email][0]
           login = gh.split('/').last.downcase
