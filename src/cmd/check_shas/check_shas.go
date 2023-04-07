@@ -197,7 +197,7 @@ func checkSHAs(files []string) error {
 			fix = append(fix, `'`+f+`'`)
 		}
 		fmt.Printf("===========================================\n")
-		fmt.Printf("Keys VIM search pattern: '%s'\n", strings.Join(keys, `\|`))
+		fmt.Printf("Keys VIM search pattern: '\\c%s'\n", strings.Join(keys, `\|`))
 		fmt.Printf("VIM command: vim %s\n", strings.Join(fix, " "))
 	} else {
 		fmt.Printf("Nothing to remove, all data is OK\n")
