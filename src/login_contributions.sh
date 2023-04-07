@@ -1,6 +1,6 @@
 #!/bin/bash
 # TESTSRV=1
-# ADB=allcdf
+# ADB=allcdf or ADB=allprj
 if [ -z "${ADB}" ]
 then
   export ADB=allprj
@@ -9,7 +9,7 @@ if [ ! -z "${TESTSRV}" ]
 then
   kubectl exec -n devstats-test devstats-postgres-0 -- psql "${ADB}" --csv -c "select dup_actor_login as login, count(id) as cnt from gha_events where type in ('IssuesEvent', 'PullRequestEvent', 'PushEvent', 'CommitCommentEvent', 'IssueCommentEvent', 'PullRequestReviewCommentEvent') group by dup_actor_login order by cnt desc" > login_contributions.csv
 else
-  kubectl exec -n devstats-prod devstats-postgres-0 -- psql "${ABD}" --csv -c "select dup_actor_login as login, count(id) as cnt from gha_events where type in ('IssuesEvent', 'PullRequestEvent', 'PushEvent', 'CommitCommentEvent', 'IssueCommentEvent', 'PullRequestReviewCommentEvent') group by dup_actor_login order by cnt desc" > login_contributions.csv
+  kubectl exec -n devstats-prod devstats-postgres-0 -- psql "${ADB}" --csv -c "select dup_actor_login as login, count(id) as cnt from gha_events where type in ('IssuesEvent', 'PullRequestEvent', 'PushEvent', 'CommitCommentEvent', 'IssueCommentEvent', 'PullRequestReviewCommentEvent') group by dup_actor_login order by cnt desc" > login_contributions.csv
 fi
 ./check_shas login_contributions.csv
 echo -n "Proceed (y/n)? "
