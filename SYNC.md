@@ -139,7 +139,7 @@ Alternative way using diff (for simple PRs that only add new users):
 
 # Update JSON contributions count
 
-- Run `./login_contributions.sh` on any DevStats kubernetes node (you need DevStats DB access).
+- Run `[ADB=allprj|allcdf] ./login_contributions.sh` on any DevStats kubernetes node (you need DevStats DB access).
 - Download `login_contributions.csv` from that node.
 - Check for forbiden users: `./check_shas login_contributions.csv`.
 - Run `./update_login_contributions.rb` to update `github_users.json` file.
