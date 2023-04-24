@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+cedrickring: cedrickring!users.noreply.github.com
+	Independent until 2017-05-01
+	thyssenkrupp from 2017-05-01 until 2017-09-01
+	PwC Deutschland from 2017-09-01
+cedriclam: cedric.lamoriniere!gmail.com
+	Amadeus
 cedricmckinnie: cedricmckinnie!users.noreply.github.com
 	Independent until 2015-08-01
 	The World Bank from 2015-08-01 until 2015-09-01
@@ -11825,6 +11831,8 @@ dminca: dminca!users.noreply.github.com
 	GfK SE from 2018-11-01
 dminkovsky: dminkovsky!gmail.com, dminkovsky!users.noreply.github.com
 	Independent
+dmitchnewrelic: dmitchell!newrelic.com
+	New Relic Inc.
 dmiter: alittletf!gmail.com, dmitry.eremin!intel.com
 	Intel Corporation
 dmitri-d: ddolguik!redhat.com, dmitri-d!users.noreply.github.com, witlessbird!gmail.com
@@ -24027,10 +24035,3 @@ gkhanna79: gkhanna!microsoft.com, gkhanna79!users.noreply.github.com
 	Microsoft Corporation
 gkillough: gkillough!blackducksoftware.com
 	Synopsys Inc
-gkleiman: gaston.kleiman!gmail.com, gkleiman!users.noreply.github.com
-	Amazon until 2015-04-01
-	Mesosphere from 2015-04-01 until 2019-09-01
-	Lyft Inc. from 2019-09-01
-gklp: gklp!users.noreply.github.com, gokalpkuscu!gmail.com
-	Yapı Kredi Technology until 2017-11-01
-	Siemens AG from 2017-11-01
