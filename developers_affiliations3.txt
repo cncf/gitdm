@@ -5,6 +5,24 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+cdjohnson: cdjohnson!us.ibm.com, cdjohnson!users.noreply.github.com
+	International Business Machines Corporation
+cdleonard: leonard.crestez!intel.com
+	Intel Corporation
+cdleonard: leonard.crestez!nxp.com
+	NXP Semiconductors Netherlands B.V.
+cdlliuy: cdlliuy!users.noreply.github.com
+	Microsoft Corporation
+cdloh: cdloh!users.noreply.github.com
+	Squiz
+cdmitri: cdmitri!users.noreply.github.com
+	Cisco until 2019-01-01
+	startup from 2019-01-01
+cdmurph32: cdmurph32!gmail.com, cdmurph32!users.noreply.github.com
+	International Business Machines Corporation until 2014-07-01
+	Adobe from 2014-07-01
+cdoan1: cdoan!redhat.com, cdoan1!users.noreply.github.com
+	Red Hat Inc.
 cdobinsky: cdobinsky!users.noreply.github.com
 	Independent until 2018-04-01
 	WABCO from 2018-04-01 until 2018-08-01
@@ -12790,6 +12808,8 @@ douglasknudsen: douglasknudsen!gmail.com, douglasknudsen!users.noreply.github.co
 	Independent until 2016-03-01
 	STEM Plus Atlanta from 2016-03-01 until 2018-06-01
 	InterContinental Hotels Group from 2018-06-01
+douglaspalmer: douglaspalmer!users.noreply.github.com
+	Red Hat Inc.
 douglassix-dkt: douglassix-dkt!users.noreply.github.com
 	CGI until 2018-09-01
 	Auchan Retail from 2018-09-01 until 2019-04-01
@@ -15072,6 +15092,8 @@ edevenport: edevenport!users.noreply.github.com
 	NetApp Inc
 edevil: andre!brpx.com, andre!cabine.org, andre.cruz!co.sapo.pt, edevil!users.noreply.github.com
 	Bright Pixel
+edewit: edewit!users.noreply.github.com
+	Red Hat Inc.
 edfungus: edfungus!users.noreply.github.com
 	GE Digital Holdings LLC until 2018-08-01
 	Twitch Interactive Inc from 2018-08-01
@@ -20894,7 +20916,7 @@ fpletz: fpletz!users.noreply.github.com
 	Mayflower
 fposchner-cc: fposchner-cc!users.noreply.github.com
 	Independent until 2018-01-01
-	codecentric AG from 2018-01-01
+	Codecentric AG from 2018-01-01
 fpytloun: filip!pytloun.cz, fpytloun!users.noreply.github.com
 	GoodData until 2015-05-01
 	tcp cloud from 2015-05-01 until 2016-10-01
@@ -24016,19 +24038,3 @@ gitlawr: lawrleegle!gmail.com
 gitnik: gitnik!users.noreply.github.com
 	Minerals Value Service until 2016-03-01
 	Talentry from 2016-03-01
-gitromba: gitromba!users.noreply.github.com
-	Docler Holding Luxembourg until 2020-04-01
-	Open Assessment Technologies from 2020-04-01
-gitter-badger: badger!gitter.im, gitter-badger!users.noreply.github.com
-	Gitter
-giulianob: giulianob!users.noreply.github.com
-	Ultimate Software until 2017-11-01
-	Magic Leap from 2017-11-01 until 2019-10-01
-	Taxfyle from 2019-10-01
-giulianovarriale: giuliano.oca!gmail.com, giulianovarriale!users.noreply.github.com
-	Codeminer42 until 2015-10-01
-	enjoei from 2015-10-01 until 2017-07-01
-	Consulta Remédios from 2017-07-01 until 2019-07-01
-	Coolblue from 2019-07-01
-giuliobenetti: giulio.benetti!benettiengineering.com, giulio.benetti!micronovasrl.com
-	Micronova

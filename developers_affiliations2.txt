@@ -5,6 +5,15 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+VPashkov: vad.pashkov!gmail.com
+	Jet until 2015-05-01
+	Компания ТрастВерс from 2015-05-01 until 2017-05-01
+	ABBYY from 2017-05-01 until 2019-04-01
+	Google LLC from 2019-04-01
+VR6Pete: VR6Pete!users.noreply.github.com
+	Atos until 2017-08-01
+	Allocate Software from 2017-08-01 until 2019-04-01
+	KPMG from 2019-04-01
 VRanga000: VRanga000!users.noreply.github.com
 	Comcast Cable Communications LLC (Xfinity)
 VSadov: VSadov!users.noreply.github.com, vsadov!microsoft.com
@@ -3024,6 +3033,8 @@ absoludity: absoludity!gmail.com, absoludity!users.noreply.github.com
 absolute8511: absolute8511!users.noreply.github.com, cool8511!gmail.com
 	iZENEsoft until 2015-04-01
 	Youzan from 2015-04-01
+abstractj: abstractj!users.noreply.github.com, bruno!abstractj.org
+	Red Hat Inc.
 abstractmachines: abstractmachines!gmail.com
 	Independent until 2016-04-01
 	Polysync from 2016-04-01 until 2016-07-01
@@ -9862,6 +9873,12 @@ andre2007: andre.pany!sap.com, andre2007!users.noreply.github.com
 	SAP
 andrea-adami: andrea.adami!gmail.com
 	FULCRO SRLU
+andreaTP: andrea.peruffo1982!gmail.com, andreaTP!users.noreply.github.com
+	UniCredit until 2016-12-01
+	Nokia Corporation from 2016-12-01 until 2018-10-01
+	Codacy from 2018-10-01 until 2020-10-01
+	Lightbend Inc from 2020-10-01 until 2021-10-01
+	Red Hat Inc. from 2021-10-01
 andreabolognani: abologna!redhat.com, andreabolognani!users.noreply.github.com
 	Red Hat Inc.
 andreabonanno: andreabonanno!users.noreply.github.com
@@ -23939,21 +23956,3 @@ cdivitotawela: cdivitotawela!users.noreply.github.com
 	Australian Bureau of Statistics from 2018-05-01 until 2018-12-01
 	AUCloud from 2018-12-01 until 2020-09-01
 	ConsenSys AG from 2020-09-01
-cdjohnson: cdjohnson!us.ibm.com, cdjohnson!users.noreply.github.com
-	International Business Machines Corporation
-cdleonard: leonard.crestez!intel.com
-	Intel Corporation
-cdleonard: leonard.crestez!nxp.com
-	NXP Semiconductors Netherlands B.V.
-cdlliuy: cdlliuy!users.noreply.github.com
-	Microsoft Corporation
-cdloh: cdloh!users.noreply.github.com
-	Squiz
-cdmitri: cdmitri!users.noreply.github.com
-	Cisco until 2019-01-01
-	startup from 2019-01-01
-cdmurph32: cdmurph32!gmail.com, cdmurph32!users.noreply.github.com
-	International Business Machines Corporation until 2014-07-01
-	Adobe from 2014-07-01
-cdoan1: cdoan!redhat.com, cdoan1!users.noreply.github.com
-	Red Hat Inc.
