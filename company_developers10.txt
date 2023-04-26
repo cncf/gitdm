@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+VisiCom:
+	nholbrook: ndh175!gmail.com from 2017-10-01 until 2018-05-01
+VisiSonics:
+	matt-demers: matt-demers!users.noreply.github.com from 2015-06-01 until 2016-04-01
 Visible Measures:
 	kjenney: kjenney!thrivehive.com, kjenney!users.noreply.github.com from 2015-10-01 until 2018-04-01
 	tonylambiris: tony!criticalstack.com, tonylambiris!users.noreply.github.com from 2015-03-01 until 2015-08-01
