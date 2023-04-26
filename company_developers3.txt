@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+EIRTeam:
+	EIREXE: EIREXE!users.noreply.github.com
 EIS:
 	AndrejGukov: andrej.gukov!gmail.com until 2018-03-01
 EISOO:
