@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+SnapCheck:
+	JorisBolsens: JorisBolsens!users.noreply.github.com from 2016-03-01 until 2019-07-01
 SnapRoute:
 	sfc-gh-pkrishnamurthy: p.krishnamurthy!snowflake.com from 2017-04-01 until 2018-02-01
 	spitchai: sridhar.pitchai!gmail.com from 2016-05-01 until 2017-08-01
@@ -16456,5 +16458,3 @@ Viseo:
 	Sispheor: nico.marcq!gmail.com
 Viseven:
 	sgorbatiuk: sgorbatiuk!users.noreply.github.com until 2018-03-01
-Vishwaniketan:
-	qaifshaikh: qaifshaikh!users.noreply.github.com until 2017-02-01

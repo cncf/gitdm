@@ -12071,9 +12071,10 @@ JonasDeGendt: JonasDeGendt!users.noreply.github.com
 	Independent from 2018-08-01 until 2019-02-01
 	Sitecore from 2019-02-01 until 2021-03-01
 	Openminds bvba from 2021-03-01
-JonasKunz: JonasKunz!users.noreply.github.com, Jonas.Kunz!novatec-gmbh.de, jonas.kunz!elastic.co, jonas.kunz!gmx.net, kkzxak47!gmail.com
+JonasKunz: Jonas.Kunz!novatec-gmbh.de, JonasKunz!users.noreply.github.com, jonas.kunz!elastic.co, jonas.kunz!gmx.net, kkzxak47!gmail.com
 	SAP until 2015-05-01
 	NovaTech from 2015-05-01 until 2020-09-01
+	Independent from 2020-09-01 until 2022-08-01
 	Elasticsearch Inc. from 2022-08-01
 JonasVautherin: JonasVautherin!users.noreply.github.com, jonas.vautherin!gmail.com
 	Pix4D
@@ -22390,6 +22391,8 @@ SychevIgor: SychevIgor!users.noreply.github.com
 	VTB24 until 2014-12-01
 	Microsoft Corporation from 2014-12-01 until 2018-12-01
 	EPAM Systems Inc from 2018-12-01
+SylvainJuge: SylvainJuge!users.noreply.github.com, sylvain.juge!elastic.co
+	Elasticsearch Inc.
 Symmetric: Symmetric!users.noreply.github.com, paultiplady!gmail.com
 	Qwil
 Syn3rman: Syn3rman!users.noreply.github.com, aditya.prajapati!somaiya.edu
@@ -23847,7 +23850,3 @@ VLZZZ: VLZZZ!users.noreply.github.com
 	Targetprocess from 2017-02-01
 VMTrooper: VMTrooper!users.noreply.github.com, vmtrooper!gmail.com
 	VCE
-VMmore: VMmore!users.noreply.github.com
-	Independent until 2014-12-01
-	International Business Machines Corporation from 2014-12-01 until 2017-07-01
-	VMware Inc. from 2017-07-01

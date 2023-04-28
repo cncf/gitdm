@@ -5,6 +5,13 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+cdivitotawela: cdivitotawela!users.noreply.github.com
+	Intel Corporation until 2015-10-01
+	Mastercard International Incorporated from 2015-10-01 until 2017-01-01
+	Console Connect by PCCW Global from 2017-01-01 until 2018-05-01
+	Australian Bureau of Statistics from 2018-05-01 until 2018-12-01
+	AUCloud from 2018-12-01 until 2020-09-01
+	ConsenSys AG from 2020-09-01
 cdjohnson: cdjohnson!us.ibm.com, cdjohnson!users.noreply.github.com
 	International Business Machines Corporation
 cdleonard: leonard.crestez!intel.com
@@ -11828,10 +11835,10 @@ dmarkey: david!dmarkey.com, dmarkey!users.noreply.github.com
 	RapidRatings from 2016-03-01
 dmatch01: darroyo!us.ibm.com, dmatch01!users.noreply.github.com
 	International Business Machines Corporation
-dmathieu: 42!dmathieu.com, dmathieu!salesforce.com, damien.mathieu!elastic.co, dmathieu!users.noreply.github.com
+dmathieu: 42!dmathieu.com, damien.mathieu!elastic.co, dmathieu!salesforce.com, dmathieu!users.noreply.github.com
 	Shazino until 2014-02-01
 	Salesforce.com Inc. from 2014-02-01 until 2023-02-12
-	Elasticsearch Inc. from 2023-02-13
+	Elasticsearch Inc. from 2023-02-12
 dmatlack: dmatlack!google.com
 	Google LLC
 dmazzella: damianomazzella!gmail.com, dmazzella!users.noreply.github.com
@@ -24025,17 +24032,3 @@ github-cygwin: vinschen!redhat.com
 	Red Hat Inc.
 githubcdr: githubcdr!users.noreply.github.com
 	codar
-gitirabassi: giacomo!sighup.io, gitirabassi!users.noreply.github.com
-	Independent until 2015-06-01
-	Unica from 2015-06-01 until 2016-12-01
-	Enter from 2016-12-01 until 2017-09-01
-	Kiratech SpA from 2017-09-01 until 2018-01-01
-	SIGHUP Inc from 2018-01-01
-gitlabbin: brian.chen!iag.com.au, gitlabbin!users.noreply.github.com
-	Syndey IT
-gitlawr: lawrleegle!gmail.com
-	Rancher Labs Inc. until 2020-12-01
-	SUSE LLC from 2020-12-01
-gitnik: gitnik!users.noreply.github.com
-	Minerals Value Service until 2016-03-01
-	Talentry from 2016-03-01

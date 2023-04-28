@@ -5,6 +5,21 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+swizkon: swizkon!users.noreply.github.com
+	NE Nationalencyklopedin until 2016-08-01
+	Collector Bank from 2016-08-01 until 2018-10-01
+	Sigma IT from 2018-10-01 until 2020-06-01
+	QueensLab from 2020-06-01
+swizzlr: git!swizzlr.co, me!swizzlr.co, swizzlr!users.noreply.github.com
+	Medium until 2015-06-01
+	Ustwo from 2015-06-01 until 2015-10-01
+	Lantum from 2015-10-01 until 2016-01-01
+	Neumob from 2016-01-01 until 2016-10-01
+	Independent from 2016-10-01
+swolchok: scott!wolchok.org, swolchok!fb.com, swolchok!umich.edu
+	Meta Platforms Inc.
+swordbeta: metricht!gmail.com, mvantricht!expandonline.nl, swordbeta!users.noreply.github.com
+	Expand Online
 swq499809608: swq499809608!users.noreply.github.com
 	CoStar until 2015-10-01
 	Cylance from 2015-10-01 until 2019-03-01
@@ -133,8 +148,6 @@ sylvainfilteau: sylvainfilteau!users.noreply.github.com
 	dinCloud from 2015-06-01 until 2016-08-01
 	Arbisoft from 2016-08-01 until 2016-09-01
 	edX from 2016-09-01
-SylvainJuge: SylvainJuge!users.noreply.github.com, sylvain.juge!elastic.co
-	Elasticsearch Inc.
 sylvainmouquet: sylvain.mouquet!gmail.com, sylvainmouquet!users.noreply.github.com
 	Independent
 sylvanc: syclebsc!microsoft.com, sylvan.clebsch!gmail.com
@@ -6786,7 +6799,7 @@ txomon: javierdo1!gmail.com, txomon!users.noreply.github.com
 	Jinn from 2016-02-01 until 2017-07-01
 	Txomon LTD from 2017-07-01 until 2019-08-01
 	eyeo from 2019-08-01
-ty-elastic: tyrone.bekiares!elastic.co, 107002404+ty-elastic@users.noreply.github.com, ty-elastic@users.noreply.github.com
+ty-elastic: 107002404+ty-elastic!users.noreply.github.com, ty-elastic!users.noreply.github.com, tyrone.bekiares!elastic.co
 	Elasticsearch Inc.
 ty666: t1997y!vip.qq.com, ty666!users.noreply.github.com
 	Independent
@@ -7141,7 +7154,7 @@ uesyn: 17411645+uesyn!users.noreply.github.com, suemura!zlab.co.jp, uesyn!users.
 	Z Lab
 uevilwizard: uevilwizard!users.noreply.github.com
 	Yahoo! Inc.
-ugosan: ugosan!users.noreply.github.com, ugo.sangiorgi@elastic.co
+ugosan: ugo.sangiorgi!elastic.co, ugosan!users.noreply.github.com
 	Elasticsearch Inc.
 ugurengin: ugurengin!users.noreply.github.com
 	Magnet until 2015-06-01
