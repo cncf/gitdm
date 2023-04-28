@@ -11828,9 +11828,10 @@ dmarkey: david!dmarkey.com, dmarkey!users.noreply.github.com
 	RapidRatings from 2016-03-01
 dmatch01: darroyo!us.ibm.com, dmatch01!users.noreply.github.com
 	International Business Machines Corporation
-dmathieu: 42!dmathieu.com, dmathieu!salesforce.com, dmathieu!users.noreply.github.com
+dmathieu: 42!dmathieu.com, dmathieu!salesforce.com, damien.mathieu!elastic.co, dmathieu!users.noreply.github.com
 	Shazino until 2014-02-01
-	Salesforce.com Inc. from 2014-02-01
+	Salesforce.com Inc. from 2014-02-01 until 2023-02-12
+	Elasticsearch Inc. from 2023-02-13
 dmatlack: dmatlack!google.com
 	Google LLC
 dmazzella: damianomazzella!gmail.com, dmazzella!users.noreply.github.com

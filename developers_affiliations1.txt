@@ -1706,7 +1706,7 @@ AlexanderGH: azlatin!google.com
 	Google LLC
 AlexanderPraegla: alexander.praegla!gmail.com
 	PROCON IT GmbH
-AlexanderWert: AlexanderWert!users.noreply.github.com
+AlexanderWert: AlexanderWert!users.noreply.github.com, alexander.wert!elastic.co
 	Elasticsearch Inc.
 AlexandrSemak: AlexandrSemak!users.noreply.github.com, semak.alexandr.95!gmail.com
 	Independent until 2017-02-01
@@ -12071,9 +12071,10 @@ JonasDeGendt: JonasDeGendt!users.noreply.github.com
 	Independent from 2018-08-01 until 2019-02-01
 	Sitecore from 2019-02-01 until 2021-03-01
 	Openminds bvba from 2021-03-01
-JonasKunz: Jonas.Kunz!novatec-gmbh.de, jonas.kunz!gmx.net, kkzxak47!gmail.com
+JonasKunz: JonasKunz!users.noreply.github.com, Jonas.Kunz!novatec-gmbh.de, jonas.kunz!elastic.co, jonas.kunz!gmx.net, kkzxak47!gmail.com
 	SAP until 2015-05-01
-	NovaTech from 2015-05-01
+	NovaTech from 2015-05-01 until 2020-09-01
+	Elasticsearch Inc. from 2022-08-01
 JonasVautherin: JonasVautherin!users.noreply.github.com, jonas.vautherin!gmail.com
 	Pix4D
 JonasVerhofste: 25819942+jonasverhofste!users.noreply.github.com, JonasVerhofste!users.noreply.github.com
