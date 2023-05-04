@@ -5,6 +5,18 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+gites: gites!users.noreply.github.com
+	SKOK until 2015-05-01
+	Nordea Bank from 2015-05-01 until 2015-11-01
+	Intel Corporation from 2015-11-01 until 2017-04-01
+	EPAM Systems Inc from 2017-04-01 until 2017-06-01
+	Fandom from 2017-06-01
+gitfool: gitfool!users.noreply.github.com
+	Pharos
+github-cygwin: vinschen!redhat.com
+	Red Hat Inc.
+githubcdr: githubcdr!users.noreply.github.com
+	codar
 gitirabassi: giacomo!sighup.io, gitirabassi!users.noreply.github.com
 	Independent until 2015-06-01
 	Unica from 2015-06-01 until 2016-12-01
@@ -9296,7 +9308,7 @@ jacksgt: jacksgt!users.noreply.github.com
 	Nokia Corporation from 2017-03-01 until 2017-09-01
 	Fraunhofer Vision from 2017-09-01 until 2020-01-01
 	Kodit from 2020-01-01
-jackshirazi: jacks!fasterj.com, jackshirazi!users.noreply.github.com, jack.shirazi!elastic.co
+jackshirazi: jack.shirazi!elastic.co, jacks!fasterj.com, jackshirazi!users.noreply.github.com
 	Elasticsearch Inc.
 jacksierkstra: jacksierkstra!gmail.com
 	Action until 2015-03-01
@@ -24056,17 +24068,3 @@ kurtisnelson: kurtisnelson!gmail.com
 	Google LLC from 2015-11-01 until 2018-04-01
 	Independent from 2018-04-01 until 2018-08-01
 	Uber from 2018-08-01
-kurtmc: kurt!linux.com, kurt!movio.co, kurtmc!users.noreply.github.com, kurtmcalpine!gmail.com
-	Vista Entertainment Solutions until 2015-02-01
-	Independent from 2015-02-01 until 2016-02-01
-	Eroad from 2016-02-01 until 2017-11-01
-	Moxion from 2017-11-01 until 2017-12-01
-	Movio from 2017-12-01 until 2018-08-01
-	Independent from 2018-08-01
-kurtzur: kurtzur!users.noreply.github.com
-	Locafy until 2015-02-01
-	OneLogin from 2015-02-01 until 2015-08-01
-	Gusto from 2015-08-01 until 2019-01-01
-	Airbnb from 2019-01-01
-kuscsik: kuscsik!gmail.com, kuscsik!users.noreply.github.com, zoltan.kuscsik!linaro.org
-	Linaro Limited

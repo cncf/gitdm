@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+EIGHTS:
+	sgrankin: sgrankin!gmail.com, sgrankin!iown1.net, sgrankin!users.noreply.github.com
 EIRTeam:
 	EIREXE: EIREXE!users.noreply.github.com
 EIS:
@@ -1436,7 +1438,8 @@ Elasticsearch Inc.:
 	DanRoscigno: DanRoscigno!users.noreply.github.com, dan!roscigno.com from 2018-01-01
 	FlaPer87: FlaPer87!users.noreply.github.com from 2019-04-01
 	JonasKunz: Jonas.Kunz!novatec-gmbh.de, JonasKunz!users.noreply.github.com, jonas.kunz!elastic.co, jonas.kunz!gmx.net, kkzxak47!gmail.com from 2022-08-01
-	LikeTheSalad: LikeTheSalad!users.noreply.github.com
+	LikeTheSalad: 56847527+LikeTheSalad!users.noreply.github.com, LikeTheSalad!users.noreply.github.com
+	SeanHeelan: SeanHeelan!users.noreply.github.com, sean!heelan.io, sean.heelan!elastic.co
 	SylvainJuge: SylvainJuge!users.noreply.github.com, sylvain.juge!elastic.co
 	abeyad: abeyad!users.noreply.github.com from 2015-12-01 until 2017-07-01
 	adriansr: adriansr!users.noreply.github.com from 2017-10-01 until 2022-08-01
@@ -1451,10 +1454,12 @@ Elasticsearch Inc.:
 	bshetti: billshetti!gmail.com, bshetti!users.noreply.github.com
 	charithe: charithe!users.noreply.github.com from 2019-07-01
 	christophercutajar: christophercutajar!users.noreply.github.com from 2020-01-01
+	christos68k: christos!elastic.co, christos.kalkanis!elastic.co, christos68k!users.noreply.github.com
 	ckim0419: ckim!endgame.com, ckim0419!users.noreply.github.com from 2019-10-01
 	cyrille-leclerc: 459691+cyrille-leclerc!users.noreply.github.com, cleclerc!cloudbees.com, cyrille!cyrilleleclerc.com, cyrille.leclerc!elastic.co from 2020-01-01
 	danielkhan: daniel!khan.io, danielkhan!users.noreply.github.com from 2021-08-31
 	daverick: daverick!users.noreply.github.com, daverick.in.bcn!gmail.com, daverick.inb.cn+github!gmail.com from 2019-08-01
+	davidgeorgehope: david.hope!elastic.co, davidgeorgehope!users.noreply.github.com
 	djschny: djschny!users.noreply.github.com
 	dliappis: dimitrios.liappis!elastic.co, dliappis!users.noreply.github.com from 2015-09-01
 	dmathieu: 42!dmathieu.com, damien.mathieu!elastic.co, dmathieu!salesforce.com, dmathieu!users.noreply.github.com from 2023-02-12
@@ -1462,15 +1467,16 @@ Elasticsearch Inc.:
 	epixa: court!epixa.com, epixa!users.noreply.github.com, phillip.patton!infor.com
 	estolfo: estolfo!users.noreply.github.com
 	fatmcgav: fatmcgav!gmail.com, fatmcgav!users.noreply.github.com from 2018-05-01
-	felixbarny: felixbarny!users.noreply.github.com from 2018-01-01
+	felixbarny: felix.barnsteiner!elastic.co, felixbarny!users.noreply.github.com from 2018-01-01
 	flaper87: flaper87!flaper87.org, flaper87!gmail.com from 2019-04-01
+	florianl: dev!der-flo.net, florian.lehner!elastic.co, florianl!users.noreply.github.com from 2021-10-01
 	fxdgear: fxdgear!users.noreply.github.com
 	geekpete: geekpete!users.noreply.github.com from 2016-04-01
 	graphaelli: g!raphaelli.com, gil!elastic.co, graphaelli!gmail.com, graphaelli!users.noreply.github.com, shannon.m.poole!gmail.com
 	gregkalapos: gergo!kalapos.net, gregkalapos!users.noreply.github.com
 	gservat: gservat!users.noreply.github.com from 2017-04-01 until 2021-12-01
 	hhoffstaette: hhoffstaette!users.noreply.github.com, holger!applied-asynchrony.com, holger.hoffstaette!googlemail.com until 2014-04-01
-	jackshirazi: jacks!fasterj.com, jackshirazi!users.noreply.github.com
+	jackshirazi: jack.shirazi!elastic.co, jacks!fasterj.com, jackshirazi!users.noreply.github.com
 	jethr0null: jethr0null!users.noreply.github.com, mnikki137!gmail.com from 2018-07-01
 	karencfv: karencfv!users.noreply.github.com from 2018-07-01
 	kuisathaverat: kuisathaverat!users.noreply.github.com, kuisathaverat!yahoo.com from 2018-08-01

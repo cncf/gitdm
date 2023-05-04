@@ -2350,7 +2350,7 @@ christophjaeger: christophjaeger!linux.com, cj!linux.com, email!christophjaeger.
 	Barracuda Networks Inc. from 2016-04-01
 christophwille: christoph.wille!gmail.com, christophwille!users.noreply.github.com
 	AlphaSierraPapa
-christos68k: christos68k!users.noreply.github.com, christos!elastic.co, christos.kalkanis!elastic.co
+christos68k: christos!elastic.co, christos.kalkanis!elastic.co, christos68k!users.noreply.github.com
 	Elasticsearch Inc.
 christus02: christus02!users.noreply.github.com, raghul.christus!citrix.com
 	Citrix Systems Inc.
@@ -19645,7 +19645,7 @@ felix-meissner: felix-meissner!users.noreply.github.com
 	SAP from 2017-04-01
 felix0080: 642664360!qq.com, fanx18!chinaunicom.cn, felix0080!users.noreply.github.com, going_fan!outlook.com
 	China Unicom
-felixbarny: felixbarny!users.noreply.github.com, felix.barnsteiner!elastic.co
+felixbarny: felix.barnsteiner!elastic.co, felixbarny!users.noreply.github.com
 	ISYS Software until 2018-01-01
 	Elasticsearch Inc. from 2018-01-01
 felixbuenemann: buenemann!louis.info, felix.buenemann!gmail.com, felixbuenemann!users.noreply.github.com
@@ -20533,11 +20533,11 @@ floriankoch: floriankoch!users.noreply.github.com
 	Appsfactory until 2014-07-01
 	arvreal from 2014-07-01 until 2021-01-01
 	Spacific from 2021-01-01
-florianl: florianl!users.noreply.github.com, florian.lehner!elastic.co, dev!der-flo.net
+florianl: dev!der-flo.net, florian.lehner!elastic.co, florianl!users.noreply.github.com
 	Bundeswehr until 2017-06-01
 	Open Systems from 2017-06-01 until 2019-12-01
 	Kudelski Security from 2019-12-01 until 2020-02-01
-	optimyze from 2020-02-01 until 2021-09-30
+	optimyze from 2020-02-01 until 2021-10-01
 	Elasticsearch Inc. from 2021-10-01
 florianlacreuse: florian.lacreuse!kobalt.fr, florianlacreuse!users.noreply.github.com
 	OpenWide until 2017-12-01
@@ -21624,6 +21624,9 @@ ftonello: eu!felipetonello.com
 fturib: datasage!theworldisgrey.com, ftur!infoblox.com, fturib!gmail.com, fturib!users.noreply.github.com, geoffreydebelie!zoho.com
 	Infoblox Inc. until 2019-05-01
 	On sabatical from 2019-05-01
+fty4: fty4!users.noreply.github.com, marco!task.media, marco.lecheler!mercedes-benz.com
+	Independent until 2016-10-01
+	Mercedes-Benz AG from 2016-10-01
 fubar: fubar!users.noreply.github.com
 	Hootsuite until 2016-03-01
 	Veri Inc from 2016-03-01 until 2017-06-01
@@ -24026,15 +24029,3 @@ gitanuj: tanuj.183!gmail.com
 	Independent from 2016-09-01 until 2017-05-01
 	Microsoft Corporation from 2017-05-01 until 2022-09-01
 	SingleStore from 2022-09-01
-gites: gites!users.noreply.github.com
-	SKOK until 2015-05-01
-	Nordea Bank from 2015-05-01 until 2015-11-01
-	Intel Corporation from 2015-11-01 until 2017-04-01
-	EPAM Systems Inc from 2017-04-01 until 2017-06-01
-	Fandom from 2017-06-01
-gitfool: gitfool!users.noreply.github.com
-	Pharos
-github-cygwin: vinschen!redhat.com
-	Red Hat Inc.
-githubcdr: githubcdr!users.noreply.github.com
-	codar
