@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+paulirish: paul.irish!gmail.com, paulirish!users.noreply.github.com
+	Google LLC
+pauljrob: 2645714+pauljrob!users.noreply.github.com, proberts2!gmail.com
+	Amazon
+paulkocialkowski: contact!paulk.fr, paul.kocialkowski!bootlin.com
+	Kocar
 paulkrause88: paulkrause88!users.noreply.github.com
 	InvestSoft until 2015-01-01
 	Charles River Development from 2015-01-01 until 2016-01-01
@@ -24045,7 +24051,3 @@ swinslow: swinslow!gmail.com
 	Linux
 swinslow: swinslow!users.noreply.github.com
 	The Linux Foundation
-swinton: swinton!users.noreply.github.com
-	Healthways until 2016-01-01
-	GitHub Inc. from 2016-01-01 until 2022-01-01
-	Snyk from 2022-01-01
