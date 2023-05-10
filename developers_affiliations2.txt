@@ -23663,7 +23663,7 @@ cart: cart!users.noreply.github.com
 	International Business Machines Corporation until 2014-08-01
 	Independent from 2014-08-01 until 2015-08-01
 	Microsoft Corporation from 2015-08-01
-cartermckinnon: mckdev!amazon.com, cartermckinnon!gmail.com, cartermckinnon!users.noreply.github.com
+cartermckinnon: cartermckinnon!gmail.com, cartermckinnon!users.noreply.github.com, mckdev!amazon.com
 	Amazon
 cartermp: pcarter!fastmail.com, phcart!microsoft.com, phillip!honeycomb.io, phillipcarter!honeycomb.io
 	Microsoft Corporation until 2021-07-01
@@ -23975,5 +23975,3 @@ cboggs: cboggs!users.noreply.github.com
 	Splunk Inc. from 2018-11-01
 cboling: chip!bcsw.net
 	Boling Consulting Solutions
-cbonte: cbonte!users.noreply.github.com, cyril.bonte!oxalide.com, mail!victor.villas, mikael.gibert!gmail.com
-	Claranet Limited
