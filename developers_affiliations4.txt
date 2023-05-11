@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+ggpaue: ggpaue!users.noreply.github.com
+	Independent until 2015-11-01
+	Fortinet Inc. from 2015-11-01 until 2018-11-01
+	VMware Inc. from 2018-11-01
+ggreenma: gregory.greenman!intel.com
+	Intel Corporation
 ggreenway: ggreenway!users.noreply.github.com
 	Independent until 2014-09-01
 	Apple Inc. from 2014-09-01 until 2019-02-01
@@ -24083,5 +24089,3 @@ kroekle: kroekle!gmail.com
 	Independent until 2015-02-01
 	Entegral from 2015-02-01 until 2021-02-01
 	Styra Inc from 2021-02-01
-krokwen: chestr.nix.uz!gmail.com, krokwen!users.noreply.github.com, wangyan!vmware.com
-	VMware Inc.
