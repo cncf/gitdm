@@ -10733,9 +10733,10 @@ dhohengassner: dhohengassner!users.noreply.github.com
 dhoizner: dan.hoizner!collibra.com
 	Medidata
 dholbach: daniel!weave.works, dholbach!users.noreply.github.com
-	Canonical Ltd. until 2016-12-01
-	Canonical Ltd. from 2016-12-01 until 2018-02-01
-	Weaveworks Inc. from 2018-02-01
+	Canonical Ltd. until 2016-11-30
+	Independent from 2016-12-01 until 2018-02-18
+	Weaveworks Inc. from 2018-02-19 until 2023-05-10
+	Independent from 2023-05-11
 dholth: dholth!fastmail.fm
 	FastMail.FM
 dhowells: dhowells!redhat.com
