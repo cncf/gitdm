@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Plural:
+	DavidSpek: DavidSpek!users.noreply.github.com from 2021-08-01
 Pluralsight:
 	Duffney: Duffney!users.noreply.github.com from 2021-01-01
 	GoFightNguyen: jsn.dev!outlook.com from 2019-07-01

@@ -5,6 +5,8 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+kristopherjturner: kristopherjturner!users.noreply.github.com
+	Microsoft Corporation
 kristrev: kristian.evensen!gmail.com
 	Celerway
 kriswuollett: klw!google.com, kristopher!wuollett.net, kriswuollett!users.noreply.github.com
@@ -14416,7 +14418,7 @@ mluker: mluker!users.noreply.github.com
 	Nerdery until 2019-03-01
 	OST from 2019-03-01 until 2022-06-01
 	Microsoft Corporation from 2022-06-01
-mlunadia: mlunadia!users.noreply.github.com, mlunadia!gmail.com, miguel.luna!elastic.co
+mlunadia: miguel.luna!elastic.co, mlunadia!gmail.com, mlunadia!users.noreply.github.com
 	Kudox until 2018-05-01
 	giffgaff from 2018-05-01 until 2019-10-01
 	Pivotal from 2019-10-01 until 2020-01-01
@@ -24162,5 +24164,3 @@ pandeybk: pandeybk!users.noreply.github.com
 	Tech Mahindra from 2018-10-01 until 2020-03-01
 	Mavenir from 2020-03-01 until 2021-06-01
 	Red Hat Inc. from 2021-06-01
-pandnp: fin!linux.vnet.ibm.com
-	International Business Machines Corporation

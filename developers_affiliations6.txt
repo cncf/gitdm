@@ -5,6 +5,8 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+pandnp: fin!linux.vnet.ibm.com
+	International Business Machines Corporation
 pandyamarut: pandyamarut!gmail.com
 	Independent until 2018-01-01
 	Under 25 from 2018-01-01 until 2018-02-01
@@ -24043,5 +24045,3 @@ suganthidewakar: sudha.dew!gmail.com, suganthidewakar!users.noreply.github.com
 	Meta Platforms Inc. from 2018-05-01
 sugilog: sugilog!users.noreply.github.com
 	Live Revolution
-suguru: snamura!gmail.com
-	Mercari Inc
