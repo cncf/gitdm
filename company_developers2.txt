@@ -2,6 +2,17 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Buku:
+	jgoclawski: gocek13!gmail.com, jakub!goclawski.net, jgoclawski!users.noreply.github.com until 2014-10-01
+	serathius: lorenzo.bugiani!gmail.com, marek.siarkowicz!protonmail.com, qiancw1!uci.edu, serathius!users.noreply.github.com, siarkowicz!google.com until 2015-02-01
+BukuKas:
+	madhukar93: madhukar93!users.noreply.github.com from 2020-08-01
+Bulb Energy Limited:
+	abetomo: abe!enzou.tokyo, abetomo!users.noreply.github.com
+Bulkytree:
+	HurSungYun: ethan0311!gmail.com from 2016-08-01 until 2018-02-01
+Bull HN Information Systems:
+	simonpasquier: pasquier.simon!gmail.com, simonpasquier!users.noreply.github.com, spasquie!redhat.com until 2014-06-30
 Bull HN Information Systems Inc.:
 	4383: herveberaud.pro!gmail.com until 2016-05-01
 	CharlyF: CharlyF!users.noreply.github.com, charly!datadoghq.com from 2014-08-01 until 2015-06-01
@@ -1168,6 +1179,7 @@ CLASH:
 CLASTIX:
 	bsctl: bsctl!users.noreply.github.com from 2020-02-01
 	prometherion: dario!tranchitella.eu, prometherion!users.noreply.github.com from 2020-09-13
+	ptx96: ptx96!users.noreply.github.com from 2021-02-01
 CLASTIX ?:
 	alegrey91: alegrey91!users.noreply.github.com, alessiog!armosec.io from 2021-06-01 until 2023-02-06
 CLEAR:
@@ -8878,6 +8890,8 @@ Construction:
 	Matvey-Kuk: matvey-kuk!users.noreply.github.com, motakuk!gmail.com from 2017-07-01 until 2018-11-01
 Constructor.io:
 	alexlokotochek: aleksandr.laktionov!phystech.edu from 2018-06-01
+Consulman:
+	GlassOfWhiskey: GlassOfWhiskey!users.noreply.github.com until 2015-02-01
 Consult Americas:
 	ingopansa: ingopansa!users.noreply.github.com until 2018-10-01
 ConsultBae:

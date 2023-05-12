@@ -5,6 +5,24 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+cbiphuk: cbiphuk!users.noreply.github.com
+	Luxoft Global Operations GmbH until 2016-01-01
+	Independent from 2016-01-01 until 2016-08-01
+	Agorafy from 2016-08-01 until 2017-03-01
+	Intercontinental Exchange from 2017-03-01 until 2019-01-01
+	monday.com Limited from 2019-01-01
+cblecker: admin!toph.ca, cblecker!redhat.com, cblecker!users.noreply.github.com
+	Independent until 2019-03-01
+	Red Hat Inc. from 2019-03-01
+cblichmann: cblichmann!google.com, cblichmann!users.noreply.github.com
+	Google LLC
+cblomart: cblomart!users.noreply.github.com
+	FOD Financiën - SPF Finances until 2018-12-01
+	FOD Economie from 2018-12-01 until 2020-02-01
+	FOD Financiën - SPF Finances from 2020-02-01 until 2020-09-01
+	Microsoft Corporation from 2020-09-01
+cbluth: cbluth!users.noreply.github.com
+	Distributed Mind
 cbodley: casey!cohortfs.com, casey!linuxbox.com, cbodley!redhat.com, cbodley!users.noreply.github.com
 	The Linux Box Corporation until 2015-07-01
 	Red Hat Inc. from 2015-07-01
@@ -12921,6 +12939,12 @@ donhcd: don.hcd!gmail.com, donhcd!users.noreply.github.com
 	Koality until 2014-09-01
 	Docker Inc. from 2014-09-01 until 2016-05-01
 	GROUPE SIGMA from 2016-05-01
+donhighmsft: donghigh!yahoo.com
+	Independent until 2016-09-01
+	Bank of America Corporation from 2016-09-01 until 2018-02-01
+	Microsoft Corporation from 2018-02-01 until 2020-03-01
+	Rancher from 2020-03-01 until 2020-12-01
+	Microsoft Corporation from 2020-12-01
 donhui: 977675308!qq.com, anubhavjain04!gmail.com, donghui!mail.jenkins-zh.cn, donhui!users.noreply.github.com, helphi.he!qq.com, wangdonghui!jenkins-zh.cn
 	Independent
 donileo: donileo!users.noreply.github.com
@@ -23871,6 +23895,16 @@ germetist: germetist!users.noreply.github.com
 	CTPO from 2015-12-01
 germondc: clyde.germond!gmail.com
 	Standard Bank
+gernest: geofreyernest!live.com
+	Independent until 2015-12-01
+	Farm Radio International from 2015-12-01 until 2017-03-01
+	Independent from 2017-03-01 until 2017-05-01
+	VoltDB from 2017-05-01 until 2017-07-01
+	Independent from 2017-07-01 until 2017-10-01
+	MadHive from 2017-10-01 until 2017-12-01
+	Independent from 2017-12-01 until 2018-08-01
+	Ably from 2018-08-01 until 2018-11-01
+	Tyk Technologies Ltd. from 2018-11-01
 geropl: geropl!users.noreply.github.com
 	Gitpod GmbH
 gerow: gerow!google.com, gerow!mgerow.com
@@ -23984,36 +24018,3 @@ ggailey777: ggailey777!hotmail.com, glenn.gailey!microsoft.com
 	Microsoft Corporation
 ggallen: gallen!redhat.com, ggallen!users.noreply.github.com
 	Red Hat Inc.
-ggallotti: gonzalogallotti!gmail.com
-	GeneXus
-gganpaa: gganpaa!google.com
-	Google LLC
-ggarnier: ggarnier!users.noreply.github.com, guilherme.garnier!gmail.com, hikigaya58!gmail.com, mak-rusak!yandex.ru
-	Globo
-ggdavisiv: george_davis!mentor.com
-	Mentor Graphics Corporation
-ggebel: ggebel!users.noreply.github.com
-	Axiomatics until 2021-05-01
-	Strata Identity from 2021-05-01
-ggee: gee.developer!gmail.com, ggee!users.noreply.github.com
-	Oracle America Inc.
-ggermis: gerrit!germis.be, ggermis!users.noreply.github.com
-	UnifiedPost until 2016-09-01
-	Joyn from 2016-09-01
-ggggfz: gefengzeng1990!163.com, gefz!inspur.com, ggggfz!users.noreply.github.com
-	Inspur Group
-gghezzo: gghezzo!users.noreply.github.com
-	International Business Machines Corporation until 2020-02-01
-	Red Hat Inc. from 2020-02-01
-ggiamarchi: ggiamarchi!users.noreply.github.com, guillaume.giamarchi!gmail.com
-	Numergy
-ggicci: ggicci!163.com, ggicci!users.noreply.github.com, ggicci.t!gmail.com
-	NetEase Inc
-ggillies: ggillies!users.noreply.github.com
-	Red Hat Inc. until 2017-10-01
-	Akamai Technologies Inc. from 2017-10-01 until 2019-07-01
-	GitLab from 2019-07-01
-ggjjlldd: ggjjlldd!users.noreply.github.com
-	HundSun
-ggm-at-apnic: ggm!apnic.net, ggm-at-apnic!users.noreply.github.com
-	APNIC P/L
