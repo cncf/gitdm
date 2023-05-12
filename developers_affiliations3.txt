@@ -5,6 +5,14 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+cbodley: casey!cohortfs.com, casey!linuxbox.com, cbodley!redhat.com, cbodley!users.noreply.github.com
+	The Linux Box Corporation until 2015-07-01
+	Red Hat Inc. from 2015-07-01
+cboettig: cboettig!gmail.com
+	Independent
+cboggs: cboggs!users.noreply.github.com
+	FreshTracks.io (CA INC) until 2018-11-01
+	Splunk Inc. from 2018-11-01
 cboling: chip!bcsw.net
 	Boling Consulting Solutions
 cbonte: cbonte!users.noreply.github.com, cyril.bonte!oxalide.com, mail!victor.villas, mikael.gibert!gmail.com
@@ -24009,14 +24017,3 @@ ggjjlldd: ggjjlldd!users.noreply.github.com
 	HundSun
 ggm-at-apnic: ggm!apnic.net, ggm-at-apnic!users.noreply.github.com
 	APNIC P/L
-ggmr2212: ggmr2212!users.noreply.github.com
-	Telecel until 2014-08-01
-	S&T Consulting from 2014-08-01 until 2014-12-01
-	S&T Consulting from 2014-12-01 until 2015-07-01
-	Boliviana de Aviación from 2015-07-01 until 2020-09-01
-	Nybble from 2020-09-01
-ggogel: gerrit!gogel.me, ggogel!users.noreply.github.com
-	Independent until 2018-05-01
-	ESC from 2018-05-01 until 2019-10-01
-	Terrabit from 2019-10-01 until 2021-04-01
-	EXXETA AG from 2021-04-01
