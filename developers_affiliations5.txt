@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+krisdevopsbot: krisdevopsbot!users.noreply.github.com
+	(Robots)
+krisdock: dockeryk!vmware.com, kris!heptio.com, kris.dockery!gmail.com, krisdock!users.noreply.github.com
+	Heptio Inc. until 2018-12-11
+	VMware Inc. from 2018-12-11
 krish512: krish512!users.noreply.github.com
 	Hewlett until 2015-06-01
 	Cisco from 2015-06-01 until 2016-07-01
@@ -24151,9 +24156,3 @@ pahofmann: pahofmann!users.noreply.github.com
 	amasol AG
 paidem: paidem!users.noreply.github.com
 	INSOFT
-paidhi: paidhi!mospheira.net, paidhi!users.noreply.github.com
-	ÖBB - Austrian Federal Railways until 2015-04-01
-	Today Experts from 2015-04-01 until 2016-08-01
-	VisoTech from 2016-08-01 until 2017-10-01
-	UNIKQA from 2017-10-01 until 2018-05-01
-	T-Mobile PCS Holdings LLC from 2018-05-01

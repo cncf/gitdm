@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+gerrit8143: gerrit8143!users.noreply.github.com
+	Independent until 2016-05-01
+	dreamIT from 2016-05-01
+gershwinlabs: gershwinlabs!users.noreply.github.com, photo.allen!gmail.com
+	Independent
 gerson24: pozogers!gmail.com
 	Independent until 2015-09-01
 	TecnologÃ­a Sistemas y Aplicaciones S.L. from 2015-09-01 until 2019-01-01
@@ -24096,8 +24101,3 @@ kris-nova: kris!fabulous.af, kris!nivenly.com, kris-nova!users.noreply.github.co
 	VMware Inc. from 2018-12-11 until 2019-03-01
 	Independent from 2019-03-01 until 2019-12-08
 	Sysdig Inc. from 2019-12-08
-krisdevopsbot: krisdevopsbot!users.noreply.github.com
-	(Robots)
-krisdock: dockeryk!vmware.com, kris!heptio.com, kris.dockery!gmail.com, krisdock!users.noreply.github.com
-	Heptio Inc. until 2018-12-11
-	VMware Inc. from 2018-12-11
