@@ -8515,11 +8515,11 @@ impl: impl!users.noreply.github.com
 importhuman: importhuman!users.noreply.github.com
 	Independent until 2022-01-01
 	last9 from 2022-01-01
-imrajdas: mail.rajdas!gmail.com, rajbabu.das!harness.io, raj!chaosnative.com, raj.das!mayadata.io, rajdas98!users.noreply.github.com, imrajdas!users.noreply.github.com
+imrajdas: imrajdas!users.noreply.github.com, mail.rajdas!gmail.com, raj!chaosnative.com, raj.das!mayadata.io, rajbabu.das!harness.io
 	Independent until 2019-07-22
 	MayaData Inc. (f/k/a CloudByte Inc) from 2019-07-22 until 2021-04-31
-	ChaosNative from 2021-05-01 until 2022-03-20
-	Harness from 2022-03-21
+	ChaosNative from 2021-04-31 until 2022-03-20
+	Harness from 2022-03-20
 imran-kn: imran-kn!users.noreply.github.com
 	STMicroelectronics until 2016-02-01
 	Qualcomm from 2016-02-01 until 2017-09-01
@@ -24105,9 +24105,3 @@ koorgoo: koorgoo!gmail.com, koorgoo!users.noreply.github.com
 	Independent from 2016-08-01 until 2017-02-01
 	YANDEX LLC from 2017-02-01 until 2019-04-01
 	Booking.com B.V. from 2019-04-01
-kop: kop!users.noreply.github.com
-	Independent until 2015-01-01
-	FindAnyEmail from 2015-01-01 until 2017-03-01
-	Independent from 2017-03-01 until 2017-06-01
-	Mobalytics from 2017-06-01 until 2019-12-01
-	Firebolt from 2019-12-01

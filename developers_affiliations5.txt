@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+kop: kop!users.noreply.github.com
+	Independent until 2015-01-01
+	FindAnyEmail from 2015-01-01 until 2017-03-01
+	Independent from 2017-03-01 until 2017-06-01
+	Mobalytics from 2017-06-01 until 2019-12-01
+	Firebolt from 2019-12-01
 kopal2212: kopal2212!users.noreply.github.com
 	Independent until 2018-05-01
 	High Technologies Solutions from 2018-05-01 until 2018-07-01
@@ -24138,11 +24144,3 @@ otaviobp: otavio.pontes!intel.com
 otaviof: otaviof!gmail.com, otaviof!users.noreply.github.com
 	Schuberg Philis until 2019-06-01
 	Red Hat Inc. from 2019-06-01
-otaviojava: otaviopolianasantana!gmail.com
-	CCEE until 2014-03-01
-	Elo7 from 2014-03-01 until 2015-07-01
-	CI&T from 2015-07-01 until 2016-08-01
-	Tomitribe from 2016-08-01
-otaviomedeiros: otaviorm!gmail.com
-	Connectere Agrogestão until 2016-02-01
-	Vnda Ecommerce from 2016-02-01
