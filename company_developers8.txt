@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Pliancy:
+	d-m: d-m!users.noreply.github.com until 2016-12-01
 Plinga:
 	vittoriocanilli: vittoriocanilli!users.noreply.github.com until 2017-10-01
 Plingot:
@@ -16625,5 +16627,3 @@ Smart Learning:
 	Sphynxinator: Sphynxinator!users.noreply.github.com from 2020-06-01
 Smart Networked Environments:
 	MichaelJHaywood: MichaelJHaywood!users.noreply.github.com from 2015-12-01 until 2017-01-01
-Smart Odisha Hackathon:
-	stephenmasih: stephenmasih218!gmail.com from 2018-10-01 until 2018-12-01
