@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Victrix:
+	maximebedard: maxim3.bedard!gmail.com, maximebedard!users.noreply.github.com until 2014-12-01
 VidRoll:
 	miguelmota: miguelmota!users.noreply.github.com, miguelmota2!gmail.com from 2016-04-01 until 2016-10-01
 VidScale:
