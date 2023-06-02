@@ -10,3 +10,4 @@ If you do not want your personal data like names and/or emails to be listed you 
 - Create PR with updated `cncf-config/forbidden.csv` file. That way your sensitive data won't be visible in a PR.
 - We will run `./handle_forbidden_data.sh` on your PR that will generate report with files containing that information.
 - We will remove requested informations and merge your PR.
+- Sync `cncf-config/forbidden.cs` with `cncf/devstats:hide/hide.csv`.
