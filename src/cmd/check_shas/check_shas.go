@@ -17,7 +17,7 @@ import (
 
 func checkSHAs(files []string) error {
 	fmt.Printf("Checking %d files\n", len(files))
-	cfn := "./cncf-config/forbidden.csv"
+	cfn := "./cncf-config/forbidden-sha256.csv"
 	f, err := os.Open(cfn)
 	if err != nil {
 		return err

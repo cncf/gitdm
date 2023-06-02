@@ -6,8 +6,9 @@ If you do not want your personal data like names and/or emails to be listed you 
 - `cd src/`
 - Run `./add_forbidden_data.rb 'youremail!domain.com'` or `./add_forbidden_data.rb 'YourName' 'your@email.com' 'your!email.com'.
 - Phrase to be removed should not contain: `,`, `;`, `'`, `"`, `/`, `\` characters.
-- Program will generate SHA256 hashes of data provided from command line arguments and add them to `cncf-config/forbidden.csv` file.
-- Create PR with updated `cncf-config/forbidden.csv` file. That way your sensitive data won't be visible in a PR.
+- Program will generate SHA1, SHA256 hashes of data provided from command line arguments and add them to `cncf-config/forbidden-sha{1,256}.csv` files.
+- Create PR with updated `cncf-config/forbidden-sha{1,256}.csv` files. That way your sensitive data won't be visible in a PR.
 - We will run `./handle_forbidden_data.sh` on your PR that will generate report with files containing that information.
 - We will remove requested informations and merge your PR.
-- Eventually sync `cncf-config/forbidden.csv` (SHA-256) with `cncf/devstats:hide/hide.csv` (SHA1).
+- Eventually sync `cncf-config/forbidden-sha1.csv` (SHA-1) with `cncf/devstats:hide/hide.csv` (SHA-1).
+- File `cncf-config/forbidden-sha256.csv` is SHA256 - not SHA-1.

@@ -4,7 +4,7 @@ require 'digest'
 
 def handle_forbidden_data(filenames)
   # Read the forbidden list
-  config_file = 'cncf-config/forbidden.csv'
+  config_file = 'cncf-config/forbidden-sha256.csv'
   shas = {}
   CSV.foreach(config_file, headers: true) do |row|
     h = row.to_h
