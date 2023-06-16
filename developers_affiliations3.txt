@@ -5,6 +5,8 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+car-roll: car-roll!users.noreply.github.com, cchiou!cloudbees.com
+	CloudBees Inc.
 carabasdaniel: carabasdaniel!users.noreply.github.com
 	Uhuru until 2015-01-01
 	Hewlett from 2015-01-01 until 2018-05-01
@@ -23979,9 +23981,3 @@ gautambaghel: gautambaghel!users.noreply.github.com
 	Synopsys Inc from 2019-04-01
 gautamdivgi: gautamdivgi!gmail.com, gautamdivgi!users.noreply.github.com
 	AT&T Services Inc.
-gautamkmr: gautamkmr!users.noreply.github.com, gautamnitc!gmail.com
-	Independent until 2015-01-01
-	Meta Platforms Inc. from 2015-01-01 until 2015-06-01
-	Amazon from 2015-06-01
-gauthierbl: brandon.l.gauthier!gmail.com, gauthierbl!users.noreply.github.com
-	Content Analyst Company
