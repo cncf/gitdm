@@ -1559,7 +1559,7 @@ CLASTIX:
 	bsctl: bsctl!users.noreply.github.com from 2020-02-01
 	prometherion: dario!tranchitella.eu, prometherion!users.noreply.github.com from 2020-09-13
 	ptx96: ptx96!users.noreply.github.com from 2021-02-01
-CLASTIX ?:
+CLASTIX:
 	alegrey91: alegrey91!users.noreply.github.com, alessiog!armosec.io from 2021-06-01 until 2023-02-06
 CLEAR:
 	autodidaddict: autodidaddict!users.noreply.github.com until 2015-08-01
@@ -6180,7 +6180,7 @@ Classmethod:
 	d-kuro: d-kuro!users.noreply.github.com, kurosawa7620!gmail.com from 2018-02-01
 Classy:
 	kmfk: keith!kmfk.io from 2015-08-01 until 2019-05-01
-Clastix:
+CLASTIX:
 	maxgio92: maxgio92!users.noreply.github.com, me!maxgio.it from 2021-10-01
 Clault:
 	lahirurd: lahirurd!users.noreply.github.com until 2014-06-01
