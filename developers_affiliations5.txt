@@ -5,6 +5,16 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+kinihun: kinihun!users.noreply.github.com
+	Anritsu until 2017-11-01
+	Rackspace from 2017-11-01 until 2018-02-01
+	Ensono from 2018-02-01 until 2018-04-01
+	Independent from 2018-04-01 until 2018-10-01
+	Deloitte from 2018-10-01 until 2018-12-01
+	Rackspace from 2018-12-01 until 2019-04-01
+	Capita from 2019-04-01 until 2020-02-01
+	Independent from 2020-02-01 until 2020-07-01
+	GlaxoSmithKline USA from 2020-07-01
 kinosang: kinosang!users.noreply.github.com, me!7in0.me
 	Independent until 2015-05-01
 	Neighbourhood from 2015-05-01 until 2016-03-01
@@ -24104,15 +24114,3 @@ oggy: george.ogata!gmail.com, oggy!users.noreply.github.com
 	Amperity from 2019-11-01
 ogibayashi: ogibayashi!users.noreply.github.com
 	SoftBank
-ognjen-it: ognjen-it!users.noreply.github.com
-	Independent until 2017-04-01
-	Industrija mesa Matijević from 2017-04-01 until 2019-08-01
-	Independent from 2019-08-01 until 2019-12-01
-	P3 from 2019-12-01 until 2021-01-01
-	Things Solver from 2021-01-01
-ogontaro: ogontaro!gmail.com
-	DiamondMedia
-ogrisel: ogrisel!users.noreply.github.com, olivier.grisel!ensta.org
-	Inria (French Institute for Research in Computer Science and Automation)
-ogsingh: guneshwor.o.singh!intel.com
-	Intel Corporation
