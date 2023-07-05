@@ -3450,9 +3450,12 @@ christiancorbin: christiancorbin!users.noreply.github.com
 christiangalsterer: christian.galsterer!gmx.de, christiangalsterer!users.noreply.github.com
 	Giesecke + Devrient GmbH until 2018-02-01
 	Interhyp Gruppe from 2018-02-01
-christianh814: christianh814!users.noreply.github.com
+christianh814: christianh814!users.noreply.github.com, christian!chernand.io, christian!codefresh.io, chernand!redhat.com, christian!redhat.com, christian.hernandez!yahoo.com
 	4over until 2014-08-01
-	Red Hat Inc. from 2014-08-01
+	Red Hat Inc. from 2014-08-01 until 2022-06-01
+	Codefresh Inc. from 2022-06-01 until 2022-10-01
+	Red Hat Inc. from 2022-10-01 until 2023-06-05
+	Akuity Inc. from 2023-06-05
 christianhuening: christian.huening!figo.io, christian.huening!haw-hamburg.de, christianhuening!googlemail.com, christianhuening!users.noreply.github.com
 	MARS Research Group until 2017-09-01
 	Independent from 2017-09-01 until 2018-06-01
@@ -11852,7 +11855,7 @@ dhpup: danielvanhoang!gmail.com
 	International Business Machines Corporation from 2015-12-01 until 2018-08-01
 	Alkami from 2018-08-01 until 2020-03-01
 	Harness from 2020-03-01 until 2021-11-01
-	Akuity from 2021-11-01
+	Akuity Inc. from 2021-11-01
 dhrishi: hrishi!espressif.com
 	Marvell International Ltd until 2018-02-01
 	Espressif from 2018-02-01
@@ -20087,7 +20090,7 @@ evgeny-goldin: evgeny!goldin.us, evgeny-goldin!users.noreply.github.com, evgenyg
 	Amazon from 2015-03-01 until 2020-02-01
 	Independent from 2020-02-01 until 2020-04-01
 	Uber from 2020-04-01 until 2022-04-01
-	Akuity from 2022-04-01
+	Akuity Inc. from 2022-04-01
 evgenyfedoruk: evgenyf!radware.com
 	Radware Inc.
 evgf: evgf!users.noreply.github.com
