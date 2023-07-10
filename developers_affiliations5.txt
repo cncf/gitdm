@@ -5,6 +5,20 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+kiawin: kiawin!gmail.com, kiawin!users.noreply.github.com
+	OnApp
+kibbles-n-bytes: kibbles-n-bytes!users.noreply.github.com, mkibbe!google.com
+	Google LLC
+kibra: kibra!users.noreply.github.com, kibrahim!getpantheon.com
+	Pantheon Platform
+kibra: kyle.ibrahim!gmail.com
+	KTIP
+kichristensen: kichristensen!users.noreply.github.com, kimworking!gmail.com
+	Telenor until 2016-12-01
+	SimCorp A/S from 2016-12-01
+kickroot: jason!kickroot.com
+	SourceClear until 2018-04-01
+	Veracode Inc. from 2018-04-01
 kiddpt: kiddpt!users.noreply.github.com
 	Promotexter
 kidiyoor: gauthamvk.vk!gmail.com, kidiyoor!users.noreply.github.com
@@ -3922,8 +3936,6 @@ lecaros: lecaros!users.noreply.github.com
 	Independent from 2021-02-01 until 2021-09-01
 	BairesDev from 2021-09-01 until 2021-12-01
 	Calyptia from 2021-12-01
-lecgts: lecgts!users.noreply.github.com
-	DaoCloud Network Technology Co. Ltd.
 lechen26: lechen26!users.noreply.github.com, levichen24!gmail.com
 	SAP until 2019-07-01
 	Segasec from 2019-07-01 until 2020-06-01
@@ -6591,7 +6603,7 @@ lsowen: lsowen!s1devops.com, lsowen!s1network.com, lsowen!users.noreply.github.c
 lspiehler: lspiehler!gmail.com
 	Independent until 2020-08-01
 	Sapphire Health from 2020-08-01
-lsq645599166: henry.liu!daocloud.io
+lsq645599166: henry.liu!daocloud.io, lsq645599166!users.noreply.github.com
 	DaoCloud Network Technology Co. Ltd.
 lstarret: luke.starrett!broadcom.com
 	Broadcom Corporation
@@ -24078,24 +24090,3 @@ nwohlgemuth: n.wohlgemuth!yahoo.com
 	Crocker Innovation Fellowship from 2016-07-01 until 2016-12-01
 	NI from 2016-12-01 until 2017-04-01
 	Microsoft Corporation from 2017-04-01
-nwright-nz: nwright-nz!users.noreply.github.com
-	Dimension Data until 2014-12-01
-	Hewlett from 2014-12-01 until 2017-04-01
-	DIMENSION Co. Ltd. from 2017-04-01 until 2017-10-01
-	NTT Corporation from 2017-10-01 until 2020-06-01
-	Roam Digital from 2020-06-01
-nwsetec: nick.ward!setec.com.au, nwsetec!users.noreply.github.com
-	LIFX until 2014-11-01
-	Independent from 2014-11-01 until 2015-09-01
-	Setec from 2015-09-01
-nwspeete-ibm: nwspeete!us.ibm.com
-	International Business Machines Corporation
-nwt: nwt!users.noreply.github.com
-	Docker Inc. until 2018-09-01
-	Brim from 2018-09-01
-nwwebb: nwwebb!google.com
-	Google LLC
-nxf5025: nxf5025!users.noreply.github.com
-	Johnson & Johnson
-nxpfrankli: frank.li!freescale.com
-	Freescale

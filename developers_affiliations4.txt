@@ -5,6 +5,15 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+galenandrew: galen.turner!me.com
+	Apple Inc.
+galexandrov: georgi.alexandrov!telerik.com
+	Progress Software Corporation
+galiacheng: haixia.cheng!microsoft.com
+	Oracle America Inc. until 2019-12-01
+	Microsoft Corporation from 2019-12-01
+galicantensoft: galicantensoft!users.noreply.github.com
+	NSoft Company
 galindro: galindro!users.noreply.github.com
 	Independent until 2017-12-01
 	Bravi from 2017-12-01 until 2019-06-01
@@ -16031,7 +16040,7 @@ jitin17: jitin!espressif.com
 	Dell EMC from 2016-01-01 until 2017-06-01
 	Infracloud Technologies INC from 2017-06-01 until 2017-11-01
 	Espressif from 2017-11-01
-jiuker: 2818723467!qq.com
+jiuker: 2818723467!qq.com, jiuker!users.noreply.github.com
 	DaoCloud Network Technology Co. Ltd.
 jiulongzaitian: jiulongzaitian!users.noreply.github.com, zhangjie0619!yeah.net
 	HNA
@@ -24082,17 +24091,3 @@ kiall: kiall!hpe.com, kiall!macinnes.ie, kiall!users.noreply.github.com, sebasti
 	Microsoft Corporation from 2018-10-01
 kiates: kiates!users.noreply.github.com
 	Independent
-kiawin: kiawin!gmail.com, kiawin!users.noreply.github.com
-	OnApp
-kibbles-n-bytes: kibbles-n-bytes!users.noreply.github.com, mkibbe!google.com
-	Google LLC
-kibra: kibra!users.noreply.github.com, kibrahim!getpantheon.com
-	Pantheon Platform
-kibra: kyle.ibrahim!gmail.com
-	KTIP
-kichristensen: kichristensen!users.noreply.github.com, kimworking!gmail.com
-	Telenor until 2016-12-01
-	SimCorp A/S from 2016-12-01
-kickroot: jason!kickroot.com
-	SourceClear until 2018-04-01
-	Veracode Inc. from 2018-04-01
