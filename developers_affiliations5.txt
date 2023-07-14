@@ -5,6 +5,18 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+kfsone: kfsone!users.noreply.github.com, oliver!kfs.org
+	Ott Perry AGT
+kg-ops: kg-ops!users.noreply.github.com
+	Cognizant Technology Solutions until 2014-06-01
+	Independent from 2014-06-01 until 2015-06-01
+	TFI Fellowship from 2015-06-01 until 2015-08-01
+	Independent from 2015-08-01 until 2016-01-01
+	Meed from 2016-01-01 until 2016-05-01
+	Bluescape from 2016-05-01
+kg6zgj: danieltnoel!gmail.com, kg6zgj!users.noreply.github.com
+	GoMedigap until 2016-04-01
+	Chatbooks from 2016-04-01
 kgalazka: krzysztof.galazka!intel.com
 	Intel Corporation
 kgalieva: katerina.galieva!gmail.com, kgalieva!users.noreply.github.com
@@ -2939,7 +2951,7 @@ kwhetstone: kwhetstone!cloudbees.com
 	CloudBees Inc. from 2015-09-01
 kwholee: azrael1030!gmail.com, kwholee!users.noreply.github.com
 	Samsung SDS
-kwiesmueller: kwiesmueller!seibert-media.net, kwiesmueller!users.noreply.github.com, kevin.wiesmueller!gmail.com, kwiesmueller!redhat.com, kwiesmueller!google.com
+kwiesmueller: kevin.wiesmueller!gmail.com, kwiesmueller!google.com, kwiesmueller!redhat.com, kwiesmueller!seibert-media.net, kwiesmueller!users.noreply.github.com
 	Independent until 2020-12-01
 	RedHat Inc. from 2020-12-01 until 2021-10-01
 	Google LLC from 2021-10-01
@@ -24061,18 +24073,3 @@ nrvnrvn: nrvnrvn!users.noreply.github.com
 ns-wkso: wkso!netskope.com
 	Google LLC until 2021-02-01
 	Netskope from 2021-02-01
-nsaboo: nandakishoresaboo!gmail.com, nsaboo!users.noreply.github.com
-	LinkedIn Corporation until 2017-08-01
-	Independent from 2017-08-01 until 2018-03-01
-	ColorTokens from 2018-03-01
-nsainaney: narayan!sainaney.com, nsainaney!users.noreply.github.com
-	Mojio until 2018-02-01
-	Sainaney from 2018-02-01 until 2018-12-01
-	CodeZero from 2018-12-01
-nsait-linaro: niyas.sait!linaro.org, nsait-linaro!users.noreply.github.com
-	NVIDIA Corporation until 2015-03-01
-	ood4sure from 2015-03-01 until 2018-10-01
-	Arm from 2018-10-01 until 2022-01-01
-	Linaro Limited from 2022-01-01
-nsalonie: namrta.salonie!intel.com
-	Intel Corporation

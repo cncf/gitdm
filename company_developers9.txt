@@ -2,6 +2,11 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Skedify:
+	call-a3: call-a3!users.noreply.github.com from 2015-02-01 until 2018-02-01
+Skedulo:
+	bernielomax: bernielomax!users.noreply.github.com from 2016-07-01 until 2018-04-01
+	willthames: will!thames.id.au, willthames!users.noreply.github.com from 2018-04-01
 Skelter:
 	archhhh: artychen13!gmail.com from 2018-12-01 until 2019-02-01
 Skelter Labs:
@@ -4841,6 +4846,8 @@ Sumo Logic Inc.:
 	niketh: niketh!users.noreply.github.com, niketh.sabbineni!gmail.com from 2020-08-01
 	pbrzoska-sumo: pbrzoska-sumo!users.noreply.github.com from 2019-08-01
 	pdelewski: pdelewski!users.noreply.github.com from 2022-03-01
+	perk: marcin.stozek!gmail.com, mstozek!sumologic.com, perk!sumologic.com, perk!users.noreply.github.com, perk-sumo!users.noreply.github.com from 2019-11-30 until 2023-08-31
+	perk-sumo: perk-sumo!users.noreply.github.com from 2019-11-30 until 2023-08-31
 	pmalek-sumo: pmalek-sumo!users.noreply.github.com from 2020-07-01
 	pmatyjasek-sumo: pmatyjasek-sumo!users.noreply.github.com from 2020-09-01
 	pmm-sumo: pmm-sumo!users.noreply.github.com from 2019-12-01
@@ -9770,6 +9777,9 @@ The-cocktail:
 	andor-pierdelacabeza: alvaro.gonzalez!the-cocktail.com, andor!pierdelacabeza.com, andor-pierdelacabeza!users.noreply.github.com, cshapi!gmail.com
 TheBanks.eu:
 	ahsan-storm: 43028548+ahsan-storm!users.noreply.github.com, ahsan-storm!users.noreply.github.com from 2020-02-01
+TheBookingRoom:
+	perk: marcin.stozek!gmail.com, mstozek!sumologic.com, perk!sumologic.com, perk!users.noreply.github.com, perk-sumo!users.noreply.github.com until 2010-07-01
+	perk-sumo: perk-sumo!users.noreply.github.com until 2010-07-01
 TheCodeCampus:
 	jakehamilton: jakehamilton!users.noreply.github.com from 2016-01-01 until 2017-01-01
 TheFork:
@@ -15069,6 +15079,7 @@ VMware Inc.:
 	RinkiyaKeDad: RinkiyaKeDad!users.noreply.github.com from 2021-08-16 until 2021-12-17
 	RobbieJVMW: RobbieJVMW!users.noreply.github.com
 	Rock981119: Rock981119!users.noreply.github.com, rock981119!hotmail.com
+	RubenV-dev: 55550481+RubenV-dev!users.noreply.github.com, RubenV-dev!users.noreply.github.com from 2021-07-26
 	SDBrett: SDBrett!users.noreply.github.com, brett!sdbrett.com from 2017-05-01
 	Sagar2366: Sagar2366!users.noreply.github.com, sagarutekar2366!gmail.com from 2021-03-01
 	Salaboy: Salaboy!gmail.com, Salaboy!users.noreply.github.com from 2021-07-04
@@ -15438,6 +15449,7 @@ VMware Inc.:
 	james-w: james-w!users.noreply.github.com, jw+debian!jameswestby.net from 2019-05-01 until 2020-02-01
 	james65535: james65535!users.noreply.github.com, mcafeej!vmware.com
 	jamespollard8: jamespollard8!users.noreply.github.com from 2019-01-01 until 2021-03-01
+	jamieklassen: cklassen!pivotal.io, jklassen!vmware.com, michigan.j.frog!gmail.com from 2020-04-06
 	jamiemonserrate: jamiemonserrate!gmail.com, jamiemonserrate!users.noreply.github.com, jmonserrate!pivotal.io, monserratej!vmware.com from 2021-01-04
 	javsalgar: javsalgar!gmail.com, javsalgar!users.noreply.github.com, jsalmeron!bitnami.com from 2019-05-01
 	jayunit100: jay!apache.org, jay!platform9.com, jayunit100!github.com, jayunit100!users.noreply.github.com, jayunit100.apache!gmail.com, jvyas!blackducksoftware.com, jvyas!redhat.com, jvyas!vmware.com from 2019-07-15
@@ -15668,6 +15680,7 @@ VMware Inc.:
 	pianohacker: pianohacker!gmail.com, pianohacker!users.noreply.github.com from 2019-08-01 until 2021-07-01
 	pickledrick: 9246508+pickledrick!users.noreply.github.com, peter.james.grant!gmail.com, pickledrick!users.noreply.github.com from 2019-05-01
 	pietern: pnoordhuis!vmware.com until 2016-02-01
+	pivotal-jamie-klassen: cklassen!pivotal.io from 2020-04-06
 	pivotal-nader-ziada: nziada!pivotal.io, pivotal-nader-ziada!users.noreply.github.com from 2020-04-01
 	pivotaljohn: pivotaljohn!users.noreply.github.com from 2019-12-01
 	pjk25: kuryloskip!vmware.com
@@ -16422,24 +16435,3 @@ Vastgoeddata Nederland:
 	WyriHaximus: wyrihaximus!php.net until 2018-12-01
 Vastzone:
 	vijaysinghrawat1: vijaysinghrawat1!users.noreply.github.com, vijaysinghrawat167!gmail.com from 2016-09-01 until 2017-05-01
-Vatom:
-	andrewrothman: FlorianRedeker!gmail.com, andrew!andrewrothman.com, andrewrothman!users.noreply.github.com from 2020-06-01
-Vattenfall:
-	TalalMahmoodChaudhry: TalalMahmoodChaudhry!users.noreply.github.com from 2018-10-01 until 2020-09-01
-Vaudeville Ventures:
-	afoltzm: afoltzm!users.noreply.github.com from 2015-05-01 until 2016-06-01
-Vaughan:
-	andrewvaughan: andrewvaughan!users.noreply.github.com, hello!andrewvaughan.io from 2018-01-01 until 2019-10-01
-Vault:
-	ZacHaque: ZacHaque!users.noreply.github.com from 2020-08-01 until 2021-01-01
-Vault Cloud:
-	cdwertmann: cdwertmann!users.noreply.github.com from 2014-03-01
-Vault Consulting:
-	jlozano-rh: jlozano-rh!users.noreply.github.com from 2020-02-01 until 2021-08-01
-Vaultedge:
-	letmerecall: girishsharma001!gmail.com from 2018-12-01 until 2019-04-01
-Vaultize:
-	sandeepsukhani: sandeep.d.sukhani!gmail.com until 2016-11-01
-	sandlis: sandeep.d.sukhani!gmail.com, sandlis!users.noreply.github.com until 2016-11-01
-Vauxoo:
-	ruiztulio: ruiztulio!users.noreply.github.com from 2014-10-01

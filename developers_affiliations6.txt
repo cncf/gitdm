@@ -5,6 +5,21 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+nsaboo: nandakishoresaboo!gmail.com, nsaboo!users.noreply.github.com
+	LinkedIn Corporation until 2017-08-01
+	Independent from 2017-08-01 until 2018-03-01
+	ColorTokens from 2018-03-01
+nsainaney: narayan!sainaney.com, nsainaney!users.noreply.github.com
+	Mojio until 2018-02-01
+	Sainaney from 2018-02-01 until 2018-12-01
+	CodeZero from 2018-12-01
+nsait-linaro: niyas.sait!linaro.org, nsait-linaro!users.noreply.github.com
+	NVIDIA Corporation until 2015-03-01
+	ood4sure from 2015-03-01 until 2018-10-01
+	Arm from 2018-10-01 until 2022-01-01
+	Linaro Limited from 2022-01-01
+nsalonie: namrta.salonie!intel.com
+	Intel Corporation
 nsapse: nsapse!gmail.com
 	The Law until 2015-03-01
 	Independent from 2015-03-01 until 2017-08-01
@@ -4286,12 +4301,22 @@ perithompson: perithompson!users.noreply.github.com
 	Aptos Retail from 2017-08-01 until 2018-08-01
 	Valpak from 2018-08-01 until 2020-07-01
 	VMware Inc. from 2020-07-01
-perk: marcin.stozek!gmail.com perk!users.noreply.github.com perk!sumologic.com mstozek!sumologic.com perk-sumo!users.noreply.github.com
+perk: marcin.stozek!gmail.com, mstozek!sumologic.com, perk!sumologic.com, perk!users.noreply.github.com, perk-sumo!users.noreply.github.com
 	TheBookingRoom until 2010-07-01
 	International Business Machines Corporation from 2010-07-01 until 2015-08-31
-	Cinckiarz.pl from 2015-09-01 until 2017-04-30
+	Cinckiarz.pl from 2015-08-31 until 2017-04-30
+	Independent from 2017-04-30 until 2017-05-01
 	COLLECTIVE SENSE LLC from 2017-05-01 until 2019-11-30
-	Sumo Logic Inc. from 2019-12-01 until 2023-08-31
+	Sumo Logic Inc. from 2019-11-30 until 2023-08-31
+	Independent from 2023-08-31
+perk-sumo: perk-sumo!users.noreply.github.com
+	TheBookingRoom until 2010-07-01
+	International Business Machines Corporation from 2010-07-01 until 2015-08-31
+	Cinckiarz.pl from 2015-08-31 until 2017-04-30
+	Independent from 2017-04-30 until 2017-05-01
+	COLLECTIVE SENSE LLC from 2017-05-01 until 2019-11-30
+	Sumo Logic Inc. from 2019-11-30 until 2023-08-31
+	Independent from 2023-08-31
 perlchild: perlchild!users.noreply.github.com
 	AppDirect until 2019-01-01
 	AppDirect from 2019-01-01
@@ -5623,7 +5648,13 @@ pivanof-bot: pivanof!google.com
 	Google LLC
 pivotal-issuemaster: pivotal-issuemaster!users.noreply.github.com
 	b
-pivotal-jamie-klassen: cklassen!pivotal.io, pivotal-jamie-klassen!users.noreply.github.com
+pivotal-jamie-klassen: cklassen!pivotal.io
+	Independent until 2016-09-06
+	Pivotal from 2016-09-06 until 2017-11-01
+	CGI from 2017-11-01 until 2018-05-01
+	Pivotal from 2018-05-01 until 2020-04-06
+	VMware Inc. from 2020-04-06
+pivotal-jamie-klassen: pivotal-jamie-klassen!users.noreply.github.com
 	Pivotal
 pivotal-jamil-shamy: pivotal-jamil-shamy!users.noreply.github.com
 	Pivotal
@@ -14842,9 +14873,6 @@ rubenssoto: rubenssoto!users.noreply.github.com
 	Zé Delivery from 2020-04-01
 rubenv: ruben!rocketeer.be, rubenv!users.noreply.github.com
 	Independent
-rubenv-dev: 55550481+RubenV-dev!users.noreply.github.com
-	Independent until 2021-07-26
-	VMware Inc. from 2021-07-26
 rubenvdg: rubenvdg!users.noreply.github.com
 	Independent until 2018-10-01
 	HEINEKEN from 2018-10-01 until 2019-11-01
@@ -24043,46 +24071,3 @@ songkamongkol: somboon.ongkamongkol!spirent.com, songkamongkol!users.noreply.git
 	Spirent Communications Inc
 songleo: lisong1205!gmail.com, lssongg!cn.ibm.com, songleo!users.noreply.github.com
 	International Business Machines Corporation
-songole: songole!users.noreply.github.com
-	One Convergence Inc. until 2018-03-01
-	One Convergence Inc. from 2018-03-01
-songrgg: songrgg!users.noreply.github.com, songrgg0.0!gmail.com, srjiang!outlook.com
-	埃森哲 until 2014-09-01
-	即科金融信息服务（上海）有限公司 from 2014-09-01 until 2015-06-01
-	Wallstreetcn from 2015-06-01 until 2019-04-01
-	Booking.com B.V. from 2019-04-01
-songsong182: 13780306726!163.com
-	NetEase Inc
-songxiao-wang87: songxiao-wang87!users.noreply.github.com
-	ZTE Corporation
-songy23: songy23!users.noreply.github.com, songya!google.com
-	Google LLC
-songyuning-inspur: songyuning!inspur.com, songyuning-inspur!users.noreply.github.com
-	Inspur Group
-soniasingla: soniasingla.1812!gmail.com
-	Independent until 2019-12-01
-	Mozilla Corporation from 2019-12-01 until 2020-05-01
-	CNCF from 2020-05-01
-sonic6x: sonic4x!163.com
-	NetEase Inc
-sonicaj: sonicaj!users.noreply.github.com
-	Independent until 2017-03-01
-	Trust Stamp from 2017-03-01 until 2017-10-01
-	Faber on-demand from 2017-10-01 until 2018-02-01
-	iXsystems from 2018-02-01
-sonicke126: 10112215!zte.com.cn
-	ZTE Corporation
-sonicyao1985: sonic_yao1985!163.com
-	NetEase Inc
-sonicz: sonic.zhang!analog.com
-	Analog Devices Inc.
-sonikro: jonathan!nagayoshi.com.br
-	E-IT until 2014-04-01
-	Sonikro from 2014-04-01 until 2017-02-01
-	Independent from 2017-02-01 until 2017-04-01
-	Autbank from 2017-04-01 until 2018-03-01
-	Ótimo Gestor from 2018-03-01 until 2019-04-01
-	Via Varejo SA from 2019-04-01 until 2020-05-01
-	John Deere from 2020-05-01
-soninaren: nasoni!microsoft.com, soninaren!live.com, soninaren!users.noreply.github.com
-	Independent
