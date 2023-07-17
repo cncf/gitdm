@@ -1,4 +1,4 @@
-# This is the main developers affiliations file.
+﻿# This is the main developers affiliations file.
 # If you see your name with asterisk '*' sign - it means that
 # multiple affiliations were found for you with different email addresses.
 # Please merge all of them into one then.
@@ -2322,6 +2322,8 @@ chaoqin-li1123: chaoqin-li1123!users.noreply.github.com
 chaosaffe: chaosaffe!users.noreply.github.com, jason!chaosaffe.io, jason!loodse.com, kyle!pyrus.io
 	Talk Shop until 2016-02-01
 	International Business Machines Corporation from 2016-02-01
+chaosi-zju: chaosi-zju!users.noreply.github.com, chaosi!zju.edu.cn, panchaosi!huawei.com
+	Huawei Technologies Co. Ltd
 chaospuppy: chaospuppy!users.noreply.github.com
 	Independent until 2016-08-01
 	RaceReach from 2016-08-01 until 2016-12-01

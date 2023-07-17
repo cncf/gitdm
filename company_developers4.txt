@@ -1,4 +1,4 @@
-# This file is derived from developers_affiliations.txt and so should not be edited directly.
+﻿# This file is derived from developers_affiliations.txt and so should not be edited directly.
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
@@ -3609,6 +3609,7 @@ Huawei Technologies Co. Ltd:
 	cathyhongzhang: cathy.h.zhang!huawei.com, cathyhongzhang!users.noreply.github.com, hzhang!futurewei.com
 	chaiyuxiao: chaiyuxiao!users.noreply.github.com, wilson.wen.chn!gmail.com
 	changweige: changweige!gmail.com, changweige!users.noreply.github.com until 2014-08-01
+	chaosi-zju: chaosi-zju!users.noreply.github.com, chaosi!zju.edu.cn, panchaosi!huawei.com
 	chaseyu: chao2.yu!samsung.com, yuchao0!huawei.com
 	chenweiqiang7777: chenweiqiang7777!users.noreply.github.com from 2016-07-01 until 2017-09-01
 	chenyu56: chenyu56!huawei.com
