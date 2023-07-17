@@ -5,6 +5,8 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+kevensen: kdevensen!gmail.com, kdevensen!google.com, kevensen!redhat.com, kevensen!users.noreply.github.com
+	Red Hat Inc.
 keveryang: kever.yang!rock-chips.com
 	Rockchip Electronics CO. Ltd.
 kevgliss: kevgliss!gmail.com
@@ -24051,8 +24053,3 @@ nobodyiam: nobodyiam!gmail.com, nobodyiam!users.noreply.github.com
 	Ant Group from 2019-02-01
 nobse: norbert!tretkowski.de
 	B1 Systems GmbH
-nobu-k: nobu-k!users.noreply.github.com, nobu.k.jp+github!gmail.com
-	Preferred Networks Inc. until 2014-08-01
-	Preferred Networks Inc. from 2014-08-01
-nobutaka: n.takushima!gmail.com, nobutaka!users.noreply.github.com
-	ITAKO
