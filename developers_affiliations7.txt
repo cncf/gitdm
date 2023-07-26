@@ -3531,7 +3531,7 @@ stevenceuppens: steven.ceuppens!icloud.com
 	HP Inc. from 2019-01-01
 stevencohn: stevencohn!users.noreply.github.com
 	Waters Corporation
-stevenctl: 
+stevenctl:
 	Google LLC until 2023-02-05
 	Aviatrix from 2023-02-05
 stevenctl: landow!google.com, slandow!aviatrix.com, stevenctl!users.noreply.github.com
@@ -23013,7 +23013,8 @@ zeitlinger: zeitlinger!users.noreply.github.com
 	txtr until 2015-02-01
 	Minodes from 2015-02-01 until 2015-04-01
 	Storecast from 2015-04-01 until 2018-06-01
-	Zalando SE from 2018-06-01
+	Zalando SE from 2018-06-01 until 2023-03-01
+	Grafana Labs from 2023-03-01
 zeke: zeke!sikelianos.com, zeke!users.noreply.github.com
 	npm Inc.
 zeldovich: nickolai!csail.mit.edu
