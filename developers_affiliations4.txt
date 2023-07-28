@@ -22437,8 +22437,13 @@ jyotibhanot: jyoti.bhanot30!gmail.com
 	Banque Saudi Fransi from 2021-06-01
 jyotimahapatra: jyotimahapatra!users.noreply.github.com
 	Microsoft Corporation until 2019-03-29
+<<<<<<< HEAD
 	Lyft Inc. from 2019-03-29 until 2020-12-18
 	Amazon from 2020-12-18
+=======
+	Lyft Inc. from 2019-04-01 until 2020-12-18
+        Amazon from 2020-12-21
+>>>>>>> 28af47bd432191c74dba602ac6a2a7be7d243b50
 jyotipatel: jyotipatel!users.noreply.github.com
 	Independent until 2016-05-01
 	FreeCharge from 2016-05-01 until 2016-07-01
