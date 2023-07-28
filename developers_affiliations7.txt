@@ -5,6 +5,27 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+skriss: krisss!vmware.com, skriss!users.noreply.github.com, stephen.kriss!gmail.com, steve!heptio.com
+	Heptio Inc. until 2018-12-11
+	VMware Inc. from 2018-12-11
+skristiansson: konghui!live.cn, stefan.kristiansson!saunalahti.fi
+	Espotel Oy until 2015-04-01
+	NVIDIA Corporation from 2015-04-01
+skrusty: skrusty!users.noreply.github.com
+	zapappi
+sks: sabithksme!gmail.com
+	Uber
+sksiaszczak: sksiaszczak!gmail.com
+	Seagate Technology LLC
+sksodhi: sksodhi!juniper.net
+	Juniper Networks Inc.
+skuda: skuda!users.noreply.github.com, skuda21!gmail.com
+	Independent
+skudriashev: skudriashev!users.noreply.github.com, stas.kudriashev!gmail.com
+	EPAM Systems Inc
+skuehnlein: skuehnlein!users.noreply.github.com
+	OPITZ CONSULTING until 2021-08-01
+	adesso from 2021-08-01
 skuijper: skuijper!users.noreply.github.com
 	Keplar Agency until 2015-07-01
 	Oxydigit from 2015-07-01
@@ -994,7 +1015,7 @@ softwarebloat: softwarebloat!users.noreply.github.com
 	Byte-Code from 2015-10-01 until 2020-02-01
 	iGenius from 2020-02-01 until 2021-03-01
 	Casavo from 2021-03-01
-softwarejimenez: softwarejimenez!users.noreply.github.com antonjim!cisco.com
+softwarejimenez: antonjim!cisco.com, softwarejimenez!users.noreply.github.com
 	Cisco
 softwareklinic: keyur.shah!verizon.com
 	Verizon
@@ -4790,7 +4811,7 @@ suratdas: surat.das!gmail.com
 	Veritas Technologies LLC until 2017-11-01
 	Independent from 2017-11-01 until 2018-03-01
 	Ondot from 2018-03-01
-surbhiia: surbhiia!users.noreply.github.com surbagar!cisco.com
+surbhiia: surbagar!cisco.com, surbhiia!users.noreply.github.com
 	Cisco
 surenderssm: surenderssm!users.noreply.github.com
 	Microsoft Corporation
@@ -23017,7 +23038,8 @@ zeitlinger: zeitlinger!users.noreply.github.com
 	txtr until 2015-02-01
 	Minodes from 2015-02-01 until 2015-04-01
 	Storecast from 2015-04-01 until 2018-06-01
-	Zalando SE from 2018-06-01
+	Zalando SE from 2018-06-01 until 2023-03-01
+	Grafana Labs from 2023-03-01
 zeke: zeke!sikelianos.com, zeke!users.noreply.github.com
 	npm Inc.
 zeldovich: nickolai!csail.mit.edu
@@ -23405,11 +23427,12 @@ zhaochenglan: zhaochenglan!users.noreply.github.com
 	高顿财经 from 2014-08-01 until 2017-06-01
 	Independent from 2017-06-01 until 2018-04-01
 	Strikingly from 2018-04-01
-zhaohuabing: huabingzhao!tencent.com, zhao.huabing!zte.com.cn, zhaohuabing!gmail.com, zhaohuabing!users.noreply.github.com
+zhaohuabing: huabing!tetrate.io, huabingzhao!tencent.com, zhao.huabing!zte.com.cn, zhaohuabing!gmail.com, zhaohuabing!users.noreply.github.com
 	ZTE Corporation until 2014-11-01
 	Oracle America Inc. from 2014-11-01 until 2016-04-01
 	ZTE Corporation from 2016-04-01 until 2020-07-01
-	Tencent Holdings Limited from 2020-07-01
+	Tencent Holdings Limited from 2020-07-01 until 2023-05-04
+	Tetrate.io from 2023-05-04
 zhaojizhuang: 571130360!qq.com, zhaojizhuang!users.noreply.github.com
 	Bytedance Ltd
 zhaoleidd: zhaolei!cn.fujitsu.com
@@ -23458,8 +23481,6 @@ zhengjunxin: 18810544291!163.com, zheng.junxin!outlook.com, zhengjunxin!users.no
 	Alibaba.com
 zhengtianchi: zhengtianchi!users.noreply.github.com
 	hundsun
-zhengxinwei-f: zhengxinwei!huawei.com, zhengxw_zzz!outlook.com
-    Huawei Technologies Co. Ltd
 zhengyal: zhengyal!amazon.com
 	Amazon
 zhenjunMa: lingfenglangshao!gmail.com, zhenjunMa!users.noreply.github.com
@@ -24320,30 +24341,3 @@ zuc: michele!zuccala.com
 	Sysdig Inc. from 2021-04-01
 zuercher: stephan!turbinelabs.io, zuercher!gmail.com, zuercher!users.noreply.github.com
 	Turbine Labs
-zufardhiyaulhaq: zufardhiyaulhaq!gmail.com
-	Independent until 2017-09-01
-	PT Boer Technology (Btech) from 2017-09-01 until 2020-01-01
-	GOJEK from 2020-01-01
-zufardhiyaulhaq: zufardhiyaulhaq!users.noreply.github.com
-	Balabit until 2017-12-01
-	Hiya Inc. from 2017-12-01
-zuk: zuk!users.noreply.github.com
-	AdParlor until 2015-11-01
-	Akira from 2015-11-01
-zulh-civo: zulh-civo!users.noreply.github.com
-	Independent until 2015-02-01
-	Armada Everywhere Sdn Bhd from 2015-02-01 until 2015-05-01
-	Independent from 2015-05-01 until 2015-10-01
-	BBD Labs from 2015-10-01 until 2016-05-01
-	HelloGold Sdn. Bhd from 2016-05-01 until 2020-09-01
-	Independent from 2020-09-01
-zuquan-song: zuquan-song!users.noreply.github.com
-	LightInTheBox until 2014-09-01
-	Qihoo 360 from 2014-09-01 until 2015-03-01
-	Independent from 2015-03-01 until 2015-08-01
-	Huawei Technologies Co. Ltd from 2015-08-01 until 2017-10-01
-	Independent from 2017-10-01 until 2018-04-01
-	EOITEK from 2018-04-01 until 2019-06-01
-	Independent from 2019-06-01 until 2020-06-01
-	Bytedance Ltd from 2020-06-01 until 2020-08-01
-	Independent from 2020-08-01

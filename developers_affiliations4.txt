@@ -5,6 +5,17 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+frenchbread: damir.mustafin!protonmail.ch, frenchbread!users.noreply.github.com
+	Independent until 2014-06-01
+	Monami Agency from 2014-06-01 until 2014-08-01
+	Independent from 2014-08-01 until 2015-06-01
+	Sampo from 2015-06-01 until 2017-05-01
+	Independent from 2017-05-01 until 2018-10-01
+	B2Broker from 2018-10-01 until 2018-11-01
+	Independent from 2018-11-01 until 2021-03-01
+	Itransition from 2021-03-01 until 2022-06-01
+	Independent from 2022-06-01 until 2022-08-01
+	Wunderdog from 2022-08-01
 frenchtoasters: frenchtoasters!users.noreply.github.com
 	Independent until 2021-05-01
 	Linode LLC. from 2021-05-01 until 2022-03-01
@@ -12511,8 +12522,9 @@ jacobwgillespie: jacobwgillespie!gmail.com, jacobwgillespie!users.noreply.github
 	Chloe Insable from 2015-11-01 until 2016-09-01
 	Webflow from 2016-09-01 until 2017-08-01
 	Thorn from 2017-08-01
-jacobwolfaws: jacwolf!amazon.com, jacobwolfaws!users.noreply.github.com
-        AWS from 2022-08-29
+jacobwolfaws: jacobwolfaws!users.noreply.github.com, jacwolf!amazon.com
+	Independent until 2022-08-29
+	AWS from 2022-08-29
 jacogreyling: jacogreyling!users.noreply.github.com, jgreyling!gmail.com
 	Independent until 2018-03-01
 	Nedbank from 2018-03-01
@@ -22424,8 +22436,9 @@ jyotibhanot: jyoti.bhanot30!gmail.com
 	Alef Education from 2020-04-01 until 2021-06-01
 	Banque Saudi Fransi from 2021-06-01
 jyotimahapatra: jyotimahapatra!users.noreply.github.com
-	Microsoft Corporation until 2019-03-01
-	Lyft Inc. from 2019-03-01
+	Microsoft Corporation until 2019-03-29
+	Lyft Inc. from 2019-03-29 until 2020-12-18
+	Amazon from 2020-12-18
 jyotipatel: jyotipatel!users.noreply.github.com
 	Independent until 2016-05-01
 	FreeCharge from 2016-05-01 until 2016-07-01
@@ -24084,18 +24097,3 @@ keeganwitt: keeganwitt!gmail.com, keeganwitt!users.noreply.github.com
 	eBay Inc. from 2014-03-01 until 2015-10-01
 	ICC from 2015-10-01 until 2019-05-01
 	Deep Lens from 2019-05-01
-keenan-wells-dxc: keenan-wells-dxc!users.noreply.github.com
-	Independent until 2016-02-01
-	HelloWorld Devs from 2016-02-01 until 2017-04-01
-	Emerge from 2017-04-01 until 2019-03-01
-	RadarFirst from 2019-03-01 until 2021-12-01
-	Dexcom Inc. from 2021-12-01 until 2022-06-01
-	Tatari from 2022-06-01
-keerthiadu: keerthiadu!users.noreply.github.com
-	Amazon until 2015-07-01
-	Zenefits from 2015-07-01 until 2017-04-01
-	Microsoft Corporation from 2017-04-01
-keertip: keertip!google.com, keertip!users.noreply.github.com
-	Google LLC
-kees: keescook!chromium.org
-	Google LLC

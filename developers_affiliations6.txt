@@ -5,6 +5,23 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+nirdotan: nird!mellanox.com
+	Mellanox
+nirenjan: nirenjan.krishnan!dell.com, nirenjan_krishnan!dell.com
+	Dell
+nirf-cisco: nirf!cisco.com, nirf-cisco!users.noreply.github.com
+	Cisco
+nirga: nirga!users.noreply.github.com
+	Independent until 2015-01-01
+	ZORE from 2015-01-01 until 2017-01-01
+	Independent from 2017-01-01 until 2017-03-01
+	Google LLC from 2017-03-01 until 2020-08-01
+	Fiverr from 2020-08-01
+nirgn975: nir!galon.io
+	Independent until 2015-07-01
+	Restart IT & DevOps from 2015-07-01 until 2015-11-01
+	Gizra from 2015-11-01 until 2017-01-01
+	WebintPro from 2017-01-01
 nirkoren: nirkoren!users.noreply.github.com, tobolovea!gmail.com
 	SAP until 2015-11-01
 	LivePerson Inc. from 2015-11-01 until 2021-02-01
@@ -9342,8 +9359,10 @@ pymander: earneson!arnesonium.com
 pymhq: pymhq!users.noreply.github.com, pymhq001!gmail.com, yimipeng!amazon.com
 	Independent until 2016-03-14
 	AWS from 2016-03-14
-pyohannes: johannes!johannes.tax, jtax!newrelic.com
-	New Relic Inc.
+pyohannes: johannes!johannes.tax, johannes.tax!grafana.com, johannestax!microsoft.com, jtax!newrelic.com
+	New Relic Inc. until 2021-11-30
+	Microsoft Corporation from 2021-11-30 until 2023-07-25
+	Grafana Labs from 2023-07-25
 pyr: pyr!spootnik.org
 	Akenes SA (Exoscale)
 pyr0hu: pyr0hu!users.noreply.github.com
@@ -13097,9 +13116,6 @@ richiepiya: rpiyasir!redhat.com
 	International Business Machines Corporation from 2019-01-01 until 2020-03-01
 	Red Hat Inc. from 2020-03-01 until 2021-08-01
 	Microsoft Corporation from 2021-08-01
-richincapie: hincapiet.ricardo!gmail.com richincapie!users.noreply.github.com
-	Genius Sports Ltd from 2021-11-01 until 2023-03-17
-	Tetrate.io from 2023-03-21
 richlander: richlander!users.noreply.github.com, rlander!microsoft.com
 	Microsoft Corporation
 richm: richm!users.noreply.github.com, rmeggins!redhat.com
@@ -24030,24 +24046,3 @@ skrese: skrese!users.noreply.github.com
 	Bitstamp from 2022-04-01
 skreuzer: skreuzer!freebsd.org, skreuzer!users.noreply.github.com
 	FreeBSD
-skriss: krisss!vmware.com, skriss!users.noreply.github.com, stephen.kriss!gmail.com, steve!heptio.com
-	Heptio Inc. until 2018-12-11
-	VMware Inc. from 2018-12-11
-skristiansson: konghui!live.cn, stefan.kristiansson!saunalahti.fi
-	Espotel Oy until 2015-04-01
-	NVIDIA Corporation from 2015-04-01
-skrusty: skrusty!users.noreply.github.com
-	zapappi
-sks: sabithksme!gmail.com
-	Uber
-sksiaszczak: sksiaszczak!gmail.com
-	Seagate Technology LLC
-sksodhi: sksodhi!juniper.net
-	Juniper Networks Inc.
-skuda: skuda!users.noreply.github.com, skuda21!gmail.com
-	Independent
-skudriashev: skudriashev!users.noreply.github.com, stas.kudriashev!gmail.com
-	EPAM Systems Inc
-skuehnlein: skuehnlein!users.noreply.github.com
-	OPITZ CONSULTING until 2021-08-01
-	adesso from 2021-08-01
