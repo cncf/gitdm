@@ -5,6 +5,91 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+kbidarkar: gman.hl!gmail.com, kbidarka!redhat.com, kbidarkar!users.noreply.github.com
+	Red Hat Inc.
+kbingham: kbingham!kernel.org, kieran!bingham.xyz, kieran+renesas!bingham.xyz, kieran.bingham!ideasonboard.com, kieran.bingham!linaro.org, kieran.bingham+renesas!ideasonboard.com, kieranbingham!gmail.com
+	STMicroelectronics International N.V. until 2014-03-01
+	Independent from 2014-03-01
+kblin: kai!samba.org, kblin!biosustain.dtu.dk, kblin!users.noreply.github.com, stepan.maks!gmail.com
+	Independent
+kbreit: kbreit!users.noreply.github.com, kevin.breit!kevinbreit.net
+	Insight
+kbriggs: kbriggs!gmail.com, kbriggs+github!gmail.com
+	Quest until 2016-09-01
+	Dell EMC from 2016-09-01
+kbrockhoff: kbrockhoff!users.noreply.github.com, kwbrockhoff!gmail.com
+	Sirius until 2017-08-01
+	AmberNet from 2017-08-01 until 2018-08-01
+	Daugherty Business Solutions from 2018-08-01
+kbrownlees: kbrownlees!users.noreply.github.com, kieran!mootium.co
+	Yellow until 2016-05-01
+	MAD On from 2016-05-01 until 2018-01-01
+	KANDO from 2018-01-01
+kbruner: kbruner!users.noreply.github.com
+	Dalet Flex until 2015-04-01
+	Clari from 2015-04-01 until 2017-08-01
+	Ascend Inc from 2017-08-01 until 2018-07-01
+	Independent from 2018-07-01 until 2018-11-01
+	StackRox Inc. from 2018-11-01
+kbrwn: kbrwn!users.noreply.github.com
+	CoreOS Inc.
+kbrwn: kyle.steven.brown!gmail.com
+	Red Hat Inc.
+kbudde: kbudde!users.noreply.github.com, kris.budde!gmail.com
+	SkyCom
+kc-adawson: kc-adawson!users.noreply.github.com
+	Independent until 2017-11-01
+	VMware Inc. from 2017-11-01 until 2019-01-01
+	Orbita from 2019-01-01 until 2020-03-01
+	StormForge from 2020-03-01 until 2021-04-01
+	Netafy from 2021-04-01 until 2022-03-01
+	Stackwatch from 2022-03-01
+kc8apf: kc8apf!kc8apf.net, kc8apf!users.noreply.github.com, raltherr!google.com
+	Google LLC
+kcampos: kyle.campos!gmail.com
+	BioIQ until 2016-01-01
+	CSAA Insurance Group from 2016-01-01 until 2018-07-01
+	Smarsh from 2018-07-01
+kcarlson2915: kcarlson2915!users.noreply.github.com
+	Independent until 2015-05-01
+	Viasat Inc. from 2015-05-01 until 2015-08-01
+	Independent from 2015-08-01 until 2016-07-01
+	OpenTable from 2016-07-01 until 2018-12-01
+	Samsara Networks Inc from 2018-12-01 until 2020-05-01
+	Independent from 2020-05-01
+kcboschert: kcboschert!users.noreply.github.com
+	Braintree Payments
+kcfigaro: kc!cloudacode.com
+	SK planet until 2016-06-01
+	NCSOFT Corporation from 2016-06-01 until 2018-12-01
+	King from 2018-12-01
+kchia: kchia!users.noreply.github.com, kchia87!gmail.com
+	Acumen until 2014-08-01
+	Hive Global from 2014-08-01 until 2014-10-01
+	Independent from 2014-10-01 until 2016-01-01
+	AngelHack from 2016-01-01 until 2016-11-01
+	StyleSeat Inc. from 2016-11-01 until 2017-07-01
+	Zocdoc Inc. from 2017-07-01 until 2019-08-01
+	General Assembly from 2019-08-01
+kchitrapu: kchitrapu!users.noreply.github.com
+	Verilume until 2016-03-01
+	IntraLinks Holdings Inc. from 2016-03-01
+kchodorow: k.chodorow!gmail.com, kchodorow!google.com, kchodorow!users.noreply.github.com
+	Google LLC
+kchristidis: kchristidis!users.noreply.github.com, kostas!christidis.io
+	International Business Machines Corporation
+kchuah4: kim.tatt.chuah!intel.com
+	Intel Corporation
+kciredor: kciredor!users.noreply.github.com, roderick!wehandle.it
+	We handle
+kcking: kcking!users.noreply.github.com
+	Independent until 2014-05-01
+	Coinbase Inc. from 2014-05-01 until 2014-07-01
+	Independent from 2014-07-01 until 2015-05-01
+	Palantir Technologies Inc. from 2015-05-01 until 2015-07-01
+	krypt.co from 2015-07-01 until 2019-08-01
+	Mux from 2019-08-01 until 2020-06-01
+	Room from 2020-06-01
 kcmartin: kcmartin!users.noreply.github.com
 	Independent until 2016-11-01
 	Prism Skylabs from 2016-11-01 until 2017-11-01
@@ -11813,6 +11898,11 @@ martell: martell!users.noreply.github.com, martellmalone!gmail.com
 	Game Closure from 2015-08-01 until 2016-10-01
 	MalCon Ventures from 2016-10-01 until 2017-05-01
 	Kassen from 2017-05-01
+martham93: martha!pachama.com, martham93!users.noreply.github.com
+	Independent until 2018-06-01
+	DigitalGlobe Inc. from 2018-06-01 until 2019-10-01
+	Development Seed from 2019-10-01 until 2021-10-01
+	Pachama from 2021-10-01
 martialblog: martialblog!users.noreply.github.com
 	NETWAYS GmbH
 martiert: martiert!gmail.com, mertsas!cisco.com
@@ -12058,6 +12148,11 @@ marwanad: marwanad!users.noreply.github.com, me!marwanad.com, mrwnad!gmail.com
 	Independent from 2018-04-01 until 2018-08-01
 	Microsoft Corporation from 2018-08-01 until 2018-12-01
 	Independent from 2018-12-01
+marwanfahmi: marwanfahmi!users.noreply.github.com
+	Independent until 2017-01-01
+	Sphere Consulting from 2017-01-01 until 2017-05-01
+	International Business Machines Corporation from 2017-05-01 until 2020-02-01
+	Reply from 2020-02-01
 marwansalem: marwansalem!users.noreply.github.com
 	Independent until 2021-03-01
 	Enozom Software · Internship from 2021-03-01 until 2021-04-01
@@ -14904,6 +14999,10 @@ menehune23: menehune23!users.noreply.github.com
 mengdie-song: songm!vmware.com
 	Independent until 2017-07-01
 	VMware Inc. from 2017-07-01
+mengdong: mengdong!users.noreply.github.com
+	ADP until 2015-01-01
+	MapR from 2015-01-01 until 2018-01-01
+	NVIDIA Corporation from 2018-01-01
 mengdonglin: github!FernandoMiguel.net, mengdong.lin!intel.com, mengdong.lin!linux.intel.com
 	Intel Corporation
 mengfj: mengfj!users.noreply.github.com
@@ -23945,110 +24044,3 @@ nikklassen: nikklassen!users.noreply.github.com
 	Zanbato from 2016-01-01 until 2016-04-01
 	Independent from 2016-04-01 until 2018-07-01
 	Google LLC from 2018-07-01
-nikkout: nikkout!users.noreply.github.com
-	Independent until 2019-09-01
-	Intracom Telecom from 2019-09-01
-niklaskorz: niklaskorz!users.noreply.github.com, nk!alugha.com
-	Alugha
-niklasmelen: niklasm!axis.com
-	Axis Communications
-nikolaik: nikolaik!gmail.com
-	Zeppelin GmbH until 2016-12-01
-	Lucida from 2016-12-01 until 2017-12-01
-	Kindly from 2017-12-01 until 2022-09-01
-	reMarkable from 2022-09-01
-nikolajbrinch: nikolajbrinch!users.noreply.github.com
-	Nine A/S
-nikolas: nikolas!gnu.org, nnyby!columbia.edu
-	Independent
-nikolasburk: nikolas.burk!gmail.com
-	Cameramanager B.V. / Panasonic until 2014-08-01
-	Hubert Burda Media from 2014-08-01 until 2015-10-01
-	Recurse Center from 2015-10-01 until 2015-12-01
-	vuzii from 2015-12-01 until 2016-02-01
-	Ketchum Pleon from 2016-02-01 until 2016-04-01
-	Independent from 2016-04-01 until 2017-01-01
-	Prisma from 2017-01-01
-nikolay: nikolay!users.noreply.github.com
-	Banno
-nikolay-fedotov: nfedotov!cisco.com, nikolay-fedotov!users.noreply.github.com
-	Mirantis Inc. until 2014-03-31
-	Cisco from 2014-03-31
-nikolay-pshenichny: nikolay-pshenichny!users.noreply.github.com
-	Practice Fusion until 2016-04-01
-	Zenefits from 2016-04-01 until 2017-06-01
-	Salesforce.com Inc. from 2017-06-01
-nikolay-t: nikolay-t!users.noreply.github.com
-	Dell EMC
-nikolay-te: nikolay-te!users.noreply.github.com
-	Amazon until 2016-07-01
-	William Hill from 2016-07-01 until 2017-02-01
-	ThousandEyes from 2017-02-01
-nikolayb: nikolayb!gmail.com, nikolayb!users.noreply.github.com
-	Treasure Data Inc.
-nikolaygtitov: ngtitov!ncsu.edu, nikolay.titov!nokia.com
-	Nokia Corporation
-nikonet: nikonet!users.noreply.github.com
-	Independent until 2018-01-01
-	Intility from 2018-01-01 until 2018-08-01
-	Intility from 2018-08-01 until 2021-08-01
-	Dr.Dropin from 2021-08-01
-nikopen: 42466421+nikopen!users.noreply.github.com, niko.penteridis!protonmail.com, nikopen!users.noreply.github.com
-	Independent
-nikos: n.schmuck!nava.de, niko!nava.de
-	Independent
-nikovacevic: nikovacevic!gmail.com, nikovacevic!users.noreply.github.com
-	Independent until 2018-02-01
-	Koverse from 2018-02-01 until 2019-10-01
-	Stackwatch from 2019-10-01
-nikox94: nikola!canva.com, nikola.yuroukov!gmail.com, nikox94!users.noreply.github.com
-	ScaleFocus
-niksauer: niksauer!users.noreply.github.com
-	Independent until 2015-10-01
-	HP Inc. from 2015-10-01 until 2015-11-01
-	Hewlett from 2015-11-01 until 2018-09-01
-	Flexibits from 2018-09-01 until 2018-12-01
-	Hewlett from 2018-12-01 until 2019-12-01
-	Flexibits from 2019-12-01
-niksy: info!ivannikolic.com, ivan.nikolic!trikoder.net, niksy!users.noreply.github.com, niksy5!gmail.com
-	Trikoder
-nikunjad: nikunj!linux.vnet.ibm.com
-	International Business Machines Corporation
-nikushi: deneb.ge!gmail.com
-	Dena Corp
-nikwest: github!nikwest.de
-	BlackBerry Limited until 2014-05-01
-	Independent from 2014-05-01 until 2015-03-01
-	Colorimetrix from 2015-03-01
-niladrih: niladrih!users.noreply.github.com
-	Independent until 2021-02-01
-	OpenEBS from 2021-02-01 until 2021-11-01
-	DataCore Software from 2021-11-01
-nilamdyuti: ngoswami!redhat.com, nilamdyuti!gmail.com
-	Red Hat Inc.
-nilanjan-samajdar: nilanjan-samajdar!users.noreply.github.com
-	Aricent until 2017-04-01
-	Altran from 2017-04-01
-nilansaha: nilansaha!users.noreply.github.com
-	Independent until 2018-08-01
-	Cookt from 2018-08-01 until 2018-09-01
-	Independent from 2018-09-01 until 2019-03-01
-	Hooklabs from 2019-03-01 until 2019-04-01
-	Independent from 2019-04-01 until 2020-03-01
-	Packt from 2020-03-01 until 2020-07-01
-	Knowt from 2020-07-01 until 2020-08-01
-	Aaqua from 2020-08-01
-nilayasiktoprak: nilayasiktoprak!users.noreply.github.com
-	Independent until 2021-07-01
-	GittiGidiyor from 2021-07-01
-nilbot: ersi.ni!nilbot.net
-	Canonical until 2017-01-01
-	Sproutling Inc. from 2017-01-01 until 2021-08-01
-	GitHub Inc. from 2021-08-01
-nilebox: nilebox!users.noreply.github.com, nislamov!atlassian.com
-	Yandex Money until 2016-05-01
-	Atlassian from 2016-05-01 until 2019-10-01
-	Google LLC from 2019-10-01
-nileema: nileema!users.noreply.github.com
-	Meta Platforms Inc. until 2018-07-01
-	Snowflake Inc. from 2018-07-01

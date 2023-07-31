@@ -5,6 +5,53 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+bvera: billy!billy.mx, bvera!users.noreply.github.com
+	SUSE LLC
+bviolier: bob!violier.eu, bviolier!users.noreply.github.com
+	MessageBird
+bvis: bvis!users.noreply.github.com
+	Softonic
+bvkin: bkincaid1!protonmail.com
+	Independent until 2017-06-01
+	Red Hat Inc. from 2017-06-01 until 2019-08-01
+	Rocket Insights from 2019-08-01
+bwagner5: brandon!brandonwagner.info
+	Triple Plus Ltd until 2015-12-01
+	AOL from 2015-12-01 until 2016-12-01
+	Triple Plus Ltd from 2016-12-01 until 2017-10-01
+	Amazon from 2017-10-01
+bwalding: ben!walding.com, bwalding!users.noreply.github.com
+	CloudBees Inc.
+bwalex: alex!alexhornung.com, bwalex!users.noreply.github.com
+	Independent
+bwallan: bruce.w.allan!intel.com
+	Intel Corporation
+bwalle: bernhard!bwalle.de, bernhard.walle!posteo.eu, bwalle!users.noreply.github.com
+	Independent
+bwarminski: bwarminski!gmail.com, bwarminski!users.noreply.github.com
+	TripAdvisor LLC until 2015-05-01
+	Independent from 2015-05-01 until 2016-10-01
+	Upland Localytics from 2016-10-01 until 2019-02-01
+	Toastmasters International from 2019-02-01
+bwassie: bwassie!users.noreply.github.com
+	Independent until 2018-06-01
+	LeadCrunch from 2018-06-01 until 2019-07-01
+	Raybeam from 2019-07-01 until 2020-06-01
+	Independent from 2020-06-01
+bwaz: bwaz!users.noreply.github.com
+	Infoblox Inc.
+bwells: bwells!altalang.com
+	ALTA Language Services
+bwerthmann: bwerthmann!users.noreply.github.com
+	Independent until 2015-01-01
+	Apcera from 2015-01-01 until 2018-06-01
+	Ericsson from 2018-06-01 until 2021-06-01
+	Synadia Communications from 2021-06-01
+bweston92: bradwestonwigston!gmail.com, bweston92!users.noreply.github.com, hello!bweston.me
+	LegalWebb
+bwhacks: ben!decadent.org.uk
+	Solarflare Communications Inc. until 2014-01-01
+	Codethink from 2014-01-01
 bwicakso: besar.wicaksono!amd.com
 	Advanced Micro Devices (AMD)
 bwidawsk: ben!bwidawsk.net, benjamin.widawsky!intel.com
@@ -1673,6 +1720,9 @@ cboylan: cboylan!users.noreply.github.com, clark.boylan!gmail.com
 	Intel Corporation until 2012-04-23
 	HP Inc. from 2012-04-23 until 2014-09-30
 	OpenStack Foundation from 2014-09-30
+cbreuel: cbreuel!users.noreply.github.com
+	Google LLC until 2020-04-01
+	Nu Pagamentos S.A from 2020-04-01
 cbricker: cbricker!stanford.edu
 	Independent
 cbroglie: cbroglie!gmail.com, cbroglie!users.noreply.github.com
@@ -5031,6 +5081,11 @@ claudiubeznea: claudiu.beznea!microchip.com
 claurence: claurence!pivotal.io, claurence!users.noreply.github.com
 	Pivotal until 2020-01-01
 	VMware Inc. from 2020-01-01
+clausagerskov: clausagerskov!users.noreply.github.com
+	COMSOL until 2015-03-01
+	Independent from 2015-03-01 until 2015-08-01
+	Lundbeck from 2015-08-01 until 2020-01-01
+	PS AI Labs from 2020-01-01
 clawr: clawr!google.com
 	Google LLC
 clawsavior: clawsavior!users.noreply.github.com
@@ -12699,6 +12754,17 @@ dhgosavi: dgosavi1!gmail.com, dhgosavi!cisco.com, mvolz!wikimedia.org
 	Cisco
 dhharala: mitko.haralanov!intel.com
 	Intel Corporation
+dhiemaz: dhiemaz!users.noreply.github.com, prawira.dimas.yudha!gmail.com
+	SKK Migas until 2014-12-01
+	Nokia Corporation from 2014-12-01 until 2015-08-01
+	Digital Media from 2015-08-01 until 2016-10-01
+	Grab from 2016-10-01 until 2019-04-01
+	OVO from 2019-04-01 until 2020-01-01
+	Creedix from 2020-01-01 until 2020-09-01
+	RCTI+ from 2020-09-01 until 2021-11-01
+	Independent from 2021-11-01 until 2022-05-01
+	Bananas from 2022-05-01 until 2022-10-01
+	Rakuten from 2022-10-01
 dhilipkumars: dhilip.kumar.s!huawei.com, dhilipkumars!users.noreply.github.com
 	Huawei Technologies Co. Ltd
 dhilipsiva: dhilipsiva!gmail.com, dhilipsiva!users.noreply.github.com
@@ -16935,6 +17001,11 @@ dynek: dynek!users.noreply.github.com
 	blue-infinity until 2017-07-01
 	Wipro Limited from 2017-07-01 until 2018-05-01
 	Kudelski Security from 2018-05-01
+dynofu: dynofu!users.noreply.github.com
+	VMware Inc. until 2016-04-01
+	Nutanix Inc. from 2016-04-01 until 2017-08-01
+	Signifyd from 2017-08-01 until 2021-01-01
+	Salesforce from 2021-01-01
 dystopiandev: dystopiandev!users.noreply.github.com, me!dystopian.dev
 	Dualsight
 dyusupov: dmitry!nexenta.com, dyusupov!users.noreply.github.com
@@ -23857,79 +23928,3 @@ frebib: frebib!users.noreply.github.com, github!frebib.net
 fred: fred!users.noreply.github.com
 	HipFlat Pte Ltd until 2014-06-01
 	Omise Co. Ltd from 2014-06-01
-fred-vogt: fred-vogt!users.noreply.github.com
-	CSRware Inc until 2015-07-01
-	Salesforce.com Inc. from 2015-07-01 until 2016-10-01
-	Independent from 2016-10-01 until 2017-02-01
-	Domino Data Lab Inc from 2017-02-01 until 2017-07-01
-	Independent from 2017-07-01 until 2017-11-01
-	Entelo from 2017-11-01 until 2018-11-01
-	Independent from 2018-11-01 until 2020-08-01
-	Doctor On Demand from 2020-08-01
-fredbi: fredbi!yahoo.com
-	PAIRWISE
-fredchenbj: cfworking!163.com, fredchenbj!users.noreply.github.com
-	NetEase Inc
-freddie400: priyanshuraj400!gmail.com
-	Independent until 2021-04-01
-	Google LLC from 2021-04-01 until 2022-09-01
-	Cyble from 2022-09-01
-freddy33: freddy33!users.noreply.github.com
-	JFrog
-freddy77: freddy77!gmail.com, frediano.ziglio!citrix.com
-	Citrix Systems Inc.
-frederich: frederich!users.noreply.github.com, jfrederich!gmail.com
-	Independent
-fredericlepied: frederic.lepied!enovance.com, fredericlepied!users.noreply.github.com
-	eNovance until 2014-06-24
-	Red Hat Inc. from 2014-06-24
-fredericrous: fredericrous!users.noreply.github.com
-	SAP until 2019-11-01
-	FINEOS from 2019-11-01 until 2020-12-01
-	Independent from 2020-12-01 until 2021-04-01
-	Storyful from 2021-04-01 until 2022-02-01
-	Teckro · from 2022-02-01
-frederikbosch: f.bosch!genkgo.nl, frederikbosch!users.noreply.github.com
-	Genkgo
-frederiko: frederiko!gmail.com
-	Boku until 2014-06-01
-	Sony Interactive Entertainment LLC from 2014-06-01 until 2016-06-01
-	Sony Marketing Inc. from 2016-06-01 until 2017-10-01
-	Workday Inc. from 2017-10-01
-frederiko: frederiko!users.noreply.github.com
-	Boku until 2014-06-01
-	Sony Marketing Inc. Interactive Entertainment LLC from 2014-06-01 until 2016-06-01
-	Sony Marketing Inc. from 2016-06-01 until 2017-10-01
-	Workday Inc. from 2017-10-01
-frederikprijck: frederik.prijck!gmail.com, frederikprijck!users.noreply.github.com
-	Team4Talent until 2014-03-01
-	Continuum LLC from 2014-03-01 until 2015-12-01
-	Codacious bvba from 2015-12-01 until 2019-02-01
-	This Dot Inc. from 2019-02-01
-frederimandin: 15192504+frederimandin!users.noreply.github.com, frederimandin!users.noreply.github.com
-	Edifixio
-fredfp: fredfp!users.noreply.github.com
-	Groowin until 2018-06-01
-	SwissBorg from 2018-06-01
-fredg02: fredg02!hotmail.com
-	eClips
-fredgate: fredgate!users.noreply.github.com
-	almerys until 2018-03-01
-	DomRaider from 2018-03-01 until 2018-06-01
-	Braincube from 2018-06-01
-fredhsu: fredhsu!users.noreply.github.com, fredlhsu!gmail.com
-	Arista Networks
-fredjean: fred!fredjean.net, fredjean!users.noreply.github.com
-	Walt Disney Animation Studios
-fredkan: fredkan!users.noreply.github.com, github!pinto.im, kjb0518!163.com
-	Alibaba.com
-fredlas: 43351173+fredlas!users.noreply.github.com, fredlas!users.noreply.github.com
-	Independent until 2017-08-01
-	Google LLC from 2017-08-01
-fredlawl: fred!fredlawl.com
-	Barkley until 2016-12-01
-	Independent from 2016-12-01 until 2017-02-01
-	Trip Mate from 2017-02-01 until 2019-06-01
-	moment.js from 2019-06-01
-fredleger: fredleger!users.noreply.github.com
-	webofmars EIRL
