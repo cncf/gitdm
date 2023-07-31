@@ -1377,8 +1377,6 @@ softwarebloat: softwarebloat!users.noreply.github.com
 	Byte-Code from 2015-10-01 until 2020-02-01
 	iGenius from 2020-02-01 until 2021-03-01
 	Casavo from 2021-03-01
-softwarejimenez: antonjim!cisco.com, softwarejimenez!users.noreply.github.com
-	Cisco
 softwareklinic: keyur.shah!verizon.com
 	Verizon
 sofuture: jeffz!eml.cc
@@ -16782,6 +16780,8 @@ vumrao: vumrao!redhat.com
 	Red Hat Inc.
 vuntz: vuntz!suse.com
 	SUSE LLC
+vutnguye-te: vutnguye!cisco.com vutnguye-te!users.noreply.github.com
+	Cisco
 vutkin: vutkin!users.noreply.github.com
 	Alnitech until 2015-10-01
 	Independent from 2015-10-01 until 2017-12-01
@@ -20523,6 +20523,8 @@ xvello: xavier.vello!datadoghq.com, xvello!users.noreply.github.com
 	Groupe Sllio Paris from 2015-04-01 until 2016-04-01
 	Swimbot from 2016-04-01 until 2017-02-01
 	Datadog Inc from 2017-02-01
+xvilaca-te: xvilaca!cisco.com xvilaca-te!users.noreply.github.com
+	Cisco
 xvladqt: Xvladxtreme!gmail.com
 	Independent
 xvoidz: yuri.pankov!nexenta.com
