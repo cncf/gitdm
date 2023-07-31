@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+bwicakso: besar.wicaksono!amd.com
+	Advanced Micro Devices (AMD)
+bwidawsk: ben!bwidawsk.net, benjamin.widawsky!intel.com
+	Intel Corporation
 bwitherspoon: bwitherspoon!users.noreply.github.com, spoonb!cdspooner.com
 	Independent
 bwkimmel: bwkimmel!google.com, bwkimmel!users.noreply.github.com, intrepidca!gmail.com
@@ -22421,6 +22425,7 @@ ferd: ferd!users.noreply.github.com, mononcqc!ferd.ca
 	Heroku Inc. until 2017-03-01
 	Genetec from 2017-03-01 until 2019-06-01
 	Postmates Inc from 2019-06-01 until 2021-01-01
+	Independent from 2021-01-01 until 2021-01-26
 	Honeycomb.io from 2021-01-26
 ferdi-bedag: ferdi-bedag!users.noreply.github.com, ferdinand.huebner!gmail.com
 	Independent
@@ -23928,6 +23933,3 @@ fredlawl: fred!fredlawl.com
 	moment.js from 2019-06-01
 fredleger: fredleger!users.noreply.github.com
 	webofmars EIRL
-fredlf: frederick.lifton!crowdsupply.com
-	Docker Inc. until 2015-10-01
-	Crowd Supply from 2015-10-01
