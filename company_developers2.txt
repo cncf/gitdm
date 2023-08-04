@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Brasil Celular:
+	endersonmenezes: endersonster!gmail.com from 2017-01-01 until 2017-06-01
 Braspag:
 	rubenssoto: rubenssoto!users.noreply.github.com from 2016-03-01 until 2020-04-01
 Brass Photography:
@@ -5648,6 +5650,7 @@ Cisco:
 	anoopbabu29: anoobabu!cisco.com, anoopbabu29!users.noreply.github.com
 	anshulkumar19: anshulk!cisco.com
 	antje: antje!users.noreply.github.com until 2016-07-01
+	antonjim-te: antonjim!cisco.com, softwarejimenez!users.noreply.github.com
 	anupreet5: anupreet5!users.noreply.github.com from 2016-08-01 until 2019-09-01
 	anuragsen: asen!ptc.com until 2015-03-01
 	anvega: anvega!users.noreply.github.com until 2015-05-01, from 2015-11-01 until 2018-08-01
@@ -5978,6 +5981,7 @@ Cisco:
 	paulzim: privatejava!yahoo.com, pzimmerm!cisco.com
 	pavankrish123: pavan.krish123!gmail.com, pavankrish123!users.noreply.github.com from 2017-05-31
 	pebrc: pebrc!users.noreply.github.com from 2014-05-01 until 2017-07-01
+	pedro-te: pedro-te!users.noreply.github.com, pedrorg!cisco.com
 	pengx17: pengx17!users.noreply.github.com, pengxiao!outlook.com, xiaoquwl!gmail.com
 	piano-man: piano-man!users.noreply.github.com, reen.gagan!gmail.com from 2019-05-01 until 2019-07-01, from 2020-08-01
 	pinkeshsharma: pinkeshsharma!users.noreply.github.com, pinkeshsharma89!gmail.com from 2022-01-01
@@ -6051,6 +6055,7 @@ Cisco:
 	sbaroulette-web: sbaroulette-web!users.noreply.github.com from 2021-08-01
 	sbelair2: sbelair!cisco.com, sbelair2!users.noreply.github.com
 	sbezverk: sbezverk!cisco.com, sbezverk!users.noreply.github.com
+	sboychen-te: sboychen!cisco.com, sboychen-te!users.noreply.github.com
 	scheler: santosh.cheler!appdynamics.com, santosh.cheler!gmail.com, scheler!cisco.com, scheler!users.noreply.github.com from 2020-06-01
 	schultyy: janschulte!fastmail.com from 2021-11-01
 	sdake: sdake!ibm.com, sdake!redhat.com, sdake!users.noreply.github.com, stdake!cisco.com, steven.dake!gmail.com, steven.dake!netapp.com from 2015-01-30 until 2018-11-25
@@ -6155,6 +6160,7 @@ Cisco:
 	vishleshpatel: vishlesh.patel12!gmail.com, vishleshpatel!users.noreply.github.com
 	vit-: vit-!users.noreply.github.com from 2015-01-01 until 2018-05-01
 	vonjones: vonjones!users.noreply.github.com until 2017-11-01
+	vutnguye-te: vutnguye!cisco.com, vutnguye-te!users.noreply.github.com
 	vvm-broadsoft: vvm-broadsoft!users.noreply.github.com from 2018-04-01 until 2018-12-01
 	wabouhamad: wabouham!redhat.com until 2016-07-01
 	wannabesrevenge: schultz100190!gmail.com, wannabesrevenge!users.noreply.github.com
@@ -6167,6 +6173,7 @@ Cisco:
 	wzhx78: dcwangmit01!gmail.com
 	xiaom-GitHub: max8612!gmail.com, xiaom!google.com, xiaom-GitHub!users.noreply.github.com until 2016-01-01
 	xiaopeng163: pengxiao!outlook.com, penxiao!cisco.com, xiaopeng163!users.noreply.github.com
+	xvilaca-te: xvilaca!cisco.com, xvilaca-te!users.noreply.github.com
 	xyhuang: huangxy0101!gmail.com, xinyuahu!cisco.com, xyhuang!users.noreply.github.com
 	yachna: guptayachna01!gmail.com from 2018-10-01 until 2021-01-01
 	yangzhares: yangzhares!users.noreply.github.com
@@ -16352,11 +16359,3 @@ Docent Health:
 	ekrupnik: ekrupnik!gmail.com, ekrupnik!users.noreply.github.com, eric.krupnik!docenthealth.com, francisco.herrero!axa.com, hi!oleggromov.com from 2016-09-01
 Docente:
 	vicenteherrera: vicenteherrera!users.noreply.github.com, vicenteherrera!vicenteherrera.com until 2019-11-01
-Dock:
-	feliperfmarques: feliperfmarques!users.noreply.github.com from 2021-01-01 until 2022-02-01
-	ytpessoa: ytpessoa!gmail.com from 2021-07-01 until 2021-09-01
-DockYard:
-	patcoll: pat!burned.com from 2019-01-01
-	zachdaniel: zachary.s.daniel!gmail.com from 2018-10-01 until 2020-02-01
-Dockbit:
-	0xAhmed: ahmed!manhag.org from 2016-06-01

@@ -2,6 +2,14 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Dock:
+	feliperfmarques: feliperfmarques!users.noreply.github.com from 2021-01-01 until 2022-02-01
+	ytpessoa: ytpessoa!gmail.com from 2021-07-01 until 2021-09-01
+DockYard:
+	patcoll: pat!burned.com from 2019-01-01
+	zachdaniel: zachary.s.daniel!gmail.com from 2018-10-01 until 2020-02-01
+Dockbit:
+	0xAhmed: ahmed!manhag.org from 2016-06-01
 Docker Inc.:
 	AndreyKostov: AndreyKostov!users.noreply.github.com from 2014-10-01 until 2016-12-01
 	BrianBland: brian.t.bland!gmail.com from 2014-09-01 until 2016-03-01
@@ -3064,6 +3072,7 @@ Elasticsearch Inc.:
 	sebgl: contact.sebgl!gmail.com, sebgl!users.noreply.github.com
 	smith: 277525065!qq.com, csnitker!godaddy.com, nathan.smith!elastic.co, smith!nlsmith.com, smith!users.noreply.github.com
 	trentm: trent.mick!elastic.co, trent.mick!joyent.com, trentm!gmail.com, trentm!users.noreply.github.com from 2020-10-01
+	trisch-me: 10500694+trisch-me!users.noreply.github.com, alexandra.konrad!elastic.co, trisch-me!users.noreply.github.com
 	trynity: trynity!mirell.org, trynity!users.noreply.github.com from 2019-01-01 until 2020-01-01
 	ty-elastic: 107002404+ty-elastic!users.noreply.github.com, ty-elastic!users.noreply.github.com, tyrone.bekiares!elastic.co
 	ugosan: ugo.sangiorgi!elastic.co, ugosan!users.noreply.github.com
@@ -9046,6 +9055,7 @@ Frontmatec:
 Frontside:
 	cowboyd: cowboyd!frontside.com
 	jorgelainfiesta: jorgelainfiesta!users.noreply.github.com from 2019-03-01
+	taras: tarasm!gmail.com from 2017-11-01
 Frontware International:
 	gugdewescale: gugdewescale!users.noreply.github.com from 2016-04-01 until 2016-06-01
 FrostZ:
@@ -16239,12 +16249,3 @@ GrowthCap:
 	jrusso1020: jdrusso1020!gmail.com from 2016-07-01 until 2016-08-01
 GrowthGear:
 	specter25: specter25!users.noreply.github.com from 2020-12-01 until 2021-04-01
-Groww:
-	ansh-lehri: ansh-lehri!users.noreply.github.com from 2021-12-01
-	hitanshu-mehta: hitanshu-mehta!users.noreply.github.com from 2021-05-01
-Groww India:
-	Dhi13man: dhiman.seal!groww.in from 2021-12-01
-Grroom · Internship:
-	Dhi13man: dhiman.seal!groww.in from 2020-07-01 until 2020-08-01
-GrubHub:
-	DiegoWong: japo2300!gmail.com until 2015-01-01

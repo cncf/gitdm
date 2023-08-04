@@ -5919,6 +5919,8 @@ NYLON:
 	selfagency: selfagency!users.noreply.github.com from 2015-03-01 until 2019-03-01
 NYSE Euronext:
 	mambu: marco.ambu!gmail.com until 2014-09-01
+NYU:
+	adityasaky: aditya!saky.in, aditya.sirish!nyu.edu, adityasaky!users.noreply.github.com from 2018-09-05
 NYU Langone Health:
 	JustinCappos: JustinCappos!users.noreply.github.com, jcappos!nyu.edu, justincappos!gmail.com
 	awwad: awwad!users.noreply.github.com, s!172-16-15-187.dynapool.nyu.edu, sebastien.awwad!gmail.com, sebastien.awwad!nyu.edu until 2019-07-01

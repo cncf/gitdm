@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+sjanc: szymon.janc!codecoup.pl, szymon.janc!gmail.com
+	Independent until 2015-01-01
+	Codecoup from 2015-01-01
+sjanota: mr.akra!gmail.com, sjanota!users.noreply.github.com, szymon.janota!sap.com
+	SAP
 sjanuary: sjanuary!uk.ibm.com
 	International Business Machines Corporation
 sjb933: sjb933!gmail.com
@@ -1377,6 +1382,8 @@ softwarebloat: softwarebloat!users.noreply.github.com
 	Byte-Code from 2015-10-01 until 2020-02-01
 	iGenius from 2020-02-01 until 2021-03-01
 	Casavo from 2021-03-01
+softwarejimenez: antonjim!cisco.com, softwarejimenez!users.noreply.github.com
+	Cisco
 softwareklinic: keyur.shah!verizon.com
 	Verizon
 sofuture: jeffz!eml.cc
@@ -11668,8 +11675,8 @@ triptych: triptych!gmail.com
 	eBay Inc. from 2015-11-01
 trisberg: trisberg!pivotal.io, trisberg!users.noreply.github.com
 	Pivotal
-trisch-me: alexandra.konrad!elastic.co, 10500694+trisch-me!users.noreply.github.com
-    Elasticsearch Inc.
+trisch-me: 10500694+trisch-me!users.noreply.github.com, alexandra.konrad!elastic.co, trisch-me!users.noreply.github.com
+	Elasticsearch Inc.
 trishankatdatadog: 33133073+trishankatdatadog!users.noreply.github.com, trishank.kuppusamy!datadoghq.com, trishankatdatadog!users.noreply.github.com
 	Independent until 2017-10-01
 	Datadog Inc from 2017-10-01
@@ -16782,12 +16789,12 @@ vumrao: vumrao!redhat.com
 	Red Hat Inc.
 vuntz: vuntz!suse.com
 	SUSE LLC
-vutnguye-te: vutnguye!cisco.com vutnguye-te!users.noreply.github.com
-	Cisco
 vutkin: vutkin!users.noreply.github.com
 	Alnitech until 2015-10-01
 	Independent from 2015-10-01 until 2017-12-01
 	EPAM from 2017-12-01
+vutnguye-te: vutnguye!cisco.com, vutnguye-te!users.noreply.github.com
+	Cisco
 vuxuanlai: vuxuanlai!users.noreply.github.com
 	M_Service
 vvakame: vvakame!users.noreply.github.com, vvakame+dev!gmail.com
@@ -20525,7 +20532,7 @@ xvello: xavier.vello!datadoghq.com, xvello!users.noreply.github.com
 	Groupe Sllio Paris from 2015-04-01 until 2016-04-01
 	Swimbot from 2016-04-01 until 2017-02-01
 	Datadog Inc from 2017-02-01
-xvilaca-te: xvilaca!cisco.com xvilaca-te!users.noreply.github.com
+xvilaca-te: xvilaca!cisco.com, xvilaca-te!users.noreply.github.com
 	Cisco
 xvladqt: Xvladxtreme!gmail.com
 	Independent
@@ -24330,14 +24337,3 @@ zkhadikov: kvzura!gmail.com
 	Jedox until 2017-11-01
 	Endress+Hauser from 2017-11-01 until 2022-12-01
 	Wiferion from 2022-12-01
-zklapow: zklapow!gmail.com, zklapow!hubspot.com, zklapow!users.noreply.github.com
-	HubSpot Inc.
-zknill: 6664336+zknill!users.noreply.github.com, zknill!users.noreply.github.com
-	GENIAC until 2014-09-01
-	Independent from 2014-09-01 until 2015-11-01
-	Multiplay from 2015-11-01 until 2016-06-01
-	Attest from 2016-06-01
-zlangbert: zach.langbert!gmail.com, zlangbert!users.noreply.github.com
-	Nike Inc.
-zlav: zcjlavallee!gmail.com, zlav!users.noreply.github.com
-	FOSSA
