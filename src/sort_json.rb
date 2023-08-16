@@ -23,7 +23,7 @@ def sort_json(json_file)
       puts affs
       puts affs2
       puts ''
-      data[idx]['affiliation'] = affs
+      data[idx]['affiliation'] = affs2
     end
   end
   pretty = JSON.pretty_generate data
