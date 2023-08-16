@@ -8193,8 +8193,8 @@ cynthia-sg: cynthia-sg!users.noreply.github.com
 	Pacific from 2015-07-01 until 2017-04-01
 	eBay from 2017-04-01 until 2017-12-01
 	Sparx from 2017-12-01 until 2019-10-01
-	Buoyant Inc. from 2019-10-01 until 2019-12-01
-	CNCF from 2019-12-01
+	Buoyant Inc. from 2019-10-01 until 2020-01-01
+	CNCF from 2020-01-01
 cyphar: asarai!suse.com, asarai!suse.de, cyphar!cyphar.com, cyphar!users.noreply.github.com
 	Independent until 2015-12-01
 	SUSE LLC from 2015-12-01
@@ -20911,10 +20911,11 @@ esben: eha!deif.com, esben!haabendal.dk
 	Hus Service until 2014-06-01
 	Deif Wind Power from 2014-06-01
 esbie: esbie!users.noreply.github.com, esbie.is!gmail.com
-	Rumble until 2015-06-01
-	Twitter Inc. from 2015-06-01 until 2017-07-01
-	Buoyant Inc. from 2017-07-01 until 2017-11-01
-	Transposit Corporation from 2017-11-01
+	Twitter Inc. until 2014-07-01
+	Rumble from 2014-07-01 until 2015-06-01
+	Buoyant Inc. from 2015-07-01 until 2017-11-01
+	Transposit Corporation from 2017-11-01 until 2021-08-01
+	Mux from 2022-01-01
 eschava: eschava!gmail.com
 	InfoReach Inc
 escodel: escodel!gmail.com, escodel!users.noreply.github.com
