@@ -5,37 +5,6 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
-karolyc: karolyc!users.noreply.github.com
-	Orange SA
-karolz-ms: karolz!microsoft.com, karolz-ms!users.noreply.github.com
-	Microsoft Corporation
-karolzlot: karolzlot!users.noreply.github.com
-	Independent
-karpovicham: aleksandr.karpovich!oxagile.com, karpovicham!users.noreply.github.com
-	Oxagile
-karras: karras!users.noreply.github.com
-	Swiss Post until 2014-07-01
-	Adfinis AG (f/k/a Adfinis SyGroup) from 2014-07-01
-kars7e: karol.stepniewski!gmail.com, kars7e!users.noreply.github.com, kstepniewski!vmware.com
-	VMware Inc.
-karstengr: karstengr!users.noreply.github.com, kgraul!linux.ibm.com
-	International Business Machines Corporation
-karstenkoenig: karsten.koenig.030!gmail.com, karstenkoenig!users.noreply.github.com
-	muse until 2014-01-01
-	Independent from 2014-01-01 until 2016-08-01
-	Bosch eBike Systems from 2016-08-01 until 2019-02-01
-	Nordic Semiconductor ASA from 2019-02-01
-karthequian: karthequian!users.noreply.github.com, karthik.gaekwad!gmail.com
-	Mentor Graphics Corporation until 2014-07-01
-	Signal from 2014-07-01 until 2014-11-01
-	StackEngine (now owned by Oracle) from 2014-11-01 until 2016-02-01
-	Red Hat Inc. from 2016-02-01
-karthicgit: karthicgit!users.noreply.github.com
-	Mphasis Limited until 2014-11-01
-	Caterpillar India Private Limited from 2014-11-01 until 2016-11-01
-	Red Hat Inc. from 2016-11-01
-karthik-krishnamurthy: karthik-krishnamurthy!users.noreply.github.com
-	Dell
 karthik-vijayaraju: karthik-vijayaraju!users.noreply.github.com
 	Tata until 2016-03-01
 	ThoughtWorks Inc from 2016-03-01
@@ -1695,7 +1664,7 @@ khazhyk: khazhy!google.com
 	Google LLC
 khdang: khdang!microsoft.com, khdang!users.noreply.github.com, khoa.dang!microsoft.com
 	Microsoft Corporation
-khellang: khellang!users.noreply.github.com, kristian!hellang.com, kristian!hellang.com, kristian.hellang!iris.no, kristian.hellang!iris.no
+khellang: khellang!users.noreply.github.com, kristian!hellang.com, kristian.hellang!iris.no
 	Capgemini until 2014-10-01
 	Sharp Code from 2014-10-01 until 2015-05-01
 	Miles AS from 2015-05-01
@@ -3845,7 +3814,7 @@ krupalitrivedi: krupalitrivedi!users.noreply.github.com
 	Independent until 2021-02-01
 	ADAX Media from 2021-02-01 until 2021-04-01
 	Independent from 2021-04-01
-kruppel: kruppel!users.noreply.github.com, kurt!checkr.com, kurt!checkr.com, me!kurtruppel.com, me!kurtruppel.com, me+github!kurtruppel.com, me+github!kurtruppel.com
+kruppel: kruppel!users.noreply.github.com, kurt!checkr.com, me!kurtruppel.com, me+github!kurtruppel.com
 	Zendesk Inc. until 2016-01-01
 	Checkr from 2016-01-01 until 2018-12-01
 	Middesk from 2018-12-01
@@ -5692,9 +5661,8 @@ lcp: chingpang!gmail.com, glin!suse.com
 	SUSE LLC
 lcrisci: laurent!crisci.io, laurent.crisci!gmail.com, lcrisci!users.noreply.github.com
 	lastminute until 2015-07-15
-	Crisci SOlutions from 2015-07-15 until 2016-07-15
-	ITV from 2016-07-15
-	Sainsbury's from 2100-01-01
+	ITV Crisci SOlutions from 2015-07-15 until 2016-07-15
+	Sainsbury's from 2016-07-15
 lcwangchao: cclcwangchao!hotmail.com, lcwangchao!users.noreply.github.com
 	PingCAP
 lcweaver: l-weaver!ti.com
@@ -6137,7 +6105,7 @@ lemeurherve: lemeurherve!users.noreply.github.com
 	Sixense from 2017-07-01 until 2021-08-01
 	Independent from 2021-08-01 until 2021-10-01
 	CloudBees Inc. from 2021-10-01
-lemmaa: lemmaa!users.noreply.github.com, sj925.lee!samsung.com, sj925.lee!samsung.com, sjlee!mail.com, sjlee!mail.com
+lemmaa: lemmaa!users.noreply.github.com, sj925.lee!samsung.com, sjlee!mail.com
 	Samsung Electronics Co. Ltd.
 lemmy-: lemmy!yandex-team.ru
 	YANDEX LLC
@@ -7923,7 +7891,7 @@ logachev: logachev!users.noreply.github.com
 	Microsoft Corporation from 2014-09-01
 logan: logan!users.noreply.github.com, logan.hanks!gmail.com
 	Reddit Inc
-loganaden: logan!cyberstorm.mu, logan!cyberstorm.mu, loganaden!gmail.com, loganaden!gmail.com, loganaden!users.noreply.github.com
+loganaden: logan!cyberstorm.mu, loganaden!gmail.com, loganaden!users.noreply.github.com
 	Independent until 2015-12-01
 	cyberstorm.mu from 2015-12-01 until 2016-01-01
 	African Network Information Centre from 2016-01-01
@@ -19700,8 +19668,7 @@ mortenk: morten.knudsen73!gmail.com
 mortenlj: morten.lied.johansen!finn.no, mortenlj!users.noreply.github.com
 	FINN.no
 mortenlj: mortenjo!ifi.uio.no
-	IFI
-	UiO from 2100-01-01
+	IFI UiO
 mortenmj: mortenmj!users.noreply.github.com
 	Cognite
 mortensteenrasmussen: morten!mediaflex.dk, mortensteenrasmussen!users.noreply.github.com
@@ -24028,3 +23995,43 @@ nick4fake: nick4fake!users.noreply.github.com
 	EPAM Systems Inc from 2016-02-01 until 2017-10-01
 	Namecheap Inc. from 2017-10-01 until 2018-05-01
 	GlobalLogic Inc. from 2018-05-01
+nick5616: nick5616!users.noreply.github.com
+	Independent until 2018-06-01
+	iHeartMedia Inc from 2018-06-01 until 2019-01-01
+	Independent from 2019-01-01 until 2019-06-01
+	American Express Banking Corp. from 2019-06-01 until 2019-08-01
+	Independent from 2019-08-01 until 2020-05-01
+	Microsoft Corporation from 2020-05-01 until 2020-07-01
+	Independent from 2020-07-01 until 2021-06-01
+	Microsoft Corporation from 2021-06-01
+nickadam: nickadam!users.noreply.github.com
+	Howard
+nickbeaugie: nickbeaugie!users.noreply.github.com
+	Monster
+nickboldt: nickboldt!gmail.com
+	Red Hat Inc.
+nickborges: nickborges!users.noreply.github.com
+	Accenture Global Solutions Limited until 2017-07-01
+	CWI from 2017-07-01 until 2020-09-01
+	Qintess from 2020-09-01 until 2021-09-01
+	Capgemini from 2021-09-01
+nickbp: nick!nickbp.com, nickbp!users.noreply.github.com
+	Google LLC until 2015-09-01
+	Mesosphere from 2015-09-01 until 2018-10-01
+	The Last Pickle from 2018-10-01
+nickbroon: brownn!brocade.com, nickbroon!gmail.com, nickbroon!users.noreply.github.com
+	Brocade Communications Systems LLC
+nickcarenza: nickcarenza!users.noreply.github.com
+	Independent
+nickchase: nchase!mirantis.com, nickchase!users.noreply.github.com
+	Mirantis Inc.
+nickcooper-zhangtonghao: nickcooper-zhangtonghao!users.noreply.github.com, xiangxia.m.yue!gmail.com
+	DiDi Global
+nickcurie: nickcurie!users.noreply.github.com
+	Independent until 2016-05-01
+	Bitvore from 2016-05-01 until 2017-08-01
+	Independent from 2017-08-01 until 2018-05-01
+	Transcepta from 2018-05-01 until 2019-08-01
+	Arpeggio Bio from 2019-08-01 until 2020-05-01
+	Independent from 2020-05-01 until 2020-10-01
+	Transcepta from 2020-10-01

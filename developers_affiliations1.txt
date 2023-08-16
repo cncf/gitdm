@@ -341,7 +341,7 @@
 2327: 2327!users.noreply.github.com, max!2327.ru
 	Megaplan until 2015-09-01
 	Independent from 2015-09-01 until 2016-01-01
-	ООО Лаборатория облачных технологий from 2016-01-01 until 2018-09-01
+	Лаборатория облачных технологий from 2016-01-01 until 2018-09-01
 	mos.ru from 2018-09-01 until 2019-09-01
 	parity.com from 2019-09-01 until 2020-05-01
 	Kaspersky from 2020-05-01
@@ -6713,7 +6713,7 @@ DavidKorczynski: david!adalogics.com
 	Independent from 2018-10-01
 DavidLangworthy: DavidLangworthy!users.noreply.github.com
 	Microsoft Corporation
-DavidMcLaughlin: david!dmclaughlin.com, DavidMcLaughlin!users.noreply.github.com
+DavidMcLaughlin: DavidMcLaughlin!users.noreply.github.com, david!dmclaughlin.com
 	Buoyant Inc.
 DavidObando: DavidObando!users.noreply.github.com, daobando!microsoft.com
 	Microsoft Corporation
@@ -14279,7 +14279,7 @@ Lawouach: Lawouach!users.noreply.github.com, sh!defuze.org
 	Simplicity Itself from 2015-12-01 until 2016-03-01
 	Atomist Inc. from 2016-03-01 until 2017-10-01
 	ChaosIQ Limited from 2017-10-01
-LayZeeDK: LayZeeDK!users.noreply.github.com, larsbrinknielsen!gmail.com, larsbrinknielsen!gmail.com, layzee.dk!gmail.com, layzee.dk!gmail.com
+LayZeeDK: LayZeeDK!users.noreply.github.com, larsbrinknielsen!gmail.com, layzee.dk!gmail.com
 	Thisted Kommune until 2017-12-01
 	Frontmatec from 2017-12-01 until 2018-12-01
 	KeepFocus from 2018-12-01 until 2019-10-01
@@ -15144,10 +15144,10 @@ MPV: MPV!users.noreply.github.com, victor.sollerhed!gmail.com
 	Ticketmaster until 2017-12-01
 	Pagero from 2017-12-01
 MQasimSarfraz: MQasimSarfraz!users.noreply.github.com, qasim.sarfraz!intechww.com, qasimsarfraz!microsoft.com, syed.qasim.sarfraz!gmail.com
-	PLUMgrid Inc. 2014-10-01 until 2017-03-01
-	INTECH Process Automation 2017-03-01 from 2017-03-01 until 2017-11-01
-	Independent 2022-01-07 from 2017-11-01 until 2022-05-08
-	ZEAL Network SE 2017-11-01 from 2022-05-08 until 2022-07-01
+	PLUMgrid Inc. until 2017-03-01
+	INTECH Process Automation from 2017-03-01 until 2017-11-01
+	Independent from 2017-11-01 until 2022-05-08
+	ZEAL Network SE from 2022-05-08 until 2022-07-01
 	Microsoft Corporation from 2022-07-01
 MRamonLeon: manuelramonleonjimenez!gmail.com
 	AYESA until 2018-03-01
@@ -18970,6 +18970,8 @@ PhilippeDupont: PhilippeDupont!users.noreply.github.com
 Philippus: Philippus!users.noreply.github.com, philippus!gmail.com
 	TRIMM until 2016-09-01
 	wehkamp from 2016-09-01
+PhillippOhlandt: PhillippOhlandt!users.noreply.github.com, ohlaph!cisco.com
+	Cisco
 Philmod: Philmod!users.noreply.github.com, philippe.modard!gmail.com
 	Google LLC
 PhilsLab: PhilsLab!users.noreply.github.com
@@ -19342,7 +19344,8 @@ PriyaModali: PriyaModali!users.noreply.github.com, modali!google.com
 	Google LLC from 2014-12-01
 Priyankab-Huawei: priyanka.b!huawei.com
 	Huawei Technologies Co. Ltd
-Priyankasaggu11929: priyankasaggu11929!gmail.com, Priyankasaggu11929!users.noreply.github.com
+Priyankasaggu11929: Priyankasaggu11929!users.noreply.github.com, priyankasaggu11929!gmail.com
+	Independent until 2020-11-01
 	Red Hat Inc. from 2020-11-01 until 2021-10-01
 	VMware Inc. from 2021-10-01 until 2022-12-01
 	SUSE LLC from 2022-12-01
@@ -19444,7 +19447,8 @@ PurushottamHari: PurushottamHari!users.noreply.github.com, purhari!cisco.com
 	Cisco
 PushkarJ: PushkarJ!users.noreply.github.com, pjoglekar!vmware.com, pujoglek!visa.com, pushkar.joglekar1789!gmail.com
 	Visa Inc. until 2021-03-05
-	VMware Inc. from 2021-03-05
+	VMware Inc. from 2021-03-05 until 2022-10-03
+	Independent from 2022-10-03
 PushkarJambhlekar: pushkar.iit!gmail.com
 	NVIDIA Corporation until 2015-07-01
 	Microsoft Corporation from 2015-07-01 until 2016-11-01

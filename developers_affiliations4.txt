@@ -5,23 +5,6 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
-forumsheth: forum.sheth!atos.net, forumsheth!users.noreply.github.com
-	Independent until 2017-02-01
-	Atos from 2017-02-01
-forumsheth15: forumsheth15!users.noreply.github.com
-	Independent until 2017-02-01
-	Atos from 2017-02-01 until 2021-04-01
-	Crux Intelligence from 2021-04-01
-fosk06: fosk06!users.noreply.github.com
-	Kuantic until 2016-01-01
-	Parkego from 2016-01-01 until 2017-01-01
-	29Ter from 2017-01-01 until 2017-09-01
-	Independent from 2017-09-01 until 2018-03-01
-	GEO SENTINEL from 2018-03-01 until 2019-03-01
-	Independent from 2019-03-01 until 2019-06-01
-	PrestaShop from 2019-06-01
-fossabot: badges!fossa.io, dmackerman!gmail.com, fossabot!users.noreply.github.com, support!fossa.io
-	(Robots)
 fossedihelm: fossedihelm!users.noreply.github.com
 	Dixidiasoft until 2015-09-01
 	Independent from 2015-09-01 until 2016-03-01
@@ -4740,7 +4723,7 @@ gregeinfrank: gregeinfrank!users.noreply.github.com
 	Fin from 2015-10-01 until 2018-12-01
 	Independent from 2018-12-01 until 2019-01-01
 	Asana from 2019-01-01
-gregersrygg: gregersrygg!gmail.com, gregersrygg!gmail.com, gregersrygg!users.noreply.github.com, mark!markhansen.co.nz, mark!markhansen.co.nz
+gregersrygg: gregersrygg!gmail.com, gregersrygg!users.noreply.github.com, mark!markhansen.co.nz
 	FINN.no until 2016-10-01
 	Telenor from 2016-10-01
 gregfiske: gregfiske!users.noreply.github.com
@@ -4855,7 +4838,7 @@ grgrzybek: grgrzybek!users.noreply.github.com
 	Red Hat Inc.
 grgustaf: geoff!linux.intel.com, grgustaf!users.noreply.github.com, ket4yiit!gmail.com
 	Intel Corporation
-gricey432: gricey432!users.noreply.github.com, mitch!gricey.net, mitch!gricey.net, mitchell.grice!polymathian.com, mitchell.grice!polymathian.com
+gricey432: gricey432!users.noreply.github.com, mitch!gricey.net, mitchell.grice!polymathian.com
 	Independent until 2016-07-01
 	Polymathian Pty Ltd. from 2016-07-01
 gridworkz: dave!gridworkz.com, gridworkz!users.noreply.github.com
@@ -7858,7 +7841,7 @@ hgranillo: hgranillo!users.noreply.github.com
 	Nubity from 2015-12-01 until 2017-08-01
 	OLX Group from 2017-08-01 until 2019-06-01
 	TTMzero from 2019-06-01
-hgschmie: henning!schmiedehausen.org, henning!schmiedehausen.org, henning.schmiedehausen!zuora.com, henning.schmiedehausen!zuora.com, hgschmie!users.noreply.github.com
+hgschmie: henning!schmiedehausen.org, henning.schmiedehausen!zuora.com, hgschmie!users.noreply.github.com
 	Apache until 2015-07-01
 	Zuora Inc. from 2015-07-01
 hguemar: hguemar!redhat.com
@@ -10788,7 +10771,7 @@ ikandars: ikandars!users.noreply.github.com
 	Teknolima from 2017-07-01 until 2018-01-01
 	Kerb from 2018-01-01 until 2021-02-01
 	Awanio from 2021-02-01
-ikarienator: bzhang!shapesecurity.com, bzhang!shapesecurity.com, ikarienator!gmail.com, ikarienator!gmail.com, ikarienator!users.noreply.github.com
+ikarienator: bzhang!shapesecurity.com, ikarienator!gmail.com, ikarienator!users.noreply.github.com
 	Google LLC until 2014-01-01
 	Shape from 2014-01-01
 ikarldasan: ikarldasan!users.noreply.github.com, karldas30!gmail.com
@@ -10970,7 +10953,7 @@ ilijamt: ilijamt!users.noreply.github.com
 	Schuberg Philis from 2019-05-01
 ilikebits: nguzcf!gmail.com
 	Beijing T2Cloud Technology Co. LTD
-iliul: iliul!users.noreply.github.com, liul.stone!gmail.com, liul124!chinaunicom.cn
+iliul: iliul!users.noreply.github.com
 	Horizon Robotics
 iliul: liul.stone!gmail.com, liul124!chinaunicom.cn
 	China Unicom
@@ -11598,8 +11581,6 @@ intpp: intpp!users.noreply.github.com
 inuyasha82: inuyasha82!users.noreply.github.com
 	FAO until 2015-04-01
 	International Business Machines Corporation from 2015-04-01
-invalid-email-address: a!b.com, git!github.com, invalid-email-address!users.noreply.github.com, root!localhost.localdomain, support!github.com, unconfigured!null.spigotmc.org, vagrant!localhost.localdomain, vagrant!vagrant.vm, you!example.com
-	chakra
 invent360: invent360!users.noreply.github.com
 	msg until 2015-10-01
 	Yenlo from 2015-10-01 until 2016-04-01
@@ -11955,7 +11936,7 @@ is-ashish: ashishjainjnp18!gmail.com
 	Independent from 2018-09-01 until 2018-11-01
 	Voice Qube from 2018-11-01 until 2019-11-01
 	MayaData Inc. (f/k/a CloudByte Inc) from 2019-11-01
-is2ei: is2ei!users.noreply.github.com, is2ei.horie!gmail.com, is2ei.horie!gmail.com, issei.horie!nulab-inc.com, issei.horie!nulab-inc.com
+is2ei: is2ei!users.noreply.github.com, is2ei.horie!gmail.com, issei.horie!nulab-inc.com
 	Appirits Inc. until 2015-03-01
 	LexisNexis from 2015-03-01 until 2017-08-01
 	Nulab from 2017-08-01
@@ -14193,7 +14174,7 @@ jaredledvina: jared!techsmix.net, jaredbhatti!users.noreply.github.com, jaredled
 	Insight Global from 2018-09-01
 jaredliw: jaredliw!users.noreply.github.com
 	Independent
-jaredly: jabapyth!gmail.com, jabapyth!gmail.com, jared!jaredforsyth.com, jared!jaredforsyth.com, jaredly!users.noreply.github.com
+jaredly: jabapyth!gmail.com, jared!jaredforsyth.com, jaredly!users.noreply.github.com
 	Independent until 2015-01-01
 	English3 from 2015-01-01 until 2015-08-01
 	Khan Academy from 2015-08-01
@@ -17994,7 +17975,7 @@ jkotalik: jkotalik!users.noreply.github.com
 	Microsoft Corporation from 2016-06-01 until 2016-08-01
 	Independent from 2016-08-01 until 2017-07-01
 	Microsoft Corporation from 2017-07-01
-jkotalik: jkotalik12!gmail.com, jkotalik12!gmail.com, jukotali!microsoft.com, jukotali!microsoft.com
+jkotalik: jkotalik12!gmail.com, jukotali!microsoft.com
 	Independent until 2016-06-01
 	Microsoft Corporation from 2016-06-01 until 2016-09-01
 	Independent from 2016-09-01 until 2017-07-01
@@ -21362,7 +21343,7 @@ jrthrawny: jroberts!drud.com, jrthrawny!users.noreply.github.com
 	Drud Technology LLC from 2017-12-01
 jrtom: jrtom!google.com
 	Google LLC
-jrumandal: jrumandal!gmail.com, jrumandal!gmail.com, jrumandal!users.noreply.github.com, olivier.debauche!umons.ac.be, olivier.debauche!umons.ac.be
+jrumandal: jrumandal!gmail.com, jrumandal!users.noreply.github.com, olivier.debauche!umons.ac.be
 	Independent until 2016-07-01
 	Glo.Bu.S s.r.l. from 2016-07-01 until 2016-08-01
 	Independent from 2016-08-01 until 2017-01-01
@@ -22736,7 +22717,7 @@ justnoxx: justnoxx!gmail.com
 	CloudBees Inc. from 2019-04-01
 juston-li: juston.h.li!gmail.com, juston.li!intel.com
 	Intel Corporation
-justsml: 397632+justsml!users.noreply.github.com, 397632+justsml!users.noreply.github.com, justsml!gmail.com, justsml!gmail.com, justsml!users.noreply.github.com
+justsml: 397632+justsml!users.noreply.github.com, justsml!gmail.com, justsml!users.noreply.github.com
 	CoreTitle LLC until 2017-06-01
 	Hillside Inc from 2017-06-01 until 2017-09-01
 	Galvanize Inc from 2017-09-01 until 2019-02-01
@@ -24104,3 +24085,34 @@ karolh2000: karolh2000!users.noreply.github.com
 	JFrog from 2020-12-01
 karolherbst: kherbst!redhat.com
 	Red Hat Inc.
+karolyc: karolyc!users.noreply.github.com
+	Orange SA
+karolz-ms: karolz!microsoft.com, karolz-ms!users.noreply.github.com
+	Microsoft Corporation
+karolzlot: karolzlot!users.noreply.github.com
+	Independent
+karpovicham: aleksandr.karpovich!oxagile.com, karpovicham!users.noreply.github.com
+	Oxagile
+karras: karras!users.noreply.github.com
+	Swiss Post until 2014-07-01
+	Adfinis AG (f/k/a Adfinis SyGroup) from 2014-07-01
+kars7e: karol.stepniewski!gmail.com, kars7e!users.noreply.github.com, kstepniewski!vmware.com
+	VMware Inc.
+karstengr: karstengr!users.noreply.github.com, kgraul!linux.ibm.com
+	International Business Machines Corporation
+karstenkoenig: karsten.koenig.030!gmail.com, karstenkoenig!users.noreply.github.com
+	muse until 2014-01-01
+	Independent from 2014-01-01 until 2016-08-01
+	Bosch eBike Systems from 2016-08-01 until 2019-02-01
+	Nordic Semiconductor ASA from 2019-02-01
+karthequian: karthequian!users.noreply.github.com, karthik.gaekwad!gmail.com
+	Mentor Graphics Corporation until 2014-07-01
+	Signal from 2014-07-01 until 2014-11-01
+	StackEngine (now owned by Oracle) from 2014-11-01 until 2016-02-01
+	Red Hat Inc. from 2016-02-01
+karthicgit: karthicgit!users.noreply.github.com
+	Mphasis Limited until 2014-11-01
+	Caterpillar India Private Limited from 2014-11-01 until 2016-11-01
+	Red Hat Inc. from 2016-11-01
+karthik-krishnamurthy: karthik-krishnamurthy!users.noreply.github.com
+	Dell

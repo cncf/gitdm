@@ -5,46 +5,6 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
-nick5616: nick5616!users.noreply.github.com
-	Independent until 2018-06-01
-	iHeartMedia Inc from 2018-06-01 until 2019-01-01
-	Independent from 2019-01-01 until 2019-06-01
-	American Express Banking Corp. from 2019-06-01 until 2019-08-01
-	Independent from 2019-08-01 until 2020-05-01
-	Microsoft Corporation from 2020-05-01 until 2020-07-01
-	Independent from 2020-07-01 until 2021-06-01
-	Microsoft Corporation from 2021-06-01
-nickadam: nickadam!users.noreply.github.com
-	Howard
-nickbeaugie: nickbeaugie!users.noreply.github.com
-	Monster
-nickboldt: nickboldt!gmail.com
-	Red Hat Inc.
-nickborges: nickborges!users.noreply.github.com
-	Accenture Global Solutions Limited until 2017-07-01
-	CWI from 2017-07-01 until 2020-09-01
-	Qintess from 2020-09-01 until 2021-09-01
-	Capgemini from 2021-09-01
-nickbp: nick!nickbp.com, nickbp!users.noreply.github.com
-	Google LLC until 2015-09-01
-	Mesosphere from 2015-09-01 until 2018-10-01
-	The Last Pickle from 2018-10-01
-nickbroon: brownn!brocade.com, nickbroon!gmail.com, nickbroon!users.noreply.github.com
-	Brocade Communications Systems LLC
-nickcarenza: nickcarenza!users.noreply.github.com
-	Independent
-nickchase: nchase!mirantis.com, nickchase!users.noreply.github.com
-	Mirantis Inc.
-nickcooper-zhangtonghao: nickcooper-zhangtonghao!users.noreply.github.com, xiangxia.m.yue!gmail.com
-	DiDi Global
-nickcurie: nickcurie!users.noreply.github.com
-	Independent until 2016-05-01
-	Bitvore from 2016-05-01 until 2017-08-01
-	Independent from 2017-08-01 until 2018-05-01
-	Transcepta from 2018-05-01 until 2019-08-01
-	Arpeggio Bio from 2019-08-01 until 2020-05-01
-	Independent from 2020-05-01 until 2020-10-01
-	Transcepta from 2020-10-01
 nickdesaulniers: ndesaulniers!google.com, nick.desaulniers!gmail.com
 	Google LLC
 nickethier: edag94!live.com, ncethier!gmail.com, nethier!hashicorp.com
@@ -3416,7 +3376,7 @@ omrozowicz-splunk: omrozowicz-splunk!users.noreply.github.com
 oms4suse: osynge!suse.com
 	SUSE LLC until 2017-02-01
 	Yokel from 2017-02-01
-omsmith: omsmith!users.noreply.github.com, owen!omsmith.ca, owen!omsmith.ca, owen.smith!d2l.com, owen.smith!d2l.com
+omsmith: omsmith!users.noreply.github.com, owen!omsmith.ca, owen.smith!d2l.com
 	D2L
 omung-g: omung-g!users.noreply.github.com, omung.garg!huawei.com
 	Huawei Technologies Co. Ltd
@@ -4760,7 +4720,7 @@ papiveron: papiveron!users.noreply.github.com, sympavali!gmail.com
 	JCDecaux until 2015-04-01
 	MoreA from 2015-04-01 until 2018-01-01
 	Devoteam Revolve from 2018-01-01
-paplorinc: pap.lorinc!gmail.com, pap.lorinc!gmail.com, paplorinc!gmail.com, paplorinc!gmail.com, paplorinc!users.noreply.github.com
+paplorinc: pap.lorinc!gmail.com, paplorinc!gmail.com, paplorinc!users.noreply.github.com
 	Wolters Kluwer until 2014-07-01
 	Ullink from 2014-07-01 until 2015-12-01
 	Independent from 2015-12-01 until 2017-04-01
@@ -7092,8 +7052,6 @@ phillipgreenii: phillip.green.ii!gmail.com, phillipgreenii!users.noreply.github.
 	Crown Castle
 philliphoff: phillip!orst.edu, philliphoff!users.noreply.github.com
 	Microsoft Corporation
-phillippohlandt: phillippohlandt!users.noreply.github.com ohlaph!cisco.com
-	Cisco
 phillipsj: phillipsj!users.noreply.github.com
 	Radio Systems until 2018-03-01
 	Lirio from 2018-03-01 until 2018-08-01
@@ -8271,8 +8229,7 @@ pnbrown: pnbrown!users.noreply.github.com
 	International Business Machines Corporation from 2018-06-01 until 2021-03-01
 	VMware Inc. from 2021-03-01
 pnegahdar: pnegahdar!gmail.com, pnegahdar!users.noreply.github.com
-	GAuthify
-	Kensho from 2100-01-01
+	Kensho GAuthify
 pnguyen-okta: pnguyen-okta!users.noreply.github.com
 	Invotas until 2016-02-01
 	FireEye from 2016-02-01 until 2019-08-01
@@ -9667,7 +9624,7 @@ psimms-r7: psimms-r7!users.noreply.github.com
 	CME Group from 2016-08-01 until 2017-04-01
 	Johnson Controls from 2017-04-01 until 2019-12-01
 	Rapid7 Inc. from 2019-12-01
-psimyn: psimyn!gmail.com, psimyn!gmail.com, psimyn!users.noreply.github.com, s.c.knox!gmail.com, s.c.knox!gmail.com
+psimyn: psimyn!gmail.com, psimyn!users.noreply.github.com, s.c.knox!gmail.com
 	GitLab Inc.
 psingarakannan: it4pradeep!gmail.com, psingarakannan!users.noreply.github.com
 	Tata until 2014-03-01
@@ -10054,10 +10011,6 @@ pururaj1908: pdave2!ncsu.edu, pururaj1908!users.noreply.github.com
 	Independent from 2019-07-01 until 2020-05-01
 	Polyapp from 2020-05-01 until 2020-08-01
 	Independent from 2020-08-01
-pushkarj: pujoglek!visa.com, pushkarj!users.noreply.github.com, pjoglekar!vmware.com, pushkar.joglekar1789!gmail.com
-	Visa Inc. until 2021-03-05
-	VMware from 2021-03-08 until 2022-10-03
-	Independent from 2022-10-04
 pushm0v: pushm0v.development!gmail.com
 	PT QDC until 2014-09-01
 	GOJEK from 2014-09-01 until 2018-09-01
@@ -14072,7 +14025,7 @@ rickardl: rickard.lofstrom!gmail.com
 rickducott: rickducott!users.noreply.github.com
 	Palantir Technologies Inc. until 2018-10-01
 	Solo.io from 2018-10-01
-rickhanlonii: rickhanlonii!fb.com, rickhanlonii!fb.com, rickhanlonii!gmail.com, rickhanlonii!gmail.com, rickhanlonii!users.noreply.github.com
+rickhanlonii: rickhanlonii!fb.com, rickhanlonii!gmail.com, rickhanlonii!users.noreply.github.com
 	Meta Platforms Inc.
 rickmak: rick.mak!gmail.com, rickmak!users.noreply.github.com
 	Oursky
@@ -17215,8 +17168,7 @@ runningman84: runningman84!users.noreply.github.com
 runningwild: jwills!google.com, runningwild!gmail.com, runningwild!users.noreply.github.com
 	Cryptic Studios
 runsisi: runsisi!hust.edu.cn, runsisi!users.noreply.github.com
-	CDGCC
-	HUST from 2100-01-01
+	CDGCC HUST
 runyontr: runyontr!gmail.com, runyontr!users.noreply.github.com
 	Science Applications International Corporation until 2015-05-01
 	Science Applications International Corporation from 2015-05-01 until 2018-01-01
@@ -19748,7 +19700,7 @@ satyasm: satyadeepm!google.com, satyasm!users.noreply.github.com
 	Walmart Inc. from 2016-07-01 until 2017-11-01
 	Independent from 2017-11-01 until 2018-02-01
 	Google LLC from 2018-02-01
-satybald: satybald!users.noreply.github.com, sayatez!gmail.com, sayatez!gmail.com, stb!satybald.com, stb!satybald.com
+satybald: satybald!users.noreply.github.com, sayatez!gmail.com, stb!satybald.com
 	GreenApple
 sau-lanvy: sau-lanvy!users.noreply.github.com
 	Bluesea until 2015-04-01
@@ -24022,3 +23974,52 @@ sigma: sigma!users.noreply.github.com
 	Aurora from 2019-08-01
 sigma: yann.hodique!gmail.com, yhodique!google.com
 	Google LLC
+sigmavirus24: graffatcolmingov!gmail.com, icordasc+github!coglib.com, sigmavirus24!users.noreply.github.com, veganjay!gmail.com
+	Bendyworks Inc until 2014-06-01
+	Independent from 2014-06-01 until 2015-03-01
+	OpenStack Foundation from 2015-03-01 until 2015-10-01
+	Rackspace from 2015-10-01 until 2017-03-01
+	Heroku Inc. from 2017-03-01
+signalwerk: sh!signalwerk.ch
+	Signalwerk
+signed8bit: matthew!signed8bit.com
+	Cisco
+sigorilla: page!pagegwood.com
+	JPMorgan Chase until 2014-08-01
+	Independent from 2014-08-01 until 2015-06-01
+	Juniper Networks Inc. from 2015-06-01 until 2015-08-01
+	Independent from 2015-08-01 until 2016-02-01
+	Juniper Networks Inc. from 2016-02-01 until 2017-10-01
+	Tesla Inc. from 2017-10-01 until 2019-08-01
+	Aurora from 2019-08-01
+sigorilla: sigorilla!yandex-team.ru, sigorilla!yandex.ru
+	YANDEX LLC
+sigprof: vsu!altlinux.ru
+	Movial until 2015-09-01
+	Rightware Oy from 2015-09-01 until 2016-12-01
+	F-Secure Corporation from 2016-12-01
+sigsbee: 23101283+sigsbee!users.noreply.github.com, sigsbee!users.noreply.github.com, zrst!sina.com
+	Sina
+sigurdm: sigurdm!google.com, sigurdm!users.noreply.github.com
+	Google LLC
+sigvartmh: sigvart.hovland!nordicsemi.no, sigvart.m!gmail.com, sigvartmh!users.noreply.github.com
+	ARM until 2014-08-01
+	Independent from 2014-08-01 until 2015-04-01
+	Novelda from 2015-04-01 until 2016-06-01
+	Bekk Consulting AS from 2016-06-01 until 2016-07-01
+	Independent from 2016-07-01 until 2017-06-01
+	Independent from 2017-06-01 until 2017-08-01
+	Nordic Semiconductor ASA from 2017-08-01 until 2017-12-01
+	Independent from 2017-12-01 until 2018-08-01
+	Nordic Semiconductor ASA from 2018-08-01
+sijie: sijie!apache.org, sijie!users.noreply.github.com, sijieg!twitter.com
+	Twitter Inc. until 2017-03-01
+	Streamlio from 2017-03-01
+siju-vasudevan: siju-vasudevan!users.noreply.github.com
+	Tata until 2016-09-01
+	VMware Inc. from 2016-09-01 until 2017-05-01
+	OVH SAS from 2017-05-01
+sikachu: s!sikac.hu
+	thoughtbot Inc. until 2016-12-01
+	Independent from 2016-12-01 until 2017-02-01
+	Cookpad Inc. (UK) from 2017-02-01

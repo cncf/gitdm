@@ -2319,7 +2319,7 @@ Xendox: Xendox!users.noreply.github.com
 Xenwar: Xenwar!users.noreply.github.com, tonilopezmr!gmail.com
 	Independent until 2019-01-01
 	Ericsson from 2019-01-01
-Xerkus: Xerkus!users.noreply.github.com, aleksey!xerkus.pro, aleksey!xerkus.pro, john.mclaughlin!originate.com, john.mclaughlin!originate.com
+Xerkus: Xerkus!users.noreply.github.com, aleksey!xerkus.pro, john.mclaughlin!originate.com
 	ROAVE LLP
 XhmikosR: xhmikosr!gmail.com, xhmikosr!users.noreply.github.com, xhmikosr!users.sourceforge.net
 	Independent
@@ -5014,9 +5014,10 @@ adamdepollo: adamdepollo!users.noreply.github.com
 	Independent from 2019-09-01 until 2020-02-01
 	RouteOne from 2020-02-01 until 2021-10-01
 	UberEther from 2021-10-01
-adamdmharvey: adam.harvey!dxc.com, adamdmharvey!users.noreply.github.com, adaharve!cisco.com
+adamdmharvey: adaharve!cisco.com, adam.harvey!dxc.com, adamdmharvey!users.noreply.github.com
 	Hewlett until 2017-03-01
 	DXC Technology from 2017-03-01 until 2021-03-31
+	Independent from 2021-03-31 until 2021-04-06
 	Cisco from 2021-04-06
 adamdunstan: adam!acnodal.io
 	Active Broadband until 2016-06-01
@@ -12226,8 +12227,7 @@ andriyDev: andriydzikh!gmail.com
 andriymoroz-mlnx: c_andriym!mellanox.com
 	Mellanox
 andromedarabbit: andromedarabbit!users.noreply.github.com, plaintext!andromedarabbit.net
-	CHOI
-	Jaehoon from 2100-01-01
+	CHOI Jaehoon
 andronat: anastasis90!yahoo.gr, andronat!users.noreply.github.com
 	CERN until 2015-09-01
 	Independent from 2015-09-01 until 2017-05-01
@@ -13718,7 +13718,7 @@ anuragsharma-hcl: 40886337+anuragsharma-hcl!users.noreply.github.com, anurag-s!h
 	HCL Technologies Ltd.
 anurnomeru: anurnomeru!users.noreply.github.com
 	Tencent
-anurse: andrew!andrewnurse.net, andrew!andrewnurse.net, andrew!stanton-nurse.com, andrew!stanton-nurse.com, anurse!users.noreply.github.com
+anurse: andrew!andrewnurse.net, andrew!stanton-nurse.com, anurse!users.noreply.github.com
 	Microsoft Corporation
 anuruddhal: anuruddhal!users.noreply.github.com
 	Virtusa Corporation until 2014-11-01
@@ -14684,7 +14684,7 @@ ariya: ariya!users.noreply.github.com, ariya.hidayat!gmail.com
 	Shape until 2018-01-01
 	Independent from 2018-01-01 until 2018-10-01
 	Hyperjump Technology from 2018-10-01
-arizzitano: ari!itspulp.com, ari!itspulp.com, arizzitano!edx.org, arizzitano!edx.org, arizzitano!users.noreply.github.com
+arizzitano: ari!itspulp.com, arizzitano!edx.org, arizzitano!users.noreply.github.com
 	AppNeta until 2014-09-01
 	Independent from 2014-09-01 until 2015-01-01
 	Twine Health from 2015-01-01 until 2015-07-01
@@ -16160,7 +16160,7 @@ asnimansari: asnim96!gmail.com
 asnowfix: asnowfix!users.noreply.github.com
 	HP Inc. until 2018-10-01
 	Amadeus from 2018-10-01
-asnowwolf: asnowwolf!gmail.com, asnowwolf!gmail.com, asnowwolf!users.noreply.github.com, zcwang!thoughtworks.com, zcwang!thoughtworks.com
+asnowwolf: asnowwolf!gmail.com, asnowwolf!users.noreply.github.com, zcwang!thoughtworks.com
 	ThoughtWorks Inc
 asoldano: alessio.soldano!jboss.com, asoldano!redhat.com
 	Red Hat Inc.
@@ -17846,7 +17846,7 @@ b-fisher-cb: b-fisher-cb!users.noreply.github.com
 	D+H until 2019-09-01
 	Blackbaud Inc. from 2019-09-01 until 2022-02-01
 	CloudBees Inc. from 2022-02-01
-b-laporte: b-laporte!users.noreply.github.com, blaporte!amadeus.com, blaporte!amadeus.com, lucas!marcelli.ca, lucas!marcelli.ca
+b-laporte: b-laporte!users.noreply.github.com, blaporte!amadeus.com, lucas!marcelli.ca
 	Amadeus
 b-luu: b-luu!users.noreply.github.com
 	Criteo SA until 2015-09-01
@@ -18257,7 +18257,7 @@ bamashah: bamashah!hotmail.com
 	Anadarko Petroleum Corporation from 2018-11-01
 bamh: bamh!users.noreply.github.com, hanan.bem!hpe.com
 	HP Inc.
-bamnet: bamnet!users.noreply.github.com, bmichalski!gmail.com, bmichalski!gmail.com, bmichalski!google.com, bmichalski!google.com
+bamnet: bamnet!users.noreply.github.com, bmichalski!gmail.com, bmichalski!google.com
 	Google LLC
 bananaappletw: bananaappletw!gmail.com, bananaappletw!users.noreply.github.com
 	Independent until 2015-08-01
@@ -18832,7 +18832,7 @@ bboccoqq: bboccoqq!users.noreply.github.com, hanjiayao!caicloud.io, walsh.benj!g
 	Wind River Systems Inc.
 bbodenmiller: bbodenmiller!hotmail.com, bbodenmiller!users.noreply.github.com
 	Boeing
-bbolli: bbolli!users.noreply.github.com, dev!drbeat.li, dev!drbeat.li, me+github!drbeat.li, me+github!drbeat.li
+bbolli: bbolli!users.noreply.github.com, dev!drbeat.li, me+github!drbeat.li
 	Independent
 bboozzoo: maciek.borzecki!gmail.com
 	IT Research until 2016-07-01
@@ -19177,7 +19177,7 @@ beatscode: beatscode!users.noreply.github.com
 	MedNet until 2015-07-01
 	Casanova from 2015-07-01 until 2020-11-01
 	Rodo from 2020-11-01
-beaugunderson: beau!beaugunderson.com, beau!beaugunderson.com, charlbest!yahoo.com, charlbest!yahoo.com
+beaugunderson: beau!beaugunderson.com, charlbest!yahoo.com
 	Practice Fusion until 2014-07-01
 	The Personal Genome Project from 2014-07-01 until 2016-09-01
 	Canvas Medical Inc. from 2016-09-01
@@ -20214,7 +20214,7 @@ bguzman-3pillar: bguzman-3pillar!users.noreply.github.com
 	3Pillar from 2021-11-01
 bgvladedivac: bgvladedivac!gmail.com, bgvladedivac!users.noreply.github.com
 	Independent
-bgw: bgw!fb.com, bgw!fb.com, bgw!users.noreply.github.com, github!benjam.info, github!benjam.info
+bgw: bgw!fb.com, bgw!users.noreply.github.com, github!benjam.info
 	Meta Platforms Inc.
 bh90210: bh90210!users.noreply.github.com, ktc!protonmail.com
 	Independent
@@ -20239,7 +20239,7 @@ bhakiyakalimuthu: bhakiya.kalimuthu!gmail.com, bhakiyakalimuthu!users.noreply.gi
 	Voi from 2019-10-01
 bhaktipriya: bhaktipriya96!gmail.com
 	Independent
-bhamodi: baraa!optimizely.com, baraa!optimizely.com, bhamodi!edu.uwaterloo.ca, bhamodi!edu.uwaterloo.ca, bhamodi!users.noreply.github.com, bhamodi!uwaterloo.ca, bhamodi!uwaterloo.ca
+bhamodi: baraa!optimizely.com, bhamodi!edu.uwaterloo.ca, bhamodi!users.noreply.github.com, bhamodi!uwaterloo.ca
 	International Business Machines Corporation until 2014-05-01
 	Independent from 2014-05-01 until 2014-08-01
 	if(we) from 2014-08-01 until 2014-12-01
@@ -23969,3 +23969,14 @@ budongxin: 37971141+budongxin!users.noreply.github.com, budongxin!users.noreply.
 	Shinhan Card
 buehler: buehler!users.noreply.github.com
 	smartive
+buep: bue!praqma.net
+	Darum Butiksinventar until 2015-08-01
+	Milwaukee Electric Tool Corporation from 2015-08-01
+buffalo1024: buffalo1024!users.noreply.github.com
+	DaoCloud Network Technology Co. Ltd.
+bufferflies: 1045931706!qq.com
+	Independent
+bufferoverflow: bufferoverflow!users.noreply.github.com, roger!apache.org
+	Apache
+bufferoverflow: r.meier!siemens.com
+	Siemens AG

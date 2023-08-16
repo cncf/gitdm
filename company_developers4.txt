@@ -2,50 +2,6 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
-Grid Dynamics:
-	Moskovych: moskovych!gmail.com from 2018-11-01 until 2022-04-01
-	Myafq: Myafq!users.noreply.github.com from 2018-08-01
-	RodionGork: RodionGork!users.noreply.github.com from 2018-11-01 until 2020-05-01
-	abetaev: a!betaev.pub
-	adiantum: ilyaalekseyev!acm.org until 2011-07-07
-	atsikham: atsikham!users.noreply.github.com, tihomirovanatoliy!gmail.com from 2020-03-01 until 2020-06-01
-	chemikadze: chemikadze!gmail.com, chemikadze!users.noreply.github.com from 2015-12-01 until 2019-05-01
-	ctapobep: ctapobep!javatalks.ru, ctapobep!users.noreply.github.com until 2016-01-01
-	degorenko: degorenko!mirantis.com, degorenko!users.noreply.github.com from 2017-04-01 until 2018-08-01
-	dzeban: dzeban!users.noreply.github.com from 2016-01-01 until 2016-08-01
-	ehborisov: ehborisov!gmail.com, ehborisov!users.noreply.github.com from 2016-10-01
-	eugenepaniot: eugenepaniot!users.noreply.github.com from 2018-11-01 until 2020-04-01
-	maximmi: maximmi!users.noreply.github.com, simixido!gmail.com, stern.shawn!gmail.com from 2021-11-01
-	oik741: Oik741!users.noreply.github.com until 2015-04-01
-	pahask8: pahask8!gmail.com, pahask8!users.noreply.github.com from 2015-11-01 until 2022-06-01
-	sbar95: sbar95!users.noreply.github.com from 2019-09-01
-	sparshev: sparshev!griddynamics.com
-	srggavrilov: srggavrilov!users.noreply.github.com from 2017-10-01 until 2018-07-01
-	tomsucho: tomasz.su!gmail.com from 2019-08-01 until 2020-04-01
-	vazhnov: vazhnov!users.noreply.github.com from 2020-01-01
-	vistrcm: stas!vitko.me until 2020-03-01
-	y4roslav: y4roslav!users.noreply.github.com from 2018-09-01 until 2020-02-01
-	yurinnick: nyurin!griddynamics.com, yurinnick!users.noreply.github.com, yurinnick93!gmail.com
-Grid Software:
-	vandot: vandot!users.noreply.github.com until 2015-01-01
-GridGain:
-	timveil: tjveil!gmail.com until 2014-08-01
-GridLine:
-	nielsslot: nielsslot!users.noreply.github.com
-GridPlus:
-	maevyn11: danielveenstra!protonmail.com, maevyn11!users.noreply.github.com from 2018-02-01
-GridPocket:
-	lucj: luc.juggery!gmail.com, lucj!users.noreply.github.com until 2015-11-01
-GridPoint Inc.:
-	ringlej: jringle!gridpoint.com
-GridPower Corporation:
-	dweepgogia: dgogia!redhat.com from 2018-01-01 until 2018-05-01
-GridSteer:
-	acharaj: acharaj!users.noreply.github.com, jagdish.achara!gmail.com from 2018-04-01
-Gridarrow:
-	markns: markns!users.noreply.github.com from 2017-07-01 until 2019-02-01
-Gridd XYZ:
-	aaronhnatiw: aaronhnatiw!users.noreply.github.com from 2021-09-01
 Gridium:
 	ben: ben!straub.cc, ben!users.noreply.github.com from 2014-05-01 until 2016-06-01
 Gridmatic:
@@ -1379,8 +1335,6 @@ HUMAN:
 HUNTER:
 	yofreke: yofreke!users.noreply.github.com from 2020-08-01 until 2020-11-01
 HUST:
-	runsisi: runsisi!hust.edu.cn, runsisi!users.noreply.github.com from 2100-01-01
-	wgtdkp: dkp!hust.edu.cn, wgtdkp!google.com from 2100-01-01
 	zhangdeyu: imzhangdeyu!foxmail.com
 HUVR:
 	sww314: sww314!users.noreply.github.com from 2019-06-01
@@ -2358,7 +2312,7 @@ Helios Watch Store:
 	Ogala: Ogala!users.noreply.github.com, ogalaemmanuel!gmail.com, ramie.raufdeen!salesforce.com from 2018-12-01 until 2019-07-01
 	ZigmunD: ZigmunD!users.noreply.github.com until 2016-05-01
 	ashanaakh: ashanaakh!gmail.com, ashanaakh!users.noreply.github.com from 2017-06-01 until 2018-12-01
-	dmytroyarmak: dmytroy!backbase.com, dmytroy!backbase.com, dmytroyarmak!gmail.com, dmytroyarmak!gmail.com, dmytroyarmak!users.noreply.github.com until 2014-07-01
+	dmytroyarmak: dmytroy!backbase.com, dmytroyarmak!gmail.com, dmytroyarmak!users.noreply.github.com until 2014-07-01
 	nicdesousa: nicdesousa!users.noreply.github.com until 2015-05-01
 Helium Systems Inc.:
 	danielqsj: danielqsj!users.noreply.github.com, qsj.daniel!gmail.com from 2016-06-01 until 2017-06-01
@@ -2684,7 +2638,7 @@ Hewlett:
 	aamirmalek: mr.aamirmalek!gmail.com from 2015-10-01 until 2017-02-01
 	aamonten: aamonten!users.noreply.github.com until 2015-10-01
 	abcdefgs0324: abcdefgs0324!gmail.com, abcdefgs0324!users.noreply.github.com from 2016-07-01 until 2017-06-01
-	adamdmharvey: adam.harvey!dxc.com, adamdmharvey!users.noreply.github.com until 2017-03-01
+	adamdmharvey: adaharve!cisco.com, adam.harvey!dxc.com, adamdmharvey!users.noreply.github.com until 2017-03-01
 	airwalk-mj: airwalk-mj!users.noreply.github.com until 2016-04-01
 	ajaykathat: ajay.kathat!microchip.com until 2015-05-01
 	alexandrealvino: alexandrealvino!users.noreply.github.com from 2021-05-01
@@ -3088,7 +3042,7 @@ Hillside (Sports) ENC:
 	robphoenix: rob!robphoenix.com, robertphoenix!gmail.com, robphoenix!users.noreply.github.com from 2017-10-01
 	wizardfrag: david!rartm.co.uk from 2016-07-01 until 2018-09-01
 Hillside Inc:
-	justsml: 397632+justsml!users.noreply.github.com, 397632+justsml!users.noreply.github.com, justsml!gmail.com, justsml!gmail.com, justsml!users.noreply.github.com from 2017-06-01 until 2017-09-01
+	justsml: 397632+justsml!users.noreply.github.com, justsml!gmail.com, justsml!users.noreply.github.com from 2017-06-01 until 2017-09-01
 Hilo:
 	EricStG: EricStG!users.noreply.github.com from 2021-06-01 until 2022-04-01
 	starcraft66: starcraft66!users.noreply.github.com, tristan!tzone.org from 2021-05-01
@@ -3625,7 +3579,7 @@ Horizon Media:
 Horizon Next:
 	michaelswierszcz: michaelswierszcz!gmail.com, michaelswierszcz!users.noreply.github.com from 2021-02-01 until 2021-11-01
 Horizon Robotics:
-	iliul: iliul!users.noreply.github.com, liul.stone!gmail.com, liul124!chinaunicom.cn
+	iliul: iliul!users.noreply.github.com
 	simplecoka: simplecoka!users.noreply.github.com from 2018-11-01 until 2019-06-01
 Horizon Tec s.r.o.:
 	Alirun: Alirun!users.noreply.github.com from 2018-03-01 until 2019-12-01
@@ -5149,7 +5103,7 @@ IETE-ISF VIT (Vellore):
 	greed2411: greed2411!users.noreply.github.com from 2017-01-01 until 2017-08-01
 IFDS:
 	shannonxtreme: shannduin!google.com from 2018-04-01 until 2020-12-01
-IFI:
+IFI UiO:
 	mortenlj: mortenjo!ifi.uio.no
 IFJ-PAN:
 	Udiknedormin: Udiknedormin!users.noreply.github.com from 2017-12-01 until 2018-05-01
@@ -5626,7 +5580,7 @@ INTEC:
 	fukuta-tatsuya-intec: fukuta-tatsuya-intec!users.noreply.github.com
 INTECH:
 	codemug: codemug!users.noreply.github.com, u.manshahid!gmail.com from 2017-01-01 until 2020-12-01
-INTECH Process Automation 2017-03-01:
+INTECH Process Automation:
 	MQasimSarfraz: MQasimSarfraz!users.noreply.github.com, qasim.sarfraz!intechww.com, qasimsarfraz!microsoft.com, syed.qasim.sarfraz!gmail.com from 2017-03-01 until 2017-11-01
 INTEGRA Sistemi:
 	ivanopagano: ivanopagano!users.noreply.github.com, pagoda_5b!hotmail.com from 2015-04-01 until 2015-11-01
@@ -6124,8 +6078,9 @@ ITV:
 	adrianlop: adrianlop!users.noreply.github.com, adrianlzt+github!gmail.com from 2016-12-01 until 2018-04-01
 	adrianlzt: adrianlzt!gmail.com, adrianlzt!users.noreply.github.com, adrianlzt+github!gmail.com from 2016-12-01 until 2018-04-01
 	joshw123: 19779568+joshw123!users.noreply.github.com, joshw123!users.noreply.github.com from 2020-03-01 until 2022-09-01
-	lcrisci: laurent!crisci.io, laurent.crisci!gmail.com, lcrisci!users.noreply.github.com from 2016-07-15
 	lukeab: lukeab!users.noreply.github.com from 2015-06-01 until 2016-12-01
+ITV Crisci SOlutions:
+	lcrisci: laurent!crisci.io, laurent.crisci!gmail.com, lcrisci!users.noreply.github.com from 2015-07-15 until 2016-07-15
 ITV|AxxonSoft:
 	kathu: kathu!users.noreply.github.com
 ITWeb:

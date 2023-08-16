@@ -5,55 +5,6 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
-sigmavirus24: graffatcolmingov!gmail.com, icordasc+github!coglib.com, sigmavirus24!users.noreply.github.com, veganjay!gmail.com
-	Bendyworks Inc until 2014-06-01
-	Independent from 2014-06-01 until 2015-03-01
-	OpenStack Foundation from 2015-03-01 until 2015-10-01
-	Rackspace from 2015-10-01 until 2017-03-01
-	Heroku Inc. from 2017-03-01
-signalwerk: sh!signalwerk.ch
-	Signalwerk
-signed8bit: matthew!signed8bit.com
-	Cisco
-sigorilla: page!pagegwood.com
-	JPMorgan Chase until 2014-08-01
-	Independent from 2014-08-01 until 2015-06-01
-	Juniper Networks Inc. from 2015-06-01 until 2015-08-01
-	Independent from 2015-08-01 until 2016-02-01
-	Juniper Networks Inc. from 2016-02-01 until 2017-10-01
-	Tesla Inc. from 2017-10-01 until 2019-08-01
-	Aurora from 2019-08-01
-sigorilla: sigorilla!yandex-team.ru, sigorilla!yandex.ru
-	YANDEX LLC
-sigprof: vsu!altlinux.ru
-	Movial until 2015-09-01
-	Rightware Oy from 2015-09-01 until 2016-12-01
-	F-Secure Corporation from 2016-12-01
-sigsbee: 23101283+sigsbee!users.noreply.github.com, sigsbee!users.noreply.github.com, zrst!sina.com
-	Sina
-sigurdm: sigurdm!google.com, sigurdm!users.noreply.github.com
-	Google LLC
-sigvartmh: sigvart.hovland!nordicsemi.no, sigvart.m!gmail.com, sigvartmh!users.noreply.github.com
-	ARM until 2014-08-01
-	Independent from 2014-08-01 until 2015-04-01
-	Novelda from 2015-04-01 until 2016-06-01
-	Bekk Consulting AS from 2016-06-01 until 2016-07-01
-	Independent from 2016-07-01 until 2017-06-01
-	Independent from 2017-06-01 until 2017-08-01
-	Nordic Semiconductor ASA from 2017-08-01 until 2017-12-01
-	Independent from 2017-12-01 until 2018-08-01
-	Nordic Semiconductor ASA from 2018-08-01
-sijie: sijie!apache.org, sijie!users.noreply.github.com, sijieg!twitter.com
-	Twitter Inc. until 2017-03-01
-	Streamlio from 2017-03-01
-siju-vasudevan: siju-vasudevan!users.noreply.github.com
-	Tata until 2016-09-01
-	VMware Inc. from 2016-09-01 until 2017-05-01
-	OVH SAS from 2017-05-01
-sikachu: s!sikac.hu
-	thoughtbot Inc. until 2016-12-01
-	Independent from 2016-12-01 until 2017-02-01
-	Cookpad Inc. (UK) from 2017-02-01
 sikarash: s.ikarashi!jp.fujitsu.com
 	Fujitsu Limited
 sikevux: pgreco!apple.com, sikevux!sikevux.se, sikevux!users.noreply.github.com
@@ -302,7 +253,7 @@ simonguest: simonguest!users.noreply.github.com
 simonguinot: simon.guinot!sequanux.org
 	LaCie until 2014-01-01
 	Seagate Technology LLC from 2014-01-01
-simonihmig: ihmig!kaliber5.de, ihmig!kaliber5.de, simon.ihmig!kaliber5.de, simon.ihmig!kaliber5.de, simonihmig!users.noreply.github.com
+simonihmig: ihmig!kaliber5.de, simon.ihmig!kaliber5.de, simonihmig!users.noreply.github.com
 	kaliber5
 simonjcarr: simonjcarr!gmail.com, simonjcarr!users.noreply.github.com
 	Independent until 2016-01-01
@@ -2257,7 +2208,7 @@ sondabar: lars!cormann.biz
 	Udacity Inc. from 2017-08-01
 sondabar: sondabar!users.noreply.github.com
 	Bolzplatz Eichenau
-sondavidb: sondavidb!users.noreply.github.com, son.david.b!gmail.com, davbson!amazon.com
+sondavidb: davbson!amazon.com, son.david.b!gmail.com, sondavidb!users.noreply.github.com
 	Amazon
 sondinht: sondinht!users.noreply.github.com
 	Independent until 2018-09-01
@@ -4185,8 +4136,7 @@ stemid: stemid!users.noreply.github.com
 stensonb: bryan.stenson!gmail.com
 	Revinate
 stensonb: stensonb!users.noreply.github.com
-	Revinate
-	Siliconvortex from 2100-01-01
+	Revinate Siliconvortex
 stenwt: stenwt!users.noreply.github.com
 	Red Hat Inc. until 2018-04-01
 	CSG International Inc. from 2018-04-01 until 2018-09-01
@@ -5378,7 +5328,7 @@ sugilog: sugilog!users.noreply.github.com
 	Live Revolution
 suguru: snamura!gmail.com
 	Mercari Inc
-suguru03: patrick.kings!live.com, patrick.kings!live.com, suguru.motegi!gmail.com, suguru.motegi!gmail.com, suguru03!users.noreply.github.com
+suguru03: patrick.kings!live.com, suguru.motegi!gmail.com, suguru03!users.noreply.github.com
 	CyberAgent Inc. until 2015-11-01
 	Independent from 2015-11-01 until 2016-04-01
 	Vidao Messenger from 2016-04-01 until 2016-10-01
@@ -8137,7 +8087,8 @@ teg: teg!jklm.no
 	Red Hat Inc. from 2016-05-01 until 2018-06-01
 	CTO from 2018-06-01
 tegioz: tegioz!users.noreply.github.com
-	Formación Digital until 2013-09-01
+	FormaciC3n Digital until 2013-09-01
+	Independent from 2013-09-01 until 2013-11-01
 	Sparx from 2013-11-01 until 2019-10-01
 	Buoyant Inc. from 2019-10-01 until 2020-01-01
 	CNCF from 2020-01-01
@@ -12460,7 +12411,7 @@ troyconder: troy.cui!gmail.com
 	Legentic from 2020-03-01 until 2021-01-01
 	Oda from 2021-01-01 until 2021-09-01
 	Nomono from 2021-09-01
-troydemonbreun: gh!troyd.net, gh!troyd.net, github!troyd.net, troydemonbreun!users.noreply.github.com
+troydemonbreun: gh!troyd.net, troydemonbreun!users.noreply.github.com
 	Red Hat Inc. until 2019-08-01
 	Onna Technologies Inc from 2019-08-01 until 2021-01-01
 	Zencastr from 2021-01-01
@@ -14063,7 +14014,7 @@ uri-canva: uri-canva!users.noreply.github.com
 	Canva
 urimashi: uri.mashiach!compulab.co.il
 	CompuLab
-urish: uri!salsa4fun.co.il, uri!salsa4fun.co.il, uri!urishaked.com, uri!urishaked.com, urish!users.noreply.github.com
+urish: uri!salsa4fun.co.il, uri!urishaked.com, urish!users.noreply.github.com
 	BlackBerry Limited until 2018-11-01
 	VoiceOn from 2018-11-01
 uromahn: uromahn!users.noreply.github.com
@@ -15867,7 +15818,7 @@ viktorm77: viktor.malytskyy!qlik.com, viktorm77!users.noreply.github.com
 	QlikTech International AB from 2017-07-01
 vilhelmgray: vilhelm.gray!gmail.com
 	Independent
-villasv: cmdedjz!gmail.com, cmdedjz!gmail.com, villasv!outlook.com, villasv!outlook.com, villasv!users.noreply.github.com
+villasv: cmdedjz!gmail.com, villasv!outlook.com, villasv!users.noreply.github.com
 	Independent until 2015-01-01
 	BTG Pactual from 2015-01-01 until 2015-02-01
 	Independent from 2015-02-01 until 2016-09-01
@@ -15902,9 +15853,9 @@ vimox-shah: vimox-shah!users.noreply.github.com
 vin: vin!users.noreply.github.com, vineet!doorstop.net
 	Google LLC
 vinamra28: vinamra28!gmail.com, vinamra28!users.noreply.github.com, vinjain!redhat.com
-	Red Hat Inc. until 2022-02-28
+	Independent until 2020-01-20
+	Red Hat Inc. from 2020-01-20 until 2022-02-28
 	Independent from 2022-02-28
-	Independent 2020-01-20 from 2100-01-01
 vinayagg: vinayagg!users.noreply.github.com
 	Delta Dental until 2016-10-01
 	Multiple from 2016-10-01 until 2019-01-01
@@ -18664,8 +18615,7 @@ wgslr: wgslr!users.noreply.github.com
 	ACK Cyfronet from 2017-08-01 until 2020-02-01
 	Software Mansion from 2020-02-01
 wgtdkp: dkp!hust.edu.cn, wgtdkp!google.com
-	CDGCC
-	HUST from 2100-01-01
+	CDGCC HUST
 wgui1: guienator!gmail.com, wgui1!users.noreply.github.com
 	CloudChef
 wgwoods: wwoods!redhat.com
@@ -24337,3 +24287,63 @@ zetalog: lv.zheng!intel.com
 zetaron: zetaron!users.noreply.github.com
 	Tudock until 2017-02-01
 	aidminutes from 2017-02-01
+zettaittenani: zettaittenani!gmail.com, zettaittenani!users.noreply.github.com
+	Independent until 2016-04-01
+	Kakaku from 2016-04-01 until 2020-03-01
+	GLOBIS from 2020-03-01
+zeusal: zeusal!users.noreply.github.com
+	Arebit until 2014-10-01
+	Hispaweb from 2014-10-01 until 2015-12-01
+	BEEVA from 2015-12-01 until 2018-04-01
+	DXC Technology from 2018-04-01 until 2019-04-01
+	Accenture Global Solutions Limited from 2019-04-01
+zeuzoix: conrad.s.j.gomes!gmail.com
+	Sling Media LLC. until 2015-03-01
+	Caavo from 2015-03-01
+zevarito: zevarito!gmail.com, zevarito!users.noreply.github.com
+	Rhinobird
+zevektor: zevektor!users.noreply.github.com
+	Independent until 2016-02-01
+	Reply from 2016-02-01 until 2021-05-01
+	Subito from 2021-05-01
+zevisert: zevisert!users.noreply.github.com
+	Independent until 2015-09-01
+	Reliable from 2015-09-01 until 2015-12-01
+	Independent from 2015-12-01 until 2016-05-01
+	Reliable from 2016-05-01 until 2016-09-01
+	Independent from 2016-09-01 until 2017-01-01
+	AggregateIQ from 2017-01-01 until 2017-04-01
+	Independent from 2017-04-01 until 2019-01-01
+	Revela from 2019-01-01
+zezaeoh: zezaeoh!gmail.com, zezaeoh!users.noreply.github.com
+	Independent until 2018-12-01
+	Dano from 2018-12-01 until 2020-09-01
+	Bucketplace from 2020-09-01
+zeze1004: thwjd2717!gmail.com
+	Independent until 2022-01-01
+	SRE당근마켓 · Internship from 2022-01-01 until 2022-03-01
+	Google LLC from 2022-03-01
+zfraa: fraa!google.com
+	Google LLC
+zg: zg!users.noreply.github.com, zg!zk.gd
+	CiscoSpark
+zgfh: zg.zhu!daocloud.io, zgfh!users.noreply.github.com, zzg!daozzg.com
+	DaoCloud Network Technology Co. Ltd.
+zghyy: zghyy!users.noreply.github.com
+	ZUCC
+zgq25302111: zgq25302111!126.com
+	yusys
+zgriesinger: zgriesinger!users.noreply.github.com
+	Office Depot until 2015-05-01
+	Lakewood Oaks Golf Club from 2015-05-01 until 2016-08-01
+	Vocational Rehabilitation Lee's Summit from 2016-08-01 until 2017-01-01
+	Cerner Corporation from 2017-01-01 until 2019-10-01
+	C2FO from 2019-10-01
+zgs225: i!yuez.me
+	广州YOU+投资管理有限公司
+zh1314: zh1314!users.noreply.github.com, zhanghui31!baidu.com
+	Baidu Online Network Technology (Beijing) Co. Ltd
+zh168654: zh168654!users.noreply.github.com, zhangye.168!163.com
+	NetEase Inc
+zhaiyuyong: zhaiyuyong!126.com, zhaiyuyong!users.noreply.github.com
+	PDD
