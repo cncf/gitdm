@@ -5,18 +5,6 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
-nickcurie: nickcurie!users.noreply.github.com
-	Independent until 2016-05-01
-	Bitvore from 2016-05-01 until 2017-08-01
-	Independent from 2017-08-01 until 2018-05-01
-	Transcepta from 2018-05-01 until 2019-08-01
-	Arpeggio Bio from 2019-08-01 until 2020-05-01
-	Independent from 2020-05-01 until 2020-10-01
-	Transcepta from 2020-10-01
-nickdesaulniers: ndesaulniers!google.com, nick.desaulniers!gmail.com
-	Google LLC
-nickethier: edag94!live.com, ncethier!gmail.com, nethier!hashicorp.com
-	HashiCorp Inc
 nickgerace: nickgerace!users.noreply.github.com
 	Independent until 2018-05-01
 	NetApp from 2018-05-01 until 2018-10-01
@@ -24020,3 +24008,16 @@ sigvartmh: sigvart.hovland!nordicsemi.no, sigvart.m!gmail.com, sigvartmh!users.n
 	Nordic Semiconductor ASA from 2017-08-01 until 2017-12-01
 	Independent from 2017-12-01 until 2018-08-01
 	Nordic Semiconductor ASA from 2018-08-01
+sijie: sijie!apache.org, sijie!users.noreply.github.com, sijieg!twitter.com
+	Twitter Inc. until 2017-03-01
+	Streamlio from 2017-03-01
+siju-vasudevan: siju-vasudevan!users.noreply.github.com
+	Tata until 2016-09-01
+	VMware Inc. from 2016-09-01 until 2017-05-01
+	OVH SAS from 2017-05-01
+sikachu: s!sikac.hu
+	thoughtbot Inc. until 2016-12-01
+	Independent from 2016-12-01 until 2017-02-01
+	Cookpad Inc. (UK) from 2017-02-01
+sikarash: s.ikarashi!jp.fujitsu.com
+	Fujitsu Limited
