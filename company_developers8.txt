@@ -537,6 +537,7 @@ PlanetPass:
 	kavu: horned!kavu.dev from 2016-06-01 until 2017-01-01
 PlanetScale:
 	FancyFane: fane!planetscale.com
+	GuptaManan100: GuptaManan100!users.noreply.github.com
 	IsaacAnastasoff: isaac!planetscale.com
 	J0: J0!users.noreply.github.com, joel_lee!u.nus.edu from 2019-08-01 until 2020-01-01
 	PrismaPhonic: PrismaPhonic!users.noreply.github.com, peter!prismaphonic.com from 2019-12-01
@@ -559,6 +560,7 @@ PlanetScale:
 	jvaidya: 4582937+jvaidya!users.noreply.github.com, jitendra.vaidya!gmail.com, jvaidya!users.noreply.github.com from 2017-12-01
 	mattlord: mattalord!gmail.com, mattlord!users.noreply.github.com from 2021-08-01
 	mattrobenolt: m!robenolt.com, matt!ydekproductions.com, mattrobenolt!users.noreply.github.com from 2020-03-23
+	maxenglander: max.englander!gmail.com, maxenglander!users.noreply.github.com from 2022-06-28
 	morgo: morgo!users.noreply.github.com, tocker!gmail.com from 2019-06-01
 	notfelineit: notfelineit!users.noreply.github.com from 2021-12-01
 	rohit-nayak-ps: rohit-nayak-ps!users.noreply.github.com
@@ -10792,7 +10794,6 @@ SAP:
 	FabianKramm: FabianKramm!users.noreply.github.com, fk!devspace.cloud until 2014-09-01
 	FraBle: FraBle!users.noreply.github.com from 2014-09-01 until 2019-05-01
 	FriedrichWilken: FriedrichWilken!users.noreply.github.com from 2021-08-01
-	GuptaManan100: GuptaManan100!users.noreply.github.com until 2019-10-01
 	Haegi: Haegi!users.noreply.github.com
 	Halamix2: Halamix2!users.noreply.github.com, skrzynka!halamix2.pl from 2020-12-01
 	HardikDR: HardikDR!users.noreply.github.com, hardik.dodiya!sap.com

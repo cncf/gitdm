@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+fmotrifork: fmotrifork!users.noreply.github.com
+	Danske Commodities until 2015-10-01
+	Stibo A/S from 2015-10-01 until 2016-03-01
+	Trifork from 2016-03-01
+fmovlex: adam-26!users.noreply.github.com, fmovlex!users.noreply.github.com
+	Mesosphere
 fmr999: fmolinar!cisco.com, fmr999!users.noreply.github.com
 	Cisco
 fmstephe: fmstephe!users.noreply.github.com, francisstephens!gmail.com
@@ -4259,7 +4265,8 @@ goltermann: goltermann!google.com, goltermann!users.noreply.github.com
 golvteppe: bjoern.erik.strand!gmail.com, golvteppe!users.noreply.github.com
 	PSG Geophysical AS
 gomesjason: gomesjason!amazon.com, gomesjason!users.noreply.github.com
-        AWS from 2022-08-22
+	Independent until 2022-08-22
+	AWS from 2022-08-22
 gomonovych: gomonovych!gmail.com
 	Nokia Corporation
 gon1332: gon1332!users.noreply.github.com, ikonstadel!gmail.com
@@ -9337,6 +9344,7 @@ hughbe: hughbe!users.noreply.github.com, hughbellars!gmail.com
 	Independent from 2017-08-01 until 2019-07-01
 	Basis Research from 2019-07-01
 hughdanliu: hughdanliu!users.noreply.github.com, hughliu!amazon.com
+	Independent until 2022-08-01
 	AWS from 2022-08-01
 hughes20: hughes20!mit.edu
 	Independent until 2020-06-01
@@ -24103,18 +24111,3 @@ karanrk: karan.r.kamatgi!intel.com
 	Intel Corporation from 2018-05-01 until 2018-08-01
 	Independent from 2018-08-01 until 2019-01-01
 	Intel Corporation from 2019-01-01
-karanvasnani: karanvasnani!users.noreply.github.com
-	Blisstering Solutions until 2014-09-01
-	Independent from 2014-09-01 until 2014-11-01
-	Oracle America Inc. from 2014-11-01 until 2016-05-01
-	Independent from 2016-05-01 until 2017-05-01
-	AWS from 2017-05-01 until 2017-07-01
-	Independent from 2017-07-01 until 2018-02-01
-	AWS from 2018-02-01
-kararade: kararade!users.noreply.github.com
-	Team Croco until 2015-03-01
-	Independent from 2015-03-01 until 2015-10-01
-	RebelMouse from 2015-10-01 until 2016-07-01
-	SweatWorks from 2016-07-01 until 2019-03-01
-	Upwork Global Inc. from 2019-03-01 until 2019-06-01
-	X-Team from 2019-06-01
