@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Shop123:
+	lowc1012: lowc1012!gmail.com, lowc1012!users.noreply.github.com from 2018-05-01 until 2018-10-01
 ShopAdvisors:
 	wombat: mail!wombatsoftware.de, wombat!users.noreply.github.com until 2015-06-01
 ShopBack:
