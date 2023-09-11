@@ -21453,9 +21453,10 @@ joshuabezaleel: joshua.bezaleel!gmail.com, joshuabezaleel!users.noreply.github.c
 	Shipper from 2020-01-01
 joshuacox: josh!webhosting.coop, joshuacox!users.noreply.github.com
 	WebHosting
-joshuagl: joshua.lock!uk.verizon.com, joshuagloe!gmail.com, jlock!vmware.com, joshuagl!users.noreply.github.com
+joshuagl: jlock!vmware.com, joshua.lock!uk.verizon.com, joshuagl!users.noreply.github.com, joshuagloe!gmail.com
+	Independent until 2019-04-01
 	VMware Inc. from 2019-04-01 until 2023-03-17
-	Verizon from 2023-03-20
+	Verizon from 2023-03-17
 joshuajorel: joshua.jorel.lee!gmail.com, joshuajorel!users.noreply.github.com
 	Dimension Data until 2015-08-01
 	International Business Machines Corporation from 2015-08-01 until 2016-03-01
@@ -24114,7 +24115,3 @@ kadimi: kadimi!users.noreply.github.com, nabil!kadimi.com
 kadisi: iamkadisi!163.com, kadisi!users.noreply.github.com
 	China Unicom until 2020-09-10
 	Alibaba.com from 2020-09-10
-kaduk: bkaduk!akamai.com
-	Akamai Technologies Inc.
-kaduk: kaduk!mit.edu
-	MIT Connection Science
