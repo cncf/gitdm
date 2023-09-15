@@ -9,8 +9,8 @@
 - Generate data for new/first-time committers 2 months for Prometheus projects: `ONLY='prometheus' TASKS='unknown_committers' ./affs/all_tasks_new.sh '2 months'`.
 - Generate data for new/first-time contributors for the last 6 months for 'All CNCF' project: `ONLY='allprj' TASKS='unknown_contributors' ./affs/all_tasks_new.sh '6 months'`.
 - Delete reporting pod: `helm delete devstats-prod-reports`. Use `devstats` URL for `prod` and `teststats` for `test`.
-- Go to `cncf/gitdm:src`: `wget https://devstats.cncf.io/backups/keylime_unknown_contributors.csv`
-- Go to `cncf/gitdm:src`: `wget https://teststats.cncf.io/backups/allprj_unknown_contributors_recent.csv`
+- Go to `cncf/gitdm:src`: `wget https://devstats.cncf.io/backups/keylime_unknown_contributors.csv`, `wget https://devstats.cncf.io/backups/allprj_unknown_contributors_new.csv`.
+- Go to `cncf/gitdm:src`: `wget https://teststats.cncf.io/backups/allprj_unknown_contributors_recent.csv`.
 - Check for forbidden SHAs: `./check_shas keylime_unknown_contributors.csv`.
 - Check for forbidden SHAs: `./check_shas allprj_unknown_contributors_recent.csv`.
 - Generate a task file: `PG_PASS=... ./unknown_committers.rb keylime_unknown_contributors.csv; mv task.csv keylime_task.csv`.
