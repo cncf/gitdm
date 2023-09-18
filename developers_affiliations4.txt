@@ -5,6 +5,63 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+fclesio: fclesio!users.noreply.github.com
+	Uninove until 2015-02-01
+	Movile from 2015-02-01 until 2018-02-01
+	Independent from 2018-02-01 until 2018-04-01
+	Delivery Hero from 2018-04-01 until 2018-12-01
+	MyHammer from 2018-12-01 until 2021-02-01
+	Artsy from 2021-02-01
+fcobos: fcobos!users.noreply.github.com
+	Independent until 2019-09-01
+	Emergya from 2019-09-01 until 2020-01-01
+	Indizen - Believe in Talent from 2020-01-01
+fcojfernandez: 31063239+fcojfernandez!users.noreply.github.com, fjfernandez!cloudbees.com
+	everis until 2017-08-01
+	CloudBees Inc. from 2017-08-01
+fcooper: fcooper!ti.com
+	Texas Instruments Incorporated
+fcorti: fcorti!users.noreply.github.com, francescoc!spotify.com
+	Independent until 2015-08-01
+	FDM from 2015-08-01 until 2016-09-01
+	Hyland from 2016-09-01 until 2021-04-01
+	Spotify AB from 2021-04-01
+fcrespel: fabien!crespel.net
+	CGI
+fcrespofastly: fcrespofastly!users.noreply.github.com
+	Fastly
+fcrisciani: fcrisciani!users.noreply.github.com
+	PLUMgrid Inc. until 2016-12-01
+	VMware Inc. from 2016-12-01 until 2017-02-01
+	Docker Inc. from 2017-02-01 until 2019-03-01
+	Google LLC from 2019-03-01
+fcvarela: fcvarela!gmail.com, fcvarela!users.noreply.github.com
+	Thomson Reuters Markets LLC
+fd-automox: fd-automox!users.noreply.github.com
+	NationalNet until 2018-10-01
+	Performive from 2018-10-01 until 2020-04-01
+	Automox from 2020-04-01
+fdanis-oss: frederic.danis!linux.intel.com
+	Intel Corporation
+fdasilva59: fdasilva59!users.noreply.github.com
+	SIA Worldline Latvia until 2020-04-01
+	Scaleway from 2020-04-01
+fdawg4l: fdawg4l!users.noreply.github.com
+	VMware Inc. until 2017-05-01
+	RSTOR from 2017-05-01 until 2018-12-01
+	VMware Inc. from 2018-12-01
+fdegir: fdegir!gmail.com, fdegir!users.noreply.github.com
+	Ericsson until 2020-01-01
+	Continuous Delivery Foundation from 2020-01-01
+fdeswardt: fdeswardt!users.noreply.github.com
+	PLUMgrid Inc. until 2015-04-01
+	Symantec Corporation from 2015-04-01 until 2016-12-01
+	Amazon from 2016-12-01 until 2019-06-01
+	Palo Alto Networks from 2019-06-01
+fdhex: fdhex!users.noreply.github.com
+	Independent until 2016-03-01
+	Swisscom from 2016-03-01 until 2021-09-01
+	AWS from 2021-09-01
 fdingiit: fdingiit!users.noreply.github.com
 	Intel Corporation
 fdmanana: fdmanana!kernel.org, fdmanana!suse.com
@@ -8483,6 +8540,14 @@ harshul4274: harshul4274!users.noreply.github.com
 harshvkarn: harshvardhan.karn!mayadata.io, harshvkarn!users.noreply.github.com, harshvkarn54!gmail.com
 	Independent until 2018-01-01
 	MayaData Inc. (f/k/a CloudByte Inc) from 2018-01-01
+harsimran-pabla: harsimran-pabla!users.noreply.github.com
+	Cisco until 2015-07-01
+	Independent from 2015-07-01 until 2016-05-01
+	Arista Networks from 2016-05-01 until 2016-08-01
+	Independent from 2016-08-01 until 2017-08-01
+	Kaloom from 2017-08-01 until 2021-11-01
+	DigitalOcean from 2021-11-01 until 2023-02-01
+	Isovalent from 2023-02-01
 hartkopp: socketcan!hartkopp.net
 	Fila
 hartra344: hartra344!users.noreply.github.com, travistylerharris!outlook.com
@@ -22950,6 +23015,12 @@ jprecuch: Jaroslav.Precuch!netapp.com, jprecuch!users.noreply.github.com
 	NetApp from 2017-08-01
 jpreese: john!reese.dev, jpreese!users.noreply.github.com
 	Plex Systems
+jprendes: jprendes!users.noreply.github.com
+	Independent until 2015-10-01
+	IRIT from 2015-10-01 until 2016-08-01
+	MathWorks from 2016-08-01 until 2022-01-01
+	lowRISC from 2022-01-01 until 2023-05-01
+	Docker Inc. from 2023-05-01
 jprestwo: CharlesHolbrow!gmail.com, james.prestwood!intel.com
 	Intel Corporation
 jpricketMSFT: jpricket!microsoft.com
@@ -24027,70 +24098,3 @@ juliemr: ju.ralph!gmail.com, juliemr!users.noreply.github.com
 	Google LLC
 julien-hedoux: julien-hedoux!users.noreply.github.com
 	Jeune Afrique
-julien-piccaluga: julien-piccaluga!users.noreply.github.com
-	NAGRA until 2015-12-01
-	Morphean SA from 2015-12-01 until 2016-09-01
-	SICPA SA from 2016-09-01 until 2017-10-01
-	Kudelski Security from 2017-10-01
-julienMichaud: julienMichaud!users.noreply.github.com
-	Independent until 2014-11-01
-	SNCF from 2014-11-01 until 2015-11-01
-	Independent from 2015-11-01 until 2016-11-01
-	SNCF from 2016-11-01 until 2017-02-01
-	Independent from 2017-02-01 until 2017-09-01
-	SNCF from 2017-09-01 until 2018-10-01
-	INOVSHOP from 2018-10-01 until 2019-11-01
-	Devoteam Revolve from 2019-11-01
-julienba: julien.bille!gmail.com
-	Viadeo until 2014-05-01
-	Independent from 2014-05-01 until 2015-04-01
-	Cycloid from 2015-04-01 until 2016-04-01
-	Independent from 2016-04-01 until 2016-06-01
-	Wizardly from 2016-06-01 until 2016-12-01
-	adgoji from 2016-12-01 until 2019-08-01
-	Otravo from 2019-08-01
-julienchauveau: julien.chauveau!neo-technologies.fr
-	NEO-Technologies
-julienduchesne: jduchesne!coveo.com, julienduchesne!live.com
-	Independent until 2014-05-01
-	Alcoa Inc. from 2014-05-01 until 2014-08-01
-	Independent from 2014-08-01 until 2015-05-01
-	Hortau from 2015-05-01 until 2017-10-01
-	Coveo from 2017-10-01
-julienemo: julienemo!users.noreply.github.com, juliette.nada!gmail.com
-	Hachette until 2014-07-01
-	Independent from 2014-07-01 until 2015-09-01
-	Club Med India from 2015-09-01 until 2015-12-01
-	Independent from 2015-12-01 until 2017-02-01
-	Allianz Deutschland AG from 2017-02-01 until 2017-04-01
-	Independent from 2017-04-01
-julienfouilhe: julienfouilhe!users.noreply.github.com
-	Blippar until 2015-08-01
-	Flat from 2015-08-01 until 2017-12-01
-	Blackpills from 2017-12-01 until 2018-11-01
-	Inato from 2018-11-01 until 2022-03-01
-	Building Cash · Permanent from 2022-03-01
-juliengk: github!kassisol.com, juliengk!users.noreply.github.com
-	Kassisol
-julienlim: diegocarreira.fr!gmail.com, julim!redhat.com
-	Red Hat Inc. until 2019-10-01
-	Amazon from 2019-10-01
-julienlim: julienlim!users.noreply.github.com
-	Red Hat Inc.
-julienp: julien!caffeine.lu, julienp!users.noreply.github.com
-	Lineheart until 2015-10-01
-	Talentsquare from 2015-10-01 until 2016-08-01
-	Elium from 2016-08-01 until 2020-02-01
-	GatsbyJS from 2020-02-01
-julienperignon: perignon.julien!gmail.com
-	Netapsys until 2016-05-01
-	Independent from 2016-05-01 until 2016-10-01
-	Host/Havas from 2016-10-01 until 2020-01-01
-	WealthO2 from 2020-01-01
-julienrf: julien!richard-foy.fr, julienrf!users.noreply.github.com
-	Fabernovel until 2016-07-01
-	EPFL Scala Center from 2016-07-01 until 2019-09-01
-	Bestmile from 2019-09-01
-juliens: juliens!users.noreply.github.com
-	Alptis Assurances SAS until 2017-05-01
-	Containous from 2017-05-01
