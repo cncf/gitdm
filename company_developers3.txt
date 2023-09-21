@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Dexcom Inc.:
+	keenan-wells-dxc: keenan-wells-dxc!users.noreply.github.com from 2021-12-01 until 2022-06-01
+	lanvis: lanvis!users.noreply.github.com, mark.rowe!lanvisioninc.com
+	solsbarry: barry.solomon!dexcom.com, solsbarry!users.noreply.github.com from 2018-10-01
 Dexterity:
 	robertzsun-dev: robertzsun-dev!users.noreply.github.com from 2017-11-01
 Dextra:
