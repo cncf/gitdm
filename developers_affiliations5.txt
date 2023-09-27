@@ -1181,6 +1181,8 @@ jwolski2: jeff!wercker.com, jwolski2!users.noreply.github.com
 	ideeli from 2012-01-15 until 2013-05-01
 	Uber from 2013-05-01 until 2017-03-15
 	Wercker from 2017-03-15
+jwoods06: jwoods06!shaw.ca, john!akuity.io, jwoods06!users.noreply.github.com
+	Akuity Inc. from 2023-03-20
 jwrdegoede: asa!asasmith.com, hdegoede!redhat.com, j.w.r.degoede!gmail.com, jwrdegoede!fedoraproject.org
 	Red Hat Inc.
 jwstric2: jonatstr!cisco.com, jwstric2!gmail.com
@@ -3210,8 +3212,9 @@ kenchiang: ken.chiang!bigswitch.com
 kencieszykowski: kencieszykowski!users.noreply.github.com
 	Apple Inc. until 2015-08-01
 	Zefr from 2015-08-01
-kencochrane: kencochrane!gmail.com, kencochrane!users.noreply.github.com
-	Docker Inc.
+kencochrane: kencochrane!gmail.com, kencochrane!users.noreply.github.com, ken!akuity.io
+	Docker Inc. from 2012-02-01 until 2017-10-01
+	Akuity Inc. from 2022-12-01
 kendallroden: kendallroden!users.noreply.github.com
 	Independent until 2015-05-01
 	84.51 from 2015-05-01 until 2015-08-01
@@ -5952,7 +5955,7 @@ kramerul: kramerul!users.noreply.github.com, u.kramer!sap.com
 	SAP
 kramvan1: kramvan1!users.noreply.github.com, vanderwl!us.ibm.com
 	International Business Machines Corporation
-krancour: kent!deis.com, kent.rancourt!gmail.com, kent.rancourt!microsoft.com, krancour!users.noreply.github.com, krancourt!engineyard.com
+krancour: kent!deis.com, kent.rancourt!gmail.com, kent.rancourt!microsoft.com, krancour!users.noreply.github.com, krancourt!engineyard.com, kent!akuity.io
 	CVS Health until 2015-07-15
 	Deis from 2015-07-15 until 2017-04-01
 	Microsoft Corporation from 2017-04-01 until 2022-06-27

@@ -14120,12 +14120,13 @@ devgrok: devgrok!users.noreply.github.com
 devguyio: Abd4llA!users.noreply.github.com, aabdelre!redhat.com, ahmed.abdalla!sap.com, eng.a.abdalla!gmail.com
 	SAP until 2020-04-30
 	Red Hat Inc. from 2020-04-30
-devholic: devholic!users.noreply.github.com, me!devholic.io
+devholic: devholic!users.noreply.github.com, me!devholic.io, hoon!akuity.io
 	Independent until 2015-07-01
 	SWM from 2015-07-01 until 2016-06-01
 	WELT from 2016-06-01 until 2016-10-01
 	Bank Salad from 2016-10-01 until 2019-06-01
-	LINE Plus from 2019-06-01
+	LINE Plus from 2019-06-01 until 2022-06-20
+	Akuity Inc. from 2022-06-20
 deviance: deviance!users.noreply.github.com, seems.deviant!gmail.com, yoshiki!shibu.jp
 	Independent
 deviantintegral: deviantintegral!users.noreply.github.com
@@ -14745,7 +14746,7 @@ dholth: dholth!fastmail.fm
 	FastMail.FM
 dhowells: dhowells!redhat.com
 	Red Hat Inc.
-dhpup: danielvanhoang!gmail.com
+dhpup: danielvanhoang!gmail.com, daniel!akuity.io
 	Independent until 2015-02-01
 	McKesson from 2015-02-01 until 2015-12-01
 	International Business Machines Corporation from 2015-12-01 until 2018-08-01
@@ -23215,7 +23216,7 @@ evgenii-denisov: evgenii-denisov!users.noreply.github.com
 evgenii-petrov-arrival: evgenii-petrov-arrival!users.noreply.github.com
 	Google LLC until 2019-07-01
 	ARRIVAL from 2019-07-01
-evgeny-goldin: evgeny!goldin.us, evgeny-goldin!users.noreply.github.com, evgenyg!gmail.com
+evgeny-goldin: evgeny!goldin.us, evgeny-goldin!users.noreply.github.com, evgenyg!gmail.com, evgeny!akuity.io
 	AKQA until 2014-10-01
 	Spotify AB from 2014-10-01 until 2015-03-01
 	Amazon from 2015-03-01 until 2020-02-01
