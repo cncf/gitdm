@@ -5220,12 +5220,13 @@ abonas: abonas!redhat.com, mikeyteva!gmail.com
 	Red Hat Inc.
 abonillasuse: abonillasuse!users.noreply.github.com
 	SUSE LLC
-aborilov: aborilov!users.noreply.github.com
+aborilov: aborilov!users.noreply.github.com, aborilov!gmail.com, pavel!akuity.io
 	CJSC until 2015-10-01
 	CloudLinux from 2015-10-01 until 2017-02-01
 	Moqod from 2017-02-01 until 2017-09-01
 	VIAcode from 2017-09-01 until 2020-02-01
-	Kubermatic GmbH from 2020-02-01
+	Kubermatic GmbH from 2020-02-01 until 2022-05-30
+	Akuity Inc. from 2022-05-30
 abou9: alex.bou9!gmail.com
 	Integrated DNA Technologies Inc until 2018-03-01
 	Syntronic from 2018-03-01
@@ -21728,7 +21729,7 @@ bikrambox: bikram.rongpi.dpu0!gmail.com
 	Independent until 2021-03-01
 	Primary Healthtech from 2021-03-01 until 2022-01-01
 	Alegra Labs from 2022-01-01
-bikramnehra: bikramnehra!users.noreply.github.com
+bikramnehra: bikramnehra!users.noreply.github.com, bikramnehra!gmail.com, bikram!akuity.io
 	Amdocs Limited until 2015-01-01
 	International Business Machines Corporation from 2015-01-01 until 2015-08-01
 	Independent from 2015-08-01 until 2016-05-01
@@ -21736,7 +21737,8 @@ bikramnehra: bikramnehra!users.noreply.github.com
 	Independent from 2016-12-01 until 2017-05-01
 	2 Cranes & Sun Inc. from 2017-05-01 until 2018-12-01
 	SUSE LLC from 2018-12-01 until 2020-07-01
-	Reserved from 2020-07-01
+	Reserved from 2020-07-01 until 2023-06-05
+	Akuity Inc. from 2023-06-05
 bilalba: bilalba!users.noreply.github.com
 	Independent until 2016-05-01
 	ClubInternet from 2016-05-01 until 2016-09-01
