@@ -2,6 +2,28 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Devek:
+	kesor: evgeny.zislis!gmail.com, kesor!users.noreply.github.com, maxdignan!gmail.com from 2019-07-01
+	omerxx: omerxx!gmail.com, omerxx!users.noreply.github.com from 2019-09-01 until 2020-12-01
+DevelMagic:
+	martinformi: martinformi!users.noreply.github.com from 2016-11-01 until 2018-03-01
+Develer Srl:
+	Pippolo84: fabio.falzoi84!gmail.com from 2015-03-01 until 2018-02-01
+DeveloPassion:
+	dsebastien: dsebastien!users.noreply.github.com from 2020-09-01
+Developers:
+	marrem: marrem!users.noreply.github.com from 2018-02-01 until 2018-09-01
+Development Seed:
+	drewbo: drewbo!users.noreply.github.com from 2014-06-01
+	martham93: martha!pachama.com, martham93!users.noreply.github.com from 2019-10-01 until 2021-10-01
+	wronk: wronk!users.noreply.github.com, wronk.mark!gmail.com from 2017-11-01 until 2020-03-01
+Developpez:
+	loicmathieu: loicmathieu!users.noreply.github.com, loikeseke!gmail.com until 2015-01-01
+Deveryware:
+	a14n: a14n!users.noreply.github.com, alexandre.ardhuin!gmail.com
+Devetry:
+	HeathNaylor: HeathNaylor!users.noreply.github.com from 2019-10-01 until 2020-03-01
+	p-gonzo: p-gonzo!users.noreply.github.com from 2018-10-01
 Devex:
 	ifosch: ifosch!users.noreply.github.com, ignasi.fosch!gmail.com, natx!y10k.ws, tejas.sarode3!gmail.com
 	miguelbernadi: ahutalla!gmail.com, miguel.bernabeu!lobber.eu, miguelbernadi!gmail.com, miguelbernadi!users.noreply.github.com from 2016-08-01
@@ -1140,7 +1162,7 @@ Docker Inc.:
 	jprendes: jprendes!users.noreply.github.com from 2023-05-01
 	justincormack: justin!specialbusservice.com, justin.cormack!docker.com, justin.cormack!unikernel.com, justincormack!users.noreply.github.com
 	jzyao: jzyao!users.noreply.github.com from 2017-07-01 until 2019-02-01
-	kencochrane: kencochrane!gmail.com, kencochrane!users.noreply.github.com
+	kencochrane: kencochrane!gmail.com, kencochrane!users.noreply.github.com from 2012-01-01 until 2017-10-01
 	kolyshkin: kir!openvz.org, kolyshkin!gmail.com, kolyshkin!users.noreply.github.com from 2017-06-01 until 2019-11-01
 	londoncalling: londoncalling!users.noreply.github.com from 2015-09-01 until 2017-11-01
 	manishtomar: manishtomar!users.noreply.github.com from 2017-05-01 until 2020-08-01
@@ -8731,7 +8753,7 @@ First Bridge:
 First Capital:
 	USAF-cbentkowski: USAF-cbentkowski!users.noreply.github.com until 2015-06-01
 First Choice Tutoring:
-	rbreeze: remington!breeze.software from 2017-01-01 until 2017-04-01
+	rbreeze: remington!akuity.io, remington!breeze.software, remington!hey.com from 2017-01-01 until 2017-04-01
 First Clarity:
 	kyzh: florentin.raud!gmail.com, kyzh!users.noreply.github.com from 2015-03-01 until 2015-07-01
 First Data Corporation:

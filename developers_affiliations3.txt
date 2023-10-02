@@ -5,6 +5,17 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+brat000012001: brat000012001!gmail.com
+	Analytical Graphics until 2022-01-01
+	Ansys from 2022-01-01
+bratao: bratao!users.noreply.github.com, bruno.cabral!ufba.br
+	Independent until 2016-09-01
+	Escavador from 2016-09-01 until 2020-06-01
+	Antecipa from 2020-06-01
+braudel: braudel!users.noreply.github.com
+	CSR until 2015-08-01
+	Qualcomm from 2015-08-01 until 2016-02-01
+	Arm from 2016-02-01
 brauner: brauner!users.noreply.github.com, cbrauner!suse.com, cbrauner!suse.de, christian!brauner.io, christian.brauner!ubuntu.com, christianvanbrauner!gmail.com
 	Canonical Ltd.
 braunu: ursula.braun!de.ibm.com
@@ -373,7 +384,7 @@ brianshannan: brianshannan!gmail.com, brianshannan!users.noreply.github.com
 	Workiva Inc.
 briansmith: brian!briansmith.org, briansmith!users.noreply.github.com
 	Monster until 2015-08-01
-	State Street Corp. from 2015-08-01
+	State Street Corp. from 2015-08-01 until 2017-09-28
 	Buoyant Inc. from 2017-09-28
 briansonnenberg: briansonnenberg!users.noreply.github.com, bsonnenberg!google.com
 	Google LLC
@@ -14121,7 +14132,7 @@ devgrok: devgrok!users.noreply.github.com
 devguyio: Abd4llA!users.noreply.github.com, aabdelre!redhat.com, ahmed.abdalla!sap.com, eng.a.abdalla!gmail.com
 	SAP until 2020-04-30
 	Red Hat Inc. from 2020-04-30
-devholic: devholic!users.noreply.github.com, me!devholic.io, hoon!akuity.io
+devholic: devholic!users.noreply.github.com, hoon!akuity.io, me!devholic.io
 	Independent until 2015-07-01
 	SWM from 2015-07-01 until 2016-06-01
 	WELT from 2016-06-01 until 2016-10-01
@@ -14747,7 +14758,7 @@ dholth: dholth!fastmail.fm
 	FastMail.FM
 dhowells: dhowells!redhat.com
 	Red Hat Inc.
-dhpup: danielvanhoang!gmail.com, daniel!akuity.io
+dhpup: daniel!akuity.io, danielvanhoang!gmail.com
 	Independent until 2015-02-01
 	McKesson from 2015-02-01 until 2015-12-01
 	International Business Machines Corporation from 2015-12-01 until 2018-08-01
@@ -23218,7 +23229,7 @@ evgenii-denisov: evgenii-denisov!users.noreply.github.com
 evgenii-petrov-arrival: evgenii-petrov-arrival!users.noreply.github.com
 	Google LLC until 2019-07-01
 	ARRIVAL from 2019-07-01
-evgeny-goldin: evgeny!goldin.us, evgeny-goldin!users.noreply.github.com, evgenyg!gmail.com, evgeny!akuity.io
+evgeny-goldin: evgeny!akuity.io, evgeny!goldin.us, evgeny-goldin!users.noreply.github.com, evgenyg!gmail.com
 	AKQA until 2014-10-01
 	Spotify AB from 2014-10-01 until 2015-03-01
 	Amazon from 2015-03-01 until 2020-02-01
@@ -23901,20 +23912,3 @@ fandujar: fandujar!users.noreply.github.com, filipeandujar!gmail.com, kennethg!t
 	Nu Pagamentos S.A from 2021-11-01
 fangel: fangel!sevengoslings.net, fangel!users.noreply.github.com
 	Morten Fangel
-fanghuaqi: 578567190!qq.com, fanghuaqi!users.noreply.github.com, huaqi.fang!synopsys.com
-	Synopsys Inc
-fangn2: nenghui.fang!gmail.com, nhfang!amazon.com
-	Independent until 2022-08-29
-	AWS from 2022-08-29
-fangpenlin: fangpenlin!users.noreply.github.com, hello!fangpenlin.com
-	Balanced until 2015-04-01
-	Envoy from 2015-04-01 until 2018-11-01
-	Niantic from 2018-11-01
-fangshun-z: fangshun-z!users.noreply.github.com
-	DaoCloud Network Technology Co. Ltd.
-fangwenjiang: fangwenjiang!users.noreply.github.com, jiangfangwen2005!163.com, jiangfw!inspur.com
-	Inspur Group
-fangyuanziti: feixiaoboy!163.com
-	NetEase Inc
-fangyuxiangGL: fang.yuxiang!eisoo.com
-	EISOO
