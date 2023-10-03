@@ -2,6 +2,51 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+DevOps Institute:
+	aabed: aabed!users.noreply.github.com, ahmad.aabed.m!gmail.com
+	asmartin: asmartin!users.noreply.github.com, sublimino!gmail.com
+	bassco: andrew.basson!gmail.com, bassco!users.noreply.github.com
+	dberuben: daniel.beruben!gmail.com, dberuben!users.noreply.github.com
+	enflo: enflo!users.noreply.github.com, toniflorithomar!gmail.com from 2018-03-01
+	gambol99: gambol99!gmail.com, gambol99!users.noreply.github.com
+	jfouchard: jeff!fouchard.org, jfouchard!users.noreply.github.com from 2017-05-01
+	kamilhristov: kamilhristov!gmail.com, kamilhristov!users.noreply.github.com
+	kayrus: kay.diam!gmail.com, kayrus!users.noreply.github.com
+	kwilczynski: krzysztof.wilczynski!linux.com, kw!linux.com from 2015-02-01 until 2015-06-01
+	proffalken: matt!mockingbirdconsulting.co.uk, proffalken!users.noreply.github.com from 2015-10-01 until 2017-02-01
+	s0rc3r3r01: s0rc3r3r01!users.noreply.github.com
+	sublimino: sublimino!gmail.com, sublimino!users.noreply.github.com
+	tallpauley: cmpauley!gmail.com, tallpauley!users.noreply.github.com
+	tdemaret: 59pilgrim!gmail.com, tdemaret!users.noreply.github.com, thibaut.demaret!radiofrance.com
+DevOpsGroup:
+	ZeroDeth: ZeroDeth!users.noreply.github.com from 2019-03-01 until 2020-01-01
+DevOpsGuys:
+	timothyclarke: timothy.clarke!serverbox.co.uk, timothyclarke!users.noreply.github.com from 2015-03-01 until 2015-09-01
+DevOpsHub:
+	cognoz: cognoz!users.noreply.github.com from 2021-10-01
+DevOpsTech:
+	sanjaynaikwadi: sanjay.naikwadi!gmail.com, sanjaynaikwadi!users.noreply.github.com from 2017-11-01 until 2018-07-01
+DevOpsify Inc.:
+	tomqwu: tom!devopsify.io, tom.q.wu!gmail.com, tomqwu!users.noreply.github.com from 2015-06-01
+DevRel:
+	hacktivist123: akintayoshedrack!gmail.com from 2023-02-01
+DevRev:
+	prabath: prabath!apache.org, prabath!users.noreply.github.com from 2022-01-01
+DevScope:
+	HugoS99: HugoS99!users.noreply.github.com from 2020-02-01
+DevSecOps Consulting:
+	williamcodes: williamcodes!users.noreply.github.com, wm.jeffries!gmail.com from 2018-12-01
+DevSentient:
+	ashmlk: ashmlk!users.noreply.github.com from 2021-03-01
+DevSpace:
+	FabianKramm: FabianKramm!users.noreply.github.com, fk!devspace.cloud from 2019-01-01
+DevSpark:
+	gonrial: gonrial!users.noreply.github.com until 2015-02-01
+DevTable:
+	jakedt: jakedt!users.noreply.github.com until 2014-08-01
+	josephschorr: joseph.schorr!coreos.com, josephschorr!users.noreply.github.com until 2014-08-01
+DevTech:
+	connor1989: connor1989!users.noreply.github.com, hoehn_connor!bah.com from 2019-12-01
 Devek:
 	kesor: evgeny.zislis!gmail.com, kesor!users.noreply.github.com, maxdignan!gmail.com from 2019-07-01
 	omerxx: omerxx!gmail.com, omerxx!users.noreply.github.com from 2019-09-01 until 2020-12-01
@@ -1907,6 +1952,7 @@ Dropbox Inc.:
 	sixolet: naomi!seyfer.org, seyfer!google.com
 	strin: strin!users.noreply.github.com, tianlins!stanford.edu from 2015-06-01 until 2015-09-01
 	tammybutow: tammybutow!gmail.com from 2015-10-01 until 2017-10-01
+	tdmanv: tdmanv!users.noreply.github.com, tdmanville!gmail.com, tom!kasten.io from 2015-07-01 until 2017-01-01
 	tsawada: tsawada!users.noreply.github.com from 2017-05-01 until 2018-05-01
 	u2mejc: u2mejc!users.noreply.github.com until 2014-10-01
 	veshij: veshij!users.noreply.github.com from 2016-10-01
@@ -1931,6 +1977,7 @@ Druid:
 	himanshug: himanshug!users.noreply.github.com
 Drupal:
 	LionsAd: fabianfranz.oss!gmail.com
+	ankitjain235: ankitjain.meone!gmail.com from 2018-03-01 until 2018-12-01, from 2019-04-01 until 2019-08-01, from 2019-11-01 until 2020-01-01
 	heddn: heddn!users.noreply.github.com
 Drupal Project:
 	andypost: andypost!users.noreply.github.com
@@ -3160,6 +3207,8 @@ ESSIQ AB:
 	sumitjadhav1: sumitjadhav1!users.noreply.github.com from 2020-02-01 until 2020-04-01
 ESSS:
 	gcardozo123: gcardozo!inf.ufsm.br from 2018-01-01
+EST Technologies:
+	TimonOmsk: TimonOmsk!users.noreply.github.com
 ESTI:
 	RickyCaoCao: RickyCaoCao!users.noreply.github.com from 2016-06-01 until 2016-08-01
 ESTIEM:
@@ -13396,6 +13445,7 @@ GoCompare:
 GoContact:
 	jesalves: jesalves!users.noreply.github.com from 2019-01-01 until 2022-04-01
 GoDaddy Operating Company LLC:
+	DeepikaDixit: DeepikaDixit!users.noreply.github.com from 2014-11-01 until 2015-06-01
 	DullReferenceException: DullReferenceException!users.noreply.github.com, jpage!godaddy.com, marshall!radialdevgroup.com
 	aka-bo: aka-bo!users.noreply.github.com, bo!godaddy.com, ethompson!godaddy.com
 	andreykurilin: akurilin!mirantis.com, andr.kurilin!gmail.com, andreykurilin!users.noreply.github.com from 2017-08-01

@@ -2,6 +2,19 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Pfizer:
+	alnutile: alfrednutile!gmail.com, alnutile!users.noreply.github.com from 2020-01-01
+	amitsh728: amitsh728!users.noreply.github.com from 2017-05-01 until 2018-09-01
+	hansaimlim: hansaimlim!users.noreply.github.com from 2022-05-01
+Phacility:
+	amckinley: amckinley!users.noreply.github.com from 2016-03-01 until 2020-04-01
+Phantom:
+	TzlilSwimmer123: TzlilSwimmer123!users.noreply.github.com from 2016-06-01 until 2018-06-01
+PharmEasy:
+	krish512: krish512!users.noreply.github.com from 2018-08-01
+	kushalhalder: krazykushal!gmail.com from 2015-04-01 until 2022-09-01
+PharmaCommunications:
+	marcandrews: marcandrews!users.noreply.github.com from 2016-02-01 until 2016-10-01
 PharmaPartners:
 	voroniys: voroniys!users.noreply.github.com from 2014-12-01 until 2015-06-01
 Pharmedica:
@@ -467,6 +480,7 @@ PinnacleART:
 PinnacleWorks:
 	Anishmourya: Anishmourya!users.noreply.github.com from 2015-09-01 until 2017-02-01
 PinnacleWorks Infotech:
+	ankitjain235: ankitjain.meone!gmail.com from 2016-11-01 until 2017-07-01
 	ankitjain28may: ankitjain28may!users.noreply.github.com, ankitjain28may77!gmail.com from 2017-06-01 until 2017-07-01
 Pinoccio:
 	soldair: leo386386!gmail.com, soldair!gmail.com, soldair!users.noreply.github.com until 2015-03-01
@@ -2783,6 +2797,8 @@ Project Calico:
 	tomdee: tom!tomdee.co.uk, tom.denham!metaswitch.com, tomdee!users.noreply.github.com from 2016-05-01 until 2018-09-01
 Project Everest Ventures:
 	willashford: willashford!users.noreply.github.com from 2015-08-01 until 2017-02-01
+Project Intern:
+	aish-where-ya: aishwaryaharpale14!gmail.com from 2019-09-01 until 2020-05-01
 Project Jupyter:
 	captainsafia: captainsafia!users.noreply.github.com, dhanrajacharya44!gmail.com, safia!safia.rocks from 2015-11-01 until 2016-05-01
 Project MH:
@@ -3951,6 +3967,8 @@ Qlub:
 	ehsannm: ehsannm!users.noreply.github.com from 2021-09-01
 Qlue AB:
 	goober: goober!users.noreply.github.com, mathias.ahsberg!gmail.com from 2020-01-01
+Qmobi:
+	AKhoria: AKhoria!users.noreply.github.com from 2016-03-01 until 2016-08-01
 QnA Tech:
 	tomkennedy513: tomkennedy513!users.noreply.github.com until 2015-08-01
 Qoden:
@@ -6099,6 +6117,7 @@ Razorops:
 	sangam14: sangam14!users.noreply.github.com from 2020-01-01 until 2020-11-01
 Razorpay:
 	abhay2302: abhay2302!users.noreply.github.com from 2020-11-01
+	ankitjain235: ankitjain.meone!gmail.com from 2020-01-01 until 2022-04-01
 	ankitjain28may: ankitjain28may!users.noreply.github.com, ankitjain28may77!gmail.com from 2019-04-01
 	hunarjain09: hunarjain09!users.noreply.github.com from 2021-06-01 until 2021-07-01
 	namratachaudhary: namratachaudhary!users.noreply.github.com from 2015-07-01 until 2018-08-01
@@ -6660,6 +6679,7 @@ Red Hat Inc.:
 	Pchelolo: Pchelolo!users.noreply.github.com, amanda.jiali.xiang!gmail.com, petrpchelko!gmail.com until 2014-11-01
 	Pensu: gpeeyush!linux.vnet.ibm.com, peeyushgupta91!gmail.com
 	Pepo48: pzaoral!redhat.com from 2017-01-01
+	Phaow: pewang!redhat.com
 	PhilipGough: PhilipGough!users.noreply.github.com, pgough!redhat.com, philip.p.gough!gmail.com
 	PiotrKlimczak: PiotrKlimczak!users.noreply.github.com until 2015-01-01
 	PixelJonas: Janz.Jonas!gmail.com, PixelJonas!users.noreply.github.com from 2020-05-01
@@ -7160,6 +7180,7 @@ Red Hat Inc.:
 	crobby: crobby!users.noreply.github.com, croberts!redhat.com
 	crobinso: crobinso!redhat.com
 	crombus: pkundra!redhat.com from 2018-10-01
+	csams: csams!users.noreply.github.com
 	cschwede: info!cschwede.de
 	csomh: csomh!redhat.com from 2016-04-01
 	csrwng: cewong!redhat.com, csrwng!users.noreply.github.com
@@ -7885,6 +7906,7 @@ Red Hat Inc.:
 	karolherbst: kherbst!redhat.com
 	karthequian: karthequian!users.noreply.github.com, karthik.gaekwad!gmail.com from 2016-02-01
 	karthicgit: karthicgit!users.noreply.github.com from 2016-11-01
+	kasturinarra: kasturinarra!users.noreply.github.com, knarra!redhat.com
 	katerinapat: Enlcxx.es!gmail.com, apattich!redhat.com, katerinapat!users.noreply.github.com
 	kaysievers: kay!vrfy.org, rajeffords!gmail.com
 	kbidarkar: gman.hl!gmail.com, kbidarka!redhat.com, kbidarkar!users.noreply.github.com
@@ -7945,6 +7967,7 @@ Red Hat Inc.:
 	kwoodson: kwoodson!redhat.com, kwoodson!users.noreply.github.com, valotas!gmail.com
 	kxr: khizernaeem!gmail.com from 2018-08-01
 	kyguy: kliberti!bu.edu, kliberti!redhat.com, kyguy!users.noreply.github.com
+	kylape: kylape!users.noreply.github.com
 	kyle-walker: kwalker!redhat.com
 	kyoto: andy.nihon!gmail.com, anpicker!redhat.com
 	l0rd: l0rd!users.noreply.github.com, mario.loriedo!gmail.com from 2016-05-01
@@ -10767,6 +10790,8 @@ Roche:
 	segator: isaac.aymerich!gmail.com, segator!users.noreply.github.com from 2015-07-01
 	sogorkis: sogorkis!users.noreply.github.com from 2014-05-01 until 2015-01-01
 	vizeit: vizeit!users.noreply.github.com from 2022-05-01
+Rochester:
+	SupriyaKasten: SupriyaKasten!users.noreply.github.com from 2017-05-01 until 2017-12-01
 Rochester Institute of Technology:
 	rlguarino: rlguarino!users.noreply.github.com, rssguar!gmail.com until 2016-01-15
 RociFiM:
@@ -16251,6 +16276,8 @@ Sennheiser electronic GmbH & Co. KG:
 	return42: markus.heiser!darmarIT.de until 2018-12-01
 Sennovate:
 	rajharini: rajharini!users.noreply.github.com from 2020-12-01 until 2021-03-01
+Sensara:
+	mellon-collie: mellon-collie!users.noreply.github.com from 2019-05-01 until 2019-07-01
 Sensario:
 	palsivertsen: palsivertsen!users.noreply.github.com
 Sensat:
@@ -16332,31 +16359,3 @@ SentiSum:
 	sounak98: sounak.98!gmail.com from 2019-09-01
 Sentia Australia:
 	bipashant: bipashant!users.noreply.github.com from 2021-02-01 until 2021-05-01
-Sentia Netherlands:
-	apetrovYa: apetrov.ya!yandex.ru, apetrovYa!users.noreply.github.com from 2018-11-01 until 2020-09-01
-	dalfos: dalfos!mail.ru, dalfos!users.noreply.github.com from 2018-11-01 until 2020-09-01
-Sentian.AI:
-	sebnyberg: seb.nyberg90!gmail.com, sebnyberg!users.noreply.github.com from 2017-12-01 until 2019-05-01
-Sentiance:
-	kpocius: kpocius!users.noreply.github.com from 2018-04-01 until 2020-11-01
-Sentient Energy:
-	clhuang: c!lvin.me, clhuang!users.noreply.github.com until 2014-08-01
-Sentient Science:
-	andrewbanchich: andrewbanchich!gmail.com, andrewbanchich!users.noreply.github.com from 2019-04-01 until 2019-09-01
-Sentient Technologies:
-	karlmutch: karlmutch!users.noreply.github.com from 2015-05-01 until 2018-12-01
-Sentient.io:
-	kurianbenoy: kurianbenoy!users.noreply.github.com from 2022-03-01
-Sentinel Benefits & Financial:
-	shanedizer: shanedizer!users.noreply.github.com until 2015-05-01
-Sentinel Protocol:
-	afmsavage: afmsavage!gmail.com, afmsavage!users.noreply.github.com from 2018-07-01
-Sentinel Software:
-	daghb: daghb!users.noreply.github.com from 2015-09-01
-SentinelOne:
-	alicerum: alicerum!users.noreply.github.com from 2022-06-01
-	bigdavethewave: bigdavethewave!users.noreply.github.com from 2021-03-01
-	chris530: chris530!users.noreply.github.com from 2022-07-01
-	dlobue: dlobue!users.noreply.github.com from 2021-02-01
-Sentometrics:
-	vanpeltj: vanpeltj!users.noreply.github.com
