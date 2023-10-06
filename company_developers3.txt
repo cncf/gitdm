@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+DevKardia:
+	alanhartless: alanhartless!users.noreply.github.com until 2015-01-01
+DevNet.tn:
+	atefBB: atefbb!users.noreply.github.com from 2019-02-01
+DevOn:
+	santosh0705: santosh0705!gmail.com from 2019-05-01
 DevOps Institute:
 	aabed: aabed!users.noreply.github.com, ahmad.aabed.m!gmail.com
 	asmartin: asmartin!users.noreply.github.com, sublimino!gmail.com
@@ -9972,7 +9978,7 @@ Fragaria:
 Framatome:
 	DanielGlaas: DanielGlaas!users.noreply.github.com from 2018-07-01
 Frame:
-	bryantbiggs: bryantbiggs!gmail.com, bryantbiggs!users.noreply.github.com from 2019-02-01 until 2019-09-01
+	bryantbiggs: bryantbiggs!clowd.haus, bryantbiggs!gmail.com, bryantbiggs!users.noreply.github.com, brybiggs!amazon.com from 2019-02-01 until 2019-09-01
 Frame.io:
 	billyshambrook: billy.shambrook!gmail.com, billyshambrook!users.noreply.github.com from 2016-07-15
 	dalekurt: dalekurt!users.noreply.github.com, hello!dalekurtmurray.com from 2020-04-01

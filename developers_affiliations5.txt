@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+jstol: jstol!users.noreply.github.com
+	Statflo until 2015-09-01
+	Independent from 2015-09-01 until 2016-05-01
+	Kobo Inc. from 2016-05-01 until 2017-02-01
+	ROSS Intelligence from 2017-02-01 until 2019-11-01
+	Amazon from 2019-11-01
 jstrachan: james.strachan!gmail.com
 	CloudBees Inc.
 jstrachan: jstrachan!users.noreply.github.com
@@ -15886,6 +15892,9 @@ matt-demers: matt-demers!users.noreply.github.com
 matt-duch: matt-duch!users.noreply.github.com
 	Learnmetrics until 2019-11-01
 	Redox from 2019-11-01
+matt-hensley: matt-hensley!users.noreply.github.com, matthew.hensley!grafana.com, matthew.s.hensley!gmail.com
+	Independent until 2023-05-31
+	Grafana Labs from 2023-05-31
 matt-kwong: matt-kwong!users.noreply.github.com
 	Symantec Corporation
 matt-kwong: mattkwong!google.com
@@ -15905,8 +15914,6 @@ matt-lethargic: matt-lethargic!users.noreply.github.com, mattlethargic!gmail.com
 	ClearBank from 2021-01-01 until 2021-07-01
 	Bud Systems from 2021-07-01 until 2021-09-01
 	Vonage Holdings Corp. from 2021-09-01
-matt-hensley: matthew.s.hensley!gmail.com, matthew.hensley!grafana.com, matt-hensley!users.noreply.github.com
-	Grafana Labs from 2023-05-31
 matt-magaldi: matt-magaldi!users.noreply.github.com
 	Independent until 2015-05-01
 	BlackRock Inc. from 2015-05-01 until 2015-07-01
