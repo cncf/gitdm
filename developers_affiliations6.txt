@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+msgodf: mark.godfrey!oracle.com, msgodf!gmail.com
+	Nokia Corporation until 2014-04-01
+	Microsoft Corporation from 2014-04-01 until 2014-08-01
+	Oracle America Inc. from 2014-08-01
 mshahat: mshahat!computer.org, mshahat!users.noreply.github.com
 	Tibco Group
 mshahbaz: mshahbaz!cs.princeton.edu, mshahbaz!users.noreply.github.com
@@ -24043,5 +24047,3 @@ scaytrase: batanov!banki.ru, pavel!batanov.me, scaytrase!users.noreply.github.co
 	Independent until 2017-09-01
 	Lamoda from 2017-09-01 until 2022-08-01
 	Авито from 2022-08-01
-scbizu: scbizu!icloud.com, scbizu!users.noreply.github.com
-	ezbuy
