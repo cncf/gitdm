@@ -2501,11 +2501,12 @@ AndiAndreas: AndiAndreas!users.noreply.github.com, andi!an-9.de
 	Akamai Technologies Inc. until 2016-01-01
 	OSRAM SYLVANIA Inc from 2016-01-01 until 2017-12-01
 	SAP from 2017-12-01
-AndiDog: AndiDog!users.noreply.github.com
-	PPRO
-AndiDog: andreas.sommer87!googlemail.com
+AndiDog: AndiDog!users.noreply.github.com, andreas.sommer87!googlemail.com
 	metaio until 2014-12-01
-	PPRO from 2014-12-01
+	PPRO from 2014-12-01 until 2022-10-31
+	Giant Swarm GmbH
+AndiDog: andreas!giantswarm.io
+	Giant Swarm GmbH
 AndiLi99: andili!google.com
 	Independent until 2017-07-01
 	Dragonboat Inc from 2017-07-01 until 2018-05-01
