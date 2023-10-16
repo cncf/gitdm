@@ -2,6 +2,18 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+MeetKai:
+	jekirl: jekirl!users.noreply.github.com
+MeetNeedz:
+	DBarthe: DBarthe!users.noreply.github.com, barthelemy.delemotte!gmail.com from 2016-09-01 until 2017-03-01
+MeetUp:
+	minac: migueldavid!gmail.com, minac!users.noreply.github.com
+Meetic:
+	PascalBourdier: pascal.bourdier!gmail.com, pascal.bourdier!mirakl.com, pascalbourdier!users.noreply.github.com from 2015-05-01 until 2018-01-01
+	bpineau: ben.pineau!gmail.com, benjamin.pineau!datadoghq.com, bpineau!users.noreply.github.com from 2014-09-01 until 2016-04-01
+	etifontaine: etienne.fontaine1!gmail.com, etifontaine!users.noreply.github.com from 2018-07-01 until 2018-10-01
+Meetr:
+	bbenzikry: bbenzikry!gmail.com, bbenzikry!users.noreply.github.com from 2019-03-01
 Meetup:
 	bobbui: bobbui!users.noreply.github.com from 2018-01-01 until 2019-01-01
 	brandon-dacrib: brandon!dacrib.net, brandon-dacrib!users.noreply.github.com until 2019-09-01
@@ -9598,6 +9610,7 @@ Nokia Corporation:
 	saffaalvi: saffaalvi!users.noreply.github.com from 2021-05-01 until 2021-08-01
 	salkin: niklas.wik!iki.fi, niklas.wik!nokia.com, salkin!users.noreply.github.com
 	samyak-jn: samyak-jn!users.noreply.github.com, samyak.jn11!gmail.com from 2020-10-01 until 2021-06-01
+	sanjimoh: sanjimoh!users.noreply.github.com until 2020-10-01
 	schiele: rschiele!gmail.com
 	shettyh: neerajcpant!gmail.com, shettyh!users.noreply.github.com from 2016-11-01 until 2019-07-01
 	shiresky: shiresky!users.noreply.github.com
@@ -16320,24 +16333,3 @@ Peritus Infosec:
 	CaptainFreak: CaptainFreak!users.noreply.github.com, patelshoeb4!gmail.com from 2018-03-01 until 2018-04-01
 Peritus Resource Group:
 	workmaster2n: tdewitt!peritus.com, tyler.dewitt!colorado.edu until 2015-11-01
-PerkinElmer Inc.:
-	00r2: 00r2!users.noreply.github.com until 2014-08-01
-	apis: apis!users.noreply.github.com from 2015-12-01
-	butterflyhug: butterflyhug!users.noreply.github.com, git!butterflyhug.com, sanders.lucas!butterflyhug.com until 2014-03-01
-	ekrupnik: ekrupnik!gmail.com, ekrupnik!users.noreply.github.com, eric.krupnik!docenthealth.com, francisco.herrero!axa.com, hi!oleggromov.com from 2016-04-01 until 2016-09-01
-	roberttoyonaga: roberttoyonaga!users.noreply.github.com from 2019-05-01 until 2019-08-01
-	tangsaidi: tangsaidi!users.noreply.github.com from 2018-05-01 until 2018-08-01
-	tinakurian: tina.t.s.kurian!gmail.com from 2021-06-01
-	ttt43ttt: ttt43ttt!users.noreply.github.com, wilson.tian!perkinelmer.com from 2014-04-01
-Perkins Coie:
-	geoffcline: geoffcline!users.noreply.github.com from 2019-06-01 until 2020-08-01
-Perkons:
-	guilhermefelipecgs: guilhermefelipecgs!users.noreply.github.com from 2014-08-01 until 2015-02-01
-Perl:
-	resamaraschi: resamaraschi!users.noreply.github.com until 2014-04-01
-Permaconn:
-	nahidakbar: nahidakbar!users.noreply.github.com
-Permiso Security:
-	pnguyen-okta: pnguyen-okta!users.noreply.github.com from 2019-08-01 until 2022-05-01
-Permission:
-	patalwell: pat.alwell!gmail.com from 2015-12-01 until 2017-08-01

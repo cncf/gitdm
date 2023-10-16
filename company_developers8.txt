@@ -2,6 +2,27 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+PerkinElmer Inc.:
+	00r2: 00r2!users.noreply.github.com until 2014-08-01
+	apis: apis!users.noreply.github.com from 2015-12-01
+	butterflyhug: butterflyhug!users.noreply.github.com, git!butterflyhug.com, sanders.lucas!butterflyhug.com until 2014-03-01
+	ekrupnik: ekrupnik!gmail.com, ekrupnik!users.noreply.github.com, eric.krupnik!docenthealth.com, francisco.herrero!axa.com, hi!oleggromov.com from 2016-04-01 until 2016-09-01
+	roberttoyonaga: roberttoyonaga!users.noreply.github.com from 2019-05-01 until 2019-08-01
+	tangsaidi: tangsaidi!users.noreply.github.com from 2018-05-01 until 2018-08-01
+	tinakurian: tina.t.s.kurian!gmail.com from 2021-06-01
+	ttt43ttt: ttt43ttt!users.noreply.github.com, wilson.tian!perkinelmer.com from 2014-04-01
+Perkins Coie:
+	geoffcline: geoffcline!users.noreply.github.com from 2019-06-01 until 2020-08-01
+Perkons:
+	guilhermefelipecgs: guilhermefelipecgs!users.noreply.github.com from 2014-08-01 until 2015-02-01
+Perl:
+	resamaraschi: resamaraschi!users.noreply.github.com until 2014-04-01
+Permaconn:
+	nahidakbar: nahidakbar!users.noreply.github.com
+Permiso Security:
+	pnguyen-okta: pnguyen-okta!users.noreply.github.com from 2019-08-01 until 2022-05-01
+Permission:
+	patalwell: pat.alwell!gmail.com from 2015-12-01 until 2017-08-01
 Permission Click Inc.:
 	atrauzzi: atrauzzi!gmail.com, atrauzzi!users.noreply.github.com from 2016-04-01 until 2018-03-01
 Permission Data:
@@ -4862,6 +4883,8 @@ QuoteVelocity:
 	dbpolito: danielbpolito!gmail.com, dbpolito!users.noreply.github.com from 2021-11-01
 Quoti:
 	SahajR: hello!sahajr.com from 2021-08-01
+Quotient:
+	vikrantest: vsingh1918!gmail.com from 2017-02-01 until 2018-07-01
 Quple:
 	welandaz: welandaz!users.noreply.github.com from 2016-02-01 until 2017-09-01
 Qurate:
@@ -5832,6 +5855,7 @@ Raiffeisen Bank:
 	davtex: davtex!users.noreply.github.com from 2022-06-01
 	dpinchukov-ueni: dpinchukov-ueni!users.noreply.github.com until 2018-05-01
 	klebediev: klebediev!users.noreply.github.com until 2015-06-01
+	mihaigalos: mihaigalos!gmail.com, mihaigalos!users.noreply.github.com from 2021-10-01
 Raiffeisen Bank Russia:
 	0xANDREW: 0xANDREW!users.noreply.github.com until 2014-02-01
 	AlekseyKalinin: AlekseyKalinin!users.noreply.github.com until 2017-09-01
@@ -8693,6 +8717,7 @@ Red Hat Inc.:
 	pedjak: pedjak!users.noreply.github.com from 2019-11-01
 	pedro-hos: pedro-hos!outlook.com from 2017-02-01
 	pedroigor: pigor.craveiro!gmail.com
+	pehala: halapetr!selfnet.cz from 2016-07-01
 	pekramp: pekramp!users.noreply.github.com from 2018-08-01
 	pemcg: pemcg!users.noreply.github.com until 2021-12-01
 	pericnenad: pericnenad!users.noreply.github.com
@@ -9184,6 +9209,7 @@ Red Hat Inc.:
 	therevoman: natehart!users.noreply.github.com, therevoman!users.noreply.github.com
 	therve: therve!users.noreply.github.com, thomas.herve!datadoghq.com until 2019-02-01
 	thesteve0: spousty!redhat.com, thesteve0!users.noreply.github.com
+	thetechnick: nico.schieder!gmail.com, thetechnick!users.noreply.github.com from 2020-12-01
 	theute: theute!gmail.com, theute!users.noreply.github.com
 	thiagoalessio: talessio!redhat.com from 2019-04-01
 	thiagodasilva: thiagodasilva!users.noreply.github.com
@@ -9302,6 +9328,7 @@ Red Hat Inc.:
 	vfreex: vfreex!gmail.com, vfreex!users.noreply.github.com, vfreex+git!gmail.com, yuxzhu!redhat.com
 	vibe13: vibe13!users.noreply.github.com
 	victortoso: me!victortoso.com
+	vidyanambiar: vidyanambiar!users.noreply.github.com from 2021-06-01
 	vietj: julien!julienviet.com, vietj!users.noreply.github.com, yuzibode!126.com
 	vikaschoudhary16: choudharyvikas16!gmail.com, vichoudh!redhat.com, vikas.choudhary!imaginea.com, vikaschoudhary16!users.noreply.github.com from 2016-07-29 until 2019-09-13
 	vikassharma437: vikassharma437!users.noreply.github.com from 2020-12-01 until 2022-08-01
@@ -13589,6 +13616,7 @@ SUSE LLC:
 	KevinKlinger: KevinKlinger!users.noreply.github.com from 2019-12-01
 	Klaven: Klaven!users.noreply.github.com, marek.counts!outlook.com, mcounts!suse.com from 2018-08-01
 	MalloZup: dmaiocchi!suse.com, mallozup!users.noreply.github.com
+	MbolotSuse: mbolotsuse!users.noreply.github.com, michael.bolot!suse.com from 2021-11-01
 	MonzElmasry: MonzElmasry!users.noreply.github.com from 2020-12-01
 	Nino-K: nkodabande!suse.com
 	Oats87: Oats87!users.noreply.github.com from 2020-12-01
@@ -16309,30 +16337,3 @@ Sefon:
 	JackZxj: JackZxj!users.noreply.github.com, x_jackzhang!qq.com from 2017-09-01 until 2019-06-01
 Segantii:
 	YechenGu: YechenGu!users.noreply.github.com from 2018-06-01
-Segasec:
-	lechen26: lechen26!users.noreply.github.com, levichen24!gmail.com from 2019-07-01 until 2020-06-01
-Segen Consulting:
-	mrsegen: leif.nabil.segen!gmail.com, mrsegen!users.noreply.github.com from 2017-01-01 until 2018-01-01
-Segment:
-	Garima-Negi: Garima-Negi!users.noreply.github.com, garima.negy!gmail.com from 2019-04-01
-	Saul-R: Saul-R!users.noreply.github.com, saulrodriguezit!gmail.com from 2019-12-01 until 2021-10-01
-	abraithwaite: abraithwaite!users.noreply.github.com, alan!segment.com, asbraithwaite!gmail.com from 2017-05-01
-	achille-roussel: achille-roussel!users.noreply.github.com from 2016-04-01
-	dk1027: dk1027!users.noreply.github.com from 2018-11-01
-	juliangruber: julian!juliangruber.com, juliangruber!users.noreply.github.com until 2014-11-01
-	nfirvine: nfirvine!nfirvine.com, nfirvine!users.noreply.github.com from 2018-07-01
-	notfelineit: notfelineit!users.noreply.github.com from 2019-04-01 until 2020-11-01
-	nzoschke: nzoschke!gmail.com, nzoschke!users.noreply.github.com from 2017-10-01
-	tejasmanohar: tejasmanohar!users.noreply.github.com from 2015-12-01 until 2019-06-01
-	yields: yields!icloud.com until 2019-07-01
-Segment of One:
-	aditmeno: adityamenon5!gmail.com from 2020-05-01 until 2020-07-01
-SegmentStream:
-	MaksimKiselev: MaksimKiselev!users.noreply.github.com from 2019-01-01
-	vmanucharyan: sd003gm!gmail.com from 2019-06-01
-Segmentify:
-	melihme: melihme!users.noreply.github.com from 2016-12-01 until 2018-10-01
-	yeliztaneroglu: yeliztaneroglu!gmail.com from 2017-12-01
-Segundamano México:
-	i02sopop: i02sopop!users.noreply.github.com, palvarez!ritho.net from 2015-09-01 until 2019-05-01
-	leomindez: leomendezji!gmail.com from 2017-07-01 until 2017-08-01

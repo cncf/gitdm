@@ -5,6 +5,50 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+savealive: savealive!users.noreply.github.com
+	Hotels.com
+saviogl: saviogl!gmail.com, saviogl!users.noreply.github.com
+	Cient until 2014-10-01
+	Comunidade de Práticas from 2014-10-01 until 2015-08-01
+	Independent from 2015-08-01 until 2015-10-01
+	Comunidade de Práticas from 2015-10-01 until 2016-08-01
+	Thinkific Inc. from 2016-08-01
+savitaashture: sashture!redhat.com
+	Red Hat Inc.
+savitha-ping: savitha-ping!users.noreply.github.com
+	UnboundID until 2019-06-01
+	Ping Identity Corporation from 2019-06-01
+savitharaghunathan: savitharaghunathan!users.noreply.github.com
+	Intel Corporation until 2014-11-01
+	Independent from 2014-11-01 until 2015-08-01
+	SEEBURGER from 2015-08-01 until 2015-10-01
+	MathWorks Inc. from 2015-10-01
+savithruml: savithruml!users.noreply.github.com
+	Independent until 2015-11-01
+	Comcast Cable Communications LLC (Xfinity) from 2015-11-01 until 2016-05-01
+	Juniper Networks Inc. from 2016-05-01 until 2018-06-01
+	Tesla Inc. from 2018-06-01 until 2019-04-01
+	Salesforce.com Inc. from 2019-04-01
+savulchik: s.savulchik!gmail.com, savulchik!users.noreply.github.com
+	2GIS
+sawanoboly: sawanoboly!users.noreply.github.com, sawanoboriyu!gmail.com, sawanoboriyu!higanworks.com
+	HiganWorks
+saward: saward!users.noreply.github.com
+	Independent until 2016-02-01
+	Episub from 2016-02-01
+saweber: saweber!users.noreply.github.com
+	Independent until 2015-07-01
+	Intellect from 2015-07-01 until 2015-08-01
+	Independent from 2015-08-01 until 2016-04-01
+	BMS Creative from 2016-04-01 until 2016-10-01
+	Independent from 2016-10-01 until 2017-07-01
+	BMS from 2017-07-01 until 2017-10-01
+	Independent from 2017-10-01 until 2018-10-01
+	E-detektywi from 2018-10-01 until 2019-09-01
+	Cisco from 2019-09-01 until 2020-12-01
+	EPAM from 2020-12-01 until 2021-12-01
+	Nike Inc. from 2021-12-01 until 2022-12-01
+	Snowflake from 2022-12-01
 sawlogs: andrew.wright502!gmail.com
 	Independent until 2016-02-01
 	Windtech from 2016-02-01 until 2017-03-01
@@ -13883,6 +13927,12 @@ thetaiter: thetaiter!ku.edu, thetaiter!users.noreply.github.com
 	International Business Machines Corporation from 2015-05-01 until 2018-10-01
 	Cboe Global Markets from 2018-10-01 until 2021-01-01
 	C2FO from 2021-01-01
+thetechnick: nico.schieder!gmail.com, thetechnick!users.noreply.github.com
+	Independent until 2015-02-01
+	DomainFactory from 2015-02-01 until 2016-12-01
+	Hetzner from 2016-12-01 until 2018-09-01
+	Kubermatic GmbH from 2018-09-01 until 2020-12-01
+	Red Hat Inc. from 2020-12-01
 thethan: thethan!users.noreply.github.com
 	Independent until 2016-05-01
 	Redcliffe Medical Devices Inc from 2016-05-01 until 2017-07-01
@@ -13980,6 +14030,8 @@ thijsschnitger: thijs.schnitger!container-solutions.com
 thinhpham: thinhpham!users.noreply.github.com
 	Information until 2017-04-01
 	HAR from 2017-04-01
+thinkahead: thinkahead!users.noreply.github.com
+	International Business Machines Corporation
 thinker0: thinker0!users.noreply.github.com
 	kakaobank until 2017-10-01
 	LINE from 2017-10-01
@@ -20356,6 +20408,12 @@ vidhut-singh: vidhut-singh!users.noreply.github.com
 	MSys from 2015-03-01 until 2018-03-01
 	Hewlett from 2018-03-01 until 2022-03-01
 	Sophos Ltd. from 2022-03-01
+vidyanambiar: vidyanambiar!users.noreply.github.com
+	AVYAYAH until 2014-08-01
+	Carnegie Mellon Silicon Valley from 2014-08-01 until 2015-05-01
+	Independent from 2015-05-01 until 2015-07-01
+	International Business Machines Corporation from 2015-07-01 until 2021-06-01
+	Red Hat Inc. from 2021-06-01
 vielmetti: ed!packet.net, edward.vielmetti!gmail.com, iamjoe!joeireland.com, vielmetti!users.noreply.github.com
 	Packet Host Inc
 vietj: julien!julienviet.com, vietj!users.noreply.github.com, yuzibode!126.com
@@ -20557,6 +20615,12 @@ vikrant8051: vikrant8051!gmail.com, vikrant8051!users.noreply.github.com
 	International Business Machines Corporation from 2014-03-01 until 2014-10-01
 	Capgemini from 2014-10-01 until 2015-12-01
 	Exusia from 2015-12-01
+vikrantest: vsingh1918!gmail.com
+	Double Spring until 2015-01-01
+	Glydel from 2015-01-01 until 2016-12-01
+	Stayzilla from 2016-12-01 until 2017-02-01
+	Quotient from 2017-02-01 until 2018-07-01
+	VMware Inc. from 2018-07-01
 viksrivat: 51216482+viksrivat!users.noreply.github.com
 	Independent
 vikstrous: me!viktorstanchev.com, vikstrous!users.noreply.github.com
@@ -24152,72 +24216,3 @@ wirwolf: wirwolf!users.noreply.github.com
 	Boss Casino from 2015-12-01 until 2017-06-01
 	MinexSystems from 2017-06-01 until 2018-11-01
 	AdGoal from 2018-11-01
-wise-Kaas: kamilaliev!hotmail.com
-	Independent until 2017-06-01
-	Speedway from 2017-06-01 until 2018-05-01
-	Sberbank Corporate University from 2018-05-01 until 2021-01-01
-	EPAM from 2021-01-01
-wise2ck8s: systemadmin!wise2c.com
-	Shenzhen Wise2C Technology Co.Ltd
-wisecoders: wisecoders!users.noreply.github.com
-	International Business Machines Corporation until 2015-02-01
-	L Brands from 2015-02-01 until 2020-10-01
-	AssureCare from 2020-10-01
-wiseelf: wiseelf!users.noreply.github.com
-	ISP CrazyNetwork until 2018-11-01
-	OpsWorks from 2018-11-01
-wisererik: lynheell!gmail.com, thomas!thomashigginbotham.com, wisererik!users.noreply.github.com
-	Huawei Technologies Co. Ltd
-witallwang: witallwang!gmail.com
-	EMC
-withgaurav: gaurav.shukla.gs48!gmail.com
-	Independent
-withinboredom: landers.robert!gmail.com, withinboredom!users.noreply.github.com
-	Automattic
-witlessbird: dmitri!appliedlogic.ca, witlessbird!gmail.com, witlessbird!users.noreply.github.com
-	Red Hat Inc.
-witmicko: witmicko!users.noreply.github.com
-	Independent until 2015-01-01
-	TSSG from 2015-01-01 until 2015-08-01
-	edrive from 2015-08-01 until 2016-01-01
-	Red Hat Inc. from 2016-01-01 until 2018-11-01
-	ServisBOT from 2018-11-01
-witoff: witoff!users.noreply.github.com
-	NASA Ames Research Center
-witokondoria: witokondoria!gmail.com
-	Bull HN Information Systems Inc. until 2014-07-01
-	StratioBD from 2014-07-01 until 2017-11-01
-	ING from 2017-11-01
-wizard580: wizard580!users.noreply.github.com
-	KamaGames until 2016-02-01
-	OUTFITTERY from 2016-02-01 until 2019-08-01
-	Mobimeo from 2019-08-01
-wizardfrag: david!rartm.co.uk
-	Packet Media until 2016-07-01
-	Hillside (Sports) ENC from 2016-07-01 until 2018-09-01
-	Sportpesa from 2018-09-01 until 2020-09-01
-	Insight from 2020-09-01 until 2021-06-01
-	cinch from 2021-06-01 until 2022-07-01
-	Prima from 2022-07-01
-wizbit: marcus.speight!hotmail.co.uk, wizbit!users.noreply.github.com
-	Malvern Instruments until 2015-04-01
-	Rant & Rave from 2015-04-01 until 2016-12-01
-	PM Connect from 2016-12-01 until 2022-11-01
-	The Economist from 2022-11-01
-wizcas: wizcas!users.noreply.github.com
-	Microsoft Corporation until 2014-07-01
-	Independent from 2014-07-01 until 2015-08-01
-	Hacks In Taiwan Conference from 2015-08-01 until 2015-09-01
-	MediaTek USA Inc. from 2015-09-01 until 2018-08-01
-	Google LLC from 2018-08-01
-wizofe: code!wizofe.uk
-	Independent until 2015-01-01
-	Cryptosys & Earthsea from 2015-01-01 until 2016-05-01
-	Kano from 2016-05-01 until 2018-12-01
-	Saddington Baynes from 2018-12-01
-wj-Mcat: 1435130236!qq.com, wj-Mcat!users.noreply.github.com
-	PaddlePaddle
-wj1997: 1871968932!qq.com, wangjian.lc01!inspur.com, wj1997!users.noreply.github.com
-	Inspur Group
-wj24021040: wj24021040!163.com, wj24021040!users.noreply.github.com
-	NetEase Inc

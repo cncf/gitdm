@@ -5,6 +5,18 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+bparry02: bparry02!users.noreply.github.com
+	Red Hat Inc.
+bpaskin-ibm: bpaskin-ibm!users.noreply.github.com
+	International Business Machines Corporation
+bpasson: b.passon!first8.nl, bpasson!users.noreply.github.com
+	First8
+bpeel: neil!linux.intel.com
+	Intel Corporation
+bpehling: 30635257+bpehling!users.noreply.github.com, bpehling!users.noreply.github.com
+	PTC Inc. until 2016-05-01
+	ThingWorx from 2016-05-01 until 2018-06-01
+	PTC Inc from 2018-06-01
 bpereto: bpereto!users.noreply.github.com
 	Zürcher Kantonalbank
 bpholt: bholt!dwolla.com, bholt!planetholt.com, bpholt!users.noreply.github.com
@@ -4103,11 +4115,13 @@ cedricve: cedricve!users.noreply.github.com
 	Threon from 2015-07-01 until 2017-11-01
 	Wolters Kluwer from 2017-11-01 until 2018-06-01
 	SAP from 2018-06-01
-cedricziel: cedric.ziel@grafana.com, cedric.ziel!ibm.com, cedric.ziel!instana.com, cedric.ziel!gmail.com, mail!cedric-ziel.com, cedric!cedric-ziel.com, cedricziel!users.noreply.github.com
-	websight GmbH from 2014-03-01 until 2017-03-31
-	dreipunktnull from 2017-04-01 until 2018-10-31
-	Instana Inc. from 2018-10-31 until 2021-12-31
+cedricziel: cedric!cedric-ziel.com, cedric.ziel!gmail.com, cedric.ziel!grafana.com, cedric.ziel!ibm.com, cedric.ziel!instana.com, cedricziel!users.noreply.github.com, mail!cedric-ziel.com
+	Independent until 2014-03-01
+	websight GmbH from 2014-03-01 until 2017-04-01
+	3 from 2017-04-01 until 2018-10-31
+	Instana Inc. from 2018-10-31 until 2022-01-01
 	International Business Machines Corporation from 2022-01-01 until 2022-06-30
+	Independent from 2022-06-30 until 2022-07-18
 	Grafana Labs from 2022-07-18
 cedws: cedws!users.noreply.github.com
 	Independent until 2019-06-01
@@ -12292,6 +12306,8 @@ david-gurley: david-gurley!users.noreply.github.com
 david-l-riley: david-l-riley!users.noreply.github.com
 	Stream TV Networks until 2018-06-01
 	FireEye from 2018-06-01
+david-luna: david-luna!users.noreply.github.com, david.luna!elastic.co, luna.bistuer!gmail.com
+	Elasticsearch Inc.
 david-martin: david-martin!users.noreply.github.com, david.martin!redhat.com
 	Red Hat Inc.
 david-martyn-ford: david-martyn-ford!users.noreply.github.com
@@ -12585,8 +12601,6 @@ davidkornel: davidkornel!users.noreply.github.com
 davidkulak: davidkulak!users.noreply.github.com
 	Groupe Sigma until 2017-09-01
 	Weborama from 2017-09-01
-david-luna: david-luna!users.noreply.github.com, luna.bistuer@gmail.com, david.luna@elastic.co
-	Elasticsearch Inc.
 davidl-zend: david.l!zend.com, davidl-zend!users.noreply.github.com
 	Zend Technologies Ltd. until 2015-10-01
 	Rogue Wave Software Inc. from 2015-10-01
@@ -23879,28 +23893,3 @@ ewilderj: ewilderj!users.noreply.github.com
 	Silicon until 2017-08-01
 	Google LLC from 2017-08-01 until 2022-05-01
 	Sysdig Inc. from 2022-05-01
-ewindisch: eric!iopipe.com, eric!windisch.us, ewindisch!users.noreply.github.com
-	Cloudscaling until 2014-01-01
-	Docker Inc. from 2014-01-01 until 2015-10-01
-	Iopipe from 2015-10-01
-ewiseblatt: ewiseblatt!google.com
-	Google LLC
-ewjmulder: ewjmulder!users.noreply.github.com
-	QSD B.V. until 2016-10-01
-	Bol.com b.v. from 2016-10-01 until 2017-10-01
-	Independent from 2017-10-01 until 2018-08-01
-	Bol.com b.v. from 2018-08-01 until 2022-09-01
-	Career Break from 2022-09-01
-ewk: ewk!edkovsky.org
-	DealersLink Inc. until 2019-01-01
-	Red Hat Inc. from 2019-01-01
-ewnd9: ewnd9!users.noreply.github.com
-	Independent
-ewohltman: eric.wohltman!gmail.com, ewohltman!users.noreply.github.com
-	PMorgan Chase
-ewolff: ewolff!users.noreply.github.com
-	adesso until 2015-03-01
-	Independent from 2015-03-01 until 2015-06-01
-	INNOQ from 2015-06-01
-ewolinetz: ewolinetz!users.noreply.github.com
-	Red Hat Inc.
