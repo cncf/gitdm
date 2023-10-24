@@ -5,6 +5,13 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+santiihoyos: santiago.hoyos!fluwin.com
+	Independent until 2016-10-01
+	Getronics from 2016-10-01 until 2018-09-01
+	AREASeys from 2018-09-01 until 2019-08-01
+	Telefonica from 2019-08-01 until 2021-01-01
+	Paradigma Digital from 2021-01-01 until 2021-11-01
+	Banco Santander from 2021-11-01
 santil: santil!linux.vnet.ibm.com
 	International Business Machines Corporation
 santinoncs: santinoncs!users.noreply.github.com, snunezcacho!gmail.com
@@ -8981,7 +8988,7 @@ stefanchulski: stefanc!marvell.com
 stefandevo: stefan.de.vogelaere!gmail.com, stefandevo!users.noreply.github.com
 	Independent until 2015-02-01
 	Hashting from 2015-02-01
-stefaneberl: stefaneberl!users.noreply.github.com
+stefaneberl: stefan.eberl!dynatrace.com, stefaneberl!users.noreply.github.com
 	Dynatrace LLC
 stefanfoulis: stefan!foulis.ch, stefanfoulis!users.noreply.github.com
 	Divio until 2018-01-01
@@ -24219,11 +24226,3 @@ whut: whut!users.noreply.github.com
 	ABB until 2017-04-01
 	Fujitsu Limited from 2017-04-01 until 2022-02-01
 	Sii Poland from 2022-02-01
-whyhellobradley: whyhellobradley!users.noreply.github.com
-	Ancestry.com Inc. until 2018-06-01
-	Omadi from 2018-06-01 until 2019-10-01
-	Nozzle from 2019-10-01 until 2020-10-01
-	Newfold from 2020-10-01 until 2021-05-01
-	Weave HQ from 2021-05-01
-whyjustin: jyoung!sonatype.com, whyjustin!yahoo.com
-	Sonatype Inc.

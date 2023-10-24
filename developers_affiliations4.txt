@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+ev-mp: evgeni.raikhel!intel.com
+	Intel Corporation
+ev1lm0nk3y: ev1lm0nk3y!users.noreply.github.com, rdaniels6813!users.noreply.github.com
+	Independent
 evadnoob: evadnoob!users.noreply.github.com
 	Matrix Insights until 2014-06-01
 	Independent from 2014-06-01 until 2014-08-01
@@ -10577,8 +10581,6 @@ henrikengelbrink: henrikengelbrink!users.noreply.github.com
 	Superchat from 2020-09-01
 henrikhodne: hhodne!google.com
 	Google LLC
-henrikrexed : henrikrexed!users.noreply.github.com
-	Dynatrace LLC
 henrique: henrique!apache.org
 	Apache
 henriquelalves: henriquelalves!gmail.com
@@ -24069,5 +24071,3 @@ joshuasimon-taulia: joshuasimon-taulia!users.noreply.github.com
 	Fuller until 2015-08-01
 	Operation HOPE from 2015-08-01 until 2016-07-01
 	Taulia from 2016-07-01
-joshuaspence: josh!freelancer.com, josh!joshuaspence.com, joshuaspence!users.noreply.github.com
-	Independent
