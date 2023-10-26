@@ -2,6 +2,13 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Bolt:
+	1it: 1it!users.noreply.github.com from 2021-01-01 until 2022-07-01
+	JoeAshworth: JoeAshworth!users.noreply.github.com from 2021-10-01
+	aerickson: aerickson!gmail.com, aerickson!users.noreply.github.com from 2016-06-01 until 2017-06-01
+	anthonyvk: anthonyvk!users.noreply.github.com from 2022-02-01 until 2022-07-01
+	artem-karpenko-bolt: artem-karpenko-bolt!users.noreply.github.com from 2021-03-01
+	roopakv: roopakv!users.noreply.github.com from 2019-05-01 until 2020-12-01
 Bolt Data:
 	spark4: spark4!users.noreply.github.com from 2016-08-01 until 2016-09-01
 BoltSource:
@@ -6782,6 +6789,7 @@ Cisco:
 	ichtar: ichtar!users.noreply.github.com from 2016-01-01 until 2018-01-01, from 2019-06-01
 	indrayam: indrayam!users.noreply.github.com
 	invent360: invent360!users.noreply.github.com from 2020-12-01 until 2021-02-01
+	isiryder: isiramir!cisco.com, isiryder!users.noreply.github.com
 	iskiselev: igor.kiselev!appdynamics.com, ikisel!cisco.com from 2017-03-01
 	itaykat: itayka!cisco.com, itaykat!users.noreply.github.com
 	ivar-lazzaro: Evantedesco!gmail.com, ivar-lazzaro!users.noreply.github.com, ivarlazzaro!gmail.com from 2014-05-25
@@ -16225,13 +16233,3 @@ Denizen:
 	pasqualet: pasqualet!users.noreply.github.com from 2018-06-01 until 2020-01-01
 Dennso:
 	dnauck: dna!mono-project.de, dnauck!users.noreply.github.com
-Deno:
-	humancalico: humancalico!disroot.org from 2020-03-01 until 2021-02-01
-Denox Brasil:
-	isaias: Marek.Pieta!nordicsemi.no, isaias!users.noreply.github.com, isaias.barroso!gmail.com, raduamarie!softbinator.ro from 2015-10-01 until 2017-09-01
-Density:
-	pmuls99: pmuls99!users.noreply.github.com from 2022-11-01 until 2023-02-01
-Denso:
-	supernacho: supernacho!users.noreply.github.com from 2021-03-01
-Densou:
-	lomholdt: lomholdt!users.noreply.github.com from 2016-06-01 until 2017-12-01
