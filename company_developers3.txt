@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Dennso:
+	dnauck: dna!mono-project.de, dnauck!users.noreply.github.com
 Deno:
 	humancalico: humancalico!disroot.org from 2020-03-01 until 2021-02-01
 Denox Brasil:
