@@ -2,13 +2,6 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
-Bolt:
-	1it: 1it!users.noreply.github.com from 2021-01-01 until 2022-07-01
-	JoeAshworth: JoeAshworth!users.noreply.github.com from 2021-10-01
-	aerickson: aerickson!gmail.com, aerickson!users.noreply.github.com from 2016-06-01 until 2017-06-01
-	anthonyvk: anthonyvk!users.noreply.github.com from 2022-02-01 until 2022-07-01
-	artem-karpenko-bolt: artem-karpenko-bolt!users.noreply.github.com from 2021-03-01
-	roopakv: roopakv!users.noreply.github.com from 2019-05-01 until 2020-12-01
 Bolt Data:
 	spark4: spark4!users.noreply.github.com from 2016-08-01 until 2016-09-01
 BoltSource:
@@ -7079,7 +7072,7 @@ Cisco:
 	sorenh: soren.hansen!ril.com
 	sp185503: sp185503!users.noreply.github.com from 2016-09-01 until 2017-04-01
 	sramabad1: sramabad1!users.noreply.github.com until 2017-09-01
-	srampal: srampal!cisco.com, srampal!users.noreply.github.com
+	srampal: srampal!cisco.com, srampal!redhat.com, srampal!users.noreply.github.com until 2020-12-01
 	sritej20: sritej.kvr!gmail.com, sritej20!users.noreply.github.com
 	srramasw: srramasw!cisco.com until 2014-10-03
 	stedsome: stedyyf!gmail.com from 2015-03-01 until 2017-04-01
@@ -16233,3 +16226,11 @@ Deniro Marketing:
 	chasebolt: chase!bluelight.co, chasebolt!users.noreply.github.com until 2019-08-01
 Denizen:
 	pasqualet: pasqualet!users.noreply.github.com from 2018-06-01 until 2020-01-01
+Dennso:
+	dnauck: dna!mono-project.de, dnauck!users.noreply.github.com
+Deno:
+	humancalico: humancalico!disroot.org from 2020-03-01 until 2021-02-01
+Denox Brasil:
+	isaias: Marek.Pieta!nordicsemi.no, isaias!users.noreply.github.com, isaias.barroso!gmail.com, raduamarie!softbinator.ro from 2015-10-01 until 2017-09-01
+Density:
+	pmuls99: pmuls99!users.noreply.github.com from 2022-11-01 until 2023-02-01

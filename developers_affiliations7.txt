@@ -8193,8 +8193,10 @@ sramabad1: sramabad1!users.noreply.github.com
 srambach: srambach!users.noreply.github.com
 	MITRE until 2016-05-01
 	Red Hat Inc. from 2016-05-01
-srampal: srampal!cisco.com, srampal!users.noreply.github.com
-	Cisco
+srampal: srampal!cisco.com, srampal!redhat.com, srampal!users.noreply.github.com
+	Cisco until 2020-12-01
+	Independent from 2020-12-01 until 2021-01-11
+	Red Hat Inc. from 2021-01-11
 srautiai: sakari.rautiainen!bitbar.com
 	Bitbar Technologies Oy
 sravan-pallamreddy: sravan-pallamreddy!users.noreply.github.com
@@ -24225,5 +24227,3 @@ whitlockjc: jwhitlock!apache.org
 	Apache
 whitlockjc: whitlockjc!users.noreply.github.com
 	Google LLC
-whitmo: d.w.morriss!gmail.com, elwadiamine!gmail.com, henk!boelman.eu, saarthakjain15!gmail.com, sean.yu.lei!gmail.com, whit.morriss!canonical.com, whitmo!users.noreply.github.com
-	Canonical Ltd.
