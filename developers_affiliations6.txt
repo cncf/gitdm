@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+monomosc: monomosc!users.noreply.github.com, moritz.basel!stud-mail.uni-wuerzburg.de
+	SOAP until 2016-08-01
+	Jomoho Games from 2016-08-01 until 2018-12-01
+	Independent from 2018-12-01
 monopole: jeff.regan!gmail.com, jregan!google.com, monopole!users.noreply.github.com
 	Google LLC
 monotek: andre.bauer!kiwigrid.com, monotek!users.noreply.github.com, monotek23!gmail.com
@@ -24053,7 +24057,3 @@ sameersbn: sameer!bitnami.com, sameer!fuloi.com, sameersbn!users.noreply.github.
 	Bitnami Inc.
 sameersbn: sameer!damagehead.com, sameersbn!vmware.com
 	clib
-sameo: sameo!linux.intel.com, sameo!users.noreply.github.com
-	Intel Corporation
-samerd: samerd!mellanox.com
-	Mellanox

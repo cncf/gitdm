@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+sameo: sameo!linux.intel.com, sameo!users.noreply.github.com
+	Intel Corporation
+samerd: samerd!mellanox.com
+	Mellanox
 samertm: samer!samertm.com, samertm!users.noreply.github.com
 	Independent until 2014-08-01
 	Sourcegraph Inc from 2014-08-01 until 2015-05-01
@@ -8836,9 +8840,9 @@ sramabad1: sramabad1!users.noreply.github.com
 srambach: srambach!users.noreply.github.com
 	MITRE until 2016-05-01
 	Red Hat Inc. from 2016-05-01
-srampal: srampal!cisco.com, srampal!users.noreply.github.com, srampal!redhat.com
+srampal: srampal!cisco.com, srampal!redhat.com, srampal!users.noreply.github.com
 	Cisco until 2020-12-01
-        Red Hat Inc. from 2021-01-11
+	Red Hat Inc. from 2020-12-01
 srautiai: sakari.rautiainen!bitbar.com
 	Bitbar Technologies Oy
 sravan-pallamreddy: sravan-pallamreddy!users.noreply.github.com
@@ -24187,8 +24191,3 @@ waseem: talk.to.waseem!gmail.com, waseem!users.noreply.github.com
 	Authorly until 2014-08-15
 	Curious Minds from 2014-08-15 until 2015-01-01
 	Independent from 2015-01-01
-waseem-h: waseem-h!users.noreply.github.com, waseemhassanshahid!gmail.com
-	Microsoft Corporation until 2016-07-01
-	APIMatic Limited from 2016-07-01 until 2017-06-01
-	Aurora from 2017-06-01 until 2018-12-01
-	AB Trotting and Galloping from 2018-12-01
