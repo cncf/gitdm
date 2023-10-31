@@ -2,6 +2,9 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Penn State:
+	whereismyjetpack: djb44!psu.edu, whereismyjetpack!users.noreply.github.com
+	yuzeming: yuzeming!gmail.com, yuzeming!users.noreply.github.com
 Penn State Dance Marathon:
 	kleimkuhler: kevin!kleimkuhler.com, kevinl!buoyant.io, kleimkuhler!icloud.com, kleimkuhler!users.noreply.github.com from 2014-07-01 until 2015-02-01, from 2015-07-01 until 2016-03-01
 Penn State Unmanned Aerial Systems:
@@ -16347,5 +16350,3 @@ Scuti:
 ScyDev:
 	ScyDev: ScyDev!users.noreply.github.com
 	carlosmarti: carlos.marti29!yahoo.com from 2017-02-01 until 2017-06-01
-Scyfer:
-	AdrianLsk: AdrianLsk!users.noreply.github.com from 2015-10-01 until 2017-08-01

@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Scyfer:
+	AdrianLsk: AdrianLsk!users.noreply.github.com from 2015-10-01 until 2017-08-01
 ScyllaDB Ltd.:
 	adambabik: adambabik!users.noreply.github.com from 2020-12-01
 	avikivity: Dodd.AnthonyJosiah!gmail.com, avi!scylladb.com, avi.kivity!gmail.com, avikivity!users.noreply.github.com from 2012-12-01
