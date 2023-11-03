@@ -5,6 +5,27 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+mnecas: necas.marty!gmail.com
+	Independent until 2016-06-01
+	ELEDUS from 2016-06-01 until 2017-04-01
+	Independent from 2017-04-01 until 2017-06-01
+	Red Hat Inc. from 2017-06-01
+mneedham: m.h.needham!gmail.com, mark.needham!neotechnology.com, mneedham!users.noreply.github.com
+	Neo Technology
+mneverov: mneverov!users.noreply.github.com
+	Independent until 2016-01-01
+	Ericsson from 2016-01-01 until 2016-04-01
+	Square Inc. from 2016-04-01 until 2016-08-01
+	Independent from 2016-08-01 until 2017-06-01
+	Bloomberg from 2017-06-01 until 2017-08-01
+	Independent from 2017-08-01 until 2018-05-01
+	Google LLC from 2018-05-01
+mnhu: mnhu!prevas.dk
+	Independent until 2014-12-01
+	Prevas from 2014-12-01 until 2018-05-01
+	Geanix ApS from 2018-05-01
+mniestroj: m.niestroj!grinn-global.com
+	Grinn
 mniewrzal: mniewrzal!users.noreply.github.com
 	Zend until 2017-10-01
 	Transition from 2017-10-01 until 2018-09-01
@@ -8961,6 +8982,8 @@ openshift-merge-robot: openshift-merge-robot!users.noreply.github.com
 openstacker: flwang!catalyst.net.nz, flwang!qq.com, openstacker!users.noreply.github.com
 	International Business Machines Corporation until 2014-05-22
 	Catalyst IT from 2014-05-22
+opentelemetrybot: opentelemetrybot!users.noreply.github.com
+	B
 opera443399: opera443399!users.noreply.github.com, pc!pcswo.com
 	Independent
 operatino: operatino!users.noreply.github.com, r!rhr.me
@@ -24048,26 +24071,3 @@ sagarkal: sagarkal!users.noreply.github.com
 	Independent from 2015-08-01 until 2019-03-01
 	Axway Inc. from 2019-03-01 until 2022-03-01
 	Ripcord from 2022-03-01
-sagarkrsd: 31482140+sagarkrsd!users.noreply.github.com, sagar.kumar!mayadata.io, sagar.kumar!openebs.io, sagarkr11.sk!gmail.com, sagarkrsd!users.noreply.github.com
-	Independent until 2017-10-01
-	CloudByte Inc from 2017-10-01 until 2017-12-01
-	MayaData Inc. (f/k/a CloudByte Inc) from 2017-12-01
-sagarpreet-chadha: sagarpreet-chadha!users.noreply.github.com
-	Independent until 2018-01-01
-	Coding Ninjas from 2018-01-01 until 2018-04-01
-	Independent from 2018-04-01 until 2018-07-01
-	Coding Ninjas from 2018-07-01 until 2018-09-01
-	Google LLC from 2018-09-01 until 2018-12-01
-	Flipkart Internet Private Limited from 2018-12-01
-sagarrandive: sagarrandive!google.com
-	Google LLC
-sagarshrestha24: sagarshrestha24!users.noreply.github.com
-	Independent until 2019-10-01
-	WorldLink from 2019-10-01 until 2020-05-01
-	Independent from 2020-05-01 until 2020-08-01
-	DataHub Nepal from 2020-08-01 until 2020-12-01
-	BerryBytes from 2020-12-01
-sagb2015: sagar!espressif.com
-	Marvell International Ltd until 2017-02-01
-	Tarana Wireless Inc. from 2017-02-01 until 2018-03-01
-	Espressif from 2018-03-01
