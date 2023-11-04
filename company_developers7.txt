@@ -2534,6 +2534,7 @@ Microsoft Corporation:
 	dsgouda: deshank!microsoft.com, dsgouda!users.noreply.github.com from 2015-09-01
 	dsplaisted: daplaist!microsoft.com
 	dstrebel: dstrebel!users.noreply.github.com, strebeld!gmail.com from 2016-01-01
+	dsyme: donsyme!fastmail.fm, dsyme!users.noreply.github.com
 	dthaler: dthaler!microsoft.com
 	dthomason: comxd!users.noreply.github.com, dthomason!users.noreply.github.com
 	dtzar: david.tesar!microsoft.com, dtzar!users.noreply.github.com
@@ -2981,6 +2982,7 @@ Microsoft Corporation:
 	lukas-lansky: lukas!lansky.name, lukas-lansky!users.noreply.github.com from 2019-09-01 until 2021-10-01
 	lupino3: andrea.spadaccini!gmail.com, andreas!microsoft.com
 	luqunl: luqunl!microsoft.com, luqunl!users.noreply.github.com until 2018-10-01
+	luxianlong: luxianlong!users.noreply.github.com
 	lwander: lars.wander!gmail.com, lwander!google.com, lwander!users.noreply.github.com until 2014-08-01
 	lyledodgegh: lyledodgegh!users.noreply.github.com until 2014-12-01, from 2015-07-01 until 2021-04-01
 	lynn-orrell: lynn-orrell!users.noreply.github.com from 2016-01-01
@@ -3057,7 +3059,7 @@ Microsoft Corporation:
 	mirdaki: mirdaki!users.noreply.github.com from 2017-05-01 until 2017-08-01, from 2018-05-01 until 2018-08-01, from 2019-07-01
 	mj1856: matt.johnson!microsoft.com, mattjoh!microsoft.com, mj1856!hotmail.com, mj1856!users.noreply.github.com
 	mjbvz: mjbvz!users.noreply.github.com
-	mjp41: parky!outlook.com
+	mjp41: mjp41!users.noreply.github.com, parky!outlook.com
 	mjrousos: mikerou!microsoft.com
 	mkulke: magnuskulke!microsoft.com, mkulke!gmail.com, mkulke!users.noreply.github.com from 2022-08-01
 	mlalic: mlalic!users.noreply.github.com from 2015-09-01
@@ -3689,9 +3691,6 @@ Microsoft Corporation:
 	zmmille2: zmmille2!gmail.com, zmmille2!users.noreply.github.com from 2016-08-01
 	zpChris: elliott77chris!gmail.com, zpChris!users.noreply.github.com from 2017-08-01 until 2017-09-01, from 2019-05-01 until 2019-08-01
 	zr-msft: zachary.rhoads!microsoft.com, zr-msft!users.noreply.github.com
-Microsoft Research:
-	dsyme: donsyme!fastmail.fm, dsyme!users.noreply.github.com
-	mjp41: mjp41!users.noreply.github.com
 Microsoft ·:
 	v-shenoy: vshenoy!microsoft.com from 2021-06-01
 Microtrol:

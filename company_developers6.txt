@@ -1773,8 +1773,6 @@ Integrity:
 	patsevanton: 10828883+patsevanton!users.noreply.github.com, patsev.anton!gmail.com, patsevanton!users.noreply.github.com from 2020-09-01 until 2021-06-01
 IntegrityNet Solutions & ServicesIntegrityNet:
 	rmarasigan: rmarasigan!users.noreply.github.com from 2021-03-01 until 2022-03-01
-Intel C:
-	strzelecki-maciek: strzelecki-maciek!users.noreply.github.com until 2016-01-01
 Intel Corporation:
 	1ace: eric!engestrom.ch, eric.engestrom!imgtec.com from 2018-04-01
 	2uasimojo: 2uasimojo!users.noreply.github.com from 2019-01-01 until 2020-03-01
@@ -2682,6 +2680,7 @@ Intel Corporation:
 	stoobie: stoobie!users.noreply.github.com until 2017-12-01
 	strassek: kevin.strasser!intel.com, kevin.strasser!linux.intel.com
 	striebit: shaul.triebitz!intel.com
+	strzelecki-maciek: strzelecki-maciek!users.noreply.github.com until 2016-01-01
 	stuartsummers: john.s.summers!intel.com
 	sudeepdutt: sudeep.dutt!intel.com
 	sudeshsh: sudesh.shinde!intel.com, sudeshsh!users.noreply.github.com
