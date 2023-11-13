@@ -5,6 +5,22 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+jonathansloman: jonathansloman!users.noreply.github.com
+	BBC
+jonathansp: jonathan.simonprates!gmail.com, jonathansp!users.noreply.github.com
+	Terra until 2014-11-01
+	Instituto from 2014-11-01 until 2015-06-01
+	Globo from 2015-06-01 until 2018-11-01
+	DIGIT from 2018-11-01 until 2020-12-01
+	FARFETCH from 2020-12-01
+jonathantneal: jonathantneal!hotmail.com, jonathantneal!users.noreply.github.com, sartell.rachel!gmail.com
+	Independent until 2014-12-01
+	10up from 2014-12-01 until 2016-07-01
+	Independent from 2016-07-01 until 2017-12-01
+	Genpact from 2017-12-01
+jonathantsai-qci: jonathan.tsai!quantatw.com
+	ZippyApp until 2018-02-01
+	Zenefits from 2018-02-01
 jonathanvila: jonathan.vila!gmail.com, jonathanvila!users.noreply.github.com
 	Independent until 2018-09-01
 	Red Hat Inc. from 2018-09-01
@@ -6345,9 +6361,10 @@ killcity: killcity!users.noreply.github.com
 	Tremor Video
 killfill: pneumann!gmail.com, twitter.com/killfil
 	NED Media
-killianmuldoon: killiantfmuldoon!gmail.com, kmuldoon!vmware.com
+killianmuldoon: cilliancapi!gmail.com, killianmuldoon!users.noreply.github.com, killiantfmuldoon!gmail.com, kmuldoon!vmware.com
 	Intel Corporation until 2021-06-15
-	VMware Inc. from 2021-06-15
+	VMware Inc. from 2021-06-15 until 2023-12-08
+	Independent from 2023-12-08
 killmeplz: killmeplz!users.noreply.github.com, killmeplz879!hotmail.com
 	the beget until 2017-09-01
 	Great Software Laboratory Private Limited from 2017-09-01
@@ -18616,7 +18633,7 @@ mattstep: matt!step.aero, mattstep!mattstep.net, mattstep!users.noreply.github.c
 	Cash App from 2019-10-01 until 2021-05-01
 	Starburst Data from 2021-05-01 until 2022-01-01
 	Trinity County from 2022-01-01
-matttbe: matttbe!gmail.com, matttbe!kernel.org, matthieu.baerts!tessares.net, matttbe!users.noreply.github.com
+matttbe: matthieu.baerts!tessares.net, matttbe!gmail.com, matttbe!kernel.org, matttbe!users.noreply.github.com
 	Independent until 2015-08-10
 	Tessares from 2015-08-10 until 2023-10-20
 	Independent from 2023-10-20
@@ -23986,28 +24003,3 @@ mmwebster: milowebster!berkeley.edu, mmwebster!users.noreply.github.com
 	Boeing from 2018-06-01 until 2019-07-01
 	Independent from 2019-07-01 until 2021-01-01
 	Gridmatic from 2021-01-01
-mnaboka: maksym.naboka!gmail.com
-	EPAM Systems Inc until 2015-09-01
-	Mesosphere from 2015-09-01 until 2018-06-01
-	Coinbase Inc. from 2018-06-01
-mnadeem: coolmind182006!gmail.com, nadeembtech!gmail.com
-	Oracle America Inc.
-mnadeem92: mnadeem92!users.noreply.github.com
-	NEC Corporation until 2016-10-01
-	Red Hat Inc. from 2016-10-01
-mnagai: masaru.nagai.vx!renesas.com
-	Renesas Electronics Corporation
-mnagaya: mnagaya!users.noreply.github.com
-	Yahoo! Inc.
-mnagy: huay!samples.cn, mnagy!users.noreply.github.com, nagy.martin!gmail.com, stas.sultanov!outlook.com, zac!zacanger.com
-	Seznam.cz a.s.
-mnajdova: mnajdova!gmail.com
-	Independent until 2018-03-01
-	Microsoft Corporation from 2018-03-01 until 2020-09-01
-	MUI from 2020-09-01
-mnalsup: alsupmn+github!gmail.com
-	Caterpillar Inc. until 2014-07-01
-	Mothers Digital from 2014-07-01 until 2015-05-01
-	Asurion from 2015-05-01
-mnaser: mnaser!users.noreply.github.com, mnaser!vexxhost.com
-	VEXXHOST Inc.

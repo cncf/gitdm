@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+ScienceLogic:
+	justinrlee: justin.lee!armory.io, justin.r.lee!gmail.com, justinrlee!users.noreply.github.com from 2014-12-01 until 2017-02-01
+	shawnbutts: shawnbutts!users.noreply.github.com from 2017-12-01
+	smiller171: scott!millergeek.xyz, smiller171!users.noreply.github.com from 2017-12-01 until 2018-08-01
+ScienceScape:
+	goruha: goruha!gmail.com, goruha!users.noreply.github.com
 ScienceSoft:
 	str1k3r: str1k3r!users.noreply.github.com until 2014-12-01
 Sciencix:
@@ -4614,6 +4620,7 @@ Solo.io:
 	bleggett: benjamin.leggett!solo.io, bleggett!jackhenry.com, bleggett!users.noreply.github.com, bleggett!virtru.com from 2023-01-16
 	christian-posta: christian-posta!users.noreply.github.com, christian.posta!gmail.com, christian.posta!solo.io from 2019-01-01
 	conradhanson: 27842017+conradhanson!users.noreply.github.com, conrad.hanson!solo.io from 2022-09-19
+	craigbox: craig.box!gmail.com, craig.box!solo.io, craigb!armosec.io, craigbox!google.com from 2023-11-06
 	danehans: danehans!cisco.com, danehans!users.noreply.github.com, daneyon.hansen!solo.io, daneyonhansen!gmail.com from 2023-02-17
 	dhawton: daniel!hawton.org, daniel.hawton!solo.io, dhawton!users.noreply.github.com from 2020-12-12
 	djannot: denis.jannot!solo.io, djannot!gmail.com, djannot!users.noreply.github.com from 2020-08-01
@@ -12304,6 +12311,7 @@ Tesorion:
 	internetionals: internetionals!users.noreply.github.com from 2018-05-01
 Tessares:
 	gdetal: gdetal!users.noreply.github.com from 2015-04-01
+	matttbe: matthieu.baerts!tessares.net, matttbe!gmail.com, matttbe!kernel.org, matttbe!users.noreply.github.com from 2015-08-10 until 2023-10-20
 Tesseract:
 	brunosaboia: brunosaboia!users.noreply.github.com from 2021-09-01 until 2022-03-01
 	gboor: gboor!users.noreply.github.com, gerard!tesseract.nl
@@ -16857,13 +16865,3 @@ UNICEF:
 	MAKOSCAFEE: 6409210+makoscafee!users.noreply.github.com, MAKOSCAFEE!users.noreply.github.com, barnabasmakonda!gmail.com from 2014-10-01 until 2015-02-01
 UNICEPTA:
 	plappermaul: stockhausen!collogia.de
-UNICRED DO BRASIL:
-	jenciso: jenciso!users.noreply.github.com, juan.enciso!gmail.com from 2016-11-01 until 2021-02-01
-UNIFY ENTERPRISE COMMUNICATIONS A.E:
-	brunnerf: brunnerf!users.noreply.github.com, felix!kreis3.com
-	fhopfensperger: fhopfensperger!users.noreply.github.com until 2015-04-01
-	khpeet: khpeet!users.noreply.github.com until 2014-09-01
-	sampengilly: sampengilly!users.noreply.github.com from 2020-03-01 until 2020-10-01
-	taylorreece: taylorreece!users.noreply.github.com from 2019-09-01 until 2020-03-01
-UNIKQA:
-	paidhi: paidhi!mospheira.net, paidhi!users.noreply.github.com from 2017-10-01 until 2018-05-01

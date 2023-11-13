@@ -2129,7 +2129,8 @@ ARMO:
 	avrahams: avrahams!armosec.io, avrahams!users.noreply.github.com from 2022-06-06
 	chmod-777-shauli: chmod-777-shauli!users.noreply.github.com from 2018-12-01
 	cigra: cigra!users.noreply.github.com, marinas!armosec.io from 2022-04-01
-	craigbox: craig.box!gmail.com, craigb!armosec.io, craigbox!google.com, craigbox!users.noreply.github.com from 2022-10-18
+	craigbox: craig.box!gmail.com, craig.box!solo.io, craigb!armosec.io, craigbox!google.com from 2022-10-18 until 2023-11-06
+	craigbox: craigbox!users.noreply.github.com from 2022-10-18
 	dwertent: 64066841+dwertent!users.noreply.github.com, dwertent!armosec.io, dwertent!cyberarmor.io, dwertent!users.noreply.github.com from 2018-12-01
 	kooomix: emadar!gmail.com, eranm!armosec.io, kooomix!users.noreply.github.com
 	leonidsandler: leonidsandler!users.noreply.github.com from 2017-05-01 until 2022-09-01
@@ -16576,5 +16577,3 @@ Bodas:
 	Davidonium: Davidonium!users.noreply.github.com from 2015-09-01 until 2019-06-01
 Bodeco.io:
 	bodepd: bodepd!gmail.com, bodepd!users.noreply.github.com, dan.bode!intel.com
-Bodens kommun:
-	Norrox: Norrox!users.noreply.github.com
