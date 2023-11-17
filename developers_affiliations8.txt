@@ -5,6 +5,31 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+vsoch: vsoch!users.noreply.github.com, vsochat!stanford.edu
+	Independent
+vsrinivas: venkateshs!google.com, vsrinivas!ops101.org
+	Google LLC
+vss96: shettyvikas209!gmail.com, vss96!users.noreply.github.com
+	Independent until 2016-06-01
+	L&T Infotech from 2016-06-01 until 2016-07-01
+	Independent from 2016-07-01 until 2018-07-01
+	Temenos Group USA from 2018-07-01 until 2019-04-01
+	Sahaj from 2019-04-01
+vstehle: v-stehle!ti.com, vincent.stehle!freescale.com, vincent.stehle!laposte.net
+	NXP Semiconductors Netherlands B.V. until 2015-10-01
+	Intel Corporation from 2015-10-01 until 2017-03-01
+	ARM from 2017-03-01
+vstinner: victor.stinner!gmail.com, vstinner!python.org
+	Red Hat Inc.
+vstinner: vstinner!redhat.com
+	eNovance until 2014-06-24
+	Red Hat Inc. from 2014-06-24
+vstrimaitis: vstrimaitis!users.noreply.github.com
+	Independent until 2016-06-01
+	Bentley Motors Limited from 2016-06-01 until 2016-09-01
+	Independent from 2016-09-01 until 2017-07-01
+	Cognizant Technology Solutions from 2017-07-01 until 2020-03-01
+	Vinted from 2020-03-01
 vsundupey: vsundupey!users.noreply.github.com
 	ООО «Центр ИКТ» until 2016-02-01
 	Telematics-One from 2016-02-01 until 2017-08-01
@@ -502,10 +527,10 @@ wangxunbo: wang.xunbo!zte.com.cn
 	ZTE Corporation
 wangxye: wangxye!users.noreply.github.com
 	Independent
-wangyang0616: wangyang8126!gmail.com, wangyang289!huawei.com
-	Huawei Technologies Co. Ltd
 wangyan42164: wangyan42164!gmail.com, yan.wang!linux.intel.com
 	Intel Corporation
+wangyang0616: wangyang289!huawei.com, wangyang8126!gmail.com
+	Huawei Technologies Co. Ltd
 wangycc: wangycc!users.noreply.github.com, wangycc1028!gmail.com
 	Independent
 wangyd1988: wang_yudong!inspur.com, wangyd1988!users.noreply.github.com
