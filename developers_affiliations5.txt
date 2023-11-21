@@ -23671,9 +23671,10 @@ mjhopkins: markjohnhopkins!gmail.com, mjhopkins!users.noreply.github.com
 	Digital Asset Holdings LLC from 2018-09-01
 mjibson: matt.jibson!gmail.com, mjibson!users.noreply.github.com
 	Cockroach Labs
-mjingle: mjingle!users.noreply.github.com, maryjinglewski!honeycomb.io
+mjingle: maryjinglewski!honeycomb.io, mjingle!users.noreply.github.com
+	Independent until 2016-08-13
 	Chef Software Inc from 2016-08-13 until 2021-01-13
-	Hound Technology Inc. dba Honeycomb from 2021-01-14
+	Hound Technology Inc. dba Honeycomb from 2021-01-13
 mjlodge: git!mathewlodge.com, mjlodge!users.noreply.github.com, ml!lodgephoto.com
 	VMware Inc. until 2015-10-01
 	Weaveworks Inc. from 2015-10-01 until 2016-12-01
@@ -23978,5 +23979,3 @@ mksha: mksha!users.noreply.github.com
 	Gartner from 2021-03-01
 mkubecek: mkubecek!suse.cz
 	SUSE LLC
-mkubenka: mkubenka!users.noreply.github.com
-	SAGES

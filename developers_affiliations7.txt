@@ -5,6 +5,8 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+ryanmcnamara: rjmcnama!mtu.edu, rmcnamara!palantir.com, ryanmcnamara!users.noreply.github.com
+	Palantir Technologies Inc.
 ryanmiao: jmiao!redhat.com
 	Red Hat Inc.
 ryanmoran: rmoran!pivotal.io, rmoran!vmware.com, ryanmoran!users.noreply.github.com
@@ -24157,8 +24159,3 @@ vlavorini: vincenzo.lavorini!protonmail.ch
 	Meanquest from 2021-02-01
 vlerenc: vedran.lerenc!sap.com
 	SAP
-vlerenc: vlerenc!users.noreply.github.com
-	CJSC KAMIS until 2014-06-01
-	MSP360 from 2014-06-01 until 2016-06-01
-	Axcient Inc from 2016-06-01 until 2017-02-01
-	EPAM from 2017-02-01
