@@ -5,6 +5,13 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+mksha: mksha!users.noreply.github.com
+	Independent until 2017-12-01
+	NTT DATA from 2017-12-01 until 2020-07-01
+	Jaipur Toastmasters from 2020-07-01 until 2021-03-01
+	Gartner from 2021-03-01
+mkubecek: mkubecek!suse.cz
+	SUSE LLC
 mkubenka: mkubenka!users.noreply.github.com
 	SAGES
 mkubilus: mkubilus!users.noreply.github.com
@@ -24075,7 +24082,3 @@ ryanlitalien: ryanlitalien!gmail.com, ryanlitalien!users.noreply.github.com
 	Endurance
 ryanmaclean: ryan!ryanmaclean.com
 	Ryan MacLean Photography
-ryanmaclean: ryanmaclean!users.noreply.github.com
-	Samsung Electronics Co. Ltd.
-ryanmcginnis: mcginnisrr!gmail.com, ryanmcginnis!users.noreply.github.com
-	Google LLC

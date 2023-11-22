@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+joke: joke!users.noreply.github.com
+	mgm until 2017-10-01
+	EOS from 2017-10-01 until 2017-12-01
+	mgm from 2017-12-01 until 2018-11-01
+	EVENTIM from 2018-11-01
 joke-lee: joke-lee!users.noreply.github.com, yuliyang!cmss.chinamobile.com
 	China Mobile Communication Company Ltd
 joker00777: joker00777!users.noreply.github.com
@@ -23972,10 +23977,3 @@ mkrupczak3: mkrupczak3!users.noreply.github.com
 mksalawa: magorzata!google.com, mksalawa!users.noreply.github.com, stuart!stuartkeith.com
 	Google LLC until 2018-09-01
 	Independent from 2018-09-01
-mksha: mksha!users.noreply.github.com
-	Independent until 2017-12-01
-	NTT DATA from 2017-12-01 until 2020-07-01
-	Jaipur Toastmasters from 2020-07-01 until 2021-03-01
-	Gartner from 2021-03-01
-mkubecek: mkubecek!suse.cz
-	SUSE LLC
