@@ -678,6 +678,8 @@ Infra Monkey:
 	infra-monkey: infra-monkey!users.noreply.github.com from 2021-07-01
 InfraCloud T:
 	hellozee: hellozee!users.noreply.github.com from 2020-11-01
+InfraPulse:
+	ilyakaznacheev: ilya!kaznacheev.me, ilyakaznacheev!users.noreply.github.com from 2022-08-01 until 2023-11-01
 Infrabyte:
 	infrabyte: infrabyte!users.noreply.github.com from 2015-04-01 until 2016-06-01, from 2017-11-01 until 2018-11-01
 Infracloud Technologies INC:
@@ -2172,6 +2174,7 @@ Intel Corporation:
 	garyloug: gary.loughnane!intel.com from 2014-11-01
 	gbtucker: greg.b.tucker!intel.com
 	gcummings: geoff.g.cummings!intel.com, github!gcummings.com
+	gen-xu: gen-xu!users.noreply.github.com
 	ggreenma: gregory.greenman!intel.com
 	ggriffiths: ggp493!gmail.com, ggriffiths!users.noreply.github.com, grant!portworx.com until 2014-08-01
 	giantcroc: changran.wang!intel.com, giantcroc!users.noreply.github.com

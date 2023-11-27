@@ -2,6 +2,31 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Scaleway:
+	AmFlint: amasselot!hotmail.com from 2018-02-01 until 2019-09-01
+	Da-Juan: Da-Juan!users.noreply.github.com from 2022-03-01
+	JulienVdG: JulienVdG!users.noreply.github.com from 2016-10-01 until 2018-12-01, from 2020-05-01
+	QuiiBz: tom.lienrd!gmail.com from 2021-09-01
+	RamyChaabane: RamyChaabane!users.noreply.github.com, ramychaab!gmail.com from 2020-09-01
+	Sh4d1: Sh4d1!users.noreply.github.com from 2019-01-01
+	Sh4d1: patrik!ptrk.io from 2019-01-01
+	bene2k1: bene2k1!users.noreply.github.com, brollik!scaleway.com from 2014-12-01
+	charlyx: charlyx!users.noreply.github.com from 2021-08-01
+	fdasilva59: fdasilva59!users.noreply.github.com from 2020-04-01
+	harobed: contact!stephane-klein.info from 2017-12-01
+	jtherin: jtherin!users.noreply.github.com from 2017-07-01
+	kindermoumoute: kindermoumoute!users.noreply.github.com from 2018-07-01
+	piellick: piellick!users.noreply.github.com
+	remyleone: remyleone!users.noreply.github.com, rleone!scaleway.com from 2018-01-01
+	sieben: remy.leone!gmail.com, sieben!users.noreply.github.com from 2018-01-01
+	sifrah: sifrah!users.noreply.github.com from 2018-03-01 until 2021-04-01
+	stephane-klein: contact!stephane-klein.info from 2017-12-01
+Scaleway ·:
+	SkYNewZ: quentin!lemairepro.fr from 2021-10-01
+Scalingo:
+	Soulou: Soulou!users.noreply.github.com
+Scalio:
+	gorilych: gorilych!gmail.com, gorilych!users.noreply.github.com from 2018-08-01
 Scality Inc.:
 	Ebaneck: claudeforlife!gmail.com from 2019-05-01 until 2021-04-01
 	GuillaumeGomez: GuillaumeGomez!users.noreply.github.com, fcopardo!gmail.com, guillaume1.gomez!gmail.com from 2016-09-01 until 2017-04-01
@@ -2501,6 +2526,7 @@ Sify Technologies Limited:
 	sathiya-mit: sanarayanan!paypal.com until 2015-07-01
 SigNoz:
 	FavourDaniel: FavourDaniel!users.noreply.github.com from 2022-06-01 until 2022-07-01
+	ankit01-oss: ankit01-oss!users.noreply.github.com from 2021-05-01
 	ankitnayan: ankitnayan!gmail.com, ankitnayan!users.noreply.github.com from 2019-04-01
 SigOpt:
 	alexandraj777: alexandraj777!users.noreply.github.com from 2015-01-01 until 2019-01-01
@@ -2859,6 +2885,7 @@ Simplebet Inc.:
 	00r2: 00r2!users.noreply.github.com from 2020-01-01
 	bryannaegele: bryan!fourthtime.com, bryannaegele!users.noreply.github.com from 2020-07-01
 	crflynn: crflynn!users.noreply.github.com from 2019-04-01
+	davydog187: davelucianyc!gmail.com, davydog187!users.noreply.github.com from 2018-12-01 until 2022-04-01
 Simplee:
 	ofirshtrull: ofirshtrull!users.noreply.github.com, shtrull!gmail.com from 2015-09-01 until 2018-01-01
 Simples:
@@ -3141,7 +3168,6 @@ Sitech:
 Sitecore:
 	JonasDeGendt: JonasDeGendt!users.noreply.github.com from 2019-02-01 until 2021-03-01
 	alexdegroot: alexdegroot!users.noreply.github.com until 2015-11-01
-	dvoytenko: dvoytenko!users.noreply.github.com from 2020-06-01
 	jeanfrancoislarente: jeanfrancoislarente!users.noreply.github.com from 2017-02-01
 	jst-cyr: jst-cyr!users.noreply.github.com from 2017-04-01
 	mmaymann: mmaymann!users.noreply.github.com from 2022-06-01 until 2022-10-01
@@ -3571,6 +3597,7 @@ Skyscanner:
 	badsyntax: badsyntax!users.noreply.github.com, willis.rh!gmail.com from 2020-03-01
 	balintzs: balint.zsilavecz!skyscanner.net, zsbalee!gmail.com from 2015-09-01
 	chaudyg: chaudyg!users.noreply.github.com until 2020-10-01
+	clarkjohnd: clarkjohnd!users.noreply.github.com from 2023-04-01
 	danielgblanco: daniel.gomezblanco!skyscanner.net, danielgblanco!users.noreply.github.com, mail!dangb.me, nanodgb!gmail.com from 2018-08-15
 	danmx: daniel!iziourov.info, danmx!users.noreply.github.com from 2019-10-01
 	dllegru: dllegru!users.noreply.github.com from 2019-11-01 until 2020-04-01
@@ -7690,6 +7717,7 @@ Stop & Shop:
 	danielgrist: danielgrist!users.noreply.github.com from 2016-02-01 until 2016-06-01
 Stoplight:
 	XVincentX: vennie1988!163.com, vincenz.chianese!icloud.com from 2018-10-01
+	daniel-white: daniel-white!users.noreply.github.com, daniel.white!getconga.com from 2021-12-01
 StorMagic:
 	kylewuolle: kyle.wuolle!gmail.com, kylewuolle!users.noreply.github.com from 2017-03-01 until 2022-01-01
 	sitsofe: sitsofe!yahoo.com until 2018-02-01
@@ -9421,6 +9449,8 @@ Synup:
 	rahulwa: rahul!rahulwa.com, rahulwa!users.noreply.github.com from 2016-08-01 until 2019-03-01
 Synved:
 	eligt: eligt!users.noreply.github.com
+Synvert:
+	clarkjohnd: clarkjohnd!users.noreply.github.com from 2022-01-01 until 2023-04-01
 Syone:
 	CelsoSantos: CelsoSantos!users.noreply.github.com, james!jmulholland.com
 	Daniel-Vaz: Daniel-Vaz!users.noreply.github.com, dafivaz!hotmail.com from 2018-11-01 until 2019-08-01
@@ -9721,6 +9751,7 @@ T-Systems do Brasil:
 	anderson4u2: anderson4u2!users.noreply.github.com
 T-systems:
 	PhilipMay: eniak.info!gmail.com
+	ilyakaznacheev: ilya!kaznacheev.me, ilyakaznacheev!users.noreply.github.com until 2017-08-01
 T. Rowe Price Group Inc:
 	matthewwiesen: matthewwiesen!users.noreply.github.com until 2018-09-01
 	meurig: me!meurig.com, meurig!users.noreply.github.com from 2021-01-01
@@ -11353,6 +11384,8 @@ TeamDev:
 	meizabel: lisa.reviakina!gmail.com, meizabel!users.noreply.github.com from 2019-03-01
 TeamGrid:
 	maxnowack: max!unsou.de, maxnowack!users.noreply.github.com
+TeamIdea:
+	ilyakaznacheev: ilya!kaznacheev.me, ilyakaznacheev!users.noreply.github.com from 2017-08-01 until 2017-12-01
 TeamNovatek:
 	jiayihu: jiayi.ghu!gmail.com, jiayihu!users.noreply.github.com from 2016-11-01 until 2017-06-01
 TeamSnap:
@@ -12202,9 +12235,11 @@ Tencent:
 	AaronMegs: aaronmegs!hotmail.com
 	AllenzhLi: AllenzhLi!users.noreply.github.com
 	Beckham007: Beckham007!users.noreply.github.com
+	Duncan-tree-zhou: Duncan-tree-zhou!users.noreply.github.com from 2020-09-01
 	HanFa: fhan!vmware.com from 2020-05-01 until 2020-07-01
 	JeyJeyGao: JeyJeyGao!users.noreply.github.com from 2021-03-01 until 2022-05-01
 	LzyRapx: LzyRapx!users.noreply.github.com
+	NewReStarter: ziliugao!gmail.com
 	NoicFank: NoicFank!users.noreply.github.com
 	PercyLau: PercyLau!users.noreply.github.com from 2020-06-01
 	SimpCosm: SimpCosm!users.noreply.github.com, vadim0961267452!gmail.com, weihoumin!gmail.com
@@ -13462,6 +13497,8 @@ The Orange Bleue Group:
 	cryptobioz: cryptobioz!users.noreply.github.com, leo.depriester!camptocamp.com until 2015-09-01
 The Outdoor Group:
 	jfefes: jfefes!gmail.com from 2015-01-01 until 2016-12-01
+The Outline:
+	davydog187: davelucianyc!gmail.com, davydog187!users.noreply.github.com from 2016-09-01 until 2018-12-01
 The POPCAST with DanPOP:
 	danpopSD: danpopSD!users.noreply.github.com from 2020-03-01 until 2020-12-01
 The PYXIS innovation:
@@ -15835,6 +15872,8 @@ Treasure Data Inc.:
 	xerial: leo!xerial.org, xerial!users.noreply.github.com until 2018-07-01
 	y-ken: y-ken!users.noreply.github.com, y.ken.studio!gmail.com
 	yyuu: peek824545201!gmail.com, yyuu!users.noreply.github.com
+Treasury:
+	davydog187: davelucianyc!gmail.com, davydog187!users.noreply.github.com from 2023-04-01
 Treasy:
 	templarfelix: felix.templar!gmail.com, templarfelix!users.noreply.github.com from 2019-11-01 until 2020-06-01
 Treasy | Planejamento e Controladoria:
