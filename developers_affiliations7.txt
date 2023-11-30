@@ -12040,8 +12040,9 @@ stewart-ibm: stewart!linux.ibm.com, stewart!linux.vnet.ibm.com
 	International Business Machines Corporation
 stewart-yu: 30410021+stewart-yu!users.noreply.github.com, hfzqls!163.com, josephtylerjones!gmail.com, stewart-yu!users.noreply.github.com, yuchuanjian!huawei.com
 	Huawei Technologies Co. Ltd
-stewartbutler: stewartbutler!users.noreply.github.com
-	Google LLC
+stewartbutler: sbutler!aviatrix.com, stewartbutler!google.com, stewartbutler!users.noreply.github.com
+	Google LLC until 2023-03-01
+	Aviatrix from 2023-03-01
 stewartpark: hello!stewartjpark.com
 	Independent until 2015-12-01
 	DrChrono from 2015-12-01 until 2016-06-01
