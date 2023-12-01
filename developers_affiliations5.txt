@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+johncowen: johncowen!users.noreply.github.com
+	twentyeight until 2017-12-01
+	HashiCorp Inc from 2017-12-01 until 2022-09-01
+	Independent from 2022-09-01
 johncrim: johncrim!users.noreply.github.com
 	AOL Platforms until 2018-08-01
 	Crosslake from 2018-08-01 until 2019-04-01
@@ -2592,8 +2596,8 @@ jthomperoo: jthomperoo!users.noreply.github.com
 	International Business Machines Corporation from 2020-07-01
 jthornber: ejt!redhat.com
 	Red Hat Inc.
-jtischer-acasi: j.tischer!volunteers.acasi.info
-	Aspen Mesh
+jtischer-acasi: j.tischer!volunteers.acasi.info, jjtischer!users.noreply.github.com
+	F5 Networks Inc.
 jtk54: jacobkiefer!google.com, jtk54!cornell.edu
 	Capital One Financial Corporation until 2016-02-01
 	Google LLC from 2016-02-01
@@ -12874,10 +12878,11 @@ liz-acosta: liz-acosta!users.noreply.github.com
 	TaskRabbit from 2015-05-01 until 2015-08-01
 	Twilio from 2015-08-01 until 2020-11-01
 	Stacklet from 2020-11-01
-lizan: lzhou!aviatrix.com, lizan!tetrate.io, lizan!users.noreply.github.com, lizan.j!gmail.com, zlizan!google.com
+lizan: lizan!tetrate.io, lizan!users.noreply.github.com, lizan.j!gmail.com, lzhou!aviatrix.com, zlizan!google.com
 	Twitter Inc. until 2015-10-01
 	Google LLC from 2015-10-01 until 2018-09-01
 	Tetrate.io from 2018-09-01 until 2023-03-01
+	Independent from 2023-03-01 until 2023-09-01
 	Aviatrix from 2023-09-01
 lizardruss: lizardruss!users.noreply.github.com, minichate!gmail.com, russell-centanni!pluralsight.com, russell.centanni!gmail.com
 	Independent until 2015-01-01
@@ -23959,10 +23964,3 @@ mjamaloney: maloney!google.com, mjamaloney!users.noreply.github.com
 	Google LLC
 mjarschel: michael.jarschel!nokia.com
 	Nokia Corporation
-mjasion: mjasion!users.noreply.github.com
-	TouK until 2018-02-01
-	F5 Networks Inc. from 2018-02-01 until 2018-10-01
-	Codility Ltd. from 2018-10-01
-mjbshaw: mjbshaw!users.noreply.github.com
-	International Business Machines Corporation until 2015-05-01
-	Google LLC from 2015-05-01
