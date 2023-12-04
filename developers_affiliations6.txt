@@ -5,6 +5,15 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+mirageglobe: mirageglobe!users.noreply.github.com
+	KITC until 2016-01-01
+	GENIAC from 2016-01-01 until 2017-10-01
+	Grant Thornton from 2017-10-01 until 2018-08-01
+	Independent from 2018-08-01 until 2019-01-01
+	Deko from 2019-01-01 until 2019-10-01
+	ThoughtWorks Inc from 2019-10-01 until 2020-05-01
+	Insurwave from 2020-05-01 until 2021-02-01
+	Worldwide Freight Logistics Limited from 2021-02-01
 mirahmed753: mirahmed753!users.noreply.github.com
 	Independent until 2018-05-01
 	Mozilla Corporation from 2018-05-01 until 2018-08-01
@@ -24069,17 +24078,3 @@ rsnakard-r7: rsnakard-r7!users.noreply.github.com
 	Independent until 2017-08-01
 	Independent from 2017-08-01 until 2020-01-01
 	Rapid7 Inc. from 2020-01-01
-rsnj: rsnj!users.noreply.github.com
-	Bank of New York Mellon until 2018-04-01
-	Independent from 2018-04-01 until 2018-07-01
-	QuadPay from 2018-07-01 until 2021-08-01
-	Zip from 2021-08-01
-rsoika: rsoika!users.noreply.github.com
-	Imixs
-rsokolowski: rsokolowski!google.com, rsokolowski!users.noreply.github.com
-	Google LLC
-rsotnychenko: me!sota.sh, rsotnychenko!users.noreply.github.com
-	Mr. Hosting until 2016-05-01
-	CyberVision from 2016-05-01 until 2017-08-01
-	KaaIoT from 2017-08-01 until 2019-08-01
-	Startup from 2019-08-01

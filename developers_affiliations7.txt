@@ -5,6 +5,20 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+rsnj: rsnj!users.noreply.github.com
+	Bank of New York Mellon until 2018-04-01
+	Independent from 2018-04-01 until 2018-07-01
+	QuadPay from 2018-07-01 until 2021-08-01
+	Zip from 2021-08-01
+rsoika: rsoika!users.noreply.github.com
+	Imixs
+rsokolowski: rsokolowski!google.com, rsokolowski!users.noreply.github.com
+	Google LLC
+rsotnychenko: me!sota.sh, rsotnychenko!users.noreply.github.com
+	Mr. Hosting until 2016-05-01
+	CyberVision from 2016-05-01 until 2017-08-01
+	KaaIoT from 2017-08-01 until 2019-08-01
+	Startup from 2019-08-01
 rspagnola: rspagnol!redhat.com
 	Absolute until 2015-01-01
 	Red Hat Inc. from 2015-01-01
@@ -12798,7 +12812,7 @@ strawberrypie: strawberrypie!users.noreply.github.com
 	Kaberg Schutz from 2019-07-01 until 2020-01-01
 	Provectus from 2020-01-01 until 2021-09-01
 	Zalando SE from 2021-09-01
-strawgate: bill.easton!elastic.co, williamseaston!gmail.com, strawgate!users.noreply.github.com
+strawgate: bill.easton!elastic.co, strawgate!users.noreply.github.com, williamseaston!gmail.com
 	Elasticsearch Inc.
 streadway: sean!soundcloud.com, streadway!users.noreply.github.com
 	SoundCloud Global Limited & Co. KG
@@ -24150,16 +24164,3 @@ vikramk7: vikramk7!users.noreply.github.com, vikramkrishnamu!vmware.com
 	VMware Inc.
 vikramkhatri: vikram!zinox.com, vikramkhatri!users.noreply.github.com
 	International Business Machines Corporation
-vikrant8051: vikrant8051!gmail.com, vikrant8051!users.noreply.github.com
-	Accenture India Pvt Ltd until 2014-03-01
-	International Business Machines Corporation from 2014-03-01 until 2014-10-01
-	Capgemini from 2014-10-01 until 2015-12-01
-	Exusia from 2015-12-01
-vikrantest: vsingh1918!gmail.com
-	Double Spring until 2015-01-01
-	Glydel from 2015-01-01 until 2016-12-01
-	Stayzilla from 2016-12-01 until 2017-02-01
-	Quotient from 2017-02-01 until 2018-07-01
-	VMware Inc. from 2018-07-01
-viksrivat: 51216482+viksrivat!users.noreply.github.com
-	Independent
