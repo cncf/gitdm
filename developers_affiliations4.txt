@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+enriched: enriched!users.noreply.github.com, feelingenriched!gmail.com
+	Aquaveo until 2014-12-01
+	LOGMEIN INC. from 2014-12-01 until 2015-09-01
+	Hyperfish from 2015-09-01 until 2018-05-01
+	INTELIGHT from 2018-05-01 until 2019-05-01
+	Q-Free ASA from 2019-05-01
 enrichman: enrichman!users.noreply.github.com
 	Sourcesense until 2015-08-01
 	Datalytics Srl from 2015-08-01 until 2016-11-01
@@ -1807,6 +1813,9 @@ eyablokov: eyablokov!me.com, eyablokov!users.noreply.github.com
 	babelforce from 2020-05-01 until 2020-08-01
 	Independent from 2020-08-01 until 2021-01-01
 	Data4Life from 2021-01-01
+eyakimov-bbg: eyakimov-bbg!users.noreply.github.com
+	Bloomberg until 2022-01-01
+	Google LLC from 2022-01-01
 eyakubovich: eugene.yakubovich!coreos.com, eyakubovich!gmail.com, eyakubovich!users.noreply.github.com
 	CoreOS Inc. until 2015-12-01
 	Tensyr from 2015-12-01 until 2016-06-01
@@ -24124,9 +24133,3 @@ joeltraber: joeltraber!gmail.com
 	Netcloud from 2021-01-01
 joemario: jmario!redhat.com
 	Red Hat Inc.
-joemcmahon: joe.mcmahon!gmail.com
-	WhiteHat until 2018-08-01
-	radiospiral from 2018-08-01 until 2018-10-01
-	ZipRecruiter Inc. from 2018-10-01
-joemiller: joemiller!users.noreply.github.com, joeym!joeym.net
-	Pantheon

@@ -2,6 +2,14 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+MeYou Health:
+	bolek: bolek!users.noreply.github.com from 2014-10-01 until 2017-09-01
+Meadville Medical:
+	rosskirkpat: ross.kirkpatrick!suse.com, rosskirkpat!users.noreply.github.com from 2015-10-01 until 2016-11-01
+Meadville Public:
+	rosskirkpat: ross.kirkpatrick!suse.com, rosskirkpat!users.noreply.github.com from 2016-11-01 until 2017-11-01
+Meanquest:
+	vlavorini: vincenzo.lavorini!protonmail.ch from 2021-02-01
 Meant4:
 	Zanda256: Zanda256!users.noreply.github.com from 2021-11-01
 MeasureCamp Cincinnati:
@@ -3725,6 +3733,7 @@ Microsoft Corporation:
 	tomklino: tomklino!users.noreply.github.com from 2020-05-01
 	tommcdon: tommcdon!microsoft.com, tommcdon!users.noreply.github.com
 	tomz: tom.z.zeng!gmail.com, tomz!users.noreply.github.com from 2019-08-01
+	tonybaloney: anthony.p.shaw!gmail.com, tonybaloney!users.noreply.github.com from 2021-02-01
 	tonyrzhang: tony!optimizely.com until 2014-07-01
 	tonysurma: tonysurma!users.noreply.github.com
 	toolboc: pdecarlo!microsoft.com, toolboc!users.noreply.github.com
@@ -3825,6 +3834,7 @@ Microsoft Corporation:
 	wsf11: wsf11!users.noreply.github.com from 2018-05-01 until 2018-08-01, from 2019-08-01
 	wtgodbe: wigodbe!microsoft.com, wtgodbe!users.noreply.github.com
 	wwna: glennc!microsoft.com, wwna!amazon.com from 2018-06-01
+	xakep139: xakep139!users.noreply.github.com from 2021-02-01
 	xavierjohn: xavierjohn!users.noreply.github.com from 2015-11-01
 	xdarsie: javier.darsie!gmail.com, xdarsie!users.noreply.github.com
 	xdwu: xudongwu!microsoft.com
@@ -4798,6 +4808,8 @@ Mobilnik:
 	ulandj: udjamanbalaev!gmail.com, ulandj!users.noreply.github.com until 2014-08-01
 Mobiltec:
 	julealgon: julealgon!users.noreply.github.com until 2015-08-01
+Mobiltek:
+	marcindruzgala: marcindruzgala!users.noreply.github.com from 2014-03-01 until 2015-04-01
 Mobilunity:
 	VolCh: VolCh!users.noreply.github.com from 2019-05-01 until 2020-05-01
 Mobilus:
@@ -6530,6 +6542,7 @@ NETS:
 NETSCOUT:
 	ThomasWo: ThomasWo!users.noreply.github.com from 2019-04-01 until 2020-02-01
 	chradcliffe: chradcliffe!users.noreply.github.com from 2016-08-01 until 2018-11-01
+	markfink-splunk: markfink-splunk!users.noreply.github.com until 2019-06-01
 NETWAYS GmbH:
 	gunnarbeutner: abdulkarim!reversehack.in, github.dedeibel!dfgh.net, gunnar!beutner.name
 	mabusaa: abusaa_mz!hotmail.com, mabusaa!users.noreply.github.com until 2019-07-01
@@ -6936,6 +6949,7 @@ NTT Corporation:
 	takmatsu: takeaki.matsumoto!ntt.com, takmatsu!users.noreply.github.com, tkak.matsumoto!gmail.com
 	tishizaki: ishizaki.teruaki!lab.ntt.co.jp
 	tmakita: makita.toshiaki!lab.ntt.co.jp, toshiaki.makita1!gmail.com
+	tonybaloney: anthony.p.shaw!gmail.com, tonybaloney!users.noreply.github.com from 2019-07-01 until 2021-02-01
 	ukinau: uckey.1067!gmail.com
 	wdrdres3qew5ts21: wdrdres3qew5ts21!gmail.com, wdrdres3qew5ts21!users.noreply.github.com until 2021-05-01
 	yamada-h: yamada.hideki!lab.ntt.co.jp
@@ -7322,6 +7336,7 @@ Namecheap Inc.:
 	valeriano-manassero: valeriano-manassero!users.noreply.github.com from 2017-12-01
 	vavsab: vavsab!users.noreply.github.com from 2019-03-01
 	vitalvas: vitalvas!users.noreply.github.com
+	wRLSS: tkalenkonikita!gmail.com, wRLSS!users.noreply.github.com from 2018-12-01
 Namely Inc.:
 	abe545: abe545!users.noreply.github.com from 2017-07-01
 	bobbytables: bobbytables!users.noreply.github.com, robert!creativequeries.com, robert!firehydrant.io
@@ -16323,23 +16338,3 @@ Paxos Technology Solutions LLC:
 	sahilsk: sahilsk!users.noreply.github.com from 2018-12-01 until 2020-06-01
 	shmargum: mivanov1!gmail.com, shmargum!users.noreply.github.com from 2021-05-01
 	vngzs: vngzs!users.noreply.github.com
-Paxport:
-	Tom-Fawcett: tom-fawcett!users.noreply.github.com from 2016-11-01
-Paxton:
-	kwmlodozeniec: kwmlodozeniec!users.noreply.github.com from 2015-04-01 until 2018-04-01
-Pay Plus Benefits:
-	voithos: voithos!google.com, zaven!voithos.io until 2015-02-01
-PayByPhone:
-	jhuntoo: jhuntoo!users.noreply.github.com until 2015-09-01
-	nicdex: nicdex!users.noreply.github.com until 2015-04-15
-	six0h: six0h!users.noreply.github.com until 2018-02-01
-PayEx:
-	evenh: evenh!users.noreply.github.com until 2019-05-01
-	ivanskodje: ivanskodje!users.noreply.github.com from 2017-10-01 until 2019-05-01
-PayFit:
-	Atrax1: Atrax1!users.noreply.github.com from 2019-07-01
-	emaincourt: e.maincourt!gmail.com, emaincourt!users.noreply.github.com from 2017-09-01 until 2020-03-01
-PayGo:
-	neuronist: neuronist!users.noreply.github.com from 2019-11-01 until 2020-10-01
-PayGroup:
-	Klaudioz: klaudioz!gmail.com until 2016-04-01

@@ -5,6 +5,32 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+miparnisari: miparnisari!users.noreply.github.com
+	Southworks until 2015-08-01
+	Independent from 2015-08-01 until 2015-10-01
+	Quadion from 2015-10-01 until 2016-04-01
+	Vinti from 2016-04-01 until 2017-01-01
+	Independent from 2017-01-01 until 2017-03-01
+	Southworks from 2017-03-01 until 2017-07-01
+	AWS from 2017-07-01 until 2021-09-01
+	Auth0 Inc. from 2021-09-01
+miquella: markse!instructure.com, miquella!users.noreply.github.com
+	Instructure Inc. until 2020-03-01
+	Kasten Inc from 2020-03-01
+miquelraynal: miquel.raynal!bootlin.com, miquel.raynal!free-electrons.com, raynal.miquel!gmail.com
+	Amicale Cashmere. until 2014-01-01
+	Novadem from 2014-01-01 until 2014-09-01
+	Intel Corporation from 2014-09-01 until 2015-07-01
+	Navocap from 2015-07-01 until 2017-06-01
+	Free Electrons from 2017-06-01
+miquelsi: miquelsi!users.noreply.github.com
+	EUIPO - European Union Intellectual Property Office until 2016-05-01
+	Casenet from 2016-05-01 until 2020-04-01
+	Red Hat Inc. from 2020-04-01
+miracle2k: michael!elsdoerfer.com, miracle2k!users.noreply.github.com
+	Independent
+miraclesu: miraclesu!users.noreply.github.com, suchuangji!gmail.com, suchuangji#gmail
+	Goodfs
 mirageglobe: mirageglobe!users.noreply.github.com
 	KITC until 2016-01-01
 	GENIAC from 2016-01-01 until 2017-10-01
@@ -13439,6 +13465,8 @@ peterstace: peterstace!gmail.com, peterstace!users.noreply.github.com
 	DGraph from 2017-07-01 until 2018-01-01
 	Spaceship from 2018-01-01 until 2019-02-01
 	Nearmap from 2019-02-01
+petertamuk: petertamuk!users.noreply.github.com
+	Fidelity Investments
 peterthomassen: peterthomassen!users.noreply.github.com
 	deSEC e.V. until 2018-07-01
 	SSE from 2018-07-01
@@ -24050,31 +24078,3 @@ rsecob: rsecob!users.noreply.github.com
 	Blippar until 2015-08-01
 	Flat from 2015-08-01 until 2019-03-01
 	Transit from 2019-03-01
-rsgowman: rgowman!google.com, rsgowman!users.noreply.github.com
-	Google LLC
-rshanmu: ramesh.shanmugasundaram!bp.renesas.com
-	Renesas Electronics Corporation
-rshearman: rshearma!brocade.com, rshearman!users.noreply.github.com
-	Brocade Communications Systems LLC
-rshriram: rshriram!users.noreply.github.com, shriramr!vmware.com
-	International Business Machines Corporation until 2018-02-16
-	VMware Inc. from 2018-02-16 until 2019-04-01
-	Tetrate.io from 2019-04-01
-rsivasankar: ravikumar_sivasankar!dell.com
-	Dell
-rskadam: rushikesh.s.kadam!intel.com
-	Intel Corporation
-rskrishnar: prskrishnar!gmail.com, roopsai.krishna!grofers.com, rskrishnar!users.noreply.github.com
-	Grofers
-rsliotta: 44572134+rsliotta!users.noreply.github.com, rsliotta!users.noreply.github.com
-	Kuehne + Nagel until 2016-11-01
-	CEVA Logistics from 2016-11-01
-rsmitty: robertspencersmith!gmail.com, rsmitty!users.noreply.github.com
-	Boeing until 2015-02-01
-	Solinea from 2015-02-01 until 2017-09-01
-	Virtustream from 2017-09-01 until 2019-05-01
-	Talos Systems from 2019-05-01
-rsnakard-r7: rsnakard-r7!users.noreply.github.com
-	Independent until 2017-08-01
-	Independent from 2017-08-01 until 2020-01-01
-	Rapid7 Inc. from 2020-01-01

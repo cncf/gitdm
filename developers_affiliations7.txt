@@ -5,6 +5,34 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+rsgowman: rgowman!google.com, rsgowman!users.noreply.github.com
+	Google LLC
+rshanmu: ramesh.shanmugasundaram!bp.renesas.com
+	Renesas Electronics Corporation
+rshearman: rshearma!brocade.com, rshearman!users.noreply.github.com
+	Brocade Communications Systems LLC
+rshriram: rshriram!users.noreply.github.com, shriramr!vmware.com
+	International Business Machines Corporation until 2018-02-16
+	VMware Inc. from 2018-02-16 until 2019-04-01
+	Tetrate.io from 2019-04-01
+rsivasankar: ravikumar_sivasankar!dell.com
+	Dell
+rskadam: rushikesh.s.kadam!intel.com
+	Intel Corporation
+rskrishnar: prskrishnar!gmail.com, roopsai.krishna!grofers.com, rskrishnar!users.noreply.github.com
+	Grofers
+rsliotta: 44572134+rsliotta!users.noreply.github.com, rsliotta!users.noreply.github.com
+	Kuehne + Nagel until 2016-11-01
+	CEVA Logistics from 2016-11-01
+rsmitty: robertspencersmith!gmail.com, rsmitty!users.noreply.github.com
+	Boeing until 2015-02-01
+	Solinea from 2015-02-01 until 2017-09-01
+	Virtustream from 2017-09-01 until 2019-05-01
+	Talos Systems from 2019-05-01
+rsnakard-r7: rsnakard-r7!users.noreply.github.com
+	Independent until 2017-08-01
+	Independent from 2017-08-01 until 2020-01-01
+	Rapid7 Inc. from 2020-01-01
 rsnj: rsnj!users.noreply.github.com
 	Bank of New York Mellon until 2018-04-01
 	Independent from 2018-04-01 until 2018-07-01
@@ -6155,6 +6183,10 @@ shatil: shatil!users.noreply.github.com, shatil.rafiullah!gmail.com
 	Atom Tickets from 2016-06-01
 shatrugna: shatrugna.sadhu!apcera.com, ssadhu!apcera.com
 	Apcera
+shaul75: shaul75!users.noreply.github.com
+	Flextronics until 2016-03-01
+	Amdocs from 2016-03-01 until 2018-11-01
+	Seeking Alpha from 2018-11-01
 shaulb: shaul.baru!hp.com
 	HP Inc.
 shaun-cox: shaunco!microsoft.com
@@ -11472,6 +11504,11 @@ ssteo: ssteo!users.noreply.github.com
 	Wirecard from 2017-02-01 until 2017-06-01
 	Scout24 AG from 2017-06-01 until 2020-01-01
 	Verimatrix Inc. from 2020-01-01
+sstone1: sstone1!users.noreply.github.com
+	International Business Machines Corporation until 2021-04-01
+	Clause Inc. from 2021-04-01 until 2021-06-01
+	DocuSign Inc. from 2021-06-01 until 2023-01-01
+	Globacap from 2023-01-01
 ssubramanian123: ssubramanian123!users.noreply.github.com
 	Tablets
 ssuchter: sean-github!suchter.com, ssuchter!users.noreply.github.com
@@ -17643,6 +17680,12 @@ thomasdraebing: 39558662+thomasdraebing!users.noreply.github.com, thomas.draebin
 	Independent until 2017-02-01
 	Udacity Inc. from 2017-02-01 until 2018-03-01
 	SAP from 2018-03-01
+thomasdullien: thomasdullien!users.noreply.github.com
+	Google LLC until 2015-08-01
+	Independent from 2015-08-01 until 2016-08-01
+	Google LLC from 2016-08-01 until 2018-12-01
+	optimyze from 2018-12-01 until 2021-11-01
+	Elasticsearch Inc. from 2021-11-01
 thomasf: thomasf!jossystem.se, thomasf!users.noreply.github.com
 	Various
 thomasf7: thomasf7!users.noreply.github.com
@@ -19944,6 +19987,10 @@ tonya11en: cyril0allen!gmail.com, nate-ding!outlook.com, tallen!lyft.com, tony!a
 	Cisco until 2014-06-01
 	Nutanix Inc. from 2014-06-01 until 2017-12-01
 	Lyft Inc. from 2017-12-01
+tonybaloney: anthony.p.shaw!gmail.com, tonybaloney!users.noreply.github.com
+	Dimension Data until 2019-07-01
+	NTT Corporation from 2019-07-01 until 2021-02-01
+	Microsoft Corporation from 2021-02-01
 tonybaroneee: abarone!google.com
 	Google LLC
 tonycapone: anthonyrhowell!gmail.com
@@ -22612,6 +22659,9 @@ vadasambar: 34534103+vadasambar!users.noreply.github.com, vadasambar!users.norep
 	Independent until 2017-12-01
 	Treeni from 2017-12-01 until 2019-07-01
 	Infracloud Technologies INC from 2019-07-01
+vadimberezniker: vadimberezniker!users.noreply.github.com
+	Google LLC until 2021-02-01
+	BuildBuddy from 2021-02-01
 vadimeisenbergibm: vadime!il.ibm.com, vadimeisenbergibm!users.noreply.github.com
 	International Business Machines Corporation
 vadimgudko: vadimgudko!users.noreply.github.com
@@ -24108,59 +24158,3 @@ vikas027: vikas!reachvikas.com, vkumar!linkedin.com
 	LinkedIn Corporation
 vikasbrcm: vikas.gupta!broadcom.com
 	Broadcom Corporation
-vikaschoudhary16: choudharyvikas16!gmail.com, vichoudh!redhat.com, vikas.choudhary!imaginea.com, vikaschoudhary16!users.noreply.github.com
-	NXP Semiconductors Netherlands B.V. until 2015-03-01
-	Independent from 2015-03-01 until 2015-08-01
-	Imaginea from 2015-08-01 until 2016-07-29
-	Red Hat Inc. from 2016-07-29 until 2019-09-13
-	Tetrate.io from 2019-09-13
-vikash2310: singh.vikash2310!gmail.com
-	Tech Mahindra until 2015-10-01
-	Velankani Communications Technologies from 2015-10-01 until 2017-04-01
-	Tech Mahindra from 2017-04-01 until 2019-04-01
-	Capgemini from 2019-04-01
-vikasmalhotra08: vikas.malhotra08!gmail.com
-	Inspiring Digital Enterprise Award CIC until 2014-11-01
-	Reliance Jio Infocomm from 2014-11-01 until 2016-04-01
-	Aricent from 2016-04-01 until 2018-03-01
-	Altran from 2018-03-01 until 2021-03-01
-	Ericsson from 2021-03-01
-vikasmanocha: vikas.manocha!st.com
-	STMicroelectronics International N.V.
-vikassharma437: vikassharma437!users.noreply.github.com
-	Trantor until 2016-04-01
-	Synechron Inc. from 2016-04-01 until 2017-04-01
-	Wipro from 2017-04-01 until 2020-12-01
-	Red Hat Inc. from 2020-12-01 until 2022-08-01
-	Tata from 2022-08-01
-vikborisov: vikborisov!users.noreply.github.com
-	2GIS until 2014-05-01
-	BARS from 2014-05-01 until 2019-02-01
-	Happylend from 2019-02-01 until 2019-08-01
-	Re:point from 2019-08-01
-vikerman: vikerman!users.noreply.github.com, vikram.subramanian!gmail.com, viks!google.com
-	Funomena until 2015-06-01
-	Google LLC from 2015-06-01
-vikingcodes: virenderverma!live.com
-	AWS
-vikkyomkar: vikkyomkar!gmail.com, vikkyomkar!users.noreply.github.com
-	Tata until 2016-01-01
-	International Business Machines Corporation from 2016-01-01 until 2016-07-01
-	Samsung Electronics Co. Ltd. from 2016-07-01
-vikoz: vikozhuk!microsoft.com
-	Microsoft Corporation
-vikram-redhat: vikram-redhat!users.noreply.github.com
-	Red Hat Inc.
-vikram-thiru: vikram-thiru!users.noreply.github.com
-	Buffalo
-vikram-yerneni: vikram-yerneni!users.noreply.github.com
-	CDK Global until 2020-08-01
-	QOMPLX from 2020-08-01
-vikrambe: vikrambe!users.noreply.github.com
-	Cisco until 2017-06-01
-	Manhattan Associates from 2017-06-01 until 2018-11-01
-	Intuit Inc. from 2018-11-01
-vikramk7: vikramk7!users.noreply.github.com, vikramkrishnamu!vmware.com
-	VMware Inc.
-vikramkhatri: vikram!zinox.com, vikramkhatri!users.noreply.github.com
-	International Business Machines Corporation
