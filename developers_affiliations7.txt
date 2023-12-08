@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+rsecob: rsecob!users.noreply.github.com
+	Blippar until 2015-08-01
+	Flat from 2015-08-01 until 2019-03-01
+	Transit from 2019-03-01
 rsgowman: rgowman!google.com, rsgowman!users.noreply.github.com
 	Google LLC
 rshanmu: ramesh.shanmugasundaram!bp.renesas.com
