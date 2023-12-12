@@ -3450,8 +3450,8 @@ wenyingd: wenyingd!users.noreply.github.com, wenyingd!vmware.com
 	VMware Inc.
 wenyouya: wenyou.yang!atmel.com
 	Atmel Corporation
-wenyuanyu: wenyuanyu!users.noreply.github.com
-	GraphScope
+wenyuanyu: wenyuanyu!users.noreply.github.com, wenyuan.ywy!alibaba-inc.com
+	Alibaba Group from 2018-11-15
 wenzheng: noname!live.com, wenzheng!users.noreply.github.com
 	Ericsson
 wenzhixin: wenzhixin!users.noreply.github.com, wenzhixin2010!gmail.com
@@ -7144,8 +7144,9 @@ yebrahim: yebrahim!users.noreply.github.com
 	Google LLC from 2016-09-01
 yechnlin: yechnlin!gmail.com, yechnlin!users.noreply.github.com
 	Sony Marketing Inc.
-yecol: xujb1987!gmail.com
-	Independent
+yecol: xujb1987!gmail.com, xujingbo.xjb!alibaba-inc.com
+	Independent until 2018-11-15
+	Alibaba Group from 2018-11-15
 yeelinglam: yeelinglam!users.noreply.github.com
 	AT&T Services Inc.
 yegle: yegle!users.noreply.github.com
@@ -9701,6 +9702,9 @@ zhangjinpeng1987: zhangjinpeng1987!users.noreply.github.com
 	Google LLC from 2017-11-01
 zhangkun83: zhangkun!google.com, zhangkun83!users.noreply.github.com
 	Google LLC
+zhanglei1949: zhanglei1949!sjtu.edu.cn, xiaolei.zl!alibaba-inc.com
+	SJTU until 2021-04-08
+	Alibaba Group from 2021-04-08
 zhanglistar: zhanglinuxstar!gmail.com, zhanglistar!users.noreply.github.com
 	BIGO
 zhanglongxia: zhanglongxia!google.com
