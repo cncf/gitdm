@@ -5995,11 +5995,7 @@ Alias Payments:
 	jpadilla: hello!jpadilla.com, jpadilla!users.noreply.github.com, jpadilla!webapplicate.com from 2017-12-01 until 2019-07-01
 Alibaba Cloud:
 	xianlubird: xianlubird!gmail.com, xianlubird!users.noreply.github.com
-Alibaba Travels:
-	MoienTajik: MoienTajik!users.noreply.github.com from 2019-08-01
-Alibaba-inc:
-	shawnwinder: shawnwinder!outlook.com
-Alibaba.com:
+Alibaba Group:
 	123liuziming: 123liuziming!users.noreply.github.com from 2022-03-01
 	2sin18: 2sin18!users.noreply.github.com, sam.yuen!foxmail.com
 	Ace-Tang: Ace-Tang!users.noreply.github.com, aceapril!126.com
@@ -6048,9 +6044,11 @@ Alibaba.com:
 	Zheaoli: Zheaoli!users.noreply.github.com, me!manjusaka.me
 	ZoeShaw101: 1141195807!qq.com
 	aaron-ai: aaron-ai!users.noreply.github.com
+	acezen: acezen!users.noreply.github.com, qiaozi.zwb!alibaba-inc.com, weibin.zen!gmail.com from 2020-01-14
 	adamliyi: adamliyi!msn.com from 2015-05-01
 	adohe: coolhzb!163.com
 	aliwaredoc: 42730518+aliwaredoc!users.noreply.github.com, aliwaredoc!users.noreply.github.com, yexing.gw!alibaba-inc.com from 2015-04-01
+	andydiwenzhu: andydiwenzhu!users.noreply.github.com, diwen.zdw!alibaba-inc.com, diwen.zhu!gmail.com from 2020-01-13
 	anhdat: anhdat!users.noreply.github.com, mr.anhdat!gmail.com from 2017-06-01 until 2018-07-01
 	anubhavsingh16: anubhavssingh177!gmail.com from 2020-07-01 until 2020-08-01
 	anycodes: anycodes!users.noreply.github.com, service!52exe.cn
@@ -6073,7 +6071,7 @@ Alibaba.com:
 	cijianzy: cijianzy!gmail.com
 	cndaimin: cndaimin!users.noreply.github.com, daimin!outlook.com
 	coldTea214: coldTea214!gmail.com from 2019-12-01
-	dashanji: dashanji!users.noreply.github.com
+	dashanji: caoye.cao!alibaba-inc.com, dashanji!users.noreply.github.com from 2022-07-21
 	ddbmh: ddbmh!users.noreply.github.com, tangzmh!gmail.com
 	demohi: mds!xue.bi
 	denverdino: blblack!gmail.com, denverdino!gmail.com, denverdino!users.noreply.github.com, erisch!microsoft.com, weiyuan.yl!alibaba-inc.com, zhangzhiyuan218!gmail.com from 2015-05-01
@@ -6107,6 +6105,7 @@ Alibaba.com:
 	houwengang: 920131513!qq.com, houwengang!users.noreply.github.com
 	hsiangkao: boatwind!gmail.com, hsiangkao!aol.com, hsiangkao!users.noreply.github.com from 2021-05-01
 	huangyuqi: frank.ch!foxmail.com
+	husimplicity: 36654893+husimplicity!users.noreply.github.com, hushuxian.hsx!alibaba-inc.com from 2022-04-14
 	hustclf: hustclf!users.noreply.github.com, lifei.chen!allseeingsecurity.com from 2016-07-01 until 2017-10-01
 	iamzhout: iamzhout!users.noreply.github.com, joseph.zhoutao!gmail.com, joseph.zhoutao!huawei.com from 2017-09-01
 	ideal: ideal!users.noreply.github.com, idealities!gmail.com
@@ -6134,7 +6133,7 @@ Alibaba.com:
 	leexx227: xili10!microsoft.com from 2018-02-01 until 2021-05-01
 	legendecas: legendecas!users.noreply.github.com
 	liaojie: liaojie3083!gmail.com
-	lidongze0629: 9546726!qq.com
+	lidongze0629: 9546726!qq.com, dongze.ldz!alibaba-inc.com from 2020-01-14
 	linux-china: libing.chen!gmail.com, linux-china!users.noreply.github.com from 2018-04-01
 	liulanzheng: lanzheng.liulz!alibaba-inc.com, liulanzheng!users.noreply.github.com
 	liuming-dev: liuming-dev!users.noreply.github.com
@@ -6148,7 +6147,7 @@ Alibaba.com:
 	lowkeyrd: lowkeyrd!users.noreply.github.com, wangrenda1987!gmail.com
 	lowzj: lowzj!users.noreply.github.com, zj3142063!gmail.com
 	lujinda: lujinda!users.noreply.github.com
-	luoxiaojian: luoxiaojian!users.noreply.github.com
+	luoxiaojian: luoxiaojian!users.noreply.github.com, lxj193371!alibaba-inc.com  from 2018-11-15
 	malc0lm: fengxueyu35!126.com, malc0lm!users.noreply.github.com, malclee!outlook.com
 	mars1024: brucema19901024!gmail.com, mars1024!users.noreply.github.com
 	meibenjin: meibenjin!gmail.com, meibenjin!users.noreply.github.com
@@ -6168,6 +6167,7 @@ Alibaba.com:
 	pixystone: pixystone!users.noreply.github.com
 	pli2014: limin.llm!alibaba-inc.com, pli2014!users.noreply.github.com
 	pouchrobot: pouch-dev!list.alibaba-inc.com, pouchrobot!users.noreply.github.com
+	pwrliang: guanyi.gl!alibaba-inc.com, pwrliang!gmail.com, pwrliang!users.noreply.github.com until 2021-12-01
 	qiansheng91: qiansheng91!users.noreply.github.com
 	quanweiZhou: quanweiZhou!users.noreply.github.com
 	rambohe-ch: rambohe.ch!gmail.com
@@ -6179,13 +6179,14 @@ Alibaba.com:
 	ryanzhang-oss: ryanzhang-oss!users.noreply.github.com, yangzhangrice!hotmail.com from 2017-05-01
 	sbdtu5498: sbdtu5498!gmail.com from 2022-07-01 until 2022-08-01
 	sczyh30: sczyh16!gmail.com
-	septicmk: septic.mk!gmail.com
+	septicmk: mengke.mk!alibaba-inc.com, septic.mk!gmail.com from 2021-07-26
 	seraphsea: seraphsea!163.com
 	sergeylanzman: sergeylanz!gettaxi.com, sergeylanz!gmail.com, sergeylanzman!users.noreply.github.com from 2018-06-01 until 2018-08-01
 	shabicheng: gotosleepzc!gmail.com, shabicheng!users.noreply.github.com
 	shaloulcy: shaloulcy!users.noreply.github.com
 	shiloong: zhangshile!gmail.com
-	siyuan0322: siyuan0322!gmail.com, siyuan0322!users.noreply.github.com from 2018-11-01
+	sighingnow: linzhu.ht!alibaba-inc.com, sighingnow!gmail.com, sighingnow!users.noreply.github.com from 2019-05-26
+	siyuan0322: siyuan0322!gmail.com, siyuan0322!users.noreply.github.com, siyuanzhang.zsy!alibaba-inc.com from 2018-11-01
 	sjha2048: sjha200000!gmail.com from 2019-06-01 until 2019-09-01
 	smallfish: max.zelinski!gmail.com, smallfish!users.noreply.github.com, smallfish.xy!gmail.com
 	stone-jin: 1520006273!qq.com
@@ -6200,6 +6201,7 @@ Alibaba.com:
 	tungwoo: spooktung!gmail.com from 2019-11-01
 	tydra-wang: jiafu.wjj!alibaba-inc.com, tydra-wang!users.noreply.github.com, wjunjie96!outlook.com
 	vangie: duwan!live.com, vangie!users.noreply.github.com
+	vegetableysm: yuanshumin!sjtu.edu.cn, yuanshumin.ysm!alibaba-inc.com from 2023-04-01
 	wangfakang: 1031379296!qq.com, wangfakang!users.noreply.github.com
 	wanghaao: 1723105929!qq.com
 	wangj998: wangj998!users.noreply.github.com
@@ -6207,6 +6209,7 @@ Alibaba.com:
 	wangxin311: kevin.w.xin!gmail.com from 2017-07-01
 	wangyikewxgm: wangyike_wyk!163.com, wangyikewxgm!users.noreply.github.com
 	wawlian: wawlian!users.noreply.github.com, xiongfeng0601!gmail.com
+	wenyuanyu: wenyuan.ywy!alibaba-inc.com, wenyuanyu!users.noreply.github.com from 2018-11-15
 	wlliqipeng: qipengli.lqp!alibaba-inc.com
 	wonderflow: jianbo.sjb!alibaba-inc.com, wonderflow!icloud.com, wonderflow!users.noreply.github.com, wonderflow.sun!gmail.com from 2019-04-30
 	wsxiaozhang: wsxiaozhang!gmail.com, wsxiaozhang!users.noreply.github.com
@@ -6229,11 +6232,13 @@ Alibaba.com:
 	yang-shi: yang.s!alibaba-inc.com, yang.shi!linux.alibaba.com from 2017-07-01
 	yanghesong: hesong.yang!foxmail.com
 	yangsoon: yangsoon!users.noreply.github.com, yangsoonlx!gmail.com
+	yecol: xujb1987!gmail.com, xujingbo.xjb!alibaba-inc.com from 2018-11-15
 	yeya24: ben.ye!amazon.com, ben.ye!daocloud.io, benye!bytedance.com, bye!redhat.com, yb532204897!gmail.com, yeben!pingcap.com, yeya24!users.noreply.github.com from 2019-07-01 until 2019-09-01
 	yuri-lcy: yuri-lcy!users.noreply.github.com
 	ywang-pb: yun.wang!profitbricks.com from 2017-09-01
 	yyb196: yyb196!gmail.com, yyb196!users.noreply.github.com
 	zhan849: harryz!hyper.sh, hzzh0301!gmail.com, zhan849!users.noreply.github.com from 2018-06-01
+	zhanglei1949: xiaolei.zl!alibaba-inc.com, zhanglei1949!sjtu.edu.cn, zhanglei1949!users.noreply.github.com from 2021-04-08
 	zhangxiaolins: xiaolin.zxl!alibaba-inc.com, zhangxiaolins!gmail.com
 	zhangxiaoyu-zidif: zhangxiaoyu-zidif!users.noreply.github.com, zxysjtu!gmail.com from 2018-06-01
 	zhaoshengbo: zhaoshengbo!users.noreply.github.com
@@ -6244,6 +6249,10 @@ Alibaba.com:
 	zwwhdls: 33822635+zwwhdls!users.noreply.github.com, zwwhdls!users.noreply.github.com from 2020-03-01
 	zyfjeff: 445188383!qq.com, tianqian.zyf!alibaba-inc.com, zyfjeff!users.noreply.github.com
 	zzxwill: zzxwill!gmail.com, zzxwill!users.noreply.github.com from 2021-06-01
+Alibaba Travels:
+	MoienTajik: MoienTajik!users.noreply.github.com from 2019-08-01
+Alibaba-inc:
+	shawnwinder: shawnwinder!outlook.com
 Alibaba.com.com:
 	charleszheng44: charleszheng44!users.noreply.github.com from 2018-05-01 until 2018-11-01, from 2019-09-01
 Alicent:
@@ -16502,23 +16511,3 @@ Blue Chip:
 	sanjay990: sanjay990!users.noreply.github.com until 2014-05-01
 Blue Clover Devices:
 	IvoBCD: IvoBCD!users.noreply.github.com from 2015-07-01 until 2017-03-01, from 2018-01-01
-Blue Coat:
-	va7ish: va7ish!users.noreply.github.com until 2016-07-01
-Blue Coding:
-	jhenriquez: jhenriquez!users.noreply.github.com, julio.m.henriquez!gmail.com from 2015-03-01 until 2015-12-01
-Blue Cross:
-	deesejohn: deesejohn!users.noreply.github.com from 2019-09-01 until 2020-08-01
-	tsisodia10: tsisodia10!users.noreply.github.com from 2019-06-01 until 2019-12-01
-Blue Cross Blue Shield Association:
-	ashwanikhemani: ashwani.khemani!gmail.com, ashwanikhemani!users.noreply.github.com from 2018-05-01
-	oliverisaac: oisaac!gmail.com, oliverisaac!users.noreply.github.com from 2016-12-01 until 2018-07-01
-Blue Cross and Blue Shield:
-	dmilltech: dmilltech!users.noreply.github.com from 2019-03-01
-Blue Cross and Blue Shield of North Carolina:
-	Redeux: Redeux!users.noreply.github.com from 2016-09-01 until 2020-03-01
-Blue Data Management:
-	fwagner-smf: fwagner-smf!users.noreply.github.com until 2017-04-01
-Blue Flag:
-	thepont: paul.esson!gmail.com, thepont!users.noreply.github.com from 2014-10-01
-Blue Fox Media:
-	hdoro: hdoro!users.noreply.github.com from 2016-12-01 until 2017-08-01

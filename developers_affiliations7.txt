@@ -5,6 +5,26 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+rootsongjc: jimmy!tetrate.io, jimmysong!jimmysong.io, rootsongjc!gmail.com, rootsongjc!users.noreply.github.com
+	Anhui USTC iFLYTEK until 2015-07-01
+	TalkingData from 2015-07-01 until 2018-02-01
+	ant group from 2018-02-01 until 2020-08-31
+	Tetrate.io from 2020-08-31
+rootxrishabh: risrock02!gmail.com
+	Independent
+ropnop: rflathers!gmail.com
+	Cisco until 2017-09-01
+	Uptake from 2017-09-01 until 2018-09-01
+	Independent from 2018-09-01 until 2019-02-01
+	Motorola Mobility Inc. from 2019-02-01 until 2020-08-01
+	Marqeta from 2020-08-01
+ropsii: perovic.petar!gmail.com
+	Active Collab until 2015-09-01
+	Independent from 2015-09-01 until 2015-12-01
+	Super from 2015-12-01 until 2016-05-01
+	Semaphore from 2016-05-01 until 2022-06-01
+	Independent from 2022-06-01 until 2022-10-01
+	Akuity Inc. from 2022-10-01
 ror6ax: ror6ax!gmail.com, ror6ax!users.noreply.github.com
 	Sky UK Limited until 2014-10-01
 	International Business Machines Corporation from 2014-10-01 until 2015-12-01
@@ -305,7 +325,7 @@ rpjayasekara: rpjayasekara!users.noreply.github.com
 	omegaUp from 2019-05-01 until 2019-11-01
 	Google LLC from 2019-11-01 until 2020-01-01
 	Independent from 2020-01-01 until 2020-07-01
-	Alibaba.com from 2020-07-01 until 2020-08-01
+	Alibaba Group from 2020-07-01 until 2020-08-01
 	Independent from 2020-08-01 until 2021-04-01
 	WSO2 Inc. from 2021-04-01
 rpjday: rpjday!crashcourse.ca, rpjday!users.noreply.github.com
@@ -869,7 +889,7 @@ ruiwang1: rui.y.wang!intel.com
 	Intel Corporation
 ruiwen-zhao: ruiwen!google.com, ruiwen-zhao!users.noreply.github.com
 	Independent until 2014-07-01
-	Alibaba.com from 2014-07-01 until 2014-10-01
+	Alibaba Group from 2014-07-01 until 2014-10-01
 	Independent from 2014-10-01 until 2014-12-01
 	Intel Corporation from 2014-12-01 until 2015-05-01
 	Independent from 2015-05-01 until 2016-06-01
@@ -1441,7 +1461,7 @@ ryanwilson: ryanwils!gmail.com, ryanwilson!users.noreply.github.com, wilsonryan!
 ryanzhang-oss: ryanzhang-oss!users.noreply.github.com, yangzhangrice!hotmail.com
 	Microsoft Corporation until 2015-12-01
 	Twitter Inc. from 2015-12-01 until 2017-05-01
-	Alibaba.com from 2017-05-01
+	Alibaba Group from 2017-05-01
 ryanzidago: 46972947+ryanzidago!users.noreply.github.com, ryanzidago!users.noreply.github.com
 	Independent until 2018-02-01
 	French Travel Partners from 2018-02-01 until 2018-05-01
@@ -3919,7 +3939,7 @@ sbcd90: sbcd90!gmail.com, sbcd90!users.noreply.github.com
 sbdtu5498: sbdtu5498!gmail.com
 	Independent until 2022-05-01
 	Google LLC from 2022-05-01 until 2022-07-01
-	Alibaba.com from 2022-07-01 until 2022-08-01
+	Alibaba Group from 2022-07-01 until 2022-08-01
 	Merico from 2022-08-01
 sbeaulie: samuel!puppetlabs.com
 	Puppet Inc.
@@ -4605,7 +4625,7 @@ scwhittle: samuelw!google.com
 sczizzo: sczizzo!users.noreply.github.com, sean.clemmer!greenhouse.io
 	Greenhouse Software Inc.
 sczyh30: sczyh16!gmail.com
-	Alibaba.com
+	Alibaba Group
 sd-buildbot: sd-buildbot!users.noreply.github.com
 	b
 sd-buildbot-functional: sd-buildbot-functional!users.noreply.github.com
@@ -5416,7 +5436,8 @@ seperman: seperman!users.noreply.github.com
 sepidehkh: sekho!microsoft.com, sepidehkh!users.noreply.github.com
 	Independent until 2015-08-01
 	Microsoft Corporation from 2015-08-01
-septicmk: septic.mk!gmail.com, mengke.mk!alibaba-inc.com
+septicmk: mengke.mk!alibaba-inc.com, septic.mk!gmail.com
+	Independent until 2021-07-26
 	Alibaba Group from 2021-07-26
 sepulworld: sepulworld!gmail.com, sepulworld!users.noreply.github.com, zane!ugh.cloud, zane.williamson!gmail.com
 	Machine Zone until 2015-10-01
@@ -5437,7 +5458,7 @@ serakis: d.serakis!gmail.com
 	Qean from 2016-08-01 until 2021-05-01
 	NIRA from 2021-05-01
 seraphsea: seraphsea!163.com
-	Alibaba.com
+	Alibaba Group
 serathius: lorenzo.bugiani!gmail.com, marek.siarkowicz!protonmail.com, qiancw1!uci.edu, serathius!users.noreply.github.com, siarkowicz!google.com
 	Buku until 2015-02-01
 	Social WiFi from 2015-02-01 until 2016-07-01
@@ -5549,7 +5570,7 @@ sergeykuprikov: sergeykuprikov!users.noreply.github.com
 	Adeo
 sergeylanzman: sergeylanz!gettaxi.com, sergeylanz!gmail.com, sergeylanzman!users.noreply.github.com
 	Gett until 2018-06-01
-	Alibaba.com from 2018-06-01 until 2018-08-01
+	Alibaba Group from 2018-06-01 until 2018-08-01
 	Google LLC from 2018-08-01
 sergeylukin: contact!sergeylukin.com
 	Signaltrader until 2016-10-01
@@ -6177,7 +6198,7 @@ shabbir-taulia: shabbir-taulia!users.noreply.github.com
 	Loop1 from 2016-06-01 until 2018-03-01
 	Taulia from 2018-03-01
 shabicheng: gotosleepzc!gmail.com, shabicheng!users.noreply.github.com
-	Alibaba.com
+	Alibaba Group
 shacharSilbert: development.silbert!gmail.com, shacharSilbert!users.noreply.github.com
 	Augmented until 2015-07-01
 	Linxale from 2015-07-01 until 2018-08-01
@@ -6388,7 +6409,7 @@ shalom-cyera: shalom-cyera!users.noreply.github.com
 	Microsoft Corporation from 2020-04-01 until 2021-11-01
 	Cyera from 2021-11-01
 shaloulcy: shaloulcy!users.noreply.github.com
-	Alibaba.com
+	Alibaba Group
 shamalco: shamalco!users.noreply.github.com
 	Bank
 shambashib20: shambashib20!users.noreply.github.com
@@ -7156,7 +7177,7 @@ shiliangxue: shiliang!google.com, shiliangxue!users.noreply.github.com
 shillasaebi: shilla.saebi!gmail.com, shillasaebi!users.noreply.github.com
 	Comcast Cable Communications LLC (Xfinity)
 shiloong: zhangshile!gmail.com
-	Alibaba.com
+	Alibaba Group
 shilpasreeramalu: shilpa.sreeramalu!intel.com
 	Intel Corporation
 shilpasri: shilpa.bhat!linux.vnet.ibm.com
@@ -8121,7 +8142,7 @@ siganakis: siganakis!users.noreply.github.com, terence!growingdata.com.au
 siggy: andrew!sig.gy, siggy!buoyant.io, siggy!users.noreply.github.com
 	Twitter Inc. until 2015-10-01
 	Buoyant Inc. from 2015-10-01
-sighingnow: sighingnow!gmail.com, sighingnow!users.noreply.github.com, linzhu.ht!alibaba-inc.com
+sighingnow: linzhu.ht!alibaba-inc.com, sighingnow!gmail.com, sighingnow!users.noreply.github.com
 	Independent until 2016-12-01
 	滴滴出行科技有限公司 from 2016-12-01 until 2017-04-01
 	Independent from 2017-04-01 until 2019-05-26
@@ -8903,7 +8924,7 @@ sjfink: fink.stephen!gmail.com, sjfink!us.ibm.com
 	International Business Machines Corporation
 sjha2048: sjha200000!gmail.com
 	Independent until 2019-06-01
-	Alibaba.com from 2019-06-01 until 2019-09-01
+	Alibaba Group from 2019-06-01 until 2019-09-01
 	Independent from 2019-09-01 until 2020-05-01
 	Google LLC from 2020-05-01
 sjhewitt: si!sjhewitt.co.uk, sjhewitt!users.noreply.github.com
@@ -9628,7 +9649,7 @@ smalleni: smalleni!redhat.com, smalleni!users.noreply.github.com
 	Open Platform for NFV from 2017-12-01 until 2019-03-01
 	Red Hat Inc. from 2019-03-01
 smallfish: max.zelinski!gmail.com, smallfish!users.noreply.github.com, smallfish.xy!gmail.com
-	Alibaba.com
+	Alibaba Group
 smallinsky: m.smallinsky!gmail.com
 	Samsung Electronics Co. Ltd. until 2014-04-01
 	Nokia Corporation from 2014-04-01 until 2017-09-01
@@ -13281,11 +13302,11 @@ stolfi: chrisstolfi!aol.com
 	AOL until 2017-07-01
 	Oath from 2017-07-01
 stone-jin: 1520006273!qq.com
-	Alibaba.com
+	Alibaba Group
 stone-li: v-stoli!microsoft.com
 	Microsoft Corporation
 stonexer: shitianxin!gmail.com, stonexer!users.noreply.github.com
-	Alibaba.com
+	Alibaba Group
 stonezdj: daojunz!vmware.com, stonezdj!gmail.com, stonezdj!users.noreply.github.com
 	International Business Machines Corporation until 2016-04-01
 	Independent from 2016-04-01 until 2017-08-01
@@ -14176,7 +14197,7 @@ suntorytimed: 2744377+suntorytimed!users.noreply.github.com, suntorytimed!users.
 sunvim: sunvim!users.noreply.github.com
 	Ankr
 sunxiaoguang: sunxiaoguang!hoolai.com, sunxiaoguang!users.noreply.github.com, sunxiaoguang!zhihu.com
-	Alibaba.com
+	Alibaba Group
 sunya-ch: sunyanan.choochotkaew1!ibm.com
 	Independent until 2020-04-01
 	International Business Machines Corporation from 2020-04-01
@@ -15224,7 +15245,7 @@ szihai: szihai!gmail.com
 	Dell until 2014-10-01
 	Swisscom from 2014-10-01 until 2017-02-01
 	International Business Machines Corporation from 2017-02-01 until 2018-06-01
-	Alibaba.com from 2018-06-01
+	Alibaba Group from 2018-06-01
 szihai: szihai!users.noreply.github.com
 	Glencore until 2017-01-01
 	Swiss RE from 2017-01-01 until 2017-11-01
@@ -17030,7 +17051,7 @@ terrytangyuan: terrytangyuan!gmail.com, terrytangyuan!users.noreply.github.com
 	Independent from 2017-11-01 until 2017-12-01
 	H2o.ai Inc. from 2017-12-01 until 2018-05-01
 	Independent from 2018-05-01 until 2018-06-01
-	Alibaba.com from 2018-06-01 until 2021-08-01
+	Alibaba Group from 2018-06-01 until 2021-08-01
 	Akuity Inc. from 2021-08-01 until 2023-12-01
 	Red Hat Inc. from 2023-12-01
 tescherm: matthew.tescher!docker.com, tescherm!gmail.com, tescherm!users.noreply.github.com
@@ -17198,7 +17219,7 @@ tfulcrand: tfulcrand!users.noreply.github.com
 	Ozitem from 2018-06-01 until 2019-08-01
 	DAILYMOTION SA from 2019-08-01
 tg123: bolian!microsoft.com, farmer1992!gmail.com, tg123!users.noreply.github.com
-	Alibaba.com until 2015-10-01
+	Alibaba Group until 2015-10-01
 	Microsoft Corporation from 2015-10-01
 tgaddair: tgaddair!gmail.com, tgaddair!users.noreply.github.com
 	Google LLC until 2015-09-01
@@ -17833,7 +17854,7 @@ theomessin: theodore!messinezis.com
 	Independent until 2019-04-01
 	Hack Partners Limited from 2019-04-01
 theonefx: chenxilzx1!gmail.com
-	Alibaba.com
+	Alibaba Group
 theonlydoo: theonlydoo!users.noreply.github.com
 	ONLYLYON
 theophile-scrive: theophile-scrive!users.noreply.github.com
@@ -18494,7 +18515,7 @@ thwarted: github!thwartedefforts.org
 	LumApps from 2018-06-01 until 2021-01-01
 	Datadog Inc from 2021-01-01
 thxCode: 664647065!qq.com, frank!rancher.com, thxCode!users.noreply.github.com
-	Alibaba.com
+	Alibaba Group
 thylong: theotime.leveque!dailymotion.com, thylong!users.noreply.github.com
 	DAILYMOTION SA
 thz: th-git!thzn.de, thz!users.noreply.github.com
@@ -18696,7 +18717,7 @@ tigerinus: tigerinus!users.noreply.github.com
 	YANGAROO from 2014-08-01 until 2015-11-01
 	Oracle America Inc. from 2015-11-01 until 2018-03-01
 	Adeptmind from 2018-03-01 until 2019-06-01
-	Alibaba.com from 2019-06-01 until 2020-01-01
+	Alibaba Group from 2019-06-01 until 2020-01-01
 	iGola from 2020-01-01 until 2020-09-01
 	TensorSmart from 2020-09-01
 tigerlinux: tigerlinux!gmail.com
@@ -21883,7 +21904,7 @@ tungwoo: spooktung!gmail.com
 	Independent from 2014-08-01 until 2015-01-01
 	Independent from 2015-01-01 until 2017-03-01
 	Udacity Inc. from 2017-03-01 until 2019-11-01
-	Alibaba.com from 2019-11-01
+	Alibaba Group from 2019-11-01
 tunix: me!alperkan.at, tunix!users.noreply.github.com
 	Butigo until 2014-05-01
 	Monitise MEA from 2014-05-01 until 2018-02-01
@@ -22226,7 +22247,7 @@ tycho: steven!uplinklabs.net
 tydhot: tydhot!apache.org, tydhot!users.noreply.github.com
 	PerfMa
 tydra-wang: jiafu.wjj!alibaba-inc.com, tydra-wang!users.noreply.github.com, wjunjie96!outlook.com
-	Alibaba.com
+	Alibaba Group
 tyg03485: tyg03485!users.noreply.github.com
 	Independent until 2017-01-01
 	Bank Salad from 2017-01-01 until 2017-03-01
@@ -23588,7 +23609,7 @@ vangheem: vangheem!gmail.com
 	Wildcard until 2017-04-01
 	Onna Technologies Inc from 2017-04-01
 vangie: duwan!live.com, vangie!users.noreply.github.com
-	Alibaba.com
+	Alibaba Group
 vanhtuan0409: vanhtuan0409!gmail.com
 	Independent until 2015-12-01
 	atWare from 2015-12-01 until 2017-08-01
@@ -24117,28 +24138,3 @@ velumaniduraisamy: velumaniduraisamy!users.noreply.github.com
 	Paysafe from 2016-03-01
 vendrov: keglevich2!gmail.com, vendrov!users.noreply.github.com
 	Independent
-venezia: mvenezia!gmail.com, venezia!users.noreply.github.com
-	Viacom Inc. until 2016-05-01
-	Samsung SDS from 2016-05-01
-venilnoronha: hello!venilnoronha.io, marco.a.corona92!gmail.com, noronha!vmware.com, venil.noronha!gmail.com, venil.noronha!outlook.com, veniln!vmware.com, venilnoronha!users.noreply.github.com
-	Independent until 2017-05-01
-	VMware Inc. from 2017-05-01 until 2017-08-01
-	Independent from 2017-08-01 until 2018-02-01
-	VMware Inc. from 2018-02-01
-venkat-raman251: vemaha!microsoft.com, venkat-raman251!users.noreply.github.com
-	Microsoft Corporation
-venkat1077: venkat1077!gmail.com, venkatesh.sethuram!us.fujitsu.com
-	Fujitsu Limited
-venkatamahesh: venkatamaheshkotha!gmail.com
-	Independent until 2016-06-08
-	Infinite from 2016-06-08
-venkatnsrinivasan: venkatnsrinivasan!users.noreply.github.com
-	Cisco until 2016-04-01
-	Cisco from 2016-04-01
-venkatpx: venkat!portworx.com, venkatpx!users.noreply.github.com
-	Portworx Inc.
-venkatsc: subbaraocse9!gmail.com, venkat!quobyte.com, venkatsc!users.noreply.github.com
-	Quobyte Inc.
-venkyvb: venkyvb!users.noreply.github.com
-	SAP until 2019-10-01
-	LinkedIn Corporation from 2019-10-01
