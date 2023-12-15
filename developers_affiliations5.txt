@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+jnsgruk: jon!sgrs.uk
+	British Army until 2019-04-01
+	Thales from 2019-04-01 until 2021-03-01
+	Canonical from 2021-03-01
+jnsnow: jsnow!redhat.com
+	Red Hat Inc.
 jntesteves: jntesteves!users.noreply.github.com
 	iColabora until 2015-03-01
 	Independent from 2015-03-01 until 2016-10-01
@@ -389,7 +395,7 @@ joescars: joe.raio!microsoft.com
 	Microsoft Corporation
 joesepi: sepi!joesepi.com
 	Standards & Deviations until 2016-02-01
-	Adobe from 2016-02-01 until 2016-06-01
+	Adobe Inc. from 2016-02-01 until 2016-06-01
 	Some Total from 2016-06-01 until 2017-10-01
 	International Business Machines Corporation from 2017-10-01
 joeshaw: joe!joeshaw.org, joeshaw!users.noreply.github.com
@@ -8862,7 +8868,7 @@ kokizzu: kokizzu!users.noreply.github.com
 	Independent from 2022-01-01
 kokoc: kokoc!users.noreply.github.com
 	Magento CommerceMagento Commerce until 2019-01-01
-	Adobe from 2019-01-01
+	Adobe Inc. from 2019-01-01
 kokosing: kokosing!users.noreply.github.com
 	Hadapt until 2014-07-01
 	Teradata from 2014-07-01 until 2017-08-01
@@ -17224,7 +17230,7 @@ mannams: srinath.mannam!broadcom.com
 manni83: manfred.rudigier!omicron.at, manni83!users.noreply.github.com
 	OMICRON Electronics
 mannytoledo: mannytoledo!users.noreply.github.com
-	Adobe
+	Adobe Inc.
 manochavikas: manochavikas!gmail.com, manochavikas!users.noreply.github.com
 	STMicroelectronics International N.V.
 manodupont: manodupont!users.noreply.github.com
@@ -17245,7 +17251,7 @@ manoj9788: manoj9788!gmail.com, manoj9788!users.noreply.github.com
 manojbadam: manojbadam!users.noreply.github.com
 	Tata until 2015-08-01
 	Equinix Inc. from 2015-08-01 until 2016-06-01
-	Adobe from 2016-06-01 until 2019-07-01
+	Adobe Inc. from 2016-06-01 until 2019-07-01
 	Intuit Inc. from 2019-07-01
 manojkumar-machireddy: manojkumar-machireddy!users.noreply.github.com, msvmanojkumarreddy!gmail.com
 	OpsMx
@@ -20201,7 +20207,7 @@ mattxwang: matt!matthewwang.me, mattxwang!users.noreply.github.com
 	AWS from 2020-06-01 until 2020-09-01
 	ACM Teach LA from 2020-09-01 until 2021-03-01
 	Independent from 2021-03-01 until 2021-06-01
-	Adobe from 2021-06-01 until 2021-09-01
+	Adobe Inc. from 2021-06-01 until 2021-09-01
 	Meta Platforms Inc. from 2021-09-01
 matty-rose: matty-rose!users.noreply.github.com
 	Independent until 2018-11-01
@@ -23946,7 +23952,3 @@ mikesamuel: mikesamuel!gmail.com
 mikesherov: mike.sherov!gmail.com, mikesherov!users.noreply.github.com
 	Adobe Inc. until 2018-10-01
 	Skillshare from 2018-10-01
-mikeshng: mikeshng!users.noreply.github.com
-	N8 Identity until 2017-03-01
-	International Business Machines Corporation from 2017-03-01 until 2020-02-01
-	Red Hat Inc. from 2020-02-01

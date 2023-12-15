@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+rootsh: alex.laner!picpay.com
+	Safernet Brasil until 2018-12-01
+	CVC CORP from 2018-12-01 until 2019-04-01
+	Claro Brasil from 2019-04-01 until 2020-06-01
+	PicPay from 2020-06-01
 rootsongjc: jimmy!tetrate.io, jimmysong!jimmysong.io, rootsongjc!gmail.com, rootsongjc!users.noreply.github.com
 	Anhui USTC iFLYTEK until 2015-07-01
 	TalkingData from 2015-07-01 until 2018-02-01
@@ -11842,7 +11847,7 @@ srlk: serol.kosunda!gmail.com
 	IBTECH from 2015-04-01 until 2016-03-01
 	CREDIT EUROPE BANK from 2016-03-01 until 2020-05-01
 	Reply from 2020-05-01 until 2021-08-01
-	Adobe from 2021-08-01
+	Adobe Inc. from 2021-08-01
 srm09: 8758225+srm09!users.noreply.github.com, muchhals!vmware.com, srm09!users.noreply.github.com
 	VMware Inc.
 srntqn: srntqn!users.noreply.github.com
@@ -11878,7 +11883,7 @@ srueg: simon.ruegg!vshn.ch, srueg!users.noreply.github.com
 	VSHN AG from 2017-07-31
 sruon: sruon!users.noreply.github.com
 	42 born2code until 2014-06-01
-	Adobe from 2014-06-01
+	Adobe Inc. from 2014-06-01
 srv-twry: srv-twry!users.noreply.github.com, srv.twry!gmail.com
 	Independent until 2018-04-01
 	Google LLC from 2018-04-01 until 2018-08-01
@@ -24131,9 +24136,3 @@ velp: ponomarev!selectel.ru, velizarx!gmail.com, velp!users.noreply.github.com
 	TimeWeb until 2017-05-01
 	Independent from 2017-05-01 until 2019-02-01
 	Jexia from 2019-02-01
-veludurai106: veludurai106!users.noreply.github.com, velumani.mit2010!gmail.com
-	WaveCrest until 2016-06-01
-	Paysafe from 2016-06-01
-velumaniduraisamy: velumaniduraisamy!users.noreply.github.com
-	WaveCrest until 2016-03-01
-	Paysafe from 2016-03-01
