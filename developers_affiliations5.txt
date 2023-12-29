@@ -5,6 +5,73 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+jmason: github at jmason.org, github!jmason.org, jmason!users.noreply.github.com
+	Swrve
+jmassara: james_massara!intuit.com
+	Intuit Inc.
+jmassey-datadog: jmassey-datadog!users.noreply.github.com
+	Independent until 2014-11-01
+	Coalfire from 2014-11-01 until 2015-07-01
+	Ionic from 2015-07-01 until 2018-01-01
+	Datadog Inc from 2018-01-01 until 2022-06-01
+	Independent from 2022-06-01 until 2022-08-01
+	Startup from 2022-08-01
+jmastr: jmastr!users.noreply.github.com, julian!endocode.com
+	Endocode
+jmazzitelli: jmazzitelli!users.noreply.github.com, mazz!redhat.com
+	Red Hat Inc.
+jmberg: johannes.berg!intel.com
+	Intel Corporation
+jmblakl: jmblakl!users.noreply.github.com, justin!bouncybouncy.net
+	Microsoft Corporation until 2018-03-01
+	NatureServe from 2018-03-01
+jmcantrell: jmcantrell!me.com
+	Zink until 2014-12-01
+	Independent from 2014-12-01
+jmcarp: jm.carp!gmail.com, jmcarp!users.noreply.github.com
+	Center for Open Science until 2015-03-01
+	18F from 2015-03-01 until 2018-08-01
+	Democratic National Committee from 2018-08-01
+jmccarty3: jmccarty3!gmail.com, jmccarty3!users.noreply.github.com
+	TMC until 2015-07-01
+	Move Inc. from 2015-07-01 until 2018-02-01
+	Syapse from 2018-02-01
+jmccormick2001: jmccormick2001!users.noreply.github.com
+	Crunchy Data Solutions Inc. until 2019-08-01
+	Red Hat Inc. from 2019-08-01
+jmcdice: jmcdice!gmail.com
+	Nokia Corporation until 2016-11-01
+	Pivotal from 2016-11-01 until 2020-01-01
+	VMware Inc. from 2020-01-01
+jmcdonagh: jmcdonagh!users.noreply.github.com
+	Independent until 2019-11-01
+	Royal Endicott from 2019-11-01
+jmcdough: jmcd!samba.org, jmcdonough!suse.com
+	SUSE LLC
+jmcfarlane: akshay.surve!gmail.com, jmcfarlane!users.noreply.github.com, john!rockfloat.com
+	Climate Corporation
+jmcgee4: jeff.mcgee!intel.com
+	Intel Corporation
+jmcgeheeiv: jmcgehee!wavecomp.com, jmcgeheeiv!users.noreply.github.com
+	Altera until 2014-07-01
+	johnnado.com from 2014-07-01 until 2015-02-01
+	Wave Computing Inc from 2015-02-01
+jmckind: jmckind!users.noreply.github.com
+	Rackspace until 2017-04-01
+	Red Hat Inc. from 2017-04-01
+jmcmeek: jmcmeek!us.ibm.com, jmcmeek!users.noreply.github.com
+	International Business Machines Corporation
+jmcnally: jmcnally!collab.net, mcnallysetc!gmail.com
+	CollabNet VersionOne
+jmcruzal: juan.m.cruz.alcaraz!linux.intel.com
+	Intel Corporation
+jmcshane: 0x13156E9!gmail.com, james.p.mcshane!healthpartners.com, jmcshan1!gmail.com, jmcshane!users.noreply.github.com
+	Independent until 2014-06-01
+	Securian Financial Group Inc. from 2014-06-01 until 2015-04-01
+	Seagate Technology LLC from 2015-04-01 until 2015-10-01
+	Verisk Analytics Inc. from 2015-10-01 until 2015-12-01
+	Element Financial from 2015-12-01 until 2016-12-01
+	HealthPartners from 2016-12-01
 jmcudd: jmcudd!users.noreply.github.com, jmcudd+github!gmail.com
 	Engility until 2015-06-01
 	Independent from 2015-06-01 until 2016-12-01
@@ -2120,6 +2187,14 @@ joseblas: joseblas!gmail.com, joseblas!users.noreply.github.com
 	Sky UK Limited from 2015-11-01 until 2016-12-01
 	Equal Experts from 2016-12-01 until 2018-08-01
 	CloudBees Inc. from 2018-08-01
+josecastillolema: josecastillolema!gmail.com, josecastillolema!users.noreply.github.com
+	Independent until 2018-01-01
+	Apllos Solutions from 2018-01-01 until 2018-06-01
+	Senac Santa Catarina from 2018-06-01 until 2018-09-01
+	Mandic Cloud Solutions from 2018-09-01 until 2019-06-01
+	Huawei from 2019-06-01 until 2022-11-01
+	FIAP from 2022-11-01 until 2022-12-01
+	Red Hat Inc. from 2022-12-01
 josecolella: josecolella!users.noreply.github.com, josecolella!yahoo.com
 	Survela until 2014-12-01
 	Dynatrace LLC from 2014-12-01 until 2021-07-01
@@ -12251,7 +12326,7 @@ leandrocr: leandro.repolho!theiconic.com.au, leandrocr!users.noreply.github.com,
 	Ionic from 2016-06-15
 learner0810: learner0810!user.noreply.github.com, zhongjun.li!daocloud.io
 	DaoCloud Network Technology Co. Ltd.
-learnitall: ryan.drew!isovalent.com
+learnitall: learnitall!users.noreply.github.com, ryan.drew!isovalent.com
 	Independent until 2019-05-01
 	Zayo from 2019-05-01 until 2019-08-01
 	Independent from 2019-08-01 until 2021-05-01
@@ -19432,7 +19507,7 @@ maryamariyan: maryam.ariyan!microsoft.com, maryamariyan!users.noreply.github.com
 maryamtahhan: maryam.tahhan!intel.com, maryamtahhan!users.noreply.github.com
 	Intel Corporation until 2022-02-01
 	Red Hat Inc. from 2022-02-01
-maryshak1996: mshaksho!redhat.com
+maryshak1996: maryshak1996!users.noreply.github.com, mshaksho!redhat.com
 	Red Hat Inc.
 maryyliu: maryyliu!google.com, maryyliu!users.noreply.github.com
 	Google LLC
@@ -22674,7 +22749,7 @@ meteorlxy: meteor.lxy!foxmail.com, meteorlxy!users.noreply.github.com, meteorlxy
 	Tencent from 2018-07-01 until 2018-08-01
 	Independent from 2018-08-01 until 2019-07-01
 	Tencent from 2019-07-01 until 2020-03-01
-	Alibaba.com from 2020-03-01 until 2022-05-01
+	Alibaba Group from 2020-03-01 until 2022-05-01
 	幻方AI from 2022-05-01 until 2022-08-01
 	Jerry from 2022-08-01
 meteortwinkle: 75751845!qq.com, yangjkmail!163.com
@@ -23888,76 +23963,3 @@ microwavables: microwavables!users.noreply.github.com, nancil!vmware.com
 	VMware Inc. from 2020-12-01
 micw523: micw!umich.edu, micw523!users.noreply.github.com
 	Independent
-micya: micya!users.noreply.github.com
-	Independent until 2017-05-01
-	Group One Trading from 2017-05-01 until 2018-06-01
-	Goldman Sachs & Co. LLC from 2018-06-01 until 2018-08-01
-	Group One Trading from 2018-08-01 until 2018-10-01
-	Independent from 2018-10-01 until 2019-07-01
-	Microsoft Corporation from 2019-07-01 until 2021-07-01
-	Google LLC from 2021-07-01
-midN: andres!andres.wtf, midN!users.noreply.github.com, nolanchan!berkeley.edu
-	Inbank until 2018-03-01
-	Wallester from 2018-03-01 until 2018-06-01
-	TextNow from 2018-06-01
-midhun1998: dev.mid.work!gmail.com, midhun1998!users.noreply.github.com
-	Independent until 2018-02-01
-	Abhi Repair from 2018-02-01 until 2018-04-01
-	Independent from 2018-04-01 until 2019-02-01
-	Crio.Do from 2019-02-01 until 2019-06-01
-	Independent from 2019-06-01 until 2020-07-01
-	Tata from 2020-07-01 until 2022-04-01
-	Synopsys Inc from 2022-04-01
-midnightconman: midnightconman!gmail.com, midnightconman!users.noreply.github.com
-	Yahoo! Inc. until 2015-03-01
-	Sony Interactive Entertainment LLC from 2015-03-01
-midoblgsm: midoblgsm!users.noreply.github.com, mmohamed!us.ibm.com
-	International Business Machines Corporation
-midzer: midzer!gmail.com, midzer!users.noreply.github.com
-	Independent
-miedzinski: miedzinski!users.noreply.github.com
-	Independent until 2015-10-01
-	Booksy from 2015-10-01 until 2017-02-01
-	Independent from 2017-02-01 until 2021-01-01
-	Booksy from 2021-01-01
-miekg: miek!miek.nl, miekg!users.noreply.github.com
-	Google LLC
-miff2000: miff2000!users.noreply.github.com
-	UKFast
-mig42: mgonzalez!codicesoftware.com, migueljgonz!gmail.com
-	Códice Software S.L.
-mig82: miguelangelxfm!gmail.com
-	Accenture Global Solutions Limited until 2015-06-01
-	Kony Solutions Inc. from 2015-06-01
-migggy: migggy!users.noreply.github.com
-	Independent until 2015-04-01
-	Independent from 2015-04-01 until 2018-07-01
-	BizReach Co. Ltd. from 2018-07-01
-mightyguava: maladiere.vincent!yahoo.fr, mightyguava!gmail.com, mightyguava!users.noreply.github.com, ramganesh7k!gmail.com
-	Google LLC until 2014-09-01
-	CodeMirror from 2014-09-01 until 2015-06-01
-	Compass from 2015-06-01 until 2017-01-01
-	Button from 2017-01-01 until 2018-12-01
-	Square Inc. from 2018-12-01
-migldasilva: migldasilva!users.noreply.github.com
-	Independent until 2019-10-01
-	WolkAbout Srbija from 2019-10-01 until 2022-10-01
-	NTT DATA Romania from 2022-10-01
-migmartri: kuldeepkeshwar!gmail.com, migmartri!gmail.com, migmartri!users.noreply.github.com, miguel!bitnami.com
-	Bitnami Inc. until 2019-05-01
-	VMware Inc. from 2019-05-01
-migounette: antmatr!yandex.ru, migounette!users.noreply.github.com
-	HP Inc. until 2015-11-01
-	Independent from 2015-11-01 until 2019-04-01
-	Aruba from 2019-04-01 until 2020-03-01
-	Hewlett from 2020-03-01
-miguel-santiago: miguel-santiago!users.noreply.github.com
-	Independent until 2014-07-01
-	Sopra Steria Group from 2014-07-01 until 2014-10-01
-	Independent from 2014-10-01 until 2015-02-01
-	SolarWinds Worldwide LLC from 2015-02-01 until 2019-04-01
-	Wood Mackenzie from 2019-04-01 until 2019-07-01
-	Ouzi from 2019-07-01
-miguel250: miguel!miguelpz.com, miguel250!users.noreply.github.com, mperez!mediamath.com
-	MediaMath Inc. until 2015-11-15
-	Squarespace Inc. from 2015-11-15

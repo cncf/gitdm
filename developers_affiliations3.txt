@@ -5,6 +5,62 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+bingz: bzhao!marvell.com
+	Marvell International Ltd
+binjip978: binjip978!users.noreply.github.com
+	IBA until 2015-01-01
+	Independent from 2015-01-01 until 2016-12-01
+	EPAM Systems Inc from 2016-12-01
+binman-docker: binman-docker!users.noreply.github.com
+	Marin until 2015-03-01
+	Invitae Corporation from 2015-03-01 until 2016-02-01
+	Docker Inc. from 2016-02-01
+binoculars: barrett.harber!gmail.com
+	U.S. Department of Defense
+binoculars: binoculars!users.noreply.github.com
+	Center for Open Science
+binoue: banji-inoue!cybozu.co.jp, binoue!users.noreply.github.com
+	Independent until 2016-04-01
+	NTT DATA from 2016-04-01 until 2019-02-01
+	Cybozu from 2019-02-01
+biny993: bin.yang!windriver.com
+	Wind River Systems Inc.
+bioball: bioball!users.noreply.github.com, daniel.h.chao!gmail.com
+	Wonder until 2018-01-01
+	Apple Inc. from 2018-01-01
+bioinfornatics: bioinfornatics!fedoraproject.org
+	Independent until 2017-07-01
+	Liagora from 2017-07-01 until 2017-08-01
+	Abolis from 2017-08-01 until 2018-04-01
+	Independent from 2018-04-01 until 2021-06-01
+	Microbiome Studio · from 2021-06-01
+biosugar0: biosugar0!gmail.com, biosugar0!users.noreply.github.com
+	Independent until 2021-02-01
+	Japan Society from 2021-02-01 until 2021-04-01
+	TEDxYouth!Tokyo from 2021-04-01 until 2022-03-01
+	ELSA from 2022-03-01 until 2022-05-01
+	Potentialist Global from 2022-05-01
+bipashant: bipashant!users.noreply.github.com
+	Leapfrog until 2016-12-01
+	Sanokam from 2016-12-01 until 2018-09-01
+	iNepal from 2018-09-01 until 2021-02-01
+	Sentia Australia from 2021-02-01 until 2021-05-01
+	Sherpa Delivery from 2021-05-01
+bipuladh: badhikar!redhat.com, bipuladh!users.noreply.github.com
+	Independent until 2019-08-01
+	Red Hat Inc. from 2019-08-01
+birapjr: birapjr!users.noreply.github.com
+	Lexmark International Inc. until 2016-01-01
+	ScaleHub from 2016-01-01 until 2018-09-01
+	Seven.One from 2018-09-01 until 2021-10-01
+	Opentext Inc. from 2021-10-01
+birbilis: birbilis!users.noreply.github.com
+	Zoomicon
+birdayz: birdayz!users.noreply.github.com, johannes.bruederl!gmail.com
+	Capgemini until 2016-01-01
+	Independent from 2016-01-01 until 2017-03-01
+	it-economics from 2017-03-01 until 2017-09-01
+	Eon Cloud from 2017-09-01
 birdchan: birdchan!users.noreply.github.com, brianh1729!gmail.com, cemeyer+github!uw.edu
 	Microsoft Corporation
 birdstorm: birdstorm!users.noreply.github.com, samuelwyf!hotmail.com
@@ -4509,6 +4565,13 @@ camicarballo: camicarballo!users.noreply.github.com
 	Independent from 2016-08-01 until 2018-11-01
 	Intel Corporation from 2018-11-01 until 2019-10-01
 	Independent from 2019-10-01
+camigira: camigira!users.noreply.github.com
+	Bancolumbia (Grupo Bancolumbia) until 2014-08-01
+	Independent from 2014-08-01 until 2014-11-01
+	Intelledox from 2014-11-01 until 2019-07-01
+	Smart from 2019-07-01 until 2021-12-01
+	Independent from 2021-12-01 until 2022-03-01
+	Xero from 2022-03-01
 camilaibs: camilaibs!gmail.com, camilaibs!users.noreply.github.com
 	Independent until 2015-10-01
 	Rocket from 2015-10-01 until 2016-09-01
@@ -20562,6 +20625,8 @@ drwx: drwx!users.noreply.github.com
 drx777: david.rekowski!gmx.de, djmarcin!gmail.com, drx777!users.noreply.github.com
 	Haeger until 2016-04-01
 	Make.TV from 2016-04-01
+dry923: dry923!users.noreply.github.com
+	Red Hat Inc.
 dryaf: dryaf!users.noreply.github.com
 	secret
 drzaeus77: bblanco!gmail.com, bblanco!plumgrid.com
@@ -22767,6 +22832,8 @@ efabens: efabens!users.noreply.github.com
 	PEAK6 Investments L.P. from 2022-02-01
 efexen: efexen!users.noreply.github.com, fxn!fxndev.com
 	Ville Hellman (FxN)
+effi-ofer: effi-ofer!users.noreply.github.com
+	International Business Machines Corporation
 effigies: effigies!gmail.com, effigies!users.noreply.github.com
 	Independent
 effitient: effitient!users.noreply.github.com
@@ -23851,65 +23918,3 @@ elukey: elukey!users.noreply.github.com
 elvanja: elvanja!gmail.com, elvanja!users.noreply.github.com
 	lnfobip d.o.o until 2017-01-01
 	ClubCollect from 2017-01-01
-elvinjgalarza: elvinjgalarza!users.noreply.github.com, elvinjohngalarza!ibm.com
-	Independent until 2017-08-01
-	Independent from 2017-08-01 until 2018-05-01
-	Dell from 2018-05-01 until 2018-12-01
-	Google LLC from 2018-12-01 until 2019-05-01
-	International Business Machines Corporation from 2019-05-01 until 2019-08-01
-	Twenty from 2019-08-01 until 2019-12-01
-	International Business Machines Corporation from 2019-12-01
-elvinongbl: boon.leong.ong!intel.com, elvinongbl!gmail.com
-	Intel Corporation
-elviraux: elviraux!users.noreply.github.com
-	Independent until 2015-09-01
-	Skuuper from 2015-09-01 until 2016-03-01
-	Cisco from 2016-03-01
-elvis-cai: elvis-cai!users.noreply.github.com, elvis.cai!airwallex.com
-	Ericsson until 2016-07-01
-	oTMS from 2016-07-01 until 2018-03-01
-	Airwallex from 2018-03-01
-elweb9858: elweb9858!users.noreply.github.com
-	Microsoft Corporation
-elwinar: elwinar!users.noreply.github.com, peter.rafaj!gmail.com, romain.baugue!elwinar.com
-	CapitalData until 2015-07-01
-	Calypso from 2015-07-01 until 2015-10-01
-	Synthesio from 2015-10-01
-elyscape: eli.young!bluescape.com, elyscape!gmail.com, elyscape!users.noreply.github.com
-	Bluescape
-elyzion: elyzion!users.noreply.github.com
-	Business Bank until 2015-07-01
-	PONOS from 2015-07-01 until 2018-03-01
-	Yahoo! Inc. from 2018-03-01 until 2018-12-01
-	Telcoin from 2018-12-01 until 2019-12-01
-	Mercari Inc from 2019-12-01 until 2022-10-01
-	WASSHA from 2022-10-01
-elyzov-plesk: elyzov-plesk!users.noreply.github.com
-	Independent
-ema: ema!linux.it, ema!users.noreply.github.com
-	Independent
-emacski: emacski!users.noreply.github.com
-	UrtheCast Corp until 2017-01-01
-	Independent from 2017-01-01
-emaderer: emaderer!users.noreply.github.com, eyal.maderer!gmail.com
-	VMware Inc. until 2014-08-01
-	Independent from 2014-08-01 until 2015-01-01
-	VMware Inc. from 2015-01-01 until 2018-05-01
-	Twitter Inc. from 2018-05-01 until 2021-06-01
-	Splunk Inc. from 2021-06-01
-emadolsky: emadolsky!users.noreply.github.com
-	Independent until 2016-08-01
-	Avaanegar from 2016-08-01 until 2016-11-01
-	Independent from 2016-11-01 until 2017-04-01
-	Avaanegar from 2017-04-01 until 2017-06-01
-	Independent from 2017-06-01 until 2017-09-01
-	Cafe Bazaar from 2017-09-01 until 2019-11-01
-	Sotoon from 2019-11-01 until 2021-10-01
-	Booking.com B.V. from 2021-10-01
-emadrid: emadrid!users.noreply.github.com
-	Civitas Learning
-emagana: emagana!gmail.com
-	Cisco until 2014-07-18
-	Workday Inc. from 2014-07-18
-emailbob: boblee!google.com
-	Google LLC

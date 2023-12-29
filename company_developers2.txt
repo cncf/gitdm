@@ -2,6 +2,13 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Bloomberg L.P.:
+	desenna: desenna!users.noreply.github.com from 2018-03-01
+	plumenator: karthik.ravikanti!gmail.com, plumenator!users.noreply.github.com from 2017-08-01 until 2018-01-01
+	popcor255: popcor255!users.noreply.github.com from 2022-10-01
+	vsinghai: varunsinghai!outlook.com from 2021-05-01 until 2021-08-01
+Bloomberg PolarLake:
+	fabriziofortino: fabrizio.fortino!gmail.com, fabriziofortino!users.noreply.github.com from 2014-01-01 until 2015-09-01
 Bloomberg Second Measure:
 	terry-sm: terry-sm!users.noreply.github.com from 2018-12-01 until 2021-01-01
 	tessr: tessr!users.noreply.github.com from 2018-12-01 until 2021-01-01
@@ -489,6 +496,8 @@ Bolt Data:
 	spark4: spark4!users.noreply.github.com from 2016-08-01 until 2016-09-01
 BoltSource:
 	thebigredgeek: rhyneandrew!gmail.com, thebigredgeek!users.noreply.github.com from 2018-06-01
+Boltica:
+	HatiCode: alexandre.steppe!gmail.com from 2016-05-01 until 2019-01-01
 Bolzplatz Eichenau:
 	sondabar: sondabar!users.noreply.github.com
 BombBomb Inc.:
@@ -529,6 +538,8 @@ Bonliva:
 	rogeralsing: rogeralsing!users.noreply.github.com from 2017-08-01
 Bonnier News Tech:
 	cgunning: cgunning!users.noreply.github.com, christoffer.gunning!exmc02pt3pyfvh8.ad.bonniernews.se, christoffergunning!gmail.com
+Bonree Data:
+	Oseenix: Oseenix!users.noreply.github.com from 2015-06-01 until 2018-07-01
 Bonsai:
 	vigensahakyan: vigensahakyan!users.noreply.github.com from 2018-11-01 until 2020-01-01
 Bonsai Branding:
@@ -2849,6 +2860,7 @@ CERN:
 	andronat: anastasis90!yahoo.gr, andronat!users.noreply.github.com until 2015-09-01
 	antonionappi88: antonionappi88!users.noreply.github.com from 2015-08-01
 	apeters1971: andreas.joachim.peters!cern.ch
+	arbreezy: arisbreezy!protonmail.ch from 2015-10-01 until 2016-11-01
 	benjamin-bergia: benjamin-bergia!users.noreply.github.com
 	chinmay22897: chinmay228!gmail.com, chinmay22897!users.noreply.github.com from 2019-07-01 until 2020-03-01
 	cjdcordeiro: cjdcordeiro!users.noreply.github.com until 2017-03-01
@@ -4471,6 +4483,8 @@ Cando Image:
 	juckerf: juckerf!users.noreply.github.com from 2021-01-01
 CandorWorks:
 	sarab97: sarab97!users.noreply.github.com from 2018-12-01 until 2022-03-01
+Candyspace Media:
+	tsebastiani: tsebastiani!users.noreply.github.com from 2016-07-01 until 2017-01-01
 Cane Creek Cycling Components:
 	spencergilbert: Spencer.Gilbert!gmail.com, pranaykothapalli!gmail.com, spencergilbert!users.noreply.github.com from 2015-02-01 until 2015-06-01
 Canner:
@@ -4842,6 +4856,7 @@ Capgemini:
 	robinlieb: robinlieb!users.noreply.github.com from 2015-03-01 until 2015-08-01
 	saneera: saneera!gmail.com, saneera!users.noreply.github.com from 2019-12-01
 	scbjans: scbjans!users.noreply.github.com from 2015-06-01
+	shivamdurgbuns: shivamdurgbuns!gmail.com from 2018-09-01 until 2021-10-01
 	snowp: aickck!gmail.com, snowp!squareup.com, snowp!users.noreply.github.com from 2014-06-01 until 2014-08-01
 	soumitasardar: soumitasardar!users.noreply.github.com from 2015-04-01 until 2018-01-01
 	souzabrunoftw: bruno.ssouza!outlook.com until 2015-08-01
@@ -4879,6 +4894,7 @@ Capillary:
 Capita:
 	EdwardBetts: EdwardBetts!users.noreply.github.com, edward!4angle.com
 	MartiUK: MartiUK!users.noreply.github.com from 2015-09-01 until 2016-03-01, from 2018-03-01 until 2018-08-01
+	arbreezy: arisbreezy!protonmail.ch from 2019-02-01 until 2020-11-01
 	gavin-io: gavin-io!users.noreply.github.com from 2017-10-01 until 2018-03-01
 	kinihun: kinihun!users.noreply.github.com from 2019-04-01 until 2020-02-01
 	xiaods: xiaods!gmail.com, xiaods!users.noreply.github.com from 2018-05-01
@@ -7720,6 +7736,7 @@ Cisco:
 	shmull: shmulik.ladkani!gmail.com until 2015-03-01
 	shree007: shree007!users.noreply.github.com, shreepgu!cisco.com, shreeprakashagrahari05!gmail.com from 2020-04-01
 	shrenikjain38: shrenikj!cisco.com, shrenikjain38!users.noreply.github.com
+	shreyasar2202: shreyasar2202!users.noreply.github.com from 2019-01-01 until 2021-06-01
 	shumone: alshum!cisco.com, shumone!users.noreply.github.com
 	shuwpan: shuwpan!cisco.com, shuwpan!users.noreply.github.com
 	shyaamsn: shyaamsn!users.noreply.github.com until 2017-07-01
@@ -7815,7 +7832,7 @@ Cisco:
 	vonjones: vonjones!users.noreply.github.com until 2017-11-01
 	vutnguye-te: vutnguye!cisco.com, vutnguye-te!users.noreply.github.com
 	vvm-broadsoft: vvm-broadsoft!users.noreply.github.com from 2018-04-01 until 2018-12-01
-	wabouhamad: wabouham!redhat.com until 2016-07-01
+	wabouhamad: wabouham!redhat.com, wabouhamad!users.noreply.github.com until 2016-07-01
 	wannabesrevenge: schultz100190!gmail.com, wannabesrevenge!users.noreply.github.com
 	weiling61: weiling61!users.noreply.github.com until 2016-08-01
 	willkurk: wkurkian!cisco.com, wkurkian3!gmail.com
@@ -10719,6 +10736,8 @@ Colt Telecom Services AG:
 	asosso: asosso!users.noreply.github.com, info!andreasosso.com from 2015-10-01 until 2016-02-01
 Colu:
 	valery-zhurbenko: valery-zhurbenko!users.noreply.github.com from 2016-05-01 until 2019-12-01
+Columbia Road:
+	samutamm: samutamm!users.noreply.github.com from 2017-02-01 until 2017-09-01
 Column:
 	irl-segfault: irl-segfault!users.noreply.github.com from 2021-06-01
 Col·legi Oficial d’Enginyeria en Informàtica de Catalunya (COEINF):
@@ -11111,6 +11130,8 @@ Compellotech:
 	JarrodJ83: JarrodJ83!users.noreply.github.com until 2017-02-01
 Comperio:
 	babadofar: babadofar!users.noreply.github.com until 2015-11-01
+Competences Factory:
+	yashashreesuresh: yashashreesuresh!gmail.com, yashashreesuresh!users.noreply.github.com from 2019-06-01 until 2019-10-01
 Compie:
 	RazGvili: RazGvili!users.noreply.github.com from 2016-10-01 until 2018-12-01
 	YanivD: YanivD!users.noreply.github.com from 2015-12-01 until 2018-05-01
@@ -15082,6 +15103,7 @@ DaoCloud Network Technology Co. Ltd.:
 	Haleygo: Haleygo!users.noreply.github.com, hui.wang!daocloud.io
 	HeavenTonight: HeavenTonight!users.noreply.github.com
 	HuiWang0025: 39937150+huiwang0025!users.noreply.github.com
+	Icarus9913: Icarus9913!users.noreply.github.com, icaruswu66!qq.com from 2021-09-01
 	Iceber: Iceber!user.noreply.github.com, caiwei95!hotmail.com, wei.cai-nat!daocloud.io
 	JaredTan95: JaredTan95!users.noreply.github.com, jian.tan!daocloud.io
 	JiaweiGithub: JiaweiGithub!users.noreply.github.com, jiawei.liu!daocloud.io
@@ -15140,6 +15162,7 @@ DaoCloud Network Technology Co. Ltd.:
 	heliping: heliping!users.noreply.github.com, liping.he!daocloud.io
 	huan555: huan555!users.noreply.github.com
 	huangjiuyuan: huangjiuyuan!163.com, huangjiuyuan!users.noreply.github.com, jiuyuan.huang!daocloud.io, stian.bay!outlook.com from 2017-05-01 until 2018-09-01
+	ii2day: ii2day.zoro!gmail.com
 	jamiefang: jamie.fang!daocloud.io, jamiefang!users.noreply.github.com
 	jiecloud: jiecloud!users.noreply.github.com
 	jiuker: 2818723467!qq.com, jiuker!users.noreply.github.com
@@ -15291,6 +15314,7 @@ Dassault Systemes North America:
 	Havret: Havret!users.noreply.github.com, h4vret!gmail.com until 2017-09-01
 	morsok: morsok!users.noreply.github.com, taradof!gmail.com from 2018-05-01 until 2018-09-01
 	rverma-uc: rverma-uc!users.noreply.github.com from 2015-12-01 until 2017-06-01
+	samutamm: samutamm!users.noreply.github.com from 2019-02-01 until 2020-02-01
 	vcarluer: 644568491!qq.com, vcarluer!users.noreply.github.com from 2016-06-01 until 2019-09-01
 Dassault Systèmes 3DEXCITE:
 	NeoSpark314: holger.dammertz!googlemail.com
@@ -15860,6 +15884,8 @@ Datatonic:
 	matthiasa4: matthiasa4!users.noreply.github.com from 2016-09-01 until 2018-04-01
 Datatrix Healthcare:
 	varunagarwal315: varunagarwal315!users.noreply.github.com from 2015-10-01 until 2016-04-01
+Datatron:
+	TylerGillson: TylerGillson!users.noreply.github.com from 2020-08-01 until 2022-04-01
 Datavalet:
 	bkanuka: bkanuka!gmail.com, bkanuka!users.noreply.github.com until 2015-02-01
 Dataworkz:
@@ -16352,15 +16378,3 @@ Deimos Cloud (Pty) Ltd:
 	hydeenoble: hydeenoble!users.noreply.github.com, hydeenoble39!gmail.com from 2019-07-01 until 2021-04-01
 	llabake: lemboyelabake!gmail.com from 2021-03-01
 	nerdeveloper: nerdeveloper!users.noreply.github.com, odirionye!gmail.com from 2021-04-01
-Deis:
-	bacongobbler: mfisher!deis.com until 2017-05-01
-	flynnduism: abdurrahman!akoken.com, flynnduism!gmail.com, flynnduism!users.noreply.github.com, g.wyszynski!livechatinc.com from 2016-05-01 until 2017-04-01
-	jackfrancis: jack!deis.com, jack.francis!microsoft.com, jackfrancis!gmail.com, jackfrancis!users.noreply.github.com from 2015-04-01 until 2017-04-01
-	jdumars: jasinger!microsoft.com, jdumars!gmail.com, jdumars!users.noreply.github.com, magnomp!gmail.com from 2016-03-01 until 2017-04-01
-	kmala: ba!berkantaydin.com.tr, keerthan.mala!gmail.com, kmala!deis.com, kmala!engineyard.com, kmala!users.noreply.github.com, kremala!amazon.com from 2016-02-01 until 2016-12-01
-	krancour: kent!akuity.io, kent!deis.com, kent.rancourt!gmail.com, kent.rancourt!microsoft.com, krancour!users.noreply.github.com, krancourt!engineyard.com from 2015-07-15 until 2017-04-01
-	lachie83: lachie83!users.noreply.github.com, lachlan.evenson!microsoft.com from 2016-07-15 until 2017-04-01
-	mboersma: Matt.Boersma!microsoft.com, daniel.joos87!googlemail.com, matt!sprout.org, mboersma!deis.com, mboersma!engineyard.com, mboersma!users.noreply.github.com, rinick!gmail.com until 2017-04-01
-	rimusz: rimusz!users.noreply.github.com, rmocius!gmail.com from 2015-09-01 until 2016-10-01
-	sgoings: segoings!microsoft.com, seth!deis.com, sethgoings!gmail.com, sgoings!deis.com, sgoings!engineyard.com, sgoings!users.noreply.github.com from 2015-06-01 until 2017-04-01
-	vdice: vadice!microsoft.com, vaughn!deis.com, vdice!deis.com, vdice!users.noreply.github.com from 2016-02-01 until 2017-04-01

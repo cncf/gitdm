@@ -2,6 +2,18 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Deis:
+	bacongobbler: mfisher!deis.com until 2017-05-01
+	flynnduism: abdurrahman!akoken.com, flynnduism!gmail.com, flynnduism!users.noreply.github.com, g.wyszynski!livechatinc.com from 2016-05-01 until 2017-04-01
+	jackfrancis: jack!deis.com, jack.francis!microsoft.com, jackfrancis!gmail.com, jackfrancis!users.noreply.github.com from 2015-04-01 until 2017-04-01
+	jdumars: jasinger!microsoft.com, jdumars!gmail.com, jdumars!users.noreply.github.com, magnomp!gmail.com from 2016-03-01 until 2017-04-01
+	kmala: ba!berkantaydin.com.tr, keerthan.mala!gmail.com, kmala!deis.com, kmala!engineyard.com, kmala!users.noreply.github.com, kremala!amazon.com from 2016-02-01 until 2016-12-01
+	krancour: kent!akuity.io, kent!deis.com, kent.rancourt!gmail.com, kent.rancourt!microsoft.com, krancour!users.noreply.github.com, krancourt!engineyard.com from 2015-07-15 until 2017-04-01
+	lachie83: lachie83!users.noreply.github.com, lachlan.evenson!microsoft.com from 2016-07-15 until 2017-04-01
+	mboersma: Matt.Boersma!microsoft.com, daniel.joos87!googlemail.com, matt!sprout.org, mboersma!deis.com, mboersma!engineyard.com, mboersma!users.noreply.github.com, rinick!gmail.com until 2017-04-01
+	rimusz: rimusz!users.noreply.github.com, rmocius!gmail.com from 2015-09-01 until 2016-10-01
+	sgoings: segoings!microsoft.com, seth!deis.com, sethgoings!gmail.com, sgoings!deis.com, sgoings!engineyard.com, sgoings!users.noreply.github.com from 2015-06-01 until 2017-04-01
+	vdice: vadice!microsoft.com, vaughn!deis.com, vdice!deis.com, vdice!users.noreply.github.com from 2016-02-01 until 2017-04-01
 Deis Inc. (EngineYard):
 	adamreese: adam!reese.io, adamreese!users.noreply.github.com until 2017-04-01
 	crigor: crigor!users.noreply.github.com
@@ -3008,6 +3020,8 @@ Dreamplay Costa Rica:
 	roymartinezblanco: roymartinezblanco!users.noreply.github.com from 2016-08-01 until 2019-10-01
 Dreams Innovative:
 	dmytrohridin: dmytro.hridin!gmail.com until 2015-03-01
+Dreamtek Industries:
+	Burning1020: Burning1020!users.noreply.github.com, burning9699!gmail.com from 2017-06-01 until 2017-10-01, from 2018-06-01 until 2018-09-01
 Dreamus Company (드림어스컴퍼니):
 	dplusic: dplusic!gmail.com, dplusic!users.noreply.github.com from 2019-04-01
 Dreamware:
@@ -3527,6 +3541,7 @@ Dynatrace LLC:
 	mviitane: mviitane!users.noreply.github.com
 	namratachaudhary: namratachaudhary!users.noreply.github.com from 2019-02-01
 	oertl: oertl!users.noreply.github.com from 2015-03-01
+	patrickpichler: patrickpichler!users.noreply.github.com from 2020-07-01
 	pbrzoska-sumo: pbrzoska-sumo!users.noreply.github.com until 2019-02-01
 	pchila: paolo.chila!dynatrace.com from 2020-05-01
 	philipp-hinteregger: philipp-hinteregger!users.noreply.github.com from 2022-08-01
@@ -4035,6 +4050,8 @@ ENCODE:
 	toninis: stamatiou.antonis!gmail.com, toninis!users.noreply.github.com from 2018-05-01 until 2019-06-01
 ENCOTECH:
 	klucsik: klucsik.krisztian!gmail.com from 2017-08-01 until 2019-01-01
+END:
+	arbreezy: arisbreezy!protonmail.ch from 2018-05-01 until 2019-02-01
 ENEA Software AB:
 	erosca: erosca!de.adit-jv.com, roscaeugeniu!gmail.com until 2015-12-01
 	maxinbjohn: maxin.john!enea.com
@@ -4955,6 +4972,8 @@ Echosec Systems:
 	ericmclachlan: ericmclachlan!gmail.com from 2019-08-01
 Echosens:
 	sylvain-rouquette: sylvain-rouquette!users.noreply.github.com from 2017-08-01 until 2018-04-01
+Echothrust:
+	proditis: proditis!users.noreply.github.com
 Eckelmann AG:
 	sandritter: michael.sandritter!aoe.com
 Eckert & Partner:
@@ -5299,6 +5318,8 @@ Egen:
 Egencia:
 	guillermomanzo: gmanzo!expedia.com from 2015-11-01 until 2017-05-01
 	johnewart: john!johnewart.net, john!unixninjas.org from 2015-10-01 until 2016-07-01
+Eggo:
+	HatiCode: alexandre.steppe!gmail.com from 2019-12-01 until 2020-09-01
 Eggplant Limited:
 	iantestplant: ian.parker!testplant.com until 2016-01-01
 Egis:
@@ -8731,6 +8752,7 @@ FHNW:
 FIA Robotics:
 	darthvader2: darthvader2!users.noreply.github.com from 2020-09-01
 FIAP:
+	josecastillolema: josecastillolema!gmail.com, josecastillolema!users.noreply.github.com from 2022-11-01 until 2022-12-01
 	thdotnet: thdotnet!users.noreply.github.com, thiago.custodio!hotmail.com from 2018-01-01 until 2019-01-01
 FIB:
 	ispmarin: ispmarin!users.noreply.github.com from 2018-06-01 until 2018-12-01
@@ -11522,6 +11544,8 @@ Framestore:
 	alexgeek: alexgeek!users.noreply.github.com from 2017-03-01 until 2020-01-01
 Framework Training:
 	rathko: radek!dataminelab.com, rathko!users.noreply.github.com
+Frami.io:
+	tsebastiani: tsebastiani!users.noreply.github.com from 2020-01-01 until 2021-11-01
 France Television:
 	desaintmartin: cdesaintmartin!wiremind.fr, cedric!desaintmartin.fr, desaintmartin!users.noreply.github.com from 2015-03-01 until 2018-03-01
 France Télévisions:
