@@ -2,6 +2,9 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Paragyte Technologies:
+	SukantGujar: SukantGujar!users.noreply.github.com, sukantgujar!yahoo.com
+	UtkarshYeolekar: utkarsh.yeolekar!gmail.com until 2018-09-01
 Parakeet:
 	from-nibly: Thatoneemail!gmail.com, from-nibly!users.noreply.github.com from 2019-08-01 until 2020-04-01
 	kentcdodds: kent!doddsfamily.us, kent+github!doddsfamily.us, kentcdodds!users.noreply.github.com until 2014-08-01
@@ -10704,7 +10707,7 @@ Red Hat Inc.:
 	wojnarfilip: wojnarfilip!users.noreply.github.com
 	wongma7: mattwon!amazon.com, mawong!redhat.com, wongma7!users.noreply.github.com from 2016-05-01 until 2017-08-01, from 2018-06-01 until 2019-05-01
 	workhardcc: workhardcc!126.com, workhardcc!users.noreply.github.com
-	wozniakjan: wozniakjan!users.noreply.github.com
+	wozniakjan: jawoznia!cisco.com, wozniak.jan!gmail.com, wozniakjan!users.noreply.github.com until 2018-08-01
 	wrichter: wrichter!users.noreply.github.com
 	wseaton: wseaton!users.noreply.github.com from 2018-10-01
 	wtam2018: 44041377+wtam2018!users.noreply.github.com, email.wtam!gmail.com, phil!gyford.com, wtam!redhat.com, wtam2018!users.noreply.github.com
@@ -16367,5 +16370,3 @@ Samsung Next:
 	betula: mail!betula.co from 2020-05-01 until 2020-11-01
 Samsung Research America Inc.:
 	electrocucaracha: chipahuac!hotmail.com, electrocucaracha!gmail.com, electrocucaracha!users.noreply.github.com, v.morales!samsung.com, victor.morales!intel.com from 2020-03-31
-Samsung RnD Noida:
-	prary: prary2!gmail.com from 2016-09-01 until 2017-07-01

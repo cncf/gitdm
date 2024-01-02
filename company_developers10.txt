@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Tresler:
+	stresler: stresler!users.noreply.github.com
 Tresorio:
 	Elassyo: Elassyo!users.noreply.github.com from 2020-09-01
 Tresorit:
