@@ -17413,7 +17413,7 @@ makkes: makkes!users.noreply.github.com
 	Hermes Germany GmbH from 2017-09-01 until 2019-02-01
 	D2iQ Inc. (f/k/a Mesosphere) from 2019-02-01 until 2022-07-01
 	Weaveworks Inc. from 2022-07-01 until 2023-12-31
-        Associmates GmbH from 2024-01-01
+	Associmates GmbH from 2023-12-31
 maklemenz: maklemenz!googlemail.com, maklemenz!users.noreply.github.com
 	Independent
 makocchi-git: makocchi!gmail.com, makocchi-git!users.noreply.github.com
