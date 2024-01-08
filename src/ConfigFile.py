@@ -98,6 +98,7 @@ def ParseDate (cdate):
     if not cdate:
         return None
     sdate = cdate.split ('-')
+    # print 'date: %s' % (sdate)
     return datetime.date (int (sdate[0]), int (sdate[1]), int (sdate[2]))
 
 
