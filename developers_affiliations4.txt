@@ -5,6 +5,8 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+elmarco: marcandre.lureau!gmail.com, marcandre.lureau!redhat.com
+	Red Hat Inc.
 elmariofredo: elmariofredo!users.noreply.github.com, mario!vejlupek.cz
 	TReXGlobal until 2014-10-01
 	EmbedIT from 2014-10-01
@@ -24097,6 +24099,3 @@ jleetyro: jleetyro!users.noreply.github.com
 	Tyro from 2017-03-01
 jlefrique: julien.lefrique!gmail.com, lefrique!marvell.com
 	Marvell International Ltd
-jlegoff: jlegoff!users.noreply.github.com, julien.legoff!gmail.com
-	Independent until 2017-07-01
-	New Relic Inc. from 2017-07-01

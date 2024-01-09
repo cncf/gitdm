@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+material data system:
+	corvus-ch: christian.haeusler!vshn.ch, corvus-ch!users.noreply.github.com until 2015-05-01
 mausworks:
 	briantopping: brian!coglative.com, briantopping!users.noreply.github.com
 maxcluster:
