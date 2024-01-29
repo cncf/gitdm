@@ -1882,6 +1882,12 @@ mkossoris: mkossoris!users.noreply.github.com
 	AWS from 2019-06-01
 mkouba: mkouba!users.noreply.github.com
 	Red Hat Inc.
+mkowalski: mko!redhat.com mkowalski!users.noreply.github.com m!kowalski.xyz
+	CERN until 2018-04-30
+	Swisscom from 2018-05-01 until 2019-04-30
+	ETH Zürich from 2019-05-01 until 2019-12-31
+	Anapaya Systems from 2020-01-01 until 2021-03-31
+	Red Hat Inc. from 2021-05-01
 mkozjak: limyaojie93!gmail.com, mario.kozjak!elpheria.com, mkozjak!users.noreply.github.com
 	Iskon until 2015-02-01
 	UniqCast from 2015-02-01 until 2018-03-01
