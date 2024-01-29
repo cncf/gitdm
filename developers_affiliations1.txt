@@ -2347,8 +2347,8 @@ AmazingJaze: jessesh!microsoft.com
 	Microsoft Corporation
 Ambresh: ambresh!ti.com
 	Texas Instruments Incorporated
-AmbrishRamachandiran : ambrish.r!@infosys.com
-        Infosys Limited
+AmbrishRamachandiran: AmbrishRamachandiran!users.noreply.github.com, ambrish.r!infosys.com
+	Infosys Limited
 AmbroiseCouissin: AmbroiseCouissin!users.noreply.github.com, ambroise.couissin!gmail.com
 	Quantifeed until 2015-09-01
 	8 Securities from 2015-09-01 until 2017-09-01
@@ -14514,8 +14514,12 @@ Karthik-13: Karthik-13!users.noreply.github.com
 	Independent until 2018-01-01
 	Coda Platform from 2018-01-01 until 2020-08-01
 	Presidio Inc. from 2020-08-01
-Karthik-K-N: Karthik-K-N!users.noreply.github.com, karthikkn1997!gmail.com
+Karthik-K-N: Karthik-K-N!users.noreply.github.com
+	Independent until 2015-04-15
 	International Business Machines Corporation from 2015-04-15
+Karthik-K-N: karthikkn1997!gmail.com
+	Independent until 2015-04-15
+	International Business Machines Corporation from 2015-04-15 until 2020-05-01
 Karthik-PM: Karthik-PM!users.noreply.github.com
 	Independent until 2021-11-01
 	Vizzbee from 2021-11-01 until 2022-01-01
@@ -15121,8 +15125,6 @@ KrishAryan: KrishAryan!users.noreply.github.com
 	Independent
 Krishnamohan-Yerrabilli: Krishnamohan-Yerrabilli!users.noreply.github.com
 	Independent
-krishnakv : krishna_kumar08!@infosys.com	
-        Infosys Limited
 KrissiWi: KrissiWi!users.noreply.github.com, kristin!loodse.com
 	Independent until 2015-03-01
 	Finsbury from 2015-03-01 until 2015-12-01
@@ -23807,10 +23809,3 @@ SergeTupchiy: SergeTupchiy!users.noreply.github.com
 	InPost from 2023-06-01
 SergejSalnikov: skill!google.com
 	Google LLC
-Sergey-Kizimov: Sergey-Kizimov!users.noreply.github.com
-	Alfa Banking Group until 2020-08-01
-	ONE from 2020-08-01
-SergeyDyasli: sergey.dyasli!citrix.com
-	Citrix Systems Inc.
-SergeyGorenko: sergeygo!mellanox.com
-	Mellanox

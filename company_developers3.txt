@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Decisive Data:
+	mattmccleary: mattmccleary!users.noreply.github.com from 2015-03-01 until 2016-01-01
+Deckweiss:
+	klausbetz: klausbetz!users.noreply.github.com from 2020-11-01
+Declarative Systems:
+	GeoffWilliams: GeoffWilliams!users.noreply.github.com from 2017-03-01
 DeclareDesign:
 	nfultz: nfultz!gmail.com, nfultz!users.noreply.github.com from 2017-10-01 until 2019-02-01
 Decode:
@@ -3699,8 +3705,8 @@ Dynatrace LLC:
 	johannes-b: johannes-b!users.noreply.github.com from 2018-04-01
 	johnrusaw: johnrusaw!users.noreply.github.com
 	josecolella: josecolella!users.noreply.github.com, josecolella!yahoo.com from 2014-12-01 until 2021-07-01
-	julianocosta89: julianocosta89!outlook.com, julianocosta89!users.noreply.github.com
-	julianocosta89-dt: julianocosta89-dt!users.noreply.github.com
+	julianocosta89: julianocosta89!outlook.com, julianocosta89!users.noreply.github.com from 2019-01-01 until 2023-12-31
+	julianocosta89-dt: julianocosta89-dt!users.noreply.github.com from 2019-01-01 until 2023-12-31
 	knecel: necel93!gmail.com from 2014-07-01 until 2016-09-01
 	kristofre: kristofre!users.noreply.github.com
 	krzema12: krzema12!users.noreply.github.com from 2021-01-01 until 2022-07-01
@@ -4721,6 +4727,7 @@ ETH Zürich:
 	lukasmoellerch: mail!lukas-moeller.ch from 2020-09-01
 	mageirakos: mageirakos!users.noreply.github.com from 2022-11-01
 	mahdi-asadpour-rr: mahdi-asadpour-rr!users.noreply.github.com until 2015-08-01
+	mkowalski: m!kowalski.xyz, mko!redhat.com, mkowalski!users.noreply.github.com from 2019-04-30 until 2019-12-31
 	simu: simu!users.noreply.github.com until 2018-10-01
 	soramichi: akiyama!m.soramichi.jp from 2019-04-01
 	zakkg3: zakkg3!gmail.com, zakkg3!users.noreply.github.com from 2019-06-01
@@ -14453,6 +14460,7 @@ Giant Swarm GmbH:
 	fiunchinho: fiunchinho!users.noreply.github.com, github!armesto.net from 2019-10-01
 	hectorj2f: hectorj!gmail.com, hectorj2f!users.noreply.github.com, hfernandez!mesosphere.com from 2015-04-01 until 2017-02-01
 	jgsqware: garciagonzalez.julien!gmail.com, jgsqware!users.noreply.github.com, julien!giantswarm.io
+	jkremser: jkremser!users.noreply.github.com from 2022-11-01 until 2023-12-09
 	kopiczko: kopiczko!gmail.com, kopiczko!users.noreply.github.com from 2017-05-01
 	luebken: luebken!users.noreply.github.com, matthias.luebken!gmail.com, namngology!gmail.com until 2014-06-01, from 2014-06-01 until 2016-03-01
 	marians: marian!giantswarm.io, marians!users.noreply.github.com
