@@ -13639,8 +13639,14 @@ paulmon: paulmon!microsoft.com
 paulnivin: paulnivin!users.noreply.github.com, pfisher!lyft.com
 	Twitter Inc. until 2015-09-01
 	Lyft Inc. from 2015-09-01
-paulofrazao: paulo!weave.works, paulofrazao!users.noreply.github.com, pfrazao!gmail.com
-	Weaveworks Inc.
+paulofrazao: paulo.frazao!solo.io, paulofrazao!users.noreply.github.com
+	Forgerock from 2015-09-01 until 2018-03-01
+	Suse from 2018-02-01 until 2019-01-01
+	Docker from 2019-01-01 until 2020-02-01
+	Splunk from 2020-01-01 until 2021-02-01
+	Rancher Labs from 2021-02-01 until 2021-09-01
+	Weaveworks from 2021-09-01 until 2023-12-31
+	Solo.io from 2024-01-08
 paulolieuthier: paulolieuthier!users.noreply.github.com
 	LXQt until 2016-04-01
 	Incognia from 2016-04-01
