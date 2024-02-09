@@ -2,8 +2,6 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
-finesse.io:
-	petemill: miller.pete!gmail.com, petemill!users.noreply.github.com
 finleap:
 	jastBytes: github!jast-bytes.de, jastBytes!users.noreply.github.com from 2015-09-01
 finleap connect GmbH:
