@@ -5,6 +5,17 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+eerhardt: eerhardt!users.noreply.github.com, eric.erhardt!microsoft.com
+	Microsoft Corporation
+eero-t: eero-t!users.noreply.github.com, eero.t.tamminen!intel.com
+	Intel Corporation
+eeshwar-brcm: yeeswar!broadcom.com
+	Broadcom Corporation
+eesprit: eesprit!users.noreply.github.com
+	Independent until 2015-03-01
+	Objectif Libre from 2015-03-01 until 2016-12-01
+	Independent from 2016-12-01 until 2017-01-01
+	Viareport from 2017-01-01
 eestewart: eestewart!users.noreply.github.com
 	Cisco
 eeyyee: eeyyee!users.noreply.github.com, zhanghao.lc!inspur.com, zhanghaozhanghao6!gmail.com
@@ -8465,7 +8476,7 @@ gecube: gb12335!gmail.com, gecube!users.noreply.github.com
 	X5 Retail from 2019-04-01 until 2020-08-01
 	Raiffeisen Bank Russia from 2020-08-01 until 2022-06-01
 	Workato from 2022-06-01 until 2022-10-01
-	Zodia Markets from 2022-10-01
+	Zodia Markets from 2022-10-01 until 2023-12-21
 	Ænix from 2023-12-21
 ged15: charlie!cooperca.uk, g.sedbaras!gmail.com, ged15!users.noreply.github.com
 	MessageBird
@@ -23914,23 +23925,3 @@ jgasparakis: joseph.gasparakis!intel.com
 	Intel Corporation
 jgbaum: jgbaum!users.noreply.github.com
 	Independent
-jgbernalp: jgbernalp!users.noreply.github.com
-	Sancho BBDO until 2016-02-01
-	Smartenit from 2016-02-01 until 2017-07-01
-	Tuatara from 2017-07-01 until 2017-12-01
-	HolidayCheck from 2017-12-01 until 2020-12-01
-	Joyn from 2020-12-01 until 2021-12-01
-	Independent from 2021-12-01 until 2022-01-01
-	Red Hat Inc. from 2022-01-01
-jgeewax: jgeewax!users.noreply.github.com, jj!geewax.org
-	Google LLC
-jgehrcke: jgehrcke!googlemail.com, jgehrcke!users.noreply.github.com
-	Independent until 2015-10-01
-	Mesosphere from 2015-10-01 until 2019-10-01
-	TBD - TV from 2019-10-01
-jgelens: jeffrey!gelens.org, jgelens!users.noreply.github.com
-	Noppo
-jgeliex: jonathanx.gelie!intel.com
-	Intel Corporation
-jgeraerts: jgeraerts!users.noreply.github.com, jo!umask.net
-	Softlution

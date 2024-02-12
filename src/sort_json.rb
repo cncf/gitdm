@@ -15,6 +15,7 @@ def sort_json(json_file)
     ary = ary.sort_by do |aff|
       ary2 = aff.split(/\s*<\s*/)
       dts = ary2.length >= 2 ? ary2[1] : '2100-01-01'
+      # p dts
       Date.strptime(dts,"%Y-%m-%d").to_time.to_i
     end
     affs2 = ary.join(', ')

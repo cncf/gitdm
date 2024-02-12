@@ -2,6 +2,9 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+SVT:
+	johanbaath: johanbaath!users.noreply.github.com from 2017-03-01 until 2017-11-01
+	zeeraw: zeeraw!users.noreply.github.com from 2020-09-01
 SW Maestro · Apprenticeship:
 	DPS0340: DPS0340!users.noreply.github.com, optional.int!kakao.com from 2022-04-01
 SWARCO Traffic Systems:
@@ -16475,7 +16478,3 @@ Timber.io:
 	lukesteensen: lukesteensen!users.noreply.github.com from 2018-08-01
 TimberTom:
 	futjikato: futjikato!users.noreply.github.com from 2018-07-01
-Timbira:
-	fabriziomello: fabriziomello!gmail.com, fabriziomello!users.noreply.github.com until 2019-11-01
-Timbuk2:
-	NickSulistio: NickSulistio!users.noreply.github.com from 2019-01-01 until 2020-01-01

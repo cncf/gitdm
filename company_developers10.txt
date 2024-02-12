@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Timbira:
+	fabriziomello: fabriziomello!gmail.com, fabriziomello!users.noreply.github.com until 2019-11-01
+Timbuk2:
+	NickSulistio: NickSulistio!users.noreply.github.com from 2019-01-01 until 2020-01-01
 Time Inc.:
 	enaqx: a.will.farley!gmail.com, enaqx!users.noreply.github.com, enaqxx!gmail.com, nick-public!slicketty.com, yask123!gmail.com from 2016-07-01 until 2016-09-01
 	marcochs: marcochs!users.noreply.github.com, ochs!marcochs.com until 2018-03-01
@@ -3921,6 +3925,8 @@ University of Surrey:
 	ganchandrasekaran: ganchandrasekaran!users.noreply.github.com until 2016-12-01
 University of Technology Business and Design in Wismar:
 	mikaelh: mikael!try2.se, mikaelh!users.noreply.github.com until 2015-11-01
+University of Tsukuba:
+	Okabe-Junya: Okabe-Junya!users.noreply.github.com, junya.okabe!websci.cs.tsukuba.ac.jp from 2020-04-01
 University of Washington:
 	campionfellin: campionfellin!users.noreply.github.com from 2016-09-01 until 2017-06-01
 	mbforbes: mbforbes!users.noreply.github.com
@@ -9727,7 +9733,7 @@ WeddingGuest:
 Wednesdays:
 	eladb: eladb!users.noreply.github.com until 2014-06-01
 Wedos:
-	kvaps: andrei.kvapil!wedos.com, andrey.kvapil!flant.com, kvaps!users.noreply.github.com, kvapss!gmail.com until 2021-12-01
+	kvaps: andrei.kvapil!aenix.io, andrei.kvapil!wedos.com, andrey.kvapil!flant.com, kvaps!users.noreply.github.com, kvapss!gmail.com until 2021-12-01
 Weebly:
 	IvanTopolcic: IvanTopolcic!users.noreply.github.com from 2018-05-01 until 2018-06-01
 	jonathonbattista: jonathonbattista!users.noreply.github.com from 2016-06-01 until 2018-01-01
@@ -11068,6 +11074,7 @@ Workable Inc:
 	pkaramol: pkaramol!hotmail.com, pkaramol!users.noreply.github.com from 2019-05-01
 Workato:
 	eyusupov: eyusupov!gmail.com, eyusupov!users.noreply.github.com from 2019-10-01
+	gecube: gb12335!gmail.com, gecube!users.noreply.github.com from 2022-06-01 until 2022-10-01
 	notmaxx: notmaxx!users.noreply.github.com from 2016-09-01
 	sangwa: sangwa!users.noreply.github.com from 2021-01-01 until 2021-09-01
 	sitano: john.koepi!gmail.com from 2021-06-01
@@ -14280,6 +14287,8 @@ Zocdoc Inc.:
 	viviyww: castarco!litipk.com from 2018-06-01
 	vjanelle: vjanelle!salesforce.com from 2018-06-01
 	vkez: ezhilan.vk!hpe.com from 2018-06-01
+Zodia Markets:
+	gecube: gb12335!gmail.com, gecube!users.noreply.github.com from 2022-10-01 until 2023-12-21
 Zodiac Aerospace:
 	ctusar: cory.tusar!pid1solutions.com from 2017-01-01
 Zodio:
@@ -16648,14 +16657,3 @@ fiberhome:
 	AlawnWong: AlawnWong!users.noreply.github.com, coolstar007!126.com
 figo:
 	moritzjohner-form3: moritzjohner-form3!users.noreply.github.com from 2017-07-01 until 2018-10-01
-figshare:
-	danielduduta: danielduduta!users.noreply.github.com
-	mircea-cosbuc: mircea-cosbuc!users.noreply.github.com until 2017-04-01
-fika.io:
-	blixt: bjh438-git!yahoo.com, blixt!users.noreply.github.com, me!blixt.nyc from 2017-02-01 until 2017-06-01
-financial:
-	nrobert13: nrobert13!gmail.com, nrobert13!users.noreply.github.com from 2016-03-01 until 2017-01-01
-fineart:
-	znbang: znbang!gmail.com, znbang!users.noreply.github.com
-finesse.io:
-	petemill: miller.pete!gmail.com, petemill!users.noreply.github.com
