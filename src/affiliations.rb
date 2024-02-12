@@ -60,8 +60,12 @@ def affiliations(affiliations_file, json_file, email_map)
     puts "#{source_type.capitalize} affiliation sources: #{eaffs.values.map { |v| v.values }.flatten.count { |v| v == source_type }}"
   end
 
+  # by default update mode checks for 'changes' column to have 'x' value
+  update_col = ENV['UPDATE_COL'] || "changes"
+  update_val = ENV['UPDATE_VAL'] || "x"
   update = !ENV['UPDATE'].nil?
   recheck = !ENV['RECHECK'].nil?
+  p [update, update_col, update_val]
 
   # Check for carriage returns in CSV file
   if update
@@ -131,9 +135,10 @@ def affiliations(affiliations_file, json_file, email_map)
       end
 
       # In update mode only take rows with column changes=x
-      x = h['changes']
+      x = h[update_col]
       x = x.strip if x
-      next if update && x != 'x'
+      next if update && x != update_val
+      next if update && update_val == '(all)' && x == ''
       nu += 1
 
       # Bots
