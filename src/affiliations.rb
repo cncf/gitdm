@@ -533,7 +533,7 @@ def affiliations(affiliations_file, json_file, email_map)
                   json_data[index]['source'] = source
                   if sync_to_config
                     eml = user['email']
-                    if eaffs[eml].length != rolls.length
+                    if eaffs[eml].nil? || eaffs[eml].length != rolls.length
                       puts "Updated config email '#{eml}': '#{eaffs[eml]}' -> '#{rolls}'"
                       eaffs[eml] = rolls
                     else
