@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Matter:
+	mde: mde!fleegix.org, mde!users.noreply.github.com from 2019-04-01
+MatterMachine:
+	pyramation: pyramation!users.noreply.github.com until 2016-07-01
 Mattermost:
 	BenLloydPearson: BenLloydPearson!users.noreply.github.com, pearsoben!gmail.com from 2021-04-01
 	spirosoik: spiros.oikonomakis!gmail.com, spirosoik!users.noreply.github.com from 2021-05-01
@@ -15938,7 +15942,3 @@ PR Management:
 	jasiu001: jasiu001!users.noreply.github.com, piotr.jasiak!protonmail.com, piotr.jasiak!wp.pl until 2014-12-01
 PRADCO Outdoor Brands:
 	rschiefer: rschiefer!users.noreply.github.com from 2020-08-01
-PRATIAN:
-	AbhishekMallick: AbhishekMallick!users.noreply.github.com until 2020-12-01
-PRAVEX BANK:
-	melnik13: melnik13!users.noreply.github.com, v.melnik!tucha13.net until 2014-11-01
