@@ -66,6 +66,7 @@ def affiliations(affiliations_file, json_file, email_map)
   update = !ENV['UPDATE'].nil?
   recheck = !ENV['RECHECK'].nil?
   sync_to_config = !ENV['SYNC_TO_CONFIG'].nil?
+  delete_incorrect_lower = !ENV['DELETE_INCORRECT_LOWER'].nil?
   no_cache = !ENV['NO_CACHE'].nil?
   # p [update, update_col, update_val]
 
@@ -533,6 +534,10 @@ def affiliations(affiliations_file, json_file, email_map)
                   json_data[index]['source'] = source
                   if sync_to_config
                     eml = user['email']
+                    leml = user['email'].downcase
+                    if delete_incorrect_lower && eml != leml
+                      eaffs.delete(leml)
+                    end
                     if eaffs[eml].nil? || eaffs[eml].length != rolls.length
                       puts "Updated config email '#{eml}': '#{eaffs[eml]}' -> '#{rolls}'"
                       eaffs[eml] = rolls
