@@ -104,7 +104,7 @@ To add geo data (`country_id`, `tz`) and gender data (`sex`, `sex_prob`), do the
 - To import manual affiliations from a google sheet save this sheet as `affiliations.csv` and then use `./affiliations.sh` script.
 - Prepend with `UPDATE=1` to only import those marked as changed: column `changes='x'`.
 - Specify non-default column via `UPDATE_COL=col_name`, specify non-default value via `UPDATE_VAL=xx` or all-non-empty via `UPDATE_VAL='(all)'`.
-- So to import all rows where column "changed" is non-empty do: `UPDATE=1 UPDATE_COL=changed UPDATE_VAL='(all)' SYNC_TO_CONFIG=1 NO_CACHE=1 DELETE_INCORRECT_LOWER=1 ./affiliations.sh`.
+- So to import all rows where column "changed" is non-empty do: `` UPDATE=1 UPDATE_COL=changed UPDATE_VAL='(all)' SYNC_TO_CONFIG=1 NO_CACHE=1 DELETE_INCORRECT_LOWER=1 ./affiliations.sh ``.
 - Prepend with `RECHECK=1` to always ask for operation and allow updating found -> not found.
 - Prepend with `DBG=1` to enable verbose output.
 - Prepend with `SYNC_TO_CONFIG=1` to force writing exact same rolls from `github_users.json` back to `cncf-config/email-map`.
