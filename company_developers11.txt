@@ -2,6 +2,9 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+e-point:
+	kisieland: danielgutowski!google.com, kisieland!users.noreply.github.com from 2017-12-01 until 2018-06-01
+	rectified95: Igor.Klemenski!microsoft.com from 2017-10-01 until 2018-07-01
 e-point SA:
 	pposkrobko: pawel.poskrobko!icloud.com, pposkrobko!users.noreply.github.com from 2015-06-01 until 2017-05-01
 e-project:

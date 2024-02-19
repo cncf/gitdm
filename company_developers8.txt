@@ -2,6 +2,18 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+PMorgan Chase:
+	ewohltman: eric.wohltman!gmail.com, ewohltman!users.noreply.github.com
+PMovil:
+	stoiev: stoiev!users.noreply.github.com until 2018-12-01
+PNC Financial Services Group Inc.:
+	MikeEdgar: MikeEdgar!users.noreply.github.com until 2016-07-01, from 2020-05-01 until 2021-03-01
+	erekgit: erekgit!users.noreply.github.com
+	medenzon: michaeledenzon!gmail.com from 2019-06-01
+PND:
+	pascalandy: pascal!firepress.org, pascalandy!users.noreply.github.com until 2014-03-01
+PNI:
+	KoryNunn: KoryNunn!users.noreply.github.com, knunn187!gmail.com until 2017-07-01
 PNN:
 	Maxwe11: Maxwe11!users.noreply.github.com, mbudde!gmail.com, turin.dmytro!gmail.com from 2015-09-01 until 2017-09-01
 POAP:
@@ -9056,7 +9068,7 @@ Red Hat Inc.:
 	EdDev: EdDev!users.noreply.github.com, edwardh!redhat.com from 2015-11-01
 	ElijahCaine: ElijahCaine!users.noreply.github.com, elijah.caine!coreos.com, elijahcainemv!gmail.com, voigte!osuosl.org
 	ElioLopez: ElioLopez!users.noreply.github.com from 2015-12-01 until 2017-09-01
-	EmilienM: EmilienM!users.noreply.github.com until 2015-04-01
+	EmilienM: EmilienM!users.noreply.github.com
 	EmilyM1: EmilyM1!users.noreply.github.com
 	EranIsraeli: EranIsraeli!users.noreply.github.com from 2021-01-01
 	ErezAlster: ErezAlster!users.noreply.github.com from 2019-08-01 until 2021-03-01
@@ -9227,7 +9239,7 @@ Red Hat Inc.:
 	TheRealHaoLiu: TheRealHaoLiu!users.noreply.github.com from 2020-03-01
 	TheRealJon: jonjacks!redhat.com from 2017-09-01
 	TimMoran: TimMoran!users.noreply.github.com
-	TomSweeneyRedHat: TomSweeneyRedHat!users.noreply.github.com, tsweeney!redhat.com
+	TomSweeneyRedHat: TomSweeneyRedHat!users.noreply.github.com, tsweeney!redhat.com from 2017-02-01
 	Toma5OD: Toma5OD!users.noreply.github.com, todalaig!redhat.com from 2022-06-01
 	TomasTomecek: TomasTomecek!users.noreply.github.com, jean!jean.fi
 	TranThanh96: TranThanh96!users.noreply.github.com from 2020-09-01 until 2022-11-01
@@ -10232,7 +10244,7 @@ Red Hat Inc.:
 	jbainbri: jbainbri!redhat.com
 	jberkus: jberkus!redhat.com, jberkus!users.noreply.github.com, josh!agliodbs.com from 2016-01-01
 	jblashka: jblashka!users.noreply.github.com
-	jboyd01: jaboyd!redhat.com, jboyd01!gmail.com, jboyd01!users.noreply.github.com from 2017-06-01
+	jboyd01: jaboyd!redhat.com, jboyd01!gmail.com, jboyd01!users.noreply.github.com from 2017-06-01 until 2019-05-01
 	jbpratt: jbpratt!users.noreply.github.com, jbpratt78!gmail.com from 2021-03-01
 	jbrannst: jbrannst!redhat.com, matthew!mmwd.co
 	jbrassow: jbrassow!redhat.com

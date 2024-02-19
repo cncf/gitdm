@@ -2,6 +2,16 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Goodly:
+	Omkar-Waingankar: Omkar-Waingankar!users.noreply.github.com from 2018-01-01 until 2018-12-01
+Goodnotes:
+	marcoleewow: marcoleewow!users.noreply.github.com from 2016-09-01
+Goodpatch:
+	nownabe: nownabe!gmail.com, nownabe!users.noreply.github.com from 2016-05-01 until 2017-07-01
+Goodreads:
+	johnewart: john!johnewart.net, john!unixninjas.org from 2015-01-01 until 2015-10-01
+Goodthings:
+	JeremyOT: JeremyOT!users.noreply.github.com from 2017-06-01 until 2019-01-01
 Goodway:
 	jpiepkow: jpiepkow!gmail.com from 2019-03-01
 Goodwill:
@@ -234,6 +244,7 @@ Google LLC:
 	NickLanam: NickLanam!users.noreply.github.com from 2019-01-01 until 2020-07-01
 	NickVaccaro: nvaccaro!google.com
 	Nicolas-MacBeth: nicolasmacbeth!gmail.com from 2020-05-01 until 2020-08-01
+	NikhilSharmaWe: NikhilSharmaWe!users.noreply.github.com, nikhilsharma230303!gmail.com from 2022-06-01 until 2022-09-01
 	NimJay: NimJay!users.noreply.github.com from 2021-02-01
 	Noremac201: Noremac201!users.noreply.github.com, cjmoberg!google.com from 2017-05-01 until 2017-08-01, from 2018-08-01 until 2019-02-01, from 2019-06-01
 	NothingEverHappens: NothingEverHappens!users.noreply.github.com, kirjs!google.com
@@ -1236,7 +1247,7 @@ Google LLC:
 	ghasemloo: ghasemloo!users.noreply.github.com
 	ghemawat: ghemawat!users.noreply.github.com, sanjay!google.com
 	gildor478: gildor478!users.noreply.github.com from 2015-05-01
-	girishkalele: girishkalele!users.noreply.github.com, gkalele!google.com from 2018-04-01
+	girishkalele: girishkalele!users.noreply.github.com, gkalele!google.com until 2016-09-01
 	girving: admin!doloresportalatin.info, azharakbar!gmail.com, ganeshv!mit.edu, geoffreyi!google.com, irving!naml.us, martin!martinburch.com, nickorsk2017!gmail.com, work!derekduncan.me
 	gislan: adamcz!google.com, gislan!users.noreply.github.com, gislan!utumno.pl
 	gjc13: gjc!google.com, guoamtcmp!gmail.com
@@ -1385,7 +1396,7 @@ Google LLC:
 	ilonajulczuk: ilonajulczuk!users.noreply.github.com, justyna.ilczuk!gmail.com
 	ilya-zuyev: ilya-zuyev!users.noreply.github.com from 2020-08-01 until 2021-07-01
 	imduffy15: ian!ianduffy.ie, imduffy15!users.noreply.github.com until 2014-08-01
-	immutableT: alextc!google.com, atcherniakhovski!gmail.com, immutableT!users.noreply.github.com from 2016-10-01
+	immutableT: alextc!google.com, atcherniakhovski!gmail.com, immutableT!users.noreply.github.com from 2016-10-01 until 2020-09-01
 	imoisharma: imoisharma!icloud.com, imoisharma!users.noreply.github.com from 2020-12-01 until 2021-03-01
 	imskr: imskr!users.noreply.github.com, shubhamkrai123!gmail.com from 2020-05-01 until 2020-09-01
 	incfly: hujianfei258!gmail.com, incfly!users.noreply.github.com, jianfeih!google.com from 2015-04-01 until 2021-08-01
@@ -1630,7 +1641,7 @@ Google LLC:
 	kandrio: kandrio!users.noreply.github.com, konstantinosand!gmail.com from 2020-06-01 until 2020-08-01
 	kaoet: kaoet!users.noreply.github.com, kaoet.ibe!outlook.com
 	kara: kara!users.noreply.github.com, karakara!google.com
-	karan: github!goel.io, karan!users.noreply.github.com, karangoel!google.com, kevin.whitaker!protonmail.com
+	karan: github!goel.io, karan!users.noreply.github.com, karangoel!google.com, kevin.whitaker!protonmail.com from 2015-06-01 until 2015-09-01, from 2016-03-01
 	karlkfi: karl!mesosphere.io, karlkfi!users.noreply.github.com, karlkfi!yahoo.com from 2020-07-01
 	karthikbox: karthikbox!users.noreply.github.com, rekarthik!google.com
 	karthikravis: karthikravis!users.noreply.github.com, karthikrs!google.com from 2016-01-01
@@ -2359,7 +2370,7 @@ Google LLC:
 	rishabhBudhouliya: rishabhBudhouliya!users.noreply.github.com from 2020-05-01 until 2020-08-01, from 2021-05-01 until 2021-09-01
 	rjamet: jamet.raphael!gmail.com, rjamet!google.com, rjamet!users.noreply.github.com
 	rjhuijsman: rjhuijsman!users.noreply.github.com until 2018-01-01
-	rjnagal: jnagal!gmail.com, jnagal!google.com, rjnagal!users.noreply.github.com
+	rjnagal: jnagal!gmail.com, jnagal!google.com, rjnagal!users.noreply.github.com until 2023-03-01
 	rjshade: rjshade!google.com, rjshade!users.noreply.github.com, robbie.shade!gmail.com until 2017-10-01
 	rkirov: radokirov!google.com, rkirov!gmail.com, rkirov!users.noreply.github.com
 	rkolchmeyer: rkolchmeyer!google.com
@@ -3588,6 +3599,7 @@ Greater Nashville Technology Council:
 Greatland:
 	idusortus: idusortus!gmail.com from 2017-11-01 until 2018-03-01
 GreedyGame:
+	NikhilSharmaWe: NikhilSharmaWe!users.noreply.github.com, nikhilsharma230303!gmail.com from 2023-11-01
 	arriqaaq: arriqaaq!users.noreply.github.com from 2017-05-01 until 2019-04-01
 Greek Army:
 	gkatsikas: george.dit!gmail.com, katsikas.gp!gmail.com from 2019-02-01
@@ -4523,6 +4535,7 @@ HCL Technologies Ltd.:
 	hemantha-kumara: hemantha-kumara!users.noreply.github.com until 2016-08-01
 	imyashvinder: imyashvinder!users.noreply.github.com from 2016-10-01 until 2017-06-01
 	jayaswalayush: ayushj.jayaswal!gmail.com, jayaswalayush!users.noreply.github.com from 2020-06-01 until 2022-12-01
+	jboyd01: jaboyd!redhat.com, jboyd01!gmail.com, jboyd01!users.noreply.github.com from 2019-05-01
 	justrohan: justrohan!users.noreply.github.com from 2016-02-01 until 2017-01-01
 	kanwalnainsingh: mail!kanwalnain.com until 2015-05-01
 	khushboo-rancher: khushboo-rancher!users.noreply.github.com from 2019-08-01 until 2020-01-01
@@ -6625,6 +6638,7 @@ Hewlett:
 	SeanWallace: SeanWallace!gmail.com from 2020-01-01
 	Srivaralakshmi: srr!redhat.com from 2018-04-01 until 2020-11-01
 	TDabasinskas: TDabasinskas!users.noreply.github.com until 2016-05-01
+	TomSweeneyRedHat: TomSweeneyRedHat!users.noreply.github.com, tsweeney!redhat.com until 2016-10-01
 	ToruMakabe: ToruMakabe!users.noreply.github.com until 2015-09-01
 	VIjayHP: VIjayHP!users.noreply.github.com, vijaykumaar.hp!gmail.com from 2015-12-01 until 2018-04-01
 	Xtigyro: Xtigyro!users.noreply.github.com, miroslav.hadzhiev!gmail.com until 2016-07-01
@@ -8025,6 +8039,7 @@ Huawei Technologies Co. Ltd:
 	FengtuWang: FengtuWang!users.noreply.github.com, wangfengtu!huawei.com
 	FourSpaces: FourSpaces!users.noreply.github.com, cheng1483x!gmail.com, wangzefeng!huawei.com
 	GauravAgrawal-Huawei: gaurav.agrawal!huawei.com
+	GinnyJI: GinnyJI!users.noreply.github.com from 2017-05-01 until 2017-09-01
 	GitHubxsy: GitHubxsy!users.noreply.github.com, xieshiyi1!huawei.com
 	GraysonWu: GraysonWu!users.noreply.github.com, wgrayson!vmware.com from 2017-07-01 until 2017-09-01
 	HW-lj: liujie165!huawei.com
@@ -8035,7 +8050,6 @@ Huawei Technologies Co. Ltd:
 	JarreyZhou: 30723592+jarreyzhou!users.noreply.github.com, JarreyZhou!users.noreply.github.com, zhoujiawei7!huawei.com
 	JasonYanHw: yanaijie!huawei.com
 	JoeyHwong-gk: JoeyHwong-gk!users.noreply.github.com, huangzhiwei21!huawei.com, joeyhwong!gknow.cn
-	JornShen: JornShen!users.noreply.github.com, jorhshen!gmail.com
 	JunPiaoHW: piaojun!huawei.com
 	JunxiongGuan: guanjunxiong!huawei.com
 	Lily922: lili133!huawei.com, lili_9309!163.com

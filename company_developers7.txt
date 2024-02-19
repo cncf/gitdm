@@ -2,6 +2,16 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Matrix IFS:
+	RichardHoch: rhoch!redhat.com from 2016-12-01 until 2017-07-01
+Matrix Insights:
+	evadnoob: evadnoob!users.noreply.github.com until 2014-06-01
+Matrix Medical Network:
+	srikarrao: srikarrao!users.noreply.github.com from 2017-01-01 until 2017-08-01
+Matrix Partners:
+	hungry1526: hungry1526!users.noreply.github.com from 2016-06-01 until 2018-09-01
+Matrix.org:
+	superdump: superdump!users.noreply.github.com from 2017-01-01 until 2017-10-01
 MatrixOne:
 	SteveBisnett: SteveBisnett!users.noreply.github.com until 2015-03-01
 Matrox Video:
@@ -16,6 +26,8 @@ Matter:
 	mde: mde!fleegix.org, mde!users.noreply.github.com from 2019-04-01
 MatterMachine:
 	pyramation: pyramation!users.noreply.github.com until 2016-07-01
+Mattermark:
+	karan: github!goel.io, karan!users.noreply.github.com, karangoel!google.com, kevin.whitaker!protonmail.com from 2016-01-01 until 2016-03-01
 Mattermost:
 	BenLloydPearson: BenLloydPearson!users.noreply.github.com, pearsoben!gmail.com from 2021-04-01
 	spirosoik: spiros.oikonomakis!gmail.com, spirosoik!users.noreply.github.com from 2021-05-01
@@ -13743,6 +13755,7 @@ OpenAI Inc.:
 	cberner: cberner!users.noreply.github.com from 2017-02-01
 	crizCraig: cquiter!gmail.com, cquiter+githubpublic!gmail.com, crizCraig!users.noreply.github.com from 2016-09-15 until 2016-10-15
 	cswinter: alanrraso!gmail.com, clemenswinter1!gmail.com, cswinter!users.noreply.github.com from 2018-11-01
+	dghubble: dghubble!gmail.com, dghubble!users.noreply.github.com from 2023-05-01
 	emypar: emypar!users.noreply.github.com from 2020-08-01 until 2022-06-01
 	mateuszlitwin: mateuszlitwin!users.noreply.github.com from 2018-11-01
 	michaelpetrov: michaelpetrov!users.noreply.github.com from 2018-05-01
@@ -13898,7 +13911,6 @@ OpenSource:
 OpenSourceMANO:
 	vijay-nag: vijay-nag!users.noreply.github.com, vijay.bs!rakuten.com from 2019-02-01 until 2021-03-01
 OpenStack Foundation:
-	EmilienM: EmilienM!users.noreply.github.com from 2015-04-01
 	Fedosin: Fedosin!users.noreply.github.com, mfedosin!gmail.com, mfedosin!mirantis.com, mfedosin!redhat.com, mikhail.fedosin.ext!nokia.com until 2019-02-01
 	LingxianKong: LingxianKong!users.noreply.github.com, anlin.kong!gmail.com from 2018-06-01 until 2019-05-01
 	StackScribe: DreidelLhasa!yahoo.com, StackScribe!users.noreply.github.com from 2015-02-01 until 2015-08-01
@@ -14904,7 +14916,6 @@ Orange SA:
 	mcornea: mcornea!redhat.com, mcornea!users.noreply.github.com until 2014-12-01
 	michaelcourcy: michaelcourcy!users.noreply.github.com from 2020-05-01 until 2020-10-01
 	mikejoh: mik.json!gmail.com, mikejoh!users.noreply.github.com until 2017-12-01
-	mirwan: mirwan!users.noreply.github.com from 2014-05-01
 	mjrlgue: mjrlgue!users.noreply.github.com from 2020-03-01 until 2020-08-01, from 2020-10-01 until 2023-05-01
 	mohamedasaker-arm: mohamedasaker-arm!users.noreply.github.com from 2015-07-01 until 2015-09-01, from 2016-06-01 until 2019-02-01
 	morganrOL: morgan.richomme!orange.com, morganrOL!users.noreply.github.com
@@ -15905,15 +15916,3 @@ PMS:
 	Enrico204: Enrico204!users.noreply.github.com from 2016-03-01 until 2016-08-01
 PMS · Contract:
 	Enrico204: Enrico204!users.noreply.github.com until 2015-09-01
-PMorgan Chase:
-	ewohltman: eric.wohltman!gmail.com, ewohltman!users.noreply.github.com
-PMovil:
-	stoiev: stoiev!users.noreply.github.com until 2018-12-01
-PNC Financial Services Group Inc.:
-	MikeEdgar: MikeEdgar!users.noreply.github.com until 2016-07-01, from 2020-05-01 until 2021-03-01
-	erekgit: erekgit!users.noreply.github.com
-	medenzon: michaeledenzon!gmail.com from 2019-06-01
-PND:
-	pascalandy: pascal!firepress.org, pascalandy!users.noreply.github.com until 2014-03-01
-PNI:
-	KoryNunn: KoryNunn!users.noreply.github.com, knunn187!gmail.com until 2017-07-01
