@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+reiz: reiz!users.noreply.github.com, robert.reiz.81!gmail.com
+	VersionEye
+rejas: github!veeck.de, rejas!users.noreply.github.com, veeck!neofonie.de
+	Neofonie GmbH
 rejmond: rejmond!users.noreply.github.com
 	Independent until 2018-11-01
 	Rosstrah from 2018-11-01 until 2021-03-01
@@ -23875,6 +23879,3 @@ tommcdon: tommcdon!microsoft.com, tommcdon!users.noreply.github.com
 	Microsoft Corporation
 tommed: tommed!users.noreply.github.com
 	Vigilant
-tommeramber: tommeramber!users.noreply.github.com
-	IAF - Israeli Air Force until 2019-11-01
-	Red Hat Inc. from 2019-11-01
