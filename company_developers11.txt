@@ -2,6 +2,49 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+dwpbank:
+	christianwoehrle: christian.woehrle!googlemail.com, christianwoehrle!users.noreply.github.com
+dxw:
+	zeeraw: zeeraw!users.noreply.github.com until 2015-11-01
+dé VakantieDiscounter:
+	TrustNoOne: TrustNoOne!users.noreply.github.com from 2019-01-01
+e Apache:
+	erandiganepola: erandiganepola!gmail.com, erandiganepola!users.noreply.github.com from 2016-12-01 until 2018-02-01
+e&e:
+	jflinchbaugh: john!hjsoft.com from 2014-10-01 until 2019-01-01
+e(ye)BRAIN:
+	AbelThorne: AbelThorne!users.noreply.github.com until 2014-12-01
+e-BO Enterprises:
+	pieterjanc: pieterjan.camerlynck!gmail.com, pieterjanc!users.noreply.github.com until 2017-08-01
+e-Contact:
+	andretong: andretong!gmail.com until 2018-10-01
+e-Core:
+	tiagodeoliveira: tiago!tiago.sh from 2016-02-01 until 2017-03-01
+e-Deploy:
+	gabriel-cardoso: gabriel-cardoso!users.noreply.github.com until 2016-04-01
+	neemiasjnr: neemias.junior!gmail.com from 2019-04-01 until 2019-07-01
+e-Learning DAO:
+	ericvale0128: ericvale0128!users.noreply.github.com from 2022-08-01
+e-Paye:
+	mabouchacra: mabouchacra!users.noreply.github.com from 2015-03-01 until 2016-03-01
+e-PlanSoft:
+	pegasas: pegasas!users.noreply.github.com from 2016-05-01 until 2018-04-01
+e-Share:
+	dtheodor: dtheodor!users.noreply.github.com from 2017-07-01 until 2018-04-01
+e-Spirit AG:
+	lenalebt: lenalebt!users.noreply.github.com, oss!lena-brueder.de from 2017-02-01 until 2019-12-01
+e-SpiritAG:
+	MatrixCrawler: MatrixCrawler!users.noreply.github.com, johannes.brunswicker!gmail.com
+e-Yantra:
+	aditirao7: aditirao7!users.noreply.github.com from 2020-10-01 until 2021-03-01
+e-conomic:
+	freeall: freeall!gmail.com, freeall!users.noreply.github.com until 2015-04-01
+	hulvei3: hulvei3!users.noreply.github.com until 2016-07-01
+	nmbro: nicolai.brogaard!visma.com from 2017-10-01
+e-learning:
+	webwurst: webwurst!gmail.com, webwurst!users.noreply.github.com until 2015-04-01
+e-merchant:
+	vbatoufflet: vbatoufflet!users.noreply.github.com, vincent!batoufflet.info until 2014-07-01
 e-point:
 	kisieland: danielgutowski!google.com, kisieland!users.noreply.github.com from 2017-12-01 until 2018-06-01
 	rectified95: Igor.Klemenski!microsoft.com from 2017-10-01 until 2018-07-01
@@ -908,8 +951,6 @@ gdou:
 	lokinfey: lokinfey!outlook.com
 gear6.in:
 	kumudt: kumud.t!nestaway.com, kumudt!users.noreply.github.com from 2015-02-01
-genedock:
-	yxxhero: yxxhero!users.noreply.github.com
 genua:
 	TobiasSchaffner: TobiasSchaffner!users.noreply.github.com, tobiasschaffner87!outlook.com until 2017-10-01
 	felixest: felixest!users.noreply.github.com from 2015-08-01 until 2019-08-01
@@ -1764,7 +1805,7 @@ inovex GmbH:
 	henninge: henninge!users.noreply.github.com from 2018-03-01
 	hikhvar: 263448+hikhvar!users.noreply.github.com, hikhvar!users.noreply.github.com from 2015-09-01
 	hoesler: christoph.hoesler!gmail.com, christoph.hoesler!inovex.de, hoesler!users.noreply.github.com
-	johscheuer: joh.scheuer!gmail.com, johannes.scheuermann!inovex.de, johscheuer!users.noreply.github.com
+	johscheuer: joh.scheuer!gmail.com, johannes.scheuermann!inovex.de, johscheuer!users.noreply.github.com until 2020-10-01
 	maxbischoff: maxbischoff!users.noreply.github.com, maximilianbischoff2!gmail.com
 	moolen: beller.moritz!googlemail.com, moolen!users.noreply.github.com from 2018-10-01
 	moritzjohner-form3: moritzjohner-form3!users.noreply.github.com from 2018-10-01 until 2022-02-01
@@ -3548,6 +3589,8 @@ smartive:
 smava:
 	Azhovan: Azhovan!users.noreply.github.com, jasadi!d2iq.com from 2020-02-01 until 2022-05-01
 	amalkurup89: amalkurup89!users.noreply.github.com from 2016-04-01 until 2019-07-01
+smlXL:
+	diegs: diegs!users.noreply.github.com, dpontor!gmail.com from 2022-05-01
 smpl:
 	fsniper: fsniper!users.noreply.github.com from 2015-07-01 until 2017-04-01
 snapIoT:
@@ -4055,7 +4098,7 @@ uSwitch:
 	ragnard: r.dahlen!gmail.com
 	randomvariable: jeewan!vmware.com, naadir!randomvariable.co.uk, naadir!scalefactory.com, njeewa!heptio.com, randomvariable!users.noreply.github.com until 2015-07-01
 	sambooo: sambooo!users.noreply.github.com, sambroughton!gmail.com from 2018-06-01 until 2018-11-01
-	surajnarwade: surajnarwade!users.noreply.github.com, surajnarwade353!gmail.com from 2018-08-01
+	surajnarwade: surajnarwade!users.noreply.github.com, surajnarwade353!gmail.com from 2018-08-01 until 2023-10-01
 uTest:
 	davidpinhas: davidpinhas!users.noreply.github.com until 2016-10-01
 uTrade:
@@ -4517,7 +4560,7 @@ zwibe:
 	AlexanderEkdahl: AlexanderEkdahl!users.noreply.github.com, alexander!ekdahl.io from 2017-03-01 until 2017-08-01
 Ænix:
 	gecube: gb12335!gmail.com, gecube!users.noreply.github.com from 2023-12-21
-	kvaps: andrei.kvapil!aenix.io, andrei.kvapil!wedos.com, andrey.kvapil!flant.com, kvaps!users.noreply.github.com, kvapss!gmail.com from 2023-06-30
+	kvaps: andrei.kvapil!aenix.io, andrei.kvapil!wedos.com, andrey.kvapil!flant.com, kvaps!users.noreply.github.com, kvapss!gmail.com from 2023-07-01
 École:
 	chnyda: chnyda!users.noreply.github.com from 2014-08-01 until 2015-06-01
 	jpambrun: jf.pambrun!gmail.com, jpambrun!users.noreply.github.com until 2014-12-01
