@@ -248,7 +248,7 @@ def affiliations(affiliations_file, json_file, email_map)
                   ans = answers[e]
                 else
                   s = "Line #{ln}, user #{users[e][0][1]['login']}, email #{e} has affiliation source type '#{sources[e]}' which has higher priority than 'manual'\n"
-                  s += "Config affiliations: #{eaffs[e].keys.join(', ')}\nJSON affiliations: #{users[e][0][1]['affiliation']}\nNew affiliations: #{affs_str}\nReplace? (y/n/q/s)"
+                  s += "Config affiliations: #{eaffs[e].keys.join(', ')}\nJSON affiliations: #{users[e][0][1]['affiliation']}\nNew  affiliations: #{affs_str}\nReplace? (y/n/q/s)"
                   puts s
                   ans = mgetc.downcase
                   puts "> #{ans}"
@@ -329,7 +329,7 @@ def affiliations(affiliations_file, json_file, email_map)
                     ans = answers[e]
                   else
                     s = "Line #{ln}, user #{users[e][0][1]['login']}, email #{e} has affiliation source type '#{sources[e]}' which has higher priority than 'manual'\n"
-                    s += "Config affiliations: #{eaffs[e].keys.join(', ')}\nJSON affiliations: #{users[e][0][1]['affiliation']}\nNew affiliations: #{affs_str}\nReplace? (y/n/q/s)"
+                    s += "Config affiliations: #{eaffs[e].keys.join(', ')}\nJSON affiliations: #{users[e][0][1]['affiliation']}\nNew  affiliations: #{affs_str}\nReplace? (y/n/q/s)"
                     puts s
                     ans = mgetc.downcase
                     puts "> #{ans}"
@@ -539,7 +539,7 @@ def affiliations(affiliations_file, json_file, email_map)
                       eaffs.delete(leml)
                     end
                     if eaffs[eml].nil? || eaffs[eml].length != rolls.length
-                      puts "Updated config email '#{eml}': '#{eaffs[eml]}' -> '#{rolls}'"
+                      puts "Updated config email by length diff '#{eml}': '#{eaffs[eml]}' -> '#{rolls}'"
                       eaffs[eml] = rolls
                     else
                       diff = false
