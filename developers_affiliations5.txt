@@ -5,6 +5,9 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+jesusaurus: code!gentlydownthe.net, jonathan.harker!ibm.com, k.jonathan.harker!hp.com
+	HP Inc. until 2015-10-31
+	HP Inc. from 2015-10-31
 jesusfcr: jesusfcr!users.noreply.github.com
 	Groupalia until 2018-12-01
 	Independent from 2018-12-01 until 2019-02-01
@@ -1811,7 +1814,7 @@ jmarbach: john.marbach!gmail.com
 	Bitnami Inc. from 2016-01-01 until 2017-03-01
 	Independent from 2017-03-01 until 2019-07-01
 	DigitalOcean from 2019-07-01 until 2020-12-01
-	Grafana from 2020-12-01
+	Grafana Labs from 2020-12-01
 jmaron99: jmaron99!users.noreply.github.com
 	Hortonworks until 2016-06-01
 	Oracle America Inc. from 2016-06-01
@@ -2463,7 +2466,7 @@ joeblackwaslike: joeblackwaslike!me.com, joeblackwaslike!users.noreply.github.co
 joeblubaugh: joe!lightstep.com, joeblubaugh!users.noreply.github.com
 	Twitter Inc. until 2016-11-01
 	LightStep Inc. from 2016-11-01 until 2022-03-01
-	Grafana from 2022-03-01
+	Grafana Labs from 2022-03-01
 joebowbeer: joebowbeer!users.noreply.github.com
 	Google LLC until 2014-12-01
 	Independent from 2014-12-01 until 2017-11-01
@@ -11780,7 +11783,7 @@ kraigatgoog: kraig!google.com
 kraj: kraj!users.noreply.github.com, raj.khem!gmail.com
 	Comcast Cable Communications LLC (Xfinity)
 krajorama: krajorama!users.noreply.github.com
-	Grafana
+	Grafana Labs
 krak3n: chris!thisissoon.com, hello!chris.reeves.io, krak3n!users.noreply.github.com
 	Adaptive until 2014-03-01
 	SOON from 2014-03-01 until 2018-10-01
@@ -20430,7 +20433,7 @@ marcsvll: marcus!paledoor.io
 marctc: marctc!gmail.com, marctc!users.noreply.github.com
 	apsl until 2018-12-01
 	SoundCloud from 2018-12-01 until 2022-02-01
-	Grafana from 2022-02-01
+	Grafana Labs from 2022-02-01
 marctrem: marcandre.tr!gmail.com, marctrem!users.noreply.github.com
 	Samsung Electronics Co. Ltd.
 marcus-crane: GNUtoo!no-log.org, marcus-crane!users.noreply.github.com
@@ -23857,7 +23860,3 @@ mcqueary: larry!apcera.com, mcqueary!users.noreply.github.com
 	Tibco Group until 2015-01-01
 	Apcera from 2015-01-01 until 2017-11-01
 	Confluent from 2017-11-01
-mcred: derek.smart!delphix.com, mcred!users.noreply.github.com
-	Payscape until 2017-07-01
-	Grindaga from 2017-07-01 until 2018-03-01
-	Delphix from 2018-03-01

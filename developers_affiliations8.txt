@@ -5,6 +5,14 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+tommaso-borgato: tborgato!redhat.com, tommaso-borgato!users.noreply.github.com
+	Esselunga until 2017-02-01
+	Nokia Corporation from 2017-02-01 until 2017-12-01
+	Red Hat Inc. from 2017-12-01
+tommcdon: tommcdon!microsoft.com, tommcdon!users.noreply.github.com
+	Microsoft Corporation
+tommed: tommed!users.noreply.github.com
+	Vigilant
 tommeramber: tommeramber!users.noreply.github.com
 	IAF - Israeli Air Force until 2019-11-01
 	Red Hat Inc. from 2019-11-01
@@ -594,7 +602,7 @@ tpaschalis: tpaschalis!users.noreply.github.com
 	Independent from 2016-08-01 until 2018-03-01
 	Sigmia from 2018-03-01 until 2019-10-01
 	Beat from 2019-10-01 until 2022-01-01
-	Grafana from 2022-01-01
+	Grafana Labs from 2022-01-01
 tpdownes: tpdownes!users.noreply.github.com
 	Independent until 2019-05-01
 	University of the Valley of Atemajac from 2019-05-01
@@ -14969,7 +14977,7 @@ zzehring: zzehring!users.noreply.github.com
 	Deloitte from 2016-07-01 until 2017-04-01
 	Citrix Systems Inc. from 2017-04-01 until 2019-03-01
 	Canonical from 2019-03-01 until 2021-11-01
-	Grafana from 2021-11-01
+	Grafana Labs from 2021-11-01
 zzguang: zhengguang.zhang!intel.com
 	Intel Corporation
 zzhu2: zhenyan.zhu2!wework.com, zzhu2!users.noreply.github.com

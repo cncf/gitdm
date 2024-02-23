@@ -3180,7 +3180,7 @@ ethirolle: ethirolle!users.noreply.github.com
 	Lenovo from 2014-11-01 until 2015-07-01
 	Cisco from 2015-07-01 until 2017-10-01
 	Zenoss Inc. from 2017-10-01 until 2020-07-01
-	Grafana from 2020-07-01
+	Grafana Labs from 2020-07-01
 ethnt: ethan!turkeltaub.dev
 	Fanzter until 2014-10-01
 	Independent from 2014-10-01 until 2015-06-01
@@ -11246,10 +11246,11 @@ grayy921013: grayy921013!gmail.com, grayy921013!users.noreply.github.com
 	Google LLC from 2017-05-01 until 2017-08-01
 	Independent from 2017-08-01 until 2018-02-01
 	Meta Platforms Inc. from 2018-02-01
+grcevski: grcevski!users.noreply.github.com, nikola.grcevski!grafana.com
+	Independent until 2023-03-01
+	Grafana Labs from 2023-03-01
 grdryn: grdryn!users.noreply.github.com
 	Red Hat Inc.
-grcevski: grcevski!users.noreply.github.com, nikola.grcevski!grafana.com
-    Grafana Labs from 2023-03-01	
 grealish: grealish!users.noreply.github.com, me!darraghgrealish.com
 	Swisscom until 2014-10-01
 	Monetas from 2014-10-01 until 2016-02-01
@@ -19576,7 +19577,7 @@ ivanahuckova: ivanahuckova!users.noreply.github.com
 	Independent until 2016-10-01
 	Operam from 2016-10-01 until 2019-01-01
 	Independent from 2019-01-01 until 2019-08-01
-	Grafana from 2019-08-01
+	Grafana Labs from 2019-08-01
 ivanamat: ivanamat!users.noreply.github.com
 	Independent
 ivanarh: ivantrue!gmail.com
@@ -23693,7 +23694,7 @@ jescarri: jescarri!users.noreply.github.com, jesus.carrillo!ticketmaster.com, je
 jeschkies: jeschkies!users.noreply.github.com, k!jeschkies.xyz
 	AWS until 2016-07-01
 	Mesosphere from 2016-07-01 until 2020-07-01
-	Grafana from 2020-07-01
+	Grafana Labs from 2020-07-01
 jesec: jc!linux.com
 	Independent until 2015-03-01
 	Xda from 2015-03-01 until 2017-01-01
@@ -23897,6 +23898,3 @@ jesusalvb: jesusalvb!users.noreply.github.com
 	Banorte until 2016-03-01
 	Meve from 2016-03-01 until 2017-12-01
 	International Business Machines Corporation from 2017-12-01
-jesusaurus: code!gentlydownthe.net, jonathan.harker!ibm.com, k.jonathan.harker!hp.com
-	HP Inc. until 2015-10-31
-	HP Inc. from 2015-10-31

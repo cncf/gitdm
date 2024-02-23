@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+reinvantveer: reinvantveer!users.noreply.github.com
+	DEN until 2015-03-01
+	Bureau Digitaal Erfgoed from 2015-03-01 until 2020-08-01
+	Geodan from 2020-08-01
+reitermarkus: me!reitermark.us, reitermarkus!users.noreply.github.com
+	///
 reiz: reiz!users.noreply.github.com, robert.reiz.81!gmail.com
 	VersionEye
 rejas: github!veeck.de, rejas!users.noreply.github.com, veeck!neofonie.de
@@ -4732,7 +4738,7 @@ ryantxu: ryantxu!users.noreply.github.com
 	Voyager until 2016-01-01
 	Natel Energy from 2016-01-01 until 2019-01-01
 	Apache from 2019-01-01 until 2019-07-01
-	Grafana from 2019-07-01
+	Grafana Labs from 2019-07-01
 ryanuber: ru!ryanuber.com
 	HashiCorp Inc
 ryanvade: RyanOwens!linux.com
@@ -15997,7 +16003,7 @@ stefanprodan: stefan.prodan!gmail.com, stefanprodan!users.noreply.github.com
 	Independent from 2016-11-01 until 2017-09-01
 	Weaveworks Inc. from 2017-09-01 until 2023-12-31
 	Independent from 2023-12-31 until 2024-02-01
-	ControlPlane from 2024-02-01
+	ControlPlane.io from 2024-02-01
 stefansedich: stefan.sedich!gmail.com, stefansedich!users.noreply.github.com, wayne.beaton!eclipse-foundation.org
 	Readify until 2014-10-01
 	TIPi Group Limited from 2014-10-01 until 2015-09-01
@@ -23872,11 +23878,3 @@ tomleb: tomleb!users.noreply.github.com
 tomleb: tomlebreux!cock.li
 	Viasat Inc. until 2018-01-01
 	Brain Corp from 2018-01-01
-tommaso-borgato: tborgato!redhat.com, tommaso-borgato!users.noreply.github.com
-	Esselunga until 2017-02-01
-	Nokia Corporation from 2017-02-01 until 2017-12-01
-	Red Hat Inc. from 2017-12-01
-tommcdon: tommcdon!microsoft.com, tommcdon!users.noreply.github.com
-	Microsoft Corporation
-tommed: tommed!users.noreply.github.com
-	Vigilant
