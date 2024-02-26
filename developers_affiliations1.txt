@@ -2213,9 +2213,11 @@ AlmeroSteyn: AlmeroSteyn!users.noreply.github.com, almero.steyn!gmail.com
 	Conversationals from 2019-08-01
 AlmogBaku: AlmogBaku!users.noreply.github.com, almog.baku!gmail.com, almogbaku!rimoto.com
 	SocialBelong until 2015-01-01
-	Rimoto from 2015-01-01 until 2018-07-01
-	Independent from 2018-07-01 until 2019-01-01
-	Blink from 2019-01-01
+	Rimoto from 2015-01-01 until 2018-11-01
+	Cyren from 2018-11-01 until 2020-02-01
+	Independent from 2020-02-01 until 2020-07-01
+	Natun from 2020-07-01 until 2022-05-01
+	Raptor from 2022-05-01
 AlmostBearded: thealmostbearded!gmail.com
 	ByteFex until 2014-09-01
 	Independent from 2014-09-01 until 2016-06-01
@@ -7623,8 +7625,12 @@ DebajitDas: debajida!cisco.com, debajit.009!gmail.com, debajit.das!appdynamics.c
 	Infinera Corporation from 2015-09-01 until 2019-03-01
 	AppDynamics LLC from 2019-03-01
 Debanitrkl: Debanitrkl!users.noreply.github.com
-	Independent until 2021-02-01
-	CNCF from 2021-02-01
+	Independent until 2021-03-01
+	CNCF from 2021-03-01 until 2021-05-01
+	Innovaccer from 2021-05-01 until 2021-07-01
+	Independent from 2021-07-01 until 2022-03-01
+	CNCF from 2022-03-01 until 2022-06-01
+	Harness from 2022-06-01
 Debiday: Debiday!users.noreply.github.com
 	Independent until 2021-10-01
 	G-Research from 2021-10-01 until 2022-01-01
@@ -22589,14 +22595,12 @@ RishiKumarRay: RishiKumarRay!users.noreply.github.com
 	Infosys Limited from 2021-05-01
 Rishit-dagli: Rishit-dagli!users.noreply.github.com, rishit.dagli!gmail.com
 	Independent until 2018-06-01
-	Robotron from 2018-06-01 until 2019-04-01
-	Science Kidz from 2019-04-01 until 2019-05-01
-	Independent from 2019-05-01 until 2021-07-01
-	Major League Hacking from 2021-07-01 until 2021-08-01
-	NASA Ames Research Center from 2021-08-01 until 2021-12-01
-	Google LLC from 2021-12-01 until 2022-09-01
-	SpaceX from 2022-09-01 until 2023-04-01
-	Civo from 2023-04-01
+	Science Kidz from 2018-06-01 until 2019-05-01
+	Major League Hacking from 2019-05-01 until 2021-06-01
+	Independent from 2021-06-01 until 2021-07-01
+	Google LLC from 2021-07-01 until 2021-12-01
+	Independent from 2021-12-01 until 2022-01-01
+	Civo from 2022-01-01
 Rishka: Rishka!users.noreply.github.com
 	Independent until 2016-06-01
 	QuintEvents from 2016-06-01
@@ -23638,5 +23642,3 @@ SamuelTechwolf: SamuelTechwolf!users.noreply.github.com
 	Independent until 2016-08-01
 	iText from 2016-08-01 until 2019-11-01
 	TechWolf from 2019-11-01
-Samze: Samze!users.noreply.github.com, samgzeit!gmail.com, sgunaratne!pivotal.io
-	Pivotal

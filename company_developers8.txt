@@ -2,6 +2,42 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+PIOLINK:
+	gyutaeb: gyutaeb!users.noreply.github.com from 2015-04-01 until 2021-07-01
+PIRATE.COM:
+	snoopdouglas: snoopdouglas!users.noreply.github.com from 2019-11-01
+PIRXON SA:
+	lukzerom: lukzerom!users.noreply.github.com from 2020-03-01 until 2020-06-01
+	maciekmm: business!maciekmm.net, maciekmm!users.noreply.github.com from 2017-06-01 until 2017-07-01
+PISCINAS IGUAZÚ:
+	meskio: clarkbaker!gmail.com, meskio!sindominio.net until 2014-12-01
+PIX Group:
+	Nittarab: Nittarab!users.noreply.github.com, p.barattin!gmail.com from 2018-03-01
+PJSC Center-invest Bank:
+	dnskr: dnskr!users.noreply.github.com until 2014-09-01
+PJSC MTS Bank:
+	izhukov: alex!izhukov.ru, izhukov!users.noreply.github.com
+PJSC VERNUM BANK:
+	dmitryk-dk: kozlovdmitriyy!gmail.com from 2015-04-01 until 2015-09-01
+PK Techservise:
+	alexandrst88: alexandrst88!gmail.com, alexandrst88!users.noreply.github.com until 2016-05-01
+PKG Traders:
+	niskarsha10: niskarsha10!users.noreply.github.com from 2020-10-01 until 2021-04-01
+PKO:
+	jacek-jablonski: jacek-jablonski!users.noreply.github.com from 2014-11-01 until 2017-08-01
+	ms32035: ms32035!gmail.com, ms32035!users.noreply.github.com from 2014-05-01 until 2016-06-01
+PKU:
+	hackmong: 632802016!qq.com
+PKWARE:
+	MariusVolkhart: Marius!volkhart.com, MariusVolkhart!users.noreply.github.com from 2014-11-01
+PL Vision:
+	vkochan: vadim4j!gmail.com from 2014-08-01 until 2017-06-01
+PLANET ARGON:
+	kaylareopelle: kaylareopelle!users.noreply.github.com from 2018-12-01 until 2020-10-01
+PLASIO COMPUTERS AEBE:
+	LSmyrnaios: LSmyrnaios!users.noreply.github.com from 2016-07-01 until 2016-10-01
+PLASK · Internship:
+	seoha-kim: kim-seoha!naver.com, seoha-kim!users.noreply.github.com from 2021-03-01
 PLATH Corporation GmbH:
 	khmarbaise: github!soebes.com, github!soebes.de, info!soebes.de, kama!soebes.de, khmarbaise!apache.org from 2015-12-01 until 2016-03-01
 PLAY:
@@ -5769,7 +5805,7 @@ Pulumi:
 	nimbinatus: dev!nimbinatus.com, nimbinatus!users.noreply.github.com from 2021-08-01 until 2023-01-01
 	pgavlin: hello!jeffzellner.com, pagavlin!microsoft.com, pgavlin!gmail.com, pgavlin!users.noreply.github.com from 2017-09-01
 	stack72: public!paulstack.co.uk from 2019-04-01
-	stevesloka: slokas!upmc.edu, slokas!vmware.com, steve!pulumi.com, steve!stevesloka.com, steves!heptio.com, stevesloka!users.noreply.github.com from 2022-02-01
+	stevesloka: slokas!upmc.edu, slokas!vmware.com, steve!pulumi.com, steve!stevesloka.com, steves!heptio.com, stevesloka!users.noreply.github.com from 2022-02-01 until 2023-03-01
 Puma Icerik:
 	dilekuzulmez: dilekuzulmez!gmail.com, dilekuzulmez!users.noreply.github.com from 2016-09-01 until 2017-09-01
 Pumpkin App:
@@ -8507,6 +8543,8 @@ Rappid:
 	louis-murray: congfairy2536!gmail.com, louis-murray!users.noreply.github.com, oscar.99.tris!gmail.com, playa1!gmail.com, steffen.butzer!outlook.com from 2015-09-01 until 2015-12-01
 Rapport Labs:
 	neolunar7: neolunar7!gmail.com, neolunar7!users.noreply.github.com from 2021-08-01
+Raptor:
+	AlmogBaku: AlmogBaku!users.noreply.github.com, almog.baku!gmail.com, almogbaku!rimoto.com from 2022-05-01
 Rapyuta Robotics:
 	Sid-Sun: sid!sidsun.com from 2021-09-01 until 2022-07-01
 	WillerWasTaken: WillerWasTaken!users.noreply.github.com from 2020-05-01 until 2021-08-01
@@ -13160,7 +13198,7 @@ RiksTV:
 Rimac:
 	cesarfong: cesar.fong!microsoft.com until 2015-07-01
 Rimoto:
-	AlmogBaku: AlmogBaku!users.noreply.github.com, almog.baku!gmail.com, almogbaku!rimoto.com from 2015-01-01 until 2018-07-01
+	AlmogBaku: AlmogBaku!users.noreply.github.com, almog.baku!gmail.com, almogbaku!rimoto.com from 2015-01-01 until 2018-11-01
 Rincaro:
 	derrickburns: derrickburns!users.noreply.github.com, derrickrburns!gmail.com, dubrsl!gmail.com until 2015-09-01
 Ring:
@@ -13384,6 +13422,7 @@ RivieraWavers:
 Rivos:
 	Atish-iaf: Atish-iaf!users.noreply.github.com, atish.iaf!gmail.com from 2021-12-01
 	bsarden: arden.bryce!gmail.com from 2022-01-01
+	sameo: sameo!linux.intel.com, sameo!users.noreply.github.com from 2022-06-01
 Rivus Media:
 	OlivierBoucher: OlivierBoucher!users.noreply.github.com, info!olivierboucher.com from 2015-06-01 until 2016-01-01
 Rixian:
@@ -13499,8 +13538,6 @@ Robotinfra Limited:
 	hvnsweeting: hvn!familug.org, hvnsweeting!gmail.com, hvnsweeting!users.noreply.github.com until 2017-04-01
 Robotiq:
 	klamontagne: kevinlamontagne!gmail.com from 2019-07-01
-Robotron:
-	Rishit-dagli: Rishit-dagli!users.noreply.github.com, rishit.dagli!gmail.com from 2018-06-01 until 2019-04-01
 Robots & Data:
 	rafis: rafis!users.noreply.github.com, rafisganeyev!gmail.com
 Robots & Pencils:

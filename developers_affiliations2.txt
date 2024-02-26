@@ -5,6 +5,8 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+Samze: Samze!users.noreply.github.com, samgzeit!gmail.com, sgunaratne!pivotal.io
+	Pivotal
 SanchayanMaity: maitysanchayan!gmail.com
 	Capital One Financial Corporation until 2014-04-01
 	Zoomcar from 2014-04-01 until 2014-12-01
@@ -9993,8 +9995,11 @@ aiman-alsari: aiman-alsari!users.noreply.github.com
 	HSBC from 2017-04-01 until 2017-07-01
 	Equal Experts from 2017-07-01
 aimeeu: aimeeu!users.noreply.github.com, aimeeu.opensource!gmail.com
-	AT&T Services Inc. until 2019-03-01
-	Independent from 2019-03-01
+	CNCF until 2018-12-01
+	AT&T Services Inc. from 2018-12-01 until 2019-03-01
+	Independent from 2019-03-01 until 2019-08-01
+	Armory from 2019-08-01 until 2023-12-01
+	Career Break from 2023-12-01
 aimerneige: aimerneige!users.noreply.github.com
 	Independent
 aimuke: aimuke!users.noreply.github.com, lvbo_lzsc!126.com
@@ -12118,9 +12123,7 @@ alexclear: alexclear!gmail.com, alexclear!users.noreply.github.com
 	KupiKupon until 2014-11-01
 	Git in Sky from 2014-11-01 until 2017-05-01
 	Independent from 2017-05-01
-alexcontini: acontini!linuxfoundation.org
-	CNCF
-alexcontini: alexcontini!users.noreply.github.com
+alexcontini: acontini!linuxfoundation.org, alexcontini!users.noreply.github.com
 	The Linux Foundation
 alexcope: alexcope!google.com, alexcope!users.noreply.github.com
 	Google LLC
@@ -23771,6 +23774,3 @@ beorn7: beorn!grafana.com, beorn!soundcloud.com, beorn7!users.noreply.github.com
 	SoundCloud Global Limited & Co. KG from 2013-10-01 until 2019-04-01
 	Independent from 2019-04-01 until 2019-06-03
 	Grafana Labs from 2019-06-03
-bep: bep!users.noreply.github.com, bjorn.erik.pedersen!gmail.com, gomes.tisystem!gmail.com, me!aaron.md, well.cco!gmail.com
-	Inmeta until 2015-03-01
-	BEP Consulting Group from 2015-03-01
