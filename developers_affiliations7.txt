@@ -1828,8 +1828,10 @@ rlenferink: lenferinkroy!gmail.com, mkubaczyk!egnyte.com, rlenferink!apache.org,
 rlenglet: rlenglet!google.com, rlenglet!users.noreply.github.com, romain.lenglet!berabera.info
 	VMware Inc. until 2014-10-01
 	Oracle America Inc. from 2014-10-01 until 2017-01-01
-	Stelth Startrup from 2017-01-01 until 2018-10-22
-	Google LLC from 2018-10-22
+	Isovalent from 2017-01-01 until 2018-10-22
+	Google LLC from 2018-10-22 until 2020-07-01
+	Aviatrix from 2020-07-01 until 2022-01-01
+	SGNL from 2022-01-01
 rleon: leonro!mellanox.com
 	Mellanox
 rleungx: rleungx!gmail.com, rleungx!users.noreply.github.com
@@ -21057,15 +21059,8 @@ tgracchus: ulises.olivenza!gmail.com
 	Independent from 2014-10-01 until 2014-12-01
 	King from 2014-12-01 until 2016-04-01
 	Schibsted Media Group from 2016-04-01
-tgraf: agniva.quicksilver!gmail.com, tgraf!noironetworks.com, tgraf!suug.ch, tgraf!tgraf.ch, tgraf!users.noreply.github.com
-	Covalent
-tgraf: clintp1!gmail.com
-	Worldline Global until 2014-08-01
-	Independent from 2014-08-01 until 2015-04-01
-	Kelkoo Group from 2015-04-01 until 2015-09-01
-	OVH SAS from 2015-09-01 until 2018-06-01
-	LumApps from 2018-06-01 until 2021-01-01
-	Datadog Inc from 2021-01-01
+tgraf: thomas!cilium.io, agniva.quicksilver!gmail.com, tgraf!noironetworks.com, tgraf!suug.ch, tgraf!tgraf.ch, tgraf!users.noreply.github.com
+	Isovalent
 tgriesser: tgriesser!gmail.com, tgriesser10!gmail.com
 	Snugg Home LLC until 2016-09-01
 	Rocketrip Inc from 2016-09-01 until 2017-12-01
