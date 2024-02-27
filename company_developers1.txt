@@ -37,6 +37,7 @@ $MARTBIN:
 	fluxcdbot: fluxcdbot!users.noreply.github.com
 	fossabot: badges!fossa.io, dmackerman!gmail.com, fossabot!users.noreply.github.com, support!fossa.io
 	goreleaserbot: goreleaser!carlosbecker.com, goreleaserbot!users.noreply.github.com
+	haddscot: haddscot!amazon.com from 2024-02-26
 	intellij-rainbow-brackets: intellij-rainbow-brackets!users.noreply.github.com
 	istio-testing: istio.testing!gmail.com
 	jenkins-rook: jenkins-rook!users.noreply.github.com
