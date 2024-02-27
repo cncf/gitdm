@@ -874,6 +874,9 @@ bimargulies: bimargulies!apache.org
 	Apache
 bimargulies-google: bimargulies-google!users.noreply.github.com
 	Google LLC
+bimmlerd: david.bimmler!isovalent.com, bimmlerd!users.noreply.github.com
+	Improbable Worlds Limited from 2016-11-01 until 2017-12-01
+	Isovalent from 2022-10-01
 bimtauer: bimtauer!users.noreply.github.com
 	Independent until 2018-06-01
 	Beyond from 2018-06-01 until 2018-10-01
@@ -3640,6 +3643,11 @@ brkykan: brkykan!users.noreply.github.com
 	Brabbler from 2018-08-01 until 2019-06-01
 	ProGlove from 2019-06-01 until 2021-02-01
 	Upvest from 2021-02-01
+brlbil: birol!cilium.io, brlbil!users.noreply.github.com
+	Red Hat Inc. from 2015-01-01 until 2019-01-01
+	Basefarm from 2019-06-01 until 2022-03-01
+	Ignite from 2022-03-01 until 2022-11-01
+	Isovalent from 2022-11-01
 brmurphy: brmurphy!users.noreply.github.com
 	G-Research
 broadcom-wiced-admin: ehunter!broadcom.com
@@ -7584,7 +7592,9 @@ chancez: chance!coreos.com, chance.zibolski!coreos.com, chance.zibolski!gmail.co
 	Mozilla Corporation until 2014-08-01
 	Independent from 2014-08-01 until 2015-07-01
 	Red Hat Inc. from 2015-07-01 until 2019-12-01
-	Rigetti & Co Inc from 2019-12-01
+	Rigetti & Co Inc from 2019-12-01 until 2021-06-01
+	Apple Inc. from 2021-06-01 until 2022-03-01
+	Isovalent from 2022-03-01
 chandan-srm: chandan-srm!users.noreply.github.com
 	Independent
 chandanbn: chandanbn!users.noreply.github.com
@@ -15086,6 +15096,9 @@ darobs: darobs!users.noreply.github.com
 	Independent from 2014-10-01 until 2015-04-01
 	Protingent from 2015-04-01 until 2015-10-01
 	Microsoft Corporation from 2015-10-01
+darox: maderdario!gmail.com, darox!users.noreply.github.com
+	Swisscom until 2023-02-01
+	Isovalent from 2023-02-01
 darraghjones: darraghjones!users.noreply.github.com
 	Genius Sports
 darren-bell-nanthealth: darren-bell-nanthealth!users.noreply.github.com
@@ -20827,6 +20840,8 @@ donhighmsft: donghigh!yahoo.com
 	Microsoft Corporation from 2020-12-01
 donhui: 977675308!qq.com, anubhavjain04!gmail.com, donghui!mail.jenkins-zh.cn, donhui!users.noreply.github.com, helphi.he!qq.com, wangdonghui!jenkins-zh.cn
 	Independent
+doniacld: donia.cld!isovalent.com, doniacld!users.noreply.github.com
+	Isovalent from 2023-03-01
 donileo: donileo!users.noreply.github.com
 	Adonis Peralta until 2018-12-01
 	Kiswe Mobile from 2018-12-01
@@ -22855,6 +22870,8 @@ dyladan: dyladan!users.noreply.github.com
 	Dynatrace LLC from 2016-09-01
 dylanahsmith: Dylan.Smith!shopify.com, dylanahsmith!users.noreply.github.com, kelly!kellyjandrews.com
 	Shopify Inc.
+dylandreimerink: dylan.reimerink!isovalent.com, dylandreimerink!users.noreply.github.com
+	Isovalent
 dylanenabled: dylanenabled!users.noreply.github.com
 	Enabled Business Solutions Limited
 dylang: dylang!gmail.com, dylang!users.noreply.github.com

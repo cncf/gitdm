@@ -699,7 +699,8 @@ rgo3: r.goegge!outlook.com, rgo3!users.noreply.github.com
 	ConDev from 2016-11-01 until 2017-09-01
 	Webtrekk from 2017-09-01 until 2018-07-01
 	D2iQ Inc. (f/k/a Mesosphere) from 2018-07-01 until 2020-11-01
-	Independent from 2020-11-01
+	Independent from 2020-11-01 until 2022-04-01
+	Isovalent from 2022-04-01
 rgolangh: rgolan!redhat.com, rgolangh!users.noreply.github.com
 	Red Hat Inc.
 rgoldfinger-quizlet: rgoldfinger-quizlet!users.noreply.github.com
@@ -7374,8 +7375,9 @@ sayantani11: ii.sayantani.ii!gmail.com, sayantani11!users.noreply.github.com
 sayboras: sayboras!users.noreply.github.com, sayboras!yahoo.com
 	Infosys Limited until 2015-05-01
 	Visa Inc. from 2015-05-01 until 2018-01-01
-	Latitude Geographics from 2018-01-01 until 2020-07-01
-	Cilium from 2020-07-01
+	Latitude Geographics from 2018-01-01 until 2020-11-01
+	Zendesk from 2020-11-01 until 2022-01-01 
+	Isovalent from 2022-01-01
 sayhar: sayhar!users.noreply.github.com
 	Finvisor until 2014-11-01
 	Independent from 2014-11-01 until 2015-01-01
@@ -22211,6 +22213,10 @@ thorion3006: thorion3006!gmail.com, thorion3006!users.noreply.github.com
 thorn0: thorn.mailbox!gmail.com, thorn0!users.noreply.github.com
 	Stuzo Inc. until 2014-03-01
 	NewtonIdeas LLC from 2014-03-01
+thorn3r: timothy.horner!isovalent.com, thorn3r!users.noreply.github.com
+	Linode LLC. from 2017-12-01 until 2022-03-01
+	Akamai Technologies Inc. from 2022-03-01 until 2022-10-01
+	Isovalent from 2022-10-01
 thorstenb: gudleik!gmail.com, tbehrens!suse.com
 	SUSE LLC
 thorstenwillenbacher: thorsten.willenbacher!sap.com
@@ -22331,7 +22337,9 @@ ti-mo: ti-mo!users.noreply.github.com, timo!incline.eu
 	Independent from 2015-12-01 until 2016-01-01
 	Technicolor from 2016-01-01 until 2016-08-01
 	The Weather Company from 2016-08-01 until 2017-05-01
-	Klarrio BV from 2017-05-01
+	Klarrio BV from 2017-05-01 until 2019-04-01
+	Cabify from 2019-05-01 until 2020-09-01
+	Isovalent from 2020-09-01
 tiagoangelozup: tiago.angelo!zup.com.br
 	Venturus until 2016-05-01
 	ADTsys Cloud Computing. from 2016-05-01 until 2016-10-01
@@ -23091,7 +23099,9 @@ tiwillia: tiwillia!redhat.com, tiwillia!users.noreply.github.com
 tixxdz: djalal!endocode.com, djalal!opendevices.io, tixxdz!gmail.com, tixxdz!opendz.org, tixxdz!users.noreply.github.com
 	Independent until 2015-05-01
 	Endocode from 2015-05-01 until 2017-08-01
-	Open Devices from 2017-08-01
+	Open Devices from 2017-08-01 until 2020-10-01
+	Independent from 2020-11-01 until 2022-04-01
+	Isovalent from 2022-04-01
 tixy: tixy!linaro.org
 	Linaro Limited
 tizhou86: tizhou1986!gmail.com, tizhou86!users.noreply.github.com, zhouti!baidu.com
