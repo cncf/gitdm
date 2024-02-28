@@ -5,6 +5,45 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+edofic: edofic!users.noreply.github.com
+	Koofr until 2015-05-01
+	Reciprocity from 2015-05-01 until 2017-12-01
+	Monoid Andraž Bajt from 2017-12-01 until 2018-01-01
+	Bitstamp from 2018-01-01 until 2021-05-01
+	LeanIX from 2021-05-01
+edonkor1: edonkor1!users.noreply.github.com
+	Microsoft Corporation
+edouardKaiser: edouard.kaiser!gmail.com, edouardKaiser!users.noreply.github.com
+	Skiddoo Pty Ltd
+edovale: edovale!gmail.com, edovale!users.noreply.github.com
+	Independent until 2015-10-01
+	Huru Inc from 2015-10-01
+edr3x: edr3x!users.noreply.github.com
+	Independent until 2023-01-01
+	InternSathi from 2023-01-01
+edrandall: edrandall!users.noreply.github.com
+	D-VoiS Communications Private Limited (I-ON) until 2015-07-01
+	BlackRock Inc. from 2015-07-01
+edreed: edreed!microsoft.com, edreed!users.noreply.github.com
+	Microsoft Corporation
+edrevo: edrevo!users.noreply.github.com
+	Telefónica I+D
+edrex: edrex!users.noreply.github.com, ericdrex!gmail.com
+	Plainsight
+edrickwong: edrickwong!users.noreply.github.com, edwong!microsoft.com
+	Apple Inc. until 2014-12-01
+	Independent from 2014-12-01 until 2015-05-01
+	Apple Inc. from 2015-05-01 until 2015-08-01
+	Independent from 2015-08-01 until 2016-01-01
+	Pebble from 2016-01-01 until 2016-04-01
+	Independent from 2016-04-01 until 2016-10-01
+	Sony Marketing Inc. from 2016-10-01 until 2017-05-01
+	Capital from 2017-05-01 until 2017-09-01
+	Independent from 2017-09-01 until 2018-05-01
+	Ascent from 2018-05-01 until 2018-07-01
+	Microsoft Corporation from 2018-07-01
+edsantiago: edsantiago!users.noreply.github.com, santiago!redhat.com
+	Red Hat Inc.
 edsiper: edsiper!gmail.com, edsiper!users.noreply.github.com, eduardo!monkey.io, eduardo!treasure-data.com
 	Oracle America Inc. until 2015-01-01
 	Monkey Project from 2015-01-01 until 2016-01-01
@@ -1300,6 +1339,7 @@ elopez: emilio!elopez.com.ar, emilio.lopez!collabora.co.uk
 elordahl: elordahl!secureauth.com, elordahl!users.noreply.github.com, elordahl!vt.edu, eric.lordahl!mandiant.com
 	Virginia Tech
 eloycoto: eloy.coto!gmail.com, eloycoto!users.noreply.github.com
+	Independent until 2017-11-01
 	Isovalent from 2017-11-01 until 2019-04-01
 	Red Hat Inc. from 2019-04-01
 eloyekunle: elijah.oyekunle!ehealthnigeria.org, eloyekunle!gmail.com, eloyekunle!users.noreply.github.com
@@ -9006,7 +9046,7 @@ gentisaliu: gentisaliu!gmail.com
 	Green Parrot from 2016-03-01 until 2018-07-01
 	Independent from 2018-07-01 until 2019-04-01
 	Fidelity National Information Services Inc. from 2019-04-01
-gentoo-root: maxtram95!gmail.com, maxim!isovalent.com
+gentoo-root: maxim!isovalent.com, maxtram95!gmail.com
 	Independent until 2015-07-01
 	Cruxlab from 2015-07-01 until 2018-10-01
 	Mellanox from 2018-10-01 until 2022-10-01
@@ -9841,7 +9881,8 @@ giorgioazzinnaro: giorgio.azzinnaro!gmail.com, giorgioazzinnaro!users.noreply.gi
 	Optimise Holdings Ltd from 2017-01-01 until 2017-08-01
 	bitByteMix from 2017-08-01 until 2017-11-01
 	Avaloq Group AG from 2017-11-01
-giorio94: marco.iorio!isovalent.com, giorio94!users.noreply.github.com
+giorio94: giorio94!users.noreply.github.com, marco.iorio!isovalent.com
+	Independent until 2023-01-01
 	Isovalent from 2023-01-01
 giosakti: giosakti!gmail.com
 	PT. Starqle until 2017-12-01
@@ -10308,7 +10349,7 @@ glowell2: gary.lowell!inktank.com
 	Penguin from 2017-11-01
 glrf: fabian.fischer!isovalent.com, glrf!users.noreply.github.com
 	VSHN AG until 2023-08-01
-	Isovalent from 2023-09-01
+	Isovalent from 2023-08-01
 glucaci: gabriel.lucaci.dev!gmail.com
 	Bosch until 2014-05-01
 	Reishauer from 2014-05-01 until 2017-01-01
@@ -12733,8 +12774,8 @@ hacktivist123: akintayoshedrack!gmail.com
 	Cloud Foundry Foundation from 2020-07-01 until 2021-07-01
 	Platform.sh from 2021-07-01 until 2022-08-01
 	LogRocket from 2022-08-01 until 2023-02-01
-	Wilco from 2022-09-01 until 2023-04-01
-	Isovalent from 2023-07-01
+	Wilco from 2023-02-01 until 2023-04-01
+	Isovalent from 2023-04-01
 hacktron95: hacktron95!gmail.com, hacktron95!users.noreply.github.com
 	Independent until 2018-10-01
 	Vase from 2018-10-01 until 2020-04-01
@@ -12751,6 +12792,9 @@ haddasbronfman: haddas!epsagon.com, haddasb!cisco.com, haddasbronfman!users.nore
 	Qualcomm from 2010-05-01 until 2015-02-01
 	Check Point from 2015-02-01 until 2021-06-01
 	Cisco from 2021-06-01
+haddscot: haddscot!amazon.com
+	Independent until 2024-02-26
+	AWS from 2024-02-26
 hadeschen: hadeschen!users.noreply.github.com
 	INNOLUX群創光電 until 2015-12-01
 	Independent from 2015-12-01 until 2016-10-01
@@ -14340,7 +14384,8 @@ hemanthakumar97: hemanthakumar97!users.noreply.github.com
 hemanthariyani: hemanthariyani!ti.com, pdm!zamazal.org
 	Texas Instruments Incorporated
 hemanthmalla: hemanthmalla!gmail.com, hemanthmalla!users.noreply.github.com
-	Paytm Labs until 2018-09-1
+	Paytm Labs until 2018-09-01
+	Independent from 2018-09-01 until 2019-07-01
 	Tower Research Capital from 2019-07-01 until 2020-08-01
 	Datadog Inc from 2020-08-01
 hemanthnakkina: hemanthnakkina!users.noreply.github.com
@@ -23861,55 +23906,3 @@ jessechahal: jessechahal!users.noreply.github.com
 	Calabrio from 2017-02-01 until 2018-12-01
 	Independent from 2018-12-01 until 2019-07-01
 	Absolute Software from 2019-07-01
-jessecorson: jessecorson!users.noreply.github.com
-	ShoreTel until 2017-12-01
-	Capital One from 2017-12-01 until 2021-04-01
-	VMware Inc. from 2021-04-01
-jessedearing: jesse.dearing!gmail.com, jessedearing!users.noreply.github.com
-	New Relic Inc. until 2016-05-01
-	InVision AG from 2016-05-01 until 2018-08-01
-	Heptio Inc. from 2018-08-01 until 2018-12-01
-	VMware Inc. from 2018-12-01
-jesseduffield: jessedduffield!gmail.com, jesseduffield!users.noreply.github.com
-	Independent until 2015-03-01
-	Apple Store from 2015-03-01 until 2016-07-01
-	Deloitte Digital from 2016-07-01 until 2016-12-01
-	Simplify Solutions from 2016-12-01 until 2017-09-01
-	ActivePipe from 2017-09-01
-jesseendahl: amec+github!tyscorp.net, jesseendahl!gmail.com, jesseendahl!users.noreply.github.com
-	Dropbox Inc. until 2015-12-01
-	Fleetsmith from 2015-12-01 until 2022-10-01
-	Apple Inc. from 2022-10-01
-jessegonzalez: jessegonzalez!users.noreply.github.com
-	Independent until 2015-09-01
-	Strategic Employment Partners from 2015-09-01 until 2019-06-01
-	Tiro Security from 2019-06-01 until 2021-08-01
-	Unstoppable Domains from 2021-08-01 until 2021-12-01
-	Upcodes Inc from 2021-12-01
-jessegonzalez-life360: jessegonzalez-life360!users.noreply.github.com
-	WellAware Holdings until 2016-02-01
-	Independent from 2016-02-01 until 2016-07-01
-	Enflux from 2016-07-01 until 2020-04-01
-	Sage from 2020-04-01 until 2021-02-01
-	Life360 from 2021-02-01 until 2023-01-01
-	StepWise from 2023-01-01
-jessegoodier: jessegoodier!users.noreply.github.com
-	VMware Inc. until 2015-04-01
-	Riverbed Technology Inc. from 2015-04-01 until 2019-06-01
-	Jabulani Sp. z o. o from 2019-06-01 until 2022-02-01
-	Stackwatch from 2022-02-01
-jessegross: jesse!kernel.org, jesse!nicira.com
-	VMware Inc.
-jessehu: huh!vmware.com, jessehu!users.noreply.github.com
-	VMware Inc.
-jessehui: chunyang.hui!intel.com
-	Intel Corporation
-jessejohnston-isp: jessejohnston-isp!users.noreply.github.com, jjohnston!istreamplanet.com
-	iStreamPlanet
-jesselpalmer: jesse.l.palmer!gmail.com, jesselpalmer!gmail.com, jesselpalmer!users.noreply.github.com
-	Gannett until 2015-12-01
-	Capital from 2015-12-01 until 2018-06-01
-	Handshakerp from 2018-06-01 until 2019-02-01
-	SurveyMonkey from 2019-02-01
-jesseolsen: jesseolsen!users.noreply.github.com
-	Hewlett

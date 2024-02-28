@@ -5,6 +5,14 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+SamuelMcAravey: SamuelMcAravey!users.noreply.github.com
+	Rixian until 2015-07-01
+	Nvoicepay from 2015-07-01 until 2020-02-01
+	Pearl Bakery from 2020-02-01
+SamuelTechwolf: SamuelTechwolf!users.noreply.github.com
+	Independent until 2016-08-01
+	iText from 2016-08-01 until 2019-11-01
+	TechWolf from 2019-11-01
 Samze: Samze!users.noreply.github.com, samgzeit!gmail.com, sgunaratne!pivotal.io
 	Pivotal
 SanchayanMaity: maitysanchayan!gmail.com
@@ -1298,14 +1306,15 @@ Skandh15: skandhoff!gmail.com
 	Dayal Group from 2018-06-01 until 2018-07-01
 	Independent from 2018-07-01 until 2019-09-01
 	Optum Global Solutions from 2019-09-01
-Skarlso: 182850+Skarlso!users.noreply.github.com, Skarlso!users.noreply.github.com, gergely!weave.works, gergely!kubermatic.com
+Skarlso: 182850+Skarlso!users.noreply.github.com, Skarlso!users.noreply.github.com, gergely!kubermatic.com, gergely!weave.works
 	Camelot Business Solutions Limited until 2015-02-01
 	Independent from 2015-02-01 until 2015-05-01
 	ChemAxon from 2015-05-01 until 2016-02-01
 	Cheppers from 2016-02-01 until 2019-11-01
 	ArangoDB from 2019-11-01 until 2021-01-01
 	International Business Machines Corporation from 2021-01-01 until 2021-04-01
-	Weaveworks Inc. from 2021-04-01 until 2024-01-28
+	Weaveworks Inc. from 2021-04-01 until 2024-02-01
+	Independent from 2024-02-01 until 2024-03-01
 	Kubermatic GmbH from 2024-03-01
 Skeen: Skeen!users.noreply.github.com, sovende!gmail.com
 	IOMOSS until 2017-03-01
@@ -11153,7 +11162,7 @@ alan-ghelardi: alan.ghelardi!nubank.com.br
 	Independent until 2015-05-01
 	Amdocs from 2015-05-01 until 2017-03-01
 	Nubank Brasil from 2017-03-01
-alan-kut: kutniewski!google.com, alan-kut!users.noreply.github.com
+alan-kut: alan-kut!users.noreply.github.com, kutniewski!google.com
 	Google LLC
 alan-maguire: alan.maguire!oracle.com
 	Oracle America Inc.
@@ -19234,11 +19243,11 @@ asarubbo: ago!gentoo.org, asarubbo!users.noreply.github.com
 	iPratico from 2018-03-01 until 2018-12-01
 	Gentoo Linux from 2018-12-01 until 2019-01-01
 	Loway from 2019-01-01
-asauber: a3sauber!gmail.com, asauber!users.noreply.github.com, andrew.sauber!isovalent.com
+asauber: a3sauber!gmail.com, andrew.sauber!isovalent.com, asauber!users.noreply.github.com
 	Monetate until 2016-01-01
 	Stel Life from 2016-01-01 until 2017-10-01
 	Linode LLC. from 2017-10-01 until 2021-01-01
-	The New York Times from 2021-08-01 until 2023-05-01
+	New York Times from 2021-01-01 until 2023-05-01
 	Isovalent from 2023-05-01
 asauray: asauray!users.noreply.github.com
 	Independent until 2015-04-01
@@ -19902,7 +19911,7 @@ aspnetdb: shiyanmagic!gmail.com
 aspsk: a.s.protopopov!gmail.com, aspsk!users.noreply.github.com
 	Andium until 2018-09-01
 	Linode LLC. from 2018-09-01 until 2020-12-01
-	Isovalent from 2022-05-01
+	Isovalent from 2020-12-01
 asraa: asraa!google.com, asraa!users.noreply.github.com
 	Google LLC
 asridharan: asridharan!users.noreply.github.com, avinash.sridharan!gmail.com
@@ -23767,18 +23776,3 @@ benz0li: benz0li!users.noreply.github.com
 	Independent from 2015-02-01 until 2015-12-01
 	b-data from 2015-12-01 until 2020-03-01
 	Wisy from 2020-03-01
-benzimmer: benzimmer!users.noreply.github.com, me!benzimmer.net
-	Beny Global Inc
-benzvan: ben!zvan.net, benzvan!users.noreply.github.com
-	Independent until 2017-01-01
-	Target from 2017-01-01
-beorc: beorc!users.noreply.github.com
-	HttpLab until 2017-02-01
-	Netronix Inc. from 2017-02-01
-beorn7: beorn!grafana.com, beorn!soundcloud.com, beorn7!users.noreply.github.com, bjoern!rabenste.in, bjoern!soundcloud.com
-	Independent until 2006-01-23
-	Google LLC from 2006-01-23 until 2013-06-01
-	Independent from 2013-06-01 until 2013-10-01
-	SoundCloud Global Limited & Co. KG from 2013-10-01 until 2019-04-01
-	Independent from 2019-04-01 until 2019-06-03
-	Grafana Labs from 2019-06-03

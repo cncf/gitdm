@@ -5,6 +5,21 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+benzimmer: benzimmer!users.noreply.github.com, me!benzimmer.net
+	Beny Global Inc
+benzvan: ben!zvan.net, benzvan!users.noreply.github.com
+	Independent until 2017-01-01
+	Target from 2017-01-01
+beorc: beorc!users.noreply.github.com
+	HttpLab until 2017-02-01
+	Netronix Inc. from 2017-02-01
+beorn7: beorn!grafana.com, beorn!soundcloud.com, beorn7!users.noreply.github.com, bjoern!rabenste.in, bjoern!soundcloud.com
+	Independent until 2006-01-23
+	Google LLC from 2006-01-23 until 2013-06-01
+	Independent from 2013-06-01 until 2013-10-01
+	SoundCloud Global Limited & Co. KG from 2013-10-01 until 2019-04-01
+	Independent from 2019-04-01 until 2019-06-03
+	Grafana Labs from 2019-06-03
 bep: bep!users.noreply.github.com, bjorn.erik.pedersen!gmail.com, gomes.tisystem!gmail.com, me!aaron.md, well.cco!gmail.com
 	Inmeta until 2015-03-01
 	BEP Consulting Group from 2015-03-01
@@ -874,9 +889,10 @@ bimargulies: bimargulies!apache.org
 	Apache
 bimargulies-google: bimargulies-google!users.noreply.github.com
 	Google LLC
-bimmlerd: david.bimmler!isovalent.com, bimmlerd!users.noreply.github.com
+bimmlerd: bimmlerd!users.noreply.github.com, david.bimmler!isovalent.com
+	Independent until 2016-11-01
 	Improbable Worlds Limited from 2016-11-01 until 2017-12-01
-	Isovalent from 2022-10-01
+	Isovalent from 2017-12-01
 bimtauer: bimtauer!users.noreply.github.com
 	Independent until 2018-06-01
 	Beyond from 2018-06-01 until 2018-10-01
@@ -3644,8 +3660,9 @@ brkykan: brkykan!users.noreply.github.com
 	ProGlove from 2019-06-01 until 2021-02-01
 	Upvest from 2021-02-01
 brlbil: birol!cilium.io, brlbil!users.noreply.github.com
+	Independent until 2015-01-01
 	Red Hat Inc. from 2015-01-01 until 2019-01-01
-	Basefarm from 2019-06-01 until 2022-03-01
+	Basefarm from 2019-01-01 until 2022-03-01
 	Ignite from 2022-03-01 until 2022-11-01
 	Isovalent from 2022-11-01
 brmurphy: brmurphy!users.noreply.github.com
@@ -10998,6 +11015,9 @@ coderanger: coderanger!users.noreply.github.com, noah!coderanger.net
 	Independent from 2018-04-01 until 2018-07-01
 	Ridecell from 2018-07-01 until 2020-05-01
 	Geomagical from 2020-05-01
+coderbirju: arjun1997birju!gmail.com, arjunry!amazon.com, yogidas.a!northeastern.edu
+	Independent until 2024-02-26
+	Amazon from 2024-02-26
 codergr: codergr!users.noreply.github.com, sotiris.salloumis!gmail.com
 	Ericsson until 2018-02-01
 	Independent from 2018-02-01 until 2018-07-01
@@ -15096,7 +15116,7 @@ darobs: darobs!users.noreply.github.com
 	Independent from 2014-10-01 until 2015-04-01
 	Protingent from 2015-04-01 until 2015-10-01
 	Microsoft Corporation from 2015-10-01
-darox: maderdario!gmail.com, darox!users.noreply.github.com
+darox: darox!users.noreply.github.com, maderdario!gmail.com
 	Swisscom until 2023-02-01
 	Isovalent from 2023-02-01
 darraghjones: darraghjones!users.noreply.github.com
@@ -20840,7 +20860,8 @@ donhighmsft: donghigh!yahoo.com
 	Microsoft Corporation from 2020-12-01
 donhui: 977675308!qq.com, anubhavjain04!gmail.com, donghui!mail.jenkins-zh.cn, donhui!users.noreply.github.com, helphi.he!qq.com, wangdonghui!jenkins-zh.cn
 	Independent
-doniacld: donia.cld!isovalent.com, doniacld!users.noreply.github.com
+doniacld: donia.cld!gmail.com, donia.cld!isovalent.com, doniacld!users.noreply.github.com
+	Independent until 2023-03-01
 	Isovalent from 2023-03-01
 donileo: donileo!users.noreply.github.com
 	Adonis Peralta until 2018-12-01
@@ -23685,42 +23706,3 @@ edoblette: edoblette!users.noreply.github.com
 	DigitOwl from 2018-06-01 until 2019-10-01
 	Independent from 2019-10-01 until 2023-02-01
 	Orange SA from 2023-02-01
-edofic: edofic!users.noreply.github.com
-	Koofr until 2015-05-01
-	Reciprocity from 2015-05-01 until 2017-12-01
-	Monoid Andraž Bajt from 2017-12-01 until 2018-01-01
-	Bitstamp from 2018-01-01 until 2021-05-01
-	LeanIX from 2021-05-01
-edonkor1: edonkor1!users.noreply.github.com
-	Microsoft Corporation
-edouardKaiser: edouard.kaiser!gmail.com, edouardKaiser!users.noreply.github.com
-	Skiddoo Pty Ltd
-edovale: edovale!gmail.com, edovale!users.noreply.github.com
-	Independent until 2015-10-01
-	Huru Inc from 2015-10-01
-edr3x: edr3x!users.noreply.github.com
-	Independent until 2023-01-01
-	InternSathi from 2023-01-01
-edrandall: edrandall!users.noreply.github.com
-	D-VoiS Communications Private Limited (I-ON) until 2015-07-01
-	BlackRock Inc. from 2015-07-01
-edreed: edreed!microsoft.com, edreed!users.noreply.github.com
-	Microsoft Corporation
-edrevo: edrevo!users.noreply.github.com
-	Telefónica I+D
-edrex: edrex!users.noreply.github.com, ericdrex!gmail.com
-	Plainsight
-edrickwong: edrickwong!users.noreply.github.com, edwong!microsoft.com
-	Apple Inc. until 2014-12-01
-	Independent from 2014-12-01 until 2015-05-01
-	Apple Inc. from 2015-05-01 until 2015-08-01
-	Independent from 2015-08-01 until 2016-01-01
-	Pebble from 2016-01-01 until 2016-04-01
-	Independent from 2016-04-01 until 2016-10-01
-	Sony Marketing Inc. from 2016-10-01 until 2017-05-01
-	Capital from 2017-05-01 until 2017-09-01
-	Independent from 2017-09-01 until 2018-05-01
-	Ascent from 2018-05-01 until 2018-07-01
-	Microsoft Corporation from 2018-07-01
-edsantiago: edsantiago!users.noreply.github.com, santiago!redhat.com
-	Red Hat Inc.

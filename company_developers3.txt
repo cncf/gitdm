@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Data Xu:
+	kidiyoor: gauthamvk.vk!gmail.com, kidiyoor!users.noreply.github.com from 2015-05-01 until 2015-07-01
+Data on Kubernetes:
+	dtopdontstop: dtopdontstop!users.noreply.github.com from 2021-06-01
+Data piper:
+	jorwalk: jorwalk!gmail.com, jorwalk!users.noreply.github.com from 2021-03-01
 Data to Decisions CRC:
 	ajlane: ajlane!users.noreply.github.com from 2014-09-01 until 2018-07-01
 	sahan91: sahan.serasinghe!gmail.com, sahan91!users.noreply.github.com from 2017-11-01 until 2019-04-01
@@ -279,6 +285,7 @@ Datadog Inc:
 	guyboltonking: guyboltonking!users.noreply.github.com from 2022-05-01
 	gzussa: gzussa!users.noreply.github.com from 2016-05-01 until 2020-07-01
 	hellertime: hellertime!gmail.com
+	hemanthmalla: hemanthmalla!gmail.com, hemanthmalla!users.noreply.github.com from 2020-08-01
 	hkaj: haissam.kaj!gmail.com, hkaj!users.noreply.github.com
 	hmakkapati: hmakkapati!users.noreply.github.com from 2019-02-01
 	hosseinsia: hosseinsia!users.noreply.github.com from 2021-07-01
@@ -341,7 +348,6 @@ Datadog Inc:
 	tbroadley: buriedunderbooks!hotmail.com, tbroadley!users.noreply.github.com from 2017-12-01
 	tgermain: tgermain!users.noreply.github.com, timothee.germain!wanadoo.fr from 2021-01-01
 	tgorochowik: t!gorochowik.com from 2021-01-01
-	tgraf: clintp1!gmail.com from 2021-01-01
 	thbkrkr: thbkrkr!users.noreply.github.com from 2021-01-01
 	thcdrt: thomas.coudert!corp.ovh.com from 2021-01-01
 	theRealWardo: contact!mwdesigns.com from 2021-01-01
@@ -2181,8 +2187,6 @@ DevOpsTech:
 	sanjaynaikwadi: sanjay.naikwadi!gmail.com, sanjaynaikwadi!users.noreply.github.com from 2017-11-01 until 2018-07-01
 DevOpsify Inc.:
 	tomqwu: tom!devopsify.io, tom.q.wu!gmail.com, tomqwu!users.noreply.github.com from 2015-06-01
-DevRel:
-	hacktivist123: akintayoshedrack!gmail.com from 2023-02-01
 DevRev:
 	prabath: prabath!apache.org, prabath!users.noreply.github.com from 2022-01-01
 DevScope:
@@ -2207,7 +2211,7 @@ Devek:
 DevelMagic:
 	martinformi: martinformi!users.noreply.github.com from 2016-11-01 until 2018-03-01
 Develer Srl:
-	Pippolo84: fabio.falzoi84!gmail.com from 2015-03-01 until 2018-02-01
+	Pippolo84: fabio.falzoi!isovalent.com, fabio.falzoi84!gmail.com, ffalzoi!users.noreply.github.com from 2015-03-01 until 2022-06-01
 DeveloPassion:
 	dsebastien: dsebastien!users.noreply.github.com from 2020-09-01
 Develop for Good:
@@ -2637,7 +2641,7 @@ Digital Asset Holdings LLC:
 	addisonbair: addison.bair!gmail.com, addisonbair!users.noreply.github.com, alter.ronen!gmail.com, markfinal!hotmail.com, ronan at jouchet.fr, ronan!jouchet.fr from 2018-11-01 until 2019-05-01
 	bethaitman: bethaitman!users.noreply.github.com from 2018-08-01
 	dgarzon: d3!digitalasset.com, dgarzon!users.noreply.github.com from 2015-05-01 until 2019-06-01
-	joamaki: joamaki!gmail.com from 2016-05-01 until 2021-03-01
+	joamaki: joamaki!gmail.com, jussi!isovalent.com from 2016-05-01 until 2021-03-01
 	mjhopkins: markjohnhopkins!gmail.com, mjhopkins!users.noreply.github.com from 2018-09-01
 Digital Cable:
 	ionutz89: ionutz89!users.noreply.github.com until 2015-07-01
@@ -6613,6 +6617,7 @@ Elasticsearch Inc.:
 	pmoust: mike!capu.to, pmoust!elastic.co, pmoust!gmail.com, pmoust!users.noreply.github.com from 2016-08-01
 	pugnascotia: pugnascotia!users.noreply.github.com from 2017-03-01
 	rhass: rhass!users.noreply.github.com from 2019-04-01
+	rockdaboot: rockdaboot!users.noreply.github.com, tim!optimyze.cloud, tim.ruehsen!gmx.de, tim.ruhsen!elastic.co  from 2021-11-01
 	roncohen: cohen1!gmail.com, ron!elastic.co, roncohen!users.noreply.github.com from 2017-04-01
 	ruflin: ruflin!elastic.co, ruflin!users.noreply.github.com, spam!ruflin.com
 	sakurai-youhei: sakurai-youhei!users.noreply.github.com, sakurai.youhei!gmail.com from 2021-04-01
@@ -8161,6 +8166,7 @@ Ergeon:
 Ergo:
 	hugobarona: hugobarona!users.noreply.github.com from 2020-05-01
 Ergon:
+	mhofstetter: mhofstetter!users.noreply.github.com from 2022-01-01 until 2023-02-01
 	simschla: github!survive.ch, simon!survive.ch
 Ergon Capital Management SA:
 	ddrinka: ddrinka!users.noreply.github.com
@@ -10370,7 +10376,7 @@ Faculty:
 Fad Games:
 	mjtorn: mjtorn!users.noreply.github.com from 2018-09-01
 Faegre Drinker:
-	ldelossa: ldelossa!users.noreply.github.com, ldelossa.ld!gmail.com from 2014-04-01 until 2015-02-01
+	ldelossa: ldelossa!users.noreply.github.com, ldelossa.ld!gmail.com, louis!isovalent.com from 2014-04-01 until 2015-02-01
 Faerch:
 	AndersBennedsgaard: AndersBennedsgaard!users.noreply.github.com, abbennedsgaard!gmail.com from 2014-08-01 until 2014-11-01
 Fainin:

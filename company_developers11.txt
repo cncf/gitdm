@@ -2,6 +2,14 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+dunnhumby media:
+	camilo-schoeningh-sociomantic: camilo-schoeningh-sociomantic!users.noreply.github.com from 2019-06-01
+duonet:
+	santiagocardin: santiago.cardin!gmail.com, santiagocardin!users.noreply.github.com from 2021-04-01
+duxxie.nl:
+	jeroenr: jeroenr!users.noreply.github.com from 2021-12-01 until 2023-01-01
+dvcoders:
+	allenyinx: allenyinx!users.noreply.github.com from 2016-08-01 until 2017-05-01
 dwpbank:
 	christianwoehrle: christian.woehrle!googlemail.com, christianwoehrle!users.noreply.github.com
 dxw:
@@ -3059,7 +3067,7 @@ optilyz:
 	dbartholomae: daniel!bartholomae.name, dbartholomae!users.noreply.github.com, info!artipixel.co.il, lqclester!gmail.com from 2021-07-01
 optimyze:
 	florianl: dev!der-flo.net, florian.lehner!elastic.co, florianl!users.noreply.github.com from 2020-02-01 until 2021-10-01
-	rockdaboot: rockdaboot!users.noreply.github.com, tim.ruehsen!gmx.de from 2020-06-01
+	rockdaboot: rockdaboot!users.noreply.github.com, tim!optimyze.cloud, tim.ruehsen!gmx.de, tim.ruhsen!elastic.co  from 2020-06-01 until 2021-11-01
 	thomasdullien: thomasdullien!users.noreply.github.com from 2018-12-01 until 2021-11-01
 optobee:
 	ovanes: om!dev.updatemachine.com, ovanes!users.noreply.github.com from 2016-10-01 until 2017-08-01

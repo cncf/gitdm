@@ -2,6 +2,16 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+BlackRock:
+	fouadsemaan: fouadsemaan!users.noreply.github.com
+	jiakalita: jiakalita!users.noreply.github.com from 2017-01-01 until 2021-03-01
+	kaushikchaubal: kaushikchaubal!gmail.com, kaushikchaubal!users.noreply.github.com
+	nareshagrawal: nareshagrawal!users.noreply.github.com from 2021-10-01
+	nickibi: ybi!linkedin.com from 2015-06-01 until 2015-08-01
+	psiingh: 31987991+psiingh!users.noreply.github.com, paramjit.singh!infuse.it, psiingh!users.noreply.github.com from 2018-05-01 until 2021-05-01
+	rhcu: rhcu!users.noreply.github.com from 2019-06-01 until 2019-08-01
+	rumstead: rumstead!users.noreply.github.com
+	tiwarisanjay: tiwarisanjay!users.noreply.github.com from 2021-06-01
 BlackRock Inc.:
 	34code: 34code!users.noreply.github.com from 2019-01-01
 	Piccirello: Piccirello!users.noreply.github.com, thomas.piccirello!gmail.com from 2016-08-01 until 2018-12-01
@@ -4601,6 +4611,7 @@ Cabify:
 	leandrocr: leandro.repolho!theiconic.com.au, leandrocr!users.noreply.github.com, leandrorepolho!gmail.com from 2015-10-15 until 2016-06-15
 	mapno: mariorvinas!gmail.com from 2018-05-01 until 2021-03-01
 	rikez: enricomalvarenga!gmail.com from 2019-09-01 until 2020-11-01
+	ti-mo: ti-mo!users.noreply.github.com, timo!incline.eu from 2019-04-01 until 2020-09-01
 	wsilva: wsilva!users.noreply.github.com, wsilva!usp.br from 2018-10-01 until 2019-12-01
 Cabin4:
 	VishnuuVijayan: vishnu08ptb!gmail.com from 2019-01-01
@@ -4874,7 +4885,7 @@ Camdenx:
 Cameco:
 	ddmunhoz: ddmunhoz!users.noreply.github.com, munhozdiego!live.com from 2016-09-01 until 2019-07-01
 Camelot Business Solutions Limited:
-	Skarlso: 182850+Skarlso!users.noreply.github.com, Skarlso!users.noreply.github.com, gergely!weave.works until 2015-02-01
+	Skarlso: 182850+Skarlso!users.noreply.github.com, Skarlso!users.noreply.github.com, gergely!kubermatic.com, gergely!weave.works until 2015-02-01
 	qwcode: qwcode!gmail.com until 2016-11-01
 	rikturnbull: 37418542+rikturnbull!users.noreply.github.com until 2015-02-01
 	z0mbix: z0mbix!users.noreply.github.com from 2017-03-01 until 2017-10-01
@@ -7114,7 +7125,7 @@ Chelsio Communications:
 	sandeepV2: sandeepV2!users.noreply.github.com from 2014-12-01 until 2018-05-01
 	vishalsdk: vishal!chelsio.com
 ChemAxon:
-	Skarlso: 182850+Skarlso!users.noreply.github.com, Skarlso!users.noreply.github.com, gergely!weave.works from 2015-05-01 until 2016-02-01
+	Skarlso: 182850+Skarlso!users.noreply.github.com, Skarlso!users.noreply.github.com, gergely!kubermatic.com, gergely!weave.works from 2015-05-01 until 2016-02-01
 	denrolya: denrolya!gmail.com, denrolya!users.noreply.github.com from 2015-05-01 until 2017-09-01
 Chemical Abstracts Service:
 	MartinKirchner: MartinKirchner!users.noreply.github.com
@@ -7130,7 +7141,7 @@ ChenMed:
 	tyu0912: tyu0912!users.noreply.github.com from 2015-05-01 until 2018-12-01
 Cheppers:
 	ProZsolt: ProZsolt!users.noreply.github.com, matt!thinkful.com, prozsolt!gmail.com from 2015-01-01 until 2018-01-01
-	Skarlso: 182850+Skarlso!users.noreply.github.com, Skarlso!users.noreply.github.com, gergely!weave.works from 2016-02-01 until 2019-11-01
+	Skarlso: 182850+Skarlso!users.noreply.github.com, Skarlso!users.noreply.github.com, gergely!kubermatic.com, gergely!weave.works from 2016-02-01 until 2019-11-01
 Cherish:
 	FalconerTC: FalconerTC!users.noreply.github.com, falconertc!colorado.edu from 2017-07-01 until 2019-05-01
 Cherre:
@@ -7534,9 +7545,6 @@ Ciklum:
 	yuriipolishchuk: yuriy.pol!gmail.com from 2016-07-01 until 2017-05-01
 Cikord:
 	Jean-Marc-Le-Fevre: jean-marc.lefevre!blablacar.com until 2015-12-01
-Cilium:
-	aanm: aanm!users.noreply.github.com, aanm90!gmail.com from 2017-01-01
-	sayboras: sayboras!users.noreply.github.com, sayboras!yahoo.com from 2020-07-01
 Cima:
 	winfinit: winfinit!gmail.com from 2017-01-01 until 2019-04-01
 Cima - IT:
@@ -7779,7 +7787,7 @@ Cisco:
 	XSAM: XSAM!users.noreply.github.com, sam!samxie.me, sam.xie!liulishuo.com, xsambundy!gmail.com from 2021-06-01
 	XavierGeerinck: XavierGeerinck!users.noreply.github.com from 2016-09-01 until 2017-01-01
 	YuxinZhou: YuxinZhou!users.noreply.github.com from 2018-05-01 until 2018-08-01
-	aanm: aanm!users.noreply.github.com, aanm90!gmail.com from 2015-01-01 until 2017-01-01
+	aanm: aanm!users.noreply.github.com, aanm90!gmail.com, andre!cilium.io from 2015-01-01 until 2017-01-01
 	aaron-trout: aaron!trouter.me, aaron-trout!users.noreply.github.com until 2018-05-01
 	aaronshurley: aaronshurley!users.noreply.github.com until 2014-10-01
 	abe4tawa8: abe4tawa8!gmail.com, contact!frank-blechschmidt.com
@@ -8220,7 +8228,6 @@ Cisco:
 	rajeshwer: rajeshwer!users.noreply.github.com, rajeshwer.madoori!gmail.com from 2016-02-01 until 2016-07-01
 	rajula96reddy: rajula96reddy!gmail.com, rajula96reddy!users.noreply.github.com from 2019-08-01 until 2020-08-01
 	ramdootp: ramdoot!gmail.com, ramdootp!users.noreply.github.com
-	rastislavszabo: rastislavszabo!users.noreply.github.com, raszabo!cisco.com
 	raunaqgupta: mail!raunaqgupta.com, mmoconnor23!gmail.com, raunaqgupta!users.noreply.github.com from 2021-01-01 until 2023-01-01
 	ravitejb: ravitejb!users.noreply.github.com
 	rblejter: rblejter!cisco.com, rblejter!users.noreply.github.com
@@ -9885,7 +9892,7 @@ Cloudflare Inc:
 	kerolasa: kerolasa!iki.fi, kerolasa!users.noreply.github.com
 	krasi-georgiev: 8903888+krasi-georgiev!users.noreply.github.com, kgeorgie!redhat.com, krasi!vip-consult.solutions, krasi-georgiev!users.noreply.github.com, krasi.root!gmail.com until 2016-05-01
 	lebinh: lebinh!users.noreply.github.com, lebinh.it!gmail.com
-	lmb: lmb!cloudflare.com, lmb!users.noreply.github.com
+	lmb: lmb!cloudflare.com, lmb!isovalent.com, lmb!users.noreply.github.com until 2022-02-01
 	loverend: luke!cloudflare.com
 	maciej: maciej.bilas!gmail.com
 	mattbostock: mattbostock!users.noreply.github.com, mbostock!cloudflare.com from 2016-05-01
@@ -13206,7 +13213,6 @@ Courtanet:
 Covalent:
 	IGassmann: igor!igassmann.me from 2021-12-01
 	danwent: dan!covalent.io, danwent!users.noreply.github.com
-	tgraf: agniva.quicksilver!gmail.com, tgraf!noironetworks.com, tgraf!suug.ch, tgraf!tgraf.ch, tgraf!users.noreply.github.com
 Covariant:
 	JayThomason: JayThomason!users.noreply.github.com from 2019-10-01
 Covarius:
@@ -13867,7 +13873,7 @@ Crutchfield New Media LLC.:
 Crux Intelligence:
 	forumsheth15: forumsheth15!users.noreply.github.com from 2021-04-01
 Cruxlab:
-	gentoo-root: maxtram95!gmail.com from 2015-07-01 until 2018-10-01
+	gentoo-root: maxim!isovalent.com, maxtram95!gmail.com from 2015-07-01 until 2018-10-01
 CrypTag:
 	derpierre65: derpierre65!users.noreply.github.com, steve!tryingtobeawesome.com
 	elimisteve: elimisteve!users.noreply.github.com, satoshi.kumano+gh!gmail.com, steve!tryingtobeawesome.com
@@ -16071,9 +16077,3 @@ Data Traveler:
 Data Trust Peru:
 	bhperry: bhperry!users.noreply.github.com from 2017-09-01 until 2020-04-01
 	tumauwt: tumauwt!users.noreply.github.com until 2014-12-01
-Data Xu:
-	kidiyoor: gauthamvk.vk!gmail.com, kidiyoor!users.noreply.github.com from 2015-05-01 until 2015-07-01
-Data on Kubernetes:
-	dtopdontstop: dtopdontstop!users.noreply.github.com from 2021-06-01
-Data piper:
-	jorwalk: jorwalk!gmail.com, jorwalk!users.noreply.github.com from 2021-03-01

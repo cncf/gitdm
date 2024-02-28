@@ -3941,7 +3941,7 @@ AvvariSaiBharadwaj: AvvariSaiBharadwaj!users.noreply.github.com
 	NMSWorks from 2019-05-01 until 2019-07-01
 	Extra from 2019-07-01 until 2020-05-01
 	Salesforce.com Inc. from 2020-05-01
-AwesomePatrol: amistewicz!google.com, AwesomePatrol!users.noreply.github.com
+AwesomePatrol: AwesomePatrol!users.noreply.github.com, amistewicz!google.com
 	Google LLC
 Awik84: lariel!mellanox.com
 	Mellanox
@@ -6594,8 +6594,6 @@ ConnorGraham: ConnorGraham!users.noreply.github.com, connor!bitovi.com
 	Bitovi from 2020-08-01
 ConnorJC3: ConnorJC3!users.noreply.github.com, conncatl!amazon.com, github!connorjc.io
 	AWS
-Coderbirju: arjunry!amazon.com, arjun1997birju!gmail.com, yogidas.a!northeastern.edu
-	Amazon from 2024-02-26
 ConnorMcMahon: comcmaho!microsoft.com, connorm333!gmail.com
 	Microsoft Corporation
 ConnorSMaynes: connormaynes!gmail.com
@@ -11088,8 +11086,6 @@ Hachimaki: Hachimaki!users.noreply.github.com
 	International Business Machines Corporation from 2018-09-01
 HackToday: HackToday!users.noreply.github.com, wkq5325!gmail.com
 	International Business Machines Corporation
-Haddscot: haddscot!amazon.com
-	AWS from 2024-02-26
 Hades32: Hades32!users.noreply.github.com, hades32!gmail.com
 	Mercedes-Benz AG
 Haegi: Haegi!users.noreply.github.com
@@ -20900,10 +20896,11 @@ PhilipMay: PhilipMay!users.noreply.github.com, eniak.info!gmail.com
 	T-systems
 PhilipNelson5: philipnelson5!gmail.com
 	Independent
-PhilipSchmid: PhilipSchmid!users.noreply.github.com
+PhilipSchmid: PhilipSchmid!users.noreply.github.com, philip.schmid!isovalent.com
 	MAN Diesel &Turbo Schweiz AG until 2016-12-01
 	Independent from 2016-12-01 until 2020-08-01
-	Puzzle ITC GmbH from 2020-08-01
+	Puzzle ITC GmbH from 2020-08-01 until 2023-01-01
+	Isovalent from 2023-01-01
 Philipp-Plotnikov: philipp.plotnikov!icloud.com
 	Codefresh Inc.
 Philipp-Reisner: philipp.reisner!linbit.com
@@ -21020,10 +21017,10 @@ PiotrZakrzewski: PiotrZakrzewski!users.noreply.github.com
 	Plotwise from 2020-08-01
 PiotrZierhoffer: PiotrZierhoffer!users.noreply.github.com, pzierhoffer!antmicro.com
 	ANTMICRO LTD
-Pippolo84: fabio.falzoi84!gmail.com
-	List Spa until 2015-03-01
-	Develer Srl from 2015-03-01 until 2018-02-01
-	Spazio Dati from 2018-02-01
+Pippolo84: fabio.falzoi!isovalent.com, fabio.falzoi84!gmail.com, ffalzoi!users.noreply.github.com
+	Independent until 2015-03-01
+	Develer Srl from 2015-03-01 until 2022-06-01
+	Isovalent from 2022-06-01
 Pirabarlen-Cheenaramen: selven!hackers.mu
 	hackers
 Piroddi: kpiroddi!gmail.com
@@ -23640,11 +23637,3 @@ SamuAlfageme: SamuAlfageme!users.noreply.github.com, samuel!alfage.me, samuel.al
 Samudraneel24: samdsg99!gmail.com, samudasg!cisco.com
 	Independent until 2021-08-01
 	Cisco from 2021-08-01
-SamuelMcAravey: SamuelMcAravey!users.noreply.github.com
-	Rixian until 2015-07-01
-	Nvoicepay from 2015-07-01 until 2020-02-01
-	Pearl Bakery from 2020-02-01
-SamuelTechwolf: SamuelTechwolf!users.noreply.github.com
-	Independent until 2016-08-01
-	iText from 2016-08-01 until 2019-11-01
-	TechWolf from 2019-11-01
