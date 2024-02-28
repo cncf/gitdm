@@ -2397,7 +2397,7 @@ joakimahle: ahle.joakim!gmail.com
 	Tactel Mobile Solutions from 2019-02-01
 joakimr-axis: 47358365+joakimr-axis!users.noreply.github.com, joakimr-axis!users.noreply.github.com
 	Axis
-joamaki: joamaki!gmail.com
+joamaki: joamaki!gmail.com, jussi!isovalent.com
 	Better AG until 2014-10-01
 	Vilea from 2014-10-01 until 2016-05-01
 	Digital Asset Holdings LLC from 2016-05-01 until 2021-03-01
@@ -4998,7 +4998,8 @@ jragula-zs: jragula-zs!users.noreply.github.com
 	McAfee from 2019-08-01 until 2021-08-01
 	Zscaler from 2021-08-01
 jrajahalme: jarno!covalent.io, jarno!ovn.org, jrajahalme!nicira.com, jrajahalme!users.noreply.github.com
-	VMware Inc.
+	VMware Inc. until 2017-05-01
+	Isovalent from 2017-05-01
 jralmaraz: jralmaraz!users.noreply.github.com, jralmaraz1!gmail.com
 	Red Hat Inc. until 2015-03-01
 	Independent from 2015-03-01 until 2015-07-01
@@ -5250,6 +5251,9 @@ jschwarz89: jschwarz!redhat.com
 	Red Hat Inc.
 jschwarzwalder: jschwarzwalder!users.noreply.github.com
 	Amazon
+jschwinger233: gray.liang!isovalent.com, jschwinger233!users.noreply.github.com
+	Shopee from 2018-09-01 until 2022-10-01
+	Isovalent from 2023-01-01
 jsdelivrbot: dak!prospectone.io, jsdelivrbot!users.noreply.github.com
 	b
 jseadragon: jseadragon!users.noreply.github.com
@@ -9577,6 +9581,8 @@ kevmoo: kevmoo!google.com, kevmoo!users.noreply.github.com
 	Google LLC
 kevpar: kevpar!microsoft.com, kevpar!users.noreply.github.com
 	Microsoft Corporation
+kevsecurity: kevin!sheldrake@isovalent.com, kevsecurity!users.noreply.github.com
+	Isovalent
 kevtaylor: kevin.taylor0811!gmail.com, kevtaylor!expedia.com, kevtaylor!users.noreply.github.com
 	Hotels.com until 2019-11-01
 	Independent from 2019-11-01 until 2020-01-01
@@ -13624,7 +13630,7 @@ lambdai: lambdai!users.noreply.github.com, silentdai!gmail.com
 	Meta Platforms Inc. from 2016-10-01 until 2019-01-01
 	Google LLC from 2019-01-01
 lambdanis: lambdanis!users.noreply.github.com
-	Independent
+	Isovalent from 2022-10-01
 lambertjosh: 25085430+lambertjosh!users.noreply.github.com, lambertjosh!users.noreply.github.com
 	International Business Machines Corporation until 2017-01-01
 	GitLab Inc. from 2017-01-01
@@ -14302,7 +14308,7 @@ ldejager: ldejager!users.noreply.github.com
 	Internet Solutions from 2018-05-01 until 2020-09-01
 	Nedbank from 2020-09-01 until 2022-02-01
 	Zscaler from 2022-02-01
-ldelossa: ldelossa!users.noreply.github.com, ldelossa.ld!gmail.com
+ldelossa: ldelossa!users.noreply.github.com, ldelossa.ld!gmail.com, louis!isovalent.com
 	BioTelemetry until 2014-04-01
 	Faegre Drinker from 2014-04-01 until 2015-02-01
 	Independent from 2015-02-01 until 2015-04-01
@@ -14310,7 +14316,8 @@ ldelossa: ldelossa!users.noreply.github.com, ldelossa.ld!gmail.com
 	JW Player from 2016-03-01 until 2016-10-01
 	Vimeo Inc. from 2016-10-01 until 2018-11-01
 	Paperspace from 2018-11-01 until 2019-05-01
-	Red Hat Inc. from 2019-05-01
+	Red Hat Inc. from 2019-05-01 until 2021-06-01
+	Isovalent from 2021-06-01
 ldeluca: cpup22!gmail.com, ldeluca!us.ibm.com
 	International Business Machines Corporation
 ldemailly: ldemailly!gmail.com, ldemailly!google.com, ldemailly!users.noreply.github.com
@@ -16444,8 +16451,9 @@ lmarszal: lmarszal!gmail.com, lmarszal!users.noreply.github.com
 	ABB until 2018-09-01
 	G2A from 2018-09-01 until 2019-10-01
 	Remitly from 2019-10-01
-lmb: lmb!cloudflare.com, lmb!users.noreply.github.com
-	Cloudflare Inc
+lmb: lmb!cloudflare.com, lmb!isovalent.com, lmb!users.noreply.github.com
+	Cloudflare Inc until 2022-02-01
+	Isovalent from 2023-02-01
 lmbarros: lmbarros!users.noreply.github.com
 	SAP
 lmcarreiro: leonardo.mcarreiro!gmail.com, lmcarreiro!users.noreply.github.com
@@ -20718,11 +20726,11 @@ maresb: maresb!users.noreply.github.com
 	m2hycon from 2018-09-01
 marex: marek.vasut!gmail.com
 	DENX
-marga-kinvolk: marga-kinvolk!users.noreply.github.com
+margamanterola: marga-kinvolk!users.noreply.github.com, margamanterola!users.noreply.github.com, 62987181+margamanterola!users.noreply.github.com
 	Google LLC until 2020-04-01
 	Kinvolk GmbH from 2020-04-01 until 2021-05-01
-	Microsoft Corporation from 2021-05-01 until 2022-06-01
-	Isovalent from 2022-06-01
+	Microsoft Corporation from 2021-05-01 until 2022-07-01
+	Isovalent from 2022-07-01
 margelma: cngogsse!gmail.com, margelma!users.noreply.github.com, mayabin!inspur.com
 	Inspur Group
 margocrawf: margocrawf!users.noreply.github.com
@@ -21245,6 +21253,8 @@ marpaia: marpaia!users.noreply.github.com, mike!arpaia.co
 	Independent from 2019-01-01 until 2019-05-01
 	Mila from 2019-05-01 until 2019-12-01
 	Workday Inc. from 2019-12-01
+marqc: mchodor!google.com, marqc!users.noreply.github.com
+	Google LLC
 marquiz: markus.lehtonen!intel.com, markus.lehtonen!linux.intel.com, marquiz!users.noreply.github.com
 	Intel Corporation
 marratj: marrat!marrat.de, marratj!users.noreply.github.com

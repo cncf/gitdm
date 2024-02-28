@@ -6322,10 +6322,10 @@ aandis: aandis!users.noreply.github.com, abhishekrm!iitrpr.ac.in
 	Google LLC from 2015-07-01 until 2016-04-01
 	Independent from 2016-04-01 until 2016-07-01
 	JioSaavn from 2016-07-01
-aanm: aanm!users.noreply.github.com, aanm90!gmail.com
+aanm: aanm!users.noreply.github.com, aanm90!gmail.com, andre!cilium.io
 	Independent until 2015-01-01
 	Cisco from 2015-01-01 until 2017-01-01
-	Cilium from 2017-01-01
+	Isovalent from 2017-01-01
 aanoaa: aanoaa!users.noreply.github.com
 	Samsung Electronics Co. Ltd.
 aaomidi: aaomidi!users.noreply.github.com
@@ -11153,6 +11153,8 @@ alan-ghelardi: alan.ghelardi!nubank.com.br
 	Independent until 2015-05-01
 	Amdocs from 2015-05-01 until 2017-03-01
 	Nubank Brasil from 2017-03-01
+alan-kut: kutniewski!google.com, alan-kut!users.noreply.github.com
+	Google LLC
 alan-maguire: alan.maguire!oracle.com
 	Oracle America Inc.
 alan-softiron-limited: alan!softiron.co.uk
@@ -13887,6 +13889,8 @@ amenzhinsky: amenzhinsky!gmail.com, amenzhinsky!users.noreply.github.com
 	Altoros from 2016-04-01 until 2017-09-01
 	Klika from 2017-09-01 until 2020-02-01
 	Strikerz from 2020-02-01
+americano98: mr.nik.bazarov!gmail.com
+	Pixel Point
 amerilainen: amerilainen!nvidia.com
 	NVIDIA Corporation
 amerry: alex.merry!kde.org, amerry!users.noreply.github.com
@@ -19230,10 +19234,12 @@ asarubbo: ago!gentoo.org, asarubbo!users.noreply.github.com
 	iPratico from 2018-03-01 until 2018-12-01
 	Gentoo Linux from 2018-12-01 until 2019-01-01
 	Loway from 2019-01-01
-asauber: a3sauber!gmail.com, asauber!users.noreply.github.com
+asauber: a3sauber!gmail.com, asauber!users.noreply.github.com, andrew.sauber!isovalent.com
 	Monetate until 2016-01-01
 	Stel Life from 2016-01-01 until 2017-10-01
-	Linode LLC. from 2017-10-01
+	Linode LLC. from 2017-10-01 until 2021-01-01
+	The New York Times from 2021-08-01 until 2023-05-01
+	Isovalent from 2023-05-01
 asauray: asauray!users.noreply.github.com
 	Independent until 2015-04-01
 	irisa from 2015-04-01 until 2015-08-01
@@ -19895,7 +19901,8 @@ aspnetdb: shiyanmagic!gmail.com
 	taobao
 aspsk: a.s.protopopov!gmail.com, aspsk!users.noreply.github.com
 	Andium until 2018-09-01
-	Linode LLC. from 2018-09-01
+	Linode LLC. from 2018-09-01 until 2020-12-01
+	Isovalent from 2022-05-01
 asraa: asraa!google.com, asraa!users.noreply.github.com
 	Google LLC
 asridharan: asridharan!users.noreply.github.com, avinash.sridharan!gmail.com
