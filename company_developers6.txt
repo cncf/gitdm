@@ -3227,6 +3227,7 @@ International Business Machines Corporation:
 	CloudJason: Jrmcgee!us.ibm.com
 	Cottonglow: Cottonglow!users.noreply.github.com from 2019-11-01
 	CrystalChun: CrystalChun!users.noreply.github.com from 2018-07-01 until 2020-03-01
+	Cynerva: Cynerva!users.noreply.github.com, cynerva!gmail.com, fraser!google.com, george.kraft!canonical.com until 2017-07-01
 	Damans227: Damans227!users.noreply.github.com from 2016-01-01 until 2016-04-01, from 2017-01-01 until 2019-02-01
 	DanBarychev: DanBarychev!users.noreply.github.com, dbaryche!andrew.cmu.edu from 2017-05-01 until 2017-08-01
 	DanHeidinga: DanHeidinga!users.noreply.github.com, daniel_heidinga!ca.ibm.com
@@ -4329,7 +4330,7 @@ International Business Machines Corporation:
 	mustufa5689: mustufa5689!users.noreply.github.com from 2019-12-01 until 2021-02-01
 	mvle: mvle!us.ibm.com, mvle!users.noreply.github.com
 	mwbringmann: mwb!linux.vnet.ibm.com
-	myan9: mengting.yan1!ibm.com, myan9!users.noreply.github.com from 2016-05-01 until 2016-08-01, from 2017-05-01 until 2017-08-01, from 2018-07-01
+	myan9: mengting.yan1!ibm.com, myan9!users.noreply.github.com from 2016-05-01 until 2016-08-01, from 2017-05-01 until 2017-08-01, from 2018-07-01 until 2021-07-01, from 2023-05-01
 	nadgowdas: nadgowdas!users.noreply.github.com
 	naikajah: naikajah!users.noreply.github.com until 2014-12-01
 	nailushapotnuru: nailushapotnuru!users.noreply.github.com from 2016-04-01
@@ -5646,7 +5647,7 @@ Isovalent:
 	Rolinh: Rolinh!users.noreply.github.com, robin.hahling!gw-computing.net from 2019-12-01
 	Skymirrh: Skymirrh!users.noreply.github.com, skymirrh!gmail.com
 	YutaroHayakawa: YutaroHayakawa!users.noreply.github.com, yhayakawa3720!gmail.com from 2021-12-01
-	aanm: aanm!users.noreply.github.com, aanm90!gmail.com, andre!cilium.io from 2017-01-01
+	aanm: aanm!users.noreply.github.com, aanm90!gmail.com, andre!cilium.io from 2017-02-01
 	abhide15: abhide15!users.noreply.github.com from 2018-01-01 until 2019-08-01
 	ackerman80: ackerman80!users.noreply.github.com from 2018-03-01 until 2019-11-01
 	aditighag: aditi!cilium.io, aditighag!users.noreply.github.com from 2020-07-01
@@ -6219,7 +6220,6 @@ JPMorgan Chase:
 	rustyconover: rusty!luckydinosaur.com, rustyconover!users.noreply.github.com from 2018-02-01
 	sagaranand015: sagar.anand!live.in, sagaranand015!users.noreply.github.com from 2018-02-01 until 2019-09-01
 	sidewinder12s: sidewinder12s!users.noreply.github.com until 2014-08-01
-	sidharthsurana: sidharthsurana!users.noreply.github.com until 2014-08-01
 	sigma: sigma!users.noreply.github.com until 2014-08-01
 	sigorilla: page!pagegwood.com until 2014-08-01
 	silverkorn: silverkorn!users.noreply.github.com until 2014-08-01
@@ -7268,7 +7268,6 @@ Juniper Networks Inc.:
 	shrinaththube: shrinaththube!gmail.com from 2015-06-01 until 2015-08-01
 	shun159: dreamdiagnosis!gmail.com from 2019-12-01 until 2022-12-01
 	sidewinder12s: sidewinder12s!users.noreply.github.com from 2015-06-01 until 2015-08-01, from 2016-02-01 until 2017-10-01
-	sidharthsurana: sidharthsurana!users.noreply.github.com from 2015-06-01 until 2015-08-01, from 2016-02-01 until 2017-10-01
 	sigma: sigma!users.noreply.github.com from 2015-06-01 until 2015-08-01, from 2016-02-01 until 2017-10-01
 	sigorilla: page!pagegwood.com from 2015-06-01 until 2015-08-01, from 2016-02-01 until 2017-10-01
 	silverkorn: silverkorn!users.noreply.github.com from 2015-06-01 until 2015-08-01, from 2016-02-01 until 2017-10-01
@@ -7997,6 +7996,7 @@ Kakadu:
 Kakaku:
 	zettaittenani: zettaittenani!gmail.com, zettaittenani!users.noreply.github.com from 2016-04-01 until 2020-03-01
 Kakao Corp:
+	bg-chun: bg-chun!users.noreply.github.com from 2021-07-01 until 2022-10-01
 	combineads: byunghwa.yun!code42.ai, combineads!users.noreply.github.com from 2017-03-01 until 2019-04-01
 	humbledude: humbledude!users.noreply.github.com from 2018-06-01
 	kairos03: kairos03!users.noreply.github.com from 2017-06-01 until 2017-07-01
@@ -8047,6 +8047,8 @@ Kalooga:
 Kaloom:
 	harsimran-pabla: harsimran-pabla!users.noreply.github.com from 2017-08-01 until 2021-11-01
 	qabpea: per!kaloom.com, qabpea!users.noreply.github.com from 2016-11-01
+Kaloory:
+	DiptoChakrabarty: DiptoChakrabarty!users.noreply.github.com from 2020-07-01 until 2020-08-01
 Kalquelord:
 	TheDavidKruse: TheDavidKruse!users.noreply.github.com, thedavidkruse!gmail.com from 2019-01-01
 Kalray:
@@ -8374,7 +8376,7 @@ Kasten Inc:
 Kata.ai:
 	JesusIslam: JesusIslam!users.noreply.github.com from 2016-08-01 until 2016-10-01
 Katacoda:
-	BenHall: ben!benhall.me.uk
+	BenHall: BenHall!users.noreply.github.com, ben!benhall.me.uk until 2019-11-01
 Katalix Systems Ltd:
 	j-c-h: jchapman!katalix.com
 Katana:
@@ -8637,6 +8639,7 @@ Kerb:
 Kering:
 	llavaud: llavaud!users.noreply.github.com from 2020-01-01
 	pythonjokeun: pythonjokeun!gmail.com from 2021-08-01
+	rekcah78: rekcah78!gmail.com, rekcah78!users.noreply.github.com from 2019-03-01 until 2019-06-01
 Kerio:
 	luckylittle: hongwoo7!gmail.com, lucky!senior.cz, luckylittle!users.noreply.github.com until 2015-03-01
 Kernel:
@@ -9526,6 +9529,7 @@ Koki:
 Kokilaben Dhirubhai Ambani Hospital:
 	namrata-ibm: namrata-ibm!users.noreply.github.com from 2015-03-01 until 2019-10-01
 Koko:
+	discordianfish: discordianfish!users.noreply.github.com, fish!freigeist.org, github!freigeist.org from 2018-08-01 until 2018-10-01
 	rohankshir: rohankshir!users.noreply.github.com from 2016-12-01 until 2018-11-01
 Kokoc:
 	zored: zored!users.noreply.github.com from 2014-08-01 until 2015-08-01
@@ -9951,6 +9955,7 @@ Kubermatic GmbH:
 	youssefazrak: youssefazrak!users.noreply.github.com from 2020-01-01
 Kubernetes:
 	Atharva-Shinde: Atharva-Shinde!users.noreply.github.com, atharvashinde179!gmail.com from 2023-05-01
+	kaslin: kaslin!users.noreply.github.com from 2023-04-01
 	valentin-krasontovitsch: v.krasontov!gmail.com, valentin-krasontovitsch!users.noreply.github.com
 	verma-kunal: verma-kunal!users.noreply.github.com from 2021-09-01 until 2022-01-01
 	xinity: xinity!users.noreply.github.com from 2022-07-01
@@ -10188,7 +10193,6 @@ Kündig:
 L Brands:
 	wisecoders: wisecoders!users.noreply.github.com from 2015-02-01 until 2020-10-01
 L&T Infotech:
-	Madhu-1: Madhu-1!users.noreply.github.com, madhupr007!gmail.com, mrajanna!redhat.com until 2018-02-01
 	Tinabr7: ruchandani.tina!gmail.com from 2016-12-01 until 2017-03-01
 	avnertzur: avnertzur!users.noreply.github.com from 2017-07-01 until 2018-12-01
 	chethanmahadevaiah: chethanmahadevaiah!users.noreply.github.com from 2017-02-01 until 2017-05-01
@@ -10478,6 +10482,8 @@ LINE MAN Wongnai:
 	tanapoln: tanapol.sh!gmail.com, tanapoln!users.noreply.github.com from 2019-04-01
 LINE Plus:
 	devholic: devholic!users.noreply.github.com, hoon!akuity.io, me!devholic.io from 2019-06-01 until 2022-06-20
+LINE Plus Corp:
+	bg-chun: bg-chun!users.noreply.github.com from 2022-10-01 until 2023-08-01
 LINEA COM:
 	gabrielemontano: gabriele.montano!a2asmartcity.it until 2017-02-01
 LINETS:
@@ -11527,7 +11533,7 @@ Lecentre:
 Lechner Lajos:
 	gcardozo123: gcardozo!inf.ufsm.br until 2014-08-01
 Lectra S.A:
-	sylr: s.rabot!lectra.com, sylr!users.noreply.github.com, sylvain!abstraction.fr from 2017-04-01
+	sylr: s.rabot!lectra.com, sylr!users.noreply.github.com, sylvain!abstraction.fr from 2017-04-01 until 2021-01-01
 LedWorks:
 	leojrfs: leojrfs!users.noreply.github.com until 2018-02-01
 Ledcor:
@@ -15104,7 +15110,7 @@ Macetec:
 Macha:
 	chirag0002: chirag0002!users.noreply.github.com from 2023-07-01
 Machaao:
-	DiptoChakrabarty: DiptoChakrabarty!users.noreply.github.com from 2020-09-01
+	DiptoChakrabarty: DiptoChakrabarty!users.noreply.github.com from 2020-08-01 until 2021-05-01
 	rohankmr414: rohankmr414!gmail.com, rohankmr414!users.noreply.github.com from 2022-01-01 until 2022-03-01
 Machine Learning Club NITS:
 	Rupsnigdha: Rupsnigdha!users.noreply.github.com from 2022-09-01 until 2022-11-01

@@ -2,6 +2,22 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+drie:
+	tommyvn: tommyvn!users.noreply.github.com from 2015-12-01 until 2017-03-01
+drivEddy:
+	laurids-reichardt: laurids-reichardt!users.noreply.github.com from 2018-07-01 until 2018-08-01
+drive:
+	Vadman97: Vadman97!users.noreply.github.com, vadim!highlight.io from 2017-05-01 until 2017-08-01
+drive.ai:
+	Vadman97: Vadman97!users.noreply.github.com, vadim!highlight.io from 2016-05-01 until 2016-08-01
+dropz:
+	workflow: workflow!users.noreply.github.com from 2015-04-01 until 2016-05-01
+dscout:
+	dblandin: dblandin!gmail.com, dblandin!users.noreply.github.com until 2015-06-01
+dtac:
+	wingyplus: wingyminus!gmail.com, wingyplus!users.noreply.github.com until 2015-09-01
+dti digital:
+	chagretes: chagretes!users.noreply.github.com from 2017-01-01
 dtstack:
 	better0332: better0332!users.noreply.github.com
 duim24.ru:
@@ -177,7 +193,7 @@ eBay Inc.:
 	markrity: markrity!users.noreply.github.com from 2017-08-01 until 2019-07-01
 	mcgG: zhaokaihao!gmail.com from 2019-07-01
 	mcumings: mcumings!scummer.org, mcumings!users.noreply.github.com
-	mfanjie: fmeng!ebay.com, mfanjie!users.noreply.github.com
+	mfanjie: fmeng!ebay.com, mfanjie!users.noreply.github.com until 2021-08-01
 	mizeng: me!valentinpalkovic.biz, mizeng!ebay.com, mizeng!ebaysf.com, mizeng!users.noreply.github.com
 	mlowery: mlowery!ebay.com, mlowery!ebaysf.com, mlowery!users.noreply.github.com
 	naioja: naioja!users.noreply.github.com from 2015-12-01 until 2020-01-01
@@ -2879,6 +2895,7 @@ nifty:
 niolabs:
 	mattdodge: mattdodge!users.noreply.github.com until 2019-07-01
 nitric:
+	asalkeld: angus.salkeld!rackspace.com, asalkeld!mirantis.com, asalkeld!redhat.com, asalkeld!users.noreply.github.com from 2021-12-01 until 2023-02-01
 	tjholm: tjholm!users.noreply.github.com from 2020-08-01
 nixxie:
 	ham1: ham1!users.noreply.github.com until 2015-07-01
@@ -3379,7 +3396,7 @@ rentalcars:
 repaas:
 	RammusXu: RammusXu!users.noreply.github.com, comte_ken!hotmail.com from 2016-07-01
 replex GmbH:
-	eloyekunle: elijah.oyekunle!ehealthnigeria.org, eloyekunle!gmail.com, eloyekunle!users.noreply.github.com from 2019-08-01
+	eloyekunle: elijah.oyekunle!ehealthnigeria.org, eloyekunle!gmail.com, eloyekunle!users.noreply.github.com from 2019-08-01 until 2021-11-01
 research:
 	nathants: me!nathants.com, nathants!users.noreply.github.com
 resmio:
@@ -3633,10 +3650,6 @@ solarisBank AG:
 	leifg: github!leif.io, leif!leif.io, leifg!users.noreply.github.com from 2016-04-01 until 2017-04-01
 solinov:
 	arthur0: arthur0!users.noreply.github.com, artmr!lsd.ufcg.edu.br from 2015-09-01 until 2016-08-01
-solo:
-	nrouda: nrouda!users.noreply.github.com from 2021-03-01 until 2022-03-01
-	shpwrck: shpwrck!users.noreply.github.com from 2022-02-01
-	willowmck: will.mckinley!solo.io from 2021-04-01
 solumsolutions:
 	qcu: csutherland!gmail.com, qcu!users.noreply.github.com until 2017-01-15
 solute GmbH:
