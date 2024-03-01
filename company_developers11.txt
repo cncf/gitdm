@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+dtstack:
+	better0332: better0332!users.noreply.github.com
+duim24.ru:
+	gmelikov: mail!gmelikov.ru from 2017-02-01 until 2018-03-01
 dunnhumby media:
 	camilo-schoeningh-sociomantic: camilo-schoeningh-sociomantic!users.noreply.github.com from 2019-06-01
 duonet:

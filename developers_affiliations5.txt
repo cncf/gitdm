@@ -1835,7 +1835,7 @@ jli: jli!users.noreply.github.com
 	OpenLabs R&D from 2021-04-01
 jli157: jli157!users.noreply.github.com, jun.r.li!intel.com
 	Intel Corporation
-jlind23: jlind23!users.noreply.github.com, vj.lind!gmail.com, julien.lind@elastic.co, vincent.lind@elastic.co
+jlind23: julien.lind!elastic.co, lind23!users.noreply.github.com, vincent.lind!elastic.co, vj.lind!gmail.com
 	Elasticsearch Inc.
 jlinton: jeremy.linton!arm.com
 	ARM

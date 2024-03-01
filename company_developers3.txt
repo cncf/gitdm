@@ -2,8 +2,6 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
-Data Xu:
-	kidiyoor: gauthamvk.vk!gmail.com, kidiyoor!users.noreply.github.com from 2015-05-01 until 2015-07-01
 Data on Kubernetes:
 	dtopdontstop: dtopdontstop!users.noreply.github.com from 2021-06-01
 Data piper:
@@ -6593,6 +6591,7 @@ Elasticsearch Inc.:
 	hhoffstaette: hhoffstaette!users.noreply.github.com, holger!applied-asynchrony.com, holger.hoffstaette!googlemail.com until 2014-04-01
 	jackshirazi: jack.shirazi!elastic.co, jacks!fasterj.com, jackshirazi!users.noreply.github.com
 	jethr0null: jethr0null!users.noreply.github.com, mnikki137!gmail.com from 2018-07-01
+	jlind23: julien.lind!elastic.co, lind23!users.noreply.github.com, vincent.lind!elastic.co, vj.lind!gmail.com
 	joshdover: joshdover!users.noreply.github.com, joshua.dover!elastic.co, me!joshdover.com
 	kaiyan-sheng: kaiyan-sheng!users.noreply.github.com, kaiyan.sheng!elastic.co
 	karencfv: karencfv!users.noreply.github.com from 2018-07-01
