@@ -1673,10 +1673,11 @@ Mesosphere:
 	asridharan: asridharan!users.noreply.github.com, avinash.sridharan!gmail.com
 	bamarni: bamarni!users.noreply.github.com, bilal.amarni!gmail.com from 2017-07-01 until 2019-11-01
 	bernadinm: bernadinm!users.noreply.github.com, miguel.bernadin!gmail.com
-	bmcstdio: bcustodio!mesosphere.io, bmcstdio!users.noreply.github.com
-	brunomcustodio: brunomcustodio!gmail.com, brunomcustodio!users.noreply.github.com from 2017-05-01
+	bmcstdio: bmcstdio!users.noreply.github.com until 2019-05-01
+	bmcustodio: bcustodio!mesosphere.io, bmcustodio!users.noreply.github.com, brunomcustodio!gmail.com until 2019-05-01
+	brunomcustodio: brunomcustodio!users.noreply.github.com from 2017-05-01
 	brunomiguelcustodioform3: brunomiguelcustodioform3!users.noreply.github.com from 2017-10-01 until 2019-05-01
-	cengiz-demir: adrien.siami!gmail.com, brunomcustodio!gmail.com, cengiz-demir!users.noreply.github.com, demircengiz23!gmail.com from 2017-05-01
+	cengiz-demir: adrien.siami!gmail.com, cengiz-demir!users.noreply.github.com, demircengiz23!gmail.com from 2017-05-01
 	chhsia0: chhsia0!users.noreply.github.com, chhsiao!mesosphere.io
 	cmaloney: cmaloney!users.noreply.github.com, cody!emeraldcloudlab.com from 2014-09-01 until 2017-01-01
 	colin-msphere: colin!mesosphere.com, colin-msphere!users.noreply.github.com
@@ -3481,6 +3482,7 @@ Microsoft Corporation:
 	franciscovalentecastro: franciscovalentecastro!users.noreply.github.com from 2016-06-01 until 2016-09-01, from 2017-06-01 until 2017-09-01, from 2018-08-01 until 2019-06-01
 	frankcchen: frankcchen!users.noreply.github.com from 2018-08-01
 	freedragon: hangondragon!hotmail.com
+	fristonio: deepshpathak!gmail.com, fristonio!users.noreply.github.com from 2021-03-01
 	fseldow: fseldow!users.noreply.github.com, lixinhe126!126.com, xinhl!microsoft.com
 	fsigalov: fsigalov!users.noreply.github.com
 	fuweid: fhfuwei!163.com, fuweid!users.noreply.github.com, fuweid89!gmail.com from 2023-09-01
@@ -5180,15 +5182,14 @@ Mirantis Inc.:
 	mikhaildubov: mdubov!mirantis.com, msdubov!gmail.com
 	mogaika: mogaika!users.noreply.github.com, vjigulin!mirantis.com
 	mpetason: mike.petersen!ibm.com, mpetason!gmail.com, mpetason!users.noreply.github.com, mpetersen!platform9.com from 2014-04-01 until 2017-07-01
-	mrostecki: michal!kinvolk.io from 2015-08-01 until 2016-11-01
-	mrostecki: michal.rostecki!allegrogroup.com, michal.rostecki!gmail.com, mrostecki!mirantis.com, mrostecki!opensuse.org, mrostecki!suse.com, mrostecki!suse.de, mrostecki!users.noreply.github.com from 2015-08-19 until 2016-11-30
+	mrostecki: michal!kinvolk.io, michal.rostecki!allegrogroup.com, michal.rostecki!gmail.com, mrostecki!mirantis.com, mrostecki!opensuse.org, mrostecki!suse.com, mrostecki!suse.de, mrostecki!users.noreply.github.com from 2015-08-01 until 2016-11-01
 	murgatroid99: idv1985!gmail.com
 	mvollman: michael.b.vollman!gmail.com, mvollman!users.noreply.github.com from 2019-03-01 until 2019-09-01
 	mwhahaha: aschultz!next-development.com, mwhahaha!users.noreply.github.com from 2015-04-03 until 2016-08-26
 	nastya-kuz: akuznetsova!mirantis.com
 	nebril: maciej.iai!gmail.com, mkwiek!mirantis.com, nebril!users.noreply.github.com until 2017-09-01
 	nevalla: lauri.nevala!gmail.com, nevalla!users.noreply.github.com, nuocgansoi!gmail.com from 2020-01-01
-	nhlfr: michal!kinvolk.io, nhlfr!users.noreply.github.com from 2015-08-01 until 2016-11-01
+	nhlfr: nhlfr!users.noreply.github.com from 2015-08-01 until 2016-11-01
 	nickchase: nchase!mirantis.com, nickchase!users.noreply.github.com
 	nickgryg: nickgryg!gmail.com, nickgryg!users.noreply.github.com until 2016-09-01
 	nikolay-fedotov: nfedotov!cisco.com, nikolay-fedotov!users.noreply.github.com until 2014-03-31
@@ -14430,6 +14431,8 @@ OptareSolutions:
 	ebarped: ebarped!users.noreply.github.com
 Optibus:
 	Bennyelg: Bennyelg!users.noreply.github.com, benny!optibus.com from 2019-03-01
+Optic Labs:
+	raybejjani: ray!isovalent.com , raybejjani!users.noreply.github.com from 2020-05-01 until 2022-01-01
 Optical Express:
 	graue: graue!users.noreply.github.com, scott!oceanbase.org until 2015-05-01
 Optiflows:
@@ -15850,9 +15853,3 @@ PDT Partners LLC:
 	louisblin: louisblin!users.noreply.github.com from 2016-07-01 until 2016-09-01, from 2017-04-01 until 2017-09-01, from 2018-09-01
 PDVSA:
 	jfernancordova: jfernancordova!gmail.com, jfernancordova!users.noreply.github.com until 2015-03-01
-PDX Code Guild:
-	purple4reina: purple4reina!gmail.com, purple4reina!users.noreply.github.com from 2015-06-01 until 2015-09-01
-PEACHES:
-	rindeastwood: rindeastwood!users.noreply.github.com until 2016-08-01
-PEAK6 Investments:
-	kpauwel: kmultani728!gmail.com

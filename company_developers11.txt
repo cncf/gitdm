@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+dr.consulta:
+	dserodio: dserodio!users.noreply.github.com
 dreamIT:
 	gerrit8143: gerrit8143!users.noreply.github.com from 2016-05-01
 dreamIT GmbH:

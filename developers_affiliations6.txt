@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+mbroz: gmazyland!gmail.com, mbroz!redhat.com
+	Red Hat Inc.
+mbruggmann: mbruggmann!users.noreply.github.com
+	Spotify AB
 mbrukman: mbrukman!google.com, mbrukman!users.noreply.github.com
 	Google LLC
 mbruzek: matthew.bruzek!canonical.com, mbruzek!gmail.com, mbruzek!users.noreply.github.com
@@ -6382,14 +6386,14 @@ mrogers950: mrogers!redhat.com, mrogers950!users.noreply.github.com
 	Red Hat Inc.
 mrooney: mike.rooney!aexp.com, mrooney!ubuntu.com, mrooney!users.noreply.github.com, mrooney.github!rowk.com
 	Independent
-mrostecki: michal.rostecki!allegrogroup.com, michal.rostecki!gmail.com, mrostecki!mirantis.com, mrostecki!opensuse.org, mrostecki!suse.com, mrostecki!suse.de, mrostecki!users.noreply.github.com, michal!kinvolk.io
-	Allegro.pl sp. z o.o. until 2015-08-07
-	Independent from 2015-08-07 until 2015-08-19
-	Mirantis Inc. from 2015-08-19 until 2016-11-30
-	Kinvolk GmbH from 2016-11-30 until 2017-12-31
-	SUSE LLC from 2017-12-31 until 2022-05-01
+mrostecki: michal!kinvolk.io, michal.rostecki!allegrogroup.com, michal.rostecki!gmail.com, mrostecki!mirantis.com, mrostecki!opensuse.org, mrostecki!suse.com, mrostecki!suse.de, mrostecki!users.noreply.github.com
+	STX until 2014-10-01
+	Allegro.pl sp. z o.o. from 2014-10-01 until 2015-08-01
+	Mirantis Inc. from 2015-08-01 until 2016-11-01
+	Kinvolk GmbH from 2016-11-01 until 2017-12-01
+	SUSE LLC from 2017-12-01 until 2022-05-01
 	Deepfence Inc from 2022-05-01 until 2023-04-01
-	Luminous Labs from 2023-04-01 
+	Luminous Labs from 2023-04-01
 mrow4a: mrow4a!users.noreply.github.com, pmrowcz!gmail.com
 	Independent until 2014-07-01
 	BALO FunLab from 2014-07-01 until 2014-08-01
@@ -8331,6 +8335,8 @@ nakkht: nakkht!users.noreply.github.com, pg!neqsoft.com
 	Saphe A/S from 2019-05-01
 nakulbh: nakulbh!users.noreply.github.com
 	Independent
+nakv: krishna_kumar08!infosys.com, krishnakv!users.noreply.github.com
+	Infosys Limited
 nalbam: me!nalbam.com, nalbam!users.noreply.github.com
 	제이크로 until 2015-07-01
 	옐로트래블 from 2015-07-01 until 2015-09-01
@@ -9998,7 +10004,7 @@ nhinsch: nhinsch!users.noreply.github.com
 	Managed by Q from 2016-12-01 until 2020-03-01
 	Independent from 2020-03-01 until 2020-06-01
 	Datadog Inc from 2020-06-01
-nhlfr: michal!kinvolk.io, nhlfr!users.noreply.github.com
+nhlfr: nhlfr!users.noreply.github.com
 	STX until 2014-10-01
 	Allegro.pl sp. z o.o. from 2014-10-01 until 2015-08-01
 	Mirantis Inc. from 2015-08-01 until 2016-11-01
@@ -15880,7 +15886,7 @@ paulbouwer: paul.bouwer!gmail.com
 paulburton: paul!archlinuxmips.org, paul.burton!imgtec.com, paul.burton!mips.com, paulburton89!gmail.com
 	Imagination until 2017-10-01
 	MIPS Technologies from 2017-10-01
-paulcacheux: paulcacheux!users.noreply.github.com
+paulcacheux: paulcacheux!gmail.com, paulcacheux!users.noreply.github.com
 	Datadog Inc
 paulcalabro: paulcalabro!users.noreply.github.com
 	PayPal until 2022-06-01
@@ -23445,10 +23451,10 @@ rayandas: rayandas!users.noreply.github.com
 	ScrollStack from 2020-03-01
 rayashworth: ashworth!us.ibm.com
 	International Business Machines Corporation
-raybejjani: raybejjani!users.noreply.github.com, ray!isovalent.com
+raybejjani: ray!isovalent.com , raybejjani!users.noreply.github.com
 	Stripe Inc. until 2017-09-01
 	Isovalent from 2017-09-01 until 2020-05-01
-	Optic Labs from 2021-04-01 until 2022-01-01
+	Optic Labs from 2020-05-01 until 2022-01-01
 	Independent from 2022-01-01
 rayfoss: rayfoss!users.noreply.github.com
 	vBlip
@@ -23861,8 +23867,3 @@ rdallman: reed!rdallman.com, reed.allman!oracle.com
 	Oracle America Inc.
 rdaniels6813: rdaniels6813!users.noreply.github.com
 	Independent
-rdarcy1: rdarcy1!users.noreply.github.com, robin!klever.co.uk
-	Independent until 2014-08-01
-	Chapel Studios from 2014-08-01 until 2015-08-01
-	Independent from 2015-08-01 until 2017-01-01
-	Klever from 2017-01-01

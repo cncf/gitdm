@@ -533,6 +533,7 @@ Tigera Inc.:
 	hogepodge: chris!hogepodge.com, chris!openstack.org, hogepodge!users.noreply.github.com from 2020-01-01 until 2020-06-01
 	intelroman: ipvlocked!gmail.com from 2021-02-01 until 2021-07-01
 	joshti: joshti!users.noreply.github.com
+	krishgobinath: gobinathk!google.com, krishgobinath!users.noreply.github.com from 2019-09-01 until 2020-11-01
 	lmm: lmm!users.noreply.github.com from 2019-01-01
 	lwr20: lance!tigera.io, lancelot.robson!gmail.com, lwr20!users.noreply.github.com
 	lxpollitt: alex!tigera.io, lxpollitt!users.noreply.github.com
@@ -3882,9 +3883,9 @@ Ubitus:
 Ubiwhere:
 	Andre-Freitas: Andre-Freitas!users.noreply.github.com, andre.m.l.freitas!gmail.com
 	FlavioF: FlavioF!users.noreply.github.com, flaviommferreira!gmail.com until 2016-12-01
-	brunomcustodio: brunomcustodio!gmail.com, brunomcustodio!users.noreply.github.com until 2014-12-01
+	brunomcustodio: brunomcustodio!users.noreply.github.com until 2014-12-01
 	brunomiguelcustodioform3: brunomiguelcustodioform3!users.noreply.github.com until 2014-12-01
-	cengiz-demir: adrien.siami!gmail.com, brunomcustodio!gmail.com, cengiz-demir!users.noreply.github.com, demircengiz23!gmail.com until 2014-12-01
+	cengiz-demir: adrien.siami!gmail.com, cengiz-demir!users.noreply.github.com, demircengiz23!gmail.com until 2014-12-01
 Ubloquity:
 	Perfect-Web: Perfect-Web!users.noreply.github.com, office!perfectweb.ro from 2021-02-01
 Ubudu:
@@ -16511,5 +16512,3 @@ dough:
 	shanesveller: shanesveller!users.noreply.github.com from 2015-06-01 until 2017-03-01
 dozeo:
 	mmack: max!mack.io, mmack!users.noreply.github.com until 2014-07-01, from 2014-07-01 until 2015-05-01
-dr.consulta:
-	dserodio: dserodio!users.noreply.github.com

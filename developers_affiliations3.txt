@@ -1934,10 +1934,12 @@ bmcmanus-apex: bmcmanus-apex!users.noreply.github.com
 	US Army until 2016-06-01
 	Independent from 2016-06-01 until 2019-06-01
 	Apex Fintech from 2019-06-01
-bmcustodio: bcustodio!mesosphere.io, bmcstdio!users.noreply.github.com, bmcustodio!users.noreply.github.com, brunomcustodio!gmail.com
+bmcstdio: bmcstdio!users.noreply.github.com
 	Mesosphere until 2019-05-01
-	FORM3 from 2019-06-01 until 2019-04-01
-	Isovalent from 2021-04-01
+	Isovalent from 2019-05-01
+bmcustodio: bcustodio!mesosphere.io, bmcustodio!users.noreply.github.com, brunomcustodio!gmail.com
+	Mesosphere until 2019-05-01
+	Isovalent from 2019-05-01
 bmdepesa: bmdepesa!users.noreply.github.com
 	Edgenuity until 2014-09-01
 	PAX from 2014-09-01 until 2015-12-01
@@ -3941,7 +3943,7 @@ brunomasantos: brunomasantos!users.noreply.github.com, brunomiguelas!gmail.com
 	FARFETCH from 2015-12-01 until 2020-08-01
 	LUXCLUSIF from 2020-08-01 until 2023-05-01
 	Teya from 2023-05-01
-brunomcustodio: brunomcustodio!gmail.com, brunomcustodio!users.noreply.github.com
+brunomcustodio: brunomcustodio!users.noreply.github.com
 	Ubiwhere until 2014-12-01
 	Cashyt from 2014-12-01 until 2017-05-01
 	Mesosphere from 2017-05-01
@@ -7179,7 +7181,7 @@ cemsbr: cemsbr!users.noreply.github.com
 	Nexu from 2018-05-01
 cendrier: cendrier!163.com
 	NetEase Inc
-cengiz-demir: adrien.siami!gmail.com, brunomcustodio!gmail.com, cengiz-demir!users.noreply.github.com, demircengiz23!gmail.com
+cengiz-demir: adrien.siami!gmail.com, cengiz-demir!users.noreply.github.com, demircengiz23!gmail.com
 	Ubiwhere until 2014-12-01
 	Cashyt from 2014-12-01 until 2017-05-01
 	Mesosphere from 2017-05-01
