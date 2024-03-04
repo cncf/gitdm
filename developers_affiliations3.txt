@@ -1934,8 +1934,10 @@ bmcmanus-apex: bmcmanus-apex!users.noreply.github.com
 	US Army until 2016-06-01
 	Independent from 2016-06-01 until 2019-06-01
 	Apex Fintech from 2019-06-01
-bmcstdio: bcustodio!mesosphere.io, bmcstdio!users.noreply.github.com
-	Mesosphere
+bmcustodio: bcustodio!mesosphere.io, bmcstdio!users.noreply.github.com, bmcustodio!users.noreply.github.com, brunomcustodio!gmail.com
+	Mesosphere until 2019-05-01
+	FORM3 from 2019-06-01 until 2019-04-01
+	Isovalent from 2021-04-01
 bmdepesa: bmdepesa!users.noreply.github.com
 	Edgenuity until 2014-09-01
 	PAX from 2014-09-01 until 2015-12-01
@@ -14963,7 +14965,7 @@ danveloper: daniel.p.woods!gmail.com
 danvet: daniel.vetter!ffwll.ch
 	Intel Corporation
 danwent: dan!covalent.io, danwent!users.noreply.github.com
-	Covalent
+	Isovalent
 danwinship: danw!redhat.com, danwinship!users.noreply.github.com
 	Red Hat Inc.
 danxmoran: danxmoran!users.noreply.github.com
