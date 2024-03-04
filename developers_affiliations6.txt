@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+mbrukman: mbrukman!google.com, mbrukman!users.noreply.github.com
+	Google LLC
+mbruzek: matthew.bruzek!canonical.com, mbruzek!gmail.com, mbruzek!users.noreply.github.com
+	Canonical Ltd. until 2017-04-01
+	Red Hat Inc. from 2017-04-01 until 2018-09-01
+	Leidos from 2018-09-01
 mbssaiakhil: malepatib.akhil!huawei.com, mbssaiakhil!users.noreply.github.com, ubo.oberoi!gmail.com
 	Microsoft Corporation until 2015-07-01
 	Huawei Technologies Co. Ltd from 2015-07-01 until 2018-07-01
@@ -23860,11 +23866,3 @@ rdarcy1: rdarcy1!users.noreply.github.com, robin!klever.co.uk
 	Chapel Studios from 2014-08-01 until 2015-08-01
 	Independent from 2015-08-01 until 2017-01-01
 	Klever from 2017-01-01
-rdavaze-talend: rdavaze-talend!users.noreply.github.com
-	Neopost until 2014-08-01
-	Independent from 2014-08-01 until 2017-07-01
-	Bookabees from 2017-07-01 until 2017-09-01
-	GROUPE SIGMA from 2017-09-01 until 2021-01-01
-	WeScale SAS from 2021-01-01
-rday: rday!users.noreply.github.com, ryanday2!gmail.com
-	Curious

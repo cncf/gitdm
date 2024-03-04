@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+dreamIT:
+	gerrit8143: gerrit8143!users.noreply.github.com from 2016-05-01
+dreamIT GmbH:
+	jhelblingHH: johann.helbling!dreamit.de
+drfocused:
+	bitsal: beletsky.andrew!gmail.com, bitsal!users.noreply.github.com
 drie:
 	tommyvn: tommyvn!users.noreply.github.com from 2015-12-01 until 2017-03-01
 drivEddy:

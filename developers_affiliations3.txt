@@ -10929,8 +10929,6 @@ cocotyty: cocotyty!users.noreply.github.com
 	Intel Corporation
 codablock: ablock84!gmail.com, codablock!users.noreply.github.com, wpross!gmail.com
 	Independent
-codefromthecrypt: adrian@tetrate.io, acole@fastmail.com,codefromthecrypt!users.noreply.github.com
-	Tetrate.io
 code-haven: abhinav.qd!gmail.com, code-haven!users.noreply.github.com
 	Independent until 2015-06-01
 	Knowlarity from 2015-06-01 until 2016-11-01
@@ -11002,6 +11000,8 @@ codeflitting: codeflitting!gmail.com, codeflitting!users.noreply.github.com
 	Tencent until 2015-03-01
 	Independent from 2015-03-01 until 2017-12-01
 	Bytedance Ltd from 2017-12-01
+codefromthecrypt: acole!fastmail.com, adrian!tetrate.io, codefromthecrypt!users.noreply.github.com
+	Tetrate.io
 codegoalie: chris!chrismar035.com, chris!codegoalie.com, codegoalie!users.noreply.github.com
 	VideoFruit
 codekid20: adityakumar09!outlook.com
@@ -23704,9 +23704,3 @@ edgar971: edgar971!users.noreply.github.com
 	Independent from 2017-12-01 until 2018-07-01
 	BitRunr from 2018-07-01 until 2019-07-01
 	Pluralsight from 2019-07-01
-edgarkiechle: edgarkiechle!users.noreply.github.com
-	Accenture Global Solutions Limited until 2019-07-01
-	EY from 2019-07-01 until 2020-07-01
-	flaschenpost from 2020-07-01
-edgarlanting: edgarlanting!users.noreply.github.com
-	Mesosphere
