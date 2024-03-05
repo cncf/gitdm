@@ -2916,7 +2916,7 @@ rockb1017: rockb1017!gmail.com
 	Independent from 2017-06-01 until 2017-12-01
 	SK hynix memory solutions from 2017-12-01 until 2019-09-01
 	Splunk Inc. from 2019-09-01
-rockdaboot: rockdaboot!users.noreply.github.com, tim!optimyze.cloud, tim.ruehsen!gmx.de, tim.ruhsen!elastic.co 
+rockdaboot: rockdaboot!users.noreply.github.com, tim!optimyze.cloud, tim.ruehsen!gmx.de, tim.ruhsen!elastic.co
 	Open Media System until 2020-06-01
 	optimyze from 2020-06-01 until 2021-11-01
 	Elasticsearch Inc. from 2021-11-01
@@ -16941,7 +16941,7 @@ stevenceuppens: steven.ceuppens!icloud.com
 	HP Inc. from 2019-01-01
 stevencohn: stevencohn!users.noreply.github.com
 	Waters Corporation
-stevenctl: 
+stevenctl:
 	Google LLC until 2023-02-05
 	Aviatrix from 2023-02-05
 stevenctl: landow!google.com, slandow!aviatrix.com, stevenctl!users.noreply.github.com
@@ -22719,7 +22719,8 @@ ticketsnfines: ticketsnfines!users.noreply.github.com
 tico24: tico24!users.noreply.github.com
 	Independent until 2015-05-01
 	World Programming Ltd from 2015-05-01 until 2020-08-01
-	Sendible from 2020-08-01
+	Independent 2020-08-01 until 2022-09-01
+	Pipekit from 2022-09-01
 tidbits03: tidbits03!users.noreply.github.com
 	Comcast Cable Communications LLC (Xfinity) until 2015-05-01
 	DaVita from 2015-05-01 until 2015-12-01
