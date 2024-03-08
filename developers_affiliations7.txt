@@ -5,6 +5,51 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+rcoh: russell.r.cohen!gmail.com
+	Russell Cohen
+rcohencyberarmor: 84019060+rcohencyberarmor!users.noreply.github.com, rcohen!armosec.io, rcohen!cyberarmor.io, rcohencyberarmor!users.noreply.github.com
+	ARMO
+rcolline: rcolline!users.noreply.github.com
+	Google LLC
+rcomanne: rcomanne!users.noreply.github.com
+	Independent until 2015-09-01
+	SiSo from 2015-09-01 until 2017-02-01
+	Ordina from 2017-02-01 until 2018-05-01
+	Rabobank from 2018-05-01
+rcorre: rcorre!users.noreply.github.com, ryan!rcorre.net
+	2 Cranes & Sun Inc.
+rcorrear: gralex!live.at, r.correa.r!gmail.com, rcorrear!users.noreply.github.com
+	Independent until 2014-09-01
+	Independent from 2014-09-01 until 2015-03-01
+	Hermes BorderGuru from 2015-03-01 until 2016-10-01
+	Independent from 2016-10-01 until 2017-04-01
+	Solera from 2017-04-01
+rcoulson-platina: rob.coulson!gmail.com
+	Ericsson until 2015-12-01
+	Platina Systems Corporation from 2015-12-01 until 2017-04-01
+	Cisco from 2017-04-01
+rcpandula: ramachandraiah.p!gmail.com
+	Cognizant Technology Solutions until 2020-12-01
+	AVEVA from 2020-12-01
+rcreasey: rcreasey!users.noreply.github.com
+	Blizzard
+rcrowe: rcrowe!users.noreply.github.com
+	Crowdcube until 2018-03-01
+	Utility Warehouse from 2018-03-01
+rcrowe-google: rcrowe-google!users.noreply.github.com, robertcrowe!google.com
+	Searchlight until 2018-08-01
+	Google LLC from 2018-08-01
+rctl: rasmus!rctl.io, rasmus!rtek.se, rctl!users.noreply.github.com
+	Meta Platforms Inc.
+rcurran1: rcurran!cisco.com
+	Cisco
+rcurtis: rjcurtis22!gmail.com
+	Eclipse until 2015-12-01
+	Pentech Associates from 2015-12-01
+rdallman: reed!rdallman.com, reed.allman!oracle.com
+	Oracle America Inc.
+rdaniels6813: rdaniels6813!users.noreply.github.com
+	Independent
 rdarcy1: rdarcy1!users.noreply.github.com, robin!klever.co.uk
 	Independent until 2014-08-01
 	Chapel Studios from 2014-08-01 until 2015-08-01
@@ -841,8 +886,6 @@ reymarx: reymarx!users.noreply.github.com
 	BevyUp until 2018-03-01
 	Nordstrom from 2018-03-01 until 2020-08-01
 	Microsoft Corporation from 2020-08-01
-rez0k: ofekifergan!gmail.com
-	Cymulate
 rezakrimi: rezakrimi!users.noreply.github.com
 	Google LLC
 rezgi: rezgi!users.noreply.github.com
@@ -2918,7 +2961,7 @@ rockb1017: rockb1017!gmail.com
 	Independent from 2017-06-01 until 2017-12-01
 	SK hynix memory solutions from 2017-12-01 until 2019-09-01
 	Splunk Inc. from 2019-09-01
-rockdaboot: rockdaboot!users.noreply.github.com, tim!optimyze.cloud, tim.ruehsen!gmx.de, tim.ruhsen!elastic.co
+rockdaboot: rockdaboot!users.noreply.github.com, tim!optimyze.cloud, tim.ruehsen!gmx.de, tim.ruhsen!elastic.co 
 	Open Media System until 2020-06-01
 	optimyze from 2020-06-01 until 2021-11-01
 	Elasticsearch Inc. from 2021-11-01
@@ -16943,7 +16986,7 @@ stevenceuppens: steven.ceuppens!icloud.com
 	HP Inc. from 2019-01-01
 stevencohn: stevencohn!users.noreply.github.com
 	Waters Corporation
-stevenctl:
+stevenctl: 
 	Google LLC until 2023-02-05
 	Aviatrix from 2023-02-05
 stevenctl: landow!google.com, slandow!aviatrix.com, stevenctl!users.noreply.github.com
@@ -21814,7 +21857,7 @@ themowski: themowski!users.noreply.github.com
 	Orbital Sciences Corporation from 2015-05-01 until 2015-07-01
 	Independent from 2015-07-01 until 2016-02-01
 	SRC from 2016-02-01
-themr0c: themr0c!users.noreply.github.com, ffloreth!redhat.com
+themr0c: ffloreth!redhat.com, themr0c!users.noreply.github.com
 	Antidot SAS until 2015-08-01
 	Emakina from 2015-08-01 until 2017-03-01
 	Stylelabs from 2017-03-01 until 2019-04-01
@@ -22723,7 +22766,7 @@ ticketsnfines: ticketsnfines!users.noreply.github.com
 tico24: tico24!users.noreply.github.com
 	Independent until 2015-05-01
 	World Programming Ltd from 2015-05-01 until 2020-08-01
-	Independent 2020-08-01 until 2022-09-01
+	Independent from 2020-08-01 until 2022-09-01
 	Pipekit from 2022-09-01
 tidbits03: tidbits03!users.noreply.github.com
 	Comcast Cable Communications LLC (Xfinity) until 2015-05-01
@@ -23830,43 +23873,3 @@ tnguyen-rh: tnguyen!redhat.com, tnguyen-rh!users.noreply.github.com
 tniita: takuya.niita!oracle.com, tniita!users.noreply.github.com
 	株式会社HBA until 2019-04-01
 	Red Hat Inc. from 2019-04-01
-tnir: takninnovationresearch!gmail.com, tnir!users.noreply.github.com
-	CNCF
-tnixa: tnixa!users.noreply.github.com
-	International Business Machines Corporation
-tnolet: tnolet!users.noreply.github.com
-	Xebia Nederland B.V. until 2014-04-01
-	Independent from 2014-04-01 until 2014-07-01
-	Vamp from 2014-07-01 until 2015-10-01
-	United Nations University from 2015-10-01 until 2017-07-01
-	Checkly from 2017-07-01
-tnorimat: tnorimat!users.noreply.github.com
-	Hitachi Ltd.
-tnozicka: tnozicka!gmail.com, tnozicka!users.noreply.github.com
-	Seznam.cz a.s. until 2016-02-01
-	Red Hat Inc. from 2016-02-01 until 2021-01-01
-	ScyllaDB Ltd. from 2021-01-01
-tnqn: qtian!vmware.com, tianquan23!gmail.com, tnqn!users.noreply.github.com
-	VMware Inc.
-tnqv: tran.nguyen.quoc.vu!moneyforward.co.jp
-	Money Forward Inc.
-tnthornton: tnthornton!users.noreply.github.com
-	Independent until 2017-02-01
-	Jive Software Inc. from 2017-02-01 until 2017-06-01
-	Puppet from 2017-06-01 until 2018-05-01
-	Cambia from 2018-05-01 until 2021-07-01
-	Upbound from 2021-07-01
-tnwang: tnwang!users.noreply.github.com
-	Deloitte until 2017-04-01
-	Pivotal from 2017-04-01 until 2019-04-01
-	Salesforce from 2019-04-01
-tnyeanderson: tnyeanderson!users.noreply.github.com
-	Red Hat Inc.
-toVersus: toVersus!users.noreply.github.com, toversus2357!gmail.com
-	Independent until 2016-04-01
-	Fujitsu Limited from 2016-04-01 until 2018-10-01
-	CyberAgent Inc. from 2018-10-01 until 2020-02-01
-	COLOPL from 2020-02-01
-toabctl: oayunin!gmail.com, tbechtold!suse.com, thomasbechtold!jpberlin.de, toabctl!users.noreply.github.com
-	Deutsche Telekom until 2014-05-15
-	SUSE LLC from 2014-05-15

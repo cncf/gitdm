@@ -2,6 +2,14 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Dassault Systemes North America:
+	Havret: Havret!users.noreply.github.com, h4vret!gmail.com until 2017-09-01
+	morsok: morsok!users.noreply.github.com, taradof!gmail.com from 2018-05-01 until 2018-09-01
+	rverma-uc: rverma-uc!users.noreply.github.com from 2015-12-01 until 2017-06-01
+	samutamm: samutamm!users.noreply.github.com from 2019-02-01 until 2020-02-01
+	vcarluer: 644568491!qq.com, vcarluer!users.noreply.github.com from 2016-06-01 until 2019-09-01
+Dassault Systèmes 3DEXCITE:
+	NeoSpark314: holger.dammertz!googlemail.com
 Dasudian:
 	mengzyou: mengzyou!users.noreply.github.com
 Data Artisans:
@@ -5125,7 +5133,7 @@ EMC:
 	metrue: h.minghe!gmail.com, metrue!users.noreply.github.com from 2019-04-01 until 2019-11-01
 	mhzed: mhzed!users.noreply.github.com, minhongz!gmail.com
 	optimistyzy: optimistyzy!gmail.com, optimistyzy!users.noreply.github.com until 2014-03-01
-	pacoxu: paco.xu!daocloud.io, pacoxu!users.noreply.github.com, roollingstone!gmail.com until 2016-04-01
+	pacoxu: paco.xu!daocloud.io, pacoxu!users.noreply.github.com, roollingstone!gmail.com until 2016-04-16
 	peter-wangxu: peter-wangxu!users.noreply.github.com, wangxu198709!gmail.com until 2017-01-31
 	qt1p: qt1p!users.noreply.github.com until 2016-12-01
 	rajeshnayakmdCCD: rajeshnayakmdCCD!users.noreply.github.com until 2015-09-01
@@ -5377,6 +5385,7 @@ EPAM Systems Inc:
 	alebabai: alebabai!users.noreply.github.com, aliaksandr.babai!gmail.com
 	alembiewski: alembiewski!users.noreply.github.com
 	aleonidex: aleonidex!users.noreply.github.com from 2016-11-01
+	alexandear: alexandear!users.noreply.github.com, oleksandr.red+github!gmail.com
 	alexfridlyand: alex!fridlyand.com, alexfridlyand!users.noreply.github.com from 2015-01-01
 	alexmt: alexander_matyushentsev!intuit.com, alexmt!users.noreply.github.com, amatyushentsev!gmail.com until 2014-10-01
 	alff: alff!users.noreply.github.com from 2014-03-01
@@ -7161,7 +7170,7 @@ EmailSuccess:
 Emailage:
 	briandowns: brian.downs!gmail.com, briandowns!users.noreply.github.com from 2018-02-01 until 2018-09-01
 Emakina:
-	themr0c: themr0c!users.noreply.github.com from 2015-08-01 until 2017-03-01
+	themr0c: ffloreth!redhat.com, themr0c!users.noreply.github.com from 2015-08-01 until 2017-03-01
 Emakina.FR:
 	rclsilver: rclsilver!users.noreply.github.com, thomas!betrancourt.net, vinod.varghese86!gmail.com from 2014-12-01 until 2015-02-01
 Emarsys:
@@ -9454,6 +9463,7 @@ Expedia Inc.:
 	ashishagg: asaggarwal!expedia.com
 	ashokm: ashokm!users.noreply.github.com, ashokmanji!hotmail.com until 2016-04-01
 	bibinss: bisebastian!expedia.com from 2015-12-01
+	cebernardi: cbernardi!expediagroup.com
 	cowwoc: cowwoc!users.noreply.github.com from 2015-02-01 until 2018-11-01
 	dagondagon666: co2.gerlaic!gmail.com, dagondagon666!users.noreply.github.com
 	deverton: dan!iocaine.org, dan.everton!wotifgroup.com, deverton!expedia.com, drordorf!gmail.com, mwooten.dev!gmail.com
@@ -9799,6 +9809,7 @@ F5 Networks Inc.:
 	Dean-Coakley: Dean-Coakley!users.noreply.github.com, dean.s.coakley!gmail.com from 2019-06-01
 	Kmoneal: Kmoneal!users.noreply.github.com, kenan.oneal!volunteers.acasi.info, kmacjoneal!gmail.com
 	RafalKorepta: RafalKorepta!users.noreply.github.com, r.korepta!f5.com, rafal.korepta!gmail.com, respond.prashant!gmail.com
+	adams-shaun: adams-shaun!users.noreply.github.com, shaun.adams!volunteers.acasi.info, spadams85!gmail.com
 	andrewjjenkins: andrew!aspenmesh.io, andrewjjenkins!gmail.com, andrewjjenkins!users.noreply.github.com
 	brycecarman: brycecar!amazon.com, brycecarman!users.noreply.github.com until 2017-08-01
 	chen23: chen23!users.noreply.github.com
@@ -16534,25 +16545,3 @@ GoSecure Inc:
 GoSpotCheck:
 	gnarargs: hunter.gillane!gmail.com from 2016-10-01 until 2017-10-01
 	thedevelopnik: thedevelopnik!users.noreply.github.com from 2018-02-01 until 2020-12-01
-GoTo:
-	FlorentATo: FlorentATo!users.noreply.github.com from 2019-03-01 until 2021-11-01
-	alexymantha: alexy!mantha.dev from 2021-09-01
-	frommeyerc: frommeyerc!users.noreply.github.com from 2022-02-01 until 2023-06-01
-	glavoie: glavoie!gmail.com, glavoie!users.noreply.github.com from 2017-10-01
-	lucahuettner: lucahuettner!users.noreply.github.com from 2022-01-01
-	phanama: 11147376+phanama!users.noreply.github.com, phanama!users.noreply.github.com, yudiandreanp!gmail.com from 2020-01-01 until 2021-02-01, from 2022-10-01
-	piyushkumar13: piyush.k9013!gmail.com, piyushkumar13!users.noreply.github.com from 2017-06-01
-GoVios:
-	Inkdpixels: Inkdpixels!users.noreply.github.com from 2016-05-01 until 2017-08-01
-GoWebEz:
-	AravindanSridhar: AravindanSridhar!users.noreply.github.com from 2019-04-01 until 2019-06-01
-GoWit:
-	hakanmemisoglu: hakan!kasten.io, hakanmemisoglu!users.noreply.github.com from 2020-02-01
-Goalbook:
-	MSamman: MSamman!users.noreply.github.com, moesef1!gmail.com from 2015-04-01
-Goat Sneaker Marketplace:
-	eclesh: eclesh!gmail.com, eclesh!users.noreply.github.com, eric.lesh!goat.com from 2017-05-01
-Goatsocial:
-	jkirkpatrick24: jkirkpat16!gmail.com from 2016-11-01 until 2017-09-01
-Goava:
-	rajibhossen: rajibhossen!users.noreply.github.com from 2018-01-01 until 2018-07-01
