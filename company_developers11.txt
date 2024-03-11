@@ -2,6 +2,38 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+dcoupled:
+	bitsofinfo: bitsofinfo!users.noreply.github.com
+dcsolutions:
+	jarmoni: jarmoni!users.noreply.github.com, michas!jarmoni.org
+de Bijenkorf:
+	seankhliao: seankhliao!gmail.com, seankhliao!users.noreply.github.com from 2020-10-01 until 2022-02-01
+	shepely: shepely!users.noreply.github.com
+de Persgroep Nederland:
+	Industrial: Industrial!users.noreply.github.com, tom.wieland!gmail.com from 2019-04-01 until 2019-09-01
+de Vinderij B.V. (Careibu):
+	miguelaferreira: miguelaferreira!users.noreply.github.com, miguelferreira!me.com from 2017-03-01 until 2017-11-01
+de Volksbank:
+	BdeHeij: BdeHeij!users.noreply.github.com from 2020-10-01 until 2022-06-01
+	SimeonPoot: SimeonPoot!users.noreply.github.com from 2020-06-01
+	StefAtMentech: StefAtMentech!users.noreply.github.com from 2022-07-01
+	fabianmet: fabianmet!users.noreply.github.com from 2020-02-01 until 2021-04-01
+deSEC e.V.:
+	peterthomassen: peterthomassen!users.noreply.github.com until 2018-07-01
+dealcloser inc.:
+	atrauzzi: atrauzzi!gmail.com, atrauzzi!users.noreply.github.com from 2020-04-01
+deciBel:
+	tessellator: taylor.thomas.c!gmail.com, tessellator!users.noreply.github.com from 2015-07-01 until 2016-09-01
+deepc GmbH:
+	andrewwebber: andrewvwebber!googlemail.com, andrewwebber!users.noreply.github.com from 2020-03-01
+deepsense.ai:
+	it-praktyk: it-praktyk!users.noreply.github.com from 2019-04-01 until 2020-02-01
+	micmarty-deepsense: micmarty-deepsense!users.noreply.github.com from 2021-01-01
+	mtszkw: mtszkw!users.noreply.github.com from 2021-12-01
+deepsense.io:
+	jsnowacki: jsnowacki!users.noreply.github.com from 2016-06-01 until 2016-12-01
+define:
+	budhirajamadhav: budhirajamadhav!users.noreply.github.com, madhavbudhiraja131!gmail.com from 2021-03-01
 defold:
 	ragnard: ragnard!users.noreply.github.com
 delaware BeLux:
@@ -1891,6 +1923,8 @@ imgix:
 	zacman85: christopher.zacharias!gmail.com
 immedia:
 	JimiSmith: JimiSmith!users.noreply.github.com
+immerok:
+	austince: austin.cawley!gmail.com, austince!users.noreply.github.com from 2022-05-01 until 2023-01-01
 immersive:
 	HelloPb: HelloPb!users.noreply.github.com, prasanna.k.bhat!gmail.com from 2017-09-01 until 2017-10-01
 immowelt:

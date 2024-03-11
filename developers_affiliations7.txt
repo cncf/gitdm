@@ -5,6 +5,41 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+rbkrabbe: rbkrabbe!users.noreply.github.com
+	Assemble until 2016-02-01
+	Independent from 2016-02-01 until 2016-05-01
+	Bankdata from 2016-05-01 until 2020-12-01
+	start-up from 2020-12-01
+rblejter: rblejter!cisco.com, rblejter!users.noreply.github.com
+	Cisco
+rbmoore: ryan.moore!salesforce.com
+	Salesforce.com Inc.
+rbo: rbo!users.noreply.github.com, robert.bohne!redhat.com
+	ConSol until 2017-12-01
+	Dell EMC from 2017-12-01 until 2018-10-01
+	Red Hat Inc. from 2018-10-01
+rbo13: 10726631+rbo13!users.noreply.github.com, chardy.orofeo!yahoo.com.ph, chardyy.orofeo!gmail.com, rbo13!users.noreply.github.com
+	Independent until 2015-06-01
+	SYNACY INC from 2015-06-01 until 2015-11-01
+	Independent from 2015-11-01 until 2016-06-01
+	Code Republiq from 2016-06-01 until 2017-01-01
+	Independent from 2017-01-01 until 2017-08-01
+	A-FIS PTE.LTD from 2017-08-01
+rbogle: rian.bogle!blackboard.com
+	Independent until 2019-04-01
+	Blackboard from 2019-04-01
+rbottomley: rbottomley!users.noreply.github.com
+	Independent until 2019-03-01
+	StackRox Inc. from 2019-03-01
+rboyer: rb!hashicorp.com, rboyer!users.noreply.github.com
+	HashiCorp Inc
+rbraeunlich: rbraeunlich!users.noreply.github.com
+	Independent until 2015-03-01
+	Camunda Services GmbH from 2015-03-01 until 2015-07-01
+	Independent from 2015-07-01 until 2017-05-01
+	Codecentric AG from 2017-05-01 until 2019-03-01
+	ProMaterial from 2019-03-01 until 2021-07-01
+	RTL Deutschland from 2021-07-01
 rbreeze: remington!akuity.io, remington!breeze.software, remington!hey.com
 	Independent until 2016-03-01
 	Jimboy's from 2016-03-01 until 2016-08-01
@@ -23819,52 +23854,3 @@ tkozma: tkozma!users.noreply.github.com
 	Navitasoft Magyarország from 2017-04-01 until 2019-01-01
 	Planorama from 2019-01-01 until 2020-01-01
 	Trax Retail from 2020-01-01
-tkrajcar: allegro!conmolto.org
-	TNG until 2014-07-01
-	New Relic Inc. from 2014-07-01 until 2021-01-01
-	Castle from 2021-01-01
-tkrausjr: tkrausjr!gmail.com, tkrausjr!users.noreply.github.com
-	VMware Inc.
-tkrishtop: tkrishtop!users.noreply.github.com
-	CEA until 2015-02-01
-	Independent from 2015-02-01 until 2015-07-01
-	ALTEN from 2015-07-01 until 2016-12-01
-	Sony Marketing Inc. from 2016-12-01 until 2017-04-01
-	Accenture Global Solutions Limited from 2017-04-01 until 2018-04-01
-	Amadeus from 2018-04-01 until 2021-07-01
-	Red Hat Inc. from 2021-07-01
-tkrop: tkrop!users.noreply.github.com
-	freenet digital until 2015-09-01
-	Independent from 2015-09-01 until 2016-03-01
-	Zalando SE from 2016-03-01
-tkrotoff: tkrotoff!gmail.com, tkrotoff!users.noreply.github.com
-	Groupe APTEA
-tks98: tks98!users.noreply.github.com
-	Independent until 2019-05-01
-	Vail from 2019-05-01
-tksm: takashi.kusumi!gmail.com, tksm!users.noreply.github.com, tkusumi!zlab.co.jp
-	Yahoo! Inc.
-tksmd: tksmd!users.noreply.github.com
-	Nulab until 2016-09-01
-	Hacarus from 2016-09-01
-tkuhlman: tkuhlman!users.noreply.github.com
-	Canonical Ltd.
-tkukushkin: tkukushkin!users.noreply.github.com
-	Trilan until 2015-03-01
-	Работа рунета from 2015-03-01 until 2016-01-01
-	CIAN Group from 2016-01-01
-tkulasek: tomaszx.kulasek!intel.com
-	Intel Corporation
-tkulczynski: tkulczynski!google.com, tkulczynski!users.noreply.github.com
-	Google LLC
-tkurylek: tkurylek!future-processing.com, tkurylek!users.noreply.github.com
-	Future Processing Sp. z o.o. until 2016-01-01
-	SAP from 2016-01-01
-tkyi: tkyi!users.noreply.github.com
-	Yahoo! Inc.
-tkyoo: tkyoo0627!gmail.com
-	Independent until 2016-01-01
-	DataStreams from 2016-01-01 until 2016-11-01
-	NEXON KOREA from 2016-11-01 until 2019-08-01
-	Independent from 2019-08-01 until 2019-10-01
-	SK Telecom · from 2019-10-01
