@@ -2,6 +2,27 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+SRH Hochschule Heidelberg GmbH:
+	DaGeRe: DaGeRe!users.noreply.github.com from 2017-04-01 until 2017-09-01
+	anjakammer: anjakammer!users.noreply.github.com, post!anjakammer.de from 2018-03-01 until 2019-03-01
+SRI:
+	c-yoon: chyoon87!kaist.ac.kr from 2015-06-01 until 2015-09-01
+SRI International:
+	cjyar: chris!cjones.org, cjyar!users.noreply.github.com
+	cmsj: chris!cjones.org, cmsj!users.noreply.github.com
+	hasanatkazmi: hasanatkazmi!gmail.com, hasanatkazmi!users.noreply.github.com until 2016-08-15
+	itscert: itscert!users.noreply.github.com from 2015-12-01 until 2019-08-01
+	nam-jaehyun: jn!accuknox.com from 2015-12-01 until 2016-02-01, from 2016-06-01 until 2016-09-01, from 2017-12-01 until 2018-02-01, from 2018-09-01 until 2019-05-01
+	rcanderson23: rcanderson23!gmail.com from 2020-07-01 until 2021-09-01
+	rquitales: rquitales!users.noreply.github.com from 2018-11-01 until 2019-04-01
+SRI Vektor:
+	AlekseyBlokhin: alexey.blokhin!kasten.io until 2017-06-01
+SRISA/NIISI RAS:
+	FrankiePo: FrankiePo!users.noreply.github.com, serge.koshechkin!gmail.com from 2015-10-01 until 2016-07-01
+SRKay:
+	ChiragGorsia05: ChiragGorsia05!users.noreply.github.com from 2018-01-01 until 2019-05-01
+SRM:
+	anmolsachan: anmolsachan!users.noreply.github.com, asachan!redhat.com from 2015-08-01 until 2016-11-01
 SRM PURA:
 	prateekvishnu: prateekvishnu!users.noreply.github.com until 2016-01-01
 SRXP Mobile Expense Reporting:
@@ -1465,7 +1486,7 @@ Samsung Electronics Co. Ltd.:
 	jjjungkim: jjjungkim!users.noreply.github.com
 	jkaniuk: jkaniuk!google.com, jkaniuk!users.noreply.github.com until 2018-11-01
 	jkim711: jkim711!users.noreply.github.com until 2021-04-01
-	joejulian: me!joejulian.name from 2017-04-01 until 2018-09-01
+	joejulian: joejulian!users.noreply.github.com, me!joejulian.name from 2017-04-01 until 2018-09-01
 	johnyborek: johnyborek!users.noreply.github.com from 2018-07-01
 	jprzychodzen: jprzychodzen!users.noreply.github.com until 2017-04-01
 	jrbenito: jrbenito!benito.qsl.br
@@ -1651,7 +1672,6 @@ Samsung SDS:
 	jmjoo: jmjoo!users.noreply.github.com, m7.joo!gmail.com
 	jmnote: jmnote!users.noreply.github.com, jmnote.kim!samsung.com, opcore!gmail.com
 	jmyung: jesang.myung!gmail.com, jesang.myung!samsung.com, jmyung!users.noreply.github.com
-	joejulian: joejulian!users.noreply.github.com from 2017-04-01 until 2018-09-01
 	joonghoyeon: joongho.yeon!samsung.com, joonghoyeon!users.noreply.github.com
 	joungwoong: joungwoong!users.noreply.github.com, joungwoong.park!samsung.com
 	jyan68: jyan68!nate.com, jyan68!users.noreply.github.com
@@ -7459,6 +7479,8 @@ Somatik:
 	francisdb: francisdb!gmail.com, francisdb!users.noreply.github.com from 2023-01-01 until 2023-05-01
 Some NDA Company:
 	dmakarov: dmakarov!alumni.stanford.edu, dmakarov!users.noreply.github.com until 2015-03-01
+Some Startup:
+	zmalik: zmalik!users.noreply.github.com, zmalikshxil!gmail.com from 2020-10-01
 Some Total:
 	joesepi: sepi!joesepi.com from 2016-06-01 until 2017-10-01
 Somerville House:
@@ -9842,6 +9864,7 @@ Stealth:
 	idelvall: idelvall!brutusin.org, idelvall!users.noreply.github.com from 2019-12-01
 	jamesthegiantpeach: jamesthegiantpeach!users.noreply.github.com
 	jnaulty: jnaulty!gmail.com, jnaulty!users.noreply.github.com, johnnaulty!bitgo.com from 2018-12-01
+	joejulian: joejulian!users.noreply.github.com, me!joejulian.name from 2023-11-01
 	mcminis1: mcminis1!users.noreply.github.com from 2023-04-01
 	mgyong: mgyong!gmail.com, mgyong!users.noreply.github.com from 2021-11-01
 	nebril: maciej.iai!gmail.com, mkwiek!mirantis.com, nebril!users.noreply.github.com from 2017-09-01
@@ -16431,30 +16454,3 @@ ThinkingStorm:
 	AlexanderEllis: AlexanderEllis!users.noreply.github.com from 2016-07-01 until 2017-06-01
 Thinkingbox:
 	justinjung04: justinjung04!gmail.com from 2015-07-01 until 2016-09-01
-Thinkinside:
-	Teudimundo: Teudimundo!users.noreply.github.com from 2017-10-01
-Thinkmill Pty Ltd:
-	JedWatson: JedWatson!users.noreply.github.com, jed.watson!me.com
-	jamiebuilds: jamiebuilds!users.noreply.github.com, me!thejameskyle.com from 2017-06-01 until 2018-01-01
-Thinknode Labs:
-	kyleburnett: kyleburnett!users.noreply.github.com until 2016-01-01
-Thinkproject:
-	steveizzle: steveizzle!users.noreply.github.com from 2016-07-01 until 2019-02-01
-Thinktecture AG:
-	ThorstenHans: ThorstenHans!users.noreply.github.com from 2015-05-01
-Thinkwrap:
-	jahernandezmartinez13: jahernandezmartinez13!users.noreply.github.com from 2015-10-01 until 2019-05-01
-Third Corner:
-	Zacharias3690: Zacharias3690!users.noreply.github.com from 2014-06-01 until 2015-04-01
-Third Space Learning:
-	deniseschannon: deniseschannon!users.noreply.github.com from 2015-01-01 until 2015-07-01
-ThirdLove:
-	pims: pims!users.noreply.github.com from 2018-04-01 until 2018-06-01
-Thirstie:
-	phyllisstein: phyllisstein!users.noreply.github.com until 2015-10-01
-This Dot Inc.:
-	frederikprijck: frederik.prijck!gmail.com, frederikprijck!users.noreply.github.com from 2019-02-01
-This End Out:
-	nextrevision: nextrevision!users.noreply.github.com, notarobot!nextrevision.net from 2015-05-01
-This Game Studio:
-	suguru03: patrick.kings!live.com, suguru.motegi!gmail.com, suguru03!users.noreply.github.com from 2018-12-01

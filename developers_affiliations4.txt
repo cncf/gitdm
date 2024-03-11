@@ -5,6 +5,9 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+ecwws: evilcat!wisewolfsolutions.com
+	Duo Security until 2017-01-01
+	DATAWIRE AG from 2017-01-01
 ed-shilo: ed.m.shilo!gmail.com
 	Dell EMC until 2021-05-01
 	OZON.ru from 2021-05-01 until 2022-06-01
@@ -5306,7 +5309,8 @@ femrtnz: femrtnz!gmail.com, femrtnz!users.noreply.github.com
 	Babylon Partners Ltd from 2019-04-01 until 2019-09-01
 	NatWest from 2019-09-01 until 2020-06-01
 	Equal Experts from 2020-06-01 until 2020-12-01
-	Improbable Worlds Limited from 2020-12-01
+	Improbable Worlds Limited from 2020-12-01 until 2023-01-01
+	DoiT from 2023-01-01
 fen4o: fen4o!users.noreply.github.com, martin.vladev!gmail.com, martinvladev!gmail.com
 	SAP
 feng-lu: lu.feng!6wind.com
@@ -10293,8 +10297,9 @@ gkammela: gayatri.kammela!intel.com
 gkao123: gkao123!users.noreply.github.com
 	Amazon
 gkarthiks: 30545166+gkarthiks!users.noreply.github.com, github.gkarthiks!gmail.com, gkarthiks!users.noreply.github.com
-	Independent until 2016-09-01
-	Black Rock from 2016-09-01
+	Toyota until 2016-09-01
+	BlackRock from 2016-09-01 until 2022-09-01
+	Oracle America Inc. from 2022-09-01
 gkaskonas: gkaskonas!users.noreply.github.com
 	Independent until 2015-07-01
 	Ericsson from 2015-07-01 until 2016-08-01
@@ -19007,7 +19012,11 @@ intelroman: ipvlocked!gmail.com
 	VMware Inc. from 2021-07-01 until 2022-11-01
 	Qualcomm from 2022-11-01
 inteon: inteon!users.noreply.github.com
-	Independent
+	Independent until 2020-12-01
+	Google LLC from 2020-12-01 until 2021-08-01
+	Independent from 2021-08-01 until 2022-08-01
+	Jetstack Ltd from 2022-08-01 until 2023-02-01
+	Venafi from 2023-02-01
 interma: hma!pivotal.io, interma!outlook.com, interma!users.noreply.github.com
 	Baidu Online Network Technology (Beijing) Co. Ltd until 2016-10-01
 	Pivotal from 2016-10-01
@@ -23881,5 +23890,3 @@ jeremievallee: jeremievallee!users.noreply.github.com
 jeremy-e-mills: jeremy-e-mills!users.noreply.github.com
 	CommScope Inc. until 2016-12-01
 	Remsdaq from 2016-12-01
-jeremybbrown: jeremy.b.brown2!hpe.com
-	HP Inc.

@@ -2,6 +2,14 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Maskinsektionen inom Teknologkåren vid Lunds Tekniska Högskola:
+	JohanWork: JohanWork!users.noreply.github.com from 2015-08-01 until 2016-12-01
+Mason:
+	tompowell-dd: tom.powell!datadoghq.com, tompowell-dd!users.noreply.github.com from 2016-08-01 until 2017-07-01
+Masonite®:
+	tylerreece22: tylerreece33!gmail.com from 2018-05-01 until 2019-02-01
+Mass:
+	husky-parul: husky-parul!users.noreply.github.com, parsingh!redhat.com from 2018-09-01 until 2018-12-01
 Mass Luminosity:
 	aswaterman: andrew!sifive.com, aswaterman!users.noreply.github.com until 2014-12-01
 	murka: im!murka.me from 2021-08-01 until 2021-10-01
@@ -1537,6 +1545,7 @@ Mercari Inc:
 	sfujiwara: sfujiwara!users.noreply.github.com, shuhei.fujiwara!gmail.com from 2017-12-01 until 2019-08-01
 	shibuiwilliam: shibuiwilliam!users.noreply.github.com from 2018-07-01 until 2020-08-01
 	shotarok: khmshtr28!gmail.com, shotarok!users.noreply.github.com from 2018-08-01
+	shuheiktgw: shuhei.kitagawa!c-fo.com, shuheiktgw!users.noreply.github.com from 2021-10-01
 	sipian: cs15btech11019!iith.ac.in, harshaga97!gmail.com, sipian!users.noreply.github.com from 2019-10-01 until 2020-01-01
 	sowawa: keisuke.sogawa!gmail.com from 2017-05-01
 	stanaka: shinji.tanaka!gmail.com, stanaka!users.noreply.github.com from 2016-08-01
@@ -1761,8 +1770,7 @@ Mesosphere:
 	jgehrcke: jgehrcke!googlemail.com, jgehrcke!users.noreply.github.com from 2015-10-01 until 2019-10-01
 	jianhuabi: zhangche.bi!gmail.com
 	jieyu: jieyu!users.noreply.github.com, yujie.jay!gmail.com from 2015-12-01
-	joejulian: joejulian!users.noreply.github.com from 2018-09-01
-	joejulian: me!joejulian.name from 2018-09-01
+	joejulian: joejulian!users.noreply.github.com, me!joejulian.name from 2018-09-01 until 2022-05-01
 	joerg84: jmertic!linuxfoundation.org, joerg!mesosphere.io, joerg84!users.noreply.github.com
 	justinrlee: justin.lee!armory.io, justin.r.lee!gmail.com, justinrlee!users.noreply.github.com from 2017-02-01 until 2018-10-01
 	kaiwalyajoshi: joshi.kaiwalya!gmail.com, kaiwalyajoshi!users.noreply.github.com, kjoshi!d2iq.com, kjoshi!mesosphere.com from 2018-08-20 until 2019-08-05
@@ -1804,7 +1812,7 @@ Mesosphere:
 	yifan-gu: guyifan1121!gmail.com, yifan-gu!users.noreply.github.com, yifan.gu!coreos.com until 2014-08-01
 	yifan-gu-anchorage: yifan-gu-anchorage!users.noreply.github.com until 2014-08-01
 	zen-dog: alex.dukhovniy!googlemail.com from 2016-08-01
-	zmalik: zmalik!users.noreply.github.com, zmalikshxil!gmail.com from 2018-07-01
+	zmalik: zmalik!users.noreply.github.com, zmalikshxil!gmail.com from 2018-07-01 until 2020-10-01
 MessageBird:
 	CatalinAdlerDF: CatalinAdlerDF!users.noreply.github.com, catalin.adler!devfactory.com from 2023-09-01
 	OGKevin: 17928966+ogkevin!users.noreply.github.com, OGKevin!users.noreply.github.com from 2018-10-01
@@ -4010,6 +4018,7 @@ Microsoft Corporation:
 	mic-max: mic-max!users.noreply.github.com, yo!micmax.pw from 2019-06-01
 	michaelcfanning: michaelcfanning!users.noreply.github.com
 	michaeljqzq: michaeljqzq!gmail.com, michaeljqzq!users.noreply.github.com
+	michelleN: michelle!deis.com, michelleN!users.noreply.github.com, michellemolu!gmail.com, minooral!microsoft.com, mnoorali!engineyard.com from 2021-07-01 until 2021-10-01
 	michellemcone: michellemcone!users.noreply.github.com, micone!microsoft.com
 	microsoftopensource: microsoftopensource!users.noreply.github.com
 	micya: micya!users.noreply.github.com from 2019-07-01 until 2021-07-01
@@ -14809,6 +14818,7 @@ Oracle America Inc.:
 	ggreenway: ggreenway!users.noreply.github.com from 2019-05-01 until 2019-11-01
 	giani: dhaval.giani!gmail.com from 2016-08-01
 	gilbode: mike.gilbode!oracle.com
+	gkarthiks: 30545166+gkarthiks!users.noreply.github.com, github.gkarthiks!gmail.com, gkarthiks!users.noreply.github.com from 2022-09-01
 	gkvijay: vijay.g.krishnan!oracle.com
 	glavoie: glavoie!gmail.com, glavoie!users.noreply.github.com until 2014-08-01
 	gmfrasca: gmfrasca!users.noreply.github.com until 2016-01-01
@@ -15808,22 +15818,3 @@ P&B Stratwork:
 	SunPj: root!sunsongs.ru until 2015-10-01
 P&E Microcomputer:
 	geedo0: geedo0!users.noreply.github.com until 2017-05-01
-P&G:
-	southwolf: southwolf!users.noreply.github.com, wp.southwolf!gmail.com
-P-OSS Solutions:
-	daniloascione: danilo.ascione!gmail.com until 2014-10-01
-P.TEN Marketing:
-	thoraxe: erikmjacobs!gmail.com, thoraxe!users.noreply.github.com until 2018-05-01
-P1 Analytics:
-	jrusso1020: jdrusso1020!gmail.com from 2015-06-01 until 2015-08-01
-P1.com:
-	dataviruset: dataviruset!users.noreply.github.com until 2015-11-01
-P2ware:
-	mkosieradzki: m.kosieradzki!p2ware.com, mkosieradzki!users.noreply.github.com
-P3:
-	milan-stikic-cif: milan-stikic-cif!users.noreply.github.com from 2016-12-01
-	ognjen-it: ognjen-it!users.noreply.github.com from 2019-12-01 until 2021-01-01
-P8H:
-	sgtsquiggs: sgtsquiggs!users.noreply.github.com until 2017-10-01
-PA Colsulting:
-	dwardu89: dwardu89!users.noreply.github.com from 2014-11-01 until 2017-09-01

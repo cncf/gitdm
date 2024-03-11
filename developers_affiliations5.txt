@@ -5,6 +5,8 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+jeremybbrown: jeremy.b.brown2!hpe.com
+	HP Inc.
 jeremych1000: jeremych!outlook.com, jeremych1000!users.noreply.github.com
 	HKT until 2014-08-01
 	Independent from 2014-08-01 until 2015-07-01
@@ -2948,16 +2950,13 @@ joeholley: joeholley!users.noreply.github.com
 	Google LLC from 2015-11-01
 joejstuart: jstuart!redhat.com, mail!glenstark.net
 	Red Hat Inc.
-joejulian: joejulian!users.noreply.github.com
-	IO until 2017-01-01
-	Rooster Park from 2017-01-01 until 2017-04-01
-	Samsung SDS from 2017-04-01 until 2018-09-01
-	Mesosphere from 2018-09-01
-joejulian: me!joejulian.name
+joejulian: joejulian!users.noreply.github.com, me!joejulian.name
 	IO until 2017-01-01
 	Rooster Park from 2017-01-01 until 2017-04-01
 	Samsung Electronics Co. Ltd. from 2017-04-01 until 2018-09-01
-	Mesosphere from 2018-09-01
+	Mesosphere from 2018-09-01 until 2022-05-01
+	Redpanda from 2022-05-01 until 2023-11-01
+	Stealth from 2023-11-01
 joekelley: joe!solo.io, joekelley!users.noreply.github.com
 	Independent until 2019-04-08
 	Solo.io from 2019-04-08

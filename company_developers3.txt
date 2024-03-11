@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Dark Horse:
+	vasusheoran: vasusheoran!users.noreply.github.com from 2015-07-01 until 2017-10-01
+Dark Indigo:
+	BrendonW: BrendonW!users.noreply.github.com until 2015-01-01
+Dark Raven:
+	lukanus: lukanus!uaznia.net from 2018-10-01
 Dark Side:
 	anarcher: anarcher!gmail.com, anarcher!users.noreply.github.com
 Dark Star:
@@ -881,8 +887,6 @@ DealerCell:
 	daleront: daleront!users.noreply.github.com from 2014-12-01 until 2016-06-01
 DealerInstincts:
 	jValdron: jValdron!users.noreply.github.com, jason!valdron.ca until 2014-09-01
-DealerMatch:
-	michelleN: michelle!deis.com, michelleN!users.noreply.github.com, michellemolu!gmail.com, minooral!microsoft.com, mnoorali!engineyard.com until 2014-09-01
 DealerSocket:
 	djhaskin987: djhaskin987!users.noreply.github.com until 2014-06-01
 DealersLink Inc.:
@@ -1120,6 +1124,8 @@ Defend7:
 	gavin-stackrox: gavin-stackrox!users.noreply.github.com, gjefferi!redhat.com until 2016-01-01
 Defense:
 	aniruddha2000: aniruddha2000!users.noreply.github.com, codewithaniruddha!gmail.com from 2022-08-01 until 2023-05-01
+Defense Unicorns:
+	naveensrinivasan: naveensrinivasan!users.noreply.github.com, nsrinivasan1976!gmail.com from 2024-02-01
 DefenseStorm:
 	babsher: babsher!users.noreply.github.com from 2015-12-01 until 2016-12-01
 Defiance Ventures:
@@ -1166,6 +1172,7 @@ Deis:
 	krancour: kent!akuity.io, kent!deis.com, kent.rancourt!gmail.com, kent.rancourt!microsoft.com, krancour!users.noreply.github.com, krancourt!engineyard.com from 2015-07-15 until 2017-04-01
 	lachie83: lachie83!users.noreply.github.com, lachlan.evenson!microsoft.com from 2016-07-15 until 2017-04-01
 	mboersma: Matt.Boersma!microsoft.com, daniel.joos87!googlemail.com, matt!sprout.org, mboersma!deis.com, mboersma!engineyard.com, mboersma!users.noreply.github.com, rinick!gmail.com until 2017-04-01
+	michelleN: michelle!deis.com, michelleN!users.noreply.github.com, michellemolu!gmail.com, minooral!microsoft.com, mnoorali!engineyard.com from 2015-11-01 until 2017-04-01
 	rimusz: rimusz!users.noreply.github.com, rmocius!gmail.com from 2015-09-01 until 2016-10-01
 	sgoings: segoings!microsoft.com, seth!deis.com, sethgoings!gmail.com, sgoings!deis.com, sgoings!engineyard.com, sgoings!users.noreply.github.com from 2015-06-01 until 2017-04-01
 	vdice: vadice!microsoft.com, vaughn!deis.com, vdice!deis.com, vdice!users.noreply.github.com from 2016-02-01 until 2017-04-01
@@ -1176,7 +1183,7 @@ Deis Inc. (EngineYard):
 	javlonsodikov: javlonsodikov!users.noreply.github.com from 2018-01-01 until 2021-02-01
 	jchauncey: avikaggarwal1993!gmail.com, jchauncey!users.noreply.github.com
 	kmala: ba!berkantaydin.com.tr, keerthan.mala!gmail.com, kmala!deis.com, kmala!engineyard.com, kmala!users.noreply.github.com, kremala!amazon.com from 2015-06-01 until 2015-08-01
-	michelleN: michelle!deis.com, michelleN!users.noreply.github.com, michellemolu!gmail.com, minooral!microsoft.com, mnoorali!engineyard.com from 2014-09-01 until 2017-04-01
+	michelleN: michelle!deis.com, michelleN!users.noreply.github.com, michellemolu!gmail.com, minooral!microsoft.com, mnoorali!engineyard.com until 2015-11-01
 	mikedup: mike!mikedup.co from 2014-09-01 until 2015-11-01
 	rbankston: ralph.l.bankston!gmail.com, rbankston!users.noreply.github.com until 2017-08-01
 	slack: jason!slack.io, jason.hansen!microsoft.com, jhansen!deis.com, jhansen!engineyard.com, slack!users.noreply.github.com until 2017-04-01
@@ -3765,6 +3772,7 @@ Dohop:
 	aodj: aodj!users.noreply.github.com until 2011-04-01
 DoiT:
 	eranchetz: eranchetz!users.noreply.github.com from 2018-09-01
+	femrtnz: femrtnz!gmail.com, femrtnz!users.noreply.github.com from 2023-01-01
 	gidutz: gidutz!gmail.com, gidutz!users.noreply.github.com from 2018-07-01 until 2022-02-01
 	sunilfernandes: sunilfernandes!users.noreply.github.com from 2019-07-01
 	yuvaldrori: yuval.drori!gmail.com, yuvaldrori!users.noreply.github.com from 2018-11-01
@@ -7621,6 +7629,7 @@ Endomondo:
 	kaaquist: kaaquist!users.noreply.github.com, kasperaaquist!gmail.com from 2015-07-01 until 2016-06-01
 Endor:
 	davidglvn: davidglvn!users.noreply.github.com from 2019-07-01
+	naveensrinivasan: naveensrinivasan!users.noreply.github.com, nsrinivasan1976!gmail.com from 2022-04-01 until 2023-02-01
 Endor Labs:
 	codebasky: codebasky!users.noreply.github.com from 2023-04-01
 Endpoint:
@@ -11113,6 +11122,7 @@ Fermilab:
 	jcpunk: jcpunk!users.noreply.github.com, riehecky!fnal.gov
 	sl-team: scientific-linux-devel!fnal.gov
 Fermyon:
+	michelleN: michelle!deis.com, michelleN!users.noreply.github.com, michellemolu!gmail.com, minooral!microsoft.com, mnoorali!engineyard.com from 2021-10-01
 	rajatjindal: rajatjindal!users.noreply.github.com, rajatjindal83!gmail.com from 2022-10-01
 Ferrari:
 	gimmi: gimmi!users.noreply.github.com until 2015-06-01
@@ -12964,6 +12974,7 @@ Fred IT:
 	ameyaagashe: ameyaagashe!users.noreply.github.com, ameyaagashe!yahoo.com from 2018-08-01 until 2019-12-01
 Freddie Mac:
 	CBVenkataReddy: CBVenkataReddy!users.noreply.github.com from 2018-06-01 until 2019-05-01
+	naveensrinivasan: naveensrinivasan!users.noreply.github.com, nsrinivasan1976!gmail.com from 2020-06-01 until 2022-04-01
 	rakesh-k: rakesh-k!users.noreply.github.com, rakeshks!gmail.com
 Freddy's Frozen Custard & Steakburgers:
 	willdavsmith: willdavsmith!gmail.com from 2018-05-01 until 2018-08-01

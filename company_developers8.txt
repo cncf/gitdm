@@ -2,6 +2,25 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+P&G:
+	southwolf: southwolf!users.noreply.github.com, wp.southwolf!gmail.com
+P-OSS Solutions:
+	daniloascione: danilo.ascione!gmail.com until 2014-10-01
+P.TEN Marketing:
+	thoraxe: erikmjacobs!gmail.com, thoraxe!users.noreply.github.com until 2018-05-01
+P1 Analytics:
+	jrusso1020: jdrusso1020!gmail.com from 2015-06-01 until 2015-08-01
+P1.com:
+	dataviruset: dataviruset!users.noreply.github.com until 2015-11-01
+P2ware:
+	mkosieradzki: m.kosieradzki!p2ware.com, mkosieradzki!users.noreply.github.com
+P3:
+	milan-stikic-cif: milan-stikic-cif!users.noreply.github.com from 2016-12-01
+	ognjen-it: ognjen-it!users.noreply.github.com from 2019-12-01 until 2021-01-01
+P8H:
+	sgtsquiggs: sgtsquiggs!users.noreply.github.com until 2017-10-01
+PA Colsulting:
+	dwardu89: dwardu89!users.noreply.github.com from 2014-11-01 until 2017-09-01
 PA Consulting Holdings Limited:
 	Jakeeyturner: Jakeeyturner!users.noreply.github.com from 2014-01-01 until 2015-02-01
 	cyberbliss: cyberbliss!users.noreply.github.com, stephen.judd!gmail.com from 2018-10-01 until 2020-10-01
@@ -4724,7 +4743,7 @@ PracticeEvolve:
 Practiv:
 	ncjones: ncjones!users.noreply.github.com from 2017-02-01 until 2019-02-01
 Practo:
-	alok87: alok.singh!practo.com, alok87!users.noreply.github.com, mail.alok87!gmail.com
+	alok87: alok.singh!practo.com, alok87!users.noreply.github.com, mail.alok87!gmail.com until 2022-03-01
 	amanmahajan26: aman.mahajan!practo.com, amanmahajan26!users.noreply.github.com from 2015-10-01 until 2018-02-01
 	anuragagarwal561994: anurag.agarwal561994!gmail.com, anuragagarwal561994!users.noreply.github.com from 2016-07-01 until 2019-10-01
 	chowmean: chowmean!users.noreply.github.com, gaurav.dev.iiitm!gmail.com from 2016-06-01 until 2017-05-01
@@ -6952,7 +6971,7 @@ Qualys Inc.:
 	bsalunke: bsalunke!users.noreply.github.com from 2014-04-01
 	dmilind: dmilind!users.noreply.github.com from 2016-12-01 until 2020-03-01
 Quamotion:
-	qmfrederik: frederik.carlier!quamotion.mobi, qmfrederik!users.noreply.github.com
+	qmfrederik: frederik.carlier!quamotion.mobi, qmfrederik!users.noreply.github.com until 2022-01-01
 Quanalyz:
 	liorokman: lior.okman!gmail.com, liorokman!users.noreply.github.com until 2014-05-01
 Quandl:
@@ -8974,6 +8993,7 @@ Razorops:
 Razorpay:
 	Ckbhatia: Chetansain86!gmail.com from 2022-06-01 until 2023-02-01
 	abhay2302: abhay2302!users.noreply.github.com from 2020-11-01
+	alok87: alok.singh!practo.com, alok87!users.noreply.github.com, mail.alok87!gmail.com from 2022-03-01
 	ankitjain235: ankitjain.meone!gmail.com from 2020-01-01 until 2022-04-01
 	ankitjain28may: ankitjain28may!users.noreply.github.com, ankitjain28may77!gmail.com from 2019-04-01
 	hunarjain09: hunarjain09!users.noreply.github.com from 2021-06-01 until 2021-07-01
@@ -12022,7 +12042,7 @@ Red Hat Inc.:
 	vorburger: michael.vorburger+github-profile!gmail.com, mike!vorburger.ch, vorburger!google.com, vorburger!redhat.com, vorburger!users.noreply.github.com from 2016-03-01 until 2019-05-01
 	vpagar1: vpagar1!users.noreply.github.com from 2015-03-01
 	vpavlin: vasek!redhat.com, vpavlin!users.noreply.github.com
-	vpickard: vpickard!users.noreply.github.com from 2016-01-01
+	vpickard: vpickard!users.noreply.github.com from 2016-01-01 until 2022-10-01
 	vponomaryov: vponomaryov!mirantis.com, vponomaryov!users.noreply.github.com
 	vprashar2929: vibhu.sharma2929!gmail.com from 2022-09-01
 	vrockai: vrockai!users.noreply.github.com until 2015-08-01
@@ -12384,6 +12404,7 @@ Rednim Consulting:
 Redox:
 	matt-duch: matt-duch!users.noreply.github.com from 2019-11-01
 Redpanda:
+	joejulian: joejulian!users.noreply.github.com, me!joejulian.name from 2022-05-01 until 2023-11-01
 	vuldin: vuldin!users.noreply.github.com from 2022-04-01
 Redpanda Data:
 	alenkacz: alenkacz!users.noreply.github.com, varkockova.a!gmail.com from 2021-02-01
@@ -13117,6 +13138,8 @@ Retinad:
 	nsmith5: nsmith5!users.noreply.github.com from 2017-07-01 until 2018-01-01
 Retired:
 	BurtHarris: BurtHarris!users.noreply.github.com from 2014-09-01
+Retired Life:
+	vpickard: vpickard!users.noreply.github.com from 2022-10-01
 Retour:
 	dgageot: david!gageot.net, dgageot!users.noreply.github.com, okn.ozdemir!gmail.com until 2015-10-01
 Retriever Communications:
@@ -13158,6 +13181,7 @@ RevUp:
 	dlobue: dlobue!users.noreply.github.com from 2015-04-01 until 2019-12-01
 Revature:
 	hall: email!bryton.io, hall!users.noreply.github.com from 2018-02-01 until 2019-02-01
+	naveensrinivasan: naveensrinivasan!users.noreply.github.com, nsrinivasan1976!gmail.com from 2016-03-01 until 2017-02-01
 Reveal:
 	AlphaB: AlphaB!users.noreply.github.com, salosinm!gmail.com
 Reveal Chat:
@@ -14129,8 +14153,7 @@ Roomsie:
 Roorkee:
 	rohitjha941: rohitjha941!users.noreply.github.com from 2019-08-01 until 2020-06-01
 Rooster Park:
-	joejulian: joejulian!users.noreply.github.com from 2017-01-01 until 2017-04-01
-	joejulian: me!joejulian.name from 2017-01-01 until 2017-04-01
+	joejulian: joejulian!users.noreply.github.com, me!joejulian.name from 2017-01-01 until 2017-04-01
 Root:
 	CVTJNII: CVTJNII!users.noreply.github.com from 2018-01-01 until 2020-02-01
 Root 42:
@@ -16183,24 +16206,3 @@ SRECTrade:
 	ikaruswill: ikaruswill!users.noreply.github.com from 2015-07-01 until 2016-07-01
 SRE당근마켓 · Internship:
 	zeze1004: thwjd2717!gmail.com, zeze1004!users.noreply.github.com from 2022-01-01 until 2022-03-01
-SRH Hochschule Heidelberg GmbH:
-	DaGeRe: DaGeRe!users.noreply.github.com from 2017-04-01 until 2017-09-01
-	anjakammer: anjakammer!users.noreply.github.com, post!anjakammer.de from 2018-03-01 until 2019-03-01
-SRI:
-	c-yoon: chyoon87!kaist.ac.kr from 2015-06-01 until 2015-09-01
-SRI International:
-	cjyar: chris!cjones.org, cjyar!users.noreply.github.com
-	cmsj: chris!cjones.org, cmsj!users.noreply.github.com
-	hasanatkazmi: hasanatkazmi!gmail.com, hasanatkazmi!users.noreply.github.com until 2016-08-15
-	itscert: itscert!users.noreply.github.com from 2015-12-01 until 2019-08-01
-	nam-jaehyun: jn!accuknox.com from 2015-12-01 until 2016-02-01, from 2016-06-01 until 2016-09-01, from 2017-12-01 until 2018-02-01, from 2018-09-01 until 2019-05-01
-	rcanderson23: rcanderson23!gmail.com from 2020-07-01 until 2021-09-01
-	rquitales: rquitales!users.noreply.github.com from 2018-11-01 until 2019-04-01
-SRI Vektor:
-	AlekseyBlokhin: alexey.blokhin!kasten.io until 2017-06-01
-SRISA/NIISI RAS:
-	FrankiePo: FrankiePo!users.noreply.github.com, serge.koshechkin!gmail.com from 2015-10-01 until 2016-07-01
-SRKay:
-	ChiragGorsia05: ChiragGorsia05!users.noreply.github.com from 2018-01-01 until 2019-05-01
-SRM:
-	anmolsachan: anmolsachan!users.noreply.github.com, asachan!redhat.com from 2015-08-01 until 2016-11-01

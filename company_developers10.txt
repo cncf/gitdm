@@ -2,6 +2,33 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Thinkinside:
+	Teudimundo: Teudimundo!users.noreply.github.com from 2017-10-01
+Thinkmill Pty Ltd:
+	JedWatson: JedWatson!users.noreply.github.com, jed.watson!me.com
+	jamiebuilds: jamiebuilds!users.noreply.github.com, me!thejameskyle.com from 2017-06-01 until 2018-01-01
+Thinknode Labs:
+	kyleburnett: kyleburnett!users.noreply.github.com until 2016-01-01
+Thinkproject:
+	steveizzle: steveizzle!users.noreply.github.com from 2016-07-01 until 2019-02-01
+Thinktecture AG:
+	ThorstenHans: ThorstenHans!users.noreply.github.com from 2015-05-01
+Thinkwrap:
+	jahernandezmartinez13: jahernandezmartinez13!users.noreply.github.com from 2015-10-01 until 2019-05-01
+Third Corner:
+	Zacharias3690: Zacharias3690!users.noreply.github.com from 2014-06-01 until 2015-04-01
+Third Space Learning:
+	deniseschannon: deniseschannon!users.noreply.github.com from 2015-01-01 until 2015-07-01
+ThirdLove:
+	pims: pims!users.noreply.github.com from 2018-04-01 until 2018-06-01
+Thirstie:
+	phyllisstein: phyllisstein!users.noreply.github.com until 2015-10-01
+This Dot Inc.:
+	frederikprijck: frederik.prijck!gmail.com, frederikprijck!users.noreply.github.com from 2019-02-01
+This End Out:
+	nextrevision: nextrevision!users.noreply.github.com, notarobot!nextrevision.net from 2015-05-01
+This Game Studio:
+	suguru03: patrick.kings!live.com, suguru.motegi!gmail.com, suguru03!users.noreply.github.com from 2018-12-01
 This Technology:
 	derekbassett: derek.bassett!protonmail.com, derekbassett!users.noreply.github.com from 2014-03-01 until 2015-08-01
 This is The Foundry:
@@ -1456,6 +1483,7 @@ Toyota:
 	cathy-qiu: cathy-qiu!users.noreply.github.com from 2020-06-01 until 2020-08-01
 	ericmcbride: ericmcbride!users.noreply.github.com from 2018-06-01
 	ethanchowell: ethanchowell!users.noreply.github.com from 2017-08-01 until 2018-01-01
+	gkarthiks: 30545166+gkarthiks!users.noreply.github.com, github.gkarthiks!gmail.com, gkarthiks!users.noreply.github.com until 2016-09-01
 	haudren: haudren!users.noreply.github.com from 2021-08-01
 	kubealex: kubealex!users.noreply.github.com from 2015-11-01 until 2018-08-01
 	lmickh: lmickh!users.noreply.github.com from 2017-10-01 until 2018-07-01
@@ -4895,6 +4923,7 @@ Upsight:
 Upskill:
 	drewbutlerbb4: drewbutlerbb4!users.noreply.github.com until 2014-08-01
 	leppez: leppez!users.noreply.github.com from 2018-06-01 until 2019-08-01
+	naveensrinivasan: naveensrinivasan!users.noreply.github.com, nsrinivasan1976!gmail.com from 2017-02-01 until 2018-08-01
 Upsolver Inc.:
 	shanielh: shani.elha!gmail.com, shanielh!users.noreply.github.com from 2015-03-01
 Upstack:
@@ -5575,7 +5604,7 @@ VMware Inc.:
 	a-mccarthy: a-mccarthy!users.noreply.github.com, amccarthy!apprenda.com, amccarthy!heptio.com, mabigail!vmware.com from 2019-12-16
 	a-peek4: a-peek4!users.noreply.github.com from 2020-09-01
 	aalexandrov: aalexandrov!users.noreply.github.com from 2019-10-01 until 2020-08-01
-	aaroniscode: aaroniscode!users.noreply.github.com from 2018-12-01
+	aaroniscode: aaroniscode!users.noreply.github.com from 2018-12-01 until 2020-08-01
 	aaronorosen: aaronorosen!gmail.com, arosen!nicira.com until 2016-09-01
 	aayushrangwala: aayushrangwala!gmail.com, aayushrangwala!users.noreply.github.com, arangwala!vmware.com, ayush.rangwala!gmail.com from 2020-12-01
 	abelsromero: abelsromero!users.noreply.github.com from 2020-11-01
@@ -7144,6 +7173,7 @@ Velvon:
 Vena:
 	sahare: sahare!redhat.com from 2015-05-01 until 2018-05-01
 Venafi:
+	inteon: inteon!users.noreply.github.com from 2023-02-01
 	sabixx: sabixx!users.noreply.github.com from 2016-06-01
 	wgoulet: wgoulet!gmail.com from 2014-03-01
 	zosocanuck: zosocanuck!users.noreply.github.com from 2016-09-01
@@ -8519,7 +8549,7 @@ Visualogic Resources:
 Visvesvaraya:
 	prabhakarlad: prabhakar.csengg!gmail.com
 Vitafy:
-	ahmad-diaa: ahmad-diaa!users.noreply.github.com, ahmaddiaa93!gmail.com from 2018-04-01
+	ahmad-diaa: ahmad-diaa!users.noreply.github.com, ahmaddiaa93!gmail.com from 2018-04-01 until 2020-03-01
 Vital:
 	bubenheimer: bubenheimer!users.noreply.github.com until 2014-12-01
 Vital Software:
@@ -16419,42 +16449,3 @@ daenet:
 	ddobric: ddobric!users.noreply.github.com
 dalab:
 	zinking: zinking!users.noreply.github.com, zinking3!gmail.com
-dareCode:
-	airadier: airadier!gmail.com, airadier!users.noreply.github.com from 2017-11-01 until 2019-08-01
-	marco2704: josephlawlcm!gmail.com, marco2704!users.noreply.github.com, marcodavalosmantilla!gmail.com from 2018-01-01
-dasz.at OG:
-	DavidS-om: DavidS-om!users.noreply.github.com until 2015-03-01
-data.ai:
-	gedejong: edejong!fastmail.com from 2021-07-01 until 2022-08-01
-data4life:
-	ibihim: ibihim!users.noreply.github.com, kostrows!redhat.com from 2018-01-01 until 2021-07-01
-dataFascia:
-	pukkaone: pukkaone!users.noreply.github.com from 2014-12-01 until 2016-05-01
-dataWerks:
-	azkore: azcore!gmail.com, azkore!users.noreply.github.com from 2018-04-01 until 2018-11-01
-datadope:
-	kang-makes: kang-makes!users.noreply.github.com from 2018-10-01 until 2019-02-01
-datalog:
-	meain: mail!meain.io from 2016-07-01 until 2017-10-01
-dataman:
-	wuti1609: wuti1609!users.noreply.github.com
-datapine:
-	DavidJacob: DavidJacob!users.noreply.github.com until 2014-04-01
-	biril: biril!users.noreply.github.com until 2015-03-01
-dataroots:
-	rbagd: rbagd!users.noreply.github.com from 2017-09-01 until 2020-01-01
-	snehakpersistent: snehakpersistent!users.noreply.github.com from 2023-05-01
-datasci:
-	suibinz: suibinz!users.noreply.github.com, suibinzh!gmail.com from 2015-07-01 until 2016-02-01
-datasci.info:
-	suensummit: suensummit!users.noreply.github.com from 2015-05-01 until 2016-02-01
-datenbetrieb:
-	pniederlag: peter.niederlag!datenbetrieb.de, pniederlag!users.noreply.github.com
-datenlord:
-	LingKa28: LingKa28!users.noreply.github.com
-dattaffirm:
-	gtmtech: geoff!gtmtech.co.uk, gtmtech!users.noreply.github.com from 2016-12-01 until 2018-05-01
-db-engineering:
-	UXabre: UXabre!users.noreply.github.com from 2015-11-01 until 2017-11-01
-dbt Labs:
-	girishrao: rao.girish!gmail.com from 2021-02-01

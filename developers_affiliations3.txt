@@ -5,6 +5,8 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+bennage: bennage!microsoft.com, christopher.bennage!microsoft.com
+	Microsoft Corporation
 bennettellis: bennettellis!comcast.net, bennettellis!users.noreply.github.com
 	International Business Machines Corporation until 2015-04-01
 	InGo from 2015-04-01 until 2018-07-01
@@ -23701,6 +23703,3 @@ ecurtin2: ecurtin2!users.noreply.github.com
 	Capital One Financial Corporation from 2019-03-01
 ecw1973: ecw1973!users.noreply.github.com
 	CAE
-ecwws: evilcat!wisewolfsolutions.com
-	Duo Security until 2017-01-01
-	DATAWIRE AG from 2017-01-01
