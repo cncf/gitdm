@@ -2,6 +2,9 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Ozmo:
+	paulwalko: paulsw.pw!gmail.com, paulwalko!users.noreply.github.com from 2019-01-01
+	tryantwit: tryant90!gmail.com from 2018-04-01
 Ozone Platform:
 	nmiculinic: neven.miculinic!gmail.com, nmiculinic!users.noreply.github.com from 2017-07-01 until 2018-08-01
 O’Neill & Brennan:
@@ -5566,7 +5569,7 @@ Project Zerο:
 Project quant-O-phon:
 	maltevogl: mvogl!mpiwg-berlin.mpg.de from 2015-06-01 until 2016-07-01
 Project-FiFo UG (limited liability):
-	Licenser: Licenser!users.noreply.github.com, heinz!licenser.net, heinz!project-fifo.net, hgies!wayfair.com until 2018-08-01
+	Licenser: Licenser!users.noreply.github.com, heinz!axiom.co, heinz!licenser.net, heinz!project-fifo.net, hgies!wayfair.com until 2018-08-01
 Project6:
 	maflaven: maflaven!users.noreply.github.com from 2015-10-01 until 2016-12-01
 ProjectSigma:
@@ -8138,8 +8141,7 @@ Rackspace:
 	ericcarraway: eric.carraway!uicentric.com, ericcarraway!users.noreply.github.com, github!ericcarraway.com, sepulveda.cristian!gmail.com, sweetcczhang!gmail.com from 2015-06-01 until 2016-12-01
 	etoews: etoews!users.noreply.github.com, everett.toews!gmail.com
 	everett-toews: everett-toews!users.noreply.github.com, everett.toews!rackspace.com
-	evrardjp: evrardjp!users.noreply.github.com from 2016-03-18 until 2018-04-25
-	evrardjp: jean-philippe!evrard.me, jean-philippe.evrard!belnet.be, jean-philippe.evrard!rackspace.co.uk from 2016-03-18
+	evrardjp: evrardjp!users.noreply.github.com, github!a.spamming.party, jean-philippe!evrard.me, jean-philippe.evrard!belnet.be, jean-philippe.evrard!rackspace.co.uk, jean-philippe.evrard!suse.com, kubernetes-git!a.spamming.party, open-source!a.spamming.party from 2016-03-18 until 2018-04-25
 	faridsaad: faridsaad!users.noreply.github.com until 2017-07-01
 	fmoctezuma: fmoctezuma!users.noreply.github.com from 2016-03-01
 	galstrom21: jshepher!rackspace.com
@@ -16203,10 +16205,3 @@ SRC Solution · Permanent:
 	gabriel-farache: gabriel-farache!users.noreply.github.com, gfarache!redhat.com from 2016-09-01 until 2018-11-01
 SRCE:
 	alen-z: alen-z!users.noreply.github.com from 2018-09-01 until 2018-10-01
-SRDC:
-	adalga: adalga!users.noreply.github.com from 2015-12-01 until 2016-04-01
-SRE:
-	ham1: ham1!users.noreply.github.com from 2022-01-01
-	kimuson: kimuson!users.noreply.github.com from 2018-07-01 until 2021-04-01
-SRE @instacart:
-	kwent: contact!quent.in, kwent!users.noreply.github.com

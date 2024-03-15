@@ -11759,8 +11759,6 @@ aleksandrov: aleksandrov!users.noreply.github.com
 	Qontigo from 2019-11-01
 aleksandrzhiliaev: aleksandrzhiliaev!users.noreply.github.com
 	SAP
-aleksmaus: aleksandr.maus!elastic.co, aleksmaus!users.noreply.github.com
-	Elasticsearch Inc.
 aleksey-zvolinsky: aleksey!zvolinsky.name
 	Oracle America Inc. until 2015-02-01
 	Aurea Inc. from 2015-02-01
@@ -11768,7 +11766,7 @@ aleksey005: aleksey005!users.noreply.github.com
 	Independent
 alekseychuprin: achuprin!mirantis.com
 	Mirantis Inc.
-aleksmaus: aleksmaus!users.noreply.github.com
+aleksmaus: aleksandr.maus!elastic.co, aleksmaus!users.noreply.github.com
 	FireEye until 2016-05-01
 	SecureAuth Corporation from 2016-05-01 until 2018-05-01
 	Endgame from 2018-05-01 until 2019-10-01
@@ -23761,9 +23759,3 @@ benmezger: benmezger!users.noreply.github.com
 	Independent from 2018-04-01 until 2019-10-01
 	Nohs Somos from 2019-10-01 until 2020-06-01
 	Polar Sapiens from 2020-06-01
-benmoss: ben!mossity.com, benm!vmware.com, benmoss!users.noreply.github.com, bmoss!pivotal.io, moss.127!gmail.com
-	Pivotal until 2020-04-01
-	VMware Inc. from 2020-04-01 until 2022-08-01
-	SuperOrbital from 2022-08-01 until 2023-07-01
-	Independent from 2023-07-01 until 2023-11-01
-	Bloomberg from 2023-11-01

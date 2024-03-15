@@ -5,6 +5,38 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+rbaumgar: rbaumgar!users.noreply.github.com
+	Red Hat Inc.
+rbbratta: ross.b.brattain!intel.com
+	Intel Corporation
+rberger: rberger!ibd.com
+	Mist Systems until 2016-02-01
+	Omnyway from 2016-02-01 until 2022-02-01
+	Informed.IQ from 2022-02-01
+rberlind: rberlind!users.noreply.github.com, roger!hashicorp.com
+	HashiCorp Inc
+rberrelleza: rberrelleza!users.noreply.github.com
+	Atlassian until 2018-07-01
+	Okteto from 2018-07-01
+rbideau: rbideau!users.noreply.github.com
+	Lensys until 2018-06-01
+	onepoint from 2018-06-01
+rbilovol: ruslan.bilovol!gmail.com
+	GlobalLogic Inc.
+rbilovol: ruslan.bilovol!ti.com
+	Texas Instruments Incorporated
+rbisecke: rbisecke!users.noreply.github.com
+	Chesapeake until 2015-04-01
+	Brightspot from 2015-04-01 until 2017-10-01
+	Capital One from 2017-10-01 until 2019-09-01
+	Amazon from 2019-09-01 until 2021-02-01
+	Rebellion Defense from 2021-02-01
+rbitia: rbitia!users.noreply.github.com, ria.bhatia!microsoft.com, riabhatia!live.com, ribhatia!microsoft.com
+	Independent until 2016-08-01
+	Enactus from 2016-08-01 until 2017-08-01
+	Taarangana from 2017-08-01 until 2018-02-01
+	Google LLC from 2018-02-01 until 2018-08-01
+	Responsible Internet Sustainability Effort Inc from 2018-08-01
 rbizzell40: hardworker30!gmail.com, rbizzell40!users.noreply.github.com
 	Netapp until 2015-07-01
 	Measurement from 2015-07-01 until 2017-08-01
@@ -6123,7 +6155,7 @@ sagikazarmark: mark.sagikazar!gmail.com, sagikazarmark!users.noreply.github.com
 	International Business Machines Corporation from 2018-05-01 until 2018-07-01
 	Banzai Cloud Zrt from 2018-07-01 until 2021-01-15
 	Cisco from 2021-01-15 until 2023-10-01
-	OpenMeter 2023-10-01
+	OpenMeter from 2023-10-01
 sagor999: sagor999!users.noreply.github.com
 	Arktos until 2017-03-01
 	Skydance from 2017-03-01 until 2019-11-01
@@ -20412,7 +20444,7 @@ tarobins: tarobins!gmail.com
 tarokkk: tarokkk!users.noreply.github.com
 	Independent until 2015-06-01
 	International Business Machines Corporation from 2015-06-01 until 2018-02-01
-	Banzai Cloud from 2018-02-01 until 2021-01-16
+	Banzai Cloud Zrt from 2018-02-01 until 2021-01-16
 	Cisco from 2021-01-16 until 2023-02-15
 	Axoflow from 2023-02-15
 taromurata: taro!keio.jp
@@ -23823,36 +23855,3 @@ tkislan: kislan.tomas!gmail.com, tkislan!users.noreply.github.com
 	Panoramic from 2017-12-01 until 2020-10-01
 	Assetario from 2020-10-01 until 2023-09-01
 	Parrot from 2023-09-01
-tklauser: tklauser!distanz.ch, tklauser!users.noreply.github.com, tobias.klauser!gmail.com
-	Independent until 2014-02-01
-	Zurich Instruments from 2014-02-01 until 2020-01-31
-	Isovalent from 2020-01-31
-tklever: tklever!users.noreply.github.com
-	WebPT until 2015-12-01
-	Alan Vaill from 2015-12-01 until 2016-04-01
-	American Express Banking Corp. from 2016-04-01
-tkln: aapo.vienamo!iki.fi
-	Aalto until 2015-05-01
-	NVIDIA Corporation from 2015-05-01 until 2015-08-01
-	Independent from 2015-08-01 until 2016-05-01
-	NVIDIA Corporation from 2016-05-01 until 2016-08-01
-	Independent from 2016-08-01 until 2017-05-01
-	Tuxera Inc. from 2017-05-01 until 2018-05-01
-	NVIDIA Corporation from 2018-05-01
-tklovett: tklovett!gmail.com, tklovett!users.noreply.github.com
-	Independent until 2014-08-01
-	RetailMeNot Inc. from 2014-08-01
-tkms0106: tkms0106!users.noreply.github.com
-	Independent until 2016-04-01
-	アドソル日進（株 from 2016-04-01 until 2018-12-01
-	Independent from 2018-12-01 until 2019-02-01
-	株式会社アンドパッド from 2019-02-01
-tkoeller: thomas.koeller!baslerweb.com
-	Basler AG
-tkohn: tkohn!users.noreply.github.com
-	Independent until 2015-10-01
-	eXXcellent solutions from 2015-10-01 until 2017-04-01
-	Comsysto Reply from 2017-04-01 until 2019-12-01
-	Independent from 2019-12-01 until 2021-07-01
-	Instana Inc. from 2021-07-01 until 2021-12-01
-	International Business Machines Corporation from 2021-12-01

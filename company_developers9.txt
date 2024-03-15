@@ -2,6 +2,13 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+SRDC:
+	adalga: adalga!users.noreply.github.com from 2015-12-01 until 2016-04-01
+SRE:
+	ham1: ham1!users.noreply.github.com from 2022-01-01
+	kimuson: kimuson!users.noreply.github.com from 2018-07-01 until 2021-04-01
+SRE @instacart:
+	kwent: contact!quent.in, kwent!users.noreply.github.com
 SRECTrade:
 	ikaruswill: ikaruswill!users.noreply.github.com from 2015-07-01 until 2016-07-01
 SRE당근마켓 · Internship:
@@ -404,7 +411,7 @@ SUSE LLC:
 	ereslibre: ereslibre!ereslibre.es, ereslibre!kde.org, ereslibre!users.noreply.github.com from 2016-11-01 until 2022-07-01
 	ericpromislow: eric.promislow!hpe.com, ericpromislow!users.noreply.github.com
 	erikwilson: erikwilson!users.noreply.github.com, houskape!gmail.com from 2020-12-01
-	evrardjp: evrardjp!users.noreply.github.com from 2018-05-02
+	evrardjp: evrardjp!users.noreply.github.com, github!a.spamming.party, jean-philippe!evrard.me, jean-philippe.evrard!belnet.be, jean-philippe.evrard!rackspace.co.uk, jean-philippe.evrard!suse.com, kubernetes-git!a.spamming.party, open-source!a.spamming.party from 2018-05-02 until 2021-05-31
 	f0rmiga: f0rmiga!users.noreply.github.com, tassis!suse.com from 2018-11-01 until 2021-01-01
 	fabriziosestito: fabrizio.sestito!suse.com from 2021-06-01
 	fapatel1: fapatel1!users.noreply.github.com
@@ -2972,7 +2979,7 @@ Secure Group:
 	Whimfoome: Whimfoome!users.noreply.github.com from 2016-01-01 until 2017-04-01
 SecureAuth Corporation:
 	CharlieC3: CharlieC3!users.noreply.github.com, charles.cantoni!gmail.com from 2018-03-01 until 2020-05-01
-	aleksmaus: aleksmaus!users.noreply.github.com from 2016-05-01 until 2018-05-01
+	aleksmaus: aleksandr.maus!elastic.co, aleksmaus!users.noreply.github.com from 2016-05-01 until 2018-05-01
 SecureComputing:
 	PerkinTahmaz: PerkinTahmaz!users.noreply.github.com from 2020-07-01
 SecureDApp:
@@ -9184,8 +9191,6 @@ Squidex:
 	SebastianStehle: SebastianStehle!users.noreply.github.com, sebastian!squidex.io from 2017-12-01 until 2019-11-01
 Squillion:
 	shaikmanu797: shaikmanu797!users.noreply.github.com from 2017-06-01 until 2018-03-01
-Squircle Studio Ltd.:
-	darach: darach!gmail.com, darach!users.noreply.github.com, dennis!wayfair.com from 2015-06-01 until 2019-02-01
 Squirrels:
 	jcodybaker: cody!codybaker.com, jcodybaker!users.noreply.github.com until 2017-02-01
 Squirro:
@@ -16440,15 +16445,3 @@ Thinkdata:
 	lamba92: basti.lamberto!gmail.com from 2015-07-01 until 2015-11-01
 Thinkerbell Labs Pvt. Ltd:
 	iamneha: Inehayadav28!gmail.com, iamneha!users.noreply.github.com, nehayadav281995!gmail.com from 2016-06-01 until 2016-08-01
-Thinkful Inc.:
-	LeKeve: LeKeve!users.noreply.github.com from 2018-01-01 until 2020-01-01
-	acald-creator: acald-creator!users.noreply.github.com, pullmana8!gmail.com from 2022-08-01
-	cccfxe444: cccfxe444!users.noreply.github.com
-	danielleadams: danielleadams!users.noreply.github.com from 2014-10-01 until 2015-09-01
-	dwhitena: dwhitena!users.noreply.github.com from 2016-06-01 until 2016-11-01
-	jasonblanchard: jas.blanchard!gmail.com, jasonblanchard!users.noreply.github.com until 2015-02-01
-	jotaoncode: 1062186165!qq.com, garcia_juan_j!yahoo.com.ar, jotaoncode!users.noreply.github.com from 2018-10-01 until 2020-01-01
-	mjhea0: hermanmu!gmail.com, michael!mherman.org, mjhea0!users.noreply.github.com from 2018-08-01 until 2019-01-01
-	zcason: zcason!users.noreply.github.com from 2020-09-01 until 2021-02-01
-Thinkific Inc.:
-	saviogl: saviogl!gmail.com, saviogl!users.noreply.github.com from 2016-08-01
