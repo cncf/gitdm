@@ -5,6 +5,71 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+echoboomer: echoboomer!users.noreply.github.com, scott!echoboomer.net
+	International Business Machines Corporation until 2014-10-01
+	Lenovo (United States) Inc. from 2014-10-01 until 2019-03-01
+	Independent from 2019-03-01 until 2019-07-01
+	AvidXchange Inc. from 2019-07-01
+echoby: echoby!users.noreply.github.com
+	Tectus Media until 2018-07-01
+	Promwad from 2018-07-01 until 2019-02-01
+	Temsa from 2019-02-01
+echoontheway: 1152760298!qq.com, echoontheway!users.noreply.github.com
+	Tencent
+echupriyanov: echupriyanov!users.noreply.github.com, tchu!tchu.ru
+	CPM until 2016-06-01
+	VEON from 2016-06-01 until 2020-01-01
+	OJSC Vimpelcom from 2020-01-01
+ecki: ecki!apache.org, ecki!users.noreply.github.com
+	Apache
+eclesh: eclesh!gmail.com, eclesh!users.noreply.github.com, eric.lesh!goat.com
+	Tinder until 2017-05-01
+	Goat Sneaker Marketplace from 2017-05-01
+eclipselu: eclipselu!gmail.com, eclipselu!users.noreply.github.com
+	Douban until 2017-06-01
+	AWS from 2017-06-01 until 2020-07-01
+	Google LLC from 2020-07-01
+eclipseo: eclipseo!users.noreply.github.com
+	Independent
+ecliptik: ecliptik!gmail.com, ecliptik!users.noreply.github.com
+	Qualcomm until 2015-03-01
+	Atkins from 2015-03-01 until 2015-11-01
+	Demandbase Inc from 2015-11-01 until 2021-07-01
+	AWS from 2021-07-01 until 2021-11-01
+	RealReal from 2021-11-01 until 2022-02-01
+	Demandbase Inc from 2022-02-01
+ecnahc515: ecnahc515!users.noreply.github.com
+	Mozilla Corporation until 2014-08-01
+	Independent from 2014-08-01 until 2015-07-01
+	CoreOS Inc. from 2015-07-01 until 2018-01-01
+	Red Hat Inc. from 2018-01-01 until 2019-12-01
+	Rigetti & Co Inc from 2019-12-01
+ecojuntak: ecojuntak!gmail.com, ecojuntak!users.noreply.github.com
+	GOJEK
+ecolnick: erik.colnick!hp.com
+	HP Inc.
+econchick: econchick!users.noreply.github.com
+	Spotify AB
+ecordell: cordell.evan!gmail.com, ecordell!users.noreply.github.com, evan.cordell!coreos.com
+	LacalMed until 2016-04-01
+	Red Hat Inc. from 2016-04-01
+ecourreges-orange: ecourreges-orange!users.noreply.github.com, ecourreges.ext!orange.com
+	ALTEN until 2015-09-01
+	Orange SA from 2015-09-01
+ecrazor1911: ecrazor1911!users.noreply.github.com
+	Axon
+ecree-solarflare: ecree!solarflare.com
+	Solarflare Communications Inc.
+ecrousseau: ecrousseau!users.noreply.github.com
+	Red Hat Inc. until 2015-03-01
+	On Sabbatical from 2015-03-01 until 2015-12-01
+	SimpliSafe from 2015-12-01 until 2016-06-01
+	Independent from 2016-06-01 until 2016-08-01
+	Cure Forward from 2016-08-01 until 2017-06-01
+	Independent from 2017-06-01 until 2017-08-01
+	IQVIA from 2017-08-01
+ecsv: sven!narfation.org, sven!open-mesh.com, sven.eckelmann!open-mesh.com, sven.eckelmann!openmesh.com
+	Independent
 ecthelion77: ecthelion77!gmail.com, ecthelion77!users.noreply.github.com
 	Devoteam Outsourcing until 2015-01-01
 	Thales from 2015-01-01 until 2018-01-01
@@ -4751,9 +4816,7 @@ farvour: farvour!users.noreply.github.com
 	Lumos Labs (Lumosity) from 2018-11-01
 farzinsarvaramini: farzinsarvaramini!users.noreply.github.com
 	Independent
-fasaxc: fasaxc!users.noreply.github.com
-	Metaswitch Networks
-fasaxc: shaun!tigera.io
+fasaxc: fasaxc!users.noreply.github.com, shaun!tigera.io
 	Tigera Inc.
 fashaikh: fashaikh!microsoft.com
 	Microsoft Corporation
@@ -5412,7 +5475,8 @@ ferhatelmas: dave.e.reynolds!gmail.com, elmas.ferhat!gmail.com, ferhatelmas!user
 	CERN until 2014-09-01
 	UNIT9 from 2014-09-01 until 2015-02-01
 	AgFlow from 2015-02-01 until 2019-11-01
-	Stream.IO Inc from 2019-11-01
+	Stream.IO Inc from 2019-11-01 until 2023-01-01
+	Cloudflare from 2023-01-01
 ferhaty: ferhaty!users.noreply.github.com
 	Topicus until 2015-06-01
 	ING Bank NV from 2015-06-01 until 2017-06-01
@@ -6902,7 +6966,7 @@ fraozy: fraozy!users.noreply.github.com
 	Bosch
 frapposelli: fabio!rapposelli.org, fabio!vmware.com, frapposelli!users.noreply.github.com, matt!ucc.asn.au
 	VMware Inc. until 2023-11-01
-	Broadcom from 2023-11-01
+	Broadcom Corporation from 2023-11-01
 frasa: franco.saworski!blik.io, frasa!users.noreply.github.com
 	Independent until 2015-04-01
 	ProGlove from 2015-04-01 until 2017-10-01
@@ -12302,7 +12366,9 @@ guetta14: guy.guetta!hpe.com
 guettli: guettli!users.noreply.github.com
 	tbz-pariv until 2020-01-01
 	Staffbase from 2020-01-01 until 2020-12-01
-	djangsters from 2020-12-01
+	djangsters from 2020-12-01 until 2021-10-01
+	descript Solutions from 2021-10-01 until 2022-12-01
+	Syself from 2022-12-01
 gueux: gueux!users.noreply.github.com, ihor.i.savchenko!gmail.com
 	Home Sweet Home until 2015-04-01
 	R&R Music from 2015-04-01 until 2017-08-01
@@ -16225,7 +16291,8 @@ hs256: harshasharmaiitr!gmail.com
 	Independent
 hsadoyan: harrysadoyan!gmail.com, hsadoyan!users.noreply.github.com
 	CodeMonke until 2019-06-01
-	Microsoft Corporation from 2019-06-01
+	Microsoft Corporation from 2019-06-01 until 2022-04-01
+	Google LLC from 2022-04-01
 hsahuntnx: himanshu.sahu!nutanix.com, hsahuntnx!users.noreply.github.com
 	Independent until 2016-01-01
 	Walmart Global Tech from 2016-01-01 until 2018-01-01
@@ -16559,7 +16626,7 @@ humbertoc-silva: humbertoc-silva!users.noreply.github.com
 humblec: hchiramm!redhat.com, humble.devassy!gmail.com, humblec!users.noreply.github.com, james!jamesadam.me
 	Red Hat Inc. until 2023-01-01
 	CNCF from 2023-01-01 until 2023-11-01
-	Broadcom from 2023-11-01
+	Broadcom Corporation from 2023-11-01
 humbledude: humbledude!users.noreply.github.com
 	LG Electronics until 2015-10-01
 	Soundlly from 2015-10-01 until 2018-06-01
@@ -16746,10 +16813,8 @@ huyupeng: huyp!inspur.com, huyupeng!users.noreply.github.com
 	Inspur Group
 huzhangfeng: huzf!inspur.com, huzhangfeng!users.noreply.github.com, zfhu2001!sina.com
 	Inspur Group
-huzhengchuan: huzhengchuan!users.noreply.github.com, zhengchuanhu!gmail.com
+huzhengchuan: huzhengchuan!users.noreply.github.com, zhengchuan.hu!easystack.cn, zhengchuanhu!gmail.com
 	esaystack
-huzhengchuan: zhengchuan.hu!easystack.cn
-	EasyStack Inc.
 huziji: huziji!marvell.com
 	Marvell International Ltd
 hvaara: hvaara!users.noreply.github.com, roy!lightyear.no
@@ -17018,7 +17083,8 @@ iabughosh: ibrahim_abu-ghosh!live.com
 	Sitech from 2021-06-01
 iaguis: iago!endocode.com, iago!kinvolk.io, iaguis!gmail.com, iaguis!users.noreply.github.com
 	Endocode until 2015-08-01
-	Kinvolk GmbH from 2015-08-01
+	Kinvolk GmbH from 2015-08-01 until 2021-05-01
+	Microsoft Corporation from 2021-05-01
 iahmad-khan: aaron!sipsorcery.com, iahmad-khan!users.noreply.github.com, ijazahmad722!gmail.com
 	Independent until 2015-09-01
 	CERN from 2015-09-01 until 2017-08-01
@@ -19246,7 +19312,8 @@ iptizer: github!moritzgraf.de, iptizer!users.noreply.github.com
 	R-KOM until 2018-12-01
 	Continental AG from 2018-12-01
 ipuustin: ipuustin!users.noreply.github.com, ismo.puustinen!intel.com
-	Intel Corporation
+	Intel Corporation until 2023-08-01
+	Nokia Corporation from 2023-08-01
 ipy: dev!zouxin.net, hello-github!zouxin.net
 	SPlayer
 iqbalsound: iqbalsound!users.noreply.github.com
@@ -20466,7 +20533,9 @@ jackivanov: jackivanov!users.noreply.github.com
 jackkleeman: jackkleeman!gmail.com, jackkleeman!users.noreply.github.com, jkleeman!apple.com
 	Independent until 2017-09-01
 	Monzo Bank from 2017-09-01 until 2020-06-15
-	Apple Inc. from 2020-06-15
+	Apple Inc. from 2020-06-15 until 2021-12-01
+	Index Ventures from 2021-12-01 until 2023-03-01
+	Restate from 2023-03-01
 jackliusr: jackliusr!gmail.com, jackliusr!users.noreply.github.com
 	Asia Fusion until 2020-06-01
 	Bidot from 2020-06-01
@@ -21489,7 +21558,8 @@ jan--f: jan--f!users.noreply.github.com, jfajerski!suse.com
 jan-est: jan-est!users.noreply.github.com
 	Sucker Punch Productions LLC. until 2016-12-01
 	Presson Oy from 2016-12-01 until 2018-12-01
-	Ericsson from 2018-12-01
+	Ericsson from 2018-12-01 until 2021-12-01
+	Sofigate from 2021-12-01
 jan-g: 3430517+jan-g!users.noreply.github.com, jan-g!users.noreply.github.com, jan.grant!oracle.com, jang!ioctl.org
 	Independent until 2017-01-01
 	Oracle America Inc. from 2017-01-01
@@ -21857,7 +21927,8 @@ jarrodyellets: jarrod524!gmail.com, jarrodyellets!users.noreply.github.com
 	Independent until 2018-10-01
 	Sideway from 2018-10-01
 jarrpa: jarrpa!gmail.com, jarrpa!redhat.com, jarrpa!users.noreply.github.com
-	Red Hat Inc.
+	Red Hat Inc. until 2023-01-01
+	International Business Machines Corporation from 2023-01-01
 jart: jart!google.com, jart!users.noreply.github.com
 	Google LLC
 jarus: christoph!thelabmill.de, jarus!users.noreply.github.com
@@ -23714,7 +23785,9 @@ jellebens: jellebens!users.noreply.github.com
 jellonek: jell!jell.pl, jellonek!users.noreply.github.com, piotr.skamruk!gmail.com, piotr.skamruk!intel.com, pskamruk!mirantis.com
 	Intel Corporation until 2016-06-01
 	Mirantis Inc. from 2016-06-01 until 2019-02-01
-	CodiLime Sp. z o.o. from 2019-02-01
+	CodiLime Sp. z o.o. from 2019-02-01 until 2019-12-01
+	Travelping from 2019-12-01 until 2022-01-01
+	jell.pl from 2022-01-01
 jelly: jelle!vdwaa.nl
 	Zarafa until 2017-02-01
 	Arch Linux from 2017-02-01
@@ -23805,79 +23878,3 @@ jennybeth: 41926020+jennybeth!users.noreply.github.com, jenny!scytale.io, jennyb
 	Perforce Software Inc. from 2014-11-01 until 2017-06-01
 	Independent from 2017-06-01 until 2019-01-01
 	Scytale from 2019-01-01
-jennybuckley: jennybuckley!google.com, jennybuckley!users.noreply.github.com, miguel.rincon86!gmail.com
-	Independent until 2015-05-01
-	HamletHub from 2015-05-01 until 2015-08-01
-	Independent from 2015-08-01 until 2016-05-01
-	Bloomberg from 2016-05-01 until 2016-08-01
-	Independent from 2016-08-01 until 2017-08-01
-	Google LLC from 2017-08-01 until 2021-05-01
-	Independent from 2021-05-01
-jennyfive: jen.lijo!zalando.de
-	Zalando SE
-jennyj-mellanox: jennyf!mellanox.com
-	Mellanox
-jennynilsen: jennynilsen!users.noreply.github.com
-	Independent until 2016-09-01
-	EDF Energy from 2016-09-01 until 2018-09-01
-	Booking.com B.V. from 2018-09-01 until 2020-10-01
-	CNCF from 2020-10-01
-jennyowen: jennyowen!users.noreply.github.com
-	MathWorks Inc. until 2017-05-01
-	Independent from 2017-05-01 until 2017-06-01
-	Neo4j Inc. from 2017-06-01
-jens-gellynck: jens-gellynck!users.noreply.github.com
-	Mise en Place until 2016-08-01
-	Skyline Communications from 2016-08-01
-jensenbox: christian!jensenbox.com, christian!perspecta.ca, jensenbox!users.noreply.github.com
-	GSL until 2017-10-01
-	SingularityNET from 2017-10-01 until 2018-04-01
-	Scribd Inc. from 2018-04-01
-jensendw: jensendw!users.noreply.github.com
-	HomeAway.com Inc. until 2015-10-01
-	Origami from 2015-10-01 until 2019-06-01
-	Intuit Inc. from 2019-06-01 until 2022-07-01
-	Earnin from 2022-07-01
-jensentanlo: jensentanlo!users.noreply.github.com
-	Independent until 2018-06-01
-	Ashinaga from 2018-06-01 until 2019-06-01
-	Independent from 2019-06-01 until 2019-10-01
-	JRI America from 2019-10-01 until 2021-07-01
-	Rescale from 2021-07-01
-jensfinnas: jens.finnas!gmail.com
-	J++ Stockholm until 2017-07-01
-	Newsworthy from 2017-07-01
-jensfr: github!freimann.org, jensfr!users.noreply.github.com
-	International Business Machines Corporation until 2021-12-01
-	Red Hat Inc. from 2021-12-01
-jensg-st: jens.gerke!vorteil.io, jensg-st!users.noreply.github.com
-	Vorteil until 2020-11-01
-	direktiv from 2020-11-01
-jenshnielsen: jenshnielsen!gmail.com
-	Independent until 2018-05-01
-	Microsoft Corporation from 2018-05-01
-jenshu: 28537278+jenshu!users.noreply.github.com, jenny.shu!solo.io
-	Solo.io
-jensjohansen: jensjohansen!users.noreply.github.com
-	Green Dot until 2016-12-01
-	Independent from 2016-12-01 until 2022-05-01
-	Link Labs from 2022-05-01
-jenspinney: jen.spinney!gmail.com, jen.spinney!hp.com, jennifer.spinney!suse.com, jenspinney!users.noreply.github.com
-	SUSE LLC
-jensraaby: git!jensraaby.com, jensraaby!users.noreply.github.com
-	Hover
-jenswi-linaro: jens.wiklander!linaro.org
-	Linaro Limited
-jenting: jenting!users.noreply.github.com, jenting.hsiao!suse.com
-	Zyxel until 2018-06-01
-	honestbee from 2018-06-01 until 2019-03-01
-	SUSE LLC from 2019-03-01
-jeongukjae: JeongUkJae!gmail.com
-	Independent until 2019-03-01
-	ScatterLab from 2019-03-01 until 2020-11-01
-	당근마켓 from 2020-11-01
-jepio: jepio!users.noreply.github.com, jeremi.piotrowski!gmail.com
-	Independent until 2015-12-01
-	indurad from 2015-12-01 until 2018-06-01
-	Utimaco from 2018-06-01 until 2021-06-01
-	Microsoft Corporation from 2021-06-01
