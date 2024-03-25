@@ -548,7 +548,7 @@ jethr0null: jethr0null!users.noreply.github.com, mnikki137!gmail.com
 	Pivotal from 2015-05-01 until 2016-05-01
 	Apcera from 2016-05-01 until 2018-04-01
 	Ericsson from 2018-04-01 until 2018-07-01
-	Elasticsearch Inc. from 2018-07-01
+	Elasticsearch Inc. from 2018-07-01 until 2023-01-17
 jetpackdanger: brian!stellaservice.com, jetpackdanger!users.noreply.github.com, paul.collins!canonical.com
 	Canonical Ltd.
 jetsanix: jetsanix!users.noreply.github.com
@@ -8416,7 +8416,7 @@ karencfv: karencfv!users.noreply.github.com
 	Independent until 2016-10-01
 	SilverStripe Limited from 2016-10-01 until 2017-09-01
 	Loyalty NZ from 2017-09-01 until 2018-07-01
-	Elasticsearch Inc. from 2018-07-01
+	Elasticsearch Inc. from 2018-07-01 until 2021-07-02
 karenhchu: karen.chu!microsoft.com, karenhchu!users.noreply.github.com
 	Microsoft Corporation
 karenin-overseas: karenin-overseas!users.noreply.github.com
@@ -13515,7 +13515,7 @@ kwilczynski: krzysztof.wilczynski!linux.com, kw!linux.com, kwilczynski!users.nor
 	OLX Group from 2017-10-01 until 2018-03-01
 	Joyent Inc. from 2018-03-01 until 2018-07-01
 	Tenable Network Security Inc. from 2018-07-01 until 2019-03-01
-	Elasticsearch Inc. from 2019-03-01
+	Elasticsearch Inc. from 2019-03-01 until 2019-10-18
 kwinkel: github!kevinwinkel.de, kwinkel!users.noreply.github.com
 	OneHourTranslation until 2014-02-01
 	Dinerware from 2014-02-01 until 2019-11-01
@@ -17693,7 +17693,6 @@ lreuven: lreuven!users.noreply.github.com
 	Independent from 2018-07-01 until 2018-10-01
 	HiredScore from 2018-10-01 until 2019-04-01
 	Elasticsearch Inc. from 2019-04-01 until 2020-07-01
-	Elasticsearch Inc. from 2020-07-01
 lrg-ti: lrg!ti.com
 	Texas Instruments Incorporated
 lrgar: contact!lgarcia.dev, lrgar!users.noreply.github.com
@@ -22689,7 +22688,7 @@ matsbror: mats!embeinnovation.com, matsbror!users.noreply.github.com
 	Satalia from 2017-08-01 until 2020-07-01
 	SnT from 2020-07-01
 matschaffer: mat!schaffer.me, matschaffer!users.noreply.github.com
-	Elasticsearch Inc.
+	Elasticsearch Inc. from 2015-08-01 until 2022-10-01
 matschaffer-roblox: matschaffer-roblox!users.noreply.github.com
 	Netflix Inc. until 2014-12-01
 	Stellar from 2014-12-01 until 2015-07-01
