@@ -5,6 +5,32 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+ecarbonell-technisys: ecarbonell-technisys!users.noreply.github.com
+	DATYS until 2018-12-01
+	Independent from 2018-12-01 until 2019-02-01
+	Pyxis from 2019-02-01 until 2020-11-01
+	Technisys from 2020-11-01
+ecashin: ecashin!coraid.com, ed.cashin!acm.org
+	Independent
+ecasilla: ecasilla!icloud.com
+	Apple Inc.
+ecda909: Ecda909!gmail.com, ecda909!users.noreply.github.com
+	Independent until 2014-08-01
+	AMERICAN EAGLE OUTFITTERS from 2014-08-01 until 2017-08-01
+	Independent from 2017-08-01 until 2019-02-01
+	Booz Allen Hamilton Inc from 2019-02-01
+ecejjar: ecejjar!users.noreply.github.com, j.javier.arauz!gmail.com, jesus.javier.arauz!ericsson.com
+	Ericsson
+ecgouvea: ecgouvea!hotmail.com
+	SYSMAP PERU S.A.C until 2018-07-01
+	Xandr from 2018-07-01 until 2019-12-01
+	SYSMAP PERU S.A.C from 2019-12-01
+echarles: echarles!users.noreply.github.com, eric!datalayer.io, laura!spun-labs.com
+	Datalayer
+echesakovMSFT: echesakovMSFT!users.noreply.github.com, egor.chesakov!microsoft.com
+	Microsoft Corporation
+echoblag: echoblag!users.noreply.github.com
+	Echosec Systems
 echoboomer: echoboomer!users.noreply.github.com, scott!echoboomer.net
 	International Business Machines Corporation until 2014-10-01
 	Lenovo (United States) Inc. from 2014-10-01 until 2019-03-01
@@ -4858,6 +4884,7 @@ fatimaafridi: fatimaafridi!users.noreply.github.com
 fatmcgav: fatmcgav!gmail.com, fatmcgav!users.noreply.github.com
 	Fujitsu Limited until 2018-05-01
 	Elasticsearch Inc. from 2018-05-01 until 2022-07-08
+	Independent from 2022-07-08
 fatpat: fatpat!users.noreply.github.com
 	SIA Worldline Latvia until 2018-09-01
 	OpenIO SAS from 2018-09-01 until 2020-10-01
@@ -7705,6 +7732,7 @@ fxbonnet: fx!apache.org
 	Apache
 fxdgear: fxdgear!users.noreply.github.com
 	Elasticsearch Inc. until 2022-05-06
+	Independent from 2022-05-06
 fxfactorial: edgar.factorial!gmail.com, fxfactorial!users.noreply.github.com
 	Independent until 2015-11-01
 	Online Media Group Inc from 2015-11-01 until 2016-06-01
@@ -23854,27 +23882,3 @@ jennahung: jenna.hung!hpe.com
 jennbriden: jennbriden!gmail.com, jennbriden!users.noreply.github.com
 	ExtraHop Networks Inc until 2018-03-01
 	CloudBees Inc. from 2018-03-01
-jenndodd: jedodd!pivotal.io, jenndodd!users.noreply.github.com
-	Pivotal until 2020-01-01
-	Fetch Rewards from 2020-01-01
-jenniferfell: jenniferfell!users.noreply.github.com, jenniferfell.sf!gmail.com
-	Expert Support until 2014-07-01
-	International Business Machines Corporation from 2014-07-01 until 2017-08-01
-	Expert Support from 2017-08-01
-jenningsloy318: jenningsloy318!users.noreply.github.com
-	Independent until 2016-11-01
-	SAP from 2016-11-01
-jennwah: jennwah!users.noreply.github.com
-	Independent until 2020-10-01
-	Kaodim from 2020-10-01 until 2020-12-01
-	Grab from 2020-12-01 until 2022-05-01
-	Beam Mobility from 2022-05-01 until 2022-08-01
-	Independent from 2022-08-01 until 2022-10-01
-	Xsolla from 2022-10-01 until 2023-09-01
-	MoneyLion from 2023-09-01
-jennybeth: 41926020+jennybeth!users.noreply.github.com, jenny!scytale.io, jennybeth!users.noreply.github.com, jennybethtech!gmail.com
-	Google LLC until 2014-06-01
-	Icontrol Networks from 2014-06-01 until 2014-11-01
-	Perforce Software Inc. from 2014-11-01 until 2017-06-01
-	Independent from 2017-06-01 until 2019-01-01
-	Scytale from 2019-01-01

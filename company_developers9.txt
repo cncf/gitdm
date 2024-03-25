@@ -7493,7 +7493,7 @@ Solo.io:
 	christian-posta: christian-posta!users.noreply.github.com, christian.posta!gmail.com, christian.posta!solo.io from 2019-01-01
 	codeverifier: kasun.talwatta!gmail.com
 	conradhanson: 27842017+conradhanson!users.noreply.github.com, conrad.hanson!solo.io from 2022-09-19
-	craigbox: craig.box!gmail.com, craig.box!solo.io, craigb!armosec.io, craigbox!google.com, craigbox!users.noreply.github.com from 2023-11-01 until 2024-01-01
+	craigbox: craig.box!gmail.com, craig.box!solo.io, craigb!armosec.io, craigbox!google.com, craigbox!users.noreply.github.com from 2023-11-06
 	danehans: danehans!cisco.com, danehans!users.noreply.github.com, daneyon.hansen!solo.io, daneyonhansen!gmail.com from 2023-02-17
 	davidjumani: davidjumani!users.noreply.github.com from 2023-06-01
 	dhawton: daniel!hawton.org, daniel.hawton!solo.io, dhawton!users.noreply.github.com from 2020-12-12
@@ -16450,3 +16450,5 @@ TheShadowserver:
 	plumdog: plumdog!users.noreply.github.com, plummer574!gmail.com from 2016-06-01 until 2017-07-01
 TheSolvingMachine:
 	marcovc: marco.v.correia!gmail.com from 2017-08-01
+TheSpider:
+	jfmengels: jfm.engels!gmail.com, jfmengels!users.noreply.github.com until 2014-04-01

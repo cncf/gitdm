@@ -2,10 +2,6 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
-codecovevienna:
-	eiabea: developer!eiabea.com
-codehaus:
-	glaforge: glaforge!gmail.com from 2015-02-01 until 2015-03-01
 codelabsab:
 	kamigerami: kami.gerami!gmail.com, kamigerami!users.noreply.github.com
 codemantra:

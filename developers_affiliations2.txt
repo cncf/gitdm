@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+Salzian: salzian.dev!gmail.com
+	Independent until 2017-04-01
+	MediaMarktSaturn from 2017-04-01 until 2018-06-01
+	Independent from 2018-06-01 until 2019-04-01
+	Terovania UG from 2019-04-01 until 2020-05-01
+	trivago from 2020-05-01
 Sam-Kramer: Sam-Kramer!users.noreply.github.com
 	Bounce until 2015-10-01
 	CA Technologies from 2015-10-01 until 2017-04-01
@@ -456,6 +462,7 @@ SeanHQF: haoqf!linux.vnet.ibm.com
 	International Business Machines Corporation
 SeanHeelan: SeanHeelan!users.noreply.github.com, sean!heelan.io, sean.heelan!elastic.co
 	Elasticsearch Inc. until 2023-12-11
+	Independent from 2023-12-11
 SeanHood: SeanHood!users.noreply.github.com
 	KCOM until 2015-10-01
 	Independent from 2015-10-01 until 2018-08-01
@@ -9732,6 +9739,7 @@ agup006: a!treasure-data.com, agup006!gmail.com
 	Adobe Inc.
 agup006: agup006!users.noreply.github.com
 	Elasticsearch Inc. until 2020-05-20
+	Independent from 2020-05-20
 agupta-cb: agupta-cb!users.noreply.github.com
 	Shahi until 2015-03-01
 	GenX from 2015-03-01 until 2017-01-01
@@ -17470,6 +17478,7 @@ anyasabo: anyasabo!users.noreply.github.com
 	Rackspace until 2017-03-01
 	ObjectRocket from 2017-03-01 until 2019-05-01
 	Elasticsearch Inc. from 2019-05-01 until 2022-01-20
+	Independent from 2022-01-20
 anycodes: anycodes!users.noreply.github.com, service!52exe.cn
 	Alibaba Group
 anygaard: anygaard!inselo.no
@@ -18005,6 +18014,7 @@ aravindputrevu: aravindputrevu!users.noreply.github.com
 	Syntel Inc until 2014-09-01
 	McAfee LLC from 2014-09-01 until 2017-11-01
 	Elasticsearch Inc. from 2017-11-01 until 2022-11-15
+	Independent from 2022-11-15
 aravindvnair99: aravindvnair99!users.noreply.github.com
 	Independent until 2018-02-01
 	Finch IT Solutions from 2018-02-01 until 2019-10-01
@@ -19114,11 +19124,11 @@ artursitarski: artursitarski!users.noreply.github.com
 	Leadfeeder from 2021-05-01
 arturslogins: arturslogins!users.noreply.github.com
 	E-Synergy
-artursouza: artursouza.ms!outlook.com, asouza.pro!gmail.com, artur04!gmail.com
+artursouza: artur04!gmail.com, artursouza.ms!outlook.com, asouza.pro!gmail.com
 	Amazon until 2015-12-01
 	Expedia Inc. from 2015-12-01 until 2018-04-01
-	Microsoft Corporation until 2023-01-13
-	Diagrid from 2023-01-16
+	Microsoft Corporation from 2018-04-01 until 2023-01-13
+	Diagrid from 2023-01-13
 artushin: artushin!gmail.com, artushin!users.noreply.github.com
 	VUBE
 artvichi: artvichi!users.noreply.github.com
@@ -23744,21 +23754,3 @@ benjie: benjie!jemjie.com
 benjigoldberg: ben!spothero.com, benjigoldberg!users.noreply.github.com
 	Narrative Science until 2016-08-15
 	Spot Hero from 2016-08-15
-benjii: benjii!users.noreply.github.com
-	FINkit until 2014-12-01
-	Independent from 2014-12-01 until 2015-06-01
-	Kinetic IT from 2015-06-01 until 2016-03-01
-	Independent from 2016-03-01 until 2016-08-01
-	Lateral from 2016-08-01 until 2018-05-01
-	Independent from 2018-05-01 until 2020-11-01
-	Family Zone Cyber Safety from 2020-11-01
-benjiro: benjiro!users.noreply.github.com
-	Independent until 2021-01-01
-	Loan Market from 2021-01-01
-benjsicam: benjsicam!users.noreply.github.com
-	Fronde Systems Group Limited until 2014-09-01
-	Cloud Nexus from 2014-09-01 until 2015-04-01
-	ReekohM from 2015-04-01 until 2018-08-01
-	TOWA Technologies from 2018-08-01
-benkershner: ben.kershner!gmail.com, benk!amazon.com
-	Amazon
