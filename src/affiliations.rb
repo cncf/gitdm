@@ -26,8 +26,8 @@ def affiliations(affiliations_file, json_file, email_map)
   prev_sources = {}
   json_data = JSON.parse File.read json_file
   json_data.each_with_index do |user, index|
-    email = user['email'].downcase
-    login = user['login'].downcase
+    email = user['email'].downcase.strip
+    login = user['login'].downcase.strip
     source = user['source']
     users[email] = [[index, user]]
     users[login] = [] unless users.key?(login)
@@ -446,6 +446,7 @@ def affiliations(affiliations_file, json_file, email_map)
             # FIXME/TODO we should avoid this
             # next
             # exit
+            # binding.pry
           end
           entry = users[email][0]
           login = gh.split('/').last.downcase
