@@ -5,6 +5,87 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+jeliasson: jeliasson!users.noreply.github.com
+	Perimeter Protection until 2015-05-01
+	Void3 AB from 2015-05-01 until 2018-05-01
+	Sydnod from 2018-05-01
+jelkosz: jelkosz!users.noreply.github.com, tjelinek!redhat.com
+	Red Hat Inc.
+jellebens: jellebens!users.noreply.github.com
+	E2 Partners until 2015-05-01
+	Capgemini from 2015-05-01 until 2017-07-01
+	Avanade Inc. from 2017-07-01 until 2020-05-01
+	Portima from 2020-05-01 until 2020-11-01
+	Accenture Belgium from 2020-11-01
+jellonek: jell!jell.pl, jellonek!users.noreply.github.com, piotr.skamruk!gmail.com, piotr.skamruk!intel.com, pskamruk!mirantis.com
+	Intel Corporation until 2016-06-01
+	Mirantis Inc. from 2016-06-01 until 2019-02-01
+	CodiLime Sp. z o.o. from 2019-02-01 until 2019-12-01
+	Travelping from 2019-12-01 until 2022-01-01
+	jell.pl from 2022-01-01
+jelly: jelle!vdwaa.nl
+	Zarafa until 2017-02-01
+	Arch Linux from 2017-02-01
+jelmersnoeck: jelmer!siphoc.com, jelmersnoeck!users.noreply.github.com
+	Manifold.co
+jelther: jetolgon!gmail.com
+	Independent until 2017-01-01
+	ClearSale from 2017-01-01 until 2019-02-01
+	Independent from 2019-02-01 until 2019-03-01
+	ClearSale from 2019-03-01
+jemerald: jemerald!users.noreply.github.com
+	Houston until 2017-04-01
+	ANZ Banking Group Ltd. from 2017-04-01 until 2020-06-01
+	BNZ from 2020-06-01 until 2020-09-01
+	ClearPoint from 2020-09-01 until 2021-05-01
+	Transpower from 2021-05-01
+jemisonf: jemisonf!users.noreply.github.com
+	Independent until 2018-06-01
+	Zapproved from 2018-06-01 until 2018-08-01
+	Independent from 2018-08-01 until 2019-06-01
+	New Relic Inc. from 2019-06-01 until 2019-09-01
+	Independent from 2019-09-01 until 2020-05-01
+	New Relic Inc. from 2020-05-01
+jemk: jenskuske!gmail.com
+	OPTIMA life
+jemoreira: jemoreira!google.com
+	Google LLC
+jemshad: jemshad.ok!gmail.com
+	InMobi USA until 2019-03-01
+	Wayfair from 2019-03-01
+jen20: james!jen20.com, jen20!users.noreply.github.com
+	Event Store
+jenciso: jenciso!users.noreply.github.com, juan.enciso!gmail.com
+	Terra until 2015-08-01
+	Independent from 2015-08-01 until 2015-11-01
+	Grupo RBS from 2015-11-01 until 2016-11-01
+	UNICRED DO BRASIL from 2016-11-01 until 2021-02-01
+	HypeFlame from 2021-02-01
+jengelh: jengelh!inai.de, jengelh!users.noreply.github.com
+	PROFI until 2018-02-01
+	SVA System Vertrieb Alexander GmbH from 2018-02-01
+jengo: jengo!users.noreply.github.com
+	Splunk Inc. until 2016-03-01
+	2nd Address from 2016-03-01 until 2017-02-01
+	Ridecell from 2017-02-01 until 2019-10-01
+	Canvas Medical Inc. from 2019-10-01
+jeniferh: jeniferh!users.noreply.github.com, jhopper!redhat.com
+	International Business Machines Corporation until 2018-08-01
+	Red Hat Inc. from 2018-08-01
+jenisov: jenisov!users.noreply.github.com
+	RTSof
+jenkins-rook: jenkins-rook!users.noreply.github.com
+	(Robots)
+jenlampton: jenlampton!users.noreply.github.com
+	Jeneration Web Dewelopment
+jenmalloy: jenmalloy!users.noreply.github.com
+	WebAssign until 2015-07-01
+	Red Hat Inc. from 2015-07-01
+jenmwms: jenmwms!users.noreply.github.com
+	Independent until 2016-07-01
+	Intel Corporation from 2016-07-01
+jennahung: jenna.hung!hpe.com
+	HP Inc.
 jennbriden: jennbriden!gmail.com, jennbriden!users.noreply.github.com
 	ExtraHop Networks Inc until 2018-03-01
 	CloudBees Inc. from 2018-03-01
@@ -947,7 +1028,8 @@ jgrossmac: jgrossmac!users.noreply.github.com
 	AirMapInc. from 2018-04-01 until 2020-08-01
 	Subspace from 2020-08-01
 jgrumboe: jgrumboe!users.noreply.github.com
-	Porsche
+	Porsche until 2020-10-01
+	Red Bull from 2020-10-01
 jgsqware: garciagonzalez.julien!gmail.com, jgsqware!users.noreply.github.com, julien!giantswarm.io
 	Giant Swarm GmbH
 jgunthorpe: jgg!mellanox.com
@@ -1863,7 +1945,10 @@ jjfmarket: devlinvining!gmail.com, jjfmarket!users.noreply.github.com
 jjharr: jjharr!users.noreply.github.com
 	Independent
 jjhuff: jjhuff!mspin.net, jjhuff!users.noreply.github.com
-	motion.social
+	motion.social until 2017-09-01
+	Blokable from 2017-09-01 until 2019-02-01
+	Amplion from 2019-02-01 until 2020-10-01
+	Hatch from 2020-10-01
 jjindrich: jjindrich!users.noreply.github.com
 	Ness Czech until 2014-12-01
 	Microsoft Corporation from 2014-12-01
@@ -4318,7 +4403,10 @@ joojscript: joaoaugustoperin!gmail.com
 joonas: joonas!bergi.us, joonas!digitalocean.com, joonas!users.noreply.github.com, joonas.bergius!gmail.com
 	DigitalOcean until 2019-01-01
 	NetApp Inc from 2019-01-01 until 2019-07-01
-	VMware Inc. from 2019-07-01
+	SS&C GlobeOp from 2019-07-01 until 2021-11-01
+	VMware Inc. from 2021-11-01 until 2022-06-01
+	Statype from 2022-06-01 until 2023-11-01
+	Cosmonic from 2023-11-01
 joonathan: dmz985!gmail.com, joonathan!gmail.com, joonathan!users.noreply.github.com
 	MOVE Guides
 joonghoyeon: joongho.yeon!samsung.com, joonghoyeon!users.noreply.github.com
@@ -4728,8 +4816,8 @@ josh-endries: josh!endries.org, josh-endries!users.noreply.github.com
 	Covetrus from 2019-07-01
 josh-ferrell: jferrell!vmware.com, jkferr!amazon.com, josh-ferrell!users.noreply.github.com, joshuaf!adobe.com
 	ITsavvy until 2015-09-01
-	Independent from 2015-09-01 until 2021-07-06
-	SAS from 2021-07-06 until 2021-07-06
+	SAS from 2015-09-01 until 2021-07-01
+	Independent from 2021-07-01 until 2021-07-06
 	VMware Inc. from 2021-07-06 until 2022-08-14
 	Amazon from 2022-08-14 until 2023-08-21
 	Adobe Inc. from 2023-08-21
@@ -9620,7 +9708,8 @@ kenrose: kenrose!users.noreply.github.com
 kensimon: kensimon!users.noreply.github.com, ninkendo!gmail.com
 	Heptio Inc.
 kensipe: kensipe!gmail.com, kensipe!users.noreply.github.com
-	Mesosphere
+	Mesosphere until 2021-01-01
+	Edward Jones from 2021-01-01
 kenske: kenske!users.noreply.github.com
 	Silvercar
 kensou97: zwenkang!vmware.com
@@ -10489,7 +10578,8 @@ khteh: funcoolgeek!gmail.com, khteh!users.noreply.github.com
 	Weeloy from 2017-06-01 until 2017-11-01
 	Global Blue from 2017-11-01 until 2018-06-01
 	Taiger Singapore Pte. Ltd. from 2018-06-01 until 2019-12-01
-	4xLabs Pte from 2019-12-01
+	4xLabs Pte from 2019-12-01 until 2022-09-01
+	Kyberlife from 2022-09-01
 khuedoan: khuedoan!users.noreply.github.com, mail!khuedoan.com
 	Independent until 2018-07-01
 	EyeQ from 2018-07-01 until 2018-11-01
@@ -20944,7 +21034,8 @@ marcobjorge: marcobjorge!users.noreply.github.com
 	OutSystems from 2021-06-01
 marcoceppi: marco!ceppi.net, marcoceppi!users.noreply.github.com
 	Canonical Ltd. until 2018-08-01
-	Vapor IO from 2018-08-01
+	Vapor IO from 2018-08-01 until 2023-06-01
+	OH KEI from 2023-06-01
 marcochs: marcochs!users.noreply.github.com, ochs!marcochs.com
 	Time Inc. until 2018-03-01
 	Meredith from 2018-03-01 until 2020-01-01
@@ -23744,90 +23835,3 @@ maxisam: gertjan.wytynck!gmail.com, maxisam!gmail.com, maxisam!users.noreply.git
 	Independent from 2014-10-01 until 2015-01-01
 	Meta Platforms Inc. from 2015-01-01 until 2019-07-01
 	Convoy from 2019-07-01
-maxisme: max!max.me.uk, maxisme!users.noreply.github.com
-	Independent until 2016-07-01
-	Octopus - J. & CH. Tsironis Ltd. from 2016-07-01 until 2016-08-01
-	Octopus - J. & CH. Tsironis Ltd. from 2016-08-01 until 2020-11-01
-	Lyst from 2020-11-01 until 2022-01-01
-	paradime from 2022-01-01
-maxking: maxking!users.noreply.github.com
-	Locus Labs until 2014-07-01
-	Independent from 2014-07-01 until 2016-06-01
-	Red Hat Inc. from 2016-06-01 until 2016-09-01
-	Independent from 2016-09-01 until 2018-07-01
-	LinkedIn Corporation from 2018-07-01
-maxknee: maxknee!gmail.com, maxknee!users.noreply.github.com
-	Eastern Standard until 2015-08-01
-	Maxknee from 2015-08-01 until 2016-03-01
-	Moven from 2016-03-01 until 2016-04-01
-	Computer Enterprises from 2016-04-01 until 2017-09-01
-	Comcast Cable Communications LLC (Xfinity) from 2017-09-01
-maxkochubey: maxkochubey!users.noreply.github.com
-	2GIS until 2019-07-01
-	EPAM Systems Inc from 2019-07-01
-maxkondr: max.kondr!gmail.com, maxkondr!users.noreply.github.com
-	PortaOne
-maxkramer: maxkramer!users.noreply.github.com
-	Centinel Solutions until 2019-02-01
-	Responder from 2019-02-01
-maxlambrecht: 2843450+b-m-f!users.noreply.github.com, maxlambrecht!gmail.com, maxlambrecht!users.noreply.github.com
-	Independent
-maxlaverse: max!laverse.net, maxlaverse!users.noreply.github.com
-	Independent
-maxlegault: maxlegault!users.noreply.github.com, mlegoven!hotmail.com
-	Desjardins Group until 2014-06-01
-	JDA Software Group from 2014-06-01 until 2018-06-01
-	Independent from 2018-06-01 until 2018-09-01
-	ServiceNow Research from 2018-09-01 until 2020-09-01
-	Ambassador Labs (f/k/a Datawire) from 2020-09-01
-maxmcd: maxmcd!users.noreply.github.com
-	Independent until 2015-01-01
-	Recurse Center from 2015-01-01 until 2015-03-01
-	Independent from 2015-03-01 until 2015-06-01
-	Metric Collective from 2015-06-01 until 2016-08-01
-	Independent from 2016-08-01 until 2017-05-01
-	SHOPTHAT from 2017-05-01 until 2018-03-01
-	Independent from 2018-03-01 until 2018-09-01
-	Voltus from 2018-09-01
-maxmchu: max!onlab.us, maxmchu!gmail.com
-	Independent until 2016-03-01
-	MilesAhead from 2016-03-01 until 2017-08-01
-	Open Networking Foundation from 2017-08-01 until 2017-12-01
-	BigRed//Hacks from 2017-12-01
-maxmil: hess!blacklight-it.com, maxmil!users.noreply.github.com
-	Google LLC
-maxmil7: maxmil7!users.noreply.github.com
-	PayPal
-maxnasonov: maxnasonov!users.noreply.github.com
-	Alexandrovsky Garden Hotel until 2016-02-01
-	HARMAN International from 2016-02-01 until 2021-03-01
-	ARRIVAL from 2021-03-01
-maxnowack: max!unsou.de, maxnowack!users.noreply.github.com
-	TeamGrid
-maxogden: max!maxogden.com, maxogden!users.noreply.github.com
-	Code for Science & Society until 2018-08-01
-	Independent from 2018-08-01
-maxokorokov: max!okorokov.com, max.okorokov!gmail.com, maxokorokov!users.noreply.github.com
-	Amadeus
-maxpowa: maxpowa!users.noreply.github.com
-	ServiceMax
-maxrimue: max.rittmueller!gmail.com, maxrimue!users.noreply.github.com
-	Independent until 2018-03-01
-	Newstore Inc. from 2018-03-01
-maxsmythe: max.smythe!gmail.com, maxsmythe!users.noreply.github.com, smythe!google.com
-	SendHub until 2016-05-01
-	Google LLC from 2016-05-01
-maxsokolovsky: genexpr!protonmail.com
-	Independent until 2016-05-01
-	Novelis from 2016-05-01 until 2017-12-01
-	Cardinal Financial from 2017-12-01 until 2018-10-01
-	Independent from 2018-10-01 until 2019-02-01
-	Thycotic from 2019-02-01 until 2021-08-01
-	SUSE LLC from 2021-08-01
-maxstreese: maxstreese!users.noreply.github.com
-	Independent until 2018-11-01
-	TTMzero from 2018-11-01
-maxtroy: maxtroy!google.com
-	Google LLC
-maxuemin: maxuemin!inspur.com, maxuemin!user.noreply.github.com, maxuemin!users.noreply.github.com, maxuemin2017!163.com
-	Inspur Group
