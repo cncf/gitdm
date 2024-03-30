@@ -2,10 +2,6 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
-TheSolvingMachine:
-	marcovc: marco.v.correia!gmail.com from 2017-08-01
-TheSpider:
-	jfmengels: jfm.engels!gmail.com, jfmengels!users.noreply.github.com until 2014-04-01
 TheTravel:
 	isindir: isindir!users.noreply.github.com, isindir!users.sourceforge.net from 2017-10-01 until 2018-01-01
 TheUberCloud:
@@ -16408,3 +16404,9 @@ codebar:
 	MarckK: 15032115+marckk!users.noreply.github.com, MarckK!users.noreply.github.com, karadelamarck!gmail.com from 2017-12-01 until 2019-06-01
 codeburst:
 	bmorelli25: bmorelli25!users.noreply.github.com from 2018-10-01 until 2022-04-01
+codeburst.io:
+	geekysrm: geekysrm!users.noreply.github.com, soumyacool2012!gmail.com, soumyarnm!gmail.com from 2019-01-01 until 2020-01-01
+codecovevienna:
+	eiabea: developer!eiabea.com
+codehaus:
+	glaforge: glaforge!gmail.com from 2015-02-01 until 2015-03-01
