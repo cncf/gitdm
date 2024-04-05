@@ -5,6 +5,16 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+Saitodepaula: Saitodepaula!users.noreply.github.com
+	SYSTRA until 2018-10-01
+	JS Geologia Aplicada from 2018-10-01
+Sajadorouji: Sajadorouji!users.noreply.github.com
+	Atieh Dadeh Pardaz until 2018-04-01
+	Chabok Realtime Solutions from 2018-04-01 until 2019-03-01
+	Romak Communications Idea (SNAP) from 2019-03-01 until 2020-02-01
+	MessageBird from 2020-02-01
+SajayAntony: SajayAntony!users.noreply.github.com
+	Microsoft Corporation
 Sajiyah-Salat: Sajiyah-Salat!users.noreply.github.com
 	Independent until 2023-07-01
 	The GKTWEB from 2023-07-01 until 2023-10-01
@@ -451,8 +461,9 @@ Scowluga: Scowluga!users.noreply.github.com
 	Independent from 2021-01-01 until 2021-05-01
 	NVIDIA Corporation from 2021-05-01 until 2021-09-01
 	Citadel from 2021-09-01
-ScrapCodes: ScrapCodes!users.noreply.github.com, prashant.s!imaginea.com, prashsh1!in.ibm.com
-	International Business Machines Corporation
+ScrapCodes: ScrapCodes!users.noreply.github.com, prashant.s!imaginea.com, prashsh1!in.ibm.com, scrapcodes!gmail.com
+	Apache until 2016-11-01
+	International Business Machines Corporation from 2016-11-01
 ScriptAutomate: ScriptAutomate!users.noreply.github.com
 	Independent until 2016-04-01
 	AWS from 2016-04-01 until 2017-05-01
@@ -1833,9 +1844,10 @@ StanFox1984: Stanislav.Lisovskiy!gmail.com, stanislav.lisovskiy!intel.com
 StanislavUshakov: stanislavushakov!users.noreply.github.com, sushakov!dataart.com
 	DataArt Solutions Inc. DBA: DeviceHive
 Starefossen: Starefossen!users.noreply.github.com, hans!starefossen.com, hans.flaatten!evry.com, hans.kristian.flaatten!dnt.no, hans.kristian.flaatten!turistforeningen.no
-	Bergen NoSQL until 2015-01-01
-	Node.js Foundation from 2015-01-01 until 2019-10-01
-	CNCF from 2019-10-01
+	Bergen NoSQL until 2018-01-01
+	EVRY from 2018-01-01 until 2020-01-01
+	Bulder Bank from 2020-01-01 until 2020-11-01
+	NAV from 2020-11-01
 Starnop: 31209634+starnop!users.noreply.github.com, Starnop!users.noreply.github.com, starnop!163.com
 	NetEase Inc
 StarpTech: StarpTech!users.noreply.github.com, deusdustin!gmail.com
@@ -1993,9 +2005,9 @@ SteveOss: SteveOss!users.noreply.github.com, steve.osselton!gmail.com
 	Independent from 2018-01-01 until 2018-03-01
 	IOTech Systems Limited from 2018-03-01
 StevenACoffman: steve.coffman!ithaka.org, stevenacoffman!users.noreply.github.com
-	Independent until 2015-09-01
-	Deque Systems from 2015-09-01 until 2016-03-01
-	ITHAKA from 2016-03-01 until 2019-09-01
+	Deque Systems until 2016-03-01
+	Independent from 2016-03-01 until 2016-09-01
+	ITHAKAITHAKA from 2016-09-01 until 2019-09-01
 	Khan Academy from 2019-09-01
 StevenBarre: StevenBarre!users.noreply.github.com, steven.barre!dxcas.com
 	Real Estate Webmasters until 2016-05-01
@@ -2834,12 +2846,12 @@ TeoGoddet: TeoGoddet!users.noreply.github.com
 TerraTech: core!futurequest.net, service!futurequest.net, terratech!users.noreply.github.com
 	Futurequest
 TerryHowe: TerryHowe!users.noreply.github.com, terrylhowe!gmail.com, tlhowe!amazon.com
-	HP Inc. until 2015-10-31
-	HP Inc. from 2015-10-31 until 2015-11-13
-	Time Warner Cable from 2015-11-13 until 2016-05-18
-	Charter from 2016-05-18 until 2017-03-30
-	Tesla Inc. from 2017-03-30 until 2019-09-30
-	Amazon from 2019-09-30
+	Hewlett until 2015-10-01
+	Charter from 2015-10-01 until 2017-03-01
+	Independent from 2017-03-01 until 2017-07-01
+	Tesla Inc . from 2017-07-01 until 2019-09-01
+	Independent from 2019-09-01 until 2020-11-01
+	AWS from 2020-11-01
 Tetradeus: thomas.carsuzan!gmail.com
 	Ekino until 2020-05-01
 	Landytech from 2020-05-01
@@ -4340,10 +4352,11 @@ VibhavariMandal-sumo: VibhavariMandal-sumo!users.noreply.github.com
 	Sumo Logic Inc. from 2021-04-01 until 2023-08-01
 	HPE Aruba from 2023-08-01
 VibhorChinda: VibhorChinda!users.noreply.github.com
-	Independent until 2020-05-01
-	OpenMRS from 2020-05-01 until 2020-09-01
+	Independent until 2019-12-01
+	OpenMRS from 2019-12-01 until 2020-09-01
 	IEEE VIT Vellore from 2020-09-01 until 2021-12-01
-	VMware · from 2021-12-01
+	VMware Inc. from 2021-12-01 until 2023-12-01
+	CNCF from 2023-12-01
 VicoWu: 583424568!qq.com, VicoWu!users.noreply.github.com
 	Independent until 2015-07-01
 	NetEase Inc from 2015-07-01 until 2018-03-01
@@ -11779,7 +11792,8 @@ alegrey91: alegrey91!users.noreply.github.com, alessiog!armosec.io
 	Independent until 2018-09-01
 	CY4GATE from 2018-09-01 until 2021-06-01
 	CLASTIX from 2021-06-01 until 2023-02-06
-	ARMO from 2023-02-06
+	ARMO from 2023-02-06 until 2024-02-01
+	Independent from 2024-02-01
 alegri90: alegri90!users.noreply.github.com
 	EVRY until 2020-03-01
 	Novo from 2020-03-01 until 2020-07-01
@@ -12588,7 +12602,15 @@ alexkursell: alexander.kursell!shopify.com, alexkursell!users.noreply.github.com
 	Independent until 2019-01-01
 	Shopify Inc. from 2019-01-01 until 2019-04-01
 	Independent from 2019-04-01 until 2019-09-01
-	ContextLogic Inc. (Wish) from 2019-09-01
+	ContextLogic Inc. (Wish) from 2019-09-01 until 2019-12-01
+	Independent from 2019-12-01 until 2020-05-01
+	Meta Platforms Inc. from 2020-05-01 until 2020-08-01
+	Independent from 2020-08-01 until 2021-01-01
+	ContextLogic Inc. (Wish) from 2021-01-01 until 2021-04-01
+	Independent from 2021-04-01 until 2021-08-01
+	Meta Platforms Inc. from 2021-08-01 until 2021-12-01
+	Independent from 2021-12-01 until 2022-07-01
+	Meta Facebook from 2022-07-01
 alexlarsson: alexander.larsson!gmail.com, alexl!redhat.com, alexlarsson!users.noreply.github.com
 	Red Hat Inc.
 alexlatchford: alexlatchford!users.noreply.github.com
@@ -17285,7 +17307,10 @@ antonyfray: antonyfray!users.noreply.github.com
 antoooks: antokurnianto82!gmail.com, antoooks!users.noreply.github.com
 	CompFest 7 until 2015-12-01
 	MMC Rajawali from 2015-12-01 until 2017-07-01
-	Airy from 2017-07-01
+	Airy from 2017-07-01 until 2020-04-01
+	Amartha from 2020-04-01 until 2020-07-01
+	Independent from 2020-07-01 until 2023-11-01
+	SWAT Mobility from 2023-11-01
 antst: antst!users.noreply.github.com
 	AVL Dacolt until 2014-09-01
 	Shell International Petroleum Company from 2014-09-01 until 2016-11-01
@@ -22080,11 +22105,9 @@ backjo: backjo!users.noreply.github.com, jonah!jonahback.com, jonah_back!intuit.
 	Seapine until 2014-08-01
 	Strap from 2014-08-01 until 2014-12-01
 	Intuit Inc. from 2014-12-01
-bacongobbler: bacongobbler!users.noreply.github.com, matt.fisher!microsoft.com, mfisher!engineyard.com
-	Microsoft Corporation
-bacongobbler: mfisher!deis.com
-	Deis until 2017-05-01
-	Microsoft Corporation from 2017-05-01
+bacongobbler: bacongobbler!users.noreply.github.com, matt.fisher!microsoft.com, mfisher!deis.com, mfisher!engineyard.com
+	Microsoft Corporation until 2021-11-01
+	Fermyon from 2021-11-01
 baconmania: baconmania!users.noreply.github.com, glal!hubspot.com
 	HubSpot Inc.
 baconz: baconz!users.noreply.github.com
@@ -23735,31 +23758,3 @@ benjaminfuchs: email!benjaminfuchs.de
 	BFAM
 benjamingaignard: benjamin.gaignard!st.com
 	STMicroelectronics International N.V.
-benjamingorman: 8076bgorman!gmail.com, benjamingorman!users.noreply.github.com
-	Independent until 2015-07-01
-	Speechmatics from 2015-07-01 until 2015-09-01
-	Independent from 2015-09-01 until 2016-07-01
-	Speechmatics® from 2016-07-01 until 2016-09-01
-	Independent from 2016-09-01 until 2017-07-01
-	Accenture Global Solutions Limited from 2017-07-01 until 2017-09-01
-	Independent from 2017-09-01 until 2018-09-01
-	Speechmatics® from 2018-09-01
-benjamingr: benjamingr!users.noreply.github.com, inglor!gmail.com
-	Testim Inc
-benjaminguttmann-avtq: benjaminguttmann-avtq!users.noreply.github.com
-	Independent until 2015-07-01
-	anynines GmbH from 2015-07-01
-benjaminhuo: benjamin!yunify.com, benjaminhuo!users.noreply.github.com
-	International Game Technology until 2015-03-01
-	Advent Software Inc. from 2015-03-01 until 2016-06-01
-	QingCloud Technologies Corp. from 2016-06-01
-benjamintanweihao: benjamintanweihao!gmail.com, benjamintanweihao!users.noreply.github.com
-	Independent until 2016-01-01
-	Pivotal from 2016-01-01 until 2017-06-01
-	EasyMile from 2017-06-01 until 2021-07-01
-	DKATALIS from 2021-07-01
-benjaminwood: ben!hint.io
-	Hint
-benjaminwootton: benjaminwootton!users.noreply.github.com
-	Contino until 2020-01-01
-	Timeflow from 2020-01-01
