@@ -109,7 +109,8 @@ To add geo data (`country_id`, `tz`) and gender data (`sex`, `sex_prob`), do the
 - Prepend with `DBG=1` to enable verbose output.
 - Prepend with `SYNC_TO_CONFIG=1` to force writing exact same rolls from `github_users.json` back to `cncf-config/email-map`.
 - Prepend with `DELETE_INCORRECT_LOWER=1` to delete incorrect lower case email data from config when correct non-lower data is found and lower email is not the same as non-lower.
-- Prepend with `NO_CACHE=1` to avoid writing cache answers - useful when running in update mode, so we don';t store decisions for next runs.
+- Prepend with `NO_CACHE=1` to avoid writing cache answers - useful when running in update mode, so we don't store decisions for next runs.
+- To manually sync given JSON login to email-map config use: `` [DBG=1] ./sync_json_to_config.rb login[:email] [login2[:email2] [...]] ``.
 - After finishing import add a status line to `affiliations_import.txt` file and update the online spreadsheet.
 - Update `company-names-mapping` if needed and then run `./company_names_mapping.sh`.
 - Run: `./sort_config.sh` and `./lower_unique.sh cncf-config/email-map`.
