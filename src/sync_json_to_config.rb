@@ -33,6 +33,9 @@ json_data.each_with_index do |user, index|
   dlogin = login.downcase
   email = user['email'].strip
   next if email.nil? or email.empty?
+  ary = email.split('!')
+  next unless ary.length == 2
+  next if ary[0].strip.empty? or ary[1].strip.empty?
   a_emails[login+':'+email] = true if all_emails
   users[login] = [] unless users.key?(login)
   users[login] << [email, affiliations]
@@ -50,6 +53,9 @@ File.readlines(email_map).each do |line|
   ary = line.split ' '
   email = ary[0].strip
   next if email.nil? or email.empty?
+  ar = email.split('!')
+  next unless ar.length == 2
+  next if ar[0].strip.empty? or ar[1].strip.empty?
   aff = ary[1..-1].join(' ')
   next if aff.nil? or aff.empty?
   emails[email] = [] unless emails.key?(email)
