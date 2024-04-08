@@ -10,11 +10,11 @@ all_emails = !ENV['ALL_EMAILS'].nil?
 all = (all_logins ^ all_emails)
 
 email_map = 'cncf-config/email-map'
-if ARGV.length == 0
+if ARGV.length == 0 and not all
   puts "Specify one or more logins to sync JSON -> config"
   puts "Example: lukaszgryglicki 'other_login:specific-email!domain.com' (for non-unique affiliations within login)"
   puts "Full usage: [DBG=1] [DRY=1] [ALL_LOGINS=1 | ALL_EMAILS=1] ./sync_json_to_config.rb login[:email] [login2[:email2] [...]]"
-  exit 0 unless all
+  exit 0
 end
 
 users = {}
@@ -28,9 +28,11 @@ json_data.each_with_index do |user, index|
   next if affiliations.nil?or affiliations.empty?
   next if ['?', '(Robots)', 'Unknown', 'NotFound'].include? affiliations
   login = user['login'].strip
+  next if login.nil? or login.empty?
   a_logins[login] = true if all_logins
   dlogin = login.downcase
   email = user['email'].strip
+  next if email.nil? or email.empty?
   a_emails[login+':'+email] = true if all_emails
   users[login] = [] unless users.key?(login)
   users[login] << [email, affiliations]
@@ -44,9 +46,12 @@ File.readlines(email_map).each do |line|
   if line.length > 0 && line[0] == '#'
     next
   end
+  next if line.nil? or line.empty?
   ary = line.split ' '
-  email = ary[0]
+  email = ary[0].strip
+  next if email.nil? or email.empty?
   aff = ary[1..-1].join(' ')
+  next if aff.nil? or aff.empty?
   emails[email] = [] unless emails.key?(email)
   emails[email] << aff
 end
@@ -69,7 +74,7 @@ process_list.each do |login|
   ary = login.split ':'
   login = ary[0].strip
   dlogin = login.downcase
-  mail = ary[1].strip if ary.length > 1 and not ary[1].nil?
+  mail = ary[1].strip if ary.length > 1 and not ary[1].nil? and not ary[1].empty?
   unless users.key? login
     puts "#{login} not found in JSON"
     if dusers.key? dlogin
@@ -95,6 +100,11 @@ process_list.each do |login|
   end
   if affs.length > 1
     puts "#{login} has non-unique affiliations, cannot update"
+    if dbg
+      affs.each_with_index do |a, i|
+        puts "##{i+1}) #{a[0]}"
+      end
+    end
     next
   end
   affs = affs.first[0]
@@ -133,9 +143,10 @@ process_list.each do |login|
         jso = ary[i]
         unless cfg == jso
           puts "#{mail} in config is different than JSON for ##{i+1} affiliation:"
+          puts "JSON   has: #{ary.join(', ')}"
           puts "config has: #{curr.join(', ')}"
-          puts "difference on: #{cfg}"
-          puts "JSON   has: #{jso}"
+          puts "JSON   difference on: #{jso}"
+          puts "config difference on: #{cfg}"
           diff = true
           break
         end
@@ -150,7 +161,7 @@ process_list.each do |login|
   end
 end
 if changes > 0
-  puts "made #{changes} changes" if dbg
+  puts "made #{changes} changes"
   unless dry
     File.open(email_map, 'w') do |file|
       file.puts "# Here is a set of mappings of domain names onto employer names."
@@ -163,6 +174,6 @@ if changes > 0
     end
     puts "saved #{email_map}" if dbg
   else
-    puts "not saving because of dry mode" if dbg
+    puts "not saving because of dry mode"
   end
 end
