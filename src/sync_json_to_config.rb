@@ -7,7 +7,7 @@ dbg = !ENV['DBG'].nil?
 dry = !ENV['DRY'].nil?
 all_logins = !ENV['ALL_LOGINS'].nil?
 all_emails = !ENV['ALL_EMAILS'].nil?
-all = all_logins or all_emails
+all = (all_logins ^ all_emails)
 
 email_map = 'cncf-config/email-map'
 if ARGV.length == 0
@@ -24,12 +24,14 @@ aff_key = 'affiliation'
 a_logins = {}
 a_emails = {}
 json_data.each_with_index do |user, index|
+  affiliations = user[aff_key].strip if user.key?(aff_key) and not user[aff_key].nil?
+  next if affiliations.nil?or affiliations.empty?
+  next if ['?', '(Robots)', 'Unknown', 'NotFound'].include? affiliations
   login = user['login'].strip
   a_logins[login] = true if all_logins
   dlogin = login.downcase
   email = user['email'].strip
-  a_emails[email] = true if all_emails
-  affiliations = user[aff_key].strip if user.key?(aff_key) and not user[aff_key].nil?
+  a_emails[login+':'+email] = true if all_emails
   users[login] = [] unless users.key?(login)
   users[login] << [email, affiliations]
   dusers[dlogin] = [] unless dusers.key?(dlogin)
@@ -49,8 +51,21 @@ File.readlines(email_map).each do |line|
   emails[email] << aff
 end
 
-changes = 0
+process_list = []
 ARGV.each do |login|
+  process_list << login
+end
+
+a_logins.each do |login|
+  process_list << login[0]
+end
+
+a_emails.each do |login_and_email|
+  process_list << login_and_email[0]
+end
+
+changes = 0
+process_list.each do |login|
   ary = login.split ':'
   login = ary[0].strip
   dlogin = login.downcase
