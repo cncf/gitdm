@@ -4,21 +4,31 @@ require 'pry'
 require 'json'
 
 dbg = !ENV['DBG'].nil?
+dry = !ENV['DRY'].nil?
+all_logins = !ENV['ALL_LOGINS'].nil?
+all_emails = !ENV['ALL_EMAILS'].nil?
+all = all_logins or all_emails
+
 email_map = 'cncf-config/email-map'
 if ARGV.length == 0
   puts "Specify one or more logins to sync JSON -> config"
   puts "Example: lukaszgryglicki 'other_login:specific-email!domain.com' (for non-unique affiliations within login)"
-  exit 0
+  puts "Full usage: [DBG=1] [DRY=1] [ALL_LOGINS=1 | ALL_EMAILS=1] ./sync_json_to_config.rb login[:email] [login2[:email2] [...]]"
+  exit 0 unless all
 end
 
 users = {}
 dusers = {}
 json_data = JSON.parse File.read 'github_users.json'
 aff_key = 'affiliation'
+a_logins = {}
+a_emails = {}
 json_data.each_with_index do |user, index|
   login = user['login'].strip
+  a_logins[login] = true if all_logins
   dlogin = login.downcase
   email = user['email'].strip
+  a_emails[email] = true if all_emails
   affiliations = user[aff_key].strip if user.key?(aff_key) and not user[aff_key].nil?
   users[login] = [] unless users.key?(login)
   users[login] << [email, affiliations]
@@ -126,13 +136,18 @@ ARGV.each do |login|
 end
 if changes > 0
   puts "made #{changes} changes" if dbg
-  File.open(email_map, 'w') do |file|
-    file.puts "# Here is a set of mappings of domain names onto employer names."
-    file.puts "# [user!]domain  employer  [< yyyy-mm-dd]"
-    emails.sort.each do |email, affs|
-      affs.sort.each do |aff, _|
-        file.puts "#{email} #{aff}"
+  unless dry
+    File.open(email_map, 'w') do |file|
+      file.puts "# Here is a set of mappings of domain names onto employer names."
+      file.puts "# [user!]domain  employer  [< yyyy-mm-dd]"
+      emails.sort.each do |email, affs|
+        affs.sort.each do |aff, _|
+          file.puts "#{email} #{aff}"
+        end
       end
     end
+    puts "saved #{email_map}" if dbg
+  else
+    puts "not saving because of dry mode" if dbg
   end
 end
