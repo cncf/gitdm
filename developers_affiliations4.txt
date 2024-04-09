@@ -19190,8 +19190,6 @@ inrumi: inrumi!gmail.com
 	Hyperion from 2016-04-01 until 2019-05-01
 	Softtek from 2019-05-01 until 2020-02-01
 	Accenture Global Solutions Limited from 2020-02-01
-intuibase: pawel.filipczak!elastic.co, intuibase!users.noreply.github.com
-	Elasticsearch Inc.
 insafonov: insafonov!gmail.com
 	artix.su
 insequent: deathbeforedishes!gmail.com, insequent!users.noreply.github.com
@@ -19264,6 +19262,8 @@ intolerance: intolerance!users.noreply.github.com
 	Weir Oil and Gas
 intpp: intpp!users.noreply.github.com
 	NewAge
+intuibase: intuibase!users.noreply.github.com, pawel.filipczak!elastic.co
+	Elasticsearch Inc.
 inuyasha82: inuyasha82!users.noreply.github.com
 	FAO until 2015-04-01
 	International Business Machines Corporation from 2015-04-01
@@ -23869,11 +23869,3 @@ jeffsawatzky: jeffsawatzky!users.noreply.github.com
 	FreshBooks from 2015-01-01
 jeffschwMSFT: jeffschw!microsoft.com, jeffschwMSFT!users.noreply.github.com
 	Microsoft Corporation
-jeffutter: jeffutter!users.noreply.github.com
-	Firespring until 2017-06-01
-	Communication Service for the Deaf Inc. from 2017-06-01 until 2019-02-01
-	Bleacher Report from 2019-02-01
-jeffvance: jeff.h.vance!gmail.com, jeffvance!users.noreply.github.com, jvance!redhat.com
-	Red Hat Inc.
-jeffvanderstoep: jeffv!google.com
-	Google LLC
