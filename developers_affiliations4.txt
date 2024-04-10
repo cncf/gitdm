@@ -9396,12 +9396,13 @@ gen-xu: gen-xu!users.noreply.github.com
 	Intel Corporation
 gen0cide: gen0cide!users.noreply.github.com, gen0cide.threats!gmail.com
 	Information Security
+genbit: genbit!users.noreply.github.com, sergey!genbit.ru, sergey!isovalent.com
+	Isovalent until 2021-07-01
+	Amazon from 2021-07-01 until 2024-01-31
+	Independent from 2024-01-31
 genbod: genbod!users.noreply.github.com
 	Microsoft Corporation until 2021-02-01
 	UiPath from 2021-02-01
-genbit: sergey!isovalent.com, genbit!users.noreply.github.com
-	Isovalent until 2021-07-01
-	Amazon from 2021-07-01 until 2024-01-31
 genchsusu: pctxiaozhu!gmail.com
 	iHerb LLC
 genebean: gene!technicalissues.us, genebean!users.noreply.github.com
@@ -23870,5 +23871,3 @@ jeffsawatzky: jeffsawatzky!users.noreply.github.com
 	ScribbleLive until 2014-10-01
 	Independent from 2014-10-01 until 2015-01-01
 	FreshBooks from 2015-01-01
-jeffschwMSFT: jeffschw!microsoft.com, jeffschwMSFT!users.noreply.github.com
-	Microsoft Corporation

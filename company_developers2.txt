@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Bitwise:
+	anssih: anssi.hannula!bitwise.fi, anssi.hannula!iki.fi
 Bitwise I:
 	chetanpdeshmukh: chetanpdeshmukh!users.noreply.github.com from 2017-06-01 until 2018-12-01
 Bity:
