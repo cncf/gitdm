@@ -5,6 +5,19 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+benjaminapetersen: admin!benjaminapetersen.me, ben!benjaminapetersen.me, bpeterse!redhat.com, dave.smith!candata.com, github!benjaminapetersen.me
+	Red Hat Inc.
+benjamincburns: benjamincburns!users.noreply.github.com
+	Telogis until 2017-10-01
+	ConsenSys AG from 2017-10-01 until 2019-04-01
+	Independent from 2019-04-01 until 2019-06-01
+	Independent from 2019-06-01 until 2020-03-01
+	Whiteblock from 2020-03-01 until 2020-07-01
+	ConsenSys AG from 2020-07-01
+benjaminfuchs: email!benjaminfuchs.de
+	BFAM
+benjamingaignard: benjamin.gaignard!st.com
+	STMicroelectronics International N.V.
 benjamingorman: 8076bgorman!gmail.com, benjamingorman!users.noreply.github.com
 	Independent until 2015-07-01
 	Speechmatics from 2015-07-01 until 2015-09-01
@@ -11261,7 +11274,7 @@ codeblooded: codeblooded!users.noreply.github.com
 	Independent from 2015-08-01 until 2016-05-01
 	International Business Machines Corporation from 2016-05-01 until 2016-08-01
 	Independent from 2016-08-01
-codeboten: 223565+codeboten@users.noreply.github.com, alrex.boten!gmail.com, codeboten!users.noreply.github.com
+codeboten: 223565+codeboten!users.noreply.github.com, alrex.boten!gmail.com, codeboten!users.noreply.github.com
 	LightStep Inc. until 2024-02-16
 	Hound Technology Inc. dba Honeycomb from 2024-02-16
 codebutler: eric!codebutler.com
@@ -23662,18 +23675,3 @@ ebar0n: ebar0n!users.noreply.github.com, edwar.baron!gmail.com
 	Grupo Banklot from 2014-05-01 until 2016-10-01
 	monoku from 2016-10-01 until 2019-01-01
 	Platzi from 2019-01-01
-ebarped: ebarped!users.noreply.github.com
-	OptareSolutions
-ebarriosjr: ebarriosjr!users.noreply.github.com, esteban.barrios!trivago.com
-	DB Schenker until 2014-04-01
-	SCREEN from 2014-04-01 until 2015-06-01
-	trivago from 2015-06-01
-ebati: ebati!users.noreply.github.com, emrecanbati!gmail.com
-	Middle East Technical University until 2016-09-01
-	INNOLOGY from 2016-09-01
-ebauman: eamon!eamonbauman.com, ebauman!users.noreply.github.com
-	Independent until 2019-03-01
-	SUSE LLC from 2019-03-01
-ebbeelsborg: ebbeelsborg!users.noreply.github.com, ee!blackwoodseven.com
-	Edlund A/S until 2016-09-15
-	Blackwood Seven A/S from 2016-09-15
