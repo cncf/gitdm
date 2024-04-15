@@ -5,6 +5,21 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+timirnich: tim.irnich!suse.com, timirnich!users.noreply.github.com
+	Ericsson until 2018-08-01
+	Independent from 2018-08-01 until 2018-10-01
+	SUSE LLC from 2018-10-01
+timja: t.jacomb!kainos.com, tim.jacomb!hmcts.net, timja!users.noreply.github.com, timjacomb1+github!gmail.com
+	Datacom until 2016-06-01
+	Kainos Software from 2016-06-01
+timkendrick: timkendrick!gmail.com, timkendrick!users.noreply.github.com
+	Fathom until 2015-04-01
+	Independent from 2015-04-01 until 2015-05-01
+	Kayako from 2015-05-01 until 2015-08-01
+	Filecanvas from 2015-08-01 until 2016-08-01
+	Deutsche Bank AG from 2016-08-01 until 2018-08-01
+	Canvas Medical Inc. from 2018-08-01 until 2019-03-01
+	11:FS from 2019-03-01
 timkrief: tim!timkrief.com
 	Hauts Parleurs until 2017-09-01
 	Independent from 2017-09-01 until 2018-04-01
@@ -8074,9 +8089,9 @@ wangshiqi308: swang50!lakeheadu.ca, wangshiqi308!users.noreply.github.com
 	Huawei Technologies Co. Ltd
 wangtjia: wangtjia!cn.ibm.com, wangtjia!users.noreply.github.com
 	International Business Machines Corporation
-wangxf1987: wangxf1987!users.noreply.github.com, xiaofeix.wang!gmail.com, wangxiaofei67!jd.com
+wangxf1987: wangxf1987!users.noreply.github.com, wangxiaofei67!jd.com, xiaofeix.wang!gmail.com
 	Awcloud until 2020-10-01
-        Jd.Com from 2020-10-01
+	Jd.com from 2020-10-01
 wangxi11: wangxi11!huawei.com
 	Huawei Technologies Co. Ltd
 wangxiaoguang: wangxg.fnst!cn.fujitsu.com
@@ -10290,6 +10305,8 @@ wtong98: wtong98!users.noreply.github.com
 	Independent from 2019-01-01 until 2019-06-01
 	Vimbly from 2019-06-01 until 2019-08-01
 	Independent from 2019-08-01
+wtootw: wangyaqi54!jd.com
+	Jd.Com
 wtritch: wtritch!users.noreply.github.com, wtritchler!fairwaytech.com
 	Accenture plc
 wtrocki: wtrocki!redhat.com, wtrocki!users.noreply.github.com
@@ -11565,8 +11582,8 @@ xujihui1985: levi.ong!gmail.com, xujihui1985!gmail.com, xujihui1985!users.norepl
 	Alipay
 xujiyou: xujiyou!users.noreply.github.com, xujiyou555!gmail.com
 	北京
-xujunjie-cover: xujunjielxx!163.com
-	99Cloud Inc.
+xujunjie-cover: xujunjie37!jd.com, xujunjielxx!163.com
+	Jd.Com
 xujyan: me!jxu.me, xujyan!users.noreply.github.com
 	Twitter Inc. until 2015-01-01
 	Apple Inc. from 2015-01-01
@@ -12012,6 +12029,8 @@ yangy2000: yangy2000!gmail.com, yangy2000!users.noreply.github.com, yangyang1!zt
 	ZTE Corporation
 yangyanyj: yangyanyj!chinamobile.com
 	China Mobile Communication Company Ltd
+yangyefei90: yangyefei!jd.com
+	Jd.Com
 yangyi-inspur: yangyi-inspur!users.noreply.github.com, yangyi01!inspur.com
 	Inspur Group
 yangyong: yangyonglc!inspur.com
@@ -12840,6 +12859,8 @@ yingted: yingted!gmail.com, yingted!users.noreply.github.com
 	Independent from 2016-08-01 until 2017-01-01
 	Jane Street Europe Limited from 2017-01-01 until 2017-04-01
 	Independent from 2017-04-01
+yingyueshi: chenyanying3!jd.com
+	Jd.Com
 yingzhuivy: ying.zhu!airbnb.com
 	Independent until 2015-07-01
 	Roxar from 2015-07-01 until 2015-09-01
@@ -15073,6 +15094,8 @@ zh1314: zh1314!users.noreply.github.com, zhanghui31!baidu.com
 	Baidu Online Network Technology (Beijing) Co. Ltd
 zh168654: zh168654!users.noreply.github.com, zhangye.168!163.com
 	NetEase Inc
+zhailiansen: zhailiansen1!jd.com
+	Jd.Com
 zhaiyuyong: zhaiyuyong!126.com, zhaiyuyong!users.noreply.github.com
 	PDD
 zhammer: zhammer!users.noreply.github.com
@@ -15128,6 +15151,8 @@ zhangchunsheng: 1097692918!qq.com, zhangchunsheng!users.noreply.github.com
 	Start up from 2020-08-01
 zhangckid: zhangchen.fnst!cn.fujitsu.com
 	Fujitsu Limited
+zhangdalei1: zhangdalei1!jd.com
+	Jd.Com
 zhangdb-git: zhangdb-git!users.noreply.github.com, zhangdebo!inspur.com
 	Inspur Group
 zhangdeyu: imzhangdeyu!foxmail.com
@@ -15319,8 +15344,8 @@ zhhray: z-ray-h!163.com, zhhray!users.noreply.github.com
 zhi-gang-sun: zhi_gang_sun!163.com
 	International Business Machines Corporation
 zhifei92: 13641019076!163.com, zhangzhifei16!jd.com, zhangzhifei319!gmail.com, zhifei92!users.noreply.github.com
-	Independent until 2023-12-01
-	Jd.Com from 2023-12-01
+	Independent until 2023-12-10
+	Jd.com from 2023-12-10
 zhiguo-lu: zhiguo-lu!users.noreply.github.com
 	lenovoedu
 zhihuiwu: wu.zhihui1!zte.com.cn, zhihuiwu!users.noreply.github.com
@@ -15860,12 +15885,8 @@ zmunro: zmunro!users.noreply.github.com
 	Wealthsimple from 2021-03-01
 znbang: znbang!gmail.com, znbang!users.noreply.github.com
 	fineart
-znlstar: znlstar!users.noreply.github.com
-	Red Hat Inc. until 2015-06-01
-	Vision Critical from 2015-06-01 until 2017-11-01
-	Thomson Reuters Markets LLC from 2017-11-01 until 2019-04-01
-	Kira from 2019-04-01 until 2021-03-01
-	Wealthsimple from 2021-03-01
+znlstar: zhaojianxing!jd.com, znlstar!users.noreply.github.com
+	Jd.Com
 zodiac12k: zodiac12k!gmail.com, zodiac12k!users.noreply.github.com
 	SK
 zodinyac: zodiac!ispras.ru
@@ -16422,47 +16443,3 @@ zzzhy: candle_1667!163.com, zzzhy!users.noreply.github.com
 	Meituan
 zzztimbo: zzztimbo!users.noreply.github.com
 	Red Hat Inc.
-jdcloudconformance: caoyilin1!jd.com
-	Jd.Com
-sanglipeng1: sanglipeng1!jd.com
-        Jd.Com
-bjlhlin: lihonglin1!jd.com
-        Jd.Com
-yangyefei90: yangyefei!jd.com
-	Jd.Com
-lixiv: lixiwei3!jd.com
-        Jd.Com
-niuli33: niuli33!jd.com
-        Jd.Com
-xujunjie-cover: xujunjie37!jd.com
-        Jd.Com
-znlstar: zhaojianxing!jd.com
-        Jd.Com
-zhangdalei1: zhangdalei1!jd.com
-        Jd.Com
-jdtuhui: tuhui1!jd.com
-        Jd.Com
-ewon78: zhouguanginfo!jd.com
-        Jd.Com
-zhailiansen: zhailiansen1!jd.com
-        Jd.Com
-liukang-03: liukang84!jd.com
-        Jd.Com
-WaterMelonKnight: baoyuefeng1!jd.com
-        Jd.Com
-wtootw: wangyaqi54!jd.com
-        Jd.Com
-chenylh: chenyuliang!jd.com
-        Jd.Com
-cedar-gao: gaoxuesong!jd.com
-        Jd.Com
-yingyueshi: chenyanying3!jd.com
-        Jd.Com
-mmmmmmmmx: mingxiao1!jd.com
-        Jd.Com
-hxy88888: hanxiangyuan!jd.com
-        Jd.Com
-soulfy: liukai254!jd.com
-        Jd.Com
-huiwq1990: wangqinghui9!jd.com
-        Jd.Com
