@@ -5,6 +5,8 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+maugusto-cit: maugusto!ciandt.com, maugusto-cit!users.noreply.github.com
+	CI&T
 mauilion: cooleyd!vmware.com, dcooley!apple.com, dcooley!heptio.com, duffie.cooley!coreos.com, github!mauilion.com, linux!mauilion.com, mauilion!users.noreply.github.com
 	CoreOS Inc. until 2018-03-15
 	Heptio Inc. from 2018-03-15 until 2018-12-11
@@ -23818,8 +23820,3 @@ ramonPires: ramonPires!users.noreply.github.com, rmn.pires!gmail.com
 ramonhpr: ramonhpr!users.noreply.github.com, rhpr!cesar.org.br
 	Independent until 2016-09-01
 	CESAR from 2016-09-01
-ramonskie: ramonskie!users.noreply.github.com
-	KLM until 2016-10-01
-	Pivotal from 2016-10-01 until 2016-12-01
-	Independent from 2016-12-01 until 2017-02-01
-	Stark & Wayne LLC from 2017-02-01

@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+ramonskie: ramonskie!users.noreply.github.com
+	KLM until 2016-10-01
+	Pivotal from 2016-10-01 until 2016-12-01
+	Independent from 2016-12-01 until 2017-02-01
+	Stark & Wayne LLC from 2017-02-01
 ramontayag: ramon.tayag!gmail.com, ramontayag!users.noreply.github.com
 	Aelogica
 ramonza: ramon!echophase.com, rmn!google.com
@@ -1115,7 +1120,7 @@ reagul: reagul!users.noreply.github.com
 	Dell until 2015-12-01
 	Pivotal from 2015-12-01 until 2019-08-01
 	VMware Inc. from 2019-08-01
-reakaleek: nejcalanog!gmail.com, jan.calanog!elastic.co, reakaleek!users.noreply.github.com
+reakaleek: jan.calanog!elastic.co, nejcalanog!gmail.com, reakaleek!users.noreply.github.com
 	Independent until 2016-07-01
 	mut[h]ual from 2016-07-01 until 2017-06-01
 	iteratec from 2017-06-01 until 2019-01-01
@@ -23812,8 +23817,3 @@ ticketsnfines: ticketsnfines!users.noreply.github.com
 	LexisNexis from 2015-12-01 until 2019-10-01
 	Envestnet from 2019-10-01 until 2020-10-01
 	Maven Wave from 2020-10-01
-tico24: tico24!users.noreply.github.com
-	Independent until 2015-05-01
-	World Programming Ltd from 2015-05-01 until 2020-08-01
-	Independent from 2020-08-01 until 2022-09-01
-	Pipekit from 2022-09-01

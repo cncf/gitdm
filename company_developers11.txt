@@ -2,6 +2,16 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+appLariat:
+	garreeoke: garreeoke!users.noreply.github.com from 2016-03-01 until 2018-02-01
+appaloosa:
+	benoittgt: benoit!hopsandfork.com, benoittgt!users.noreply.github.com from 2015-04-01
+appveen:
+	tanvir-appveen: tanvir-appveen!users.noreply.github.com from 2019-09-01
+aprcot:
+	Ayatallah: ayatallah.amr!gmail.com from 2017-01-01 until 2017-05-01
+apreel:
+	rafax: r.gajdulewicz!gmail.com, rafax!users.noreply.github.com from 2014-01-15 until 2014-11-15
 apsl:
 	marctc: marctc!gmail.com, marctc!users.noreply.github.com until 2018-12-01
 arcab:
@@ -2972,7 +2982,7 @@ iteratec:
 	Mexx77: Mexx77!users.noreply.github.com
 	abbi-gaurav: abbi-gaurav!users.noreply.github.com, abbi.gaurav!gmail.com, gaurav.abbi!sap.com from 2015-04-01 until 2015-07-02
 	lukasstanek: lukasstanek!users.noreply.github.com from 2016-02-01
-	reakaleek: reakaleek!users.noreply.github.com from 2017-06-01 until 2019-01-01
+	reakaleek: jan.calanog!elastic.co, nejcalanog!gmail.com, reakaleek!users.noreply.github.com from 2017-06-01 until 2019-01-01
 	twwd: twwd!users.noreply.github.com
 iterativo:
 	gustavovalverde: gustavo!iterativo.do, gustavovalverde!users.noreply.github.com from 2020-12-01
@@ -3230,6 +3240,8 @@ lastminute:
 	lcrisci: laurent!crisci.io, laurent.crisci!gmail.com, lcrisci!users.noreply.github.com until 2015-07-15
 	micheleorsi: micheleorsi!users.noreply.github.com from 2015-01-01 until 2017-07-01
 	phanidevavarapu: phanidevavarapu!users.noreply.github.com from 2018-09-01
+lastminute.com NV:
+	inge4pres: francesco.gualazzi!elastic.co, inge4pres!users.noreply.github.com from 2017-09-01 until 2020-07-01
 latAI:
 	Manojkl: Manojkl!users.noreply.github.com, manojmanu517!gmail.com from 2021-04-01 until 2021-05-01, from 2021-07-01
 latteczy:
@@ -3713,7 +3725,7 @@ muse:
 musikum:
 	NicolaiSchmid: NicolaiSchmid!users.noreply.github.com, hey!schmid.uno, nicolai!schmid.uno, quinto0!misena.edu.co from 2019-02-01 until 2019-03-01
 mut[h]ual:
-	reakaleek: reakaleek!users.noreply.github.com from 2016-07-01 until 2017-06-01
+	reakaleek: jan.calanog!elastic.co, nejcalanog!gmail.com, reakaleek!users.noreply.github.com from 2016-07-01 until 2017-06-01
 mvrck-inc:
 	shuji-koike: shuji-koike!users.noreply.github.com, shuji.koike!me.com
 mxData:

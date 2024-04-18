@@ -5,6 +5,14 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+jeevb: jeevb!users.noreply.github.com
+	Freenome
+jeez: jesus.s.palencia!gmail.com, jesus.sanchez-palencia!intel.com
+	Intel Corporation
+jef: jef!users.noreply.github.com, jeffreylec!gmail.com
+	Independent until 2017-04-01
+	Honeywell International from 2017-04-01 until 2019-07-01
+	Greenlight from 2019-07-01
 jefchien: jefchien!users.noreply.github.com
 	Independent until 2015-03-01
 	Cougaar from 2015-03-01 until 2019-03-01
@@ -23838,5 +23846,3 @@ matzew: matzew!apache.org, matzew!users.noreply.github.com, mwessend!redhat.com
 	Red Hat Inc.
 mauelsha: heinzm!redhat.com, tejal29!gmail.com
 	Red Hat Inc.
-maugusto-cit: maugusto!ciandt.com, maugusto-cit!users.noreply.github.com
-	CI&T
