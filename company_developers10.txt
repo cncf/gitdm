@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+The Infatuation Inc.:
+	buckhx: buckhx!users.noreply.github.com from 2016-07-01 until 2019-07-01
 The Innovation Colony:
 	Carmezim: Carmezim!users.noreply.github.com, Carmezim.filho!gmail.com from 2019-06-01
 	martinlevesque: martinlevesque!users.noreply.github.com from 2020-09-01
@@ -10820,7 +10822,6 @@ Weaveworks Inc.:
 	mmkkff: mmkkff!users.noreply.github.com
 	monadic: alexis.richardson!gmail.com, monadic!users.noreply.github.com
 	morancj: ciaran!weave.works, morancj!users.noreply.github.com from 2020-04-27
-	nikimanoledaki: 18622989+nikimanoledaki!users.noreply.github.com, niki!weave.works, nikimanoledaki!users.noreply.github.com
 	palemtnrider: palemtnrider!users.noreply.github.com from 2018-11-05
 	paulbellamy: paul.a.bellamy!gmail.com, paulbellamy!users.noreply.github.com from 2015-05-01 until 2017-05-01
 	paulcarlton-ww: paul.carlton!weave.works, paulcarlton-ww!users.noreply.github.com from 2019-10-01
@@ -16273,3 +16274,5 @@ api7.ai:
 aporeto-inc:
 	bvandewalle: bernard!bvandewa.com, bvandewalle!users.noreply.github.com
 	primalmotion: antoine.mercadal!gmail.com, primalmotion!users.noreply.github.com
+appLariat:
+	garreeoke: garreeoke!users.noreply.github.com from 2016-03-01 until 2018-02-01

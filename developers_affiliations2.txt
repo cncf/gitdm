@@ -9148,6 +9148,7 @@ adrims: adrims!users.noreply.github.com
 adrukh: adrukh!users.noreply.github.com, anton!snyk.io
 	Snyk Limited
 adschr: adschr!users.noreply.github.com
+	Independent until 2016-12-05
 	SolarWinds Worldwide LLC from 2016-12-05
 adshmh: 23505281+adshmh!users.noreply.github.com, adeshmeh!ca.ibm.com, adshmh!gmail.com, adshmh!users.noreply.github.com
 	International Business Machines Corporation
@@ -11321,6 +11322,7 @@ akuchins: akuchins!users.noreply.github.com
 akulkarni: ajay!timescale.com, akulkarni!users.noreply.github.com
 	Timescale
 akumetsu183: akumetsu183!users.noreply.github.com
+	Independent until 2016-10-19
 	SolarWinds Worldwide LLC from 2016-10-19
 akupila: akupila!gmail.com, akupila!users.noreply.github.com
 	supernode
@@ -23760,5 +23762,3 @@ benhemp: benhemp!users.noreply.github.com
 	Cerner Corporation
 benhosmer: ben!radarearth.com, benhosmer!users.noreply.github.com
 	Radarearth.com
-benhosmer: ben.hosmer!gmail.com
-	Radiant Blue Technologies

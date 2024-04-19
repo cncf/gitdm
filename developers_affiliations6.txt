@@ -5,6 +5,16 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+matyix: janos.matyas!gmail.com, matyix!users.noreply.github.com
+	EPAM Systems Inc until 2014-02-01
+	SequenceIQ from 2014-02-01 until 2015-04-01
+	Cloudera Inc. from 2015-04-01 until 2017-06-01
+	Apache from 2017-06-01 until 2017-11-01
+	CNCF from 2017-11-01
+matzew: matzew!apache.org, matzew!users.noreply.github.com, mwessend!redhat.com
+	Red Hat Inc.
+mauelsha: heinzm!redhat.com, tejal29!gmail.com
+	Red Hat Inc.
 maugusto-cit: maugusto!ciandt.com, maugusto-cit!users.noreply.github.com
 	CI&T
 mauilion: cooleyd!vmware.com, dcooley!apple.com, dcooley!heptio.com, duffie.cooley!coreos.com, github!mauilion.com, linux!mauilion.com, mauilion!users.noreply.github.com
@@ -14712,6 +14722,7 @@ ondrej-fabry: ofabry!cisco.com, ondrej-fabry!users.noreply.github.com, ondrej.fa
 ondrejhlavacek: ondrejhlavacek!users.noreply.github.com
 	Keboola
 ondrejkouril: ondrejkouril!users.noreply.github.com
+	Independent until 2016-08-15
 	SolarWinds Worldwide LLC from 2016-08-15
 ondrejmular: omular!redhat.com, ondrejmular!gmail.com, ondrejmular!users.noreply.github.com
 	Red Hat Inc.
@@ -23810,15 +23821,3 @@ ramnar: raam.soft!gmail.com, ramanarayana_m!infosys.com, ramnar!users.noreply.gi
 ramnathnayakpr: ramnathnayakpr!gmail.com
 	Oracle America Inc. until 2020-02-01
 	Google LLC from 2020-02-01
-ramnes: contact!ramnes.eu, ramnes!1000mercis.com, ramnes!users.noreply.github.com
-	Rofsight until 2014-06-01
-	1000mercis from 2014-06-01 until 2018-08-01
-	1000mercis from 2018-08-01
-ramonPires: ramonPires!users.noreply.github.com, rmn.pires!gmail.com
-	Pentago until 2015-02-01
-	Independent from 2015-02-01 until 2015-03-01
-	Wine from 2015-03-01 until 2018-05-01
-	Beleza from 2018-05-01
-ramonhpr: ramonhpr!users.noreply.github.com, rhpr!cesar.org.br
-	Independent until 2016-09-01
-	CESAR from 2016-09-01

@@ -5,6 +5,8 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+benhosmer: ben.hosmer!gmail.com
+	Radiant Blue Technologies
 benhpoh: benhpoh!users.noreply.github.com
 	Square Inc. until 2015-10-01
 	Independent from 2015-10-01 until 2020-08-01
@@ -15981,6 +15983,7 @@ david-resnick: abunetta!gmail.com
 david-rh: david.anderson!redhat.com
 	Red Hat Inc.
 david-sevcik: david-sevcik!users.noreply.github.com
+	Independent until 2019-11-01
 	SolarWinds Worldwide LLC from 2019-11-01
 david-shepard: david-shepard!users.noreply.github.com
 	International Business Machines Corporation
@@ -23669,5 +23672,3 @@ eamonnotoole: eamonn.otoole!hpe.com
 	Independent until 2018-01-01
 	Johnson from 2018-01-01 until 2021-03-01
 	Dell from 2021-03-01
-eamontaaffe: eamontaaffe!gmail.com, eamontaaffe!users.noreply.github.com
-	Vericus Pty Ltd
