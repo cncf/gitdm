@@ -5,6 +5,43 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+bendrucker: bendrucker!users.noreply.github.com, bvdrucker!gmail.com
+	Valet.io until 2015-05-01
+	Independent from 2015-05-01 until 2015-07-01
+	Eaze from 2015-07-01 until 2017-11-01
+	Scoop Technologies from 2017-11-01
+bene2k1: bene2k1!users.noreply.github.com, brollik!scaleway.com
+	Marché Restaurants Schweiz until 2014-12-01
+	Scaleway from 2014-12-01
+bene42: b.spranger!linutronix.de
+	Linutronix GmbH
+benedictfischer09: ben.fischer.810!gmail.com, benedictfischer09!users.noreply.github.com
+	HomeFinder until 2015-08-01
+	Doximity from 2015-08-01
+benelliott: 4996462+benelliott!users.noreply.github.com, benelliott!users.noreply.github.com, bengelliott!gmail.com
+	University College London until 2015-01-01
+	Hybrid Theory from 2015-01-01 until 2016-01-01
+	US General Services Administration from 2016-01-01
+benesch: benesch!users.noreply.github.com, nikhil.benesch!gmail.com
+	Cockroach Labs
+benfairless: ben.fairless!gmail.com
+	HM Land Registry
+bengal: b.galvani!gmail.com, bgalvani!redhat.com
+	Tattile until 2015-03-01
+	Red Hat Inc. from 2015-03-01
+bengentil: bengentil!users.noreply.github.com, benjamin!gentil.io
+	Safe Host until 2018-01-01
+	Infomaniak Network SA from 2018-01-01
+bengland2: bengland!redhat.com, bengland2!users.noreply.github.com, itscina!gmail.com, kouri!kouri.org
+	Red Hat Inc.
+benhass: benhass!users.noreply.github.com
+	Zendesk Inc.
+benhei: benjamin.heilbrunn!sap.com
+	SAP
+benhemp: benhemp!users.noreply.github.com
+	Cerner Corporation
+benhosmer: ben!radarearth.com, benhosmer!users.noreply.github.com
+	Radarearth.com
 benhosmer: ben.hosmer!gmail.com
 	Radiant Blue Technologies
 benhpoh: benhpoh!users.noreply.github.com
@@ -3540,7 +3577,8 @@ branttaylor: 30937728+branttaylor!users.noreply.github.com, branttaylor!users.no
 	LifeWay Christian Resources
 brasmith-ms: brasmith-ms!users.noreply.github.com
 	UNH InterOperability Lab until 2020-02-01
-	Microsoft Corporation from 2020-02-01
+	Microsoft Corporation from 2020-02-01 until 2024-02-01
+	Datadog Inc from 2024-02-01
 brat000012001: brat000012001!gmail.com
 	Analytical Graphics until 2022-01-01
 	Ansys from 2022-01-01
@@ -5045,7 +5083,8 @@ busser: busser!users.noreply.github.com
 	Independent from 2015-07-01 until 2016-09-01
 	ƒ|eµℝ Query Language from 2016-09-01 until 2017-01-01
 	Adaltas from 2017-01-01 until 2019-12-01
-	Padok from 2019-12-01
+	Padok from 2019-12-01 until 2022-09-01
+	Pigment from 2022-09-01
 bussyjd: bussyjd!users.noreply.github.com, silversurfer972!gmail.com
 	Stacktical
 busunkim96: busunkim96!users.noreply.github.com
@@ -6811,7 +6850,10 @@ catatsuy: catatsuy!catatsuy.org
 cataylox: clinton.a.taylor!intel.com
 	Intel Corporation
 catblade: catblade!users.noreply.github.com
-	Intel Corporation
+	Intel Corporation until 2014-01-01
+	FactSet Research Systems Inc. from 2014-01-01 until 2015-07-01
+	BlackLocus Inc. from 2015-07-01 until 2016-11-01
+	Intel Corporation from 2016-11-01
 catchsudheera: catchsudheera!gmail.com, catchsudheera!users.noreply.github.com
 	DirectFN until 2014-05-01
 	ZOOMi from 2014-05-01 until 2015-02-01
@@ -10986,7 +11028,7 @@ cludden: cludden!users.noreply.github.com
 clux: clux!users.noreply.github.com, sszynrae!gmail.com
 	Cisco until 2017-11-01
 	Independent from 2017-11-01
-clyang82: clyang!cn.ibm.com, clyang82!users.noreply.github.com
+clyang82: clyang!cn.ibm.com, clyang.lucky!gmail.com, clyang82!users.noreply.github.com
 	International Business Machines Corporation
 clydevassallo: clydevassallo!users.noreply.github.com
 	HOB until 2016-11-01
@@ -13671,7 +13713,8 @@ cyrez: m.groebner!me.com
 cyril-corbon: cyril-corbon!users.noreply.github.com
 	CESI Ecole until 2018-07-01
 	Devoteam SA from 2018-07-01 until 2019-10-01
-	CCL CONSULTING from 2019-10-01
+	CCL CONSULTING from 2019-10-01 until 2021-10-01
+	DAILYMOTION SA from 2021-10-01
 cyrilbur-ibm: cyril.bur!au1.ibm.com, cyrilbur!gmail.com
 	NICTA until 2013-12-01
 	International Business Machines Corporation from 2013-12-01 until 2018-03-01
@@ -20775,7 +20818,9 @@ dmvk: dmvk!apache.org, dmvk!users.noreply.github.com
 	Independent from 2017-05-01 until 2018-10-01
 	Seznam.cz a.s. from 2018-10-01
 dmvolod: dmvolod!gmail.com, dmvolod!users.noreply.github.com
-	Red Hat Inc.
+	Red Hat Inc. until 2021-08-01
+	T-Systems from 2021-08-01 until 2022-12-01
+	Apache from 2022-12-01
 dmyerscough: damian.myerscough!gmail.com, dmyerscough!users.noreply.github.com
 	Salesforce.com Inc. until 2015-04-01
 	Uber from 2015-04-01 until 2017-06-01
@@ -21080,7 +21125,8 @@ dolfolife: dolfolife!users.noreply.github.com
 	Pivotal from 2016-05-01 until 2020-01-01
 	VMware Inc. from 2020-01-01
 dolftax: dolftax!users.noreply.github.com, jaipradeesh!gmail.com
-	DoSelect Inc.
+	DoSelect until 2018-09-01
+	DeepSource from 2018-09-01
 dolisss: dolisss!users.noreply.github.com
 	Independent until 2018-07-01
 	BMC from 2018-07-01 until 2020-08-01
@@ -22608,7 +22654,9 @@ dtan4: dtan4!users.noreply.github.com, dtanshi45!gmail.com
 dtaniwaki: daisuketaniwaki!gmail.com, dtaniwaki!users.noreply.github.com
 	Tabelogy until 2014-03-01
 	Kaizen Platform from 2014-03-01 until 2017-03-01
-	Preferred Networks Inc. from 2017-03-01
+	Preferred Networks Inc from 2017-03-01 until 2021-07-01
+	Ubie from 2021-07-01 until 2022-05-01
+	JMDC from 2022-05-01
 dtantsur: dtantsur!redhat.com, dtantsur!users.noreply.github.com
 	Red Hat Inc.
 dtatulea: dragos!endocode.com, dtatulea!users.noreply.github.com
@@ -23051,9 +23099,7 @@ dustyhorizon: dustyhorizon!users.noreply.github.com
 	Grab from 2022-06-01 until 2022-09-01
 	Independent from 2022-09-01 until 2023-01-01
 	ExpressVPN from 2023-01-01
-dustymabe: dusty!dustymabe.com
-	Dusty Mabe
-dustymabe: dustymabe!users.noreply.github.com
+dustymabe: dusty!dustymabe.com, dustymabe!users.noreply.github.com
 	Red Hat Inc.
 dustyrip: dustyrip!users.noreply.github.com, dustyripgh!gmail.com
 	Independent
@@ -23621,54 +23667,3 @@ eagleusb: eagleusb!users.noreply.github.com
 	Optimiz.me from 2016-10-01 until 2017-10-01
 	vente-privee devient Veepee from 2017-10-01 until 2020-01-01
 	Independent from 2020-01-01
-eaglo: eaglo!users.noreply.github.com, michael-k!users.noreply.github.com
-	VMware Inc.
-eahydra: eahydra!users.noreply.github.com
-	Alibaba Group
-eakyildirim: eakyildirim!users.noreply.github.com
-	Independent until 2017-07-01
-	Epigra from 2017-07-01 until 2017-08-01
-	Independent from 2017-08-01 until 2018-09-01
-	Youthall from 2018-09-01 until 2018-11-01
-	ESTIEM from 2018-11-01 until 2019-03-01
-	Trendyol Group from 2019-03-01
-ealataur: ealataur!users.noreply.github.com
-	Yellow until 2014-04-01
-	Krivorukoff from 2014-04-01 until 2015-05-01
-	ViSofts from 2015-05-01 until 2016-04-01
-	XIM from 2016-04-01 until 2018-04-01
-	Independent from 2018-04-01
-ealebed: ealebed!gmail.com, ealebed!users.noreply.github.com
-	ReactorReactor until 2017-01-01
-	Englishdom from 2017-01-01 until 2018-04-01
-	LoopMe from 2018-04-01 until 2022-01-01
-	SoftServe from 2022-01-01
-ealeyner: ealeyner!users.noreply.github.com, eli!aleyner.com
-	VMware Inc. until 2014-07-01
-	LineSix from 2014-07-01 until 2015-01-01
-	VMware Inc. from 2015-01-01
-eallred-google: eallred!google.com, eallred-google!users.noreply.github.com
-	Microsoft Corporation until 2019-03-01
-	Google LLC from 2019-03-01
-ealsur: ealsur!hotmail.com, ealsur!users.noreply.github.com
-	Microsoft Corporation
-eamodio: eamodio!users.noreply.github.com
-	Bettasoft until 2017-10-01
-	ScribbleLive from 2017-10-01 until 2018-04-01
-	New Relic Inc. from 2018-04-01 until 2019-10-01
-	Microsoft Corporation from 2019-10-01 until 2021-10-01
-	GitKraken from 2021-10-01
-eamonnfaherty: eamonnfaherty!users.noreply.github.com
-	HM Revenue and Customs (HMRC) until 2015-01-01
-	Product Madness from 2015-01-01 until 2015-08-01
-	Essence from 2015-08-01 until 2016-08-01
-	King from 2016-08-01 until 2017-02-01
-	QAWorks from 2017-02-01 until 2017-10-01
-	Wowcher from 2017-10-01 until 2018-01-01
-	Amazon from 2018-01-01
-eamonnmcmanus: eamonn!mcmanus.net, eamonnmcmanus!users.noreply.github.com, emcmanus!google.com
-	Google LLC
-eamonnotoole: eamonn.otoole!hpe.com
-	Independent until 2018-01-01
-	Johnson from 2018-01-01 until 2021-03-01
-	Dell from 2021-03-01
