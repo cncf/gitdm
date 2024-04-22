@@ -5,6 +5,18 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+eaftan: eaftan!google.com
+	Google LLC
+eagleshine: huibing.yin!yahoo.com
+	Yahoo! Inc.
+eagletmt: eagletmt!gmail.com, eagletmt!users.noreply.github.com, github!wanko.cc, kohei-suzuki!cookpad.com, pyojoweb!gmail.com
+	Cookpad Inc. (UK)
+eagleusb: eagleusb!users.noreply.github.com
+	VMPath until 2014-12-01
+	CNRS from 2014-12-01 until 2016-10-01
+	Optimiz.me from 2016-10-01 until 2017-10-01
+	vente-privee devient Veepee from 2017-10-01 until 2020-01-01
+	Independent from 2020-01-01
 eaglo: eaglo!users.noreply.github.com, michael-k!users.noreply.github.com
 	VMware Inc.
 eahydra: eahydra!users.noreply.github.com
@@ -2138,6 +2150,13 @@ embs: embs!cin.ufpe.br, embs!users.noreply.github.com
 emccullagh: eugene.mccullagh!bazaarvoice.com
 	Cyber Source until 2020-08-01
 	Bazaarvoice from 2020-08-01
+emcfarlane: emcfarlane!users.noreply.github.com
+	Independent until 2015-11-01
+	Yoyo Wallet from 2015-11-01 until 2016-12-01
+	Ava Security from 2016-12-01 until 2019-03-01
+	Monzo Bank from 2019-03-01 until 2020-07-01
+	Checkout Finland Oy from 2020-07-01 until 2020-11-01
+	McFarlane from 2020-11-01
 emckay: emckay!users.noreply.github.com
 	Independent until 2020-08-01
 	Primer from 2020-08-01
@@ -22556,6 +22575,13 @@ jasonumiker: jasonumiker!users.noreply.github.com
 	Sysdig Inc. from 2022-02-01
 jasonuy: jason.uy!broadcom.com
 	Broadcom Corporation
+jasonviviano: jasonviviano!users.noreply.github.com
+	Independent until 2019-08-01
+	AWS from 2019-08-01 until 2020-08-01
+	Independent from 2020-08-01 until 2021-05-01
+	Microsoft Corporation from 2021-05-01 until 2021-07-01
+	Independent from 2021-07-01 until 2021-11-01
+	Microsoft Corporation from 2021-11-01
 jasonwzm: jasonwzm!gmail.com, jasonwzm!users.noreply.github.com
 	Independent until 2013-06-01
 	Tencent Holdings Limited from 2013-06-01 until 2013-08-01
@@ -23851,33 +23877,3 @@ jeanholidu: jean.vicelli!holidu.com
 	Personio GmbH from 2018-09-01 until 2019-01-01
 	Holidu from 2019-01-01 until 2021-02-01
 	Google LLC from 2021-02-01
-jeanlouisboudart: jeanlouis.boudart!gmail.com
-	Cellfish until 2014-02-01
-	Transatel from 2014-02-01 until 2014-05-01
-	Independent from 2014-05-01 until 2014-06-01
-	Manpower from 2014-06-01 until 2014-07-01
-	Independent from 2014-07-01 until 2014-08-01
-	Sentai from 2014-08-01 until 2015-12-01
-	AXA Financial Inc. from 2015-12-01 until 2017-07-01
-	BNP Paribas from 2017-07-01 until 2017-08-01
-	Independent from 2017-08-01 until 2017-10-01
-	BNP Paribas from 2017-10-01 until 2018-07-01
-	Confluent from 2018-07-01
-jeanralphaviles: jeanralphaviles!users.noreply.github.com
-	Google LLC
-jeastham1993: dev!jameseastham.co.uk
-	World Travel until 2015-07-01
-	fulfilmentcrowd from 2015-07-01 until 2016-03-01
-	Click2Scan from 2016-03-01 until 2017-05-01
-	Sabbatical Break from 2017-05-01 until 2017-12-01
-	Click2Scan from 2017-12-01 until 2018-08-01
-	Workflow Doctor from 2018-08-01 until 2021-09-01
-	AWS from 2021-09-01
-jebbench: jebbench!users.noreply.github.com
-	St Ives plc until 2016-09-01
-	Faber On-demand from 2016-09-01 until 2018-03-01
-	Manx Telecom from 2018-03-01 until 2018-12-01
-	The trustee for Techsols Business Trust from 2018-12-01 until 2019-04-01
-	Route Thirty Six from 2019-04-01
-jebeaudet: jebeaudet!users.noreply.github.com
-	Coveo
