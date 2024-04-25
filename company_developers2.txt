@@ -2,9 +2,6 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
-Bitly Inc.:
-	jehiah: jehiah!gmail.com, luizcastro!gmail.com
-	ploxiln: pierce.lopez!gmail.com until 2014-10-01
 Bitmain:
 	hanahmily: hanahmily!gmail.com from 2018-06-01
 	hanahmily: hanahmily!users.noreply.github.com from 2018-06-01
@@ -4359,8 +4356,7 @@ CNCF:
 	mhamdisemah: mhamdi.semah!gmail.com, mhamdisemah!users.noreply.github.com from 2019-01-01
 	michelleN: michelle!deis.com, michelleN!users.noreply.github.com, michellemolu!gmail.com, minooral!microsoft.com, mnoorali!engineyard.com from 2017-04-01 until 2021-07-01
 	microwavables: microwavables!users.noreply.github.com, nancil!vmware.com from 2018-03-01 until 2020-12-01
-	mikeal: mikeal!users.noreply.github.com from 2015-07-01 until 2017-07-01
-	mikeal: mikeal.rogers!gmail.com from 2015-07-01 until 2017-07-01
+	mikeal: mikeal!users.noreply.github.com, mikeal.rogers!gmail.com from 2015-07-01 until 2017-07-01
 	mikedanese: mikedanese!gmail.com, mikedanese!google.com, mikedanese!users.noreply.github.com from 2018-07-01 until 2023-10-01
 	mitul3737: mitul3737!users.noreply.github.com, shahriyarmitul3737!gmail.com from 2022-02-01
 	mjlodge: git!mathewlodge.com, mjlodge!users.noreply.github.com, ml!lodgephoto.com from 2016-12-01 until 2017-01-01
