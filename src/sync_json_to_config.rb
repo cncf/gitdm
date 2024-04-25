@@ -23,10 +23,12 @@ json_data = JSON.parse File.read 'github_users.json'
 aff_key = 'affiliation'
 a_logins = {}
 a_emails = {}
+uniq_emails = {}
+dup_emails = {}
 json_data.each_with_index do |user, index|
   affiliations = user[aff_key].strip if user.key?(aff_key) and not user[aff_key].nil?
   next if affiliations.nil?or affiliations.empty?
-  next if ['?', '(Robots)', 'Unknown', 'NotFound'].include? affiliations
+  next if ['?', '-', '(Robots)', 'Unknown', 'NotFound', '(Unknown)'].include? affiliations
   login = user['login'].strip
   next if login.nil? or login.empty?
   a_logins[login] = true if all_logins
@@ -41,6 +43,23 @@ json_data.each_with_index do |user, index|
   users[login] << [email, affiliations]
   dusers[dlogin] = [] unless dusers.key?(dlogin)
   dusers[dlogin] << [login, email, affiliations]
+  demail = email.downcase
+  unless uniq_emails.key?(demail)
+    uniq_emails[demail] = login
+  else
+    unless dup_emails.key?(demail)
+      dup_emails[demail] = [uniq_emails[demail], login]
+    else
+      dup_emails[demail] << login
+    end
+  end
+end
+
+dup_emails.each do |email, logins|
+  uniq_emails.delete(email)
+  if dbg
+    puts "warning: downcased email #{email} is not unique, used in those logins: #{logins.join(', ')}"
+  end
 end
 
 emails = {}
@@ -82,10 +101,10 @@ process_list.each do |login|
   dlogin = login.downcase
   mail = ary[1].strip if ary.length > 1 and not ary[1].nil? and not ary[1].empty?
   unless users.key? login
-    puts "#{login} not found in JSON"
+    puts "error: #{login} not found in JSON"
     if dusers.key? dlogin
-      puts "but downcased #{dlogin} found, please use the correct case"
-      puts "found #{dusers[dlogin]}"
+      puts "warning: but downcased #{dlogin} found, please use the correct case"
+      puts "warning: found #{dusers[dlogin]}"
     end
     next
   end
@@ -94,18 +113,24 @@ process_list.each do |login|
   mails = []
   mmails = {}
   data.each do |row|
-    mails << row[0]
-    mmails[row[0]] = true
-    if mail.nil? or row[0] == mail
+    em = row[0]
+    lem = em.downcase
+    if dup_emails.key?(lem)
+      puts "error: downcased email #{em} -> #{lem} configured for in login #{login} maps to multiple logins: #{dup_emails[lem].join(', ')}, cannot update"
+      next
+    end
+    mails << em
+    mmails[em] = true
+    if mail.nil? or em == mail
       affs[row[1]] = true
     end
   end
   if affs.length == 0 
-    puts "#{login} has no affiliations, cannot update"
+    puts "error: #{login} has no affiliations, cannot update"
     next
   end
   if affs.length > 1
-    puts "#{login} has non-unique affiliations, cannot update"
+    puts "error: #{login} has non-unique affiliations, cannot update"
     if dbg
       affs.each_with_index do |a, i|
         puts "##{i+1}) #{a[0]}"
@@ -119,7 +144,7 @@ process_list.each do |login|
     ary[i].strip!
   end
   ary.sort!
-  puts "checking login #{login} for #{mails.join(', ')} having #{ary.join(', ')}" if dbg
+  puts "info: checking login #{login} for #{mails.join(', ')} having #{ary.join(', ')}" if dbg
   mails.each do |mail|
     dmail = mail.downcase
     if !mmails.key?(dmail) and emails.key?(dmail)
@@ -162,12 +187,12 @@ process_list.each do |login|
         changes += 1
         next
       end
-      puts "#{mail} config is OK" if dbg
+      puts "info: #{mail} config is OK" if dbg
     end
   end
 end
 if changes > 0
-  puts "made #{changes} changes"
+  puts "info: made #{changes} changes"
   unless dry
     File.open(email_map, 'w') do |file|
       file.puts "# Here is a set of mappings of domain names onto employer names."
@@ -178,8 +203,8 @@ if changes > 0
         end
       end
     end
-    puts "saved #{email_map}" if dbg
+    puts "info: saved #{email_map}" if dbg
   else
-    puts "not saving because of dry mode"
+    puts "info: not saving because of dry mode"
   end
 end
