@@ -19,7 +19,9 @@ end
 
 users = {}
 dusers = {}
-json_data = JSON.parse File.read 'github_users.json'
+gh_users = ENV['GITHUB_USERS'].nil? ? 'github_users.json' : ENV['GITHUB_USERS']
+email_map = ENV['EMAIL_MAP'].nil? ?  'cncf-config/email-map' : ENV['EMAIL_MAP']
+json_data = JSON.parse File.read gh_users
 aff_key = 'affiliation'
 a_logins = {}
 a_emails = {}
@@ -116,13 +118,13 @@ process_list.each do |login|
     em = row[0]
     lem = em.downcase
     if dup_emails.key?(lem)
-      puts "error: downcased email #{em} -> #{lem} configured for in login #{login} maps to multiple logins: #{dup_emails[lem].join(', ')}, cannot update"
+      puts "error: downcased email #{em} -> #{lem} configured for in login #{login} maps to multiple logins: #{dup_emails[lem].join(', ')}: cannot update"
       next
     end
-    mails << em
-    mmails[em] = true
     if mail.nil? or em == mail
       affs[row[1]] = true
+      mails << em
+      mmails[em] = true
     end
   end
   if affs.length == 0 
@@ -148,19 +150,19 @@ process_list.each do |login|
   mails.each do |mail|
     dmail = mail.downcase
     if !mmails.key?(dmail) and emails.key?(dmail)
-      puts "downcased #{mail} present in config - will be removed"
+      puts "downcased #{mail} (login: #{login}) present in config - will be removed"
       puts "to remove: #{dmail}: #{emails[dmail].sort.join(', ')}"
       emails.delete(dmail)
       changes += 1
     end
     unless emails.key? mail
-      puts "#{mail} was not in config - added"
+      puts "#{mail} (login: #{login}) was not in config - added"
       emails[mail] = ary
       changes += 1
       next
     end
     if emails[mail].length != ary.length
-      puts "#{mail} in config is different than JSON:"
+      puts "#{mail} (login: #{login}) in config is different than JSON:"
       puts "config has: #{emails[mail].sort.join(', ')}"
       puts "JSON   has: #{ary.join(', ')}"
       emails[mail] = ary
@@ -173,7 +175,7 @@ process_list.each do |login|
         cfg = curr[i]
         jso = ary[i]
         unless cfg == jso
-          puts "#{mail} in config is different than JSON for ##{i+1} affiliation:"
+          puts "#{mail} (login: #{login}) in config is different than JSON for ##{i+1} affiliation:"
           puts "JSON   has: #{ary.join(', ')}"
           puts "config has: #{curr.join(', ')}"
           puts "JSON   difference on: #{jso}"
@@ -187,7 +189,7 @@ process_list.each do |login|
         changes += 1
         next
       end
-      puts "info: #{mail} config is OK" if dbg
+      puts "info: #{mail} (login: #{login}) config is OK" if dbg
     end
   end
 end
