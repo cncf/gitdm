@@ -2,10 +2,6 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
-BitSpace:
-	torkelrogstad: atisdale!g.hmc.edu, betgar!163.com, daniel.steven.allen!gmail.com, torkel!rogstad.io, torkelrogstad!users.noreply.github.com from 2017-12-01 until 2018-11-01
-BitStarz Casino:
-	Nikola-Milovic: Nikola-Milovic!users.noreply.github.com from 2023-09-01
 BitTitan:
 	artburkart: artburkart!users.noreply.github.com until 2014-05-01
 	masroorhasan: masroor.hasan.n!gmail.com, masroorhasan!users.noreply.github.com
@@ -4266,7 +4262,6 @@ CNCF:
 	Hashfyre: Hashfyre!users.noreply.github.com, joy.bhattacherjee!gmail.com
 	Hilzygift: Hilzygift!users.noreply.github.com from 2023-03-01 until 2023-06-01
 	IanColdwater: IanColdwater!users.noreply.github.com, ian!coldwater.io from 2020-10-01
-	Iceber: Iceber!user.noreply.github.com, Iceber!users.noreply.github.com, caiwei95!hotmail.com, wei.cai-nat!daocloud.io from 2023-10-01
 	InAnimaTe: InAnimaTe!users.noreply.github.com from 2021-09-01
 	JLLeitschuh: JLLeitschuh!users.noreply.github.com, jonathan.leitschuh!gmail.com from 2023-01-01
 	JimBugwadia: JimBugwadia!users.noreply.github.com from 2020-11-01
@@ -7019,6 +7014,7 @@ CenturyLink:
 	GantzGit: GantzGit!users.noreply.github.com from 2017-11-01 until 2018-04-01
 	HectorGarciaAlvarez: hector.g.alvarez!centurylink.com
 	adamdunstan: adam!acnodal.io, adamdunstan!users.noreply.github.com from 2016-06-01 until 2018-05-01
+	ajwdev: ajwdev!users.noreply.github.com, andrewwi!vmware.com, andrewwilliams!netflix.com, awilliams!intoxitrack.net, williams.andrew!gmail.com from 2016-09-19 until 2017-08-25
 	damieng: damien.guard!auth0.com, damieng!gmail.com, damieng!users.noreply.github.com, foamliu!yeah.net from 2014-08-01 until 2016-01-01
 	dstrebel: dstrebel!users.noreply.github.com, strebeld!gmail.com from 2015-02-01 until 2016-01-01
 	dxande6: dean.anderson2!centurylink.com
@@ -7966,6 +7962,7 @@ CiBO:
 	dickwall: dick!bldc.org, dickwall!users.noreply.github.com, dwall!bldc.org from 2016-02-01
 CiBO Technologies Inc:
 	GiantToast: GiantToast!users.noreply.github.com, ilovebees360!gmail.com from 2017-07-01
+	ajwdev: ajwdev!users.noreply.github.com, andrewwi!vmware.com, andrewwilliams!netflix.com, awilliams!intoxitrack.net, williams.andrew!gmail.com from 2017-08-25 until 2019-06-13
 	khale94: ilovebees360!gmail.com from 2017-07-01
 	rocktavious: ilovebees360!gmail.com from 2017-07-01
 	williamsandrew: awilliams!intoxitrack.net, williams.andrew!gmail.com, williamsandrew!users.noreply.github.com from 2017-08-25 until 2019-06-13
@@ -15959,3 +15956,5 @@ DSI:
 	APTy: APTy!users.noreply.github.com, tjulian!uber.com until 2014-12-01
 	LeoColomb: LeoColomb!users.noreply.github.com, git!colombaro.fr from 2016-02-01 until 2017-04-01
 	afrancoc2000: afrancoc2000!gmail.com, afrancoc2000!users.noreply.github.com from 2020-11-01
+DSI - Ministères sociaux:
+	revolunet: contact!revolunet.com, revolunet!users.noreply.github.com from 2017-10-01

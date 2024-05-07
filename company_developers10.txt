@@ -2,6 +2,14 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+TextNow:
+	asad-awadia: asad-awadia!users.noreply.github.com from 2018-05-01 until 2020-12-01
+	chrisleavoy: chrisleavoy!users.noreply.github.com from 2015-04-01 until 2019-11-01
+	curtbushko: curtbushko!users.noreply.github.com from 2016-07-01 until 2018-03-01
+	midN: andres!andres.wtf, midN!users.noreply.github.com, nolanchan!berkeley.edu from 2018-06-01
+	mlarrousse: mlarrousse!users.noreply.github.com from 2019-10-01
+	nanzhong: nan!notanumber.io, nanzhong!users.noreply.github.com until 2014-05-01
+	rrangith: rrangith!users.noreply.github.com from 2019-01-01 until 2019-04-01
 TextRent:
 	aandis: aandis!users.noreply.github.com, abhishekrm!iitrpr.ac.in until 2015-07-01
 Textplus Inc.:
@@ -6579,6 +6587,7 @@ VMware Inc.:
 	ahuffman: ahuffman!redhat.com, ahuffman!users.noreply.github.com from 2019-12-01
 	aidrees: aalidrees!vmware.com from 2015-08-01
 	ajaykathat: ajay.kathat!microchip.com from 2015-05-01
+	ajwdev: ajwdev!users.noreply.github.com, andrewwi!vmware.com, andrewwilliams!netflix.com, awilliams!intoxitrack.net, williams.andrew!gmail.com from 2019-06-13 until 2024-04-17
 	akashgangil: akash.gangil!outlook.com, akashg1611!gmail.com, akashgangil!users.noreply.github.com
 	akashjain971: akashjain971!gmail.com, akashjain971!users.noreply.github.com from 2021-01-01
 	akhilerm: akhil.mohan!mayadata.io, akhilerm!gmail.com, akhilerm!users.noreply.github.com, makhil!vmware.com from 2022-04-01
@@ -7376,7 +7385,7 @@ VMware Inc.:
 	wenyingd: wenyingd!users.noreply.github.com, wenyingd!vmware.com
 	wfernandes: warren.f.fernandes!gmail.com, wfernandes!pivotal.io, wfernandes!users.noreply.github.com from 2020-01-01 until 2021-03-01
 	wiggitywhitney: whitneyl!vmware.com, whitneyleephotography!gmail.com, wiggitywhitney!gmail.com, wiggitywhitney!users.noreply.github.com
-	williamsandrew: awilliams!intoxitrack.net, williams.andrew!gmail.com, williamsandrew!users.noreply.github.com from 2019-06-13
+	williamsandrew: awilliams!intoxitrack.net, williams.andrew!gmail.com, williamsandrew!users.noreply.github.com from 2019-06-13 until 2024-04-17
 	williamtu: u9012063!gmail.com from 2015-12-01
 	wilsonehusin: 14004487+wilsonehusin!users.noreply.github.com, whusin!vmware.com, wilson!husin.dev, wilsonehusin!gmail.com, wilsonehusin!users.noreply.github.com from 2019-12-01 until 2022-07-08
 	wknet123: kunw!vmware.com, wknet123!gmail.com, wknet123!users.noreply.github.com
@@ -10294,6 +10303,8 @@ WIDE IO:
 	bnouvelbmll: bnouvelbmll!users.noreply.github.com until 2018-01-01
 WIFFme:
 	lukasertl: lukas.ertl!gmail.com from 2020-07-01
+WIIT:
+	kbudde: kbudde!users.noreply.github.com, kris!budd.ee, kris.budde!gmail.com from 2024-03-31
 WIKANGO:
 	Vampouille: Vampouille!users.noreply.github.com, julien.acroute!camptocamp.com until 2014-11-01
 WILDFLΛMΞ:
@@ -11061,8 +11072,6 @@ WeBuyCars:
 	ascendedco: ascendedco!users.noreply.github.com from 2020-12-01
 WeChall:
 	demonCoder95: demonCoder95!users.noreply.github.com from 2018-08-01 until 2019-06-01
-WeChat IT散修:
-	likakuli: 1154584512!qq.com, likakuli!users.noreply.github.com
 WeDevelop:
 	arielpacciaroni: arielpacciaroni!users.noreply.github.com from 2021-07-01 until 2021-12-01
 WeDo:
@@ -16221,15 +16230,3 @@ Zoomicon:
 	birbilis: birbilis!users.noreply.github.com
 Zoondka:
 	leblowl: lucasleblow!mailbox.org from 2015-06-01 until 2016-05-01
-Zoono:
-	takp: takp!users.noreply.github.com until 2021-04-01
-Zoop:
-	TalissonBento: TalissonBento!users.noreply.github.com, talisson.dev!gmail.com from 2021-02-01
-	viniciusfs: viniciusfs!gmail.com from 2017-10-01 until 2021-04-01
-Zoopla:
-	jameswoodley: jameswoodley!users.noreply.github.com from 2019-11-01 until 2021-04-01
-	wooderz: wooderz!users.noreply.github.com from 2019-11-01 until 2021-04-01
-Zoosk:
-	danielhoherd: daniel.hoherd!gmail.com, danielhoherd!users.noreply.github.com, mail!h3po.de until 2015-10-01
-	keithkroeger: keithkroeger!users.noreply.github.com until 2020-01-01
-	mmikowski: mmikowski!users.noreply.github.com, z_mikowski!yahoo.com from 2014-10-01 until 2015-01-01

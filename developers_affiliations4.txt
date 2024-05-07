@@ -5,6 +5,33 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+dweitzman-codaio: dweitzman-codaio!users.noreply.github.com
+	Google LLC until 2017-07-01
+	Pinterest Inc. from 2017-07-01 until 2022-01-01
+	Coda Platform from 2022-01-01
+dwelch-spike: dwelch-spike!users.noreply.github.com
+	Aerospike
+dwelch2344: david!davidwelch.co, dwelch2344!users.noreply.github.com
+	Maëlle
+dweomer: dweomer!users.noreply.github.com
+	Forever Living.com L.L.C. until 2015-02-01
+	Parchment from 2015-02-01 until 2017-07-01
+	Intel Corporation from 2017-07-01 until 2019-08-01
+	Rancher Labs Inc. from 2019-08-01 until 2020-12-01
+	SUSE LLC from 2020-12-01
+dwerder: dwerder!users.noreply.github.com
+	Motor-Talk until 2015-11-01
+	Lautsprecher from 2015-11-01 until 2017-11-01
+	DCSO Deutsche Cyber-Sicherheitsorganisation from 2017-11-01 until 2018-05-01
+	Cyren from 2018-05-01 until 2021-06-01
+	DKB from 2021-06-01
+dwertent: 64066841+dwertent!users.noreply.github.com, dwertent!armosec.io, dwertent!cyberarmor.io, dwertent!users.noreply.github.com
+	L&T Infotech until 2018-12-01
+	ARMO from 2018-12-01
+dwery: a.zummo!towertech.it
+	Tower Technologies
+dwhiteddsoft: davwhite!microsoft.com, dwhiteddsoft!users.noreply.github.com
+	Microsoft Corporation
 dwhitena: dwhitena!users.noreply.github.com
 	Marshall until 2015-05-01
 	Telnyx from 2015-05-01 until 2016-06-01
@@ -3232,7 +3259,7 @@ erandiganepola: erandiganepola!gmail.com, erandiganepola!users.noreply.github.co
 	Independent from 2014-12-01 until 2015-11-01
 	WSO2 Inc. from 2015-11-01 until 2016-02-01
 	Independent from 2016-02-01 until 2016-11-01
-	Huawei from 2016-11-01 until 2016-12-01
+	Huawei Technologies Co. Ltd from 2016-11-01 until 2016-12-01
 	e Apache from 2016-12-01 until 2018-02-01
 	WSO2 Inc. from 2018-02-01
 eranra: eran.raichstein!gmail.com
@@ -6622,7 +6649,7 @@ fishilico: nicolas.iooss!m4x.org, nicolas.iooss_linux!m4x.org
 fishseabowl: fishseabowl!users.noreply.github.com, xuefeih!jfrog.com
 	Independent until 2018-01-01
 	Fujitsu Limited from 2018-01-01 until 2018-03-01
-	Huawei from 2018-03-01 until 2019-09-01
+	Huawei Technologies Co. Ltd from 2018-03-01 until 2019-09-01
 	Independent from 2019-09-01 until 2021-12-01
 	JFrog from 2021-12-01
 fiskeben: fiskeben!users.noreply.github.com, ricco!apparat.no
@@ -14300,7 +14327,7 @@ hanqingl: hanqingliu!google.com
 	Google LLC
 hanqiuzh: hanzhang!redhat.com
 	Independent until 2017-07-01
-	Huawei from 2017-07-01 until 2018-08-01
+	Huawei Technologies Co. Ltd from 2017-07-01 until 2018-08-01
 	Independent from 2018-08-01 until 2019-07-01
 	Tencent from 2019-07-01 until 2020-01-01
 	Independent from 2020-01-01 until 2021-03-01
@@ -14370,9 +14397,9 @@ hanwgyu: han.wgyu!gmail.com, hanwgyu!users.noreply.github.com
 	Independent until 2018-02-01
 	TmaxSoft Inc. from 2018-02-01 until 2020-01-01
 	Naver Corporation from 2020-01-01
-hanxiaop: hanxiaop!google.com, hanxiaop!usc.edu, hanxiaop!users.noreply.github.com, hanxiaop8!gmail.com, hanxiaop8!outlook.com, michael.han!daocloud.io, xiaopeng.han-iog!daocloud.io, xiaopeng!akuity.io
+hanxiaop: hanxiaop!google.com, hanxiaop!usc.edu, hanxiaop!users.noreply.github.com, hanxiaop8!gmail.com, hanxiaop8!outlook.com, michael.han!daocloud.io, xiaopeng!akuity.io, xiaopeng.han-iog!daocloud.io
+	Independent until 2021-03-08
 	DaoCloud Network Technology Co. Ltd. from 2021-03-08 until 2024-05-05
-	Akuity Inc. from 2024-05-06
 hanxiaoshuai: 30897305+hanxiaoshuai!users.noreply.github.com, hangaoshuai1!huawei.com, hanxiaoshuai!users.noreply.github.com
 	Huawei Technologies Co. Ltd
 hanxie-crypto: hanxie-crypto!users.noreply.github.com, hanxie.wq!alibaba-inc.com
@@ -14381,7 +14408,7 @@ hany: hany!vmfarms.com
 	VM Farms
 hao1939: hao1939!users.noreply.github.com
 	Oracle America Inc. until 2017-03-01
-	Huawei from 2017-03-01 until 2018-05-01
+	Huawei Technologies Co. Ltd from 2017-03-01 until 2018-05-01
 	Microsoft Corporation from 2018-05-01
 haoch: haoch!users.noreply.github.com
 	eBay Inc.
@@ -17084,7 +17111,7 @@ hshitomi: hshitomi!users.noreply.github.com
 	Hitachi Vantara LLC
 hsiangkao: boatwind!gmail.com, hsiangkao!aol.com, hsiangkao!users.noreply.github.com
 	Independent until 2016-07-01
-	Huawei from 2016-07-01 until 2020-04-01
+	Huawei Technologies Co. Ltd from 2016-07-01 until 2020-04-01
 	Red Hat Inc. from 2020-04-01 until 2021-05-01
 	Alibaba Group from 2021-05-01
 hsiehwt: wen.hsieh!broadcom.com
@@ -17834,7 +17861,7 @@ iXinqi: iXinqi!users.noreply.github.com
 	Independent from 2016-08-01 until 2017-01-01
 	GENEO from 2017-01-01 until 2017-09-01
 	Independent from 2017-09-01 until 2020-06-01
-	Huawei from 2020-06-01 until 2020-08-01
+	Huawei Technologies Co. Ltd from 2020-06-01 until 2020-08-01
 	Independent from 2020-08-01 until 2022-08-01
 	X-Chem from 2022-08-01
 iabudiab: iabudiab!users.noreply.github.com
@@ -22808,7 +22835,7 @@ jasminejaksic-zz: jaksic!google.com
 jasminetMSFT: jasminetMSFT!users.noreply.github.com
 	Independent until 2020-10-01
 	Articence from 2020-10-01 until 2020-12-01
-	Huawei from 2020-12-01 until 2022-07-01
+	Huawei Technologies Co. Ltd from 2020-12-01 until 2022-07-01
 	Microsoft Corporation from 2022-07-01
 jasoares: jaisoares!gmail.com, jasoares!users.noreply.github.com
 	Liquid until 2016-05-01
@@ -23862,35 +23889,3 @@ jchu314atgithub: jane.chu!oracle.com
 	Oracle America Inc.
 jchunkins: jchunkins!users.noreply.github.com
 	International Business Machines Corporation
-jchv: jchv!users.noreply.github.com, johnwchadwick!gmail.com
-	Benzinga
-jcjesus: jcjesus!users.noreply.github.com, mainjesus!gmail.com
-	Supero until 2014-10-01
-	AGM Telecom from 2014-10-01 until 2015-05-01
-	Independent from 2015-05-01 until 2015-09-01
-	Suntech from 2015-09-01 until 2018-03-01
-	Pixeon from 2018-03-01 until 2018-11-01
-	Independent from 2018-11-01 until 2019-01-01
-	Fountainledge from 2019-01-01 until 2019-10-01
-	Independent from 2019-10-01 until 2020-01-01
-	Ilog from 2020-01-01 until 2020-08-01
-	BRQ Digital from 2020-08-01 until 2021-01-01
-	Redspark from 2021-01-01 until 2021-10-01
-	AgileThought from 2021-10-01 until 2022-07-01
-	AgileThought from 2022-07-01 until 2023-09-01
-	Independent from 2023-09-01 until 2023-12-01
-	GFT Technologies from 2023-12-01
-jck: jck!users.noreply.github.com
-	Independent until 2017-04-01
-	Swift Navigation from 2017-04-01 until 2018-09-01
-	Independent from 2018-09-01 until 2018-11-01
-	Peloton Interactive from 2018-11-01
-jck-ccl: 252532774!qq.com, james.keogh!cambridgeconsultants.com, jck-ccl!users.noreply.github.com
-	Cambridge Consultants
-jckasper: jckasper!us.ibm.com, jckasper!users.noreply.github.com
-	International Business Machines Corporation
-jclanoe: contact!lanoe.me, jclanoe!users.noreply.github.com
-	StarMaker until 2015-12-01
-	Koalike from 2015-12-01
-jcmackie: jc.mackie!gmail.com
-	Atlassian

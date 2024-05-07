@@ -2,8 +2,6 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
-DSI - Ministères sociaux:
-	revolunet: contact!revolunet.com, revolunet!users.noreply.github.com from 2017-10-01
 DSI of Pôle Emploi:
 	chleroy: christophe.leroy!c-s.fr until 2016-03-01
 	guillaumBrisard: guillaumBrisard!users.noreply.github.com from 2015-01-01 until 2019-03-01, from 2019-07-01
@@ -426,6 +424,7 @@ DaoCloud Network Technology Co. Ltd.:
 	BinL233: 835741923!qq.com, BinL233!users.noreply.github.com from 2023-05-01 until 2023-08-01
 	BingGuanqi: BingGuanqi!users.noreply.github.com
 	Carlory: Carlory!users.noreply.github.com, baofa.fan!daocloud.io
+	Catherine-monk: Catherine-monk!users.noreply.github.com, lingyu.hou!daocloud.io
 	CharlesLvw: 17763040192!163.com, CharlesLvw!users.noreply.github.com
 	Coderhypo: Coderhypo!users.noreply.github.com
 	ErikJiang: ErikJiang!users.noreply.github.com, bo.jiang!daocloud.io
@@ -436,6 +435,7 @@ DaoCloud Network Technology Co. Ltd.:
 	HeavenTonight: HeavenTonight!users.noreply.github.com
 	HuiWang0025: 39937150+huiwang0025!users.noreply.github.com, HuiWang0025!users.noreply.github.com
 	Icarus9913: Icarus9913!users.noreply.github.com, icaruswu66!qq.com from 2021-09-01
+	Iceber: Iceber!user.noreply.github.com, Iceber!users.noreply.github.com, caiwei95!hotmail.com, wei.cai-nat!daocloud.io from 2019-12-03
 	JaredTan95: JaredTan95!users.noreply.github.com, jian.tan!daocloud.io
 	JiaweiGithub: JiaweiGithub!users.noreply.github.com, jiawei.liu!daocloud.io
 	JoeWrightss: 42261994+joewrightss!users.noreply.github.com, JoeWrightss!users.noreply.github.com, zhoulin.xie!daocloud.io
@@ -490,7 +490,7 @@ DaoCloud Network Technology Co. Ltd.:
 	gq94205: 32254120+gq94205!users.noreply.github.com, gq94205!users.noreply.github.com
 	gssjl2008: gssjl2008!users.noreply.github.com
 	hangscer8: hangscer8!users.noreply.github.com
-	hanxiaop: hanxiaop!google.com, hanxiaop!usc.edu, hanxiaop!users.noreply.github.com, hanxiaop8!gmail.com, hanxiaop8!outlook.com, michael.han!daocloud.io, xiaopeng.han-iog!daocloud.io
+	hanxiaop: hanxiaop!google.com, hanxiaop!usc.edu, hanxiaop!users.noreply.github.com, hanxiaop8!gmail.com, hanxiaop8!outlook.com, michael.han!daocloud.io, xiaopeng!akuity.io, xiaopeng.han-iog!daocloud.io from 2021-03-08 until 2024-05-05
 	heliping: heliping!users.noreply.github.com, liping.he!daocloud.io
 	huan555: huan555!users.noreply.github.com
 	huangjiuyuan: huangjiuyuan!163.com, huangjiuyuan!users.noreply.github.com, jiuyuan.huang!daocloud.io, stian.bay!outlook.com from 2017-05-01 until 2018-09-01
@@ -556,6 +556,7 @@ DaoCloud Network Technology Co. Ltd.:
 	zgfh: zg.zhu!daocloud.io, zgfh!users.noreply.github.com, zzg!daozzg.com
 	zhaosimon: zhaosimon!users.noreply.github.com
 	zhe: neomana!gmail.com
+	zhiyingfang2022: zhiying.fan!daocloud.io, zhiyingfang2022!users.noreply.github.com
 	zhouya0: zhouya0!users.noreply.github.com
 	zjcomeon: 159109799!qq.com, zhenjia.wang!daocloud.io, zjcomeon!users.noreply.github.com
 	zqm19941101: qinmou.zhang!daocloud.io, zqm19941101!users.noreply.github.com
@@ -7384,6 +7385,7 @@ Elasticsearch Inc.:
 	aleksmaus: aleksandr.maus!elastic.co, aleksmaus!users.noreply.github.com from 2019-10-01
 	alvarolobato: alvarolobato!gmail.com from 2018-02-01
 	andrewkroh: andrew.kroh!elastic.co, andrewkroh!users.noreply.github.com
+	andrzej-stencel: andrzej-stencel!users.noreply.github.com, andrzej.stencel!elastic.co from 2024-05-06
 	anyasabo: anyasabo!users.noreply.github.com from 2019-05-01 until 2022-01-20
 	aravindputrevu: aravindputrevu!users.noreply.github.com from 2017-11-01 until 2022-11-15
 	athre0z: athre0z!users.noreply.github.com, joel!elastic.co, joel.honer!elastic.co
@@ -7454,6 +7456,7 @@ Elasticsearch Inc.:
 	reakaleek: jan.calanog!elastic.co, nejcalanog!gmail.com, reakaleek!users.noreply.github.com from 2022-12-01
 	rhass: rhass!users.noreply.github.com from 2019-04-01
 	rockdaboot: rockdaboot!users.noreply.github.com, tim!optimyze.cloud, tim.ruehsen!gmx.de, tim.ruhsen!elastic.co  from 2021-11-01
+	rogercoll: roger.coll!elastic.co, rogercoll!protonmail.com, rogercoll!users.noreply.github.com from 2024-05-05
 	roncohen: cohen1!gmail.com, ron!elastic.co, roncohen!users.noreply.github.com from 2017-04-01 until 2020-11-30
 	ruflin: ruflin!elastic.co, ruflin!users.noreply.github.com, spam!ruflin.com
 	sakurai-youhei: sakurai-youhei!users.noreply.github.com, sakurai.youhei!gmail.com from 2021-04-01
@@ -14864,6 +14867,8 @@ GE Research:
 	McCodeman: McCodeman!users.noreply.github.com until 2015-11-01
 GE Transportation:
 	mitchnielsen: mitchnielsen!users.noreply.github.com from 2015-05-01 until 2020-03-01
+GEC:
+	kbudde: kbudde!users.noreply.github.com, kris!budd.ee, kris.budde!gmail.com from 2021-10-31 until 2024-03-31
 GEEKAY INFOTECH:
 	aadi58002: aadi58002!users.noreply.github.com from 2017-08-01 until 2018-10-01
 GEFCO SA:
@@ -16511,65 +16516,3 @@ Gira Giersiepen:
 	niko-achilles: niko-achilles!users.noreply.github.com, niko.achilles.kokkinos!gmail.com until 2016-08-01
 Girl Develop:
 	lorenanicole: me!lorenamesa.com from 2014-03-01 until 2018-06-01
-GirlScript Foundation:
-	03amir: as2437!it.jgec.ac.in from 2022-03-01
-	1Shubham7: 1Shubham7!users.noreply.github.com from 2023-05-01 until 2023-08-01
-	ADITYADAS1999: ADITYADAS1999!users.noreply.github.com from 2022-03-01
-	Abinash-bit: Abinash-bit!users.noreply.github.com from 2022-11-01 until 2023-01-01
-	Aman-Codes: Aman-Codes!users.noreply.github.com from 2020-03-01 until 2020-05-01
-	AmanSarraf: AmanSarraf!users.noreply.github.com from 2022-04-01 until 2022-05-01
-	AnirudhBot: AnirudhBot!users.noreply.github.com from 2021-09-01 until 2021-11-01
-	AnirudhPanda: AnirudhPanda!users.noreply.github.com, anirudhpandaofficial!gmail.com from 2020-12-01 until 2021-08-01
-	Anosh21: Anosh21!users.noreply.github.com, anoshbhakare064!gmail.com from 2022-03-01
-	Anujakumari: Anujakumari!users.noreply.github.com from 2021-08-01 until 2021-11-01
-	ArslanYM: ArslanYM!users.noreply.github.com from 2023-05-01 until 2023-07-01
-	Chadha93: Chadha93!users.noreply.github.com from 2021-03-01 until 2021-05-01
-	DARK-art108: DARK-art108!users.noreply.github.com, daydreamingguy941!gmail.com from 2021-01-01 until 2021-06-01
-	DhairyaBahl: DhairyaBahl!users.noreply.github.com, dhairyabahl5!gmail.com from 2021-02-01 until 2021-05-01
-	GaganpreetKaurKalsi: gagansinghkalsi4126!gmail.com from 2022-02-01 until 2022-05-01
-	GeniusLearner: GeniusLearner!users.noreply.github.com from 2020-02-01 until 2020-05-01
-	HetviSoni: HetviSoni!users.noreply.github.com from 2022-03-01 until 2022-05-01
-	Himanshu664: Himanshu664!users.noreply.github.com from 2021-09-01 until 2021-11-01, from 2022-03-01 until 2022-05-01
-	Jassi10000: Jassi10000!users.noreply.github.com, jaskeerat10000!gmail.com from 2021-02-01 until 2021-05-01
-	MitAbhay: MitAbhay!users.noreply.github.com from 2021-12-01 until 2022-05-01
-	Mohiit70: mail.mohitbisht!gmail.com from 2023-05-02 until 2023-08-01
-	MonarchGitHub: MonarchGitHub!users.noreply.github.com from 2022-03-01 until 2022-05-01
-	NEERAJAP2001: NEERAJAP2001!users.noreply.github.com from 2021-02-01
-	Polokghosh53: Polokghosh53!users.noreply.github.com from 2021-02-01 until 2021-06-01
-	Prakhar-Shankar: Prakhar-Shankar!users.noreply.github.com from 2023-05-01
-	SAEb-ai: shahbazalam75508!gmail.com from 2021-02-01
-	ShivangRawat30: ShivangRawat30!users.noreply.github.com from 2023-05-01 until 2023-07-01
-	Shreya111111: shreyanalawade882!gmail.com from 2023-05-01
-	Susmita-Dey: susmitadey475!gmail.com from 2022-02-01
-	Vikash-8090-Yadav: Vikash-8090-Yadav!users.noreply.github.com, yadav621gzp!gmail.com from 2023-08-01
-	abhilipsasahoo03: abhilipsasahoo03!gmail.com, abhilipsasahoo03!users.noreply.github.com from 2022-03-01 until 2022-06-01
-	abhinay99190: abhinay99190!users.noreply.github.com from 2022-01-01
-	akhilender-bongirwar: akhilender-bongirwar!users.noreply.github.com from 2023-05-01 until 2023-08-01
-	akshitagupta15june: akshitagupta15june!users.noreply.github.com from 2021-03-01 until 2021-06-01
-	arunkarthicknm: arunkarthicknm!gmail.com from 2021-08-01
-	avinal: avinal!users.noreply.github.com, avinal.xlvii!gmail.com from 2021-02-01 until 2021-03-01
-	budhirajamadhav: budhirajamadhav!users.noreply.github.com, madhavbudhiraja131!gmail.com from 2021-02-01 until 2021-03-01
-	codekid20: adityakumar09!outlook.com from 2020-01-01 until 2020-02-01
-	coder12git: coder12git!users.noreply.github.com, suruchikumarimfp4!gmail.com from 2023-06-01 until 2023-08-01
-	dishantsethi: dishantsethi!users.noreply.github.com, dishantsethi14!gmail.com from 2019-03-01 until 2019-05-01
-	gunjanmimo: gunjanmimo!users.noreply.github.com from 2020-03-01 until 2020-05-01
-	harshitasao: harshitasao!users.noreply.github.com from 2022-04-01 until 2022-05-01
-	iamrajiv: gamerscomplete!gmail.com, iamrajiv!users.noreply.github.com, rajivperfect007!gmail.com from 2020-03-01 until 2020-05-01
-	imskr: imskr!users.noreply.github.com, shubhamkrai123!gmail.com from 2019-03-01 until 2019-05-01
-	mharshita: manglaharshita!gmail.com from 2020-06-01 until 2020-08-01
-	neel229: neel229!users.noreply.github.com from 2021-02-01 until 2021-05-01
-	octonawish-akcodes: octonawish-akcodes!users.noreply.github.com from 2022-02-01 until 2022-06-01
-	osamamagdy: osamamagdy!users.noreply.github.com from 2021-03-01 until 2021-05-01
-	ramessesii2: RAMESSESII2!users.noreply.github.com, sabhardw!redhat.com from 2021-09-01 until 2021-11-01
-	rdpravin1895: rdpravin1895!users.noreply.github.com from 2021-11-01
-	sayantani11: ii.sayantani.ii!gmail.com, sayantani11!users.noreply.github.com from 2021-03-01 until 2021-05-01
-	shahkv95: shahkv95!users.noreply.github.com from 2019-04-01 until 2019-05-01
-	shreyagupta30: shreyagupta30!users.noreply.github.com, shreyagupta3011!gmail.com from 2019-03-01 until 2019-05-01
-	sidmohanty11: sidmohanty11!gmail.com from 2021-03-01 until 2021-06-01
-	sourabh1031: i.guezennec!gmail.com, sourabh1031!users.noreply.github.com, sourabhpruthi10!gmail.com from 2018-10-01
-	spy-1234: spy-1234!users.noreply.github.com from 2021-09-01
-	tanayvaswani: tanayvaswani!users.noreply.github.com from 2023-05-01 until 2023-06-01
-	tend2infinity: tend2infinity!users.noreply.github.com from 2021-03-01 until 2021-05-01
-	theBeginner86: pranavsingh02!hotmail.com from 2021-03-01 until 2021-05-01
-	vaibhav-xt: vaibhav-xt!users.noreply.github.com from 2023-05-01 until 2023-09-01
-	yati1998: yati1998!users.noreply.github.com, ypadia!redhat.com from 2019-03-01 until 2019-05-01

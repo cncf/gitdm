@@ -5,6 +5,18 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+SAtacker: SAtacker!users.noreply.github.com
+	Independent
+SBhat35: sachit.s.bhat!vanderbilt.edu
+	VandyApps until 2016-05-01
+	Independent from 2016-05-01 until 2016-06-01
+	DICK'S from 2016-06-01 until 2016-08-01
+	Independent from 2016-08-01 until 2017-05-01
+	ON.Lab from 2017-05-01 until 2017-08-01
+	Independent from 2017-08-01 until 2019-06-01
+	Deloitte New Zealand from 2019-06-01
+SBurrows-villatech: sburrows!villa-technologies.com
+	Cisco
 SCLogo: SCLogo!users.noreply.github.com
 	Silverfrog Kft until 2014-07-01
 	OPSWAT from 2014-07-01 until 2019-10-01
@@ -1256,7 +1268,7 @@ Shohou: Shohou!users.noreply.github.com
 	28Stone from 2017-07-01 until 2020-06-01
 	ABC from 2020-06-01
 Shoothzj: Shoothzj!users.noreply.github.com, shoothzj!gmail.com
-	Huawei
+	Huawei Technologies Co. Ltd
 Shorla: Shorla!users.noreply.github.com
 	Independent until 2021-12-01
 	Outreachy from 2021-12-01 until 2022-03-01
@@ -2568,7 +2580,7 @@ SwanSpouse: SwanSpouse!users.noreply.github.com, li_mingji!126.com
 Swapnil-Khilariwal: Swapnil-Khilariwal!users.noreply.github.com
 	Central Electronics Limited until 2014-06-01
 	Independent from 2014-06-01 until 2015-05-01
-	Huawei from 2015-05-01 until 2015-07-01
+	Huawei Technologies Co. Ltd from 2015-05-01 until 2015-07-01
 	Independent from 2015-07-01 until 2016-07-01
 	Dell from 2016-07-01 until 2020-07-01
 	Standard Chartered Bank from 2020-07-01
@@ -3364,7 +3376,7 @@ Thomasr-02: Thomasr-02!users.noreply.github.com
 ThomsonTan: lilotom!gmail.com
 	Microsoft Corporation
 Thor-wl: 13164644535!163.com, Thor-wl!users.noreply.github.com
-	Huawei
+	Huawei Technologies Co. Ltd
 ThorstenHans: ThorstenHans!users.noreply.github.com
 	ExpertsInside until 2015-05-01
 	Thinktecture AG from 2015-05-01
@@ -3651,7 +3663,7 @@ TomerWeisberg: tomerw!microsoft.com
 TommyCpp: TommyCpp!users.noreply.github.com, zhongyang.wu!outlook.com
 	Independent
 TommyLike: TommyLike!users.noreply.github.com, tommylikehu!gmail.com
-	Huawei
+	Huawei Technologies Co. Ltd
 TommyStarK: TommyStarK!users.noreply.github.com, thomasmilox!gmail.com
 	GAMOLOCO until 2016-12-01
 	Link The World from 2016-12-01 until 2018-03-01
@@ -5533,7 +5545,7 @@ XudongLiuHarold: XudongLiuHarold!users.noreply.github.com, xudongliuharold!gmail
 	VMware Inc. from 2019-07-01
 XuejiaoZhang: XuejiaoZhang!users.noreply.github.com
 	Bawei until 2015-08-01
-	JD.COM from 2015-08-01 until 2017-06-01
+	Jd.Com from 2015-08-01 until 2017-06-01
 	Rakuten from 2017-06-01 until 2019-01-01
 	AWS from 2019-01-01
 Xunil32: tommy.dimitrio!gmail.com
@@ -7199,7 +7211,7 @@ abejide001: abejide001!users.noreply.github.com, abejidefemi1!gmail.com
 	Independent from 2019-09-01 until 2019-11-01
 	Tek Experts from 2019-11-01
 abel-von: abel-von!users.noreply.github.com
-	Huawei
+	Huawei Technologies Co. Ltd
 abelal: awais_belal!mentor.com
 	Mentor Graphics Corporation
 abelal83: abelal83!users.noreply.github.com
@@ -8214,7 +8226,7 @@ adalga: adalga!users.noreply.github.com
 adalrsjr1: adalrsjr1!users.noreply.github.com
 	Independent until 2019-11-01
 	International Business Machines Corporation from 2019-11-01 until 2021-11-01
-	Huawei from 2021-11-01
+	Huawei Technologies Co. Ltd from 2021-11-01
 adalton: 751263+adalton!users.noreply.github.com, adalton!users.noreply.github.com
 	Sysdig Inc.
 adam-26: adam-26!users.noreply.github.com
@@ -10903,12 +10915,12 @@ ajstephens: allan.stephens!windriver.com
 	Wind River Systems Inc.
 ajvb: aj!ajvb.me
 	Mozilla Corporation
-ajwdev: andrewwilliams!netflix.com, andrewwi!vmware.com, awilliams!intoxitrack.net, williams.andrew!gmail.com, williamsandrew!users.noreply.github.com
+ajwdev: ajwdev!users.noreply.github.com, andrewwi!vmware.com, andrewwilliams!netflix.com, awilliams!intoxitrack.net, williams.andrew!gmail.com
 	Intoximeters Inc until 2016-09-19
 	CenturyLink from 2016-09-19 until 2017-08-25
 	CiBO Technologies Inc from 2017-08-25 until 2019-06-13
 	VMware Inc. from 2019-06-13 until 2024-04-17
-	Netflix Inc. from 2024-04-29
+	Netflix Inc. from 2024-04-17
 ajwock: ajwock!gmail.com, ajwock!users.noreply.github.com
 	Independent until 2018-06-01
 	Windsor Point Retirement Community from 2018-06-01 until 2018-08-01
@@ -13184,7 +13196,7 @@ algobot76: kaitian96!outlook.com
 	Independent from 2019-04-01 until 2019-08-01
 	Aupera from 2019-08-01 until 2020-03-01
 	Independent from 2020-03-01 until 2021-07-01
-	Huawei from 2021-07-01
+	Huawei Technologies Co. Ltd from 2021-07-01
 alhafoudh: alhafoudh!freevision.sk, alhafoudh!users.noreply.github.com
 	freevision
 alhazred: a.eremin!nexenta.com
@@ -15214,9 +15226,9 @@ andaziar: miran.andaziar!gmail.com
 andbaraks: andbaraks!users.noreply.github.com
 	Independent until 2016-06-01
 	Independent from 2016-06-01 until 2017-05-01
-	Huawei from 2017-05-01 until 2018-07-01
+	Huawei Technologies Co. Ltd from 2017-05-01 until 2018-07-01
 	Ericsson from 2018-07-01 until 2019-11-01
-	Huawei from 2019-11-01 until 2020-04-01
+	Huawei Technologies Co. Ltd from 2019-11-01 until 2020-04-01
 	Independent from 2020-04-01 until 2020-06-01
 	Microsoft Corporation from 2020-06-01
 andbuitra: and.buitra!gmail.com, andbuitra!users.noreply.github.com
@@ -16130,6 +16142,9 @@ andrusstrockiy: andrusstrockiy!users.noreply.github.com
 andrzej-kaczmarek: andrzej.kaczmarek!codecoup.pl
 	TietoEVRY until 2015-07-01
 	Codecoup from 2015-07-01
+andrzej-stencel: andrzej-stencel!users.noreply.github.com, andrzej.stencel!elastic.co
+	Independent until 2024-05-06
+	Elasticsearch Inc. from 2024-05-06
 andschwa: andrew!schwartzmeyer.com, andschwa!microsoft.com, jonathan!crem.in
 	Microsoft Corporation
 andsens: anders!ingemann.de, andsens!users.noreply.github.com, zarathonmaia!gmail.com
@@ -19438,7 +19453,7 @@ artmello: amello!redhat.com, arthur.mello85!gmail.com, artmello!users.noreply.gi
 	Qume from 2019-05-01
 artqzn: artqzn!users.noreply.github.com
 	Samsung Electronics Co. Ltd. until 2020-03-01
-	Huawei from 2020-03-01
+	Huawei Technologies Co. Ltd from 2020-03-01
 artur-baltabayev: Artur.Baltabayev!bosch.io
 	Independent until 2018-05-01
 	Bosch from 2018-05-01
@@ -20308,7 +20323,7 @@ asierHuawei: asierHuawei!users.noreply.github.com
 	MegaLabs from 2016-06-01 until 2019-10-01
 	Nlogic Russia from 2019-10-01 until 2021-06-01
 	Intel Corporation from 2021-06-01 until 2022-09-01
-	Huawei from 2022-09-01
+	Huawei Technologies Co. Ltd from 2022-09-01
 asifalix: asifalix!users.noreply.github.com
 	Reduce until 2015-08-01
 	Snapdeal from 2015-08-01 until 2017-10-01
@@ -23713,36 +23728,3 @@ bedla: bedla!users.noreply.github.com
 	PwC from 2021-04-01
 bedwards: bedwards!atlassian.com
 	Atlassian
-beeant: beeant!users.noreply.github.com
-	CyberAgent Inc. until 2014-03-01
-	Independent from 2014-03-01 until 2018-01-01
-	New Art Technology from 2018-01-01 until 2018-04-01
-	Speee from 2018-04-01 until 2019-01-01
-	MMX JAPAN株式会社 from 2019-01-01 until 2019-04-01
-	QRC Group from 2019-04-01 until 2020-01-01
-	STANDAGE from 2020-01-01
-beef9999: beef9999!users.noreply.github.com
-	美团-大众点评
-beefyamoeba5: beefyamoeba5!users.noreply.github.com, lvjing5!huawei.com
-	Independent until 2016-03-01
-	Huawei from 2016-03-01 until 2020-10-01
-	NVIDIA Corporation from 2020-10-01
-beekhof: andrew!beekhof.net
-	Red Hat Inc.
-beeman: beeman!beeman.nl, beeman!users.noreply.github.com, borggreve!gmail.com
-	Independent until 2015-04-01
-	Fullcube from 2015-04-01 until 2017-05-01
-	Colmena Consultancy LLC from 2017-05-01
-beemarie: beemarie!us.ibm.com, beemarie!users.noreply.github.com, beemarie88!gmail.com
-	International Business Machines Corporation
-beeme1mr: beeme1mr!users.noreply.github.com
-	Compuware until 2014-03-01
-	Dynatrace LLC from 2014-03-01
-beeradb: beeradb!gmail.com, beeradb!users.noreply.github.com
-	Drud Technology LLC
-beersheba: beersheba!users.noreply.github.com
-	Publishing house Za rulem until 2015-01-01
-	Superup from 2015-01-01 until 2017-07-01
-	AppCard from 2017-07-01
-bege13mot: bege13mot!gmail.com
-	CMC-IT
