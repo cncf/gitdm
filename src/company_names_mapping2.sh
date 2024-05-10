@@ -4,7 +4,7 @@
 # FULL - do not use cache
 # CONFIG_FILE=file.txt
 # SH_LOCAL_JSON_PATH=in.json
-# This uses mapping.json, manual.json
+# This uses mapping.json, map_org_names.yaml, manual.json
 if [ ! -z "${USE_DB}" ]
 then
   if ( [ -z "${SH_DSN}" ] && [ ! -z "$1" ] )

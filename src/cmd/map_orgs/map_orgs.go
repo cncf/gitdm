@@ -136,6 +136,7 @@ func getAffiliationsJSONBody() []byte {
 	if jsonLocalPath == "" {
 		jsonLocalPath = "github_users.json"
 	}
+	fmt.Printf("reading from %s\n", jsonLocalPath)
 	data, err := ioutil.ReadFile(jsonLocalPath)
 	if err != nil {
 		switch err := err.(type) {
@@ -144,6 +145,7 @@ func getAffiliationsJSONBody() []byte {
 			if jsonRemotePath == "" {
 				jsonRemotePath = "https://github.com/cncf/devstats/raw/master/github_users.json"
 			}
+			fmt.Printf("fetching from %s\n", jsonRemotePath)
 			response, err2 := http.Get(jsonRemotePath)
 			fatalOnError(err2)
 			defer func() { _ = response.Body.Close() }()
@@ -167,6 +169,7 @@ func getAcquisitionsYAMLBody() []byte {
 	if yamlLocalPath == "" {
 		yamlLocalPath = "companies.yaml"
 	}
+	fmt.Printf("reading from %s\n", yamlLocalPath)
 	data, err := ioutil.ReadFile(yamlLocalPath)
 	if err != nil {
 		switch err := err.(type) {
@@ -175,6 +178,7 @@ func getAcquisitionsYAMLBody() []byte {
 			if yamlRemotePath == "" {
 				yamlRemotePath = "https://github.com/cncf/devstats/raw/master/companies.yaml"
 			}
+			fmt.Printf("fetching from %s\n", yamlRemotePath)
 			response, err2 := http.Get(yamlRemotePath)
 			fatalOnError(err2)
 			defer func() { _ = response.Body.Close() }()
@@ -191,14 +195,35 @@ func getAcquisitionsYAMLBody() []byte {
 }
 
 // getMapOrgNamesYAMLBody - get map organization names YAML body
+// First try to get YAML from SH_LOCAL_YAML2_PATH which defaults to "map_org_names.yaml"
+// Fallback to SH_REMOTE_YAML2_PATH which defaults to "https://github.com/LF-Engineering/dev-analytics-affiliation/raw/prod/map_org_names.yaml"
 func getMapOrgNamesYAMLBody() []byte {
-	yamlRemotePath := "https://github.com/LF-Engineering/dev-analytics-affiliation/raw/prod/map_org_names.yaml"
-	response, err := http.Get(yamlRemotePath)
-	fatalOnError(err)
-	defer func() { _ = response.Body.Close() }()
-	data, err := ioutil.ReadAll(response.Body)
-	fatalOnError(err)
-	fmt.Printf("Read %d bytes remote YAML data from %s\n", len(data), yamlRemotePath)
+	yamlLocalPath := os.Getenv("SH_LOCAL_YAML2_PATH")
+	if yamlLocalPath == "" {
+		yamlLocalPath = "map_org_names.yaml"
+	}
+	fmt.Printf("reading from %s\n", yamlLocalPath)
+	data, err := ioutil.ReadFile(yamlLocalPath)
+	if err != nil {
+		switch err := err.(type) {
+		case *os.PathError:
+			yamlRemotePath := os.Getenv("SH_REMOTE_YAML2_PATH")
+			if yamlRemotePath == "" {
+				yamlRemotePath = "https://github.com/LF-Engineering/dev-analytics-affiliation/raw/prod/map_org_names.yaml"
+			}
+			fmt.Printf("fetching from %s\n", yamlRemotePath)
+			response, err2 := http.Get(yamlRemotePath)
+			fatalOnError(err2)
+			defer func() { _ = response.Body.Close() }()
+			data, err2 = ioutil.ReadAll(response.Body)
+			fatalOnError(err2)
+			fmt.Printf("Read %d bytes remote YAML data from %s\n", len(data), yamlRemotePath)
+			return data
+		default:
+			fatalOnError(err)
+		}
+	}
+	fmt.Printf("Read %d bytes local YAML data from %s\n", len(data), yamlLocalPath)
 	return data
 }
 

@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+DOM-P:
+	pbalogh-sa: pbalogh-sa!users.noreply.github.com from 2016-06-01 until 2016-09-01
 DOMINION GLOBAL:
 	jogonzal-rh: jogonzal-rh!users.noreply.github.com from 2016-12-01 until 2019-09-01
 DOMUS:
@@ -5748,6 +5750,7 @@ EDB:
 	chiltonj: john.chilton!hitachivantara.com from 2021-03-01 until 2022-08-01
 	fcanovai: fcanovai!users.noreply.github.com, francesco.canovai!enterprisedb.com from 2020-09-01
 	jsilvela: jaime.silvela!mailfence.com, jsilvela!users.noreply.github.com from 2021-09-01
+	leonardoce: leonardo.cecchi!enterprisedb.com, leonardo.cecchi!gmail.com, leonardoce!users.noreply.github.com from 2020-09-01
 	maveric-tellrv: maveric-tellrv!users.noreply.github.com, vyasrohitvyas!gmail.com until 2016-01-01
 	soundar08: soundararajan.ra!gmail.com from 2016-04-01 until 2016-05-01
 	sxd: sxd!users.noreply.github.com from 2021-01-01
@@ -16621,8 +16624,3 @@ Gigster:
 	blakeembrey: blakeembrey!users.noreply.github.com, hello!blakeembrey.com, nerd.cpp!gmail.com, patrick.devivo!gmail.com, vahagn.aharonian!gmail.com from 2017-02-01 until 2017-09-01
 	dkozlov: dkozlov!users.noreply.github.com, dmitry.f.kozlov!gmail.com from 2018-01-01
 	jcurlier: jcurlier!users.noreply.github.com from 2017-01-01 until 2019-01-01
-Gigya:
-	EladLeev: eladleev!gmail.com from 2016-01-01 until 2017-09-01
-	alexpekurovsky: alexpekurovsky!users.noreply.github.com from 2018-08-01 until 2018-11-01
-Gilat:
-	lordz-md: Traian.Ciobanu!endava.com from 2016-01-01 until 2016-07-01

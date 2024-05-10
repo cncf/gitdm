@@ -465,6 +465,7 @@ $MARTBIN:
 	dcommisso: dcommisso!users.noreply.github.com from 2017-04-01 until 2018-04-01
 	dimitri: dim!tapoueh.org until 2016-02-01
 	fcanovai: fcanovai!users.noreply.github.com, francesco.canovai!enterprisedb.com until 2020-09-01
+	leonardoce: leonardo.cecchi!enterprisedb.com, leonardo.cecchi!gmail.com, leonardoce!users.noreply.github.com until 2020-09-01
 	petere: peter!eisentraut.org from 2016-01-01
 	ringerc: craig!2ndquadrant.com, lesomnus!gmail.com, ringerc!users.noreply.github.com
 	sxd: sxd!users.noreply.github.com from 2019-08-01 until 2021-01-01
@@ -6253,6 +6254,7 @@ Alibaba Group:
 	HusterWan: HusterWan!users.noreply.github.com, zirenwan!gmail.com
 	Hyzhou: 1187766782!qq.com, Hyzhou!users.noreply.github.com
 	Jack47: Jack47!users.noreply.github.com, jack47.open!gmail.com until 2016-04-01
+	JacksonTian: JacksonTian!users.noreply.github.com, shyvo1987!gmail.com
 	Jemmy512: jemmywong512!gmail.com from 2023-03-01
 	JetMuffin: JetMuffin!users.noreply.github.com, jeffchen328!gmail.com
 	JiahaoWei-RH: 1335649406!qq.com, JiahaoWei-RH!users.noreply.github.com
@@ -6504,8 +6506,6 @@ Alibaba Travels:
 	MoienTajik: MoienTajik!users.noreply.github.com from 2019-08-01
 Alibaba-inc:
 	shawnwinder: shawnwinder!outlook.com
-Alibaba.com:
-	JacksonTian: JacksonTian!users.noreply.github.com, shyvo1987!gmail.com
 Alibaba.com.com:
 	charleszheng44: charleszheng44!gmail.com, charleszheng44!users.noreply.github.com from 2018-05-01 until 2018-11-01, from 2019-09-01 until 2021-05-01
 Alicent:
@@ -16203,5 +16203,3 @@ BitBuilder:
 	DanielBodnar: DanielBodnar!users.noreply.github.com
 BitDegree:
 	AugustasV: AugustasV!users.noreply.github.com from 2020-10-01 until 2020-12-01
-BitGlobe Hungary:
-	ferenc-crey: ferenc-crey!users.noreply.github.com from 2018-03-01 until 2020-12-01
