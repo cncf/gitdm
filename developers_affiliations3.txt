@@ -5,6 +5,43 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+bd-g: bd-g!users.noreply.github.com
+	Independent until 2019-01-01
+	Scalar from 2019-01-01 until 2019-11-01
+	Navitaire from 2019-11-01 until 2020-04-01
+	Select Bankcard from 2020-04-01 until 2021-04-01
+	Independent from 2021-04-01 until 2021-06-01
+	Goldman Sachs & Co. LLC from 2021-06-01 until 2021-08-01
+	Navitaire from 2021-08-01
+bdalenoord: bdalenoord!users.noreply.github.com
+	Topicus until 2019-10-01
+	Doop from 2019-10-01 until 2022-09-01
+	Tribe from 2022-09-01
+bdangit: bdangit!users.noreply.github.com, me!bdang.it
+	General Dynamics Mission System until 2017-05-17
+	bdang.it from 2017-05-17
+bdarfler: bdarfler!gmail.com, bdarfler!users.noreply.github.com, bendarfler!honeycomb.io
+	Independent until 2020-11-01
+	Hound Technology Inc. dba Honeycomb from 2020-11-01
+bdarnell: bdarnell!users.noreply.github.com, ben!bendarnell.com
+	Cockroach Labs
+bdashrad: bdashrad!gmail.com, bdashrad!users.noreply.github.com
+	Acquia Inc. until 2016-04-01
+	Curriculum Asociates from 2016-04-01 until 2016-08-01
+	Maxwell Health from 2016-08-01
+bdaw: bdaw!users.noreply.github.com, bdawidow!redhat.com
+	Red Hat Inc.
+bdbaddog: bill!baddogconsulting.com
+	Mentor Graphics Corporation until 2015-03-01
+	Confidential Client from 2015-03-01 until 2018-08-01
+	monday.com Limited from 2018-08-01
+bdbauer: bdbauer!google.com, bdbauer!users.noreply.github.com
+	Google LLC
+bdd-ibm: bdd!us.ibm.com
+	International Business Machines Corporation
+bdecoste: bdecoste!gmail.com, bdecoste!users.noreply.github.com
+	Red Hat Inc. until 2019-10-01
+	Solo.io from 2019-10-01
 bdehri: bdehri!users.noreply.github.com
 	Independent until 2017-02-01
 	Token from 2017-02-01 until 2019-07-01
@@ -361,6 +398,10 @@ benbrandt: benbrandt!users.noreply.github.com, benjamin.j.brandt!gmail.com
 	LAIKA LLC from 2019-02-01 until 2019-09-01
 	Talentpair from 2019-09-01 until 2021-06-01
 	Aleph from 2021-06-01
+benbucksch: benbucksch!users.noreply.github.com
+	mozilla until 2018-03-01
+	Beonex from 2018-03-01 until 2020-09-01
+	Beonex from 2020-09-01
 benc-uk: becolem!microsoft.com
 	Microsoft Corporation
 bencebeky: bencebeky!users.noreply.github.com
@@ -11543,6 +11584,9 @@ cmattoon: cmattoon!cmattoon.com, cmattoon!users.noreply.github.com
 	Remote Paramedic from 2017-03-01 until 2017-04-01
 	Survey Sampling International LLC from 2017-04-01 until 2017-11-01
 	Aquicore from 2017-11-01
+cmbaron: cmbaron!users.noreply.github.com
+	Verizon until 2017-10-01
+	Independent from 2017-10-01
 cmc476: ccunningham!netsanity.net, cmc476!users.noreply.github.com
 	NetSanity
 cmcarey: chance!carey.sh, cmcarey!users.noreply.github.com
@@ -13884,6 +13928,12 @@ cvallance: cvallance!users.noreply.github.com, vallance.charles!gmail.com
 cvanderschuere: chris!postmates.com, christopher.vanderschuere!gmail.com, cvanderschuere!users.noreply.github.com
 	Sosh until 2015-10-01
 	Postmates Inc from 2015-10-01
+cveld: cveld!users.noreply.github.com
+	Independent until 2016-08-01
+	Immigratie from 2016-08-01 until 2016-12-01
+	UWV from 2016-12-01 until 2020-01-01
+	Capgemini from 2020-01-01 until 2022-04-01
+	CNCF from 2022-04-01
 cvenets: cven!arrikto.com, cvenets!users.noreply.github.com
 	GRNET (Greek Research and Technology Network) until 2014-11-01
 	Independent from 2014-11-01 until 2015-01-01
@@ -15333,6 +15383,12 @@ danielfelgar: danielfelgar!users.noreply.github.com
 	Quasar until 2016-03-01
 	Independent from 2016-03-01 until 2018-02-01
 	Fortuno from 2018-02-01
+danielffischer: danielffischer!users.noreply.github.com
+	editho AG until 2015-03-01
+	Fahrrad from 2015-03-01 until 2018-12-01
+	Independent from 2018-12-01 until 2019-01-01
+	Kegelmann Technik from 2019-01-01 until 2019-11-01
+	DFL Deutsche Fußball Liga from 2019-11-01
 danielfm: daniel.martins!descomplica.com.br, daniel.tritone!gmail.com, danielfm!users.noreply.github.com
 	Globo until 2015-05-01
 	Descomplica from 2015-05-01 until 2019-07-01
@@ -17982,6 +18038,11 @@ deepaksood619: deepaksood619!users.noreply.github.com
 	Independent from 2014-07-01 until 2016-12-01
 	CISO from 2016-12-01 until 2017-07-01
 	Zenatix from 2017-07-01
+deepankar-sharma-02: deepankar-sharma-02!users.noreply.github.com
+	Independent until 2016-06-01
+	Apostek from 2016-06-01 until 2020-04-01
+	HURITS from 2020-04-01 until 2023-12-01
+	Smaitic from 2023-12-01
 deepch: deepch!users.noreply.github.com
 	IPEYE
 deepgorthi: deepgorthi!users.noreply.github.com
@@ -23617,62 +23678,3 @@ durp: durp!users.noreply.github.com, durp00!gmail.com
 	Independent from 2016-10-01
 durub: durub!users.noreply.github.com, thiago!exati.com.br
 	Blacksmith-Labs
-dusansusic: dsn.ssc!gmail.com, dusan.susic!gmail.com, dusan.susic!instana.com, dusansusic!users.noreply.github.com
-	Univerexport DOO until 2014-08-01
-	Levi9 IT from 2014-08-01 until 2017-10-01
-	Syslog from 2017-10-01 until 2018-03-01
-	Codecentric AG from 2018-03-01 until 2018-05-01
-	Instana Inc. from 2018-05-01
-dushyantarora: 34317077+dushyantarora!users.noreply.github.com, dushyantarora!google.com
-	Google LLC
-dustin-decker: dustin-decker!users.noreply.github.com, dustindecker!protonmail.com
-	Independent until 2014-06-01
-	Ducommun Incorporated from 2014-06-01 until 2014-08-01
-	Independent from 2014-08-01 until 2015-05-01
-	Datto Inc. from 2015-05-01 until 2015-10-01
-	Indeed from 2015-10-01 until 2018-08-01
-	Cruise Automation from 2018-08-01
-dustinblack: dblack!redhat.com, dustinblack!users.noreply.github.com
-	Red Hat Inc.
-dustinblackman: dustinblackman!users.noreply.github.com
-	Zilyo until 2015-04-01
-	Busbud from 2015-04-01
-dustinboswell: dustinboswell!users.noreply.github.com
-	ZipRecruiter Inc.
-dustinchilson: dustinchilson!users.noreply.github.com
-	CAVALLO
-dustinlessard-wf: dustin.lessard!workiva.com, dustinlessard-wf!users.noreply.github.com
-	Workiva Inc.
-dustinmiller1337: dustinmiller1337!users.noreply.github.com
-	Nobis until 2016-01-01
-	Enzu from 2016-01-01 until 2016-12-01
-	Codero from 2016-12-01 until 2019-05-01
-	Packet Host Inc from 2019-05-01
-dustinmoris: dustinmoris!gmail.com, dustinmoris!users.noreply.github.com
-	Questionmark until 2015-08-01
-	Fourth from 2015-08-01 until 2015-10-01
-	Gamesys group from 2015-10-01 until 2017-09-01
-	Planet Earth from 2017-09-01 until 2018-08-01
-	Global Reach Group from 2018-08-01 until 2018-11-01
-	Fed by Abel & Cole from 2018-11-01 until 2019-08-01
-	Independent from 2019-08-01
-dustinsmith1024: dds1024!gmail.com, dustinsmith1024!users.noreply.github.com
-	Cerner Corporation until 2014-05-01
-	C2FO from 2014-05-01
-dustinspecker: dustinspecker!dustinspecker.com, dustinspecker!users.noreply.github.com
-	AT&T Services Inc. until 2015-06-01
-	Asynchrony from 2015-06-01 until 2018-04-01
-	Insight Global from 2018-04-01
-dustyhorizon: dustyhorizon!users.noreply.github.com
-	Singapore Ministry of Defence until 2019-05-01
-	Independent from 2019-05-01 until 2020-06-01
-	DSO from 2020-06-01 until 2020-08-01
-	GovTech from 2020-08-01 until 2020-09-01
-	Independent from 2020-09-01 until 2022-06-01
-	Grab from 2022-06-01 until 2022-09-01
-	Independent from 2022-09-01 until 2023-01-01
-	ExpressVPN from 2023-01-01
-dustymabe: dusty!dustymabe.com, dustymabe!users.noreply.github.com
-	Red Hat Inc.
-dustyrip: dustyrip!users.noreply.github.com, dustyripgh!gmail.com
-	Independent
