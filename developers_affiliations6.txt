@@ -5,6 +5,33 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+mat285: mat285!users.noreply.github.com
+	Independent until 2017-05-01
+	Ryatta from 2017-05-01 until 2017-09-01
+	Independent from 2017-09-01 until 2018-01-01
+	Baytek from 2018-01-01 until 2018-04-01
+	Ryatta from 2018-04-01 until 2018-09-01
+	Independent from 2018-09-01
+matanb10: matanb!mellanox.com
+	Mellanox
+matancarmeli7: matancarmeli7!users.noreply.github.com
+	Independent until 2016-12-01
+	J6 & Cyber Defense Directorate from 2016-12-01 until 2020-08-01
+	International Business Machines Corporation from 2020-08-01
+matanshk: matanshk!users.noreply.github.com, mshkalim!armosec.io
+	ARMO
+matanshk2: matanshk2!users.noreply.github.com
+	ARMO
+matchge-ca: matchge-ca!users.noreply.github.com
+	PingCAP
+matchstick: gilesb!gmail.com, matchstick!users.noreply.github.com, mrubin!google.com
+	Google LLC until 2022-08-01
+	Career Break from 2022-08-01 until 2024-02-01
+	Fastly from 2024-02-01
+matdehaast: matdehaast!users.noreply.github.com
+	Pure Adventures until 2016-01-01
+	Sportraxs from 2016-01-01 until 2018-12-01
+	Coil Technologies Inc from 2018-12-01
 mateiidavid: matei.david.35!gmail.com, mateiidavid!users.noreply.github.com
 	Independent until 2015-06-01
 	Indot Studio from 2015-06-01 until 2015-07-01
@@ -18620,6 +18647,12 @@ pdavid31: pdavid31!users.noreply.github.com
 pdbogen: patrick!srcclr.com, pdbogen!users.noreply.github.com
 	SourceClear until 2016-12-01
 	Slack Technologies Inc. from 2016-12-01
+pdebruin: pdebruin!users.noreply.github.com
+	Microsoft until 2017-03-01
+	Docker from 2017-03-01 until 2019-02-01
+	Microsoft from 2019-02-01 until 2024-02-01
+	Iasa Global from 2024-02-01 until 2024-04-01
+	Hogeschool Utrecht from 2024-04-01
 pdecat: pdecat!gmail.com, pdecat!users.noreply.github.com
 	Generali France until 2015-03-15
 	MoreA from 2015-03-15
@@ -23763,35 +23796,3 @@ quentinlacrouts: quentinlacrouts!users.noreply.github.com
 	Le Groupe La Poste from 2016-02-01 until 2016-09-01
 	Endava from 2016-09-01 until 2018-09-01
 	Imdependent from 2018-09-01
-quentinleclerc: quentinleclerc!users.noreply.github.com
-	SAS until 2014-07-01
-	Independent from 2014-07-01 until 2017-06-01
-	LivingObjects from 2017-06-01 until 2017-09-01
-	Independent from 2017-09-01 until 2018-02-01
-	Hacking House by Sigfox from 2018-02-01
-quentinmit: quentin!mit.edu, quentinmit!users.noreply.github.com
-	MIT Connection Science
-quertenmont: loic.quertenmont!gmail.com, quertenmont!users.noreply.github.com
-	FNRS until 2016-09-01
-	Smartie N.V. from 2016-09-01 until 2016-12-01
-	Kensu from 2016-12-01 until 2017-04-01
-	N-SIDE from 2017-04-01 until 2018-03-01
-	Independent from 2018-03-01 until 2019-05-01
-	AI Black Belt from 2019-05-01 until 2020-12-01
-	Deeper Data Analytics from 2020-12-01
-quickstar: quickstar!users.noreply.github.com
-	3volutions AG
-quidryan: jryan!netflix.com, justin!halfempty.org
-	Netflix Inc.
-quijote: markus.gaisbauer!gmail.com, quijote!users.noreply.github.com
-	Dynatrace LLC
-quinoant: quinoant!users.noreply.github.com
-	Independent until 2019-06-01
-	Swan Companies from 2019-06-01 until 2019-08-01
-	Independent from 2019-08-01 until 2023-08-01
-	SkillStorm from 2023-08-01
-quinont: quinont!gmail.com
-	Independent until 2016-06-01
-	Globant LLC from 2016-06-01
-quinox: ceesjan!ytec.nl, quinox!users.noreply.github.com
-	YTEC

@@ -2,6 +2,16 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+DM-Companies:
+	cn007b: cn007b!gmail.com, cn007b!users.noreply.github.com from 2015-08-01 until 2017-07-01
+DMA Labs:
+	engineersamuel: Samuel.Mendenhall!gmail.com, engineersamuel!users.noreply.github.com from 2022-03-01 until 2023-01-01
+DMC:
+	AliRezaTaleghani: AliRezaTaleghani!users.noreply.github.com, shayne.alone!gmail.com from 2016-10-01 until 2017-08-01
+DMG MORI:
+	zhangheliu: zhangheliu!gmail.com, zhangheliu!users.noreply.github.com from 2014-12-01 until 2015-02-01
+DMG MORI HEITEC Digital Kft:
+	mszabo: mark!asx.hu from 2022-07-01 until 2023-01-01
 DMM:
 	kazukousen: kazukousen!users.noreply.github.com from 2020-05-01
 DMM.com Ltd.:
@@ -253,6 +263,8 @@ DWS:
 	ross-mcdermott: ross-mcdermott!users.noreply.github.com until 2014-12-01
 DWS Group:
 	roddyherries: roddyherries!users.noreply.github.com from 2015-01-01 until 2018-08-01
+DXC:
+	GraemeMeyerGT: GraemeMeyerGT!users.noreply.github.com from 2017-04-01 until 2022-05-01
 DXC Connect:
 	Yadumathur: Yadumathur!users.noreply.github.com until 2016-10-01
 	loftwah: dean!deanlofts.xyz until 2015-10-01
@@ -4278,6 +4290,8 @@ DockYard:
 	zachdaniel: zachary.s.daniel!gmail.com, zachdaniel!users.noreply.github.com from 2018-10-01 until 2020-02-01
 Dockbit:
 	0xAhmed: ahmed!manhag.org from 2016-06-01
+Docker:
+	pdebruin: pdebruin!users.noreply.github.com from 2017-03-01 until 2019-02-01
 Docker Inc.:
 	AndreyKostov: AndreyKostov!users.noreply.github.com from 2014-10-01 until 2016-12-01
 	BrianBland: brian.t.bland!gmail.com from 2014-09-01 until 2016-03-01
@@ -5787,6 +5801,7 @@ ECONorthwest:
 ECR Software Corporation:
 	bostrt: bostrt!users.noreply.github.com until 2014-10-01
 ECS:
+	GraemeMeyerGT: GraemeMeyerGT!users.noreply.github.com until 2015-04-01
 	airwalk-mj: airwalk-mj!users.noreply.github.com from 2016-04-01 until 2016-09-01
 	chilcano: chilcano!users.noreply.github.com from 2020-06-01
 	elucidsoft: elucidsoft!users.noreply.github.com from 2017-11-01 until 2018-05-01
@@ -15059,6 +15074,8 @@ GE Grid:
 GE Grid Solutions:
 	Benichou34: Benichou34!users.noreply.github.com, benoit.leforestier!gmail.com from 2016-12-01 until 2017-09-01
 	cdbyrd: cdbyrd!users.noreply.github.com until 2015-03-01
+GE HealthCare:
+	shivkanwer: shivkanwer!gmail.com from 2023-04-01
 GE Healthcare:
 	MushuEE: MushuEE!users.noreply.github.com, gkm006!bucknell.edu until 2015-08-01
 	RonVorndam: 15927289+ronvorndam!users.noreply.github.com, RonVorndam!users.noreply.github.com, ron.vorndam!compuware.com from 2022-03-01

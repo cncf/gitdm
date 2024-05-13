@@ -5,6 +5,32 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+bcotton: bcotton!users.noreply.github.com, bob.cotton!gmail.com
+	Independent until 2017-01-01
+	FreshTracks.io (CA INC) from 2017-01-01 until 2018-11-01
+	Splunk Inc. from 2018-11-01
+bcousson: bcousson!baylibre.com
+	Texas Instruments Incorporated until 2013-09-01
+	BayLibre Inc. from 2013-09-01
+bcraun: bill!craun.net
+	RND until 2015-06-01
+	Mesh from 2015-06-01 until 2016-08-01
+	RND from 2016-08-01
+bcreane: bcreane!users.noreply.github.com, brendan!tigera.io
+	Tigera Inc.
+bcrl: bcrl!kvack.org
+	Solace
+bcrochet: brad!redhat.com
+	Red Hat Inc.
+bcronin: bcronin!resonancelabs.com, bcronin!users.noreply.github.com
+	LightStep Inc.
+bcwaldon: bcwaldon!gmail.com, bcwaldon!users.noreply.github.com, brian!waldon.cc
+	CoreOS Inc. until 2015-12-01
+	Planet from 2015-12-01 until 2018-08-01
+	Independent from 2018-08-01 until 2018-12-01
+	Diamanti Inc. from 2018-12-01 until 2021-06-01
+	Independent from 2021-06-01 until 2021-08-01
+	Antaris from 2021-08-01
 bd-g: bd-g!users.noreply.github.com
 	Independent until 2019-01-01
 	Scalar from 2019-01-01 until 2019-11-01
@@ -2427,15 +2453,15 @@ blakeembrey: blakeembrey!users.noreply.github.com, hello!blakeembrey.com, nerd.c
 	Opendoor Labs Inc from 2017-09-01
 blakelapierre: blakelapierre!gmail.com, blakelapierre!users.noreply.github.com
 	Independent
+blakepettersson: blakepettersson!users.noreply.github.com
+	Krobier until 2024-02-01
+	Akuity from 2024-02-01
 blakeroberts-wk: blake.roberts!workiva.com, blakeroberts-wk!users.noreply.github.com
 	DuPont Pioneer until 2015-01-01
 	Hy-Vee Market Grille from 2015-01-01 until 2015-08-01
 	Independent from 2015-08-01 until 2016-05-01
 	GlobalVetLINK from 2016-05-01 until 2017-05-01
 	Workiva from 2017-05-01
-blakepettersson: blakepettersson!users.noreply.github.com
-	Krobier until 2024-02-01
-	Akuity from 2024-02-01
 blakeromano: blakeromano!users.noreply.github.com
 	Independent until 2021-06-01
 	General Assembly from 2021-06-01 until 2021-09-01
@@ -15825,6 +15851,8 @@ danmcp: danmcp!users.noreply.github.com, dmcphers!redhat.com
 danmontgomery: dan!dmontgomery.net, danmontgomery!users.noreply.github.com
 	OCTO Technology until 2020-03-01
 	Sagely from 2020-03-01
+danmoseley: danmose!microsoft.com
+	Microsoft
 danmosemsft: danmose!microsoft.com, danmosemsft!users.noreply.github.com
 	Microsoft Corporation
 danmx: daniel!iziourov.info, danmx!users.noreply.github.com
@@ -23659,25 +23687,3 @@ durandom: durandom!users.noreply.github.com, mhild!redhat.com
 	Red Hat Inc. from 2019-06-01
 durd07: durd07!gmail.com, durd07!users.noreply.github.com
 	Nokia Corporation
-durgadoss: durgadoss.r!intel.com
-	Intel Corporation
-durgell-bl: durgell-bl!users.noreply.github.com
-	Independent until 2017-12-01
-	Addison Global from 2017-12-01 until 2019-11-01
-	Skyscanner from 2019-11-01 until 2020-04-01
-	Independent from 2020-04-01 until 2021-06-01
-	BlueLabs from 2021-06-01
-durin42: durin42!gmail.com, durin42!users.noreply.github.com
-	Google LLC
-duriti: duriti!users.noreply.github.com
-	International Business Machines Corporation until 2019-03-01
-	Robin from 2019-03-01
-durmisi: durmisi!users.noreply.github.com
-	Nextsense until 2015-04-01
-	Independent from 2015-04-01 until 2017-08-01
-	iFAKT from 2017-08-01
-durp: durp!users.noreply.github.com, durp00!gmail.com
-	World Wide Technology Inc. until 2016-10-01
-	Independent from 2016-10-01
-durub: durub!users.noreply.github.com, thiago!exati.com.br
-	Blacksmith-Labs

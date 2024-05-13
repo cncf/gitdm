@@ -5,6 +5,27 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+jbeda: jbeda!users.noreply.github.com, jbeda!vmware.com, joe!bedafamily.com, joe!heptio.com, joe.github!bedafamily.com
+	Google LLC until 2015-05-01
+	Independent from 2015-05-01 until 2016-11-01
+	Heptio Inc. from 2016-11-01 until 2018-12-11
+	VMware Inc. from 2018-12-11 until 2022-06-01
+	Independent from 2022-06-01
+jbedard: github!jbedard.ca, jason+github!jbedard.ca, jason.bedard!allocadia.com, jbedard!users.noreply.github.com
+	Canadian Maker Foundation until 2016-04-01
+	Making It Real from 2016-04-01
+jbehling: jbehling!users.noreply.github.com
+	Target until 2016-02-01
+	Field Nation from 2016-02-01 until 2018-11-01
+	Greenhouse Software Inc. from 2018-11-01
+jbehrends: jbehrends!users.noreply.github.com, josh!behrends.us
+	iovation until 2021-03-01
+	TransUnion from 2021-03-01
+jberkhahn: jaberkha!us.ibm.com, jberkhahn!users.noreply.github.com
+	International Business Machines Corporation
+jberkus: jberkus!redhat.com, jberkus!users.noreply.github.com, josh!agliodbs.com
+	CitusData until 2016-01-01
+	Red Hat Inc. from 2016-01-01
 jbernardo95: jb.amaro95!gmail.com, jbernardo95!users.noreply.github.com
 	RedLight until 2016-05-01
 	Independent from 2016-05-01 until 2017-07-01
@@ -18505,6 +18526,10 @@ loe: andrew!andrewloe.com, loe!users.noreply.github.com
 	Independent from 2015-01-01 until 2015-04-01
 	Sinaps LLC from 2015-04-01 until 2015-05-01
 	Meta Platforms Inc. from 2015-05-01
+loekd: loekd!users.noreply.github.com
+	RES until 2015-06-01
+	Independent from 2015-06-01 until 2022-05-01
+	Xebia from 2022-05-01
 loethi: lw!karo-electronics.de
 	Ka-Ro electronics GmbH
 loewenstein: jan.von.loewenstein!sap.com, loewenstein!users.noreply.github.com
@@ -22929,6 +22954,9 @@ markapruett: markapruett!users.noreply.github.com
 	InStride from 2019-11-01 until 2020-07-01
 	DuckDuckGo from 2020-07-01 until 2022-03-01
 	AWS from 2022-03-01
+markarnott: markarnott!users.noreply.github.com
+	Allscripts until 2021-02-01
+	AIS from 2021-02-01
 markatou: lilika!google.com, lilika.markatou!gmail.com, markatou!users.noreply.github.com
 	Independent until 2015-06-01
 	Meta Platforms Inc. from 2015-06-01 until 2015-08-01
@@ -23850,30 +23878,3 @@ mat1e: delrocq.mathieu!gmail.com, mat1e!users.noreply.github.com, mathieu-extern
 	Groupe HN until 2017-08-01
 	CGI from 2017-08-01 until 2020-04-01
 	Henix from 2020-04-01
-mat285: mat285!users.noreply.github.com
-	Independent until 2017-05-01
-	Ryatta from 2017-05-01 until 2017-09-01
-	Independent from 2017-09-01 until 2018-01-01
-	Baytek from 2018-01-01 until 2018-04-01
-	Ryatta from 2018-04-01 until 2018-09-01
-	Independent from 2018-09-01
-matanb10: matanb!mellanox.com
-	Mellanox
-matancarmeli7: matancarmeli7!users.noreply.github.com
-	Independent until 2016-12-01
-	J6 & Cyber Defense Directorate from 2016-12-01 until 2020-08-01
-	International Business Machines Corporation from 2020-08-01
-matanshk: matanshk!users.noreply.github.com, mshkalim!armosec.io
-	ARMO
-matanshk2: matanshk2!users.noreply.github.com
-	ARMO
-matchge-ca: matchge-ca!users.noreply.github.com
-	PingCAP
-matchstick: gilesb!gmail.com, matchstick!users.noreply.github.com, mrubin!google.com
-	Google LLC until 2022-08-01
-	Career Break from 2022-08-01 until 2024-02-01
-	Fastly from 2024-02-01
-matdehaast: matdehaast!users.noreply.github.com
-	Pure Adventures until 2016-01-01
-	Sportraxs from 2016-01-01 until 2018-12-01
-	Coil Technologies Inc from 2018-12-01

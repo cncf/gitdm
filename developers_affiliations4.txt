@@ -5,6 +5,28 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+durgadoss: durgadoss.r!intel.com
+	Intel Corporation
+durgell-bl: durgell-bl!users.noreply.github.com
+	Independent until 2017-12-01
+	Addison Global from 2017-12-01 until 2019-11-01
+	Skyscanner from 2019-11-01 until 2020-04-01
+	Independent from 2020-04-01 until 2021-06-01
+	BlueLabs from 2021-06-01
+durin42: durin42!gmail.com, durin42!users.noreply.github.com
+	Google LLC
+duriti: duriti!users.noreply.github.com
+	International Business Machines Corporation until 2019-03-01
+	Robin from 2019-03-01
+durmisi: durmisi!users.noreply.github.com
+	Nextsense until 2015-04-01
+	Independent from 2015-04-01 until 2017-08-01
+	iFAKT from 2017-08-01
+durp: durp!users.noreply.github.com, durp00!gmail.com
+	World Wide Technology Inc. until 2016-10-01
+	Independent from 2016-10-01
+durub: durub!users.noreply.github.com, thiago!exati.com.br
+	Blacksmith-Labs
 dusansusic: dsn.ssc!gmail.com, dusan.susic!gmail.com, dusan.susic!instana.com, dusansusic!users.noreply.github.com
 	Univerexport DOO until 2014-08-01
 	Levi9 IT from 2014-08-01 until 2017-10-01
@@ -1775,6 +1797,11 @@ ehristev: eugen.hristev!microchip.com
 	Luxoft Global Operations GmbH until 2016-04-01
 	Mentor Graphics Corporation from 2016-04-01 until 2017-02-01
 	Microchip LLC from 2017-02-01
+ehrnst: ehrnst!users.noreply.github.com
+	Intility until 2020-12-01
+	Vipps from 2020-12-01 until 2022-03-01
+	Vipps MobilePay from 2022-03-01 until 2023-10-01
+	Simplifai · from 2023-10-01
 ehsan-tashkhisi: ehsan-tashkhisi!users.noreply.github.com
 	Behpardakht Mellat until 2016-12-01
 	RCII from 2016-12-01 until 2019-06-01
@@ -5036,7 +5063,7 @@ ewolff: ewolff!users.noreply.github.com
 	INNOQ from 2015-06-01
 ewolinetz: ewolinetz!users.noreply.github.com
 	Red Hat Inc.
-ewon78: zhouguanginfo!jd.com, guang.zhou.2004!gmail.com
+ewon78: guang.zhou.2004!gmail.com, zhouguanginfo!jd.com
 	Jd.Com
 ewoutp: ewoutp!users.noreply.github.com
 	Subliminl until 2015-03-01
@@ -23859,24 +23886,3 @@ jbdoumenjou: jb.doumenjou!gmail.com, jbdoumenjou!users.noreply.github.com
 	Morning from 2016-06-01 until 2017-02-01
 	Preludd from 2017-02-01 until 2018-02-01
 	Traefik from 2018-02-01
-jbeda: jbeda!users.noreply.github.com, jbeda!vmware.com, joe!bedafamily.com, joe!heptio.com, joe.github!bedafamily.com
-	Google LLC until 2015-05-01
-	Independent from 2015-05-01 until 2016-11-01
-	Heptio Inc. from 2016-11-01 until 2018-12-11
-	VMware Inc. from 2018-12-11 until 2022-06-01
-	Independent from 2022-06-01
-jbedard: github!jbedard.ca, jason+github!jbedard.ca, jason.bedard!allocadia.com, jbedard!users.noreply.github.com
-	Canadian Maker Foundation until 2016-04-01
-	Making It Real from 2016-04-01
-jbehling: jbehling!users.noreply.github.com
-	Target until 2016-02-01
-	Field Nation from 2016-02-01 until 2018-11-01
-	Greenhouse Software Inc. from 2018-11-01
-jbehrends: jbehrends!users.noreply.github.com, josh!behrends.us
-	iovation until 2021-03-01
-	TransUnion from 2021-03-01
-jberkhahn: jaberkha!us.ibm.com, jberkhahn!users.noreply.github.com
-	International Business Machines Corporation
-jberkus: jberkus!redhat.com, jberkus!users.noreply.github.com, josh!agliodbs.com
-	CitusData until 2016-01-01
-	Red Hat Inc. from 2016-01-01
