@@ -15,7 +15,8 @@ require './nationalize_lib'
 require './genderize_lib'
 require './agify_lib'
 
-# SKIP_TOKENS=17
+# specify i+1 from what is failed
+# SKIP_TOKENS='17,41'
 
 def stringify_keys(hash)
   ret = {}
