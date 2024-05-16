@@ -2425,8 +2425,9 @@ blaise-sumo: blaise-sumo!users.noreply.github.com
 	Shape until 2017-10-01
 	Infrastructure Proving Grounds from 2017-10-01 until 2019-02-01
 	Sumo Logic Inc. from 2019-02-01
-blaisedias: blaisedias!mayadata.io, blaisedias!users.noreply.github.com
-	MayaData Inc. (f/k/a CloudByte Inc)
+blaisedias: blaisedias!mayadata.io, blaisedias!users.noreply.github.com, blaise.dias!datacore.com
+	MayaData Inc. (f/k/a CloudByte Inc) from 2020-02-01 until 2021-11-01
+	DataCore Software from 2021-11-01
 blak3mill3r: blak3mill3r!gmail.com, blak3mill3r!users.noreply.github.com
 	Tengrade until 2015-03-01
 	IRIS.TV from 2015-03-01
@@ -10538,6 +10539,9 @@ chrisunder: chrisunder!users.noreply.github.com
 chrisvugrinec: chrisvugrinec!users.noreply.github.com
 	Red Hat Inc. until 2016-02-01
 	Microsoft Corporation from 2016-02-01
+chriswldenyer: chriswldenyer!users.noreply.github.com, christopher.denyer!datacore.com
+	MayaData Inc. (f/k/a CloudByte Inc) from 2020-02-01 until 2021-11-01
+	DataCore Software from 2021-11-01
 chriswright: chrisw!sous-sol.org, chriswright!users.noreply.github.com
 	Red Hat Inc.
 chriswwalz: chriswwalz!users.noreply.github.com
@@ -16413,6 +16417,12 @@ dastrobu: dastrobu!users.noreply.github.com
 	BMW from 2018-06-01
 databus23: databus23!users.noreply.github.com, fabian!progra.de, fabian.ruff!sap.com
 	SAP
+datacore-pavan-venkat: datacore-pavan-venkat!users.noreply.github.com, pavanvenkat.layam!datacore.com
+	DataCore Software from 2024-03-01
+datacore-tilangovan: datacore-tilangovan!users.noreply.github.com, thulasiraman.ilangovan!datacore.com
+	DataCore Software from 2022-05-01
+datacore-vvarakantham: datacore-vvarakantham!users.noreply.github.com, vandana.varakantham!datacore.com
+	DataCore Software from 2021-01-01
 datadot: datadot!users.noreply.github.com
 	Independent
 datamgmt: davidw!datamgmt.com
@@ -16463,6 +16473,8 @@ dav1x: dav1x!users.noreply.github.com, davis.phillips!gmail.com
 	Red Hat Inc.
 dave-borg: dave-borg!users.noreply.github.com, dborgees!cisco.com
 	Cisco
+dave-brace: dave-brace!users.noreply.github.com, david.brace!datacore.com
+	DataCore Software from 2022-10-01
 dave-dresser: dave_dresser!compuware.com
 	Compuware
 dave-gantenbein: dave-gantenbein!users.noreply.github.com
@@ -23046,9 +23058,10 @@ dsapala: dsapala!users.noreply.github.com
 	Illuminate from 2015-01-01
 dsargent3220: dsargent3220!users.noreply.github.com
 	Independent
-dsavitskiy: dsavitskiy!users.noreply.github.com, kona4kona!gmail.com
+dsavitskiy: dsavitskiy!users.noreply.github.com, kona4kona!gmail.com, dmitry.savitsky!datacore.com
 	Nexenta by DDN until 2021-06-01
-	MayaData Inc. (f/k/a CloudByte Inc) from 2021-06-01
+	MayaData Inc. (f/k/a CloudByte Inc) from 2021-06-01 until 2021-11-01
+	DataCore Software from 2021-11-01
 dsblv: caleb!imakewebthings.com, daraujo!eslsistemas.com.br, disobolev!icloud.com, dsblv!users.noreply.github.com
 	Apple Inc.
 dsbos: dbarclay!savi.com, dsbos!users.noreply.github.com
@@ -23133,6 +23146,8 @@ dshamanthreddy: devagarishamanth!gmail.com, dshamanthreddy!users.noreply.github.
 	Verizon from 2017-01-01 until 2019-02-01
 	Goldman Sachs & Co. LLC from 2019-02-01 until 2022-06-01
 	AWS from 2022-06-01
+dsharma-dc: dsharma-dc!users.noreply.github.com, diwakar.sharma!datacore.com
+	DataCore Software from 2022-12-01
 dsharma283: devesh.sharma!broadcom.com
 	Broadcom Corporation
 dsharp-pivotal: dsharp-pivotal!users.noreply.github.com

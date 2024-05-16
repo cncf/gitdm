@@ -5120,6 +5120,9 @@ milanaleksic: milan!aleksic.dev, milanaleksic!users.noreply.github.com
 	Basware Benelux until 2017-03-01
 	TomTom International B.V. from 2017-03-01 until 2020-01-01
 	Soda from 2020-01-01
+milanhajek: milanhajek!users.noreply.github.com, milan.hajek!datacore.com
+	MayaData Inc. (f/k/a CloudByte Inc) from 2021-09-01 until 2021-11-01
+	DataCore Software from 2021-11-01
 milanhradil1-tomtom: milanhradil1-tomtom!users.noreply.github.com
 	MeteoGroup until 2017-06-01
 	TomTom International B.V. from 2017-06-01
@@ -12934,9 +12937,9 @@ nikwest: github!nikwest.de
 	BlackBerry Limited until 2014-05-01
 	Independent from 2014-05-01 until 2015-03-01
 	Colorimetrix from 2015-03-01
-niladrih: niladrih!users.noreply.github.com
+niladrih: niladrih!users.noreply.github.com, niladri.halder!datacore.com
 	Independent until 2021-02-01
-	OpenEBS from 2021-02-01 until 2021-11-01
+	MayaData Inc. (f/k/a CloudByte Inc) from 2021-02-01 until 2021-11-01
 	DataCore Software from 2021-11-01
 nilamdyuti: ngoswami!redhat.com, nilamdyuti!gmail.com
 	Red Hat Inc.
@@ -16428,6 +16431,8 @@ orugantichetan: orugantichetan!users.noreply.github.com
 	Independent until 2015-02-01
 	HCL Technologies Ltd. from 2015-02-01 until 2019-04-01
 	Nokia Corporation from 2019-04-01
+orville-wright: orville-wright!users.noreply.github.com, david.brace!datacore.com
+	DataCore Software from 2022-10-01
 orweis: orweis!users.noreply.github.com
 	Malam until 2015-12-01
 	Netline from 2015-12-01 until 2017-10-01
@@ -18571,6 +18576,8 @@ pchan: pchan!users.noreply.github.com, prasad.chand!gmail.com, prasadc!vmware.co
 	NVIDIA Corporation until 2018-05-01
 	Intel Corporation from 2018-05-01 until 2020-12-01
 	VMware Inc. from 2020-12-01
+pchandra19: pchandra19!users.noreply.github.com, prateek.chandra!datacore.com
+	DataCore Software from 2020-07-01
 pchila: paolo.chila!dynatrace.com
 	Amadeus until 2016-04-01
 	VASCO from 2016-04-01 until 2017-03-01
