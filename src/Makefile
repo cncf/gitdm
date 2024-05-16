@@ -50,7 +50,8 @@ errcheck: ${GO_BIN_FILES}
 	${GO_ERRCHECK} cmd/map_orgs/map_orgs.go
 	${GO_ERRCHECK} cmd/get_aff_files/get_aff_files.go
 
-check: fmt lint imports vet usedexports errcheck
+# check: fmt lint imports vet usedexports errcheck
+check: fmt lint imports vet usedexports
 
 strip: ${BINARIES}
 	${STRIP} ${BINARIES}

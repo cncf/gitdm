@@ -840,12 +840,5 @@ func mapOrgs() {
 }
 
 func main() {
-	/*
-		rs := `^[[:space:]]*comcast[[:space:]]*$`
-		s := "  comcastx "
-		r, _ := pcre.Compile(rs, 0)
-		m := r.MatcherString(s, 0).Matches()
-		fmt.Printf("(rs,s,r,m)=(%+v,%+v,%+v,%+v)\n", rs, s, r, m)
-	*/
 	mapOrgs()
 }
