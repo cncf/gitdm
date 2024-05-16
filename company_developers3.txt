@@ -263,8 +263,6 @@ DWS:
 	ross-mcdermott: ross-mcdermott!users.noreply.github.com until 2014-12-01
 DWS Group:
 	roddyherries: roddyherries!users.noreply.github.com from 2015-01-01 until 2018-08-01
-DXC:
-	GraemeMeyerGT: GraemeMeyerGT!users.noreply.github.com from 2017-04-01 until 2022-05-01
 DXC Connect:
 	Yadumathur: Yadumathur!users.noreply.github.com until 2016-10-01
 	loftwah: dean!deanlofts.xyz until 2015-10-01
@@ -272,6 +270,7 @@ DXC Technology:
 	Aminechakr: Aminechakr!users.noreply.github.com from 2015-10-01 until 2017-10-01
 	FeynmanZhou: FeynmanZhou!users.noreply.github.com, pengfeizhou!yunify.com from 2017-04-01 until 2018-06-01
 	Geekays: Geekays!users.noreply.github.com from 2019-06-01
+	GraemeMeyerGT: GraemeMeyerGT!users.noreply.github.com from 2017-04-01 until 2022-05-01
 	HarryStericker: HarryStericker!users.noreply.github.com, hstericker!gmail.com from 2017-03-01 until 2019-05-01
 	MazenElzanaty: MazenElzanaty!users.noreply.github.com from 2021-06-01
 	RijulGulati: RijulGulati!users.noreply.github.com, rijul!rijulgulati.com from 2018-09-01 until 2021-10-01
@@ -4290,8 +4289,6 @@ DockYard:
 	zachdaniel: zachary.s.daniel!gmail.com, zachdaniel!users.noreply.github.com from 2018-10-01 until 2020-02-01
 Dockbit:
 	0xAhmed: ahmed!manhag.org from 2016-06-01
-Docker:
-	pdebruin: pdebruin!users.noreply.github.com from 2017-03-01 until 2019-02-01
 Docker Inc.:
 	AndreyKostov: AndreyKostov!users.noreply.github.com from 2014-10-01 until 2016-12-01
 	BrianBland: brian.t.bland!gmail.com from 2014-09-01 until 2016-03-01
@@ -4443,6 +4440,7 @@ Docker Inc.:
 	nwt: nwt!users.noreply.github.com until 2018-09-01
 	olegburov: oleg.burov!outlook.com, olegburov!users.noreply.github.com from 2019-01-01
 	paulofrazao: paulo.frazao!solo.io, paulo.frazao!weave.works, paulofrazao!users.noreply.github.com, pfrazao!gmail.com from 2019-01-01 until 2020-02-01
+	pdebruin: pdebruin!users.noreply.github.com from 2017-03-01 until 2019-02-01
 	pdevine: pdevine!sonic.net from 2015-02-01 until 2019-11-01
 	phillipgibson: phillipgibson!users.noreply.github.com from 2017-04-01 until 2018-03-01
 	programmerq: jefferya!programmerq.net from 2014-10-01 until 2019-11-01
@@ -5597,7 +5595,7 @@ Dynatrace LLC:
 	sandroschmid: sandroschmid!users.noreply.github.com from 2018-07-01
 	sarahhuber001: sarahhuber001!users.noreply.github.com from 2022-02-01
 	sergiohinojosa: sergiohinojosa!users.noreply.github.com from 2015-09-01
-	staceypotter: stacey!weave.works, stacey.potter!dynatrace.com, staceypotter!users.noreply.github.com, staceypotter!users.noreply.hithub.com from 2023-03-31
+	staceypotter: stacey!weave.works, stacey.potter!dynatrace.com, staceypotter!users.noreply.github.com from 2023-03-31 until 2024-02-01
 	stefaneberl: stefan.eberl!dynatrace.com, stefaneberl!users.noreply.github.com
 	steve-fraser: steve-fraser!users.noreply.github.com, steve.fraser!weave.works, stevenrfraser7!gmail.com from 2018-01-01 until 2019-06-01
 	stuzfuz: stuzfuz!users.noreply.github.com from 2016-03-01 until 2017-07-01

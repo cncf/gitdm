@@ -3136,7 +3136,7 @@ TechWatching: TechWatching!users.noreply.github.com
 	Sopra Group until 2016-01-01
 	Neotech Solutions from 2016-01-01 until 2018-12-01
 	AZEO from 2018-12-01 until 2021-03-01
-	Avanade from 2021-03-01
+	Avanade Inc. from 2021-03-01
 Techcadia: Techcadia!users.noreply.github.com, david.luengo!superawesome.tv
 	SuperAwesome
 Techmaster21: adrian.jc.bolt!gmail.com
@@ -3703,8 +3703,8 @@ TobiasSchaffner: TobiasSchaffner!users.noreply.github.com, tobiasschaffner87!out
 	Mixed from 2017-10-01
 Tochemey: Tochemey!users.noreply.github.com
 	Hubtel until 2018-11-01
-	Andela from 2018-11-01 until 2021-01-01
-	Namely from 2021-01-01 until 2021-09-01
+	Andela Inc. from 2018-11-01 until 2021-01-01
+	Namely Inc. from 2021-01-01 until 2021-09-01
 	Glean from 2021-09-01 until 2021-10-01
 	Troop from 2021-10-01 until 2024-04-01
 	SLB from 2024-04-01
@@ -10426,7 +10426,7 @@ ahmedbham: ahmedbham!users.noreply.github.com
 	Verizon Wireless until 2019-03-01
 	AWS from 2019-03-01 until 2021-04-01
 	AllCloud from 2021-04-01 until 2021-07-01
-	Microsoft from 2021-07-01
+	Microsoft Corporation from 2021-07-01
 ahmedmagdiosman: ahmedmagdiosman!users.noreply.github.com
 	Independent
 ahmedmus-1A: ahmedmus-1A!users.noreply.github.com
@@ -13736,7 +13736,7 @@ allenmiller: allenmiller!users.noreply.github.com
 allenpetersen: allen.petersen!osnexus.com, allenpetersen!users.noreply.github.com
 	OSNEXUS
 allenporter: allen!thebends.org, allenporter!users.noreply.github.com
-	Google
+	Google LLC
 allensamuels: allen.samuels!sandisk.com
 	SanDisk
 allenwux: allenwux!users.noreply.github.com
@@ -19977,8 +19977,8 @@ asaharn: asaharn!users.noreply.github.com
 	Microsoft Corporation from 2022-02-01
 asaikali: asaikali!users.noreply.github.com
 	Pivotal until 2020-01-01
-	VMware from 2020-01-01 until 2023-11-01
-	Broadcom from 2023-11-01
+	VMware Inc. from 2020-01-01 until 2023-11-01
+	Broadcom Corporation from 2023-11-01
 asaintsever: asaintsever!users.noreply.github.com
 	Thales until 2018-09-01
 	Talend Inc. from 2018-09-01
@@ -23722,5 +23722,3 @@ bcorijn: bcorijn!users.noreply.github.com
 	Liqid Labs from 2018-02-01
 bcorijn: bruno!woorank.com
 	Woorank spl
-bcorso: bcorso!google.com
-	Google LLC

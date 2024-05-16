@@ -3683,12 +3683,11 @@ Ping An:
 	silenceper: silenceper!gmail.com, silenceper!users.noreply.github.com from 2018-01-01 until 2021-05-01
 Ping Cap:
 	brson: andersrb!gmail.com, brson!users.noreply.github.com from 2018-12-01
-Ping Identity:
-	dwaite: david!alkaline-solutions.com
 Ping Identity Corporation:
 	JamesForsee: benforsee66!yahoo.com, jamesforsee!pingidentity.com from 2017-05-01
 	awwithro: awithrow!gmail.com, awwithro!users.noreply.github.com from 2015-10-01 until 2017-04-01
 	dalvizu: alvizu!gmail.com, dalvizu!pingidentity.com, dalvizu!users.noreply.github.com
+	dwaite: david!alkaline-solutions.com
 	endzyme: endzyme!users.noreply.github.com, nick.huanca!gmail.com
 	forrestwaters: forrestwaters!users.noreply.github.com from 2018-07-01 until 2019-04-01
 	geofflancaster: geofflancaster!users.noreply.github.com from 2020-02-01
@@ -10271,8 +10270,6 @@ Red Gate Software Limited:
 	onatm: onatm!users.noreply.github.com from 2016-12-01
 Red Ha:
 	ChristianZaccaria: ChristianZaccaria!users.noreply.github.com from 2022-01-01 until 2022-12-01, from 2023-07-01
-Red Hat:
-	ravilach: ravilach!users.noreply.github.com until 2016-04-01
 Red Hat Inc:
 	aaronlevy: aaron.levy!coreos.com, aaronjlevy!gmail.com, aaronlevy!users.noreply.github.com from 2015-03-01 until 2021-03-01
 	ant31: 2t.antoine!gmail.com, alegrand!redhat.com, ant31!users.noreply.github.com, antoine.legrand!coreos.com from 2016-09-01 until 2021-02-01
@@ -12388,6 +12385,7 @@ Red Hat Inc.:
 	ranakan19: ranakan19!users.noreply.github.com from 2019-12-01 until 2020-08-01, from 2021-01-01
 	rareddy: rareddy!jboss.org, rareddy!users.noreply.github.com
 	rashmigottipati: rashmigottipati!users.noreply.github.com, rgottipa!redhat.com from 2020-05-01
+	ravilach: ravilach!users.noreply.github.com until 2016-04-01
 	ravisantoshgudimetla: ravisantoshgudimetla!gmail.com, ravisantoshgudimetla!users.noreply.github.com until 2022-07-01
 	rawagner: rawagner!redhat.com, rawagner!users.noreply.github.com
 	rawlingsj: rawlingsj!users.noreply.github.com

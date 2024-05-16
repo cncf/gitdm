@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Terrabit:
+	ggogel: gerrit!gogel.me, ggogel!users.noreply.github.com from 2019-10-01 until 2021-04-01
 Terrace:
 	HunterLarco: HunterLarco!users.noreply.github.com, hunter!larcolabs.com from 2019-07-01 until 2020-06-01
 Terracor:
@@ -6810,9 +6812,6 @@ VMTraining:
 	smacarth: shawn!nospam.com, shawnmacarthur!gmail.com, smacarth!users.noreply.github.com
 VMock:
 	HarshdeepGupta: HarshdeepGupta!users.noreply.github.com from 2017-05-01 until 2017-07-01
-VMware:
-	asaikali: asaikali!users.noreply.github.com from 2020-01-01 until 2023-11-01
-	fullmetal-fred: fullmetal-fred!users.noreply.github.com from 2020-07-01 until 2020-11-01
 VMware Inc.:
 	100mik: 100mik!users.noreply.github.com from 2021-01-01
 	462960: spencer!gibb.us from 2019-12-30
@@ -7023,6 +7022,7 @@ VMware Inc.:
 	arnaudleg: arnaudleg!gmail.com
 	arriqaaq: arriqaaq!users.noreply.github.com from 2021-04-01
 	arunraman: arunraman!users.noreply.github.com until 2015-05-01
+	asaikali: asaikali!users.noreply.github.com from 2020-01-01 until 2023-11-01
 	asavov: asavov!users.noreply.github.com
 	ascheman: arturictus!gmail.com
 	asenchi: asenchi!users.noreply.github.com from 2018-12-01
@@ -7227,6 +7227,7 @@ VMware Inc.:
 	fredwangwang: fredwanghuan!gmail.com, fredwangwang!users.noreply.github.com from 2020-01-01
 	frodenas: frodenas!gmail.com, frodenas!users.noreply.github.com, rodenasf!vmware.com from 2017-10-29 until 2023-11-01
 	fruffy: fruffy!users.noreply.github.com from 2018-05-01 until 2018-08-01
+	fullmetal-fred: fullmetal-fred!users.noreply.github.com from 2020-07-01 until 2020-11-01
 	fyangd: fyangd!users.noreply.github.com from 2020-03-01
 	gab-satchi: gab-satchi!users.noreply.github.com, gsatchi!vmware.com from 2020-04-01
 	gabo1208: gabo1208!users.noreply.github.com, gabohd!gmail.com from 2021-04-01
@@ -11693,7 +11694,7 @@ Weaveworks Inc.:
 	sourabhmodi: sourabh!openxcell.info from 2021-08-01
 	sozercan: sozercan!gmail.com, sozercan!users.noreply.github.com from 2021-08-01
 	squaremo: mikeb!squaremobius.net, squaremo!users.noreply.github.com from 2013-09-15
-	staceypotter: stacey!weave.works, stacey.potter!dynatrace.com, staceypotter!users.noreply.github.com, staceypotter!users.noreply.hithub.com until 2023-03-31
+	staceypotter: stacey!weave.works, stacey.potter!dynatrace.com, staceypotter!users.noreply.github.com until 2023-03-31
 	stealthybox: leigh!null.net, leigh!weave.works, stealthybox!users.noreply.github.com from 2021-07-01 until 2021-08-01
 	stefanprodan: stefan.prodan!gmail.com, stefanprodan!users.noreply.github.com from 2017-09-01 until 2023-12-31
 	steve-fraser: steve-fraser!users.noreply.github.com, steve.fraser!weave.works, stevenrfraser7!gmail.com from 2021-09-01
@@ -13973,8 +13974,6 @@ Xealth:
 	joebowbeerxealth: joebowbeerxealth!users.noreply.github.com from 2017-11-01
 Xeba:
 	hamidaria70: hamidaria70!users.noreply.github.com from 2020-06-01
-Xebia:
-	loekd: loekd!users.noreply.github.com from 2022-05-01
 Xebia Nederland:
 	DennisVis: DennisVis!users.noreply.github.com from 2015-01-01 until 2019-12-01
 Xebia Nederland B.V.:
@@ -13995,6 +13994,7 @@ Xebia Nederland B.V.:
 	jbnicolai: Naitreey!gmail.com, janagaprobert!gmail.com, jbnicolai!users.noreply.github.com, joshua!jbna.nl until 2016-06-01
 	jlrigau: jeanlouis.rigau!gmail.com, jlrigau!users.noreply.github.com until 2018-10-01
 	joaoasrosa: joaoasrosa!gmail.com from 2018-05-01
+	loekd: loekd!users.noreply.github.com from 2022-05-01
 	mathieubigorne: mathieu.bigorne!gmail.com until 2015-07-01
 	mehrat: mehra.tanmay!gmail.com from 2015-07-01 until 2018-06-01
 	michaelferwer: michaelferwer!users.noreply.github.com from 2016-07-01 until 2018-06-01

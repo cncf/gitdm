@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+MapTiler:
+	MartinMikita: MartinMikita!users.noreply.github.com from 2018-03-01
 Mapan - PT Ruma:
 	tonnyadhi: tonnyadhi!users.noreply.github.com from 2018-07-01
 Mapbox:
@@ -3072,14 +3074,6 @@ Microsemi A/S:
 	KiranPadwal: kiran.padwal!smartplayin.com, kiran.padwal21!gmail.com from 2015-02-01 until 2016-04-01
 Microsof:
 	robsoned: robsoneduardosantos!gmail.com from 2018-04-01 until 2021-05-01
-Microsoft:
-	ASHIQUEMD: ASHIQUEMD!users.noreply.github.com from 2021-09-01
-	DarrenTurchiarelli: DarrenTurchiarelli!users.noreply.github.com from 2022-06-01
-	ahmedbham: ahmedbham!users.noreply.github.com from 2021-07-01
-	danmoseley: danmose!microsoft.com
-	pdebruin: pdebruin!users.noreply.github.com until 2017-03-01, from 2019-02-01 until 2024-02-01
-	robmaw: robmaw!users.noreply.github.com
-	shivkanwer: shivkanwer!gmail.com from 2019-01-01 until 2023-04-01
 Microsoft Azure:
 	ahmetalpbalkan: ahmetalpbalkan!users.noreply.github.com until 2016-12-01
 Microsoft Corporation:
@@ -3092,6 +3086,7 @@ Microsoft Corporation:
 	AArnott: AArnott!users.noreply.github.com, andarno!microsoft.com, andrew.arnott!microsoft.com, andrewarnott!gmail.com
 	AK-ayush: AK-ayush!users.noreply.github.com, ayushkumar!protonmail.com from 2021-05-01
 	AKhoria: AKhoria!users.noreply.github.com from 2020-02-01 until 2022-04-01
+	ASHIQUEMD: ASHIQUEMD!users.noreply.github.com from 2021-09-01
 	AWaterColorPen: AWaterColorPen!users.noreply.github.com
 	AaronCrawfis: aaron!crawfis.me from 2017-06-01
 	AaronRobinsonMSFT: AaronRobinsonMSFT!users.noreply.github.com, arobins!microsoft.com
@@ -3164,6 +3159,7 @@ Microsoft Corporation:
 	DanielWangZhanggui: DanielWangZhanggui!users.noreply.github.com
 	DarinShapiroMS: dashapir!microsoft.com from 2016-05-01
 	DarqueWarrior: DarqueWarrior!users.noreply.github.com
+	DarrenTurchiarelli: DarrenTurchiarelli!users.noreply.github.com from 2022-06-01
 	Data-drone: Data-drone!users.noreply.github.com, brianh1729!gmail.com
 	DavidHoerster: DavidHoerster!users.noreply.github.com from 2016-05-01
 	DavidLangworthy: DavidLangworthy!users.noreply.github.com
@@ -3454,6 +3450,7 @@ Microsoft Corporation:
 	agocke: angocke!microsoft.com
 	agoncal: agoncal!users.noreply.github.com from 2021-12-01
 	agowdamsft: agowdamsft!users.noreply.github.com from 2017-12-01
+	ahmedbham: ahmedbham!users.noreply.github.com from 2021-07-01
 	ahmelsayed: ahmed!elsayed.io, ahmels!microsoft.com
 	ahmetb: ahmetalpbalkan!gmail.com, ahmetb!google.com, ahmetb!users.noreply.github.com, github!ahmet.im until 2016-12-01
 	ahriman-ru: ahriman-ru!users.noreply.github.com
@@ -3758,6 +3755,7 @@ Microsoft Corporation:
 	dan-leanix: dan-leanix!users.noreply.github.com from 2016-06-01 until 2019-05-01
 	dancadana: shermadana!gmail.com from 2020-04-01
 	danielpops: danielpops!gmail.com, danielpops!users.noreply.github.com until 2015-09-01
+	danmoseley: danmose!microsoft.com
 	danmosemsft: danmose!microsoft.com, danmosemsft!users.noreply.github.com
 	danpodeanu: danpodeanu!users.noreply.github.com from 2016-10-01
 	dansemedo: 34478209+dansemedo!users.noreply.github.com, dansemedo!users.noreply.github.com
@@ -4554,6 +4552,7 @@ Microsoft Corporation:
 	pavel-shirshov: pavelsh!microsoft.com
 	paveldournov: paveld!gmail.com, paveldournov!users.noreply.github.com until 2018-05-01
 	pcwiese: pcwiese!users.noreply.github.com, petercwiese!gmail.com
+	pdebruin: pdebruin!users.noreply.github.com until 2017-03-01, from 2019-02-01 until 2024-02-01
 	pdeslaur: pdeslaur!users.noreply.github.com until 2014-07-01
 	pelithne: pelithne!users.noreply.github.com, peter.lithner!microsoft.com
 	pengzhisun: pengzhisun!live.com, pengzhisun!users.noreply.github.com
@@ -4671,6 +4670,7 @@ Microsoft Corporation:
 	roberto-mardeni: rmardeni!gmail.com, roberto-mardeni!users.noreply.github.com from 2017-12-01
 	robinmanuelthiel: robinmanuelthiel!users.noreply.github.com from 2016-01-01
 	roblourens: roblourens!gmail.com, roblourens!users.noreply.github.com
+	robmaw: robmaw!users.noreply.github.com
 	robvet: robvet!microsoft.com
 	rodz: rodz!users.noreply.github.com from 2021-05-01 until 2021-08-01
 	rofr: rofr!users.noreply.github.com from 2021-05-01 until 2021-08-01
@@ -4756,6 +4756,7 @@ Microsoft Corporation:
 	shiranr: shiranr!users.noreply.github.com from 2020-12-01
 	shirhatti: shirhatti!outlook.com, shirhatti!users.noreply.github.com from 2015-05-01
 	shivamkm07: shivamkm07!gmail.com from 2019-05-01
+	shivkanwer: shivkanwer!gmail.com from 2019-01-01 until 2023-04-01
 	shizhMSFT: shizhMSFT!users.noreply.github.com from 2017-09-01
 	shkhisti: shkhisti!users.noreply.github.com
 	shmao: shmao!microsoft.com, shmao!users.noreply.github.com until 2018-01-01
@@ -4874,6 +4875,7 @@ Microsoft Corporation:
 	thamaraiselvam: thamaraiselvam!live.com, thamaraiselvam!users.noreply.github.com until 2016-12-01
 	thdotnet: thdotnet!users.noreply.github.com, thiago.custodio!hotmail.com from 2019-01-01
 	theAntiYeti: rastellidani!gmail.com from 2021-07-01 until 2021-08-01
+	therealmitchconnors: mitchconnors!gmail.com, therealmitchconnors!users.noreply.github.com from 2024-05-13
 	thisiskaransgit: karanthakur.work!gmail.com from 2022-04-01 until 2022-05-01
 	tholop: pierre!cs.columbia.edu, tholop!users.noreply.github.com from 2022-05-01 until 2022-08-01
 	thomasf7: thomasf7!users.noreply.github.com from 2018-05-01 until 2021-01-01
@@ -6897,6 +6899,7 @@ Mozilla Corporation:
 	ayush-1506: ayush-1506!users.noreply.github.com, ayush.shridhar1506!gmail.com from 2019-05-01 until 2019-08-01
 	badboy: badboy!archlinux.us, badboy!users.noreply.github.com, janerik!fnordig.de
 	batazor: batazor!users.noreply.github.com, batazor111!gmail.com from 2015-05-01 until 2016-05-01
+	benbucksch: benbucksch!users.noreply.github.com until 2018-03-01
 	bnjbvr: public!benj.me
 	brennie: barret!brennie.ca
 	brson: andersrb!gmail.com, brson!users.noreply.github.com until 2017-09-01
@@ -8646,9 +8649,8 @@ Namecheap Inc.:
 	vavsab: vavsab!users.noreply.github.com from 2019-03-01
 	vitalvas: vitalvas!users.noreply.github.com
 	wRLSS: tkalenkonikita!gmail.com, wRLSS!users.noreply.github.com from 2018-12-01
-Namely:
-	Tochemey: Tochemey!users.noreply.github.com from 2021-01-01 until 2021-09-01
 Namely Inc.:
+	Tochemey: Tochemey!users.noreply.github.com from 2021-01-01 until 2021-09-01
 	abe545: abe545!users.noreply.github.com from 2017-07-01
 	bobbytables: bobbytables!users.noreply.github.com, robert!creativequeries.com, robert!firehydrant.io
 	carlosonunez: 13461447+carlosonunez!users.noreply.github.com, carlosonunez!users.noreply.github.com from 2015-10-01 until 2016-05-01

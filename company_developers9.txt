@@ -8696,8 +8696,6 @@ Sonat:
 	ilya-git: ilya-git!users.noreply.github.com from 2018-04-01
 Sonatest:
 	jeff-dagenais: jeff.dagenais!gmail.com
-Sonatype:
-	ravilach: ravilach!users.noreply.github.com from 2016-04-01 until 2017-10-01
 Sonatype Inc.:
 	CMYanko: CMYanko!users.noreply.github.com from 2015-03-01 until 2020-12-01
 	alinskens: alinskens!users.noreply.github.com from 2022-05-01
@@ -8713,6 +8711,7 @@ Sonatype Inc.:
 	maeghan-porter: maeghan-porter!users.noreply.github.com from 2019-04-01
 	mealingr: mealingr!gmail.com from 2017-04-01
 	peterlynch: peterlynch!users.noreply.github.com
+	ravilach: ravilach!users.noreply.github.com from 2016-04-01 until 2017-10-01
 	whyjustin: jyoung!sonatype.com, whyjustin!yahoo.com
 	wrightkris: kwright!sonatype.com from 2017-06-01
 Sonda:
@@ -10557,6 +10556,7 @@ Stacklet:
 Stacklok:
 	evankanderson: argent!google.com, evan.k.anderson!gmail.com, evana!vmware.com, evankanderson!users.noreply.github.com from 2023-06-22
 	jhrozek: jhrozek!users.noreply.github.com from 2023-08-01
+	staceypotter: stacey!weave.works, stacey.potter!dynatrace.com, staceypotter!users.noreply.github.com from 2024-04-15
 Stackmasters:
 	apollotonkosmo: apollotonkosmo!users.noreply.github.com from 2015-01-01 until 2018-01-01
 	parath: aparathyras!stackmasters.eu
@@ -16528,5 +16528,3 @@ TerraPower LLC.:
 	josiahbjorgaard: josiahbjorgaard!gmail.com, josiahbjorgaard!users.noreply.github.com from 2018-09-01 until 2019-01-01
 TerraVia Holdings:
 	timothyjlaurent: timothyjlaurent!users.noreply.github.com until 2015-03-01
-Terrabit:
-	ggogel: gerrit!gogel.me, ggogel!users.noreply.github.com from 2019-10-01 until 2021-04-01

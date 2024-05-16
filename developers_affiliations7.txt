@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+quentinlacrouts: quentinlacrouts!users.noreply.github.com
+	CHEOPS TECHNOLOGY until 2016-02-01
+	Le Groupe La Poste from 2016-02-01 until 2016-09-01
+	Endava from 2016-09-01 until 2018-09-01
+	Imdependent from 2018-09-01
 quentinleclerc: quentinleclerc!users.noreply.github.com
 	SAS until 2014-07-01
 	Independent from 2014-07-01 until 2017-06-01
@@ -849,7 +854,7 @@ rahulsawra: rahulsawra!users.noreply.github.com
 	Independent until 2020-08-01
 	LTI - Larsen & Toubro Infotech from 2020-08-01 until 2021-08-01
 	CNCF from 2021-08-01 until 2021-12-01
-	InfraCloud from 2021-12-01
+	Infracloud Technologies INC from 2021-12-01
 rahulsawra98: rahulsawra98!users.noreply.github.com
 	Independent until 2020-08-01
 	LTI - Larsen & Toubro Infotech from 2020-08-01 until 2021-08-01
@@ -1797,10 +1802,10 @@ raviknox: raviknox!users.noreply.github.com
 	Independent from 2017-12-01 until 2019-01-01
 	Rakuten from 2019-01-01
 ravilach: ravilach!users.noreply.github.com
-	Red Hat until 2016-04-01
-	Sonatype from 2016-04-01 until 2017-10-01
+	Red Hat Inc. until 2016-04-01
+	Sonatype Inc. from 2016-04-01 until 2017-10-01
 	Mesosphere from 2017-10-01 until 2018-06-01
-	AppDynamics from 2018-06-01 until 2019-05-01
+	AppDynamics LLC from 2018-06-01 until 2019-05-01
 	Harness from 2019-05-01 until 2021-09-01
 	Shipa from 2021-09-01 until 2022-07-01
 	Harness from 2022-07-01
@@ -3567,7 +3572,7 @@ ricardo-bion: ricardo-bion!users.noreply.github.com, ricardobion!gmail.com
 ricardo-larosa: ricardo!larosa.dev, ricardo!larosasanoja.com, ricardo-larosa!users.noreply.github.com, rlr!vmware.com
 	Independent until 2022-08-15
 	VMware Inc. from 2022-08-15
-ricardoapl: ricardoapl.dev!gmail.com, ricardoapl!protonmail.com, r.lopes!kigroup.de
+ricardoapl: r.lopes!kigroup.de, ricardoapl!protonmail.com, ricardoapl!users.noreply.github.com, ricardoapl.dev!gmail.com
 	xgeeks
 ricardobranco777: rbranco!suse.de, ricardobranco777!users.noreply.github.com
 	Smartmatic until 2018-07-01
@@ -4146,7 +4151,7 @@ rite2nikhil: nbhatia!microsoft.com, rite2nikhil!gmail.com, rite2nikhil!users.nor
 	Microsoft Corporation
 ritesh-avesha: ritesh-avesha!users.noreply.github.com
 	Independent until 2017-07-01
-	Cognizant from 2017-07-01 until 2019-09-01
+	Cognizant Technology Solutions from 2017-07-01 until 2019-09-01
 	Avesha from 2019-09-01
 riteshnanda09: riteshnanda09!gmail.com
 	Kaiser Permanente until 2014-10-01
@@ -5186,7 +5191,7 @@ robmadole: robmadole!gmail.com, robmadole!users.noreply.github.com
 	Ramsey from 2014-08-01 until 2015-11-01
 	Fonticons from 2015-11-01
 robmaw: robmaw!users.noreply.github.com
-	Microsoft
+	Microsoft Corporation
 robo-corg: amcharg+github!gmail.com
 	Independent
 robobario: robobario!users.noreply.github.com
@@ -6329,7 +6334,7 @@ rouke-broersma: mobrockers!gmail.com
 	Independent until 2015-10-01
 	Adaption from 2015-10-01 until 2016-09-01
 	Independent from 2016-09-01 until 2017-01-01
-	Info Support from 2017-01-01
+	Info Support BV from 2017-01-01
 rouming: r.peniaev!gmail.com, rpenyaev!suse.de
 	SUSE LLC
 routerhan: routerhan!users.noreply.github.com
@@ -13755,9 +13760,9 @@ shivi28: shivani.singhal2804!gmail.com, shivi28!users.noreply.github.com, sishiv
 	VMware Inc. from 2021-05-03 until 2023-12-01
 	Broadcom Corporation from 2023-12-01
 shivkanwer: shivkanwer!gmail.com
-	Infosys until 2017-03-01
+	Infosys Limited until 2017-03-01
 	PwC Acceleration Centers from 2017-03-01 until 2019-01-01
-	Microsoft from 2019-01-01 until 2023-04-01
+	Microsoft Corporation from 2019-01-01 until 2023-04-01
 	GE HealthCare from 2023-04-01
 shivkanya9146: shivkanya9146!users.noreply.github.com
 	Independent
@@ -15595,11 +15600,11 @@ skhatri: servlet2!msn.com, skhatri!users.noreply.github.com
 	Macquarie Group USA from 2015-06-01 until 2020-04-01
 	Standard Chartered Bank from 2020-04-01
 skhreshefsharvit: reshef.sharvit!skyhawk.security
-	Aumix until 2015-12-01
-	IBM from 2015-12-01 until 2017-08-01
+	AUMIX Internet Solutions Ltd until 2015-12-01
+	International Business Machines Corporation from 2015-12-01 until 2017-08-01
 	WalkMe from 2017-08-01 until 2019-08-01
-	Aqua Security from 2019-08-01 until 2021-11-01
-	Axiom from 2021-11-01 until 2023-07-01
+	Aqua Security Software Inc. from 2019-08-01 until 2021-11-01
+	Axiom Global Inc. from 2021-11-01 until 2023-07-01
 	Skyhawk Security from 2023-07-01
 skidder: scott!mux.com, skidder!users.noreply.github.com
 	Brightcove Inc. until 2016-05-01
@@ -18677,13 +18682,14 @@ sta-szek: sta-szek!users.noreply.github.com
 	Independent until 2016-06-01
 	Cinkciarz from 2016-06-01
 stabai: stabai!users.noreply.github.com
-	Google until 2021-01-01
+	Google LLC until 2021-01-01
 	Independent from 2021-01-01 until 2021-04-01
-	Commure from 2021-04-01 until 2022-03-01
+	Commure Inc. from 2021-04-01 until 2022-03-01
 	Actual from 2022-03-01
-staceypotter: stacey!stacklok.com, stacey!weave.works, stacey.potter!dynatrace.com, staceypotter!users.noreply.github.com
+staceypotter: stacey!weave.works, stacey.potter!dynatrace.com, staceypotter!users.noreply.github.com
 	Weaveworks Inc. until 2023-03-31
 	Dynatrace LLC from 2023-03-31 until 2024-02-01
+	Independent from 2024-02-01 until 2024-04-15
 	Stacklok from 2024-04-15
 staciegravy: stacie.graves!gmail.com, staciegravy!users.noreply.github.com
 	Armory Inc.
@@ -23813,22 +23819,3 @@ tetchel: tetchel!gmail.com
 	Independent from 2017-08-01 until 2018-07-01
 	International Business Machines Corporation from 2018-07-01 until 2020-09-01
 	Red Hat Inc. from 2020-09-01
-tetchel: tetchel!users.noreply.github.com
-	FormAssembly until 2016-05-01
-	International Business Machines Corporation from 2016-05-01 until 2018-12-01
-	Bloomberg Second Measure from 2018-12-01 until 2021-01-01
-	Bloomberg from 2021-01-01
-tetianakravchenko: tetiana.kravchenko!commercetools.de, tetianakravchenko!users.noreply.github.com
-	Independent until 2019-04-01
-	Knorr-Bremse from 2019-04-01
-tetsusat: tetsusat!users.noreply.github.com
-	Cisco
-tetsuya28: tet.lv11!gmail.com, tetsuya28!users.noreply.github.com
-	Independent until 2019-07-01
-	Rakuten Group Inc. from 2019-07-01 until 2019-08-01
-	株式会社ロコタビ from 2019-08-01
-tettamanti: kronos.it!gmail.com
-	Apple Inc. until 2014-12-01
-	Google LLC from 2014-12-01
-tetuyosi: tetuyosi!users.noreply.github.com
-	realworld-jp

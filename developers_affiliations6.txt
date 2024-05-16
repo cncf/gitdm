@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+mat1e: delrocq.mathieu!gmail.com, mat1e!users.noreply.github.com, mathieu-externe.delrocq!edf.fr
+	Groupe HN until 2017-08-01
+	CGI from 2017-08-01 until 2020-04-01
+	Henix from 2020-04-01
 mat285: mat285!users.noreply.github.com
 	Independent until 2017-05-01
 	Ryatta from 2017-05-01 until 2017-09-01
@@ -18648,9 +18652,9 @@ pdbogen: patrick!srcclr.com, pdbogen!users.noreply.github.com
 	SourceClear until 2016-12-01
 	Slack Technologies Inc. from 2016-12-01
 pdebruin: pdebruin!users.noreply.github.com
-	Microsoft until 2017-03-01
-	Docker from 2017-03-01 until 2019-02-01
-	Microsoft from 2019-02-01 until 2024-02-01
+	Microsoft Corporation until 2017-03-01
+	Docker Inc. from 2017-03-01 until 2019-02-01
+	Microsoft Corporation from 2019-02-01 until 2024-02-01
 	Iasa Global from 2024-02-01 until 2024-04-01
 	Hogeschool Utrecht from 2024-04-01
 pdecat: pdecat!gmail.com, pdecat!users.noreply.github.com
@@ -23791,8 +23795,3 @@ queenypingcap: jinkun!pingcap.com, queenypingcap!users.noreply.github.com
 quentin-cha: quentin-cha!users.noreply.github.com
 	Sandvine Incorporated until 2020-09-01
 	Google LLC from 2020-09-01
-quentinlacrouts: quentinlacrouts!users.noreply.github.com
-	CHEOPS TECHNOLOGY until 2016-02-01
-	Le Groupe La Poste from 2016-02-01 until 2016-09-01
-	Endava from 2016-09-01 until 2018-09-01
-	Imdependent from 2018-09-01

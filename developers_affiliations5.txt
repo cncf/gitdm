@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+jbdoumenjou: jb.doumenjou!gmail.com, jbdoumenjou!users.noreply.github.com
+	Lyra until 2016-04-01
+	Payname from 2016-04-01 until 2016-06-01
+	Morning from 2016-06-01 until 2017-02-01
+	Preludd from 2017-02-01 until 2018-02-01
+	Traefik from 2018-02-01
 jbeda: jbeda!users.noreply.github.com, jbeda!vmware.com, joe!bedafamily.com, joe!heptio.com, joe.github!bedafamily.com
 	Google LLC until 2015-05-01
 	Independent from 2015-05-01 until 2016-11-01
@@ -18529,7 +18535,7 @@ loe: andrew!andrewloe.com, loe!users.noreply.github.com
 loekd: loekd!users.noreply.github.com
 	RES until 2015-06-01
 	Independent from 2015-06-01 until 2022-05-01
-	Xebia from 2022-05-01
+	Xebia Nederland B.V. from 2022-05-01
 loethi: lw!karo-electronics.de
 	Ka-Ro electronics GmbH
 loewenstein: jan.von.loewenstein!sap.com, loewenstein!users.noreply.github.com
@@ -23874,7 +23880,3 @@ mat-rumian: mat-rumian!users.noreply.github.com
 	Sumo Logic Inc. from 2019-11-01
 mat007: mat007!users.noreply.github.com, mathieu.champlon!docker.com
 	Docker Inc.
-mat1e: delrocq.mathieu!gmail.com, mat1e!users.noreply.github.com, mathieu-externe.delrocq!edf.fr
-	Groupe HN until 2017-08-01
-	CGI from 2017-08-01 until 2020-04-01
-	Henix from 2020-04-01

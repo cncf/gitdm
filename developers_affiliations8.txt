@@ -5,6 +5,25 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+tetchel: tetchel!users.noreply.github.com
+	FormAssembly until 2016-05-01
+	International Business Machines Corporation from 2016-05-01 until 2018-12-01
+	Bloomberg Second Measure from 2018-12-01 until 2021-01-01
+	Bloomberg from 2021-01-01
+tetianakravchenko: tetiana.kravchenko!commercetools.de, tetianakravchenko!users.noreply.github.com
+	Independent until 2019-04-01
+	Knorr-Bremse from 2019-04-01
+tetsusat: tetsusat!users.noreply.github.com
+	Cisco
+tetsuya28: tet.lv11!gmail.com, tetsuya28!users.noreply.github.com
+	Independent until 2019-07-01
+	Rakuten Group Inc. from 2019-07-01 until 2019-08-01
+	株式会社ロコタビ from 2019-08-01
+tettamanti: kronos.it!gmail.com
+	Apple Inc. until 2014-12-01
+	Google LLC from 2014-12-01
+tetuyosi: tetuyosi!users.noreply.github.com
+	realworld-jp
 teunw: teunw!users.noreply.github.com
 	Van Doren Engineers until 2014-08-01
 	Independent from 2014-08-01 until 2015-07-01
@@ -821,6 +840,7 @@ therealmitchconnors: mitchconnors!gmail.com, therealmitchconnors!users.noreply.g
 	F5 Networks Inc. from 2015-10-01 until 2018-11-01
 	Google LLC from 2018-11-01 until 2022-11-03
 	Aviatrix from 2022-11-03 until 2024-04-01
+	Independent from 2024-04-01 until 2024-05-13
 	Microsoft Corporation from 2024-05-13
 therealnb: therealnb!users.noreply.github.com
 	Cerallon
@@ -1206,7 +1226,7 @@ thomasmckay: tomckay!redhat.com
 thomasmey: thomas!m3y3r.de, thomasmey!users.noreply.github.com
 	EVRY
 thomasmhofmann: thomasmhofmann!users.noreply.github.com
-	IBM
+	International Business Machines Corporation
 thomaso-mirodin: thomas!databricks.com, thomaso-mirodin!users.noreply.github.com
 	Databricks Inc.
 thomasphall: thomashall!redhat.com

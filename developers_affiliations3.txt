@@ -5,6 +5,8 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+bcorso: bcorso!google.com
+	Google LLC
 bcotton: bcotton!users.noreply.github.com, bob.cotton!gmail.com
 	Independent until 2017-01-01
 	FreshTracks.io (CA INC) from 2017-01-01 until 2018-11-01
@@ -425,7 +427,7 @@ benbrandt: benbrandt!users.noreply.github.com, benjamin.j.brandt!gmail.com
 	Talentpair from 2019-09-01 until 2021-06-01
 	Aleph from 2021-06-01
 benbucksch: benbucksch!users.noreply.github.com
-	mozilla until 2018-03-01
+	Mozilla Corporation until 2018-03-01
 	Beonex from 2018-03-01 until 2020-09-01
 	Beonex from 2020-09-01
 benc-uk: becolem!microsoft.com
@@ -2455,7 +2457,7 @@ blakelapierre: blakelapierre!gmail.com, blakelapierre!users.noreply.github.com
 	Independent
 blakepettersson: blakepettersson!users.noreply.github.com
 	Krobier until 2024-02-01
-	Akuity from 2024-02-01
+	Akuity Inc. from 2024-02-01
 blakeroberts-wk: blake.roberts!workiva.com, blakeroberts-wk!users.noreply.github.com
 	DuPont Pioneer until 2015-01-01
 	Hy-Vee Market Grille from 2015-01-01 until 2015-08-01
@@ -15852,7 +15854,7 @@ danmontgomery: dan!dmontgomery.net, danmontgomery!users.noreply.github.com
 	OCTO Technology until 2020-03-01
 	Sagely from 2020-03-01
 danmoseley: danmose!microsoft.com
-	Microsoft
+	Microsoft Corporation
 danmosemsft: danmose!microsoft.com, danmosemsft!users.noreply.github.com
 	Microsoft Corporation
 danmx: daniel!iziourov.info, danmx!users.noreply.github.com
@@ -23681,9 +23683,3 @@ durairajasivam: durairajasivam!gmail.com, durairajasivam!users.noreply.github.co
 	JTC Corporation from 2021-09-01
 durana: adam!nine.net, durana!users.noreply.github.com
 	Burning Bay Technologies
-durandom: durandom!users.noreply.github.com, mhild!redhat.com
-	Moebel-Monster until 2016-01-01
-	Independent from 2016-01-01 until 2019-06-01
-	Red Hat Inc. from 2019-06-01
-durd07: durd07!gmail.com, durd07!users.noreply.github.com
-	Nokia Corporation

@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+durandom: durandom!users.noreply.github.com, mhild!redhat.com
+	Moebel-Monster until 2016-01-01
+	Independent from 2016-01-01 until 2019-06-01
+	Red Hat Inc. from 2019-06-01
+durd07: durd07!gmail.com, durd07!users.noreply.github.com
+	Nokia Corporation
 durgadoss: durgadoss.r!intel.com
 	Intel Corporation
 durgell-bl: durgell-bl!users.noreply.github.com
@@ -223,7 +229,7 @@ dwagelaar: dwagelaar!users.noreply.github.com
 	HealthConnect until 2016-12-01
 	Corilus from 2016-12-01
 dwaite: david!alkaline-solutions.com
-	Ping Identity
+	Ping Identity Corporation
 dwalker-va: dwalker-va!users.noreply.github.com
 	Vendasta
 dwalleck: dwalleck!gmail.com, dwalleck!users.noreply.github.com, milan.vasic.su!gmail.com
@@ -7979,7 +7985,7 @@ franzudev: fede.franzu!gmail.com, franzudev!users.noreply.github.com
 	Independent until 2019-06-01
 	Brokenice Interactive from 2019-06-01 until 2021-09-01
 	Soft Strategy from 2021-09-01 until 2022-05-01
-	Kiratech from 2022-05-01
+	Kiratech SpA from 2022-05-01
 fraozy: fraozy!users.noreply.github.com
 	Bosch
 frapposelli: fabio!rapposelli.org, fabio!vmware.com, frapposelli!users.noreply.github.com, matt!ucc.asn.au
@@ -8577,7 +8583,7 @@ fullmetal-fred: fullmetal-fred!users.noreply.github.com
 	Independent until 2015-06-01
 	Neurilink from 2015-06-01 until 2018-05-01
 	Micron from 2018-05-01 until 2020-07-01
-	VMware from 2020-07-01 until 2020-11-01
+	VMware Inc. from 2020-07-01 until 2020-11-01
 	Level 3 Audiovisual from 2020-11-01 until 2023-09-01
 	Independent from 2023-09-01 until 2024-05-01
 	Zoom from 2024-05-01
@@ -18110,7 +18116,7 @@ hzhuang1: haojian.zhuang!gmail.com, haojian.zhuang!linaro.org
 hzxuzhonghu: hzxuzhonghu!users.noreply.github.com, xuzhonghu!huawei.com, zhhxu2011!163.com
 	Huawei Technologies Co. Ltd
 hzyfox: cszhenyuhu!gmail.com, hzyfox!users.noreply.github.com
-	Alibaba
+	Alibaba Group
 hzzhan9: haozhong.zhang!intel.com
 	Intel Corporation
 i-am-yuvi: i-am-yuvi!users.noreply.github.com
@@ -23880,9 +23886,3 @@ jbcrail: jbcrail!gmail.com, jbcrail!users.noreply.github.com
 	Continuum Analytics
 jbdalido: jbdalido!gmail.com, jbdalido!users.noreply.github.com
 	Zenly
-jbdoumenjou: jb.doumenjou!gmail.com, jbdoumenjou!users.noreply.github.com
-	Lyra until 2016-04-01
-	Payname from 2016-04-01 until 2016-06-01
-	Morning from 2016-06-01 until 2017-02-01
-	Preludd from 2017-02-01 until 2018-02-01
-	Traefik from 2018-02-01
