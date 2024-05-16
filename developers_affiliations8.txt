@@ -5,6 +5,87 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+terry-sm: terry-sm!users.noreply.github.com
+	FormAssembly until 2016-05-01
+	International Business Machines Corporation from 2016-05-01 until 2018-12-01
+	Bloomberg Second Measure from 2018-12-01 until 2021-01-01
+	Bloomberg from 2021-01-01
+terryheo: terryheo!google.com
+	Google LLC
+terrykong: terrykong!users.noreply.github.com
+	Belkin until 2014-08-01
+	Independent from 2014-08-01 until 2015-06-01
+	Gatan from 2015-06-01 until 2015-09-01
+	Independent from 2015-09-01 until 2016-04-01
+	SoundHound from 2016-04-01 until 2022-12-01
+	NVIDIA Corporation from 2022-12-01
+terrytangyuan: terrytangyuan!gmail.com, terrytangyuan!users.noreply.github.com
+	Independent until 2015-09-01
+	Uptake Technologies Inc. from 2015-09-01 until 2017-11-01
+	Independent from 2017-11-01 until 2017-12-01
+	H2o.ai Inc. from 2017-12-01 until 2018-05-01
+	Independent from 2018-05-01 until 2018-06-01
+	Alibaba Group from 2018-06-01 until 2021-08-01
+	Akuity Inc. from 2021-08-01 until 2023-12-01
+	Red Hat Inc. from 2023-12-01
+tescherm: matthew.tescher!docker.com, tescherm!gmail.com, tescherm!users.noreply.github.com
+	Docker Inc.
+teselkin: dteselkin!mirantis.com
+	Mirantis Inc.
+tesharp: tesharp!users.noreply.github.com
+	Eye-share until 2018-03-01
+	Avinor AS from 2018-03-01 until 2020-05-01
+	Torkelsen from 2020-05-01
+tessalt: tessathornton!gmail.com
+	Nascent LLC until 2014-11-01
+	Shopify Inc. from 2014-11-01 until 2017-04-01
+	Dot Health Inc from 2017-04-01 until 2019-07-01
+	Vox Media Inc. from 2019-07-01
+tessellator: taylor.thomas.c!gmail.com, tessellator!users.noreply.github.com
+	Metabahn until 2015-07-01
+	deciBel from 2015-07-01 until 2016-09-01
+	Guaranteed Rate from 2016-09-01 until 2020-07-01
+	Reify Health from 2020-07-01
+tesseract2048: hty0807!gmail.com, tesseract2048!users.noreply.github.com
+	Independent until 2015-05-01
+	Bytedance Ltd from 2015-05-01
+tesshuflower: tesshuflower!users.noreply.github.com, tflower!redhat.com
+	Red Hat Inc.
+tesspib: tesspib!users.noreply.github.com
+	Independent until 2015-04-01
+	Air France from 2015-04-01 until 2018-09-01
+	Prodrive Technologies from 2018-09-01 until 2019-05-01
+	Kumina B.V. from 2019-05-01
+tessr: tess.rinearson!gmail.com
+	Medium until 2015-03-01
+	Chain from 2015-03-01 until 2018-09-01
+	Interstellar Inc from 2018-09-01
+tessr: tessr!users.noreply.github.com
+	FormAssembly until 2016-05-01
+	International Business Machines Corporation from 2016-05-01 until 2018-12-01
+	Bloomberg Second Measure from 2018-12-01 until 2021-01-01
+	Bloomberg from 2021-01-01
+test-job: rosca.eugeniu!gmail.com
+	ENEA Software AB until 2015-12-01
+	ADIT from 2015-12-01
+testforstephen: testforstephen!users.noreply.github.com
+	International Business Machines Corporation until 2015-03-01
+	Microsoft Corporation from 2015-03-01
+testingbot: info!testingbot.com
+	(Robots)
+tesujimath: simon.guest!tesujimath.org, tesujimath!users.noreply.github.com
+	Coldharbour Digital LTD.
+tesujimath: vojtech!miksu.cz
+	FormAssembly until 2016-05-01
+	International Business Machines Corporation from 2016-05-01 until 2018-12-01
+	Bloomberg Second Measure from 2018-12-01 until 2021-01-01
+	Bloomberg from 2021-01-01
+tetchel: tetchel!gmail.com
+	Independent until 2016-05-01
+	International Business Machines Corporation from 2016-05-01 until 2017-08-01
+	Independent from 2017-08-01 until 2018-07-01
+	International Business Machines Corporation from 2018-07-01 until 2020-09-01
+	Red Hat Inc. from 2020-09-01
 tetchel: tetchel!users.noreply.github.com
 	FormAssembly until 2016-05-01
 	International Business Machines Corporation from 2016-05-01 until 2018-12-01
@@ -6849,7 +6930,8 @@ varunkumar: varunkumar!users.noreply.github.com, varunkumar.n!gmail.com
 	The D. E. Shaw Group until 2015-06-01
 	Arcesium from 2015-06-01
 varunmar: varunmar!google.com, varunmar!users.noreply.github.com
-	Google LLC
+	Google LLC until 2023-04-01
+	Snowflake from 2023-04-01
 varunpalekar: varunpalekar!users.noreply.github.com
 	Adstuck until 2014-03-01
 	Independent from 2014-03-01 until 2014-10-01
@@ -10323,6 +10405,8 @@ waxxmaster: vincent!moonify.io
 	Moonify
 wayilau: 3197838+wayilau!users.noreply.github.com, liuweiyi!cmss.chinamobile.com, wayilau!users.noreply.github.com
 	China Mobile Communication Company Ltd
+wayne666: cumtxhzyy!gmail.com, wayne666!users.noreply.github.com
+	kingsoft-cloud
 waynebrantley: wayne!waynebrantley.com, waynebrantley!users.noreply.github.com
 	Independent
 waynechan9: chenlx!fiberhome.com, chenlx9!163.com, waynechan76!gmail.com, waynechan9!users.noreply.github.com
@@ -11976,6 +12060,8 @@ wondersd: wondersd!users.noreply.github.com
 	Diameter Health
 wonderwddi: di.wang!intel.com
 	Intel Corporation
+wongben: wong915!gmail.com, wongben!users.noreply.github.com
+	MegaFusion
 wongearl: vamliang!163.com, wangyongliang!beyondcent.com, wongearl!users.noreply.github.com
 	BoCloud
 wongma7: mattwon!amazon.com, mawong!redhat.com, wongma7!users.noreply.github.com

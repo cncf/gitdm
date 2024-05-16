@@ -2085,6 +2085,7 @@ Intel Corporation:
 	castulo: castulo.martinez!intel.com
 	cataylox: clinton.a.taylor!intel.com
 	catblade: catblade!users.noreply.github.com until 2014-01-01, from 2016-11-01
+	cathyhongzhang: cathy.h.zhang!huawei.com, cathyhongzhang!users.noreply.github.com, hzhang!futurewei.com from 2021-05-01 until 2023-10-01
 	cboylan: cboylan!users.noreply.github.com, clark.boylan!gmail.com until 2012-04-23
 	cbuchacher: cbuchacher!users.noreply.github.com, clemens.buchacher!xavo.com until 2016-02-01
 	cchew14: chiau.ee.chew!intel.com
@@ -7347,7 +7348,7 @@ Juniper Networks Inc.:
 	Ishmeet: Ishmeet!users.noreply.github.com, ishmeetsinghis!gmail.com from 2022-05-01
 	Mierdin: Mierdin!users.noreply.github.com from 2018-01-01
 	Vivek-anand-jain: Vivek-anand-jain!users.noreply.github.com from 2021-06-01 until 2021-09-01
-	WeixuZhuang: weixu!appformix.com
+	WeixuZhuang: WeixuZhuang!users.noreply.github.com, jonathanballs!protonmail.com, tyethgundry!gmail.com, weixu!appformix.com from 2016-12-01 until 2020-04-01
 	akbhat: akbhat!aviatrix.com until 2019-09-01
 	alrighttheresham: damian.oneill!gmail.com from 2016-03-01
 	amsaha: amitsaha.in!gmail.com, amsaha!users.noreply.github.com until 2014-12-01
@@ -9398,6 +9399,7 @@ Klebert Engineering:
 	sai-kumar-peddireddy: sai-kumar-peddireddy!users.noreply.github.com from 2021-08-01 until 2022-08-01
 Klee:
 	kabooboo: kabooboo!users.noreply.github.com from 2016-05-01 until 2016-08-01
+	metal3d: metal3d!gmail.com, metal3d!users.noreply.github.com from 2023-09-01
 Klei Entertainment:
 	BlueMonday: BlueMonday!users.noreply.github.com, jeethridge!gmail.com, stevenerenst!gmail.com from 2017-02-15
 Kleiner Perkins:
@@ -9654,6 +9656,7 @@ Koeus Software / Indexeo:
 	pascal-vs: pascal-vs!users.noreply.github.com from 2016-09-01 until 2019-04-01
 Kofax:
 	marcvelasco: marcvelasco!users.noreply.github.com, marcvelasco!yahoo.com until 2015-08-01
+	mjiderhamn: mjiderhamn!users.noreply.github.com from 2017-06-01 until 2018-06-01, from 2018-12-01 until 2021-10-01
 Kogence:
 	SunPj: root!sunsongs.ru from 2017-09-01
 Kognia:
@@ -10102,6 +10105,7 @@ Kubecost:
 	cliffcolvin: clifford.colvin!gmail.com from 2023-05-01
 	mattray: github!mattray.dev, matt!chef.io, matthewhray!gmail.com, mattray!users.noreply.github.com from 2022-04-01
 Kubeflow:
+	DavidSpek: DavidSpek!users.noreply.github.com from 2020-07-01 until 2021-09-01
 	RFMVasconcelos: RFMVasconcelos!users.noreply.github.com, rui.vasconcelos.mail!gmail.com from 2020-04-01 until 2021-08-01
 	jbottum: jbottum!users.noreply.github.com, joshbottum!gmail.com from 2022-02-01
 KuberFirma:
@@ -10367,6 +10371,7 @@ KÃ©rozen interactive media:
 König:
 	mwopfner: mwopfner!users.noreply.github.com from 2018-08-01 until 2022-02-01
 Körber Pharma:
+	FelschR: FelschR!users.noreply.github.com, dev!felschr.com until 2016-09-01
 	claas-fridtjof-lisowski: claas-fridtjof-lisowski!users.noreply.github.com until 2017-06-01
 Kühne+Nagel:
 	zadjadr: zadjadr!users.noreply.github.com from 2021-10-01 until 2023-01-01
@@ -10630,6 +10635,7 @@ LINE:
 	cybergartar: cybergartar!users.noreply.github.com from 2019-12-01
 	dineshbhor: bhordinesh07!gmail.com, dineshbhor!users.noreply.github.com from 2018-06-01 until 2021-12-01
 	dplusic: dplusic!gmail.com, dplusic!users.noreply.github.com from 2017-01-01 until 2018-11-01
+	furukawa3: furukawa3!users.noreply.github.com from 2020-10-01
 	hyunuk: hyunuk!amazon.com, hyunuk!users.noreply.github.com until 2015-11-01
 	joey-yoonsung: yoonsung.lee!linecorp.com
 	kencharos: kencharos!users.noreply.github.com from 2018-12-01
@@ -12191,6 +12197,7 @@ Lexmark International Inc.:
 	ethanchowell: ethanchowell!users.noreply.github.com from 2017-04-01 until 2017-08-01
 	jdlubrano: jdlubrano!users.noreply.github.com, joel.lubrano!gmail.com until 2015-12-01
 	matoszz: matoszz!users.noreply.github.com until 2017-02-01
+	mjiderhamn: mjiderhamn!users.noreply.github.com from 2015-09-01 until 2017-06-01
 	pderwin: erwin!lexmark.com, pderwin!users.noreply.github.com
 Lextech:
 	agnosticdev: agnosticdev!gmail.com, agnosticdev!users.noreply.github.com from 2016-11-01 until 2019-10-01
@@ -16218,14 +16225,3 @@ MapR:
 	mengdong: mengdong!users.noreply.github.com from 2015-01-01 until 2018-01-01
 	millerdz: millerdz!users.noreply.github.com from 2017-06-01 until 2018-02-01
 	pconrad-fb: pconrad-fb!users.noreply.github.com, stymied!gmail.com until 2014-03-01
-MapR Technologies:
-	aggress: aggress!users.noreply.github.com, richard!aggress.net from 2014-02-15 until 2016-06-15
-	antje: antje!users.noreply.github.com from 2016-08-01 until 2019-06-01
-	anwaradil: anwar.adil!live.com, anwaradil!users.noreply.github.com from 2015-07-01 until 2019-04-01
-	ashishsangwan2: ashishsangwan2!gmail.com from 2015-09-01 until 2018-05-01
-	dsbos: dbarclay!savi.com, dsbos!users.noreply.github.com until 2015-11-01
-	hashkanna: hashkanna!users.noreply.github.com until 2016-03-01
-	kirankumar-mahi: kirankumar.mahi!gmail.com from 2016-08-01 until 2019-11-01
-	mhausenblas: hausenbl!amazon.com, mhausenblas!users.noreply.github.com, michael.hausenblas!gmail.com until 2015-04-01
-	paul-rogers: paul-rogers!users.noreply.github.com from 2016-02-01 until 2018-01-01
-	vkorukanti: vkorukanti!users.noreply.github.com until 2015-12-01

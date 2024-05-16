@@ -5,6 +5,58 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+bclouser: bclouser!users.noreply.github.com
+	VT iDirect until 2016-06-01
+	TableSafe from 2016-06-01 until 2018-03-01
+	Toradex from 2018-03-01
+bcmills: bcmills!users.noreply.github.com, bryan!bcmills.net
+	Google LLC
+bcoe: bcoe!users.noreply.github.com, bencoe!gmail.com, bencoe!google.com
+	Yesware until 2014-03-01
+	npm Inc. from 2014-03-01 until 2019-03-01
+	Google LLC from 2019-03-01
+bcollard: bcollard!users.noreply.github.com
+	Auchan until 2018-11-01
+	Airbus from 2018-11-01 until 2020-11-01
+	Solo.io from 2020-11-01 until 2023-06-01
+	Kong Inc. from 2023-06-01
+bcolucci: brice.colucci!gmail.com
+	Crakmedia Inc. until 2015-02-01
+	Batch.com from 2015-02-01 until 2015-04-01
+	Econocom from 2015-04-01 until 2015-09-01
+	Wuha from 2015-09-01 until 2017-01-01
+	Consumedias from 2017-01-01 until 2017-08-01
+	SKALE-5 from 2017-08-01 until 2018-09-01
+	LOGMEIN INC. from 2018-09-01 until 2021-07-01
+	OMEGA POINT from 2021-07-01 until 2022-01-01
+	Independent from 2022-01-01
+bcomnes: bcomnes!gmail.com, bcomnes!users.noreply.github.com
+	Independent until 2015-04-01
+	Airship from 2015-04-01 until 2015-07-01
+	Jaguar Land Rover Ltd. from 2015-07-01 until 2016-02-01
+	ZHealth Publishing LLC from 2016-02-01 until 2017-04-01
+	Netlify from 2017-04-01 until 2019-05-01
+	Hyperdivision ApS from 2019-05-01
+bcongdon: bcongdo2!illinois.edu, bcongdon!users.noreply.github.com, bencongdon96!gmail.com
+	Independent until 2018-05-01
+	Google LLC from 2018-05-01 until 2018-08-01
+	Meta Platforms Inc. from 2018-08-01 until 2018-10-01
+	Independent from 2018-10-01 until 2018-11-01
+	Independent from 2018-11-01 until 2019-08-01
+	Google LLC from 2019-08-01 until 2020-07-01
+	Databricks Inc. from 2020-07-01
+bcopeland: me!bobcopeland.com
+	Independent
+bcorijn: bcorijn!users.noreply.github.com
+	Evo Systems until 2014-12-01
+	Independent from 2014-12-01 until 2015-02-01
+	Companhio de Conteido from 2015-02-01 until 2015-09-01
+	Independent from 2015-09-01 until 2016-09-01
+	ABIn Bev from 2016-09-01 until 2017-04-01
+	Wunder Carpool from 2017-04-01 until 2018-02-01
+	Liqid Labs from 2018-02-01
+bcorijn: bruno!woorank.com
+	Woorank spl
 bcorso: bcorso!google.com
 	Google LLC
 bcotton: bcotton!users.noreply.github.com, bob.cotton!gmail.com
@@ -7388,7 +7440,9 @@ cathychan: cchan!cloudbees.com
 	McGraw Hill from 2014-12-01 until 2021-02-01
 	CloudBees Inc. from 2021-02-01
 cathyhongzhang: cathy.h.zhang!huawei.com, cathyhongzhang!users.noreply.github.com, hzhang!futurewei.com
-	Huawei Technologies Co. Ltd
+	Futurewei Technologies Inc. until 2021-05-01
+	Intel Corporation from 2021-05-01 until 2023-10-01
+	CNCF from 2023-10-01
 catsby: catsby!users.noreply.github.com, clint!ctshryock.com, clint!hashicorp.com
 	HashiCorp Inc
 catsgotmytongue: catsgotmytongue!users.noreply.github.com
@@ -16781,7 +16835,8 @@ davideimola: davide.imola!icloud.com, davideimola!users.noreply.github.com
 	ASEM S.p.A. from 2017-12-01 until 2020-08-01
 	Independent from 2020-08-01 until 2021-01-01
 	Codemotion S.r.l. from 2021-01-01 until 2021-04-01
-	GitKraken from 2021-04-01
+	GitKraken from 2021-04-01 until 2022-09-01
+	RedCarbon from 2022-09-01
 davidemerritt: comxd!users.noreply.github.com, david.e.merritt!gmail.com, davidemerritt!users.noreply.github.com
 	Microsoft Corporation
 davidesalerno: davidesalerno!users.noreply.github.com
@@ -23627,59 +23682,3 @@ dumindu: dumindu!users.noreply.github.com
 dumitru-stama: dumitru-stama!users.noreply.github.com
 	Symantec Corporation until 2019-11-01
 	Broadcom Corporation from 2019-11-01
-dumlutimuralp: dumlutimuralp!users.noreply.github.com
-	Brocade Communications Systems LLC until 2015-04-01
-	VMware Inc. from 2015-04-01
-dumyan: dumyan!users.noreply.github.com
-	Independent until 2015-04-01
-	fx3x from 2015-04-01 until 2016-05-01
-	Keitaro AB from 2016-05-01
-dun: cdunlap!llnl.gov
-	Lawrence Livermore National Laboratory (LLNL)
-duncaan: duncaan!users.noreply.github.com
-	Lockheed Martin until 2015-08-01
-	Barracuda Networks Inc. from 2015-08-01 until 2020-09-01
-	CloudCheckr Inc. from 2020-09-01
-duncanmak: duncan.mak!xamarin.com, duncanmak!gmail.com
-	Microsoft Corporation
-dungahk: dungahk!users.noreply.github.com
-	Independent until 2015-05-01
-	Alzerina from 2015-05-01 until 2015-08-01
-	Independent from 2015-08-01 until 2017-05-01
-	Ravex from 2017-05-01 until 2018-07-01
-	Zoocha from 2018-07-01
-dungdm93: dungdm93!users.noreply.github.com
-	Independent until 2015-08-01
-	Teko Vietnam from 2015-08-01 until 2016-03-01
-	Citigo Vietnam from 2016-03-01 until 2017-03-01
-	TEKO Việt Nam from 2017-03-01
-dungeonmaster18: dungeonmaster18!users.noreply.github.com, umesh4257!gmail.com
-	Docker Inc.
-dunglas: dunglas!gmail.com, dunglas!users.noreply.github.com
-	Independent
-dungpa: dungpa!users.noreply.github.com
-	Independent until 2015-07-01
-	SimCorp A/S from 2015-07-01
-dunnbobcat: dunnbobcat!users.noreply.github.com
-	Meta Platforms Inc.
-dunnderr: dunnderr!gmail.com
-	International Business Machines Corporation
-dunnleaddress: dunnleaddress!gmail.com
-	Independent
-dunyakilavuz: dunyakilavuz!users.noreply.github.com
-	Independent
-duobianxing: duobianxing!users.noreply.github.com
-	Google LLC
-dupont-y: yann!objoo.org
-	Renault until 2014-08-01
-	Pressto from 2014-08-01 until 2015-09-01
-	ALTRAD ARNHOLDT from 2015-09-01
-dupuy: alex.dupuy!mac.com, jedo!calpoly.edu
-	KBN
-durairajasivam: durairajasivam!gmail.com, durairajasivam!users.noreply.github.com
-	Solves Innovative until 2017-01-01
-	ATT Systems from 2017-01-01 until 2017-06-01
-	Pisces from 2017-06-01 until 2021-09-01
-	JTC Corporation from 2021-09-01
-durana: adam!nine.net, durana!users.noreply.github.com
-	Burning Bay Technologies
