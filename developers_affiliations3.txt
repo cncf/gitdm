@@ -5,6 +5,13 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+bclau: bclau!users.noreply.github.com, cbelu!cloudbasesolutions.com
+	Cloudbase Solutions S.R.L
+bclermont: bclermont!users.noreply.github.com, bruno!robotinfra.com
+	Robotinfra Limited until 2015-04-01
+	CATS Ventures Asia from 2015-04-01 until 2015-10-01
+	Independent from 2015-10-01 until 2017-11-01
+	CryptoNode from 2017-11-01
 bclouser: bclouser!users.noreply.github.com
 	VT iDirect until 2016-06-01
 	TableSafe from 2016-06-01 until 2018-03-01
@@ -2479,7 +2486,8 @@ blaise-sumo: blaise-sumo!users.noreply.github.com
 	Shape until 2017-10-01
 	Infrastructure Proving Grounds from 2017-10-01 until 2019-02-01
 	Sumo Logic Inc. from 2019-02-01
-blaisedias: blaisedias!mayadata.io, blaisedias!users.noreply.github.com, blaise.dias!datacore.com
+blaisedias: blaise.dias!datacore.com, blaisedias!mayadata.io, blaisedias!users.noreply.github.com
+	Independent until 2020-02-01
 	MayaData Inc. (f/k/a CloudByte Inc) from 2020-02-01 until 2021-11-01
 	DataCore Software from 2021-11-01
 blak3mill3r: blak3mill3r!gmail.com, blak3mill3r!users.noreply.github.com
@@ -10595,7 +10603,8 @@ chrisunder: chrisunder!users.noreply.github.com
 chrisvugrinec: chrisvugrinec!users.noreply.github.com
 	Red Hat Inc. until 2016-02-01
 	Microsoft Corporation from 2016-02-01
-chriswldenyer: chriswldenyer!users.noreply.github.com, christopher.denyer!datacore.com
+chriswldenyer: christopher.denyer!datacore.com, chriswldenyer!users.noreply.github.com
+	Independent until 2020-02-01
 	MayaData Inc. (f/k/a CloudByte Inc) from 2020-02-01 until 2021-11-01
 	DataCore Software from 2021-11-01
 chriswright: chrisw!sous-sol.org, chriswright!users.noreply.github.com
@@ -16474,10 +16483,13 @@ dastrobu: dastrobu!users.noreply.github.com
 databus23: databus23!users.noreply.github.com, fabian!progra.de, fabian.ruff!sap.com
 	SAP
 datacore-pavan-venkat: datacore-pavan-venkat!users.noreply.github.com, pavanvenkat.layam!datacore.com
+	Independent until 2024-03-01
 	DataCore Software from 2024-03-01
 datacore-tilangovan: datacore-tilangovan!users.noreply.github.com, thulasiraman.ilangovan!datacore.com
+	Independent until 2022-05-01
 	DataCore Software from 2022-05-01
 datacore-vvarakantham: datacore-vvarakantham!users.noreply.github.com, vandana.varakantham!datacore.com
+	Independent until 2021-01-01
 	DataCore Software from 2021-01-01
 datadot: datadot!users.noreply.github.com
 	Independent
@@ -16530,6 +16542,7 @@ dav1x: dav1x!users.noreply.github.com, davis.phillips!gmail.com
 dave-borg: dave-borg!users.noreply.github.com, dborgees!cisco.com
 	Cisco
 dave-brace: dave-brace!users.noreply.github.com, david.brace!datacore.com
+	Independent until 2022-10-01
 	DataCore Software from 2022-10-01
 dave-dresser: dave_dresser!compuware.com
 	Compuware
@@ -23115,7 +23128,7 @@ dsapala: dsapala!users.noreply.github.com
 	Illuminate from 2015-01-01
 dsargent3220: dsargent3220!users.noreply.github.com
 	Independent
-dsavitskiy: dsavitskiy!users.noreply.github.com, kona4kona!gmail.com, dmitry.savitsky!datacore.com
+dsavitskiy: dmitry.savitsky!datacore.com, dsavitskiy!users.noreply.github.com, kona4kona!gmail.com
 	Nexenta by DDN until 2021-06-01
 	MayaData Inc. (f/k/a CloudByte Inc) from 2021-06-01 until 2021-11-01
 	DataCore Software from 2021-11-01
@@ -23203,7 +23216,8 @@ dshamanthreddy: devagarishamanth!gmail.com, dshamanthreddy!users.noreply.github.
 	Verizon from 2017-01-01 until 2019-02-01
 	Goldman Sachs & Co. LLC from 2019-02-01 until 2022-06-01
 	AWS from 2022-06-01
-dsharma-dc: dsharma-dc!users.noreply.github.com, diwakar.sharma!datacore.com
+dsharma-dc: diwakar.sharma!datacore.com, dsharma-dc!users.noreply.github.com
+	Independent until 2022-12-01
 	DataCore Software from 2022-12-01
 dsharma283: devesh.sharma!broadcom.com
 	Broadcom Corporation
@@ -23658,42 +23672,3 @@ duftler: duftler!google.com, dweinst!insitusec.com
 	Google LLC
 duga3: duga3!users.noreply.github.com, severin!volumental.com
 	Volumental
-duglin: dug!us.ibm.com, duglin!gmail.com, duglin!users.noreply.github.com
-	International Business Machines Corporation until 2022-02-01
-	Microsoft Corporation from 2022-02-01
-duhenglucky: duheng0522!gmail.com, duhengforever!apache.org
-	Alibaba Group
-duhow: contacto!duhowpi.net, duhow!users.noreply.github.com
-	FutbolLab until 2016-08-01
-	Independent from 2016-08-01 until 2018-05-01
-	FutbolLab from 2018-05-01 until 2018-07-01
-	Edrans from 2018-07-01 until 2021-04-01
-	Midokura from 2021-04-01
-duke-bartholomew: duke.bartholomew!gmail.com
-	clouTrix
-dukov: dukov!users.noreply.github.com
-	Mirantis Inc.
-dulek: dulek!users.noreply.github.com
-	Intel Corporation until 2017-08-01
-	OpenStack Foundation from 2017-08-01 until 2017-12-01
-	Red Hat Inc. from 2017-12-01
-dulltz: dulltz!users.noreply.github.com, isrgnoe!gmail.com
-	Independent until 2017-04-01
-	Cybozu Go from 2017-04-01
-dumarjo: jdumaresq!cimeq.qc.ca
-	CIMEQ
-dumb0002: dumb0002!users.noreply.github.com
-	Independent until 2017-05-01
-	International Business Machines Corporation from 2017-05-01 until 2017-09-01
-	Independent from 2017-09-01 until 2018-08-01
-	International Business Machines Corporation from 2018-08-01
-dumbunny: dumbunny!google.com, dumbunny!users.noreply.github.com
-	Google LLC
-dumindu: dumindu!users.noreply.github.com
-	D&J Holdings until 2014-10-01
-	Lazada from 2014-10-01 until 2016-08-01
-	Independent from 2016-08-01 until 2017-05-01
-	Lazada from 2017-05-01
-dumitru-stama: dumitru-stama!users.noreply.github.com
-	Symantec Corporation until 2019-11-01
-	Broadcom Corporation from 2019-11-01

@@ -5,6 +5,68 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+qmuntal: qmuntal!users.noreply.github.com
+	Independent until 2016-01-01
+	Aritex from 2016-01-01 until 2017-01-01
+	HP Inc. from 2017-01-01 until 2021-11-01
+	Microsoft Corporation from 2021-11-01
+qnetter: 11758255+qnetter!users.noreply.github.com, qnetter!users.noreply.github.com, roger.klorese!suse.com
+	SUSE LLC
+qodfathr: qodfathr!users.noreply.github.com
+	Microsoft Corporation until 2015-10-01
+	Red Hat Inc. from 2015-10-01 until 2018-07-01
+	Lyfevest from 2018-07-01
+qperret: quentin.perret!arm.com
+	ARM
+qpetraroia: qpetraroia!users.noreply.github.com
+	Independent until 2017-05-01
+	INKspire from 2017-05-01 until 2017-09-01
+	Independent from 2017-09-01 until 2018-09-01
+	Ericsson from 2018-09-01 until 2019-08-01
+	Independent from 2019-08-01 until 2020-08-01
+	Microsoft Corporation from 2020-08-01
+qq12157138: 12157138!qq.com, anagiop!gmail.com, qq12157138!users.noreply.github.com
+	Independent until 2015-04-15
+	First Order from 2015-04-15 until 2016-02-15
+	Independent from 2016-02-15 until 2016-10-15
+	Datadog Inc from 2016-10-15
+qq397170321: 397170321!qq.com, qq397170321!users.noreply.github.com, yuanqianqian!inspur.com
+	Inspur Group
+qq690388648: qq690388648!users.noreply.github.com, sungengze1!huawei.com
+	Independent until 2015-06-01
+	Huawei Technologies Co. Ltd from 2015-06-01
+qqeasonchen: qqeasonchen!gmail.com, qqeasonchen!users.noreply.github.com
+	WeBank
+qqibrow: qqibrow!gmail.com, qqibrow!users.noreply.github.com
+	Yahoo! Inc. until 2016-08-01
+	Uber from 2016-08-01
+qqshfox: hanfei.shen!alo7.com, qqshfox!gmail.com, qqshfox!users.noreply.github.com
+	Shanghai ALO7 Technology Co. Ltd.
+qrevel: qrevel!nottle.fr, qrevel!users.noreply.github.com
+	The Nottle Co
+qrilka: qrilka!users.noreply.github.com
+	Zyte until 2016-01-01
+	Scrapinghubs from 2016-01-01 until 2016-04-01
+	ThoughtLeadr from 2016-04-01 until 2018-04-01
+	FP Complete Corporation from 2018-04-01
+qrkourier: qrkourier!users.noreply.github.com, w!qrk.us
+	AWS until 2015-06-01
+	Independent from 2015-06-01 until 2015-12-01
+	Empowered Benefits from 2015-12-01 until 2017-08-01
+	NetFoundry from 2017-08-01
+qrog: qisima!microsoft.com
+	Microsoft Corporation
+qrpike: duc.jocelyn!gmail.com, qrpike!gmail.com, qrpike!users.noreply.github.com
+	CNN until 2014-03-01
+	Google LLC from 2014-03-01 until 2014-12-01
+	American Automobile Association from 2014-12-01 until 2017-07-01
+	Independent from 2017-07-01 until 2018-02-01
+	The Coca-Cola Company from 2018-02-01 until 2018-10-01
+	Polygon from 2018-10-01
+qsdchenwei: 591097974!qq.com, chenwei2017!inspur.com, qsdchenwei!users.noreply.github.com
+	Inspur Group
+qsn: sd!queasysnail.net
+	Independent
 qt-luigi: qt-luigi!users.noreply.github.com
 	Microsoft Corporation
 qt1p: qt1p!users.noreply.github.com
@@ -280,6 +342,7 @@ r1chardj0n3s: r1chardj0n3s!gmail.com
 	Rackspace until 2017-04-28
 	Independent from 2017-04-28
 r1jt: r1jt!users.noreply.github.com, ranjith.mp!datacore.com
+	Independent until 2022-09-01
 	DataCore Software from 2022-09-01
 r2d4: m!rickard.email, mrick!google.com, r2d4!users.noreply.github.com
 	Blackstone Group L.P. until 2016-01-01
@@ -5694,7 +5757,8 @@ roguishmountain: paulofelipe.feitosa!gmail.com, roguishmountain!gmail.com, samsc
 	Microsoft Corporation
 rohan-kulkarni-25: rohan-kulkarni-25!users.noreply.github.com, rohank2502!gmail.com
 	Independent
-rohan2794: rohan2794!users.noreply.github.com, rohan.kumar!datacore.com
+rohan2794: rohan.kumar!datacore.com, rohan2794!gmail.com, rohan2794!users.noreply.github.com
+	Independent until 2020-02-01
 	MayaData Inc. (f/k/a CloudByte Inc) from 2020-02-01 until 2021-11-01
 	DataCore Software from 2021-11-01
 rohan47: rohan47!users.noreply.github.com, rohanrgupta1996!gmail.com, rohgupta!redhat.com
@@ -15238,8 +15302,6 @@ singhmeghna79: meghna.singh!mayadata.io, singhmeghna79!gmail.com, singhmeghna79!
 	Hitachi Vantara LLC from 2020-04-01
 singlemocha: singlemocha!hotmail.com
 	Samsung SDS
-sinhaashish: sinhaashish!users.noreply.github.com, ashish.sinha!datacore.com
-	DataCore Software from 2022-09-01
 sinkingpoint: colin!quirl.co.nz, sinkingpoint!users.noreply.github.com
 	Cloudflare Inc
 sinsharat: sharat.singh!huawei.com, sinsharat!gmail.com, sinsharat!users.noreply.github.com
@@ -15612,6 +15674,7 @@ sk-: sk-!users.noreply.github.com
 sk4zuzu: mopala!opennebula.io
 	Independent
 sk593: shruthikumar2401!gmail.com, sk593!users.noreply.github.com
+	Independent until 2022-08-01
 	Microsoft Corporation from 2022-08-01
 skabashnyuk: skabashnyuk!users.noreply.github.com
 	Codenvy until 2017-06-01
@@ -23761,66 +23824,3 @@ teobmg: teobmg!users.noreply.github.com
 	GFT Technologies SE from 2016-09-01 until 2021-03-01
 	Mia-Platform from 2021-03-01 until 2022-09-01
 	NearForm Ltd from 2022-09-01
-teochenglim: teochenglim!gmail.com, teochenglim!users.noreply.github.com
-	Independent until 2016-02-01
-	GovTech from 2016-02-01 until 2017-01-01
-	Independent from 2017-01-01
-teohhanhui: teohhanhui!gmail.com, teohhanhui!users.noreply.github.com
-	Independent
-teone: matteo.scandolo!gmail.com, teo!onlab.us, teo!opennetworking.org, teo.punto!gmail.com, teone!users.noreply.github.com
-	LinkMe Srl until 2015-10-01
-	Open Networking Foundation from 2015-10-01
-teoyaomiqui: kkalynovskyi!mirantis.com, teoyaomiqui!users.noreply.github.com
-	Almaz until 2016-12-01
-	Mirantis from 2016-12-01
-teozkr: teo!nullable.se, teozkr!users.noreply.github.com
-	Stackable
-tequilarista: tequilarista!users.noreply.github.com
-	Lithium until 2014-11-01
-	Linden from 2014-11-01 until 2018-03-01
-	Google LLC from 2018-03-01
-terabyte: cmyers!cmyers.org, cmyers!pernixdata.com
-	Palantir Technologies Inc. until 2015-06-01
-	Nutanix Inc. from 2015-06-01 until 2016-05-01
-	Cloudera Inc. from 2016-05-01
-terakoya76: terako.studio!gmail.com
-	Independent
-terencet-dev: terencet-dev!users.noreply.github.com
-	Kapaun Mt until 2015-04-01
-	NetApp from 2015-04-01 until 2019-05-01
-	AWS from 2019-05-01 until 2021-06-01
-	Microsoft Corporation from 2021-06-01
-teresy: 43420401+teresy!users.noreply.github.com, hi.teresy!gmail.com, teresy!users.noreply.github.com
-	Microsoft Corporation until 2014-07-01
-	Independent from 2014-07-01 until 2018-05-01
-	Meta Platforms Inc. from 2018-05-01 until 2018-08-01
-	Independent from 2018-08-01
-terev: terev!users.noreply.github.com, trevor.foster!hotmail.ca
-	Ontario until 2014-08-01
-	Independent from 2014-08-01 until 2015-09-01
-	Adknown Inc. from 2015-09-01 until 2016-08-01
-	Tulip from 2016-08-01
-terinjokes: terin!cloudflare.com, terinjokes!gmail.com, terinjokes!users.noreply.github.com
-	Cloudflare Inc
-terjebergstrom: tbergstrom!nvidia.com
-	NVIDIA Corporation
-terjesannum: terje!offpiste.org, terje.sannum!nav.no, terjesannum!users.noreply.github.com
-	NAV
-terma: artem.stasuk!gmail.com
-	EPAM Systems Inc until 2017-08-01
-	Amazon from 2017-08-01
-terman37: terman37!users.noreply.github.com
-	Konecranes until 2019-10-01
-	Independent from 2019-10-01
-terorie: me!terorie.dev, terorie!users.noreply.github.com
-	Independent
-terrabitz: terrabitz!users.noreply.github.com
-	Independent until 2015-01-01
-	SpringHill from 2015-01-01 until 2015-08-01
-	Independent from 2015-08-01 until 2018-01-01
-	IT Oxygen from 2018-01-01 until 2018-05-01
-	Epic Systems from 2018-05-01
-terrajobst: dikokob!gmail.com, immo!landwerth.net, immol!microsoft.com, root!yinhongbo.com, terrajobst!users.noreply.github.com
-	Microsoft Corporation
-terrop: tero.roponen!gmail.com
-	Independent

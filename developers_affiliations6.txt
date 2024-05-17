@@ -5,6 +5,50 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+masoudmj: masoudmj!users.noreply.github.com
+	Independent until 2017-01-01
+	Barefoot Networks Inc. from 2017-01-01 until 2018-01-01
+	Google LLC from 2018-01-01
+masroorhasan: masroor.hasan.n!gmail.com, masroorhasan!users.noreply.github.com
+	BitTitan
+masselstine: mark.asselstine!windriver.com
+	Wind River Systems Inc.
+massenz: massenz!users.noreply.github.com
+	RiverMeadow Software until 2015-01-01
+	Independent from 2015-01-01 until 2015-02-01
+	Mesosphere from 2015-02-01 until 2016-01-01
+	Apple Inc. from 2016-01-01 until 2018-11-01
+	Independent from 2018-11-01 until 2019-05-01
+	Adobe Inc. from 2019-05-01
+masseybradley: massey.bradley!gmail.com, masseybradley!users.noreply.github.com
+	Independent until 2015-04-01
+	ADNEOM from 2015-04-01 until 2015-05-01
+	EastNets from 2015-05-01 until 2019-04-01
+	Yields.io from 2019-04-01
+massoudasadi: massoud.asadi!hotmail.com
+	Independent until 2017-06-01
+	Sahand Hydraulics from 2017-06-01 until 2017-07-01
+	Iran Dairy Industries from 2017-07-01 until 2018-03-01
+	Independent from 2018-03-01 until 2018-06-01
+	Elm Avaran Caspian from 2018-06-01 until 2019-06-01
+	First Eurasia eCommerce from 2019-06-01 until 2020-02-01
+	I.R.I. Military from 2020-02-01
+masstamike: masstamike!users.noreply.github.com
+	Hewlett until 2014-12-01
+	Independent from 2014-12-01 until 2015-03-01
+	Veeva Systems Inc. from 2015-03-01 until 2018-10-01
+	BYTON from 2018-10-01 until 2019-07-01
+	Marqeta from 2019-07-01
+masstomato: mass.tomato!gmail.com, masstomato!users.noreply.github.com
+	Independent
+masteinhauser: masteinhauser!users.noreply.github.com, myles.steinhauser!gmail.com
+	Brightcove Inc. until 2014-06-01
+	Blue Box Group from 2014-06-01 until 2016-07-01
+	International Business Machines Corporation from 2016-07-01 until 2017-06-01
+	Bose Corporation from 2017-06-01 until 2019-07-01
+	ASICS from 2019-07-01
+masterfung: thung!me.com
+	Apple Inc.
 masterkain: masterkain!gmail.com, masterkain!users.noreply.github.com
 	iCoreTech until 2019-03-01
 	bSmart from 2019-03-01
@@ -5177,7 +5221,8 @@ milanaleksic: milan!aleksic.dev, milanaleksic!users.noreply.github.com
 	Basware Benelux until 2017-03-01
 	TomTom International B.V. from 2017-03-01 until 2020-01-01
 	Soda from 2020-01-01
-milanhajek: milanhajek!users.noreply.github.com, milan.hajek!datacore.com
+milanhajek: milan.hajek!datacore.com, milanhajek!users.noreply.github.com
+	Independent until 2021-09-01
 	MayaData Inc. (f/k/a CloudByte Inc) from 2021-09-01 until 2021-11-01
 	DataCore Software from 2021-11-01
 milanhradil1-tomtom: milanhradil1-tomtom!users.noreply.github.com
@@ -13012,7 +13057,7 @@ nikwest: github!nikwest.de
 	BlackBerry Limited until 2014-05-01
 	Independent from 2014-05-01 until 2015-03-01
 	Colorimetrix from 2015-03-01
-niladrih: niladrih!users.noreply.github.com, niladri.halder!datacore.com, niladri.halder26!gmail.com
+niladrih: niladri.halder!datacore.com, niladri.halder26!gmail.com, niladrih!users.noreply.github.com
 	Independent until 2021-02-01
 	MayaData Inc. (f/k/a CloudByte Inc) from 2021-02-01 until 2021-11-01
 	DataCore Software from 2021-11-01
@@ -16506,7 +16551,8 @@ orugantichetan: orugantichetan!users.noreply.github.com
 	Independent until 2015-02-01
 	HCL Technologies Ltd. from 2015-02-01 until 2019-04-01
 	Nokia Corporation from 2019-04-01
-orville-wright: orville-wright!users.noreply.github.com, david.brace!datacore.com
+orville-wright: david.brace!datacore.com, orville-wright!users.noreply.github.com
+	Independent until 2022-10-01
 	DataCore Software from 2022-10-01
 orweis: orweis!users.noreply.github.com
 	Malam until 2015-12-01
@@ -18652,6 +18698,7 @@ pchan: pchan!users.noreply.github.com, prasad.chand!gmail.com, prasadc!vmware.co
 	Intel Corporation from 2018-05-01 until 2020-12-01
 	VMware Inc. from 2020-12-01
 pchandra19: pchandra19!users.noreply.github.com, prateek.chandra!datacore.com
+	Independent until 2020-07-01
 	DataCore Software from 2020-07-01
 pchila: paolo.chila!dynatrace.com
 	Amadeus until 2016-04-01
@@ -23731,65 +23778,3 @@ qmonnet: quentin.monnet!6wind.com, quentin.monnet!netronome.com
 	Independent until 2017-01-01
 	Netronome Systems Inc. from 2017-01-01 until 2020-01-01
 	Isovalent from 2020-01-01
-qmuntal: qmuntal!users.noreply.github.com
-	Independent until 2016-01-01
-	Aritex from 2016-01-01 until 2017-01-01
-	HP Inc. from 2017-01-01 until 2021-11-01
-	Microsoft Corporation from 2021-11-01
-qnetter: 11758255+qnetter!users.noreply.github.com, qnetter!users.noreply.github.com, roger.klorese!suse.com
-	SUSE LLC
-qodfathr: qodfathr!users.noreply.github.com
-	Microsoft Corporation until 2015-10-01
-	Red Hat Inc. from 2015-10-01 until 2018-07-01
-	Lyfevest from 2018-07-01
-qperret: quentin.perret!arm.com
-	ARM
-qpetraroia: qpetraroia!users.noreply.github.com
-	Independent until 2017-05-01
-	INKspire from 2017-05-01 until 2017-09-01
-	Independent from 2017-09-01 until 2018-09-01
-	Ericsson from 2018-09-01 until 2019-08-01
-	Independent from 2019-08-01 until 2020-08-01
-	Microsoft Corporation from 2020-08-01
-qq12157138: 12157138!qq.com, anagiop!gmail.com, qq12157138!users.noreply.github.com
-	Independent until 2015-04-15
-	First Order from 2015-04-15 until 2016-02-15
-	Independent from 2016-02-15 until 2016-10-15
-	Datadog Inc from 2016-10-15
-qq397170321: 397170321!qq.com, qq397170321!users.noreply.github.com, yuanqianqian!inspur.com
-	Inspur Group
-qq690388648: qq690388648!users.noreply.github.com, sungengze1!huawei.com
-	Independent until 2015-06-01
-	Huawei Technologies Co. Ltd from 2015-06-01
-qqeasonchen: qqeasonchen!gmail.com, qqeasonchen!users.noreply.github.com
-	WeBank
-qqibrow: qqibrow!gmail.com, qqibrow!users.noreply.github.com
-	Yahoo! Inc. until 2016-08-01
-	Uber from 2016-08-01
-qqshfox: hanfei.shen!alo7.com, qqshfox!gmail.com, qqshfox!users.noreply.github.com
-	Shanghai ALO7 Technology Co. Ltd.
-qrevel: qrevel!nottle.fr, qrevel!users.noreply.github.com
-	The Nottle Co
-qrilka: qrilka!users.noreply.github.com
-	Zyte until 2016-01-01
-	Scrapinghubs from 2016-01-01 until 2016-04-01
-	ThoughtLeadr from 2016-04-01 until 2018-04-01
-	FP Complete Corporation from 2018-04-01
-qrkourier: qrkourier!users.noreply.github.com, w!qrk.us
-	AWS until 2015-06-01
-	Independent from 2015-06-01 until 2015-12-01
-	Empowered Benefits from 2015-12-01 until 2017-08-01
-	NetFoundry from 2017-08-01
-qrog: qisima!microsoft.com
-	Microsoft Corporation
-qrpike: duc.jocelyn!gmail.com, qrpike!gmail.com, qrpike!users.noreply.github.com
-	CNN until 2014-03-01
-	Google LLC from 2014-03-01 until 2014-12-01
-	American Automobile Association from 2014-12-01 until 2017-07-01
-	Independent from 2017-07-01 until 2018-02-01
-	The Coca-Cola Company from 2018-02-01 until 2018-10-01
-	Polygon from 2018-10-01
-qsdchenwei: 591097974!qq.com, chenwei2017!inspur.com, qsdchenwei!users.noreply.github.com
-	Inspur Group
-qsn: sd!queasysnail.net
-	Independent
