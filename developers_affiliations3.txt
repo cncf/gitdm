@@ -5,6 +5,8 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+bchrobot: bchrobot!users.noreply.github.com, benjamin.blair.chrobot!gmail.com, benjamin.chrobot!alum.mit.edu
+	MIT Connection Science
 bclau: bclau!users.noreply.github.com, cbelu!cloudbasesolutions.com
 	Cloudbase Solutions S.R.L
 bclermont: bclermont!users.noreply.github.com, bruno!robotinfra.com
@@ -9388,9 +9390,8 @@ chenz4027: magchen!redhat.com
 	Red Hat Inc. from 2020-02-01
 chenzhengwei: 980752307!qq.com, chenzhengwei!inspur.com, chenzhengwei!users.noreply.github.com, sniperking1234!uers.noreply.github.com
 	Inspur Group
-chenzhiguo: chenzhiguo!live.com, chenzhiguo!users.noreply.github.com
-	韩都衣舍集团 until 2015-10-01
-	京东科技 · Permanent from 2015-10-01
+chenzhiguo: chenzhiguo!jd.com, chenzhiguo!live.com, chenzhiguo!users.noreply.github.com
+	Jd.Com
 chenzhihao: cabtravis!gmail.com, chenzhihao!users.noreply.github.com
 	Atlassian
 chenzhiwei: chenzhiwei!users.noreply.github.com, jackymaxj!gmail.com, zhiwchen!cn.ibm.com, zhiweik!gmail.com
@@ -23670,5 +23671,3 @@ duemir: ddigtiar!cloudbees.com, duemir!gmail.com
 	CloudBees Inc. from 2016-06-01
 duftler: duftler!google.com, dweinst!insitusec.com
 	Google LLC
-duga3: duga3!users.noreply.github.com, severin!volumental.com
-	Volumental

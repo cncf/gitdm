@@ -2,6 +2,11 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+MapR:
+	ajames-branch: ajames!branch.io from 2016-05-01 until 2018-10-01
+	mengdong: mengdong!users.noreply.github.com from 2015-01-01 until 2018-01-01
+	millerdz: millerdz!users.noreply.github.com from 2017-06-01 until 2018-02-01
+	pconrad-fb: pconrad-fb!users.noreply.github.com, stymied!gmail.com until 2014-03-01
 MapR Technologies:
 	aggress: aggress!users.noreply.github.com, richard!aggress.net from 2014-02-15 until 2016-06-15
 	antje: antje!users.noreply.github.com from 2016-08-01 until 2019-06-01
@@ -4154,8 +4159,7 @@ Microsoft Corporation:
 	jjindrich: jjindrich!users.noreply.github.com from 2014-12-01
 	jjlee9: v-jialee!microsoft.com
 	jkoritzinsky: jekoritz!microsoft.com, jkoritzinsky!gmail.com, jkoritzinsky!users.noreply.github.com from 2016-05-01 until 2016-08-01, from 2018-08-01
-	jkotalik: jkotalik!users.noreply.github.com from 2016-06-01 until 2016-08-01, from 2017-07-01
-	jkotalik: jkotalik12!gmail.com, jukotali!microsoft.com from 2016-06-01 until 2016-09-01, from 2017-07-01
+	jkotalik: jkotalik!users.noreply.github.com, jkotalik12!gmail.com, jukotali!microsoft.com from 2016-06-01 until 2016-08-01, from 2017-07-01 until 2022-03-01
 	jkotas: jkotas!microsoft.com, jkotas!users.noreply.github.com
 	jlandersen: jlandersen!users.noreply.github.com until 2015-04-01
 	jldeen: jedeen!outlook.com, jldeen!users.noreply.github.com, kohlmannj!mac.com
@@ -15265,7 +15269,6 @@ Oracle America Inc.:
 	DeepankarJha: deepankarjha!users.noreply.github.com from 2016-05-01 until 2017-08-01
 	Djelibeybi: avi.miller!gmail.com, avi.miller!oracle.com, djelibeybi!users.noreply.github.com, me!dje.li
 	DnPlas: DnPlas!users.noreply.github.com, daplascen!gmail.com from 2021-02-01 until 2021-08-01
-	Duncan-tree-zhou: Duncan-tree-zhou!users.noreply.github.com until 2015-09-01
 	FZhg: FZhg!users.noreply.github.com from 2015-07-01 until 2016-11-01
 	Felixzz: dmitry.a.morozov!gmail.com, felix.sunjian!gmail.com, sjnet258!163.com
 	FerminCastro: FerminCastro!users.noreply.github.com

@@ -3400,18 +3400,14 @@ jkoritzinsky: jekoritz!microsoft.com, jkoritzinsky!gmail.com, jkoritzinsky!users
 	MadHacks from 2016-08-01 until 2018-04-01
 	Independent from 2018-04-01 until 2018-08-01
 	Microsoft Corporation from 2018-08-01
-jkotalik: jkotalik!users.noreply.github.com
+jkotalik: jkotalik!users.noreply.github.com, jkotalik12!gmail.com, jukotali!microsoft.com
 	Independent until 2015-06-01
 	Cisco from 2015-06-01 until 2015-08-01
 	Independent from 2015-08-01 until 2016-06-01
 	Microsoft Corporation from 2016-06-01 until 2016-08-01
 	Independent from 2016-08-01 until 2017-07-01
 	Microsoft Corporation from 2017-07-01 until 2022-03-01
-jkotalik: jkotalik12!gmail.com, jukotali!microsoft.com
-	Independent until 2016-06-01
-	Microsoft Corporation from 2016-06-01 until 2016-09-01
-	Independent from 2016-09-01 until 2017-07-01
-	Microsoft Corporation from 2017-07-01
+	Independent from 2022-03-01
 jkotas: jkotas!microsoft.com, jkotas!users.noreply.github.com
 	Microsoft Corporation
 jkowall: jkowall!users.noreply.github.com
@@ -3890,9 +3886,8 @@ jmhautbois: jean-michel.hautbois!vodalys.com
 	OVH SAS from 2017-04-01 until 2018-08-01
 	Savoir-faire Linux from 2018-08-01
 jmhbnz: jmhbnz!users.noreply.github.com, mail!jamesblair.net
-	Red Hat Inc. until 2020-12-01
-	Independent from 2020-12-01 until 2022-09-01
-	Acme Gating from 2022-09-01
+	Independent until 2022-09-01
+	Red Hat Inc. from 2022-09-01
 jmhobbs: john!velvetcache.org
 	Packco Inc. until 2019-01-01
 	NEJS from 2019-01-01 until 2019-08-01
