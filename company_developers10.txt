@@ -2,6 +2,13 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Teletronics International:
+	kongslund: jonas!kongslund.net, kongslund!users.noreply.github.com
+	mkjaer: mkjaer!users.noreply.github.com from 2014-10-01 until 2018-08-01
+	mortensteenrasmussen: morten!mediaflex.dk, mortensteenrasmussen!users.noreply.github.com
+	van-vliet: van-vliet!users.noreply.github.com from 2015-01-01 until 2018-08-01
+Televed:
+	pns-nirmata: pns-nirmata!users.noreply.github.com from 2020-07-01 until 2022-01-01
 Televic:
 	UXabre: UXabre!users.noreply.github.com until 2015-06-01
 Televic Healthcare:
@@ -695,8 +702,6 @@ Tesco Mobile:
 	mcadam: mcadam!users.noreply.github.com from 2016-12-01
 Tesera:
 	whyvez: public!tombigel.com, whyvez!users.noreply.github.com, yves.richard!mapbox.com until 2018-06-01
-Tesla Inc .:
-	rmehta19: rmehta19!users.noreply.github.com from 2022-01-01 until 2022-05-01
 Tesla Inc . Inc .:
 	RichardAvendano: RichardAvendano!users.noreply.github.com from 2015-01-01 until 2017-02-01
 Tesla Inc.:
@@ -741,6 +746,7 @@ Tesla Inc.:
 	nap32: nap32!users.noreply.github.com from 2020-11-01
 	natemurthy: drip.dr0p.dr0p!gmail.com, natemurthy!users.noreply.github.com
 	olofj: dkamenda!infoblox.com, olof!lixom.net, pavel.mikhalchuk!gmail.com from 2016-05-01 until 2018-05-01
+	rmehta19: rmehta19!users.noreply.github.com from 2022-01-01 until 2022-05-01
 	royxue: hi!chadoh.com, royxue!users.noreply.github.com, xljroy!gmail.com from 2016-09-01 until 2018-03-01
 	samv: sam!vilain.net, samv!users.noreply.github.com from 2017-02-15
 	sanjaylca: sanjayl!kymasys.com from 2017-06-01
@@ -16131,7 +16137,3 @@ ZEALS:
 	johnmanjiro13: johnmanjiro13!users.noreply.github.com from 2017-08-01 until 2019-03-01
 ZEDO:
 	arleif-dfactory: arleif-dfactory!users.noreply.github.com until 2017-08-01
-ZEF Ltd:
-	heppu: henri.t.koski!gmail.com, heppu!users.noreply.github.com until 2014-09-01
-ZEFR:
-	camilosantana: camilo.santana!procore.com, camilosantana!users.noreply.github.com from 2015-11-01 until 2016-04-01
