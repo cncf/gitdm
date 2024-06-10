@@ -12701,8 +12701,9 @@ codeflitting: codeflitting!gmail.com, codeflitting!users.noreply.github.com
 	Tencent until 2015-03-01
 	Independent from 2015-03-01 until 2017-12-01
 	Bytedance Ltd from 2017-12-01
-codefromthecrypt: acole!fastmail.com, adrian!tetrate.io, codefromthecrypt!users.noreply.github.com, adrian.cole!elastic.co
+codefromthecrypt: acole!fastmail.com, adrian!tetrate.io, adrian.cole!elastic.co, codefromthecrypt!users.noreply.github.com
 	Tetrate.io until 2024-05-31
+	Independent from 2024-05-31 until 2024-06-03
 	Elasticsearch Inc. from 2024-06-03
 codegoalie: chris!chrismar035.com, chris!codegoalie.com, codegoalie!users.noreply.github.com
 	VideoFruit
@@ -23670,7 +23671,3 @@ drizzt: tredaelli!redhat.com
 	Red Hat Inc.
 drmaas: daniel.maas!target.com, drmaas!gmail.com, drmaas!users.noreply.github.com
 	Target
-drmalex07: alexakis!imis.athena-innovation.gr
-	Independent
-drmcghee: drmcghee!users.noreply.github.com
-	Microsoft Corporation
