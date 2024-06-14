@@ -1,2 +1,0 @@
-/\cblog\|\cfacebook
-/"blog": "[^"] 
