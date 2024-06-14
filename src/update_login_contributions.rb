@@ -34,4 +34,5 @@ def update_json(json_file, csv_file)
   end
 end
 
-update_json('github_users.json', 'login_contributions.csv')
+file_to_update = ENV['JSON'] || 'github_users.json'
+update_json(file_to_update, 'login_contributions.csv')
