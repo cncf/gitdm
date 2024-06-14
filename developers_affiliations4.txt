@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+drizzt: tredaelli!redhat.com
+	Red Hat Inc.
+drmaas: daniel.maas!target.com, drmaas!gmail.com, drmaas!users.noreply.github.com
+	Target
 drmalex07: alexakis!imis.athena-innovation.gr
 	Independent
 drmcghee: drmcghee!users.noreply.github.com
@@ -6347,7 +6351,7 @@ fabioy: fabioy!fabioy-macbookpro2.roam.corp.google.com, fabioy!google.com, fabio
 	Salesforce from 2024-01-01
 fabito: fabito!users.noreply.github.com
 	IMAGR
-fabled: timo.teras!iki.fi, timo.teras!elastic.co
+fabled: timo.teras!elastic.co, timo.teras!iki.fi
 	Independent until 2021-12-01
 	Elasticsearch Inc. from 2021-12-01
 fabolive: fabolive!us.ibm.com, fabolive!users.noreply.github.com
@@ -6982,9 +6986,9 @@ fdawg4l: fdawg4l!users.noreply.github.com
 	RSTOR from 2017-05-01 until 2018-12-01
 	VMware Inc. from 2018-12-01
 fdegir: fdegir!gmail.com, fdegir!users.noreply.github.com
-	Ericsson until 2022-05-27
-	The Linux Foundation from 2022-06-01 until 2023-11-30
-	SUSE LLC from 2024-04-01
+	Ericsson until 2022-05-25
+	The Linux Foundation from 2022-05-25 until 2023-11-30
+	SUSE LLC from 2023-11-30
 fdeswardt: fdeswardt!users.noreply.github.com
 	PLUMgrid Inc. until 2015-04-01
 	Symantec Corporation from 2015-04-01 until 2016-12-01
@@ -15704,6 +15708,7 @@ hanwgyu: han.wgyu!gmail.com, hanwgyu!users.noreply.github.com
 hanxiaop: hanxiaop!google.com, hanxiaop!usc.edu, hanxiaop!users.noreply.github.com, hanxiaop8!gmail.com, hanxiaop8!outlook.com, michael.han!daocloud.io, xiaopeng!akuity.io, xiaopeng.han-iog!daocloud.io
 	Independent until 2021-03-08
 	DaoCloud Network Technology Co. Ltd. from 2021-03-08 until 2024-05-05
+	Independent from 2024-05-05 until 2024-06-05
 	Akuity Inc. from 2024-06-05
 hanxiaoshuai: 30897305+hanxiaoshuai!users.noreply.github.com, hangaoshuai1!huawei.com, hanxiaoshuai!users.noreply.github.com
 	Huawei Technologies Co. Ltd
@@ -17342,10 +17347,10 @@ hicqu: hicqu!users.noreply.github.com, onlyqupeng!gmail.com, qupeng!pingcap.com
 hidai: hidai!users.noreply.github.com
 	Google LLC until 2018-10-01
 	Preferred Networks Inc. from 2018-10-01
-hiddeco: hidde!akuity.io, 10063039+hiddeco!users.noreply.github.com, hello!hidde.co, hidde!hhh.computer, hidde!weave.works, hiddeco!users.noreply.github.com
+hiddeco: 10063039+hiddeco!users.noreply.github.com, hello!hidde.co, hidde!akuity.io, hidde!hhh.computer, hidde!weave.works, hiddeco!users.noreply.github.com
 	Tree House NL until 2019-02-08
 	Weaveworks Inc. from 2019-02-08 until 2024-01-29
-	Independent from 2024-01-29 until 2024-02-19
+	Independent from 2024-01-29 until 2024-02-20
 	Akuity Inc. from 2024-02-20
 hideakiaoyagi: hideakiaoyagi!users.noreply.github.com
 	Independent until 2017-07-01
@@ -19008,7 +19013,8 @@ hwq830: weiqi.hwq!alibaba-inc.com
 	Jd.Com until 2014-08-01
 	Dalian Wanda Group from 2014-08-01 until 2016-09-01
 	Jd.Com from 2016-09-01
-hwwn: hwwn!live.com, haowen!akuity.io, hwwn!users.noreply.github.com
+hwwn: haowen!akuity.io, hwwn!live.com, hwwn!users.noreply.github.com
+	Independent until 2024-04-29
 	Akuity Inc. from 2024-04-29
 hwyan: Haowei.Yan!spirent.com, hwyan!users.noreply.github.com
 	Spirent Communications Inc
@@ -20984,7 +20990,8 @@ imuqtadir: imuqtadir!users.noreply.github.com
 	AWS from 2015-05-01 until 2015-08-01
 	Independent from 2015-08-01 until 2016-02-01
 	AWS from 2016-02-01
-imwithye: imwithye!gmail.com, yiwei!akuity.io, imwithye!users.noreply.github.com
+imwithye: imwithye!gmail.com, imwithye!users.noreply.github.com, yiwei!akuity.io
+	Independent until 2024-05-20
 	Akuity Inc. from 2024-05-20
 imyashvinder: imyashvinder!users.noreply.github.com
 	Unmukti until 2015-06-01
@@ -23899,20 +23906,3 @@ janetkuo: janetkuo!users.noreply.github.com
 	Google LLC
 janezhango: xiao-jing.zhang2!hpe.com
 	HP Inc.
-janfaracik: janfaracik!users.noreply.github.com
-	Independent until 2018-08-01
-	Kainos Software from 2018-08-01 until 2020-07-01
-	Independent from 2020-07-01 until 2020-09-01
-	Kainos Software from 2020-09-01 until 2022-05-01
-	Independent from 2022-05-01 until 2022-07-01
-	Kainos Software from 2022-07-01
-jangaraj: jan.garaj!gmail.com, jangaraj!users.noreply.github.com
-	BBC until 2015-06-01
-	Multiplay from 2015-06-01 until 2016-03-01
-	StepStone from 2016-03-01 until 2017-06-01
-	Monitoring Artist from 2017-06-01 until 2017-07-01
-	Volkswagen from 2017-07-01
-jangdm: jamin4!naver.com, jangdm!users.noreply.github.com
-	Samsung SDS
-jangie: jangie!users.noreply.github.com, jangsoo.lee!gmail.com
-	Google LLC

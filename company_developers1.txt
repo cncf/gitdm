@@ -2747,7 +2747,7 @@ AWS:
 	ScriptAutomate: ScriptAutomate!users.noreply.github.com from 2016-04-01 until 2017-05-01
 	ShelbyZ: ShelbyZ!users.noreply.github.com from 2022-08-01
 	Sindhuinti: Sindhuinti!users.noreply.github.com from 2022-07-01 until 2022-08-01
-	TerryHowe: TerryHowe!users.noreply.github.com, terrylhowe!gmail.com, tlhowe!amazon.com from 2020-11-01
+	TerryHowe: TerryHowe!users.noreply.github.com, terrylhowe!gmail.com, tlhowe!amazon.com from 2020-11-01 until 2024-03-01
 	TimothySutton81: TimothySutton81!users.noreply.github.com from 2020-08-01
 	TranThanh96: TranThanh96!users.noreply.github.com from 2022-11-01
 	TrevorRobertsJr: TrevorRobertsJr!users.noreply.github.com from 2016-09-01
@@ -4173,7 +4173,7 @@ Active:
 Active Broadband:
 	adamdunstan: adam!acnodal.io, adamdunstan!users.noreply.github.com until 2016-06-01
 Active Collab:
-	ropsii: perovic.petar!gmail.com until 2015-09-01
+	ropsii: perovic.petar!gmail.com, petar!akuity.io until 2015-09-01
 Active Gaming Media:
 	BGrasnick: BGrasnick!users.noreply.github.com from 2018-08-01 until 2019-02-01
 Active Shadow:
@@ -5941,26 +5941,34 @@ Akuity Inc.:
 	34fathombelow: 34fathombelow!protonmail.com, 34fathombelow!users.noreply.github.com, justin!akuity.io from 2023-05-22
 	Marvin9: Marvin9!users.noreply.github.com, marvinduff97!gmail.com, mayursinh!akuity.io from 2022-07-04
 	aborilov: aborilov!gmail.com, aborilov!users.noreply.github.com, pavel!akuity.io from 2022-05-30
-	alexmt: alexander_matyushentsev!intuit.com, alexmt!users.noreply.github.com, amatyushentsev!gmail.com from 2022-04-01
+	alexmt: alex!akuity.io, alexander!akuity.io, alexander_matyushentsev!intuit.com, alexmt!users.noreply.github.com, amatyushentsev!gmail.com from 2022-04-01
+	anubhav06: anubhav!akuity.io, anubhav06!users.noreply.github.com, mail.anubhav06!gmail.com from 2024-04-28
 	bikramnehra: bikram!akuity.io, bikramnehra!gmail.com, bikramnehra!users.noreply.github.com from 2023-06-05
-	blakepettersson: blakepettersson!users.noreply.github.com from 2024-02-01
+	blakepettersson: blake!akuity.io, blakepettersson!users.noreply.github.com from 2024-02-01
 	christianh814: chernand!redhat.com, christian!akuity.io, christian!chernand.io, christian!codefresh.io, christian!redhat.com, christian.hernandez!yahoo.com, christianh814!users.noreply.github.com from 2023-06-05
 	devholic: devholic!users.noreply.github.com, hoon!akuity.io, me!devholic.io from 2022-06-20
 	dhpup: daniel!akuity.io, danielvanhoang!gmail.com from 2021-11-01
 	evgeny-goldin: evgeny!akuity.io, evgeny!goldin.us, evgeny-goldin!users.noreply.github.com, evgenyg!gmail.com from 2022-04-01
 	gdsoumya: gdsoumya!chaosnative.com, gdsoumya!gmail.com, gdsoumya!users.noreply.github.com, soumya!akuity.io, soumyaghosh.dastidar!mayadata.io from 2022-01-31
-	jessesuen: jessesuen!gmail.com, jessesuen!users.noreply.github.com from 2022-08-01
+	hanxiaop: hanxiaop!google.com, hanxiaop!usc.edu, hanxiaop!users.noreply.github.com, hanxiaop8!gmail.com, hanxiaop8!outlook.com, michael.han!daocloud.io, xiaopeng!akuity.io, xiaopeng.han-iog!daocloud.io from 2024-06-05
+	hiddeco: 10063039+hiddeco!users.noreply.github.com, hello!hidde.co, hidde!akuity.io, hidde!hhh.computer, hidde!weave.works, hiddeco!users.noreply.github.com from 2024-02-20
+	hwwn: haowen!akuity.io, hwwn!live.com, hwwn!users.noreply.github.com from 2024-04-29
+	imwithye: imwithye!gmail.com, imwithye!users.noreply.github.com, yiwei!akuity.io from 2024-05-20
+	jessesuen: jesse!akuity.io, jessesuen!gmail.com, jessesuen!users.noreply.github.com from 2022-08-01
 	jiachengxu: JiachengXu!users.noreply.github.com, jiacheng!akuity.io, xjcmaxwell!163.com, xjcmaxwellcjx!gmail.com from 2022-07-18
+	junzebao: junze!akuity.io, junzebao!users.noreply.github.com from 2024-04-15
 	jwoods06: john!akuity.io, jwoods06!shaw.ca, jwoods06!users.noreply.github.com from 2023-03-20
 	kencochrane: kencochrane!gmail.com, kencochrane!users.noreply.github.com from 2022-12-01
 	krancour: kent!akuity.io, kent!deis.com, kent.rancourt!gmail.com, kent.rancourt!microsoft.com, krancour!users.noreply.github.com, krancourt!engineyard.com from 2022-06-27
 	morey-tech: gcdcai6k!duck.com, morey-tech!users.noreply.github.com, nicholas!morey.tech, nicholas!ratehub.ca from 2022-10-03
 	rbreeze: remington!akuity.io, remington!breeze.software, remington!hey.com from 2021-09-13
-	ropsii: perovic.petar!gmail.com from 2022-10-01
+	ropsii: perovic.petar!gmail.com, petar!akuity.io from 2022-10-01
 	rpelczar: rafal!akuity.io, rpelczar!users.noreply.github.com from 2022-08-01
 	shelby-moore: shelby-moore!users.noreply.github.com, shelbylmoore!gmail.com from 2023-06-26
+	starcalm: junzebao!gmail.com from 2024-04-15
 	terrytangyuan: terrytangyuan!gmail.com, terrytangyuan!users.noreply.github.com from 2021-08-01 until 2023-12-01
-	wanghong230: wanghong230!users.noreply.github.com from 2021-08-01
+	wanghong230: hong!akuity.io, wanghong230!users.noreply.github.com from 2021-08-01
+	wojtekidd: wojtek!akuity.io, wojtek.cichon!protonmail.com, wojtekidd!users.noreply.github.com from 2022-01-01
 Akulaku:
 	HongHuangNeu: HongHuangNeu!users.noreply.github.com, ground.huanghong!gmail.com from 2019-08-01
 Akumuli:
@@ -9518,16 +9526,16 @@ ApplETS:
 	ttauveron: ttauveron!users.noreply.github.com from 2017-08-01 until 2018-01-01
 Applatix:
 	abhinavdas: abhinavdas!users.noreply.github.com from 2016-04-01 until 2017-10-01
-	alexmt: alexander_matyushentsev!intuit.com, alexmt!users.noreply.github.com, amatyushentsev!gmail.com from 2016-08-01 until 2018-01-01
+	alexmt: alex!akuity.io, alexander!akuity.io, alexander_matyushentsev!intuit.com, alexmt!users.noreply.github.com, amatyushentsev!gmail.com from 2016-08-01 until 2018-01-01
 	edlee2121: edlee2121!users.noreply.github.com from 2015-07-01
-	jessesuen: jessesuen!gmail.com, jessesuen!users.noreply.github.com from 2016-03-01 until 2018-01-01
+	jessesuen: jesse!akuity.io, jessesuen!gmail.com, jessesuen!users.noreply.github.com from 2016-03-01 until 2018-01-01
 	pratulw: pratulw!users.noreply.github.com
 	rahuldhide: 30275450+rahuldhide!users.noreply.github.com, rahuldhide!users.noreply.github.com from 2016-08-01 until 2018-01-01
 	sandeepbhojwani: sandeepbhojwani!users.noreply.github.com from 2016-12-01 until 2018-01-01
 	saradhis: saradhis!users.noreply.github.com from 2015-07-01 until 2018-01-01
 	sytianhe: sytianhe!gmail.com from 2016-06-01 until 2017-12-01
 	tianhe-oi: tianhe-oi!users.noreply.github.com from 2016-06-01 until 2017-12-01
-	wanghong230: wanghong230!users.noreply.github.com from 2016-04-01 until 2017-04-01
+	wanghong230: hong!akuity.io, wanghong230!users.noreply.github.com from 2016-04-01 until 2017-04-01
 	webup: webup!users.noreply.github.com from 2016-06-01 until 2017-09-01
 	zioproto: saverio.proto!switch.ch, zioproto!gmail.com, zioproto!users.noreply.github.com from 2016-06-01 until 2017-09-01
 Applaudience:
@@ -14047,7 +14055,7 @@ BUZZNATIVE:
 	Ninir: Ninir!users.noreply.github.com, gauthier.wallet!gmail.com until 2015-09-01
 BVPIEEE:
 	ShivangShandilya: ShivangShandilya!users.noreply.github.com from 2022-06-01
-	anubhav06: anubhav06!users.noreply.github.com, mail.anubhav06!gmail.com from 2022-07-01
+	anubhav06: anubhav!akuity.io, anubhav06!users.noreply.github.com, mail.anubhav06!gmail.com from 2022-07-01 until 2024-04-28
 BVision:
 	lgalfaso: lgalfaso!gmail.com, lgalfaso!users.noreply.github.com until 2014-03-01
 BWI:
@@ -16157,26 +16165,3 @@ BijlesHuis:
 	LucasRouckhout: LucasRouckhout!users.noreply.github.com, lucas.rouckhout!gmail.com from 2016-09-01 until 2017-09-01
 Bijou:
 	codingmaths: codingmaths!users.noreply.github.com, sanjaym756!gmail.com from 2017-02-01 until 2017-09-01
-BikeTrak:
-	mmwebster: milowebster!berkeley.edu, mmwebster!users.noreply.github.com from 2015-09-01 until 2015-10-01, from 2016-08-01 until 2018-01-01
-Bikemap:
-	antonpirker: anton!ignaz.at from 2015-01-01 until 2015-05-01
-	eriadam: eriadam!users.noreply.github.com from 2017-03-01 until 2018-11-01
-Bikmo:
-	garrysanders: garry.sanders!getchip.uk from 2018-07-01 until 2021-04-01
-Bilbao:
-	jaimehrubiks: jaimehidalgo2!hotmail.com, jaimehrubiks!users.noreply.github.com from 2017-07-01 until 2018-01-01
-Bilbord:
-	Adesoji1: adesoji.alu!gmail.com from 2018-08-01 until 2020-12-01
-Bilby:
-	leetdavid: david!bilby.ai, leetdavid!users.noreply.github.com from 2020-07-01
-Bileto:
-	JendaPlhak: jenda.plhak!gmail.com until 2016-04-01
-Bilfinger:
-	NicoG94: NicoG94!users.noreply.github.com from 2019-07-01 until 2020-08-01
-BilgeAdam:
-	namsoila: namsoila!users.noreply.github.com from 2017-03-01 until 2020-09-01
-BilgeAdam Teknoloji:
-	UmutComlekci: umut.comlekcioglu!gmail.com from 2016-01-01 until 2016-07-01
-Bilgi Birikim Sistemleri:
-	zynpsnltrkk: zynpsnltrkk!users.noreply.github.com from 2017-06-01 until 2017-07-01

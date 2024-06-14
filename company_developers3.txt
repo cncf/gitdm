@@ -2,6 +2,30 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+DDEX.io:
+	swinges: swinges!users.noreply.github.com from 2018-01-01
+DDG Enterprises:
+	jord1e: jord1e!users.noreply.github.com from 2018-05-01 until 2020-02-01
+DDM Větrník:
+	trejjam: jan!trejbal.land, trejjam!users.noreply.github.com until 2016-08-01
+DDMan Sdn. Bhd:
+	tkbky: tkbky!users.noreply.github.com until 2015-05-01
+DDN Storage:
+	LiXi-storage: lixi!ddn.com
+	samuel-phan: samuel-phan!users.noreply.github.com from 2015-02-01 until 2017-09-01
+	sbuisson-ddn: sbuisson!ddn.com from 2015-11-01
+	verygreen: green!linuxhacker.ru from 2018-06-01
+	vishalanarase: vishalanarase!users.noreply.github.com, vishalanarse11!gmail.com from 2020-12-01 until 2021-07-01
+DDS Food:
+	ShazaAldawamneh: ShazaAldawamneh!users.noreply.github.com from 2019-07-01 until 2019-12-01
+DDoS Hosting Solutions:
+	bobmshannon: bobmshannon!users.noreply.github.com, bshannon!palantir.com until 2014-01-01
+DE-CIX:
+	Tim-herbie: info!timherbert.de from 2023-03-01
+DECA:
+	burningalchemist: burningalchemist!users.noreply.github.com, sergei.zyubin!gmail.com from 2019-01-01 until 2019-09-01
+DECA Woodlands:
+	Jefftree: Jefftree!users.noreply.github.com until 2014-06-01
 DECASOFT:
 	julb: julb!users.noreply.github.com, julien.baillagou!gmail.com until 2016-02-01
 DECATHLON:
@@ -6676,7 +6700,7 @@ EPAM Systems Inc:
 	aleonidex: aleonidex!users.noreply.github.com from 2016-11-01
 	alexandear: alexandear!users.noreply.github.com, oleksandr.red+github!gmail.com
 	alexfridlyand: alex!fridlyand.com, alexfridlyand!users.noreply.github.com from 2015-01-01
-	alexmt: alexander_matyushentsev!intuit.com, alexmt!users.noreply.github.com, amatyushentsev!gmail.com until 2014-10-01
+	alexmt: alex!akuity.io, alexander!akuity.io, alexander_matyushentsev!intuit.com, alexmt!users.noreply.github.com, amatyushentsev!gmail.com until 2014-10-01
 	alff: alff!users.noreply.github.com from 2014-03-01
 	alina-karpovich: alina_karpovich!epam.com
 	alinskens: alinskens!users.noreply.github.com from 2020-01-01 until 2020-04-01
@@ -8009,6 +8033,7 @@ Elasticsearch Inc.:
 	epixa: court!epixa.com, epixa!users.noreply.github.com, phillip.patton!infor.com
 	estolfo: estolfo!users.noreply.github.com
 	ezimuel: e.zimuel!gmail.com, enrico.zimuel!elastic.co, ezimuel!users.noreply.github.com
+	fabled: timo.teras!elastic.co, timo.teras!iki.fi from 2021-12-01
 	fatmcgav: fatmcgav!gmail.com, fatmcgav!users.noreply.github.com from 2018-05-01 until 2022-07-08
 	felixbarny: felix.barnsteiner!elastic.co, felixbarny!users.noreply.github.com from 2018-01-01
 	flaper87: flaper87!flaper87.org, flaper87!gmail.com from 2019-04-01 until 2021-02-01
@@ -9746,7 +9771,7 @@ Ericsson:
 	esotsal: Esotsal!users.noreply.github.com from 2024-02-01
 	ewelinawilkosz: ewe!praqma.net, ewelina.w!gmail.com until 2016-12-01
 	fakeskimo: fakeskimo!users.noreply.github.com from 2021-10-01
-	fdegir: fdegir!gmail.com, fdegir!users.noreply.github.com until 2020-01-01
+	fdegir: fdegir!gmail.com, fdegir!users.noreply.github.com until 2022-05-25
 	fediazgon: fediazgon!gmail.com, fediazgon!users.noreply.github.com from 2019-01-01 until 2019-06-01
 	felixest: felixest!users.noreply.github.com from 2020-05-01
 	fmuyassarov: feruzjon.muyassarov!intel.com, fmuyassarov!users.noreply.github.com from 2019-08-01 until 2022-08-15
@@ -13085,7 +13110,7 @@ First8:
 FirstQA:
 	harshil1973: harshil1973!users.noreply.github.com from 2016-09-01 until 2020-07-01
 FirstRain:
-	alexmt: alexander_matyushentsev!intuit.com, alexmt!users.noreply.github.com, amatyushentsev!gmail.com from 2015-10-01 until 2016-08-01
+	alexmt: alex!akuity.io, alexander!akuity.io, alexander_matyushentsev!intuit.com, alexmt!users.noreply.github.com, amatyushentsev!gmail.com from 2015-10-01 until 2016-08-01
 FirstTouch:
 	stanleynguyen: stanleynguyen!users.noreply.github.com from 2017-08-01 until 2018-08-01
 Firstup:
@@ -16614,40 +16639,3 @@ General Dynamics Mission:
 	BDuDu: benjamin.dumazel!gmail.com from 2015-11-01
 General Dynamics Mission System:
 	bdangit: bdangit!users.noreply.github.com, me!bdang.it until 2017-05-17
-General Electric Company:
-	HelloPb: HelloPb!users.noreply.github.com, prasanna.k.bhat!gmail.com until 2014-11-01
-	SanchayanMaity: maitysanchayan!gmail.com from 2016-07-01
-	a7i: a7i!users.noreply.github.com until 2018-01-01
-	bitwes: bitwes!users.noreply.github.com from 2015-01-01
-	bmanuel: bmanuel!users.noreply.github.com until 2017-12-01
-	c0dyhi11: c0dyhi11!users.noreply.github.com until 2015-11-01
-	chenweiqiang7777: chenweiqiang7777!users.noreply.github.com until 2016-07-01
-	chr15murray: chr15murray!users.noreply.github.com from 2017-03-01 until 2018-11-01
-	comps3: bhuynh!csumb.edu, comps3!users.noreply.github.com from 2016-05-01 until 2018-11-01
-	dabansal: bansalcooldheeraj!gmail.com, dabansal!users.noreply.github.com from 2017-05-01 until 2019-08-01
-	emilyaherbert: emilyaherbert!users.noreply.github.com, emilyherbert!cs.umass.edu from 2016-06-01 until 2016-08-01
-	hs0210: hs0210!users.noreply.github.com, hus.fnst!cn.fujitsu.com from 2016-06-01 until 2018-08-01
-	igorborgest: igorborgest!users.noreply.github.com from 2015-01-01 until 2016-01-01
-	isindir: isindir!users.noreply.github.com, isindir!users.sourceforge.net until 2016-05-01
-	lavahot: lavahot!gmail.com, taylor!loadiq.com from 2017-04-01
-	lgarrett-isp: lgarrett-isp!users.noreply.github.com until 2015-01-01
-	llacoste: llacoste!users.noreply.github.com from 2015-11-01 until 2016-04-01
-	posriniv: posriniv!users.noreply.github.com from 2015-05-01 until 2015-07-01
-	pratapagiri: pratapagiri!users.noreply.github.com
-	pshah16: pshah16!users.noreply.github.com until 2017-04-01
-	ramveer93: ramveer93!users.noreply.github.com, rsverma1193!hotmail.com from 2017-01-01 until 2018-12-01
-	ritazh: rita.z.zhang!gmail.com, ritazh!users.noreply.github.com until 2015-06-01
-	samuelbjohnson: samuel.johnson!avi.com, samuelbjohnson!users.noreply.github.com from 2017-03-01
-	sheshankgujjari: sheshankgujjari!users.noreply.github.com from 2015-10-01
-	silverjam: silverjam!users.noreply.github.com from 2016-05-01 until 2017-08-01
-	stephen-dahl: stephen!programmingfreaks.com, stephen-dahl!users.noreply.github.com from 2015-09-01 until 2016-12-01
-	zendai: damien!plenard.me, kobi.c.f!gmail.com, sendai!swordsaint.net, support!componentspace.com, zendai!users.noreply.github.com until 2015-04-01
-General Fusion:
-	erikreppel: erikreppel!gmail.com from 2016-03-01 until 2016-08-01
-General Mills:
-	EricBartusch: ericbartusch8!gmail.com
-	marshallford: inbox!marshallford.me, marshallford!users.noreply.github.com from 2018-12-01
-	mitsumaui: mitsumaui!users.noreply.github.com
-	mmckane: mmckane!users.noreply.github.com from 2017-07-01
-	nayan-mistry: nayan-mistry!users.noreply.github.com until 2021-12-01
-	szalapski: szalapski!users.noreply.github.com

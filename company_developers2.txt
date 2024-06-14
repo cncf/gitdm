@@ -2,6 +2,29 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+BikeTrak:
+	mmwebster: milowebster!berkeley.edu, mmwebster!users.noreply.github.com from 2015-09-01 until 2015-10-01, from 2016-08-01 until 2018-01-01
+Bikemap:
+	antonpirker: anton!ignaz.at from 2015-01-01 until 2015-05-01
+	eriadam: eriadam!users.noreply.github.com from 2017-03-01 until 2018-11-01
+Bikmo:
+	garrysanders: garry.sanders!getchip.uk from 2018-07-01 until 2021-04-01
+Bilbao:
+	jaimehrubiks: jaimehidalgo2!hotmail.com, jaimehrubiks!users.noreply.github.com from 2017-07-01 until 2018-01-01
+Bilbord:
+	Adesoji1: adesoji.alu!gmail.com from 2018-08-01 until 2020-12-01
+Bilby:
+	leetdavid: david!bilby.ai, leetdavid!users.noreply.github.com from 2020-07-01
+Bileto:
+	JendaPlhak: jenda.plhak!gmail.com until 2016-04-01
+Bilfinger:
+	NicoG94: NicoG94!users.noreply.github.com from 2019-07-01 until 2020-08-01
+BilgeAdam:
+	namsoila: namsoila!users.noreply.github.com from 2017-03-01 until 2020-09-01
+BilgeAdam Teknoloji:
+	UmutComlekci: umut.comlekcioglu!gmail.com from 2016-01-01 until 2016-07-01
+Bilgi Birikim Sistemleri:
+	zynpsnltrkk: zynpsnltrkk!users.noreply.github.com from 2017-06-01 until 2017-07-01
 Bilibili Inc.:
 	hawkingrei: hawking.rei!gmail.com, hawkingrei!users.noreply.github.com, me!hawkingrei.com, wangweizhen!bilibili.com from 2018-01-01
 Bill:
@@ -6227,7 +6250,7 @@ Capital One:
 	OliverMKing: OliverMKing!users.noreply.github.com, oking3!uncc.edu from 2020-06-01 until 2020-08-01
 	Stratouklos: Stratouklos!users.noreply.github.com, stratos!hashicorp.com from 2015-05-01 until 2018-11-01
 	Swikar: Swikar!users.noreply.github.com from 2020-08-01 until 2021-07-01
-	agilgur5: agilgur5!gmail.com, agilgur5!users.noreply.github.com from 2020-12-01
+	agilgur5: agilgur5!gmail.com, agilgur5!users.noreply.github.com from 2020-12-01 until 2023-10-01
 	alexbrjo: alexbrjo!users.noreply.github.com, alexjo5000!gmail.com from 2018-06-01 until 2018-08-01
 	amirmograbi: amirmograbi!users.noreply.github.com from 2022-10-01
 	andreafehrman: andreafehrman!users.noreply.github.com from 2020-05-01 until 2020-07-01, from 2021-08-01
@@ -8920,6 +8943,7 @@ Cisco:
 	jlothian: jlothian!cisco.com, jlothian!users.noreply.github.com, josh.lothian!gmail.com
 	jmeridth: jmeridth!gmail.com, jmeridth!users.noreply.github.com from 2016-11-01 until 2017-12-01
 	jobinmat: mathew.jobin90!gmail.com from 2015-06-01 until 2018-05-01
+	joerober: joerober!cisco.com, joerober!users.noreply.github.com
 	johanbrandhorst: johan.brandhorst!gmail.com, johanbrandhorst!users.noreply.github.com until 2016-04-01
 	john-a-joyce: john-a-joyce!users.noreply.github.com, joycej!cisco.com
 	johndavidge: jodavidg!cisco.com until 2016-04-21
@@ -13571,7 +13595,6 @@ Continum AG:
 	CO-lhageman: CO-lhageman!users.noreply.github.com from 2019-01-01
 	leoluk: leo!leoluk.de, leoluk!users.noreply.github.com until 2016-05-01
 Continuous Delivery Foundation:
-	fdegir: fdegir!gmail.com, fdegir!users.noreply.github.com from 2020-01-01
 	ggalloro: ggalloro!users.noreply.github.com from 2023-04-01
 	luispollo: luispollo!users.noreply.github.com from 2020-08-01 until 2022-01-01
 Continusec:
@@ -15904,27 +15927,3 @@ DCSO Deutsche Cyber-Sicherheitsorganisation:
 	dwerder: dwerder!users.noreply.github.com from 2017-11-01 until 2018-05-01
 DDB Labs LLC:
 	nate-kingsley: nate-kingsley!users.noreply.github.com, ndkingsl!gmail.com from 2016-10-01 until 2018-06-01
-DDEX.io:
-	swinges: swinges!users.noreply.github.com from 2018-01-01
-DDG Enterprises:
-	jord1e: jord1e!users.noreply.github.com from 2018-05-01 until 2020-02-01
-DDM Větrník:
-	trejjam: jan!trejbal.land, trejjam!users.noreply.github.com until 2016-08-01
-DDMan Sdn. Bhd:
-	tkbky: tkbky!users.noreply.github.com until 2015-05-01
-DDN Storage:
-	LiXi-storage: lixi!ddn.com
-	samuel-phan: samuel-phan!users.noreply.github.com from 2015-02-01 until 2017-09-01
-	sbuisson-ddn: sbuisson!ddn.com from 2015-11-01
-	verygreen: green!linuxhacker.ru from 2018-06-01
-	vishalanarase: vishalanarase!users.noreply.github.com, vishalanarse11!gmail.com from 2020-12-01 until 2021-07-01
-DDS Food:
-	ShazaAldawamneh: ShazaAldawamneh!users.noreply.github.com from 2019-07-01 until 2019-12-01
-DDoS Hosting Solutions:
-	bobmshannon: bobmshannon!users.noreply.github.com, bshannon!palantir.com until 2014-01-01
-DE-CIX:
-	Tim-herbie: info!timherbert.de from 2023-03-01
-DECA:
-	burningalchemist: burningalchemist!users.noreply.github.com, sergei.zyubin!gmail.com from 2019-01-01 until 2019-09-01
-DECA Woodlands:
-	Jefftree: Jefftree!users.noreply.github.com until 2014-06-01
