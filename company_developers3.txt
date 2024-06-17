@@ -2,6 +2,23 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+DATAWIRE AG:
+	LukeShu: LukeShu!users.noreply.github.com, lukeshu!datawire.io, lukeshu!lukeshu.com from 2018-10-01
+	SecurityInsanity: securityinsanity!users.noreply.github.com from 2019-10-01 until 2020-01-01
+	alexgervais: alex.gervais!gmail.com, alexgervais!users.noreply.github.com from 2019-09-01
+	ark3: ark3!datawire.io, ark3!users.noreply.github.com from 2015-02-01
+	ecwws: evilcat!wisewolfsolutions.com from 2017-01-01
+	itamarst: itamar!itamarst.org, itamarst!users.noreply.github.com from 2016-04-01 until 2017-08-01
+	kelseyevans: kelsey!Datawire from 2016-08-01
+	kelseyevans: kelsey!datawire.io, kelseyevans!users.noreply.github.com from 2016-08-01
+	kflynn: kflynn!users.noreply.github.com until 2022-07-01
+	nbkrause: krausenoah!gmail.com, nbkrause!users.noreply.github.com from 2018-06-01
+	plombardi89: plombardi!datawire.io, plombardi89!users.noreply.github.com from 2015-09-01 until 2019-05-01
+	rhs: rhs!alum.mit.edu, rhs!users.noreply.github.com from 2014-11-01
+	richarddli: richard!datawire.io, richarddli!users.noreply.github.com
+DATEV eG:
+	burak-ok: burak-ok!users.noreply.github.com from 2020-04-01 until 2022-08-01
+	camen6ert: be!nbgcity.de until 2015-12-01
 DATYS:
 	ecarbonell-technisys: ecarbonell-technisys!users.noreply.github.com until 2018-12-01
 	jadolg: diazorozcoj!gmail.com, jadolg!users.noreply.github.com from 2015-09-01 until 2017-10-01
@@ -869,6 +886,7 @@ Daimler AG:
 	linkvt: linkvt!users.noreply.github.com from 2018-06-01
 	marziman: marziman!users.noreply.github.com until 2015-06-01
 	mblaschke: markus!familie-blaschke.net, mblaschke!users.noreply.github.com, mblaschke82!gmail.com from 2018-12-01 until 2019-10-01
+	schanzel: schanzel!users.noreply.github.com until 2014-12-01
 Daimler Group Services:
 	jllucas: joseluis.lucas!gmail.com from 2021-11-01
 Daimler Mobility:
@@ -1773,6 +1791,8 @@ Datafold:
 	gtoonstra: gtoonstra!users.noreply.github.com from 2021-03-01
 Datafund:
 	darkobas2: darkobas2!users.noreply.github.com
+Datagraphic:
+	RafeArnold: RafeArnold!users.noreply.github.com from 2018-08-01 until 2020-08-01
 Dataiku:
 	duckie: duckie!users.noreply.github.com from 2017-01-01
 	fabaliga: fabaliga!users.noreply.github.com from 2018-10-01
@@ -2950,6 +2970,7 @@ Deloitte:
 	realgeorgewu: 270633542!qq.com from 2018-01-01 until 2018-03-01
 	rishabhsaha: rishabhsaha!users.noreply.github.com until 2014-07-01
 	rmoqpd5t: rmoqpd5t!users.noreply.github.com until 2018-12-01
+	sambitr: kumar.sambit7!gmail.com from 2022-05-01
 	sassukeuchiha: itsmepranav888!gmail.com from 2022-06-01 until 2023-01-01
 	seankhliao: seankhliao!gmail.com, seankhliao!users.noreply.github.com from 2022-02-01 until 2022-05-01
 	shaikmanu797: shaikmanu797!users.noreply.github.com from 2019-12-01 until 2022-11-01
@@ -6537,6 +6558,8 @@ ELMO Software:
 	pjaak: pjaak!users.noreply.github.com from 2019-09-01
 ELSA:
 	biosugar0: biosugar0!gmail.com, biosugar0!users.noreply.github.com from 2022-03-01 until 2022-05-01
+ELSA Corp:
+	mangeshhambarde: mangeshhambarde!users.noreply.github.com from 2019-10-01 until 2021-02-01
 ELTA:
 	denzhel: dennis!bigpanda.io, denzhel!users.noreply.github.com until 2019-12-01
 EMAC Inc:
@@ -8195,6 +8218,7 @@ Elasticsearch Inc.:
 	jethr0null: jethr0null!users.noreply.github.com, mnikki137!gmail.com from 2018-07-01 until 2023-01-17
 	jlind23: julien.lind!elastic.co, lind23!users.noreply.github.com, vincent.lind!elastic.co, vj.lind!gmail.com
 	joshdover: joshdover!users.noreply.github.com, joshua.dover!elastic.co, me!joshdover.com
+	kaanyalti: kaanyalti!users.noreply.github.com from 2024-02-01
 	kaiyan-sheng: kaiyan-sheng!users.noreply.github.com, kaiyan.sheng!elastic.co
 	karencfv: karencfv!users.noreply.github.com from 2018-07-01 until 2021-07-02
 	krol3: guillen.carolina!gmail.com, krol3!users.noreply.github.com from 2022-12-01
@@ -13320,6 +13344,7 @@ Fission:
 Fit Analytics:
 	haimberger: haimberger!users.noreply.github.com
 	kavehmz: k.mousavizamani!travelaudience.com, kavehmz!gmail.com, kavehmz!users.noreply.github.com, kim!smuzey.ch from 2017-12-01
+	skoenig: skoenig!users.noreply.github.com from 2020-10-01
 FitKey:
 	drubin: davidrub!gmail.com, drubin!users.noreply.github.com from 2016-02-01 until 2016-07-01
 FitMyFoot Inc.:
@@ -13526,6 +13551,7 @@ FlexSystem:
 	AlphaWong: alphawong!users.noreply.github.com until 2015-06-01
 FlexTrade:
 	richardmosquera: richardmosquera!users.noreply.github.com until 2016-05-01
+	sambitr: kumar.sambit7!gmail.com from 2017-11-01 until 2018-05-01
 Flexa:
 	cpick: chris!chrispick.com, cpick!users.noreply.github.com from 2018-05-01
 Flexagon:
@@ -14800,6 +14826,8 @@ Freshfields:
 	petenorth: petenorth!users.noreply.github.com from 2020-03-01
 Freshflow:
 	crmne: carmine!paolino.me, crmne!users.noreply.github.com from 2021-02-01
+Freshly:
+	lauren-hinge: lauren-hinge!users.noreply.github.com from 2018-10-01 until 2021-11-01
 FreshlyBuilt:
 	17sushmita: 17sushmita!gmail.com from 2020-06-01 until 2020-10-01
 Freshmen/Alumni Summer Internship Program (F/ASIP):
@@ -16651,15 +16679,3 @@ Geek Girls Carrots:
 	kernelgonnapanic: kernelgonnapanic!users.noreply.github.com from 2015-10-01 until 2016-10-01
 Geek Shastra:
 	chowmean: chowmean!users.noreply.github.com, gaurav.dev.iiitm!gmail.com from 2014-05-01 until 2014-07-01
-Geek Squad:
-	AlexandreBrown: AlexandreBrown!users.noreply.github.com from 2016-04-01 until 2018-08-01
-	ImDevinC: ImDevinC!users.noreply.github.com, me!imdevinc.com until 2016-09-01
-	KyleTryon: KyleTryon!users.noreply.github.com from 2015-07-01 until 2017-09-01
-	keithhand: keithhand!users.noreply.github.com from 2015-07-01 until 2018-12-01
-	pcantea: pcantea!users.noreply.github.com until 2016-02-01
-GeekHaven IIIT Allahabad:
-	TheRealSibasishBehera: TheRealSibasishBehera!users.noreply.github.com from 2022-11-01
-Geekle:
-	gimlichael: gimlichael!users.noreply.github.com, michael!wbpa.dk until 2018-01-01
-Geeks:
-	bl0m1: bl0m1!users.noreply.github.com from 2016-02-01 until 2017-12-01
