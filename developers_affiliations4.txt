@@ -5,6 +5,23 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+dpertin: dpertin!users.noreply.github.com
+	Rozo System SAS until 2016-03-01
+	Independent from 2016-03-01 until 2016-10-01
+	Inria (French Institute for Research in Computer Science and Automation) from 2016-10-01 until 2018-05-01
+	Independent from 2018-05-01 until 2019-09-01
+	Inria (French Institute for Research in Computer Science and Automation) from 2019-09-01 until 2019-10-01
+	Independent from 2019-10-01 until 2020-10-01
+	Akeneo from 2020-10-01
+dpetersen: don!donpetersen.net, dpetersen!users.noreply.github.com
+	AOK Networks
+dpfaffenbauer: dominik!pfaffenbauer.at
+	Independent
+dpfrey: dpfrey!gmail.com
+	Icron until 2016-02-01
+	Sierra Wireless from 2016-02-01
+dpgaspar: danielvazgaspar!gmail.com, dpgaspar!users.noreply.github.com
+	Preset Inc
 dpiessens: dpiessens!users.noreply.github.com
 	Centare until 2016-08-01
 	TRICAST from 2016-08-01 until 2018-07-01
@@ -7040,8 +7057,8 @@ fangzhengjin: fangzhengjin!gmail.com, fangzhengjin!users.noreply.github.com
 	Automobile Comercio De Pecas Ltda
 fanminshi: fanmin.shi!coreos.com, fanmin.shi!gmail.com, fanminshi!users.noreply.github.com
 	Amazon until 2016-08-01
-	CoreOS Inc. from 2016-08-01 until 2018-02-01
-	Red Hat Inc. from 2018-02-01 until 2018-10-01
+	Red Hat Inc. from 2016-08-01 until 2018-02-01
+	CoreOS Inc. from 2018-02-01 until 2018-10-01
 	Argo AI LLC from 2018-10-01 until 2019-05-01
 	Independent from 2019-05-01
 fanndu: fanndu!users.noreply.github.com
@@ -18453,7 +18470,8 @@ hongbin: hongbin034!gmail.com
 hongchaodeng: fengjingchao!gmail.com, hongchaodeng!users.noreply.github.com, hongchaodeng1!gmail.com
 	Adobe Inc. until 2013-09-01
 	Cloudera Inc. from 2013-09-01 until 2015-11-01
-	CoreOS Inc. from 2015-11-01 until 2018-03-01
+	CoreOS Inc. from 2015-11-01 until 2018-02-01
+	Red Hat Inc. from 2018-02-01 until 2018-03-01
 	Alibaba Group from 2018-03-01 until 2022-04-01
 	Helium Systems Inc. from 2022-04-01 until 2023-09-01
 	CNCF from 2023-09-01
@@ -23905,29 +23923,3 @@ jalseth: jalseth!users.noreply.github.com
 	BCT until 2017-08-01
 	Yubico from 2017-08-01 until 2021-09-01
 	Google LLC from 2021-09-01
-jaltabike: ilyeop.yi!samsung.com, jaltabike!users.noreply.github.com
-	Samsung Electronics Co. Ltd.
-jam01: jam01!users.noreply.github.com
-	Foxhorn Solutions until 2015-01-01
-	SimplyVast from 2015-01-01 until 2016-02-01
-	Mountain State Software Solutions from 2016-02-01
-jamacku: jamacku!redhat.com, tj!apex.sh
-	Red Hat Inc.
-jamadeo: jamadeo!gmail.com, jamadeo!users.noreply.github.com
-	Compass
-jamal: jamal!jamal.codes, jamal!users.noreply.github.com
-	Flickr until 2017-03-01
-	Epic Systems from 2017-03-01
-jambajaar: jambajaar!users.noreply.github.com
-	Citrix Systems Inc. until 2015-04-01
-	Independent from 2015-04-01 until 2015-10-01
-	Wiztr from 2015-10-01 until 2017-12-01
-	Rancher Labs Inc. from 2017-12-01 until 2020-12-01
-	SUSE LLC from 2020-12-01
-jambonrose: jambonrose!users.noreply.github.com
-	Pearson plc until 2015-11-01
-	JamBon from 2015-11-01 until 2019-01-01
-	True Tickets from 2019-01-01
-jamborta: jamborta!gmail.com, jamborta!users.noreply.github.com
-	Independent until 2018-10-01
-	Myelin from 2018-10-01
