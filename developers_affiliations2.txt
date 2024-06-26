@@ -16364,7 +16364,9 @@ andrzej-kaczmarek: andrzej.kaczmarek!codecoup.pl
 	TietoEVRY until 2015-07-01
 	Codecoup from 2015-07-01
 andrzej-stencel: andrzej-stencel!users.noreply.github.com, andrzej.stencel!elastic.co
-	Independent until 2024-05-06
+	Independent until 2020-09-06
+	Sumo Logic Inc. from 2020-09-07 until 2024-04-30
+	Independent from 2024-05-01 until 2024-05-05
 	Elasticsearch Inc. from 2024-05-06
 andschwa: andrew!schwartzmeyer.com, andschwa!microsoft.com, jonathan!crem.in
 	Microsoft Corporation
@@ -20808,8 +20810,10 @@ astelmashenko: astelmashenko!users.noreply.github.com
 	Techmates until 2019-08-01
 	viax from 2019-08-01
 astencel-sumo: astencel!sumologic.com, astencel-sumo!users.noreply.github.com
-	Independent until 2020-09-01
-	Sumo Logic Inc. from 2020-09-01
+	Independent until 2020-09-06
+	Sumo Logic Inc. from 2020-09-07 until 2024-04-30
+	Independent from 2024-05-01 until 2024-05-05
+	Elasticsearch Inc. from 2024-05-06
 asterite: acidjazz!gmail.com, asterite!gmail.com, asterite!users.noreply.github.com, ninaolofs!gmail.com
 	Manas until 2017-05-01
 	Citrusbyte from 2017-05-01 until 2019-03-01
