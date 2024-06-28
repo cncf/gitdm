@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+b2cbre: b2cbre!users.noreply.github.com
+	CBRE Group Inc.
+b2jrock: b2jrock!gmail.com, b2jrock!users.noreply.github.com
+	Independent
 b3a-dev: b3a-dev!users.noreply.github.com
 	Ericsson until 2016-10-01
 	Telefonica from 2016-10-01 until 2017-07-01
@@ -9057,14 +9061,14 @@ cclhsu: clark.hsu!suse.com
 	SUSE LLC from 2019-03-01
 ccmtaylor: ccmtaylor!gmail.com, ccmtaylor!users.noreply.github.com
 	SoundCloud Global Limited & Co. KG
-ccojocar: ccojocar!google.com, gcojocar!adobe.com, ccojocar!cloudbees.com, ccojocar!users.noreply.github.com, cosmc!microsoft.com, cosmin.cojocar!gmx.ch
+ccojocar: ccojocar!cloudbees.com, ccojocar!google.com, ccojocar!users.noreply.github.com, cosmc!microsoft.com, cosmin.cojocar!gmx.ch, gcojocar!adobe.com
 	Leica Geosystem until 2014-02-01
 	Swisscom from 2014-02-01 until 2014-10-01
 	finnova AG Bankware from 2014-10-01 until 2015-10-01
 	Microsoft Corporation from 2015-10-01 until 2018-05-01
 	CloudBees Inc. from 2018-05-01 until 2021-06-01
 	Adobe Inc. from 2021-06-01 until 2024-05-31
-	Google from 2024.06.01
+	Google LLC from 2024-05-31
 ccolic: colic.christian!gmail.com
 	T-Systems Switzerland until 2017-02-01
 	Netcloud from 2017-02-01
@@ -23665,5 +23669,3 @@ dorin7bogdan: dorin7bogdan!users.noreply.github.com
 	Micro Focus International plc from 2020-12-01
 doriordan: doriordan!gmail.com, doriordan!users.noreply.github.com
 	Capgemini
-dorireuv: dori.public!gmail.com, dorir!google.com
-	Google LLC

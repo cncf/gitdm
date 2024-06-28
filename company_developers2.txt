@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Big Sea:
+	bloqhead: daryniscool!gmail.com until 2018-11-01
 Big Switch Networks Inc.:
 	Sovietaced: Sovietaced!users.noreply.github.com, sovietaced!gmail.com
 	andi-bigswitch: andreas.wundsam!bigswitch.com, rebecca.bruggman!gmail.com
@@ -10542,7 +10544,7 @@ CloudBees Inc.:
 	car-roll: car-roll!users.noreply.github.com, cchiou!cloudbees.com
 	carlossg: carlos!apache.org, carlossg!users.noreply.github.com, csanchez!maestrodev.com, github!carlossanchez.eu from 2018-03-01 until 2019-07-01
 	cathychan: cchan!cloudbees.com from 2021-02-01
-	ccojocar: ccojocar!cloudbees.com, ccojocar!users.noreply.github.com, cosmc!microsoft.com, cosmin.cojocar!gmx.ch from 2018-05-01 until 2021-06-01
+	ccojocar: ccojocar!cloudbees.com, ccojocar!google.com, ccojocar!users.noreply.github.com, cosmc!microsoft.com, cosmin.cojocar!gmx.ch, gcojocar!adobe.com from 2018-05-01 until 2021-06-01
 	christ66: schristou88!gmail.com until 2016-04-01, from 2016-08-01
 	cliffmeyers: cliff.meyers!gmail.com from 2016-03-01 until 2018-01-01
 	corinnekrych: corinnekrych!gmail.com, corinnekrych!users.noreply.github.com from 2019-05-01
