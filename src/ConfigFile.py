@@ -22,7 +22,8 @@ def ReadConfigLine (file):
     line = file.readline ()
     if not line:
         return None
-    line = line.split('#')[0] # Get rid of any comments
+    if line.startswith('#'):
+        return ''
     line = line.strip () # and extra white space
     line = email_decode(line)
     if len (line) == 0: # we got rid of everything
@@ -86,7 +87,7 @@ def ReadEmailEmployers (name, domain):
     while line:
         m = EMMpat.match (line)
         if not m:
-            croak ('Funky email/employer line "%s"' % (line))
+            croak ('Funky email/employer line "%s" in file "%s"' % (line, name))
         email = m.group (1)
         company = m.group (2).strip ()
         enddate = ParseDate (m.group (4))
