@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+MakeSpace:
+	ingcsmoreno: carloss.moreno!gmail.com, ingcsmoreno!users.noreply.github.com from 2020-10-01
 MakeTime:
 	jdlubrano: jdlubrano!users.noreply.github.com, joel.lubrano!gmail.com from 2015-12-01 until 2018-07-01
 Makeblock:
