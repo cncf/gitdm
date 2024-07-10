@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+MakeMyTrip:
+	nearora-msft: nearora-msft!users.noreply.github.com from 2016-09-01 until 2017-06-01
 MakeSpace:
 	ingcsmoreno: carloss.moreno!gmail.com, ingcsmoreno!users.noreply.github.com from 2020-10-01
 MakeTime:
@@ -15900,5 +15902,3 @@ Optiver:
 	samwyma: samwyma!users.noreply.github.com from 2014-12-01 until 2015-02-01
 Optomi:
 	msolimans: msolimans!users.noreply.github.com from 2017-07-01 until 2018-02-01
-Optonaut:
-	schickling: schickling.j!gmail.com until 2016-04-01
