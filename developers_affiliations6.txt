@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+m0ps: m0ps!users.noreply.github.com
+	IntroPro until 2018-08-01
+	Triangu from 2018-08-01 until 2019-06-01
+	EPAM Systems Inc from 2019-06-01 until 2021-01-01
+	SoftServe from 2021-01-01
 m0un10: m0un10!users.noreply.github.com
 	Rubicon Red until 2019-10-01
 	Independent from 2019-10-01 until 2020-01-01
@@ -23799,5 +23804,3 @@ phlegx: info!phlegx.com, phlegx!users.noreply.github.com
 	(Robots)
 phlippieb: phlippieb!users.noreply.github.com
 	Retro Rabbit
-phlogistonjohn: jmulligan!redhat.com, phlogistonjohn!users.noreply.github.com
-	Red Hat Inc.

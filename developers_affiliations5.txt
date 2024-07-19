@@ -5,6 +5,13 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+itirdea: irina.tirdea!intel.com
+	Intel Corporation
+itisaby: itisaby!users.noreply.github.com
+	Independent until 2022-01-01
+	IEMLabs from 2022-01-01 until 2022-07-01
+	Entrepreneurship Cell IEM Kolkata from 2022-07-01 until 2022-09-01
+	Upraised from 2022-09-01
 itismewxg: itismewxg!users.noreply.github.com
 	Baidu Online Network Technology (Beijing) Co. Ltd until 2014-05-01
 	Cloudflare Inc from 2014-05-01 until 2016-02-01
@@ -4657,7 +4664,7 @@ jessitron: jessitron!gmail.com, jessitron!users.noreply.github.com
 	Monsanto Company from 2015-03-01 until 2015-10-01
 	Stripe Inc. from 2015-10-01 until 2017-01-01
 	Atomist Inc. from 2017-01-01 until 2019-12-01
-	Jessitron from 2019-12-01
+	Jessitron from 2019-12-01 until 2021-07-14
 	Hound Technology Inc. dba Honeycomb from 2021-07-14
 jessm12: 32932155+jessm12!users.noreply.github.com, jessica.mccreery!ibm.com, jessm12!users.noreply.github.com
 	International Business Machines Corporation
@@ -23855,8 +23862,3 @@ m0ppers: andreas!arangodb.com, andreas.streichardt!gmail.com, m0ppers!users.nore
 	Independent until 2016-01-01
 	ArangoDB from 2016-01-01 until 2017-12-01
 	Independent from 2017-12-01
-m0ps: m0ps!users.noreply.github.com
-	IntroPro until 2018-08-01
-	Triangu from 2018-08-01 until 2019-06-01
-	EPAM Systems Inc from 2019-06-01 until 2021-01-01
-	SoftServe from 2021-01-01

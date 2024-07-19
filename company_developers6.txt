@@ -6860,7 +6860,7 @@ Jerry.ai:
 Jerónimo Martins:
 	pedro-ribeiro: pedro-ribeiro!users.noreply.github.com
 Jessitron:
-	jessitron: jessitron!gmail.com, jessitron!users.noreply.github.com from 2019-12-01
+	jessitron: jessitron!gmail.com, jessitron!users.noreply.github.com from 2019-12-01 until 2021-07-14
 Jet:
 	Szer: Szer!users.noreply.github.com from 2019-01-01 until 2019-06-01
 	VPashkov: vad.pashkov!gmail.com until 2015-05-01
@@ -12763,6 +12763,7 @@ LightStep Inc.:
 	MitchellDumovic: MitchellDumovic!users.noreply.github.com from 2018-09-01
 	andrewhsu: andrewhsu!acm.org, andrewhsu!docker.com, andrewhsu!users.noreply.github.com, xuzuan!gmail.com from 2020-02-04
 	arya: arya!users.noreply.github.com from 2017-10-01
+	austinlparker: austin!ap2.io, austin!lightstep.com, austinlparker!gmail.com, austinlparker!users.noreply.github.com until 2023-08-29
 	avillela: avillela!users.noreply.github.com from 2022-03-01
 	azimman: azimman!gmail.com, azimman!users.noreply.github.com from 2016-05-01 until 2017-06-01
 	bcronin: bcronin!resonancelabs.com, bcronin!users.noreply.github.com
@@ -15296,7 +15297,8 @@ MIT CSAIL:
 	armandmcqueen: armandmcqueen!users.noreply.github.com until 2015-12-01
 MIT Connection Science:
 	AnneTheAgile: AnneTheAgile!users.noreply.github.com, annemoroney!alum.mit.edu
-	GitBytes: GitBytes!users.noreply.github.com, gitbytes!gmail.com, ian.smith!pnnl.gov, ismith!mit.edu
+	GitBytes: GitBytes!users.noreply.github.com, gitbytes!gmail.com, ian.smith!pnnl.gov
+	GitBytes: ismith!mit.edu until 2020-08-05
 	aaron-prindle: aaron-prindle!users.noreply.github.com, aprindle!google.com until 2015-05-15
 	alkim0: alkim!mit.edu
 	amfarrell: afarrell!mit.edu, amfarrell!mit.edu
@@ -15313,7 +15315,7 @@ MIT Connection Science:
 	galbramc: galbramc!mit.edu
 	gnprice: price!mit.edu
 	imirkin: imirkin!alum.mit.edu
-	ismith: ismith!mit.edu, ismith!users.noreply.github.com
+	ismith: ismith!mit.edu, ismith!users.noreply.github.com until 2020-08-05
 	jiahao: jiahao!mit.edu, jiahao!users.noreply.github.com
 	judyheflin: judyheflin!users.noreply.github.com from 2018-09-01 until 2020-05-01
 	jwyuan: jwyuan!alum.mit.edu

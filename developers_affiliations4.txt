@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+dmitrif: dimitri.farkov!gmail.com, dmitrif!users.noreply.github.com
+	eBay Inc. until 2019-03-01
+	PagerDuty from 2019-03-01 until 2020-11-01
+	Coursera from 2020-11-01
 dmitrii-didenko: dmitrii-didenko!users.noreply.github.com
 	RELEX until 2016-09-01
 	DSR Corporation from 2016-09-01 until 2022-09-01
@@ -20044,7 +20048,7 @@ howardlau1999: howardlau1999!hotmail.com, howardlau1999!users.noreply.github.com
 howardyoo: howardyoo!users.noreply.github.com
 	International Business Machines Corporation until 2017-09-01
 	VMware Inc. from 2017-09-01 until 2021-12-01
-	Astronomer from 2021-12-01
+	Astronomer from 2021-12-01 until 2024-01-23
 	Hound Technology Inc. dba Honeycomb from 2024-01-23
 howbazaar: tim!penhey.net, tim!stacklet.io
 	Canonical Ltd. until 2020-08-01
@@ -23765,7 +23769,8 @@ ismferd: ismferd!users.noreply.github.com
 	Letgo Global BV from 2019-10-01
 ismith: ismith!mit.edu, ismith!users.noreply.github.com
 	MIT Connection Science until 2020-08-05
-	Hound Technology Inc. dba Honeycomb until 2024-05-17
+	Hound Technology Inc. dba Honeycomb from 2020-08-05 until 2024-05-17
+	Independent from 2024-05-17
 isnellfeikema-isp: isnellfeikema-isp!users.noreply.github.com
 	International Business Machines Corporation until 2018-10-01
 	iStreamPlanet from 2018-10-01 until 2022-04-01
@@ -23931,10 +23936,3 @@ itgkarl: itgkarl!web.de, itgkarl+git!gmail.com
 	Nitro Software Inc. from 2016-01-01 until 2018-06-01
 	InVision AG from 2018-06-01 until 2018-12-01
 	Community from 2018-12-01
-itirdea: irina.tirdea!intel.com
-	Intel Corporation
-itisaby: itisaby!users.noreply.github.com
-	Independent until 2022-01-01
-	IEMLabs from 2022-01-01 until 2022-07-01
-	Entrepreneurship Cell IEM Kolkata from 2022-07-01 until 2022-09-01
-	Upraised from 2022-09-01
