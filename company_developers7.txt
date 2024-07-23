@@ -2,11 +2,6 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
-Maistering:
-	Bhanu88: pat.bhanu!gmail.com from 2019-01-01
-	PietroPasotti: PietroPasotti!users.noreply.github.com from 2018-11-01 until 2019-11-01
-Maitian:
-	Summer-Field: Summer-Field!users.noreply.github.com from 2018-04-01 until 2020-01-01
 Majestic:
 	jleetyro: jleetyro!users.noreply.github.com until 2017-03-01
 Majestic3.com:
@@ -3098,7 +3093,6 @@ Meta Platforms Inc.:
 	rickhanlonii: rickhanlonii!fb.com, rickhanlonii!gmail.com, rickhanlonii!users.noreply.github.com
 	rickyyx: xuchen727!hotmail.com from 2021-01-01 until 2022-06-01
 	rikvanriel: riel!redhat.com, riel!surriel.com from 2017-12-01
-	ritikaguptams: ritikaguptams!users.noreply.github.com from 2019-05-01 until 2019-08-01, from 2020-06-01
 	riyazdf: riyaz.faizullabhoy!docker.com, riyazdf!berkeley.edu, riyazdf!gmail.com, riyazdf!users.noreply.github.com from 2015-06-01 until 2015-08-01, from 2019-09-01
 	robertmesserle: rmesserle!google.com, robertmesserle!gmail.com, robertmesserle!users.noreply.github.com from 2018-05-01 until 2019-09-01
 	robzhu: robzhu!gmail.com from 2016-02-01 until 2018-09-01
@@ -5209,6 +5203,7 @@ Microsoft Corporation:
 	ritamgit-alt: ritamgit-alt!users.noreply.github.com from 2022-05-01 until 2022-06-01
 	ritazh: rita.z.zhang!gmail.com, ritazh!users.noreply.github.com from 2015-06-01
 	rite2nikhil: nbhatia!microsoft.com, rite2nikhil!gmail.com, rite2nikhil!users.noreply.github.com
+	ritikaguptams: ritikaguptams!users.noreply.github.com from 2021-05-11
 	rizamarhaban: rizamarhaban!users.noreply.github.com until 2016-10-01
 	rjaini: rjaini!microsoft.com, rjaini!users.noreply.github.com
 	rjtsdl: jiren!microsoft.com, rjtsdl!gmail.com, rjtsdl!users.noreply.github.com until 2018-07-01
@@ -15899,3 +15894,5 @@ Opsmatic:
 	ickymettle: ickymettle!users.noreply.github.com, mbarczak!gmail.com until 2014-10-01
 Opsolutely:
 	rachelmyers: rachelmariemyers!gmail.com, rachelmyers!google.com, rachelmyers!users.noreply.github.com from 2016-06-01 until 2016-12-01
+Opsroll:
+	opsroller: charles!opsroll.com, opsroller!users.noreply.github.com
