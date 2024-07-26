@@ -151,5 +151,6 @@ Alternative way using diff (for simple PRs that only add new users):
 - Download `login_contributions.csv` from that node.
 - Check for forbiden users: `./check_shas login_contributions.csv`.
 - Run `./update_login_contributions.rb` to update `github_users.json` file.
+- Run `JSON=affiliated.json ./update_login_contributions.rb && cp affiliated.json ../../devstats/github_users.json` to update `github_users.json` file in `cncf/devstats`.
 - Run `FULL=1 ./post_manual_checks.sh && ./post_manual_updates.sh`.
 - Commit the new `github_users.json` to `cncf/gitdm` and `cncf/devstats` repos.
