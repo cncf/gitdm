@@ -28,9 +28,9 @@ def update_json(json_file, csv_file)
     data = data.sort_by { |u| [-u['commits'], u['login'], u['email']] }
     pretty = JSON.pretty_generate data
     File.write json_file, pretty
-    puts "updated #{updates} entries"
+    puts "updated #{updates} entries in #{json_file}"
   else
-    puts "everything up to date"
+    puts "everything up to date in #{json_file}"
   end
 end
 
