@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+# ./update_login_contributions.rb && JSON=affiliated.json ./update_login_contributions.rb && cp affiliated.json ../../devstats/github_users.json
+
 require 'json'
 require 'csv'
 require 'pry'
