@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+GEOSATIS:
+	aakkds: aakkds!users.noreply.github.com, p.jaermann!gmail.com from 2016-06-01
+	leodido99: antoine.alejandro!gmail.com, eliseomarmol!gmail.com, leodido99!gmail.com, leodido99!users.noreply.github.com, leonard.bise!gmail.com
+	shphilippe: shphilippe!users.noreply.github.com from 2014-12-01 until 2018-12-01
 GEOTAB:
 	mustafain117: mustafain.khan!mail.mcgill.ca, mustafain117!users.noreply.github.com from 2021-01-01 until 2021-08-01
 	userravs: userravs!users.noreply.github.com from 2017-01-01

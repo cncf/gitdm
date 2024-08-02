@@ -5,17 +5,6 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
-isand3r: isand3r!users.noreply.github.com
-	TELUS until 2014-09-01
-	Independent from 2014-09-01 until 2015-01-01
-	TELUS from 2015-01-01 until 2015-12-01
-	Independent from 2015-12-01 until 2016-05-01
-	TELUS from 2016-05-01 until 2016-08-01
-	Mojio & UBC from 2016-08-01 until 2017-04-01
-	TELUS from 2017-04-01
-isantospardo: isantospardo!users.noreply.github.com
-	CEGAPSE S.L. until 2016-09-01
-	CERN from 2016-09-01
 isaron: isaron!users.noreply.github.com
 	Wisesoft until 2015-02-01
 	International Business Machines Corporation from 2015-02-01 until 2015-08-01
@@ -15531,7 +15520,7 @@ kimsekkelund: kimsekkelund!users.noreply.github.com, ksek!oticon.com
 	Oticon A/S from 2016-05-01
 kimseongbo: kimseongbo!users.noreply.github.com, ksb0713!gmail.com
 	Samsung SDS
-kimsondrup: kim!sondrup.io, k8m!sondrup.io, kim!wexo.dk, kis!netcompany.com, kso!commentor.dk, kso!netic.dk, kim!sondrup.xyz, kimsondrup!users.noreply.github.com, kim-sondrup!users.noreply.github.com, 8328984+kimsondrup!users.noreply.github.com
+kimsondrup: 8328984+kimsondrup!users.noreply.github.com, k8m!sondrup.io, kim!sondrup.io, kim!sondrup.xyz, kim!wexo.dk, kim-sondrup!users.noreply.github.com, kimsondrup!users.noreply.github.com, kis!netcompany.com, kso!commentor.dk, kso!netic.dk
 	Independent until 2015-02-01
 	WEXO from 2015-02-01 until 2018-08-01
 	Netcompany from 2018-08-01 until 2023-02-01
@@ -23841,3 +23830,8 @@ lupino3: andrea.spadaccini!gmail.com, andreas!microsoft.com, lupino3!users.norep
 	Microsoft Corporation
 lupoDharkael: lupoDharkael!users.noreply.github.com
 	Independent
+luqunl: luqunl!microsoft.com, luqunl!users.noreply.github.com
+	Microsoft Corporation until 2018-10-01
+	Meta Platforms Inc. from 2018-10-01
+lurraca: lurraca!pivotal.io, lurraca!users.noreply.github.com, me!lurraca.com
+	Pivotal

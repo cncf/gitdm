@@ -5,11 +5,6 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
-luqunl: luqunl!microsoft.com, luqunl!users.noreply.github.com
-	Microsoft Corporation until 2018-10-01
-	Meta Platforms Inc. from 2018-10-01
-lurraca: lurraca!pivotal.io, lurraca!users.noreply.github.com, me!lurraca.com
-	Pivotal
 luser: ted!mielczarek.org
 	Mozilla Corporation
 lusu007: lukas.jost!outlook.com
@@ -23836,3 +23831,5 @@ pfiled: pfiled!users.noreply.github.com
 	Cloud Lake from 2018-11-01
 pfisterer: github!farberg.de, pfisterer!users.noreply.github.com
 	DHBW Stuttgart
+pfl: patrik.flykt!linux.intel.com
+	Intel Corporation
