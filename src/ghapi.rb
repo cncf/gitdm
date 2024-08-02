@@ -29,7 +29,7 @@ def rate_limit(clients, last_hint = -1, debug = 1)
         begin
           rate = client.rate_limit
         rescue
-          puts "idx #{idx} failed, either remove it #{client} via SKIP_TOKENS='#{idx}' or remove it from /etc/github/oauth(s)"
+          puts "idx #{idx} failed, either remove it #{client} via SKIP_TOKENS='#{idx}', SKIP_TOKEN_KEYS='ghp_XXX,ghp_YYY,...' or remove it from /etc/github/oauth(s)"
           failed << idx
         end
         puts "Rate limit for #{idx}: #{rate}" if debug >= 2
@@ -140,28 +140,57 @@ def octokit_init()
   # You can select subset of tokens with something like ONLY_TOKENS='1,3,5'
   selected = ENV['ONLY_TOKENS']
   if !selected.nil? && selected != ''
-    sel = selected.strip
-    idxa = sel.split(',').map(&:to_i)
+    idxa = selected.split(',').map(&:strip).map(&:to_i)
     ary = []
     tokens.each_with_index { |token, idx| ary << token if idxa.include?(idx) }
     tokens = ary
+    # ary = []
+    # client_ids.each_with_index { |client_id, idx| ary << client_id if idxa.include?(idx) }
+    # client_ids = ary
+    # ary = []
+    # client_secrets.each_with_index { |client_secret, idx| ary << client_secret if idxa.include?(idx) }
+    # client_secrets = ary
+  end
+
+  selected = ENV['ONLY_TOKEN_KEYS']
+  if !selected.nil? && selected != ''
+    keysa = selected.split(',').map(&:strip)
     ary = []
-    client_ids.each_with_index { |client_id, idx| ary << client_id if idxa.include?(idx) }
-    client_ids = ary
-    ary = []
-    client_secrets.each_with_index { |client_secret, idx| ary << client_secret if idxa.include?(idx) }
-    client_secrets = ary
+    idxa = []
+    tokens.each_with_index do |token, idx|
+      ary << token if keysa.include?(token)
+      idxa << idx if keysa.include?(token)
+    end
+    tokens = ary
+    # ary = []
+    # client_ids.each_with_index { |client_id, idx| ary << client_id if idxa.include?(idx) }
+    # client_ids = ary
+    # ary = []
+    # client_secrets.each_with_index { |client_secret, idx| ary << client_secret if idxa.include?(idx) }
+    # client_secrets = ary
   end
 
   skipped = ENV['SKIP_TOKENS']
   if !skipped.nil? && skipped != ''
-    ski = skipped.strip
-    idxa = skipped.split(',').map(&:to_i)
+    idxa = skipped.split(',').map(&:strip).map(&:to_i)
     ary = []
     tokens.each_with_index { |token, idx| ary << token unless idxa.include?(idx) }
     tokens = ary
     skipped = []
     tokens.each_with_index { |token, idx| skipped << token if idxa.include?(idx) }
+    puts "Tokens: #{tokens}"
+    puts "Skipped tokens: #{skipped}"
+    # exit 1
+  end
+
+  skipped = ENV['SKIP_TOKEN_KEYS']
+  if !skipped.nil? && skipped != ''
+    keysa = skipped.split(',').map(&:strip)
+    ary = []
+    tokens.each { |token| ary << token unless keysa.include?(token) }
+    tokens = ary
+    skipped = []
+    tokens.each { |token| skipped << token if keysa.include?(token) }
     puts "Tokens: #{tokens}"
     puts "Skipped tokens: #{skipped}"
     # exit 1
@@ -174,11 +203,13 @@ def octokit_init()
   n_thrs = ENV['NCPUS'].nil? ? Etc.nprocessors : ENV['NCPUS'].to_i
   tokens.each_with_index do |token, idx|
     thrs << Thread.new(token, idx) do |token, idx|
-      puts "Connecting client nr #{idx} #{token}"
+      cid = client_ids[idx] || client_ids[0]
+      csec = client_secrets[idx] || client_secrets[0]
+      puts "Connecting client nr #{idx} #{token} #{cid} #{csec}"
       client = Octokit::Client.new(
         access_token: token,
-        client_id: client_ids[idx],
-        client_secret: client_secrets[idx]
+        client_id: cid,
+        client_secret: csec
       )
     end
     while thrs.length >= n_thrs
