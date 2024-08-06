@@ -1070,7 +1070,7 @@ maazkhan: maazkhansgsits!gmail.com
 mabartos: mabartos!redhat.com
 	Independent until 2018-03-01
 	Red Hat Inc. from 2018-03-01
-mabdinur: mabdinur!users.noreply.github.com
+mabdinur: mabdinur!users.noreply.github.com, munir.abdinur!datadoghq.com
 	Independent until 2016-01-01
 	Sears from 2016-01-01 until 2016-04-01
 	Independent from 2016-04-01 until 2018-05-01
@@ -1078,7 +1078,8 @@ mabdinur: mabdinur!users.noreply.github.com
 	Independent from 2018-08-01 until 2019-09-01
 	Wonolo from 2019-09-01 until 2019-12-01
 	Independent from 2019-12-01 until 2020-05-01
-	Google LLC from 2020-05-01
+	Google LLC from 2020-05-01 until 2021-07-12
+	Datadog Inc from 2021-07-12
 mabes: maxime.besson!smile.fr
 	Smile
 mabhi: abhijit.mukherjee!infracloud.io

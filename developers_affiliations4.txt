@@ -13182,7 +13182,8 @@ gbaufake: gbaufake!redhat.com, gbaufake!users.noreply.github.com
 gbbr: gabriel!datadog.com, gbbr!users.noreply.github.com
 	stripetree until 2016-03-01
 	Sourcefabric from 2016-03-01 until 2017-12-01
-	Datadog Inc from 2017-12-01
+	Datadog Inc from 2017-12-01 until 2023-12-31
+	Independent from 2023-12-31
 gbedoya: gbedoya!users.noreply.github.com
 	Cloudflare Inc
 gbellows-linaro: greg.bellows!linaro.org
