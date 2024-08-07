@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+aveshagarwal: avagarwa!redhat.com, avesh.ncsu!gmail.com, aveshagarwal!users.noreply.github.com
+	Red Hat Inc until 2018-12-01
+	State Street Corp. from 2018-12-01 until 2020-01-01
+	NetApp from 2020-01-01
 avestuk: avestuk!users.noreply.github.com
 	Independent until 2015-10-01
 	Pebble from 2015-10-01 until 2017-12-01
@@ -23673,8 +23677,3 @@ djs55: djs55!users.noreply.github.com
 	Citrix Systems Inc. until 2015-09-01
 	Unikernel from 2015-09-01 until 2016-01-01
 	Docker Inc. from 2016-01-01
-djschny: djschny!users.noreply.github.com
-	Elasticsearch Inc. until 2017-05-19
-	Independent from 2017-05-19
-djsd123: djsd123!users.noreply.github.com
-	Greater London Authority

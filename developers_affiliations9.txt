@@ -5,6 +5,14 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+zkanda: zkanda!users.noreply.github.com
+	GlobeDrop until 2014-12-01
+	Promet Source from 2014-12-01 until 2016-01-01
+	engageSPARK Inc. from 2016-01-01
+zkarpinski: zkarpinski!users.noreply.github.com
+	National Grid until 2020-04-01
+	Pegasystems Inc. from 2020-04-01 until 2024-02-01
+	Capital One from 2024-02-01
 zkat: kzm!sykosomatic.org
 	Bitovi until 2015-03-01
 	npm Inc. from 2015-03-01 until 2019-07-01

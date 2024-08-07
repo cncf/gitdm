@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+ionut-arm: ionut-arm!users.noreply.github.com
+	Independent until 2015-09-01
+	STFC from 2015-09-01 until 2016-08-01
+	Sophos Ltd. from 2016-08-01 until 2019-06-01
+	ARM from 2019-06-01
 ionut-balazs-lateral: ionut-balazs-lateral!users.noreply.github.com
 	UMT Software until 2018-10-01
 	Lateral from 2018-10-01
@@ -23828,12 +23833,3 @@ ludydoo: ludydoo!users.noreply.github.com
 	Les Logiciels Easymage until 2019-10-01
 	Tempo from 2019-10-01 until 2020-11-01
 	NRC from 2020-11-01
-luebken: luebken!users.noreply.github.com, matthias.luebken!gmail.com, namngology!gmail.com
-	Giant Swarm GmbH until 2014-06-01
-	Giant Swarm GmbH from 2014-06-01 until 2016-03-01
-	Red Hat Inc. from 2016-03-01 until 2017-12-01
-	Instana Inc. from 2017-12-01
-lueenavarro: lueenavarro!users.noreply.github.com
-	Independent until 2019-01-01
-	DXC Technology from 2019-01-01 until 2021-05-01
-	Stratpoint from 2021-05-01
