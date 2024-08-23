@@ -5,6 +5,31 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+srfrnk: srfrnk!gmail.com, srfrnk!users.noreply.github.com
+	AOL until 2015-02-01
+	Budgetao from 2015-02-01 until 2016-04-01
+	DoiT International from 2016-04-01 until 2017-08-01
+	COGNITIVE ID LTD from 2017-08-01 until 2018-02-01
+	DAV from 2018-02-01 until 2020-01-01
+	Mimecast from 2020-01-01
+srggavrilov: srggavrilov!users.noreply.github.com
+	STC until 2017-04-01
+	Amber Pro from 2017-04-01 until 2017-10-01
+	Grid Dynamics from 2017-10-01 until 2018-07-01
+	Spark Networks from 2018-07-01 until 2019-06-01
+	Just Eat from 2019-06-01
+srgvg: serge!vanginderachter.be, srgvg!users.noreply.github.com
+	Independent
+sri-vathsa: sri-vathsa!users.noreply.github.com
+	Independent until 2018-05-01
+	Codenation Innovation from 2018-05-01 until 2018-07-01
+	Independent from 2018-07-01 until 2019-08-01
+	Codenation Innovation from 2019-08-01
+sribalakumar: sribalakumar!users.noreply.github.com
+	Exotel until 2014-04-01
+	Freshworks Technologies Pvt. Ltd. from 2014-04-01 until 2021-06-01
+	Independent from 2021-06-01 until 2021-08-01
+	GitLab from 2021-08-01
 sribconnect: prathyush.k!samsung.com
 	Samsung Electronics Co. Ltd.
 srickardti: s-rickard!ti.com
@@ -3385,10 +3410,15 @@ swhsiang: swh!hsiang.io, swhsiang!users.noreply.github.com
 	Salesforce.com Inc.
 swi-jared: swi-jared!users.noreply.github.com
 	SolarWinds Worldwide LLC
-swiatekm: mikolaj.swiatek!elastic.co, mail!mikolajswiatek.com, mail+sumo!mikolajswiatek.com, swiatekm-sumo!users.noreply.github.com, mswiatek@sumologic.com
+swiatekm: mail!mikolajswiatek.com, mail+sumo!mikolajswiatek.com, mikolaj.swiatek!elastic.co, mswiatek!sumologic.com, swiatekm-sumo!users.noreply.github.com
 	Independent until 2021-11-01
 	Sumo Logic Inc. from 2021-11-01 until 2024-06-30
-	Independent from 2024-07-01 until 2024-08-19
+	Independent from from 2024-06-30 until 2024-08-19
+	Elasticsearch Inc. from 2024-08-19
+swiatekm-sumo: mswiatek!sumologic.com, swiatekm-sumo!users.noreply.github.com
+	Independent until 2021-11-01
+	Sumo Logic Inc. from 2021-11-01 until 2024-06-30
+	Independent from from 2024-06-30 until 2024-08-19
 	Elasticsearch Inc. from 2024-08-19
 swibrow: sam.wibrow!gmail.com, swibrow!users.noreply.github.com
 	Public Trustee of QLD - Queensland Government until 2015-04-01
@@ -24022,42 +24052,3 @@ ziv-codefresh: ziv-codefresh!users.noreply.github.com
 	Independent until 2016-07-01
 	KidCode from 2016-07-01 until 2017-09-01
 	Codefresh Inc. from 2017-09-01
-ziyadbasheer: ziyadbasheer!users.noreply.github.com
-	Independent until 2014-09-01
-	Accenture Global Solutions Limited from 2014-09-01 until 2015-07-01
-	Independent from 2015-07-01 until 2017-11-01
-	Allianz Deutschland AG from 2017-11-01 until 2019-05-01
-	Syncier from 2019-05-01
-ziyadbasheer: ziyadbasheer213!gmail.com
-	Building of
-ziyi-xie: 92832323+ziyi-xie!users.noreply.github.com, kai-shii!nec.com, ziyi-xie!users.noreply.github.com
-	NEC Corporation
-ziyilin: ziyilin!users.noreply.github.com
-	Independent until 2018-12-03
-	Alibaba Group from 2018-12-03
-zizhuo-yan: zizhuo-yan!users.noreply.github.com
-	VMware Inc.
-zizon: zizon!users.noreply.github.com, zzdtsv!gmail.com
-	Independent until 2014-05-01
-	Jd.Com from 2014-05-01 until 2015-05-01
-	Independent from 2015-05-01 until 2016-02-01
-	PING AN from 2016-02-01 until 2016-06-01
-	iPIN from 2016-06-01 until 2017-06-01
-	S.F. EXPRESS CO from 2017-06-01 until 2020-12-01
-	Shopee from 2020-12-01
-zjcomeon: 159109799!qq.com, zhenjia.wang!daocloud.io, zjcomeon!users.noreply.github.com
-	DaoCloud Network Technology Co. Ltd.
-zjhans: zjhans!users.noreply.github.com
-	Comcast Cable Communications LLC (Xfinity)
-zjin7: zhi.jin!intel.com
-	Intel Corporation
-zjj2wry: 393926893!qq.com, zhengjiajin!caicloud.io, zhengjiajin2016!gmail.com, zjj2wry!users.noreply.github.com
-	Caiyun Technology (Caicloud)
-zjkmxy: xinyuma!google.com, zjkmxy!users.noreply.github.com
-	Independent until 2020-06-01
-	Google LLC from 2020-06-01
-zjmtlab: zjmtlab!users.noreply.github.com
-	Independent until 2018-07-01
-	Red Hat Inc. from 2018-07-01
-zjn77777: zjn77777!163.com
-	NetEase Inc

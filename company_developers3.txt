@@ -2,6 +2,21 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+CuriousThing:
+	chainat: chainat!gmail.com, chainat!users.noreply.github.com from 2018-12-01 until 2020-04-01
+Curity AB:
+	anderseknert: anders!eknert.com, anderseknert!users.noreply.github.com from 2016-10-01 until 2018-08-01
+	gary-archer: gary-archer!users.noreply.github.com from 2020-12-01
+Curity.eu:
+	hvt: hvt!users.noreply.github.com from 2015-01-01
+Curl:
+	Biswajitghosh98: Biswajitghosh98!users.noreply.github.com from 2019-05-01 until 2019-07-01
+Curo Digital:
+	BrentonWatt: BrentonWatt!users.noreply.github.com from 2017-03-01 until 2018-11-01
+CuroTech:
+	Alxandr: Alxandr!users.noreply.github.com, alxandr!alxandr.me until 2017-09-01
+Curology:
+	allanitis: matthewa021!gmail.com from 2019-06-01
 Currant:
 	roylee17: 993372246!qq.com, roylee17!gmail.com, roylee17!users.noreply.github.com from 2015-10-01 until 2016-10-01
 Currency:
@@ -4756,11 +4771,11 @@ Diagram:
 Diagram Studio:
 	imanshafiei540: imanshafiei540!gmail.com from 2019-01-01 until 2020-12-01
 Diagrid:
+	JoshVanL: JoshVanL!users.noreply.github.com from 2023-01-10
 	artursouza: artur04!gmail.com, artursouza.ms!outlook.com, asouza.pro!gmail.com from 2023-01-13
 	cicoyle: cassie.i.coyle!gmail.com from 2023-08-01
 	elena-kolevska: elena-kolevska!users.noreply.github.com from 2023-08-01
 	jjcollinge: jjcollinge!users.noreply.github.com from 2022-02-04
-	JoshVanL: JoshVanL!users.noreply.github.com from 2023-01-10
 	msfussell: markfussell!gmail.com, mfussell!microsoft.com, msfussell!users.noreply.github.com from 2021-12-01
 	yaron2: schneider.yaron!live.com, yaron2!users.noreply.github.com, yaronsc!microsoft.com from 2021-11-01
 Dial 800:
@@ -9167,6 +9182,8 @@ Elasticsearch Inc.:
 	sonasingh46: ashutosh.kumar!mayadata.io, ashutosh.kumar!openebs.io, sonasingh46!gmail.com, sonasingh46!users.noreply.github.com from 2023-06-01
 	stevejgordon: sgordon!hotmail.co.uk, stevejgordon!users.noreply.github.com, steven.gordon!elastic.co
 	strawgate: bill.easton!elastic.co, strawgate!users.noreply.github.com, williamseaston!gmail.com
+	swiatekm: mail!mikolajswiatek.com, mail+sumo!mikolajswiatek.com, mikolaj.swiatek!elastic.co, mswiatek!sumologic.com, swiatekm-sumo!users.noreply.github.com from 2024-08-19
+	swiatekm-sumo: mswiatek!sumologic.com, swiatekm-sumo!users.noreply.github.com from 2024-08-19
 	tbragin: tbragin!users.noreply.github.com from 2014-10-01 until 2022-01-01
 	thomasdullien: thomasdullien!users.noreply.github.com from 2021-11-01 until 2024-01-31
 	trentm: trent.mick!elastic.co, trent.mick!joyent.com, trentm!gmail.com, trentm!users.noreply.github.com from 2020-10-01

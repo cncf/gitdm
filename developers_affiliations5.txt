@@ -5,6 +5,19 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+iobestar: iobestar!users.noreply.github.com, ivica.obestar!gmail.com
+	lnfobip d.o.o
+iocanel: iocanel!gmail.com, iocanel!users.noreply.github.com
+	Red Hat Inc.
+ioemat: ioemat!users.noreply.github.com
+	CENIT until 2015-06-01
+	Bosch from 2015-06-01
+ioggstream: ioggstream!users.noreply.github.com, robipolli!gmail.com
+	Par-Tec S.p.A.
+iomari: iomari!gmail.com, iomari!users.noreply.github.com
+	Independent
+iongion: iongion!users.noreply.github.com, stoica.ionut!gmail.com
+	Keemotion
 ionicsolutions: ionicsolutions!users.noreply.github.com
 	Independent until 2018-04-01
 	Senacor from 2018-04-01 until 2021-03-01
@@ -21762,8 +21775,9 @@ linxcat: cone.lavoy!gmail.com, linxcat!users.noreply.github.com
 	Independent from 2016-08-01 until 2017-08-01
 	VMFarms from 2017-08-01 until 2018-12-01
 	Swift Medical from 2018-12-01
-linxiulei: linxiulei!gmail.com, exlin!google.com, linxiulei!users.noreply.github.com
+linxiulei: exlin!google.com, linxiulei!gmail.com, linxiulei!users.noreply.github.com
 	Alibaba Group until 2019-08-01
+	Independent from 2019-08-01 until 2021-04-19
 	Google LLC from 2021-04-19
 linxs953: cakelinxs!outlook.com
 	有赞
@@ -23822,15 +23836,3 @@ ludovic-pourrat: ludovic-pourrat!users.noreply.github.com
 	Lombard Odier Darier Hentsch & Cie (USA) from 2020-02-01
 ludovicMercier: ludovicMercier!users.noreply.github.com
 	Apside
-ludovicRoucoux: ludovic.roucoux!gmail.com, ludovic.roucoux!novia-systems.fr
-	Independent until 2015-03-01
-	Novia Systems from 2015-03-01 until 2016-07-01
-	NORGAY SAS from 2016-07-01
-ludovicbonivert: ludovicbonivert!users.noreply.github.com
-	Independent until 2015-06-01
-	International Business Machines Corporation from 2015-06-01 until 2015-09-01
-	Independent from 2015-09-01 until 2016-02-01
-	Walt Disney Animation Studios from 2016-02-01 until 2016-05-01
-	Independent from 2016-05-01 until 2016-09-01
-	International Business Machines Corporation from 2016-09-01 until 2022-10-01
-	Belfius from 2022-10-01

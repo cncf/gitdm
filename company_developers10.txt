@@ -2,6 +2,14 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Talos Systems:
+	andrewrynhard: andrew!andrewrynhard.com, andrewrynhard!users.noreply.github.com from 2019-04-01
+	bradbeam: brad.beam!b-rad.info, brad.beam!talos-systems.com, bradbeam!users.noreply.github.com, bradley.beam!emc.com from 2019-04-01 until 2020-04-01
+	rsmitty: robertspencersmith!gmail.com, rsmitty!users.noreply.github.com from 2019-05-01
+	smira: smira!users.noreply.github.com, xiedonglei123!gmail.com from 2020-07-01
+	xingyunhui: andrew!andrewrynhard.com from 2019-04-01
+Talpas:
+	mbevc1: mbevc1!users.noreply.github.com until 2016-04-01
 Tam:
 	poweroftrue: mostafa!dahab.io, noloveafterus!gmail.com, poweroftrue!users.noreply.github.com from 2017-01-01 until 2018-12-01
 Tamedia:
@@ -6849,8 +6857,10 @@ UAceIt:
 UBC:
 	dmccaffery: dmccaffery!users.noreply.github.com until 2016-12-01
 	eunice98k: eunice98k!users.noreply.github.com, kimeuni!amazon.com from 2019-09-01 until 2020-05-01
+	euniceek: euniceek!users.noreply.github.com, kimeuni!amazon.com from 2019-09-01 until 2020-05-01
 UBC Bionics:
 	eunice98k: eunice98k!users.noreply.github.com, kimeuni!amazon.com from 2018-09-01 until 2019-09-01
+	euniceek: euniceek!users.noreply.github.com, kimeuni!amazon.com from 2018-09-01 until 2019-09-01
 UBER:
 	Omenien: Omenien!users.noreply.github.com from 2015-07-01 until 2017-06-01
 	karthikv2k: karthikv2k!users.noreply.github.com from 2016-01-01 until 2018-08-01
@@ -9090,7 +9100,7 @@ VMware Inc.:
 	Nilesh7756: nnilesh7756!gmail.com
 	NiranEC77: NiranEC77!users.noreply.github.com
 	OfficePop: OfficePop!users.noreply.github.com, mbenavidez!vmware.com from 2020-10-01
-	OrlinVasilev: OrlinVasilev!users.noreply.github.com, orlin!orlix.org, ovasilev!vmware.com from 2018-08-08
+	OrlinVasilev: OrlinVasilev!users.noreply.github.com, orlin!orlix.org, ovasilev!vmware.com from 2018-08-08 until 2024-02-06
 	Parvathy-Geetha: Parvathy-Geetha!users.noreply.github.com, pgeetha!andrew.cmu.edu from 2018-05-01 until 2018-08-01, from 2019-02-01 until 2022-02-01
 	Petahhh: Petahhh!users.noreply.github.com from 2020-04-01
 	PeteLevineA: lpete!vmware.com
@@ -16126,20 +16136,3 @@ Wyzant:
 	evan-hines-firebolt: evan-hines-firebolt!users.noreply.github.com until 2017-07-01
 WÃ¼rth Phoenix S.r.l.:
 	b1zzu: b1zzu!users.noreply.github.com from 2016-05-01 until 2018-05-01
-Wärtsilä:
-	so-jelly: so-jelly!users.noreply.github.com, sodell!gmail.com from 2019-09-01
-Wärtsilä Voyage:
-	romanspb80: romanspb!yahoo.com until 2015-02-01
-Wölfel-Group:
-	Flowdalic: flo!geekplace.eu
-Würth ITensis AG:
-	mdnix: mdnix!users.noreply.github.com until 2018-01-01
-X BY 2:
-	evan-hines-firebolt: evan-hines-firebolt!users.noreply.github.com from 2019-01-01 until 2019-09-01
-X Sat FZE:
-	ErmakovDmitriy: ErmakovDmitriy!users.noreply.github.com, demonihin!gmail.com until 2020-12-01
-X the moonshot factory:
-	abrestic: abrestic!chromium.org from 2016-04-01
-	hlee95: hlee95!users.noreply.github.com from 2016-06-01 until 2016-08-01
-	satnam6502: bimalvasan!gmail.com, satnam!google.com, satnam!raintown.org, satnam6502!users.noreply.github.com from 2017-03-15 until 2019-02-01
-	youtweakit: youtweakit!users.noreply.github.com from 2021-01-01
