@@ -3385,8 +3385,11 @@ swhsiang: swh!hsiang.io, swhsiang!users.noreply.github.com
 	Salesforce.com Inc.
 swi-jared: swi-jared!users.noreply.github.com
 	SolarWinds Worldwide LLC
-swiatekm-sumo: mswiatek!sumologic.com, swiatekm-sumo!users.noreply.github.com
-	Sumo Logic Inc.
+swiatekm: mikolaj.swiatek!elastic.co, mail!mikolajswiatek.com, mail+sumo!mikolajswiatek.com, swiatekm-sumo!users.noreply.github.com, mswiatek@sumologic.com
+	Independent until 2021-11-01
+	Sumo Logic Inc. from 2021-11-01 until 2024-06-30
+	Independent from 2024-07-01 until 2024-08-19
+	Elasticsearch Inc. from 2024-08-19
 swibrow: sam.wibrow!gmail.com, swibrow!users.noreply.github.com
 	Public Trustee of QLD - Queensland Government until 2015-04-01
 	Independent from 2015-04-01 until 2015-11-01
