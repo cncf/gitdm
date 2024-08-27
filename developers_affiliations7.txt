@@ -280,7 +280,7 @@ pchan: pchan!users.noreply.github.com, prasad.chand!gmail.com, prasadc!vmware.co
 pchandra19: pchandra19!users.noreply.github.com, prateek.chandra!datacore.com
 	Independent until 2020-07-01
 	DataCore Software from 2020-07-01
-pchila: paolo.chila!elastic.co, pchila!users.noreply.github.com, paolo.chila!dynatrace.com
+pchila: paolo.chila!dynatrace.com, paolo.chila!elastic.co, pchila!users.noreply.github.com
 	Amadeus until 2016-04-01
 	VASCO from 2016-04-01 until 2017-03-01
 	YOOX NET A PORTER GROUP SPA from 2017-03-01 until 2019-04-01
@@ -288,6 +288,7 @@ pchila: paolo.chila!elastic.co, pchila!users.noreply.github.com, paolo.chila!dyn
 	Radar from 2019-06-01 until 2020-02-01
 	Independent from 2020-02-01 until 2020-05-01
 	Dynatrace LLC from 2020-05-01 until 2022-07-29
+	Independent from 2022-07-29 until 2023-01-09
 	Elasticsearch Inc. from 2023-01-09
 pchistikov: pchistikov!users.noreply.github.com
 	Speech until 2015-06-01

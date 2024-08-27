@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Crusher.dev:
+	arpitBhalla: arpitBhalla!users.noreply.github.com from 2021-03-01 until 2021-12-01
 CrustLab:
 	maciekmm: business!maciekmm.net, maciekmm!users.noreply.github.com from 2020-03-01 until 2021-08-01
 Crutchfield New Media LLC.:
@@ -7248,7 +7250,7 @@ Dynatrace LLC:
 	oertl: oertl!users.noreply.github.com from 2015-03-01
 	patrickpichler: patrickpichler!users.noreply.github.com from 2020-07-01
 	pbrzoska-sumo: pbrzoska-sumo!users.noreply.github.com until 2019-02-01
-	pchila: paolo.chila!dynatrace.com from 2020-05-01
+	pchila: paolo.chila!dynatrace.com, paolo.chila!elastic.co, pchila!users.noreply.github.com from 2020-05-01 until 2022-07-29
 	philipp-hinteregger: philipp-hinteregger!users.noreply.github.com from 2022-08-01
 	pichlermarc: pichlermarc!users.noreply.github.com from 2021-08-01
 	piotrlugowski: piotr.lugowski!dynatrace.com from 2017-07-01
@@ -9429,6 +9431,7 @@ Elasticsearch Inc.:
 	mlunadia: miguel.luna!elastic.co, mlunadia!gmail.com, mlunadia!users.noreply.github.com from 2022-01-01
 	nachogiljaldo: nachogiljaldo!users.noreply.github.com, naranja82!gmail.com from 2017-05-01 until 2020-08-01
 	nkvoll: njal!karevoll.no, nkvoll!users.noreply.github.com
+	pchila: paolo.chila!dynatrace.com, paolo.chila!elastic.co, pchila!users.noreply.github.com from 2023-01-09
 	peasead: 7442091+peasead!users.noreply.github, andrew.pease!elastic.co
 	pebrc: pebrc!users.noreply.github.com from 2017-07-01
 	pkoutsovasilis: pkoutsovasilis!users.noreply.github.com from 2023-09-01
@@ -16633,11 +16636,3 @@ FullContact:
 	katiekeel: katiekeel!users.noreply.github.com from 2017-12-01 until 2018-10-01
 FullFekr:
 	erbesharat: erbesharat!gmail.com, erbesharat!users.noreply.github.com, inthinkcolor!gmail.com from 2017-10-01 until 2018-09-01
-FullStory:
-	PratikDeoghare: PratikDeoghare!users.noreply.github.com, pratik.deoghare!gmail.com from 2016-01-01 until 2019-06-01
-	bschaeffer: bschaeffer!users.noreply.github.com from 2019-02-01
-	dkuebric: dan.kuebrich!gmail.com, dkuebric!users.noreply.github.com from 2019-03-01
-	jerseybbq: jersey!gmail.com, jerseybbq!users.noreply.github.com
-	jhump: jh!fullstory.com, jh!squareup.com, jhump!users.noreply.github.com
-	justinrsweeney: justinsweeney!fullstory.com from 2022-01-01
-	yoonsio: yoonsio!users.noreply.github.com from 2021-02-01 until 2022-11-01

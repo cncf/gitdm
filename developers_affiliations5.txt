@@ -8725,7 +8725,7 @@ joerg84: jmertic!linuxfoundation.org, joerg!mesosphere.io, joerg84!users.noreply
 	Mesosphere
 joergroedel: joro!8bytes.org, jroedel!suse.de
 	SUSE LLC
-joerober: joerober!cisco.com, joerober!users.noreply.github.com, joel.robertsjr!gmail.com
+joerober: joel.robertsjr!gmail.com, joerober!cisco.com, joerober!users.noreply.github.com
 	Cisco
 joerocklin: joe.rocklin!gmail.com, joerocklin!users.noreply.github.com, joseph.rocklin!siemens.com
 	Independent until 2012-05-01
@@ -23819,6 +23819,3 @@ lqdev: lqdev!outlook.com, lqdev!users.noreply.github.com
 	Bank of New York Mellon until 2018-03-01
 	Accenture Global Solutions Limited from 2018-03-01 until 2019-01-01
 	Microsoft Corporation from 2019-01-01
-lquerel: lquerel!users.noreply.github.com
-	CloudWeaver until 2015-01-01
-	Jabulani Sp. z o. o from 2015-01-01

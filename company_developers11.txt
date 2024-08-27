@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+WorkIndia:
+	ashnehete: ashnehete!users.noreply.github.com, hello!ashnehete.in from 2019-06-01
 WorkJam:
 	aleveille: aleveille!users.noreply.github.com from 2016-04-01 until 2019-04-01
 WorkMarket:
@@ -1289,7 +1291,7 @@ YOOX NET A PORTER GROUP SPA:
 	luigizhou: luigizhou!users.noreply.github.com from 2017-01-01 until 2018-03-01
 	lukeab: lukeab!users.noreply.github.com from 2018-02-01 until 2018-10-01
 	mattiaperi: mattiaperi!users.noreply.github.com from 2018-11-01
-	pchila: paolo.chila!dynatrace.com from 2017-03-01 until 2019-04-01
+	pchila: paolo.chila!dynatrace.com, paolo.chila!elastic.co, pchila!users.noreply.github.com from 2017-03-01 until 2019-04-01
 	samueleresca: samuele.resca!gmail.com from 2017-12-01 until 2018-07-01
 	tomphilbin: tomphilbin!users.noreply.github.com from 2018-12-01 until 2022-01-01
 YOOX NET-A-PORTER GROU:
