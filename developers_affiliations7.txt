@@ -3463,6 +3463,8 @@ pqn: pqn!users.noreply.github.com
 	Codeium from 2021-10-01
 pquerna: pquerna!apache.org, pquerna!users.noreply.github.com
 	Apache
+pquentin: quentin.pradet!elastic.co
+	Elasticsearch Inc.
 pr-mu-deploy: pr-mu-deploy!users.noreply.github.com
 	b
 pra85: pra85!users.noreply.github.com, prayag!broomble.com, prayag.verma!gmail.com
