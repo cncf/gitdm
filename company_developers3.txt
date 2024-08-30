@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Crunchyroll:
+	kevburnsjr: kevburnsjr!users.noreply.github.com from 2017-08-01 until 2019-05-01
+	mikechau: mikechau!users.noreply.github.com from 2018-03-01 until 2018-08-01
+	sethmccombs: sethelt!gmail.com, sethmccombs!users.noreply.github.com, sethpmccombs!gmail.com, smccombs!triller.co from 2022-04-01 until 2022-11-01
 Crusher.dev:
 	arpitBhalla: arpitBhalla!users.noreply.github.com from 2021-03-01 until 2021-12-01
 CrustLab:
@@ -9436,6 +9440,7 @@ Elasticsearch Inc.:
 	pebrc: pebrc!users.noreply.github.com from 2017-07-01
 	pkoutsovasilis: pkoutsovasilis!users.noreply.github.com from 2023-09-01
 	pmoust: mike!capu.to, pmoust!elastic.co, pmoust!gmail.com, pmoust!users.noreply.github.com from 2016-08-01
+	pquentin: pquentin!users.noreply.github.com, quentin!pradet.me, quentin.pradet!elastic.co
 	pugnascotia: pugnascotia!users.noreply.github.com from 2017-03-01
 	reakaleek: jan.calanog!elastic.co, nejcalanog!gmail.com, reakaleek!users.noreply.github.com from 2022-12-01
 	rhass: rhass!users.noreply.github.com from 2019-04-01
@@ -16634,5 +16639,3 @@ FullContact:
 	abatilo-isp: abatilo-isp!users.noreply.github.com from 2017-06-01 until 2018-01-01
 	droidnoob: droidnoob!users.noreply.github.com from 2019-09-01
 	katiekeel: katiekeel!users.noreply.github.com from 2017-12-01 until 2018-10-01
-FullFekr:
-	erbesharat: erbesharat!gmail.com, erbesharat!users.noreply.github.com, inthinkcolor!gmail.com from 2017-10-01 until 2018-09-01

@@ -4171,7 +4171,6 @@ b:
 	opencurve: opencurve!users.noreply.github.com
 	pivotal-issuemaster: pivotal-issuemaster!users.noreply.github.com
 	pixie-labs-buildbot: pixie-labs-buildbot!users.noreply.github.com
-	pr-mu-deploy: pr-mu-deploy!users.noreply.github.com
 	sd-buildbot: sd-buildbot!users.noreply.github.com
 	sd-buildbot-functional: sd-buildbot-functional!users.noreply.github.com
 	shinji3887: shinji3887!users.noreply.github.com
