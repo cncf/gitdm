@@ -2963,7 +2963,7 @@ AWS:
 	chewong: chewong!users.noreply.github.com from 2022-07-22 until 2023-08-01
 	chris-sanders: chris-sanders!users.noreply.github.com, sanders.chris!gmail.com from 2015-12-01 until 2016-06-01
 	chris-short: chris!chrisshort.net, chris-short!users.noreply.github.com from 2021-10-24
-	chrisdoherty4: chris.doherty!alteryx.com, chris.doherty4!gmail.com, chrisdoherty4!users.noreply.github.com, cpd!amazon.com from 2022-01-01
+	chrisdoherty4: chris.doherty!airbnb.com, chris.doherty!alteryx.com, chris.doherty4!gmail.com, chrisdoherty4!users.noreply.github.com, cpd!amazon.com from 2022-01-01 until 2024-05-20
 	christiemolloy: cmolloy!bu.edu from 2021-06-01
 	christopherzli: christopherzli!users.noreply.github.com from 2019-06-01 until 2019-08-01
 	coderplay: coderplay!gmail.com, coderplay!users.noreply.github.com from 2016-05-01 until 2020-05-01
@@ -4930,6 +4930,7 @@ Adobe Inc.:
 	selfxp: selfxp!users.noreply.github.com
 	sfotony: gosselin!adobe.com, sfotony!users.noreply.github.com until 2017-01-01, from 2017-01-01
 	shubhanshus: shubhanshus!users.noreply.github.com from 2019-07-01
+	solimant: solimant!users.noreply.github.com
 	srlk: serol.kosunda!gmail.com from 2021-08-01
 	sruon: sruon!users.noreply.github.com from 2014-06-01
 	tfitch: github!tfitch.com, tfitch!chef.io, tfitch!getchef.com
@@ -5751,6 +5752,7 @@ Airbnb:
 	anthonyalayo: anthonyalayo!users.noreply.github.com from 2021-02-01 until 2021-06-01
 	ben-childs-docusign: ben-childs-docusign!users.noreply.github.com from 2019-06-01 until 2020-10-01
 	carlosreyna-cloudposse: carlos!cloudposse.com from 2017-06-01 until 2018-01-01
+	chrisdoherty4: chris.doherty!airbnb.com, chris.doherty!alteryx.com, chris.doherty4!gmail.com, chrisdoherty4!users.noreply.github.com, cpd!amazon.com from 2024-05-20
 	copernican: copernican!users.noreply.github.com from 2019-01-01
 	dahutu: wenzhong!outlook.com from 2018-09-01 until 2021-02-01
 	danfrankj: danfrankj!users.noreply.github.com from 2015-11-01 until 2018-05-01
@@ -7349,7 +7351,7 @@ Alternative Data:
 Alternative Networks:
 	samirmajen: samirmajen!users.noreply.github.com until 2017-11-01
 Alteryx:
-	chrisdoherty4: chris.doherty!alteryx.com, chris.doherty4!gmail.com, chrisdoherty4!users.noreply.github.com, cpd!amazon.com from 2020-03-01 until 2022-01-01
+	chrisdoherty4: chris.doherty!airbnb.com, chris.doherty!alteryx.com, chris.doherty4!gmail.com, chrisdoherty4!users.noreply.github.com, cpd!amazon.com from 2020-03-01 until 2022-01-01
 	devnulled: devnulled!users.noreply.github.com from 2020-03-01
 	jim-leary: jim-leary!users.noreply.github.com from 2020-06-01 until 2021-07-01
 	kannon92: kannon1992!gmail.com, kannon92!users.noreply.github.com from 2019-05-01 until 2021-06-01
@@ -16130,9 +16132,3 @@ Bentley Systems Incorporated:
 	jeruane: jeruane!users.noreply.github.com from 2015-07-01 until 2015-08-01
 Bento Labs:
 	runningcode: runningcode!users.noreply.github.com from 2014-08-01 until 2016-01-01
-BentoML:
-	ssheng: ssheng!users.noreply.github.com from 2022-06-01
-	yetone: yetone!users.noreply.github.com, yetoneful!gmail.com
-	yubozhao: yubozhao!users.noreply.github.com from 2017-08-01
-Benton Furniture:
-	Ant59: Ant59!users.noreply.github.com, antonyderham!gmail.com until 2017-06-01
