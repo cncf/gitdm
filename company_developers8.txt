@@ -2,6 +2,9 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+OpenEBS:
+	muratkars: murat!mayadata.io, murat!openebs.io, muratkars!users.noreply.github.com, muratkarslioglu!gmail.com from 2017-11-01 until 2017-12-01
+	payes: payes!users.noreply.github.com, payes.anand!cloudbyte.com, payes.anand!mayadata.io from 2017-12-01 until 2018-01-01
 OpenEMR:
 	prondubuisi: onyemenamndu!gmail.com, prondubuisi!users.noreply.github.com from 2019-09-01
 OpenEmbedded:
