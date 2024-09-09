@@ -5,6 +5,22 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+ilovezfs: ilovezfs!icloud.com, ilovezfs!users.noreply.github.com
+	Apple Inc.
+ilrudie: ian.rudie!solo.io, ilrudie!users.noreply.github.com
+	IntercontinentalExchange until 2015-06-01
+	EY from 2015-06-01 until 2020-10-01
+	T-Mobile PCS Holdings LLC from 2020-10-01 until 2023-03-27
+	Solo.io from 2023-03-27
+iluoeli: iluoeli!users.noreply.github.com, luoyili233!gmail.com
+	Independent
+ilya-git: ilya-git!users.noreply.github.com
+	Marketmind until 2016-08-01
+	Capgemini from 2016-08-01 until 2018-04-01
+	Sonat from 2018-04-01
+ilya-lesikov: ilya-lesikov!flant.com, ilya-lesikov!users.noreply.github.com
+	Independent until 2020-03-18
+	FLANT EUROPE OÜ from 2020-03-18
 ilya-zuyev: ilya-zuyev!users.noreply.github.com
 	RingCentral Inc. until 2018-04-01
 	Independent from 2018-04-01 until 2018-11-01
@@ -5979,9 +5995,6 @@ jerry7z: jerry7z!users.noreply.github.com
 	Red Hat Inc.
 jerrybowman: jerry.bowman!gmail.com
 	The Last Check
-jerryfzhang: Jerryfzhang!users.noreply.github.com, jerryfzhang!gmail.com, fengwz!amazon.com
-	Independent until 2021-04-18
-	Amazon from 2021-04-19
 jerrylam: jerrylam!users.noreply.github.com
 	Independent until 2015-06-01
 	Canopy from 2015-06-01 until 2016-03-01
@@ -8306,11 +8319,11 @@ jmd9019: jeevanmd9019!gmail.com, jmd9019!users.noreply.github.com
 	Abeyaantrix Solutions from 2019-01-01 until 2019-04-01
 	Independent from 2019-04-01 until 2019-06-01
 	Kibbcom from 2019-06-01
-jmdeal: jmdeal!users.noreply.github.com, jmdeal!amazon.com, jmdeal!dde-inc.com, dealj!umich.edu, jason.deal101!gmail.com
+jmdeal: dealj!umich.edu, jason.deal101!gmail.com, jmdeal!amazon.com, jmdeal!dde-inc.com, jmdeal!users.noreply.github.com
 	Independent until 2022-05-09
-    AWS from 2022-05-09 until 2022-07-29
+	AWS from 2022-05-09 until 2022-07-29
 	Independent from 2022-07-29 until 2023-08-20
-    AWS from 2023-08-20
+	AWS from 2023-08-20
 jmealo: jmealo!users.noreply.github.com
 	CoreDial LLC until 2015-01-01
 	Jarvus Innovations from 2015-01-01 until 2017-01-01
@@ -23797,27 +23810,3 @@ loles: loles!mirantis.com, lukaszoles!gmail.com
 lolimjake: jake.martin!comcast.com, lolimjake!users.noreply.github.com
 	Comcast Cable Communications LLC (Xfinity) until 2019-07-01
 	Epic Games Inc from 2019-07-01
-lollek: olle+github!iix.se
-	LKDATA until 2015-08-01
-	Independent from 2015-08-01 until 2016-03-01
-	Saab from 2016-03-01 until 2016-08-01
-	BRP Systems from 2016-08-01 until 2021-12-10
-	HiQ from 2021-12-10 until 2022-07-01
-	Axis from 2022-07-01
-lolletsoc: lolletsoc!users.noreply.github.com, nripendra.newa!gmail.com
-	Transifex until 2015-12-01
-	GoEuro from 2015-12-01 until 2018-09-01
-	Sesame from 2018-09-01
-lolodi: lolodi!microsoft.com, lolodi!users.noreply.github.com
-	Microsoft Corporation
-lolverae: lolverae!users.noreply.github.com
-	Independent until 2020-08-01
-	SQD GROUP CO. LTD from 2020-08-01 until 2021-04-01
-	Independent from 2021-04-01 until 2021-06-01
-	Honeywell International from 2021-06-01
-lomholdt: lomholdt!users.noreply.github.com
-	Independent until 2015-01-01
-	Netcompany from 2015-01-01 until 2016-06-01
-	Densou from 2016-06-01 until 2017-12-01
-	Danske Bank from 2017-12-01 until 2021-12-01
-	Maersk from 2021-12-01

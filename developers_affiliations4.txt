@@ -5,6 +5,15 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+diogogmt: diogo.gmt!gmail.com, diogogmt!users.noreply.github.com
+	Cloud Dynamics
+diogomonica: diogo!docker.com, diogo.monica!gmail.com, diogomonica!users.noreply.github.com
+	Square Inc. until 2015-02-01
+	Docker Inc. from 2015-02-01 until 2017-11-01
+	Airtable from 2017-11-01 until 2018-11-01
+	Anchor Labs Inc from 2018-11-01
+diogonicoleti: diogo.nicoleti!gmail.com, diogonicoleti!users.noreply.github.com
+	ContaAzul Software LTDA
 dionjwa: dionjwa!users.noreply.github.com
 	Idle until 2014-10-01
 	Autodesk from 2014-10-01 until 2017-11-01
@@ -18261,8 +18270,6 @@ h7kanna: h7kanna!users.noreply.github.com
 	Ooyala until 2018-12-01
 	Lucid from 2018-12-01 until 2019-05-01
 	Brillio from 2019-05-01
-hakuna-matatah: hakuna!amazon.com harishkuna.hp!gmail.com hakuna-matatah!users.noreply.github.com
-	Amazon from 2019-01-28
 hLudde: hLudde!users.noreply.github.com
 	Independent until 2018-07-01
 	Westerdals Oslo from 2018-07-01 until 2018-12-01
@@ -18527,6 +18534,9 @@ hakonhall: hakonhall!users.noreply.github.com
 	Yahoo! Inc. from 2014-06-01
 haksunLee: haksunLee!users.noreply.github.com
 	Samsung Electronics Co. Ltd.
+hakuna-matatah: hakuna!amazon.com, hakuna-matatah!users.noreply.github.com, harishkuna.hp!gmail.com
+	Independent until 2019-01-28
+	Amazon from 2019-01-28
 hakuno: hakuno!users.noreply.github.com
 	Federal Soluções Técnicas until 2019-04-01
 	O2B from 2019-04-01 until 2021-03-01
@@ -19943,7 +19953,8 @@ helen-fornazier: helen.fornazier!gmail.com, helen.koike!collabora.com
 	InovApps from 2014-12-01 until 2015-04-01
 	Independent from 2015-04-01 until 2015-08-01
 	Collabora from 2015-08-01
-helen-frank: helen-frank!cloudpilot.ai, helenfrank!protonmail.com, helen-frank!users.noreply.github.com
+helen-frank: helen-frank!cloudpilot.ai, helen-frank!users.noreply.github.com, helenfrank!protonmail.com
+	Independent until 2024-09-09
 	CloudPilot AI from 2024-09-09
 helenabutowatcisco: helenabutowatcisco!users.noreply.github.com
 	CA Technologies until 2018-01-01
@@ -23944,19 +23955,3 @@ ilovett: i.c.lovett!gmail.com, ilovett!users.noreply.github.com, mpdesouza!suse.
 	Zulily Inc. from 2015-04-01 until 2017-05-01
 	Quantum Corporation from 2017-05-01 until 2018-02-01
 	River Rock Apps from 2018-02-01
-ilovezfs: ilovezfs!icloud.com, ilovezfs!users.noreply.github.com
-	Apple Inc.
-ilrudie: ian.rudie!solo.io, ilrudie!users.noreply.github.com
-	IntercontinentalExchange until 2015-06-01
-	EY from 2015-06-01 until 2020-10-01
-	T-Mobile PCS Holdings LLC from 2020-10-01 until 2023-03-27
-	Solo.io from 2023-03-27
-iluoeli: iluoeli!users.noreply.github.com, luoyili233!gmail.com
-	Independent
-ilya-git: ilya-git!users.noreply.github.com
-	Marketmind until 2016-08-01
-	Capgemini from 2016-08-01 until 2018-04-01
-	Sonat from 2018-04-01
-ilya-lesikov: ilya-lesikov!flant.com, ilya-lesikov!users.noreply.github.com
-	Independent until 2020-03-18
-	FLANT EUROPE OÜ from 2020-03-18
