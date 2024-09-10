@@ -6642,10 +6642,11 @@ pymander: earneson!arnesonium.com, pymander!users.noreply.github.com
 pymhq: pymhq!users.noreply.github.com, pymhq001!gmail.com, yimipeng!amazon.com
 	Independent until 2016-03-14
 	AWS from 2016-03-14
-pyohannes: johannes!johannes.tax, johannes.tax!grafana.com, johannestax!microsoft.com, jtax!newrelic.com, pyohannes!users.noreply.github.com
+pyohannes: johannes!johannes.tax, johannes.tax!grafana.com, johannestax!microsoft.com, jtax!newrelic.com, pyohannes!users.noreply.github.com, johannes.tax!bitpanda.com
 	New Relic Inc. until 2021-11-30
 	Microsoft Corporation from 2021-11-30 until 2023-07-25
-	Grafana Labs from 2023-07-25
+	Grafana Labs from 2023-07-25 until 2024-08-01
+	Bitpanda from 2024-08-01
 pyr: pyr!spootnik.org
 	Akenes SA (Exoscale)
 pyr0hu: pyr0hu!users.noreply.github.com
