@@ -93,9 +93,11 @@ def octokit_init()
   # Login with standard OAuth token
   # https://github.com/settings/tokens --> Personal access tokens
   puts "Processing OAuth data."
+  tokens_file = ENV["TOKENS_FILE"]
+  tokens_file = '/etc/github/oauths' if tokens_file.nil?
   tokens = []
   begin
-    data = File.read('/etc/github/oauths').strip
+    data = File.read(tokens_file).strip
     tokens = data.split(',').map(&:strip)
   rescue Errno::ENOENT => e
     begin
