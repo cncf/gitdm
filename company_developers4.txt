@@ -2,6 +2,41 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Free Electrons:
+	QSchulz: q.schulz!gmail.com, quentin.schulz!bootlin.com, quentin.schulz!free-electrons.com from 2015-01-01
+	alexandrebelloni: alexandre.belloni!bootlin.com, alexandre.belloni!free-electrons.com from 2013-03-01
+	atenart: antoine.tenart!bootlin.com, antoine.tenart!free-electrons.com from 2014-01-01
+	bbrezillon: bbrezillon!kernel.org from 2014-03-01
+	bbrezillon: boris.brezillon!free-electrons.com
+	ezequielgarcia: elezegarcia!gmail.com, ezequiel!collabora.co.uk, ezequiel!collabora.com, ezequiel!vanguardiasur.com.ar, ezequiel.garcia!free-electrons.com from 2013-02-01 until 2014-11-01
+	gclement: gregory.clement!bootlin.com, gregory.clement!free-electrons.com, hantsy!gmail.com, marianelli.michele!gmail.com
+	minimaxwell: maxime.chevallier!bootlin.com from 2018-02-01
+	miquelraynal: miquel.raynal!bootlin.com, miquel.raynal!free-electrons.com, raynal.miquel!gmail.com from 2017-06-01
+	mripard: maxime.ripard!anandra.org, maxime.ripard!bootlin.com, maxime.ripard!free-electrons.com
+	tpetazzoni: thomas.petazzoni!bootlin.com, thomas.petazzoni!free-electrons.com, tpetazzoni!users.noreply.github.com
+Free Indeed International Ministries:
+	buybackoff: buybackoff!users.noreply.github.com, vbaybekov!gmail.com until 2017-10-01
+Free and Open Source Silicon:
+	olofk: olof.kindgren!gmail.com, olofk!users.noreply.github.com from 2015-04-01
+Free the Data:
+	toneill818: toneill818!gmail.com, toneill818!users.noreply.github.com from 2017-04-01 until 2017-10-01
+FreeAgent:
+	He-Jingkai: He-JingKai!outlook.com, He-Jingkai!users.noreply.github.com until 2018-03-01
+	jaxi: jaxi!users.noreply.github.com, jingkai!freeagent.com
+FreeBSD:
+	YutaroHayakawa: YutaroHayakawa!users.noreply.github.com, yhayakawa3720!gmail.com from 2018-05-01 until 2018-08-01
+	asomers: asomers!gmail.com, asomers!users.noreply.github.com
+	dfr: dfr!rabson.org, dfr!users.noreply.github.com from 2021-11-01
+	fernape: fernando.apesteguia!gmail.com from 2018-03-01
+	grimreaper: grimreaper!users.noreply.github.com, lists!eitanadler.com until 2015-06-01
+	skreuzer: skreuzer!freebsd.org, skreuzer!users.noreply.github.com
+	smortex: romain!blogreen.org, smortex!users.noreply.github.com
+	starbops: starbops!hey.com, starbops!users.noreply.github.com from 2016-01-01 until 2018-01-01
+FreeCharge:
+	amitbhadra: amitbhadra!users.noreply.github.com, amitbhadra7!gmail.com from 2016-07-01 until 2017-02-01
+	jyotipatel: jyotipatel!users.noreply.github.com from 2016-05-01 until 2016-07-01
+FreeConferenceCall:
+	MarlonGamez: MarlonGamez!users.noreply.github.com from 2017-07-01 until 2017-09-01
 FreeMcServer:
 	nfacha: nfacha!users.noreply.github.com from 2020-03-01 until 2021-01-01
 FreeTeamSpeak:
@@ -7669,7 +7704,7 @@ Grafana Labs:
 	pracucci: marco!grafana.com, marco!pracucci.com, marco.pracucci!spreaker.com, pracucci!users.noreply.github.com from 2019-09-01
 	pstibrany: pstibrany!gmail.com, pstibrany!users.noreply.github.com
 	ptodev: ptodev!users.noreply.github.com from 2022-10-01
-	pyohannes: johannes!johannes.tax, johannes.tax!grafana.com, johannestax!microsoft.com, jtax!newrelic.com, pyohannes!users.noreply.github.com from 2023-07-25
+	pyohannes: johannes!johannes.tax, johannes.tax!bitpanda.com, johannes.tax!grafana.com, johannestax!microsoft.com, jtax!newrelic.com, pyohannes!users.noreply.github.com from 2023-07-25 until 2024-08-01
 	radiohead: radiohead!users.noreply.github.com from 2021-01-01
 	replay: mauro.stettler!gmail.com, replay!users.noreply.github.com from 2016-11-01
 	rfratto: robert.fratto!grafana.com, robertfratto!gmail.com
@@ -15521,49 +15556,3 @@ Immfly:
 	victorgs: victorgs!users.noreply.github.com from 2015-09-01 until 2017-04-01
 Immigratie:
 	cveld: cveld!users.noreply.github.com from 2016-08-01 until 2016-12-01
-Immigration Refugees and citizenship Canada:
-	kevin-shelaga: kevin-shelaga!users.noreply.github.com, kevin.shelaga!ps-sp.gc.ca, kevin.shelaga!solo.io from 2009-01-01 until 2017-01-01
-Immo:
-	vintikzzz: fazzzenda!mail.ru, vintikzzz!users.noreply.github.com
-Immobiliare:
-	mirobertod: mirobertod!users.noreply.github.com from 2018-04-01 until 2019-07-01
-Immobiliare Castel Maggiore:
-	gguizza: gguizza!users.noreply.github.com from 2016-03-01 until 2017-05-01
-Immobiliare.it:
-	dariodip: dariodip!users.noreply.github.com from 2019-04-01 until 2020-06-01
-Immobilien Scout:
-	schlomo: schlomo!users.noreply.github.com until 2016-07-01
-Immobilien Scout GmbH:
-	acbeni: beni.asaad.achraf!gmail.com from 2023-11-01
-	laushinka: laurie.malau!gmail.com, laushinka!users.noreply.github.com
-	omarkhammassi: omarkhammassi!users.noreply.github.com from 2019-05-01 until 2022-04-01
-	pradeepmurugesan: peeps35!gmail.com, pradeep.murugesan!scout24.com, pradeepmurugesan!users.noreply.github.com from 2016-11-01 until 2019-01-01
-ImmobilienScout24:
-	lkwg82: https://twitter.com/lkwg82, jon!jonfriesen.ca, lkwg82!users.noreply.github.com until 2015-10-01
-Immunant:
-	TheDan64: ThaDan64!gmail.com from 2018-02-01 until 2020-06-01
-Immuta:
-	ccunning: ccunning!users.noreply.github.com from 2021-04-01
-	jeffmhastings: jeffmhastings!gmail.com, jeffmhastings!users.noreply.github.com from 2015-10-01
-	joshkaplinsky: joshkaplinsky!users.noreply.github.com from 2021-12-01
-	mike-schiller: mdschiller!gmail.com, mike-schiller!users.noreply.github.com from 2014-10-15
-	yuvalherziger: yuvalherziger!users.noreply.github.com from 2018-08-01
-Imndependent:
-	kubahorak: kubahorak!users.noreply.github.com from 2017-02-01 until 2017-06-01
-Imnoo:
-	Jboulery: Jboulery!users.noreply.github.com from 2019-10-01
-Imo:
-	marseel: marcelzieba!google.com, marseel!users.noreply.github.com from 2015-07-01 until 2015-10-01
-Imona:
-	utku-kigroup: utku-kigroup!users.noreply.github.com until 2014-03-01
-	utkuozdemir: utku!mobilabsolutions.com, utkuozdemir!users.noreply.github.com until 2015-03-01
-Imonology:
-	oliwave: a0924100192!gmail.com, oliwave!users.noreply.github.com from 2020-07-01 until 2021-02-01
-Imotech:
-	IgorPerikov: IgorPerikov!users.noreply.github.com, perikov.igor!gmail.com from 2014-12-01 until 2015-12-01
-Impact Hub Geneva:
-	danacr: dan!acristinii.com, danacr!users.noreply.github.com from 2016-05-01 until 2016-08-01
-Impact Hub Vienna:
-	cezarneaga: cezarneaga!users.noreply.github.com until 2015-09-01
-Impact Seed:
-	chrisnurse: chrisnurse!users.noreply.github.com from 2017-02-01 until 2021-01-01

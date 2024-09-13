@@ -2,6 +2,29 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Credit Suisse:
+	MichalKosowski: MichalKosowski!users.noreply.github.com until 2019-02-01
+	MrWolfZ: MrWolfZ!users.noreply.github.com, jonathan.ziller!gmail.com until 2015-03-01
+	Syps: Syps!users.noreply.github.com from 2015-01-01 until 2015-06-01
+	TalissonBento: TalissonBento!users.noreply.github.com, talisson.dev!gmail.com from 2019-10-01 until 2020-01-01, from 2020-06-01 until 2021-02-01
+	akhileshbhople: akhileshbhople!users.noreply.github.com from 2020-09-01
+	dejamiko: dejamiko!users.noreply.github.com from 2022-04-01 until 2022-05-01
+	ggtools: christophe!labouisse.org
+	goyalmohit: goyalmohit!users.noreply.github.com from 2019-01-01
+	huazhihao: huazhihao!users.noreply.github.com from 2018-08-01 until 2020-06-01
+	julianvmodesto: julian.modesto!liveramp.com, julianvmodesto!gmail.com, julianvmodesto!users.noreply.github.com until 2016-03-01
+	justindavies: justindavies!users.noreply.github.com from 2015-04-01 until 2016-12-01
+	jxs: hello!jxs.pt, jxs!users.noreply.github.com until 2014-12-01
+	kevincvlam: i.am.kev!gmail.com, kevincvlam!users.noreply.github.com from 2016-10-01 until 2017-04-01
+	lucasreed: lmr0125!gmail.com, lucasreed!users.noreply.github.com until 2014-06-01
+	lukasz-pyrzyk: lukasz-pyrzyk!users.noreply.github.com, lukasz.pyrzyk!gmail.com from 2015-07-01 until 2016-10-01
+	nicovogelaar: nicovogelaar!users.noreply.github.com from 2019-05-01 until 2019-11-01
+	qgervacio: qgervacio!gmail.com, qgervacio!users.noreply.github.com from 2020-08-01 until 2021-07-01
+	serveralex: serveralex!gmail.com
+CreditCards:
+	chaseconey: chaseconey!users.noreply.github.com from 2014-01-01 until 2018-06-01
+CreditEase:
+	hongqn: hongqn!gmail.com from 2014-12-01 until 2016-03-01
 CreditSights:
 	jweite-amazon: jweite-amazon!users.noreply.github.com from 2016-05-01 until 2018-08-01
 Creditas:
@@ -4720,7 +4743,7 @@ Denuvo:
 	pmeerw: pmeerw!pmeerw.net from 2018-06-01
 Denver Health:
 	MarkIannucci: MarkIannucci!users.noreply.github.com from 2014-09-01 until 2022-03-01
-	brandonmcclure: brandonmcclure89!gmail.com
+	brandonmcclure: brandonmcclure!users.noreply.github.com, brandonmcclure89!gmail.com
 	brenzi: brenzi!users.noreply.github.com from 2015-01-01
 Denver Water:
 	hvandenb: hvandenb!users.noreply.github.com until 2015-06-01
@@ -9873,6 +9896,7 @@ Elasticsearch Inc.:
 	kaiyan-sheng: kaiyan-sheng!users.noreply.github.com, kaiyan.sheng!elastic.co
 	karencfv: karencfv!users.noreply.github.com from 2018-07-01 until 2021-07-02
 	krol3: guillen.carolina!gmail.com, krol3!users.noreply.github.com from 2022-12-01
+	kruskall: 99559985+kruskall!users.noreply.github.com
 	kuisathaverat: kuisathaverat!users.noreply.github.com, kuisathaverat!yahoo.com from 2018-08-01
 	lahsivjar: lahsivjar!gmail.com, lahsivjar!users.noreply.github.com, vishal.raj!elastic.co
 	lreuven: lreuven!users.noreply.github.com from 2019-04-01 until 2020-07-01
@@ -16584,38 +16608,3 @@ Free Agency:
 	cancan101: accelerator346!outlook.com, agrothberg!gmail.com, cancan101!users.noreply.github.com from 2019-04-01
 Free Coder:
 	lioncui: lioncui!163.com
-Free Electrons:
-	QSchulz: q.schulz!gmail.com, quentin.schulz!bootlin.com, quentin.schulz!free-electrons.com from 2015-01-01
-	alexandrebelloni: alexandre.belloni!bootlin.com, alexandre.belloni!free-electrons.com from 2013-03-01
-	atenart: antoine.tenart!bootlin.com, antoine.tenart!free-electrons.com from 2014-01-01
-	bbrezillon: bbrezillon!kernel.org from 2014-03-01
-	bbrezillon: boris.brezillon!free-electrons.com
-	ezequielgarcia: elezegarcia!gmail.com, ezequiel!collabora.co.uk, ezequiel!collabora.com, ezequiel!vanguardiasur.com.ar, ezequiel.garcia!free-electrons.com from 2013-02-01 until 2014-11-01
-	gclement: gregory.clement!bootlin.com, gregory.clement!free-electrons.com, hantsy!gmail.com, marianelli.michele!gmail.com
-	minimaxwell: maxime.chevallier!bootlin.com from 2018-02-01
-	miquelraynal: miquel.raynal!bootlin.com, miquel.raynal!free-electrons.com, raynal.miquel!gmail.com from 2017-06-01
-	mripard: maxime.ripard!anandra.org, maxime.ripard!bootlin.com, maxime.ripard!free-electrons.com
-	tpetazzoni: thomas.petazzoni!bootlin.com, thomas.petazzoni!free-electrons.com, tpetazzoni!users.noreply.github.com
-Free Indeed International Ministries:
-	buybackoff: buybackoff!users.noreply.github.com, vbaybekov!gmail.com until 2017-10-01
-Free and Open Source Silicon:
-	olofk: olof.kindgren!gmail.com, olofk!users.noreply.github.com from 2015-04-01
-Free the Data:
-	toneill818: toneill818!gmail.com, toneill818!users.noreply.github.com from 2017-04-01 until 2017-10-01
-FreeAgent:
-	He-Jingkai: He-JingKai!outlook.com, He-Jingkai!users.noreply.github.com until 2018-03-01
-	jaxi: jaxi!users.noreply.github.com, jingkai!freeagent.com
-FreeBSD:
-	YutaroHayakawa: YutaroHayakawa!users.noreply.github.com, yhayakawa3720!gmail.com from 2018-05-01 until 2018-08-01
-	asomers: asomers!gmail.com, asomers!users.noreply.github.com
-	dfr: dfr!rabson.org, dfr!users.noreply.github.com from 2021-11-01
-	fernape: fernando.apesteguia!gmail.com from 2018-03-01
-	grimreaper: grimreaper!users.noreply.github.com, lists!eitanadler.com until 2015-06-01
-	skreuzer: skreuzer!freebsd.org, skreuzer!users.noreply.github.com
-	smortex: romain!blogreen.org, smortex!users.noreply.github.com
-	starbops: starbops!hey.com, starbops!users.noreply.github.com from 2016-01-01 until 2018-01-01
-FreeCharge:
-	amitbhadra: amitbhadra!users.noreply.github.com, amitbhadra7!gmail.com from 2016-07-01 until 2017-02-01
-	jyotipatel: jyotipatel!users.noreply.github.com from 2016-05-01 until 2016-07-01
-FreeConferenceCall:
-	MarlonGamez: MarlonGamez!users.noreply.github.com from 2017-07-01 until 2017-09-01
