@@ -1359,8 +1359,9 @@ solsson: solsson!gmail.com, solsson!users.noreply.github.com, staffan!repos.se
 	International Business Machines Corporation
 soltanmm-google: atash!google.com, soltanmm-google!users.noreply.github.com
 	Google LLC
-soltysh: maszulik!redhat.com, soltysh!gmail.com, soltysh!users.noreply.github.com, soltysh+kubernetes!gmail.com
-	Red Hat Inc.
+soltysh: maciej!defenseunicorns.com, maszulik!redhat.com, soltysh!gmail.com, soltysh!users.noreply.github.com, soltysh+kubernetes!gmail.com
+	Red Hat Inc. until 2024-09-01
+	Defense Unicorns from 2024-09-01
 solvage1: solvage!empal.com, solvage1!users.noreply.github.com
 	Samsung SDS
 soma-gyore-intland2: soma.gyore!intland.com
