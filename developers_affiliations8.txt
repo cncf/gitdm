@@ -20214,7 +20214,7 @@ wildea01: will.deacon!arm.com
 wilderrodrigues: ekho!apache.org, wilder.rodrigues!ekholabs.nl, wilder.rodrigues!gmail.com
 	Ekholabs until 2019-01-01
 	Aigent BV from 2019-01-01
-wildum: william.dumont!grafana.com, wildum!users.noreply.github.com
+wildum: wildum!users.noreply.github.com, william.dumont!grafana.com
 	Grafana Labs
 wilguo: wilbeguo!amazon.com
 	Independent until 2018-10-01
@@ -24069,9 +24069,3 @@ yike21: yike21!qq.com, yike21bu!gmail.com
 	Independent
 yikeke: yikeke!users.noreply.github.com
 	PingCAP
-yiminghe: yiminghe!gmail.com, yiminghe!users.noreply.github.com
-	Taobao until 2014-07-01
-	Alipay from 2014-07-01
-yimipeng: yimipeng!users.noreply.github.com
-	Independent until 2016-03-14
-	AWS from 2016-03-14

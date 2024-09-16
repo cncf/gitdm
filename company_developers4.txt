@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Fraunhofer Vision:
+	jacksgt: jacksgt!users.noreply.github.com from 2017-09-01 until 2020-01-01
 Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.:
 	Agreon: Agreon!users.noreply.github.com from 2015-03-01 until 2015-12-01
 	AnesBenmerzoug: Anes.Benmerzoug!gmail.com from 2018-07-01 until 2018-09-01
@@ -7781,6 +7783,7 @@ Grafana Labs:
 	vlad-diachenko: vlad-diachenko!users.noreply.github.com from 2021-05-01
 	vladimir-shirmanov: vladimir.shirmanov!gmail.com from 2021-05-01
 	vladvasiliu: vladvasiliu!users.noreply.github.com from 2021-05-01
+	wildum: wildum!users.noreply.github.com, william.dumont!grafana.com
 	woodsaj: awoods!raintank.io, woodsaj!users.noreply.github.com
 	xaque208: xaque208!gmail.com, xaque208!users.noreply.github.com from 2021-05-01
 	ying-jeanne: ying-jeanne!users.noreply.github.com from 2020-12-01
@@ -11471,7 +11474,7 @@ Hewlett:
 	vthapar: vthapar!users.noreply.github.com until 2014-08-01
 	wangchunyang: wangchunyang!gmail.com until 2017-02-01
 	yasensim: yasensim!gmail.com, yasensim!users.noreply.github.com until 2014-09-01
-	youwalther65: youwalther65!users.noreply.github.com until 2016-07-01
+	youwalther65: waltju!amazon.com, youwalther65!users.noreply.github.com until 2016-07-01
 	yrobla: yrobla!users.noreply.github.com from 2014-12-01 until 2016-06-01
 	yuanchen8911: yuanchen8911!users.noreply.github.com, yuanchen97!gmail.com from 2015-12-01 until 2017-12-01
 	zhipengwa: zhipengwa!outlook.com until 2017-07-01
@@ -15549,9 +15552,3 @@ Imagination:
 	rahul-bedarkar: rahulbedarkar89!gmail.com until 2017-04-01
 	schafle: schafle!users.noreply.github.com from 2015-02-01 until 2015-12-01
 	stockhausenj: jay.stockhausen!gmail.com, stockhausenj!users.noreply.github.com from 2017-11-01 until 2018-10-01
-Imagine:
-	MichaelHudgins: MichaelHudgins!users.noreply.github.com until 2021-06-01
-	cognition: rbrooker!aetherealmind.com until 2020-05-01
-	gnadaban: gnadaban!users.noreply.github.com until 2019-08-01
-	metrictwo: metrictwo!users.noreply.github.com until 2015-06-01
-	patrickbardo: patrickbardo!users.noreply.github.com from 2016-01-01 until 2016-04-01
