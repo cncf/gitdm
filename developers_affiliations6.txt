@@ -5,6 +5,51 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+liqweed: liqweed!users.noreply.github.com, ophir.r!gmail.com
+	VMware Inc. until 2016-03-01
+	Tufin Technologies from 2016-03-01
+liran2000: liran2000!users.noreply.github.com
+	Independent until 2017-01-01
+	Cisco from 2017-01-01 until 2022-01-01
+	Mend from 2022-01-01 until 2023-01-01
+	Proofpoint Inc. from 2023-01-01
+liranmauda: liranmauda!users.noreply.github.com
+	Dell until 2017-05-01
+	NooBaa from 2017-05-01 until 2018-11-01
+	Red Hat Inc. from 2018-11-01
+liranp: liran!spotinst.com, liran.polak!gmail.com, liranp!users.noreply.github.com
+	Ybrant Digital until 2014-12-01
+	Spotinst LTD. (Spot by NetApp) from 2014-12-01 until 2022-08-01
+	Upwind Security from 2022-08-01
+liranr23: liranr23!users.noreply.github.com
+	Independent until 2016-11-01
+	SCE from 2016-11-01 until 2017-07-01
+	Red Hat Inc. from 2017-07-01
+liron-l: liron!twistlock.com, liron-l!users.noreply.github.com
+	Microsoft Corporation until 2015-04-01
+	Twistlock Inc. from 2015-04-01
+lironrisk: lironrisk!users.noreply.github.com
+	Israeli Military Intelligence - Unit 8200 until 2016-12-01
+	Matrix I.T CloudZone LTD from 2016-12-01 until 2019-09-01
+	Riskified from 2019-09-01
+lirsacc: lirsacc!users.noreply.github.com
+	Stylight until 2014-05-01
+	Independent from 2014-05-01 until 2015-11-01
+	Stylight from 2015-11-01 until 2018-12-01
+	Thread from 2018-12-01
+lirujun: rujun.li!intel.com
+	Intel Corporation
+lisa: lisa!users.noreply.github.com
+	PlayWorks Digital Ltd. until 2015-03-01
+	FreshBooks from 2015-03-01 until 2018-08-01
+	Red Hat Inc. from 2018-08-01
+lisael: lisael!lisael.org
+	Peopledoc
+lisamburns: lcho!pivotal.io, lisamburns!users.noreply.github.com
+	Moon until 2016-05-01
+	Pivotal from 2016-05-01 until 2020-01-01
+	VMware Inc. from 2020-01-01 until 2022-02-01
+	LiveRamp Inc from 2022-02-01
 lisawells: lwells!cloudbees.com
 	CloudBees Inc. until 2014-12-01
 	XebiaLabs from 2014-12-01
@@ -18290,6 +18335,9 @@ neilhwatson: neil!watson-wilson.ca, neilhwatson!users.noreply.github.com
 	Genesys from 2017-05-01
 neiljerram: neil!tigera.io, neiljerram!users.noreply.github.com
 	Tigera Inc.
+neilmayhew: neil!mayhew.name, neilmayhew!users.noreply.github.com
+	SIL Global until 2016-09-01
+	Independent from 2016-09-01
 neilo-df: neilo!digitalfish.com
 	DWA NOVA until 2017-01-01
 	Independent from 2017-01-01 until 2020-01-01
@@ -21933,6 +21981,14 @@ oboukili: oboukili!users.noreply.github.com
 	Sogelink until 2016-12-01
 	Government of Malta from 2016-12-01 until 2020-01-01
 	Keplr from 2020-01-01
+obourdon: obourdon!users.noreply.github.com
+	UShareSoft until 2015-11-01
+	Mirantis from 2015-11-01 until 2017-10-01
+	Independent from 2017-10-01 until 2018-01-01
+	OpenNext from 2018-01-01 until 2018-10-01
+	Independent from 2018-10-01 until 2019-05-01
+	SquareScale from 2019-05-01 until 2024-03-01
+	Independent from 2024-03-01
 obowersa: obowersa!users.noreply.github.com, owen!obowersa.net
 	FanDuel Inc until 2015-01-01
 	HP Inc. from 2015-01-01 until 2016-01-01
@@ -23814,57 +23870,3 @@ overdrive3000: linuxven!gmail.com, overdrive3000!users.noreply.github.com
 	AWS from 2017-04-01 until 2019-03-01
 	Letgo Global BV from 2019-03-01 until 2020-11-01
 	AWS from 2020-11-01
-overfl0: overfl0!users.noreply.github.com
-	Forcepoint until 2016-11-01
-	Independent from 2016-11-01 until 2017-05-01
-	Deployed.pl from 2017-05-01 until 2019-12-01
-	Pegasystems Inc. from 2019-12-01
-overmeulen: overmeulen!users.noreply.github.com, overmeulen85!gmail.com
-	MUREX SAS
-overmike: overmike!users.noreply.github.com
-	International Business Machines Corporation until 2015-06-01
-	Databiology from 2015-06-01
-overtrue: anzhengchao!gmail.com, overtrue!users.noreply.github.com
-	Sina Weibo
-overvenus: overvenus!gmail.com, overvenus!users.noreply.github.com
-	PingCAP
-ovidiubuligan: ovidiubuligan!users.noreply.github.com
-	HELLA until 2017-10-01
-	Visma from 2017-10-01
-ovidiucp: ovidiu!gmail.com, ovidiucp!users.noreply.github.com
-	Jollyturns
-ovidiupopa07: ovidiupopa07!users.noreply.github.com
-	Atos until 2019-05-01
-	Endava from 2019-05-01 until 2022-05-01
-	Armory from 2022-05-01
-ovinn: ovinn82!gmail.com
-	Visteon Innovation and Technology GmbH until 2014-10-01
-	Independent from 2014-10-01 until 2015-06-01
-	Visteon Innovation and Technology GmbH from 2015-06-01
-ovirt-infra: ovirt-infra!users.noreply.github.com
-	(Robots)
-ovorobio: ovorobio!redhat.com
-	Red Hat Inc.
-owainlewis: owain!owainlewis.com, owain.lewis!oracle.com, owainlewis!users.noreply.github.com
-	Oracle America Inc.
-owainow: owainow!users.noreply.github.com
-	Tiger Bay until 2001-09-01
-	Independent from 2001-09-01 until 2018-07-01
-	International Business Machines Corporation from 2018-07-01 until 2019-08-01
-	Red Hat Inc. from 2019-08-01
-owais: hello!owaislone.org, loneowais!gmail.com, olone!splunk.com, owais!lone.pw, owais!omnition.io, owais!users.noreply.github.com
-	Vetted until 2015-07-01
-	EZs HOME from 2015-07-01 until 2018-05-01
-	Omnition from 2018-05-01 until 2019-09-13
-	Splunk Inc. from 2019-09-13
-owen-d: ow.diehl!gmail.com, owen-d!users.noreply.github.com, owen.diehl!grafana.com
-	Grafana Labs
-owenhaynes: owenhaynes!users.noreply.github.com
-	ION Geophysical Corporation until 2014-10-01
-	The Foundry Visionmongers Limited from 2014-10-01 until 2019-12-01
-	Kaluza from 2019-12-01
-owennewo: owennewo!users.noreply.github.com
-	Independent until 2018-11-01
-	Admiral from 2018-11-01
-owent: owent!users.noreply.github.com, owt5008137!live.com
-	Tencent

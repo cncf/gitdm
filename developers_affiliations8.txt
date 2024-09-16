@@ -5,6 +5,70 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+skinlayers: skinlayers!users.noreply.github.com
+	ExtraHop Networks Inc until 2014-09-01
+	Airbiquity from 2014-09-01 until 2015-03-01
+	Independent from 2015-03-01 until 2015-07-01
+	DreamBox Learning from 2015-07-01 until 2016-12-01
+	Unity Technologies Youdy Software (Shanghai) Co. Ltd. from 2016-12-01
+skinny: skinny!users.noreply.github.com
+	IDlab until 2015-09-01
+	New Black from 2015-09-01
+skinnylatte: adrianna!planetscale.com, skinnylatte!gmail.com, skinnylatte!users.noreply.github.com
+	Silicon Straits until 2015-01-01
+	Wobe Indonezia from 2015-01-01 until 2018-06-01
+	PlanetScale from 2018-06-01 until 2019-01-01
+	Independent from 2019-01-01
+skinowski: tolga.ceylan!gmail.com, tolga.ceylan!oracle.com
+	Symantec Corporation until 2015-05-01
+	Oracle America Inc. from 2015-05-01
+skinsbursky: skinsbursky!virtuozzo.com
+	Virtuozzo International GmbH
+skippy: adam.greene!gmail.com, skippy!users.noreply.github.com
+	Independent
+skiptomyliu: skiptomyliu!users.noreply.github.com
+	Guidebook until 2015-03-01
+	Independent from 2015-03-01 until 2015-08-01
+	Pandora from 2015-08-01 until 2018-04-01
+	Lyft Inc. from 2018-04-01
+skirsten: skirsten!users.noreply.github.com
+	Independent until 2020-02-01
+	Genesis from 2020-02-01
+skitt: skitt!users.noreply.github.com
+	Enedis until 2015-06-01
+	Red Hat Inc. from 2015-06-01
+skjolber: skjolber!users.noreply.github.com, thomas.skjolberg!gmail.com
+	Greenbird until 2016-07-01
+	CGI Norge from 2016-07-01 until 2022-02-01
+	Sportyer from 2022-02-01
+skk2142: skk2142!users.noreply.github.com
+	Independent until 2019-07-01
+	kollate from 2019-07-01 until 2022-01-01
+	HappyFunCorp from 2022-01-01
+skloss: skloss!users.noreply.github.com, stefan.kloss!smartfrog.com
+	Smartfrog
+skmaingi: skmaingi!users.noreply.github.com
+	Nucleus Enterprise
+skmatti: skmatti!users.noreply.github.com, smatti!google.com
+	Independent until 2017-06-01
+	Informatica Corporation from 2017-06-01 until 2017-09-01
+	Independent from 2017-09-01 until 2018-05-01
+	NVIDIA Corporation from 2018-05-01 until 2019-07-01
+	Google LLC from 2019-07-01
+skmkzyk: kasakemi!microsoft.com, skmkzyk!users.noreply.github.com
+	Internet Initiative until 2017-11-01
+	Tata from 2017-11-01 until 2019-03-01
+	Microsoft Corporation from 2019-03-01
+sknop-cgn: sknop-cgn!users.noreply.github.com
+	PlusServer
+sknorr: sknorr!suse.de
+	SUSE LLC
+sknsean: sean!geanix.com, sean!nyekjaer.dk, sean.nyekjaer!prevas.dk
+	Geanix ApS
+skodialb-bmc: skodialb-bmc!users.noreply.github.com
+	BMC Software Inc
+skoef: reinier!skoef.nl, skoef!users.noreply.github.com
+	TransIP
 skoenig: skoenig!users.noreply.github.com
 	Zalando SE until 2014-05-01
 	Independent from 2014-05-01 until 2020-06-01
@@ -2345,6 +2409,8 @@ splunk-djenkins: djenkins!splunk.com
 	Independent
 splunkericl: splunkericl!users.noreply.github.com
 	Splunk Inc.
+spnngl: spnngl!users.noreply.github.com
+	Independent
 spockz: alessandro.vermeulen!ing.nl, github!spockz.nl
 	Young Calfield until 2014-09-01
 	ING Nederlande from 2014-09-01
@@ -9454,6 +9520,8 @@ therynamo: therynamo!users.noreply.github.com
 	Leadpages from 2017-05-01 until 2018-04-01
 	Target from 2018-04-01 until 2021-07-01
 	Gemini from 2021-07-01
+thesamesam: sam!gentoo.org
+	Gentoo Linux
 thesandlord: sandeepdinesh!google.com
 	Google LLC
 thesandlord: thesandlord!users.noreply.github.com
@@ -24005,67 +24073,3 @@ yhyddr: yhyddr!users.noreply.github.com
 	极智人(北京)科技有限公司 from 2018-09-01
 yi-y-yang: yi.y.yang!intel.com
 	Intel Corporation
-yiakwy: yiak.wy!gmail.com, yiakwy!users.noreply.github.com
-	Independent
-yiannistri: yiannis!weave.works, yiannis.triantafyllopoulos!gmail.com, yiannistri!users.noreply.github.com
-	Independent until 2020-04-27
-	Weaveworks Inc. from 2020-04-27
-yiannisy: yiannis!selfienetworks.com
-	Google LLC until 2015-03-01
-	Independent from 2015-03-01 until 2016-07-01
-	Selfie Networks from 2016-07-01
-yibo-cai: yibo.cai!linaro.org
-	Linaro Limited
-yibozhuang: yibozhuang!users.noreply.github.com, yibzhuang!gmail.com
-	Microsoft Corporation until 2014-12-01
-	Independent from 2014-12-01 until 2015-07-01
-	Apple Inc. from 2015-07-01
-yibuyisheng: 1056726491!qq.com, TakiTake.create!gmail.com, hy.harry.yu!gmail.com, yibuyisheng!163.com, yibuyisheng!users.noreply.github.com
-	Independent
-yichengliu58: liuyicheng01!outlook.com, yichengliu58!users.noreply.github.com
-	Nordic IT until 2018-01-01
-	Independent from 2018-01-01 until 2018-02-01
-	Lloyd's Register from 2018-02-01
-yichengq: qycqycqycqycqyc!gmail.com, yichengq!users.noreply.github.com
-	CoreOS Inc. until 2015-12-01
-	Independent from 2015-12-01 until 2016-03-01
-	Uber from 2016-03-01 until 2016-07-01
-	Independent from 2016-07-01 until 2016-10-01
-	Uber from 2016-10-01
-yicwang: yicwang!cisco.com
-	Cisco
-yidong0635: dongx.yi!intel.com
-	Intel Corporation
-yields: yields!icloud.com
-	Segment until 2019-07-01
-	Clearbit from 2019-07-01 until 2021-04-01
-	Airplane from 2021-04-01
-yifan-gu: guyifan1121!gmail.com, yifan-gu!users.noreply.github.com, yifan.gu!coreos.com
-	Mesosphere until 2014-08-01
-	Red Hat Inc. from 2014-08-01 until 2018-10-01
-	BitMEX from 2018-10-01 until 2022-02-01
-	Anchor Labs Inc from 2022-02-01 until 2023-04-01
-	Independent from 2023-04-01
-yifan-gu-anchorage: yifan-gu-anchorage!users.noreply.github.com
-	Mesosphere until 2014-08-01
-	Independent from 2014-08-01 until 2015-02-01
-	CoreOS Inc. from 2015-02-01 until 2018-03-01
-	Red Hat Inc. from 2018-03-01 until 2018-10-01
-	Kubernetes Pilot from 2018-10-01 until 2022-02-01
-	Anchor Labs Inc from 2022-02-01
-yifang123: eric.fangyi!huawei.com
-	Huawei Technologies Co. Ltd
-yifange: blues_eagles_live!hotmail.com, jlvaquerocuevas!gmail.com, yifange!google.com, yifange!users.noreply.github.com, yifange101!gmail.com
-	Google LLC
-yihuazhang: yihuaz!google.com, yihuazhang!users.noreply.github.com
-	Google LLC
-yijiem: yijiem!users.noreply.github.com
-	Independent until 2015-08-01
-	NetApp from 2015-08-01 until 2017-03-01
-	Google LLC from 2017-03-01 until 2022-06-01
-	Stadia from 2022-06-01 until 2022-09-01
-	Independent from 2022-09-01
-yike21: yike21!qq.com, yike21bu!gmail.com
-	Independent
-yikeke: yikeke!users.noreply.github.com
-	PingCAP

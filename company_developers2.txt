@@ -2,6 +2,11 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Belitsoft:
+	aensidhe: aensidhe!users.noreply.github.com from 2018-06-01 until 2018-11-01
+Belkin:
+	kaloz: kaloz!openwrt.org from 2014-01-01
+	terrykong: terrykong!users.noreply.github.com until 2014-08-01
 Bell:
 	HassanOuda: HassanOuda!users.noreply.github.com
 	Marcvd316: Marcvd316!users.noreply.github.com until 2015-09-01
@@ -6343,6 +6348,8 @@ CYBERCRYPT:
 	Phazyck: phazyck!gmail.com from 2022-05-01 until 2022-11-01, from 2022-11-01
 CYBOT:
 	koalalorenzo: koalalorenzo!users.noreply.github.com from 2020-04-01
+CYCLEVER:
+	TimoKramer: TimoKramer!users.noreply.github.com from 2017-12-01 until 2018-04-01
 CYDAS:
 	kenfdev: kenfdev!gmail.com, kenfdev!users.noreply.github.com from 2018-09-01
 	ymgyt: yamaguchi7073xtt!gmail.com, ymgyt!users.noreply.github.com from 2016-04-01 until 2018-02-01
@@ -8681,6 +8688,7 @@ Chainguard:
 	cartyc: cartyc!users.noreply.github.com, chris.carty!gmail.com, chriscartydev!gmail.com, christopher.carty!ottawa.ca from 2024-01-01
 	hectorj2f: hectorj!gmail.com, hectorj2f!users.noreply.github.com, hfernandez!mesosphere.com from 2022-09-01
 	kaniini: ariadne!dereferenced.org, kaniini!users.noreply.github.com from 2022-11-01
+	krishjainx: kjain7!u.rochester.edu from 2024-07-01 until 2024-08-01
 	mritunjaysharma394: mritunjaysharma394!gmail.com, mritunjaysharma394!users.noreply.github.com from 2023-07-01
 	patflynn: paflynn!google.com, patflynn!users.noreply.github.com from 2022-04-01
 	pdeslaur: pdeslaur!users.noreply.github.com from 2022-01-01
@@ -11907,6 +11915,7 @@ Cloudbakers:
 Cloudbase:
 	ader1990: ader1990!users.noreply.github.com, avladu!cloudbasesolutions.com
 	claudiubelu: claudiubelu!users.noreply.github.com
+	krishjainx: kjain7!u.rochester.edu from 2023-05-01 until 2023-07-01
 	mateimicu: mateimicu!users.noreply.github.com, micumatei!gmail.com from 2016-03-01 until 2017-08-01
 	stefan-caraiman: stefan-caraiman!users.noreply.github.com, stefanc.caraiman!gmail.com from 2016-01-01 until 2017-03-01
 Cloudbase Solutions S.R.L:
@@ -15904,11 +15913,3 @@ Creativestyle:
 	piotrzarycki: piotr.zarycki!gmail.com until 2015-09-01
 Creativi Quadrati:
 	LeartS: LeartS!users.noreply.github.com until 2015-02-01
-Creatix:
-	Kamahl19: Kamahl19!users.noreply.github.com, kamahl19!gmail.com until 2019-03-01
-CredAvenue:
-	aadharsh-rengarajan: aadharsh.rengarajan!freshworks.com from 2021-01-01 until 2021-09-01
-CredSimple:
-	jgreens: jgreens!users.noreply.github.com from 2018-05-01 until 2018-11-01
-Credemtel:
-	MACEL94: francesco.belacca!hotmail.it from 2019-08-01 until 2021-05-01
