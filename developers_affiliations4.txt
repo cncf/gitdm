@@ -12994,8 +12994,8 @@ fsl-latif: faisal.latif!intel.com
 fsl-liugang: gang.liu!freescale.com
 	Freescale
 fsmunoz: frederico.munoz!sas.com, fsmunoz!gmail.com, fsmunoz!users.noreply.github.com
-	Independent until 2023-10-01
-	CNCF from 2023-10-01
+	Independent until 2021-09-01
+	SAS Institute Inc. from 2021-09-01
 fsniper: fsniper!users.noreply.github.com
 	Markafoni until 2015-02-01
 	Independent from 2015-02-01 until 2015-07-01
