@@ -5,6 +5,15 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+icpenguins: icpenguins!users.noreply.github.com
+	Hitachi Vantara LLC until 2018-05-01
+	Independent from 2018-05-01 until 2018-10-01
+	Base2 Solutions from 2018-10-01 until 2019-09-01
+	Independent from 2019-09-01 until 2019-11-01
+	New Relic Inc. from 2019-11-01 until 2021-05-01
+	Intel Corporation from 2021-05-01
+icy: icy!users.noreply.github.com, kyanh!theslinux.org
+	AIC
 icygalz: angwar!google.com, icygalz!users.noreply.github.com
 	Google LLC
 icyleaf: icyleaf!users.noreply.github.com, icyleaf.cn!gmail.com
@@ -15571,10 +15580,10 @@ karthik-vijayaraju: karthik-vijayaraju!users.noreply.github.com
 karthikbox: karthikbox!users.noreply.github.com, rekarthik!google.com
 	Google LLC
 karthikeyan23: karthikeyan23!users.noreply.github.com, kn.in!live.in
-	TCS until 2015-02-01
+	Tata Consultancy Services until 2015-02-01
 	Infosys Limited from 2015-02-01 until 2019-06-01
 	Independent from 2019-06-01 until 2019-08-01
-	BeezLabs from 2019-08-01
+	Beez Innovacion Labs Pvt. Ltd. from 2019-08-01
 karthikmurali60: karthik.muraliprasad!gmail.com
 	Independent until 2018-06-01
 	Ayotta from 2018-06-01 until 2018-08-01
@@ -23785,12 +23794,3 @@ liquidat: liquidat!bayz.de
 	credativ until 2015-06-01
 	Red Hat Inc. from 2015-06-01 until 2021-07-01
 	Isovalent from 2021-07-01
-liquidsaul: liquidsaul!users.noreply.github.com, odr.saul!gmail.com, s.odriscoll!reply.de
-	Liquid Reply
-liquidslr: gaurav.kumar9825!gmail.com, liquidslr!users.noreply.github.com
-	Independent until 2017-07-01
-	Thomso from 2017-07-01 until 2017-12-01
-	E-Cell IIT Roorkee from 2017-12-01 until 2018-04-01
-	HackerEarth from 2018-04-01 until 2018-07-01
-	Indian Institute of Technology Roorkee from 2018-07-01 until 2018-12-01
-	Skillbee from 2018-12-01
