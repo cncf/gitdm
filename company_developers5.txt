@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+ITCS:
+	PeterThomasAwen: PeterThomasAwen!users.noreply.github.com from 2020-01-01 until 2020-03-01
 ITDev:
 	ndyer: nick!shmanahar.org, nick.dyer!itdev.co.uk until 2016-07-01
 ITE infotech:

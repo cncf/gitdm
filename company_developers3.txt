@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Covera:
+	juliosueiras: juliosueiras!gmail.com, juliosueiras!users.noreply.github.com from 2017-12-01 until 2018-07-01
 Covera Health:
 	chrisrink10: chrisrink10!users.noreply.github.com from 2018-09-01 until 2022-05-01
 Coverflex:
@@ -3411,6 +3413,7 @@ Datadog Inc:
 	irabinovitch: ilan!datadoghq.com, ilan!fonz.net, irabinovitch!users.noreply.github.com
 	j-vizcaino: j-vizcaino!users.noreply.github.com, jerome.vizcaino!datadoghq.com, jerome.vizcaino!gmail.com from 2017-04-01
 	jackgopack4: jackgopack4!users.noreply.github.com, jackgopack4+github!gmail.com, john.peterson!datadoghq.com from 2024-07-08
+	jade-guiton-dd: 179536679+jade-guiton-dd!users.noreply.github.com, jade.guiton!datadoghq.com
 	jamesbibby: jamesbibby!users.noreply.github.com from 2019-04-01
 	jamiehannaford: jamie!limetree.org, jamiehannaford!github.com, jamiehannaford!users.noreply.github.com from 2022-04-01
 	jaronoff97: jaronoff97!users.noreply.github.com from 2017-05-01 until 2017-08-01, from 2018-01-01 until 2018-07-01
@@ -16596,5 +16599,3 @@ Formac:
 	sushil-prasad: sushil-prasad!users.noreply.github.com from 2017-08-01 until 2020-03-01
 FormaciC3n Digital:
 	tegioz: tegioz!users.noreply.github.com until 2013-09-01
-Formal Privacy:
-	alexanderkjeldaas: alexander.kjeldaas!gmail.com, alexanderkjeldaas!users.noreply.github.com until 2016-08-01
