@@ -5,6 +5,31 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+dgolovin: dgolovin!users.noreply.github.com
+	Red Hat Inc.
+dgonyeo: derek!gonyeo.com, dgonyeo!csh.rit.edu, dgonyeo!users.noreply.github.com
+	Hudl until 2015-01-01
+	Xyntek from 2015-01-01 until 2015-05-01
+	Cloudflare Inc from 2015-05-01 until 2015-08-01
+	Red Hat Inc. from 2015-08-01 until 2018-06-01
+	Google LLC from 2018-06-01
+dgonzalez: david.luengo!superawesome.tv
+	SuperAwesome
+dgonzalez: dgonzalez!users.noreply.github.com, nodearth!gmail.com
+	NearForm Ltd
+dgonzalezruiz: dgonzalezruiz!users.noreply.github.com, godboole!gmail.com
+	APP Informática until 2014-09-01
+	Independent from 2014-09-01 until 2016-03-01
+	Bitnami Inc. from 2016-03-01 until 2017-07-01
+	Gini from 2017-07-01 until 2018-06-01
+	Cabify from 2018-06-01
+dgoo2308: danny.goossen!gioxa.com
+	Gioxa until 2019-01-01
+	Siam Stars from 2019-01-01
+dgoodwin: dgoodwin!redhat.com, dgoodwin!rm-rf.ca, dgoodwin!users.noreply.github.com
+	Red Hat Inc.
+dgorst: dgorst!expedia.com, dgorst!hotels.com, dgorst!users.noreply.github.com
+	Hotels.com
 dgoscn: dgoscn!users.noreply.github.com, diego-ii!live.com
 	RoboEduc until 2015-01-01
 	Independent from 2015-01-01 until 2016-12-01
@@ -57,7 +82,7 @@ dgrizzanti: david_grizzanti!comcast.com, dgrizzanti!users.noreply.github.com
 dgroux: dgroux!users.noreply.github.com
 	Media24 until 2015-09-01
 	NewsTeam from 2015-09-01
-dgrove-oss: groved!us.ibm.com, dgrove-oss!users.noreply.github.com,
+dgrove-oss: dgrove-oss!users.noreply.github.com, groved!us.ibm.com
 	International Business Machines Corporation
 dgruntz: dgruntz!users.noreply.github.com, dominik.gruntz!fhnw.ch
 	FHNW
@@ -2917,6 +2942,11 @@ doru1004: doru1004!users.noreply.github.com
 	Independent from 2015-11-01 until 2016-07-01
 	International Business Machines Corporation from 2016-07-01 until 2022-08-01
 	AMD from 2022-08-01
+dorzel: dorzel!users.noreply.github.com
+	Independent until 2016-06-01
+	Anaconda Inc from 2016-06-01 until 2016-09-01
+	niolabs from 2016-09-01 until 2017-09-01
+	Red Hat Inc. from 2017-09-01
 doschkinow: doschkinow!users.noreply.github.com
 	Oracle America Inc.
 doshprompt: doshprompt!users.noreply.github.com, rahuld223!yahoo.com
@@ -15104,6 +15134,10 @@ gcavalcante8808: gabriel.cavalcante88!gmail.com, gcavalcante8808!users.noreply.g
 	RALEDUC from 2022-06-01 until 2022-09-01
 	Flatiron from 2022-09-01 until 2024-08-01
 	Sidecloud.io from 2024-08-01
+gcezaralmeida: gcezaralmeida!users.noreply.github.com
+	TIVIT until 2015-01-01
+	Dell from 2015-01-01 until 2023-02-01
+	Fortinet Inc. from 2023-02-01
 gcgirish-radisys: ggowdru!radisys.com
 	Radisys Corporation
 gcharot: buixor!gmail.com, gcharot!redhat.com
@@ -20966,6 +21000,8 @@ hbagdi: harrybagdi!gmail.com, hbagdi!users.noreply.github.com
 	Independent from 2016-08-01 until 2017-09-01
 	SAP from 2017-09-01 until 2018-02-01
 	Kong Inc. from 2018-02-01
+hbahadorzadeh: hbahadorzadeh!users.noreply.github.com
+	ClickHouse
 hbceylan: hbceylan!users.noreply.github.com
 	Sınava Doğru until 2014-04-01
 	Emlakjet from 2014-04-01 until 2015-05-01
@@ -23925,38 +23961,3 @@ iamShantanu101: iamShantanu101!users.noreply.github.com
 	Deutsche Bank AG from 2020-02-01
 iamaaronZ: fenzhang!cisco.com
 	Cisco
-iamabhishek-dubey: abhishekbhardwaj510!gmail.com, iamabhishek-dubey!users.noreply.github.com
-	Independent until 2016-11-01
-	Hostmud Cloud Solutions Private Limited from 2016-11-01 until 2017-11-01
-	OpsTree Solutions from 2017-11-01
-iamalexmang: amang!keyticket.eu, iamalexmang!users.noreply.github.com
-	OReilly Media until 2015-10-01
-	KeyTicket from 2015-10-01
-iamandrewluca: iamandrewluca!users.noreply.github.com, thendrluca!gmail.com
-	Independent until 2015-04-01
-	Cosmo Software Consulting Private Ltd. from 2015-04-01 until 2015-10-01
-	Endava from 2015-10-01 until 2016-01-01
-	Winify from 2016-01-01
-iamansoni: amansoni162001!gmail.com
-	Independent until 2020-04-01
-	Hith Yoga from 2020-04-01 until 2020-05-01
-	Susakgjyo Business from 2020-05-01 until 2020-06-01
-	Independent from 2020-06-01 until 2021-03-01
-	GirlScript Summer of Code from 2021-03-01
-iambami: iambami!users.noreply.github.com
-	Independent until 2020-09-01
-	Layer5 from 2020-09-01 until 2022-04-01
-	Tunga from 2022-04-01
-iamcc: iamcc!users.noreply.github.com, sic.hcq!gmail.com
-	Yo!Point
-iamchuckss: chuck017!umn.edu, iamchuckss!users.noreply.github.com
-	Independent until 2020-01-01
-	IMPRESSO from 2020-01-01 until 2020-03-01
-	Independent from 2020-03-01 until 2020-04-01
-	CNCF from 2020-04-01
-iamdustan: dustan.kasten!gmail.com, iamdustan!users.noreply.github.com
-	Skookum until 2015-08-01
-	Walmart Inc. from 2015-08-01 until 2017-01-01
-	Webflow from 2017-01-01
-iameinstein: iameinstein!163.com
-	NetEase Inc

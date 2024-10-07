@@ -2,6 +2,16 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+OneSignal:
+	JeanMertz: JeanMertz!users.noreply.github.com, jean!mertz.fm from 2020-05-01 until 2020-11-01
+	jwilm: jwilm!users.noreply.github.com from 2016-01-01
+	niels-s: niels-s!users.noreply.github.com from 2020-03-01
+	pbchekin: pbchekin!users.noreply.github.com from 2017-12-01 until 2019-02-01
+	stewartpark: hello!stewartjpark.com from 2018-05-01
+OneSky:
+	StevenPG: StevenPG!users.noreply.github.com, steven.p.gantz!gmail.com from 2020-06-01
+OneSpot:
+	camerondavison: cameron.davison!gmail.com, camerondavison!users.noreply.github.com from 2019-01-01 until 2019-08-01
 OneStudyTeam:
 	tweeks-reify: tom.weeks!reifyhealth.com from 2020-08-01
 	wwentland: wwentland!users.noreply.github.com from 2022-08-01 until 2022-12-01
@@ -295,6 +305,8 @@ Open MRS:
 	ivange94: ivange94!users.noreply.github.com, ivangelarry!gmail.com from 2016-04-01 until 2018-01-01
 Open Media System:
 	rockdaboot: rockdaboot!users.noreply.github.com, tim!optimyze.cloud, tim.ruehsen!gmx.de, tim.ruhsen!elastic.co  until 2020-06-01
+Open Molecular:
+	JenkeScheen: JenkeScheen!users.noreply.github.com from 2022-09-01
 Open Netlabs:
 	ximon18: ximon18!users.noreply.github.com from 2019-01-01
 Open Networking:
@@ -7213,6 +7225,7 @@ Portworx:
 	piyush-nimbalkar: piyush-nimbalkar!users.noreply.github.com, piyushmnimbalkar!gmail.com from 2017-09-01
 	sdeoras: sdeoras!users.noreply.github.com from 2018-01-01 until 2018-12-01
 	trierra: trierra!users.noreply.github.com, trierra.dev!gmail.com from 2019-05-01
+	varunjain99: varunjain99!gmail.com from 2015-07-01 until 2023-02-01
 Portworx Inc.:
 	adityadani: aditya!portworx.com, adityadani!users.noreply.github.com from 2016-02-01
 	disrani-px: disrani!portworx.com, disrani-px!users.noreply.github.com, mehul.chandroliya!gmail.com, roman!gravitational.com from 2017-01-01
@@ -13379,6 +13392,7 @@ Red Hat Inc.:
 	donaldh: donaldh!users.noreply.github.com from 2021-03-01
 	donoftime: donoftime!users.noreply.github.com, donoftime00!gmail.com until 2017-09-01
 	donpenney: dpenney!redhat.com from 2021-07-01
+	dorzel: dorzel!users.noreply.github.com from 2017-09-01
 	dougbtv: dosmith!redhat.com, douglaskippsmith!gmail.com
 	douglaspalmer: douglaspalmer!users.noreply.github.com
 	dougsland: dougsland!gmail.com, dougsland!users.noreply.github.com, xuyasong!baidu.com until 2023-06-01, from 2023-09-01
@@ -15957,33 +15971,3 @@ Renegatt:
 	goock: goock!users.noreply.github.com until 2016-01-01
 Reneo:
 	benoittoulme: benoittoulme!users.noreply.github.com until 2016-01-01
-Renesas Electronics Corporation:
-	DienPhamM: dien.pham.ry!renesas.com
-	GakuInami: gaku.inami.xw!bp.renesas.com
-	HaiNguyenPham: hai.pham.ud!renesas.com
-	KAZUMIZU: kazuya.mizuguchi.ks!renesas.com
-	KeitaKobayashiym: keita.kobayashi.ym!renesas.com
-	KhiemNguyenT: khiem.nguyen.xt!renesas.com
-	KojiMatsuoka: koji.matsuoka.xm!renesas.com
-	RyoKodama: ryo.kodama.vz!renesas.com
-	Seefooo: Seefooo!users.noreply.github.com from 2016-10-01 until 2017-01-01
-	abass-renesas: adam.bass!renesas.com
-	bijudas: biju.das!bp.renesas.com
-	h-yokoya: hiroyuki.yokoyama.vx!renesas.com
-	harunobukurokawa: harunobu.kurokawa.dn!renesas.com
-	hosoya: yoshifumi.hosoya.wj!renesas.com
-	khiemnguyen: khiem.nguyen.xt!rvc.renesas.com
-	koueiabe: kouei.abe.cp!renesas.com
-	mitsu-kimura: mitsuhiro.kimura.kc!renesas.com
-	mnagai: masaru.nagai.vx!renesas.com
-	morimoto: kuninori.morimoto.gx!renesas.com
-	patersonc: chris.paterson2!renesas.com
-	pedwo: phil.edworthy!renesas.com
-	prabhakar-pal: prabhakar-pal!users.noreply.github.com from 2019-07-01
-	r-kataok: ryo.kataoka.wt!renesas.com
-	rshanmu: ramesh.shanmugasundaram!bp.renesas.com
-	seebe: chris.brandt!renesas.com
-	shimoday: yoshihiro.shimoda.uh!renesas.com
-	takashi-saitou-ry: takashi.saitou.ry!renesas.com
-	takeshikihara: takeshi.kihara.df!renesas.com
-	tasaito: takeshi.saito.xv!renesas.com

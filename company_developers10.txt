@@ -2,6 +2,36 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Renesas Electronics Corporation:
+	DienPhamM: dien.pham.ry!renesas.com
+	GakuInami: gaku.inami.xw!bp.renesas.com
+	HaiNguyenPham: hai.pham.ud!renesas.com
+	KAZUMIZU: kazuya.mizuguchi.ks!renesas.com
+	KeitaKobayashiym: keita.kobayashi.ym!renesas.com
+	KhiemNguyenT: khiem.nguyen.xt!renesas.com
+	KojiMatsuoka: koji.matsuoka.xm!renesas.com
+	RyoKodama: ryo.kodama.vz!renesas.com
+	Seefooo: Seefooo!users.noreply.github.com from 2016-10-01 until 2017-01-01
+	abass-renesas: adam.bass!renesas.com
+	bijudas: biju.das!bp.renesas.com
+	h-yokoya: hiroyuki.yokoyama.vx!renesas.com
+	harunobukurokawa: harunobu.kurokawa.dn!renesas.com
+	hosoya: yoshifumi.hosoya.wj!renesas.com
+	khiemnguyen: khiem.nguyen.xt!rvc.renesas.com
+	koueiabe: kouei.abe.cp!renesas.com
+	mitsu-kimura: mitsuhiro.kimura.kc!renesas.com
+	mnagai: masaru.nagai.vx!renesas.com
+	morimoto: kuninori.morimoto.gx!renesas.com
+	patersonc: chris.paterson2!renesas.com
+	pedwo: phil.edworthy!renesas.com
+	prabhakar-pal: prabhakar-pal!users.noreply.github.com from 2019-07-01
+	r-kataok: ryo.kataoka.wt!renesas.com
+	rshanmu: ramesh.shanmugasundaram!bp.renesas.com
+	seebe: chris.brandt!renesas.com
+	shimoday: yoshihiro.shimoda.uh!renesas.com
+	takashi-saitou-ry: takashi.saitou.ry!renesas.com
+	takeshikihara: takeshi.kihara.df!renesas.com
+	tasaito: takeshi.saito.xv!renesas.com
 Renew Financial:
 	anodelman: anodelman!users.noreply.github.com from 2015-10-01 until 2016-03-01
 	jamesgoodhouse: j.goodhouse!gmail.com, jamesgoodhouse!users.noreply.github.com from 2015-11-01 until 2017-07-01
@@ -918,6 +948,7 @@ Riskified:
 	gkid: gkid!users.noreply.github.com from 2015-10-01
 	lironrisk: lironrisk!users.noreply.github.com from 2019-09-01
 	nisan270390: nisan.mfy!gmail.com, nisan270390!users.noreply.github.com from 2016-12-01
+	roeishuster: roeishuster!users.noreply.github.com from 2019-11-01
 Riskilla Technologies Pvt. Ltd.:
 	Kannaj: Kannaj!users.noreply.github.com from 2018-10-01
 	asnimansari: asnim96!gmail.com from 2018-07-01
@@ -3733,6 +3764,8 @@ SS&C GlobeOp:
 	joonas: joonas!bergi.us, joonas!digitalocean.com, joonas!users.noreply.github.com, joonas.bergius!gmail.com from 2019-07-01 until 2021-11-01
 SS&C Primatics:
 	umar-siddiqui-ivolve: umar-siddiqui-ivolve!users.noreply.github.com from 2017-08-01 until 2018-10-01
+SS8:
+	vatsaldesai93: vatsaldesai93!users.noreply.github.com until 2019-01-01
 SS8 Networks Inc.:
 	TakaoShimizu: TakaoShimizu!users.noreply.github.com until 2018-10-01
 SSA Infosystems:
@@ -6377,6 +6410,8 @@ Science Research:
 	cognoz: cognoz!users.noreply.github.com until 2015-12-01
 Science and Technology:
 	inviBeast: inviBeast!users.noreply.github.com from 2022-11-01 until 2023-05-01
+Science meets Business Leiden:
+	JenkeScheen: JenkeScheen!users.noreply.github.com from 2016-02-01 until 2018-09-01
 Science22:
 	rihardssceredins: rihards.sceredins!gmail.com, rihardssceredins!users.noreply.github.com from 2018-05-01
 ScienceLogic:
@@ -14290,6 +14325,7 @@ Stealth:
 	unleashed: alex!flawedcode.org, unleashed!users.noreply.github.com from 2022-05-01 until 2024-02-01
 	vincentjorgensen: vincent!moveworks.ai, vincentjorgensen!users.noreply.github.com from 2017-10-01
 	virendrasuryavanshi: virendrasuryavanshi!users.noreply.github.com, vs9812!gmail.com from 2020-08-01
+	yabanci: yabanci!users.noreply.github.com from 2024-03-01 until 2024-06-01
 	zyxue: zyxue!users.noreply.github.com from 2019-03-01
 Stealth IoT Venture:
 	mnbbrown: mnbbrown!users.noreply.github.com from 2020-05-01 until 2021-07-01
@@ -16450,80 +16486,3 @@ Synology:
 	ibmibmibm: ibmibmibm.tw!gmail.com until 2018-06-01
 	johnlinp: johnlinp!gmail.com, johnlinp!users.noreply.github.com until 2018-07-01
 	tz70s: su3g4284zo6y7!gmail.com, tz70s!users.noreply.github.com
-Synopsys Inc:
-	21appleceo: 21appleceo!users.noreply.github.com from 2015-06-01 until 2016-04-01
-	GeorgViehoever: GeorgViehoever!users.noreply.github.com
-	IRISZZW: IRISZZW!users.noreply.github.com, zhiwei!synopsys.com
-	ManishKumarKeshri: ManishKumarKeshri!users.noreply.github.com from 2018-05-01 until 2018-08-01
-	abrodkin: abrodkin!synopsys.com, alexey.brodkin!gmail.com, alexey.brodkin!synopsys.com
-	adityabyreddy74: adityabyreddy74!users.noreply.github.com from 2015-05-01
-	anthony-kolesov: Anton.Kolesov!synopsys.com
-	bukington: bukington!gmail.com from 2022-09-01
-	canon-cmre-benoit-lecardonnel: canon-cmre-benoit-lecardonnel!users.noreply.github.com until 2016-08-01
-	chrisisbeef: chrisisbeef!users.noreply.github.com from 2016-11-01 until 2019-04-01
-	cjordan44: cjordan!synopsys.com
-	coverity-kdang: kdang!coverity.com from 2014-06-01 until 2018-09-01
-	fanghuaqi: 578567190!qq.com, fanghuaqi!users.noreply.github.com, huaqi.fang!synopsys.com
-	frossi: frossi!coverity.com, frossi!synopsys.com
-	gautambaghel: gautambaghel!users.noreply.github.com from 2019-04-01
-	gkillough: gkillough!blackducksoftware.com
-	heyfey: heyfey!users.noreply.github.com, tsungtsohsieh!gmail.com from 2022-01-01
-	jamesrichard91: jamesrichard91!gmail.com, jrichard!synopsys.com from 2017-12-01
-	jayunit100: jay!apache.org, jay!platform9.com, jayunit100!github.com, jayunit100!gmail.com, jayunit100!users.noreply.github.com, jayunit100.apache!gmail.com, jayunit100.github!gmail.com, jvyas!blackducksoftware.com, jvyas!redhat.com, jvyas!vmware.com from 2018-01-01 until 2019-01-01
-	jbriggs22: jbriggs!synopsys.com, jbriggs22!users.noreply.github.com from 2015-12-01
-	jdartigalongue: jdartigalongue!users.noreply.github.com, jeremy.dartigalongue!outlook.com from 2017-12-01
-	jimdaga: jimdaga!users.noreply.github.com
-	kevin85421: kaihsun!apache.org, kevin85421!users.noreply.github.com from 2018-07-01 until 2018-08-01
-	kmcquade: kmcquade!users.noreply.github.com from 2016-11-01 until 2019-05-01
-	mattfenwick: mattfenwick!users.noreply.github.com, mfenwick100!gmail.com from 2017-11-01 until 2019-01-01, from 2020-01-01
-	mattisii: matti!synopsys.com, matti.siipola!synopsys.com from 2016-07-01
-	metrue: h.minghe!gmail.com, metrue!users.noreply.github.com until 2016-01-01
-	midhun1998: dev.mid.work!gmail.com, midhun1998!users.noreply.github.com from 2022-04-01
-	mischajonker: mischa.jonker!synopsys.com, mjonker!synopsys.com until 2014-01-01, from 2017-03-01
-	mkarhumaa: matias.karhumaa!gmail.com, mkarhumaa!users.noreply.github.com from 2015-06-01
-	mphammer: mphammer!users.noreply.github.com from 2018-10-01
-	msenmurugan: msenmurugan!users.noreply.github.com from 2017-03-01
-	mtoohey31: mtoohey31!users.noreply.github.com from 2022-05-01
-	mureinik: amureini!redhat.com
-	panktishah26: panktishah26!users.noreply.github.com from 2020-06-01 until 2020-12-01
-	presidentbeef: justin!presidentbeef.com, presidentbeef!users.noreply.github.com from 2018-06-01
-	rottebds: rotte!blackducksoftware.com from 2017-01-01
-	rrati: rrati!redhat.com, rrati!users.noreply.github.com from 2017-10-01 until 2017-12-01
-	sculxp: sculxp!users.noreply.github.com from 2018-12-01
-	shanedizer: shanedizer!users.noreply.github.com from 2017-02-01 until 2019-02-01
-	sobolevn: mail!sobolevn.me, sobolevn!users.noreply.github.com from 2018-07-01 until 2020-06-01
-	uttamanand: uttamanand!users.noreply.github.com from 2022-06-01 until 2022-08-01
-	vchande: vchande!users.noreply.github.com from 2015-04-01
-	vineetgarc: vgupta!synopsys.com
-	vonhust: vonhust!users.noreply.github.com, wei.ren!synopsys.com
-	yashbhutwala: yashbhutwala!users.noreply.github.com, ymb002!bucknell.edu from 2019-03-01 until 2021-06-01
-	yinghai: yinghai!users.noreply.github.com, yinghai83!gmail.com until 2015-07-01
-Synoptek:
-	leizerbeam: leizerbeam!users.noreply.github.com from 2020-03-01 until 2021-08-01
-Synoverge:
-	mihirvadalia: mihirvadalia91!gmail.com from 2016-03-01 until 2018-07-01
-Synpulse:
-	Antvirf: Antvirf!users.noreply.github.com from 2018-05-01
-Synqq:
-	AlekSi: AlekSi!users.noreply.github.com, alexey.palazhchenko!gmail.com, alexey.palazhchenko!percona.com from 2015-01-01 until 2015-03-01
-	Kyrremann: Kyrremann!users.noreply.github.com from 2015-06-01 until 2017-10-01
-Synspective:
-	h-michael: h.hata.ai.t!gmail.com from 2019-12-01
-Syntax:
-	mbhatip: mbhatip!users.noreply.github.com from 2019-02-01 until 2019-08-01
-Syntax Squad:
-	as20203: as20203!users.noreply.github.com from 2020-06-01 until 2021-05-01
-Syntegrity:
-	ikawalec: ireneusz.kawalec!gmail.com until 2015-03-01
-Syntel Inc:
-	Abhilash-Chandran: csc.abhilash!gmail.com until 2014-07-01
-	Anujay-Saraf: Anujay-Saraf!users.noreply.github.com from 2014-08-01 until 2015-12-01
-	MitchellJeppson: mitch9300!hotmail.com from 2017-11-01 until 2018-11-01
-	amitcmore: amitcmore!users.noreply.github.com until 2017-06-01
-	aravindputrevu: aravindputrevu!users.noreply.github.com until 2014-09-01
-	nilekhc: nilekhc!users.noreply.github.com until 2015-04-01
-	souravsekhar: sekhar.sourav8!gmail.com, souravsekhar!users.noreply.github.com until 2017-07-01
-Synthace:
-	ademariag: ademariag!users.noreply.github.com
-Synthego:
-	covracer: cov!codeaurora.org from 2019-02-01
