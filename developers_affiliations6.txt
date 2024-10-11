@@ -21988,8 +21988,10 @@ norov: ynorov!caviumnetworks.com
 	Independent from 2015-03-01 until 2015-07-01
 	Auriga from 2015-07-01 until 2016-09-01
 	Cavium from 2016-09-01
-norrs: norrs!users.noreply.github.com, roy.sindre!norangshol.no
-	Zedge Inc.
+norrs: norrs!users.noreply.github.com, roy.sindre!norangshol.no, norangshol@zedge.net, norrs@cisco.com
+        Independent until 2014-01-01
+	Zedge Inc. from 2014-01-01 until 2020-09-01
+	Cisco from 2023-11-01
 norru: norru!users.noreply.github.com
 	Sony Interactive Entertainment LLC until 2021-11-01
 	Sony Interactive Entertainment LLC from 2021-11-01
