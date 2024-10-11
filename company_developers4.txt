@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Form ICT:
+	scranen: scranen!users.noreply.github.com until 2016-01-01
 Form3:
 	adelina-t: adelina-t!users.noreply.github.com, atuvenie!cloudbasesolutions.com from 2022-03-01
 	henvic: henriquevicente!gmail.com, henvic!users.noreply.github.com from 2022-07-01
@@ -11317,6 +11319,7 @@ Hedge fund:
 	chakri-nelluri: chakri!datawisesystems.com, chakri-nelluri!users.noreply.github.com, nelcyguy!gmail.com, sergey!makoveev.info from 2019-05-01 until 2020-03-01
 Hedgehog:
 	mrbojangles3: mrbojangles3!gmail.com, mrbojangles3!users.noreply.github.com from 2020-06-01
+	qmonnet: qmo!kernel.org, qmo!qmon.net, quentin!githedgehog.com, quentin!isovalent.com, quentin.monnet!6wind.com, quentin.monnet!netronome.com from 2024-09-01
 Hedron Vision:
 	cpsauer: cpsauer!users.noreply.github.com from 2018-07-01
 Heed:
@@ -15515,7 +15518,3 @@ IT Svit:
 	it-svit: dev!itsvit.org, it-svit!users.noreply.github.com, kb!itsvit.org
 IT Western:
 	aleksandra-malinowska: aleksandra-malinowska!users.noreply.github.com, aleksandram!google.com from 2015-02-01 until 2016-09-01
-IT sure:
-	tillhoff: tillhoff!users.noreply.github.com from 2018-04-01 until 2019-07-01
-IT&M:
-	avaussant: avaussant!users.noreply.github.com from 2016-06-01 until 2017-02-01

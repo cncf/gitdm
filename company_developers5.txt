@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+IT sure:
+	tillhoff: tillhoff!users.noreply.github.com from 2018-04-01 until 2019-07-01
+IT&M:
+	avaussant: avaussant!users.noreply.github.com from 2016-06-01 until 2017-02-01
 IT-CE:
 	matthisholleville: matthisholleville!users.noreply.github.com from 2017-08-01 until 2019-03-01
 IT-Development · Apprenticeship:

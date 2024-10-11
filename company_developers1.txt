@@ -875,6 +875,7 @@ $MARTBIN:
 	feng-lu: lu.feng!6wind.com
 	olivier-matz-6wind: olivier.matz!6wind.com
 	pguibert6WIND: philippe.guibert!6wind.com
+	qmonnet: qmo!kernel.org, qmo!qmon.net, quentin!githedgehog.com, quentin!isovalent.com, quentin.monnet!6wind.com, quentin.monnet!netronome.com from 2015-09-01 until 2017-09-01
 	rjarry: robin.jarry!6wind.com
 	samuel-gauthier: samuel.gauthier!6wind.com
 6Wunderkinder:
@@ -15516,7 +15517,7 @@ Barclays:
 	josevnz: josevnz!users.noreply.github.com until 2020-01-01
 	marcusportmann: marcusportmann!users.noreply.github.com until 2017-01-01
 	mina86: mina86!mina86.com from 2018-03-01 until 2019-01-01
-	mjudeikis: mjudeikis!users.noreply.github.com, mangirdas!judeikis.lt, until 2016-05-01
+	mjudeikis: mangirdas!judeikis.lt, mjudeikis!users.noreply.github.com until 2016-05-01
 	netikras: netikras!users.noreply.github.com until 2016-09-01
 	nitesh31mishra: nitesh31mishra!users.noreply.github.com from 2023-06-01
 	paulparke: paulparke!users.noreply.github.com from 2017-01-01 until 2018-01-01
@@ -16112,5 +16113,3 @@ Behaviour Interactive:
 	Mokto: Mokto!users.noreply.github.com, theo.mathieu1!gmail.com, tmathieu.github!fastmail.com from 2016-12-01 until 2018-11-01
 Behavox:
 	cesan3: cesan3!users.noreply.github.com from 2020-02-01
-Behin Samaneh Farda:
-	atomerz: atomerz!users.noreply.github.com until 2015-06-01

@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Machine Medicine:
+	kmmanto: kmmanto!users.noreply.github.com from 2021-05-01 until 2022-04-01
 Machine Research:
 	VestigeJ: VestigeJ!users.noreply.github.com from 2016-12-01 until 2017-12-01
 Machine Sciences:
@@ -9094,7 +9096,7 @@ NEC Corporation:
 	seunghunee: s-shin!bx.jp.nec.com, seunghunee!users.noreply.github.com
 	shailendra-singh93: shailendra-singh93!users.noreply.github.com from 2019-10-01
 	shibuya-yk: shibuya.yk!ncos.nec.co.jp
-	shu-mutou: shu-mutou!rf.jp.nec.com, shu-mutou!users.noreply.github.com, shu.mutow!gmail.com, shu.mutow!nec.com from 2018-10-01 until 2024-10-01
+	shu-mutou: shu-mutou!rf.jp.nec.com, shu-mutou!users.noreply.github.com, shu.mutow!gmail.com, shu.mutow!nec.com from 2018-10-01
 	shubham-uipath: shubham-uipath!users.noreply.github.com until 2015-05-01
 	shuchu: shuchu.han!gmail.com from 2017-06-01 until 2020-03-01
 	t-inu: 82919057+t-inu!users.noreply.github.com, t-inu!users.noreply.github.com, t_inukai!nec.com until 2023-04-01
@@ -11770,7 +11772,7 @@ Netronome Systems Inc.:
 	mrapson: michael.rapson!netronome.com
 	pcasconnetronome: pablo.cascon!netronome.com
 	pjvuuren: pieter.jansenvanvuuren!netronome.com
-	qmonnet: quentin.monnet!6wind.com, quentin.monnet!netronome.com from 2017-01-01 until 2020-01-01
+	qmonnet: qmo!kernel.org, qmo!qmon.net, quentin!githedgehog.com, quentin!isovalent.com, quentin.monnet!6wind.com, quentin.monnet!netronome.com from 2017-09-01 until 2020-02-01
 Netrounds:
 	erikjoh: erikjoh!users.noreply.github.com from 2018-06-01 until 2019-09-01
 Nets:

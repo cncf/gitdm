@@ -5,6 +5,13 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+levikobi: levikobi!users.noreply.github.com
+	Field Intelligence Corps until 2015-10-01
+	Independent from 2015-10-01 until 2017-12-01
+	XGlobe from 2017-12-01 until 2019-08-01
+	Independent from 2019-08-01 until 2020-02-01
+	Adika from 2020-02-01 until 2021-08-01
+	Oosto from 2021-08-01
 levilovelock: levilovelock!users.noreply.github.com, llovelock!atlassian.com
 	Atlassian
 levitte: levitte!openssl.org, levitte!users.noreply.github.com, richard!levitte.org
@@ -3264,7 +3271,7 @@ luosiqi: luosiqi!users.noreply.github.com
 	Huawei Technologies Co. Ltd
 luowei62: luowei!yahoo-inc.com
 	Yahoo! Inc.
-luoxiaojian: luoxiaojian!users.noreply.github.com, lxj193371!alibaba-inc.com
+luoxiaojian: luoxiaojian!users.noreply.github.com, lxj193371!alibaba-inc.com 
 	Independent until 2018-11-15
 	Alibaba Group from 2018-11-15
 luoxiaoyun-hw: luoxiaoyun-hw!users.noreply.github.com
@@ -13406,7 +13413,7 @@ mjtorn: mjtorn!users.noreply.github.com
 mjtrangoni: mario!mariotrangoni.de, mjtrangoni!gmail.com, mjtrangoni!users.noreply.github.com
 	science until 2019-03-01
 	TeamViewer from 2019-03-01
-mjudeikis: mjudeikis!users.noreply.github.com, mangirdas!judeikis.lt
+mjudeikis: mangirdas!judeikis.lt, mjudeikis!users.noreply.github.com
 	Barclays until 2016-05-01
 	Deutsche Bank AG from 2016-05-01 until 2017-01-01
 	Red Hat Inc. from 2017-01-01 until 2022-03-01
@@ -21988,10 +21995,10 @@ norov: ynorov!caviumnetworks.com
 	Independent from 2015-03-01 until 2015-07-01
 	Auriga from 2015-07-01 until 2016-09-01
 	Cavium from 2016-09-01
-norrs: norrs!users.noreply.github.com, roy.sindre!norangshol.no, norangshol@zedge.net, norrs@cisco.com
-        Independent until 2014-01-01
+norrs: norangshol!zedge.net, norrs!cisco.com, norrs!users.noreply.github.com, roy.sindre!norangshol.no
+	Independent until 2014-01-01
 	Zedge Inc. from 2014-01-01 until 2020-09-01
-	Cisco from 2023-11-01
+	Cisco from 2020-09-01
 norru: norru!users.noreply.github.com
 	Sony Interactive Entertainment LLC until 2021-11-01
 	Sony Interactive Entertainment LLC from 2021-11-01
@@ -23837,14 +23844,3 @@ omercnet: omercnet!users.noreply.github.com
 omerfsen: omerfsen!users.noreply.github.com
 	BSD until 2017-04-01
 	Serra from 2017-04-01
-omerh: omerh!users.noreply.github.com
-	Conduit until 2015-09-01
-	Natural Intelligence from 2015-09-01 until 2017-07-01
-	Minerva Prime from 2017-07-01 until 2019-05-01
-	Moonshot Marketing from 2019-05-01
-omerlh: omerl!soluto.com, omerlh!gmail.com, omerlh!users.noreply.github.com
-	IDF until 2015-03-01
-	SOLUTO LTD from 2015-03-01
-omerp: omer!cs.technion.ac.il
-	Sela Group until 2016-04-01
-	NICE Netherlands B.V. from 2016-04-01
