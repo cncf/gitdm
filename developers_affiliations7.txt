@@ -8259,10 +8259,12 @@ qmhu: qmhu!users.noreply.github.com
 	Tencent
 qmloong: qmloong!users.noreply.github.com
 	Shopee
-qmonnet: quentin.monnet!6wind.com, quentin.monnet!netronome.com
-	Independent until 2017-01-01
-	Netronome Systems Inc. from 2017-01-01 until 2020-01-01
-	Isovalent from 2020-01-01
+qmonnet: quentin.monnet!6wind.com, quentin.monnet!netronome.com, quentin!isovalent.com, quentin!githedgehog.com, qmo!qmon.net, qmo!kernel.org
+	Independent until 2015-09-01
+	6WIND S.A. from 2015-09-01 until 2017-09-01
+	Netronome Systems Inc. from 2017-09-01 until 2020-02-01
+	Isovalent from 2020-02-01 until 2024-09-01
+	Hedgehog from 2024-09-01
 qmuntal: qmuntal!users.noreply.github.com
 	Independent until 2016-01-01
 	Aritex from 2016-01-01 until 2017-01-01
