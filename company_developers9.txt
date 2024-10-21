@@ -2,6 +2,14 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+OnList:
+	brizaldi: brizaldi!users.noreply.github.com from 2020-01-01 until 2020-12-01
+OnLive Inc.:
+	alexcurtin: alexcurtin!gmail.com, alexcurtin!users.noreply.github.com until 2015-02-01
+OnLoop:
+	jinhong-: jinhong-!users.noreply.github.com from 2022-03-01
+OnMobile:
+	pmorillas-copado: pmorillas-copado!users.noreply.github.com from 2014-02-01 until 2019-03-01
 OnMyBlock:
 	ramakuka: ramakuka!gmail.com, ramakuka!users.noreply.github.com
 OnRamp:
@@ -3628,6 +3636,7 @@ Palo Alto Networks:
 	fdeswardt: fdeswardt!users.noreply.github.com from 2019-06-01
 	guptakaran27: guptakaran27!users.noreply.github.com from 2019-02-01
 	harishks: harrynet1989!gmail.com
+	kevinsummer219: kevinsummer219!users.noreply.github.com from 2018-06-01 until 2019-02-01
 	krishgobinath: gobinathk!google.com, krishgobinath!users.noreply.github.com from 2017-12-01 until 2019-09-01
 	limed: limed!users.noreply.github.com from 2021-03-01
 	marcocaronna: marcocaronna!users.noreply.github.com from 2021-04-01 until 2022-03-01
@@ -4742,6 +4751,7 @@ Peloton Interactive:
 	dsvua: dsvua!users.noreply.github.com from 2021-02-01
 	foo4u: foo4u!users.noreply.github.com from 2021-02-01
 	jck: jck!users.noreply.github.com from 2018-11-01
+	kurst03: kurst03!users.noreply.github.com from 2023-03-01
 	luozhaoyu: luozhaoyu!users.noreply.github.com, zhaoyu!cs.wisc.edu from 2019-01-01
 	ozooxo: ozooxo!gmail.com, ozooxo!users.noreply.github.com from 2018-04-01 until 2019-08-01
 	thedewpoint: thedewpoint!users.noreply.github.com from 2021-04-01
@@ -5579,6 +5589,7 @@ Pickupp:
 	badoet: badoet!users.noreply.github.com, gunawan.stanley!gmail.com
 Pickware:
 	Agreon: Agreon!users.noreply.github.com from 2020-07-01
+	John98Zakaria: John98Zakaria!users.noreply.github.com from 2022-11-01
 	m1pl: m1pl!users.noreply.github.com, mihai!plasoianu.de until 2018-02-01
 Picnic:
 	anhdat: anhdat!users.noreply.github.com, mr.anhdat!gmail.com from 2018-07-01
@@ -11616,6 +11627,8 @@ Radisys Corporation:
 	ralthiCord: ralthi!radisys.com
 	rampatnaik: michal.dzik!icloud.com, ram.patnaik!samsung.com, rampatnaik!users.noreply.github.com from 2022-04-01
 	sathishg02: sathish.govindasamy!radisys.com
+Radity:
+	abdullah: abdullah!users.noreply.github.com from 2017-11-01 until 2018-03-01
 Radius:
 	jcderr: jcderr!users.noreply.github.com, jeremy!bypassmobile.com from 2015-01-01 until 2015-12-01
 	l1990790120: l1990790120!users.noreply.github.com until 2015-05-01
@@ -15971,17 +15984,3 @@ Refinitiv:
 	zoltan-fedor: zoltan-fedor!users.noreply.github.com from 2018-09-01
 Reflec:
 	lucperkins: lucperkins!gmail.com, lucperkins!users.noreply.github.com, mrmattrichards!gmail.com from 2016-11-01 until 2017-05-01
-Reflect Software Inc:
-	kyleterry: bakz!bakzdesign.com, kirk!strauser.com, kyle!kyleterry.com, kyleterry!users.noreply.github.com, maryx.camp!intel.com, oriol.tauleria!gmail.com from 2016-09-01 until 2018-06-01
-Reflective:
-	sentientmonkey: sentientmonkey!users.noreply.github.com from 2020-10-01
-Reflektion:
-	ttjiaa: ttjiaa!gmail.com, ttjiaa!users.noreply.github.com until 2014-12-01
-Reflexive:
-	MarcoRossignoli: MarcoRossignoli!users.noreply.github.com, marco.rossignoli!gmail.com
-Reflexor:
-	Illia-M: Illia-M!users.noreply.github.com until 2015-08-01
-Refrating LLC:
-	cumason123: cumason123!users.noreply.github.com from 2019-06-01 until 2020-05-01
-Refundo:
-	desenna: desenna!users.noreply.github.com until 2015-12-01

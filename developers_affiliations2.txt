@@ -5,6 +5,22 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+QuentinBisson: QuentinBisson!users.noreply.github.com, quentin!giantswarm.io
+	PROXIAD until 2017-06-01
+	Independent from 2017-06-01 until 2018-07-01
+	AWS from 2018-07-01 until 2018-08-01
+	Edelia from 2018-08-01 until 2018-10-01
+	Sqreen from 2018-10-01 until 2018-11-01
+	takima from 2018-11-01 until 2019-10-01
+	Giant Swarm GmbH from 2019-10-01
+QuentinLeloire: QuentinLeloire!users.noreply.github.com, quentin.leloire.pro!gmail.com
+	Independent until 2017-12-01
+	Nuit de l'info from 2017-12-01 until 2018-01-01
+	etudiants-motives from 2018-01-01 until 2018-02-01
+	CHU de Lille from 2018-02-01 until 2018-10-01
+	Atos from 2018-10-01
+QuentinPerez: QuentinPerez!users.noreply.github.com, qperez42!gmail.com
+	znly
 Quentinb: Quentinb!users.noreply.github.com
 	Independent until 2017-01-01
 	redPanda from 2017-01-01
@@ -9693,6 +9709,15 @@ abdulhaseeb2: abdulhaseeb2!users.noreply.github.com, haseeb!stakater.com
 	CureMD from 2020-07-01 until 2020-10-01
 	Aurora from 2020-10-01 until 2022-11-01
 	anynines GmbH from 2022-11-01
+abdullah: abdullah!users.noreply.github.com
+	Independent until 2015-07-01
+	Lemonat from 2015-07-01 until 2016-02-01
+	Feb from 2016-02-01 until 2017-03-01
+	Vispera from 2017-03-01 until 2017-11-01
+	Radity from 2017-11-01 until 2018-03-01
+	Vispera from 2018-03-01 until 2020-04-01
+	Superpeer from 2020-04-01 until 2024-09-01
+	Skillshare from 2024-09-01
 abdulsalama: abdulsalama!users.noreply.github.com
 	Microsoft Corporation until 2017-01-01
 	Zillow Inc. from 2017-01-01
@@ -23651,30 +23676,3 @@ ashish493: ashish493!users.noreply.github.com
 	Comviva from 2022-01-01
 ashishagg: asaggarwal!expedia.com
 	Expedia Inc.
-ashishb-solo: ashishb-solo!users.noreply.github.com
-	Independent until 2022-07-01
-	Solo.io from 2022-07-01
-ashishbharthi: ashishbharthi!users.noreply.github.com
-	Accenture Global Solutions Limited until 2015-08-01
-	Independent from 2015-08-01 until 2015-09-01
-	UST Global from 2015-09-01 until 2016-08-01
-	Maersk from 2016-08-01 until 2017-07-01
-	Syngenta from 2017-07-01 until 2018-12-01
-	Centrica from 2018-12-01 until 2020-01-01
-	Thomas Miller from 2020-01-01
-ashishgandhi: ag!ashishgandhi.org
-	Uber
-ashishgandhi: ashishgandhi!users.noreply.github.com
-	Dropbox Inc.
-ashishjain14: ashishjain14!users.noreply.github.com
-	SAP
-ashishkamra: ashishkamra!users.noreply.github.com
-	Dell EMC until 2017-03-01
-	Red Hat Inc. from 2017-03-01
-ashishkumsingh: assingh!redhat.com
-	Red Hat Inc.
-ashishranjan738: aranjan!redhat.com, ashishranjan738!gmail.com, ashishranjan738!users.noreply.github.com
-	Independent until 2018-05-01
-	MayaData Inc. (f/k/a CloudByte Inc) from 2018-05-01 until 2019-04-01
-	Red Hat Inc. from 2019-04-01 until 2020-05-01
-	AWS from 2020-05-01

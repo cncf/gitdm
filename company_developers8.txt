@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+MX1:
+	erezhazan1: erezhazan1!gmail.com from 2018-05-01 until 2019-10-01
+MXM:
+	NickLanam: NickLanam!users.noreply.github.com from 2016-02-01 until 2017-04-01
 MYGRAM CONNECT:
 	puneetpahuja: er.puneetpahuja!gmail.com from 2017-07-01 until 2018-07-01
 MYJAR:
@@ -1077,6 +1081,8 @@ Marfeel:
 Margo:
 	oponomarov-tu: oponomarov-tu!users.noreply.github.com from 2017-12-01 until 2019-04-01
 	schen1: sylvain.chen1!gmail.com from 2015-08-01 until 2016-02-01
+MariApps:
+	dannotes: dannotes!users.noreply.github.com
 MariaDB:
 	alexander-aldev: alexander-aldev!users.noreply.github.com from 2018-01-01 until 2019-08-01
 	donoftime: donoftime!users.noreply.github.com, donoftime00!gmail.com from 2020-04-01
@@ -5528,6 +5534,7 @@ Microsoft Corporation:
 	kunalbabre: kunalbabre!users.noreply.github.com from 2015-10-01
 	kunalekawde: kunalekawde!users.noreply.github.com from 2020-10-01
 	kunalspathak: kunal.pathak!microsoft.com
+	kurst03: kurst03!users.noreply.github.com until 2014-07-01
 	kyliel: kyliel!users.noreply.github.com until 2021-10-01
 	kyschouv: kyschouv!microsoft.com, kyschouv!users.noreply.github.com
 	lachie83: lachie83!users.noreply.github.com, lachlan.evenson!microsoft.com from 2017-04-01 until 2019-01-01
@@ -9772,6 +9779,7 @@ NTT Comware Corporation:
 NTT Corporation:
 	AkihiroSuda: AkihiroSuda!users.noreply.github.com, akihiro.suda.cz!hco.ntt.co.jp, suda.akihiro!lab.ntt.co.jp, suda.kyoto!gmail.com
 	AlbertCintas: AlbertCintas!users.noreply.github.com from 2017-09-01 until 2019-12-01
+	AsuNa-jp: AsuNa-jp!users.noreply.github.com until 2022-10-01
 	JiyeYu: JiyeYu!users.noreply.github.com, troyspur!gmail.com from 2016-04-01 until 2018-10-01
 	JohanRyberg: JohanRyberg!users.noreply.github.com from 2020-12-01
 	Ladicle: ladiclexxx!gmail.com
@@ -14612,6 +14620,8 @@ OEV Online Dienste:
 	jsproede: jsproede!users.noreply.github.com from 2022-05-01
 OFFICEPRO:
 	JonasDeGendt: JonasDeGendt!users.noreply.github.com from 2016-09-01 until 2017-11-01
+OFFIS:
+	jhbruhn: hi-from-github!jhbruhn.de from 2017-01-01 until 2019-03-01
 OFI:
 	Horgix: horgix!users.noreply.github.com from 2015-10-01 until 2017-01-01
 OFICIOSVARIOS:
@@ -15915,11 +15925,3 @@ OnGres:
 	fabriziomello: fabriziomello!gmail.com, fabriziomello!users.noreply.github.com from 2019-11-01
 OnJob:
 	restuwahyu13: restuwahyu13!users.noreply.github.com from 2021-11-01 until 2022-02-01
-OnList:
-	brizaldi: brizaldi!users.noreply.github.com from 2020-01-01 until 2020-12-01
-OnLive Inc.:
-	alexcurtin: alexcurtin!gmail.com, alexcurtin!users.noreply.github.com until 2015-02-01
-OnLoop:
-	jinhong-: jinhong-!users.noreply.github.com from 2022-03-01
-OnMobile:
-	pmorillas-copado: pmorillas-copado!users.noreply.github.com from 2014-02-01 until 2019-03-01
