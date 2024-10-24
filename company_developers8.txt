@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+MX:
+	film42: film42!gmail.com, film42!users.noreply.github.com
+	jjcarstens: jjcarstens!users.noreply.github.com until 2014-10-01, from 2015-06-01 until 2019-03-01
+	spuder: owenspencer!gmail.com, spuder!users.noreply.github.com from 2018-08-01
+MX Phones:
+	Sophian-Mehboub: Sophian-Mehboub!users.noreply.github.com until 2015-06-01
 MX1:
 	erezhazan1: erezhazan1!gmail.com from 2018-05-01 until 2019-10-01
 MXM:
@@ -8127,6 +8133,8 @@ Moscow Design Bureau - Compas:
 	zored: zored!users.noreply.github.com from 2019-08-01
 Moss:
 	c00ler: c00ler!users.noreply.github.com from 2020-12-01 until 2022-06-01
+Mostaql:
+	AbdoALPOP: AbdoALPOP!users.noreply.github.com from 2023-05-01 until 2023-10-01
 Motability:
 	maati55: maati55!users.noreply.github.com from 2018-06-01 until 2018-11-01
 	sunilfernandes: sunilfernandes!users.noreply.github.com from 2017-03-01 until 2018-04-01
@@ -15916,12 +15924,3 @@ OnCall Health:
 	tschuy: tschuy!users.noreply.github.com from 2020-10-01
 	tsl0922: tsl0922!users.noreply.github.com from 2020-10-01
 	tspanindra: tumkurs2!illinois.edu from 2020-10-01
-OnDeck:
-	Diagoras: diagoras!users.noreply.github.com
-	PankajMoolrajani: PankajMoolrajani!users.noreply.github.com from 2015-08-01 until 2015-12-01
-	roboll: robert.boll!datadoghq.com, robertcboll!gmail.com, roboll!users.noreply.github.com from 2014-03-01 until 2015-05-01
-OnGres:
-	ahachete: ahachete!users.noreply.github.com, aht!ongres.com from 2017-10-01
-	fabriziomello: fabriziomello!gmail.com, fabriziomello!users.noreply.github.com from 2019-11-01
-OnJob:
-	restuwahyu13: restuwahyu13!users.noreply.github.com from 2021-11-01 until 2022-02-01

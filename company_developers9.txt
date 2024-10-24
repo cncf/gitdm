@@ -2,6 +2,15 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+OnDeck:
+	Diagoras: diagoras!users.noreply.github.com
+	PankajMoolrajani: PankajMoolrajani!users.noreply.github.com from 2015-08-01 until 2015-12-01
+	roboll: robert.boll!datadoghq.com, robertcboll!gmail.com, roboll!users.noreply.github.com from 2014-03-01 until 2015-05-01
+OnGres:
+	ahachete: ahachete!users.noreply.github.com, aht!ongres.com from 2017-10-01
+	fabriziomello: fabriziomello!gmail.com, fabriziomello!users.noreply.github.com from 2019-11-01
+OnJob:
+	restuwahyu13: restuwahyu13!users.noreply.github.com from 2021-11-01 until 2022-02-01
 OnList:
 	brizaldi: brizaldi!users.noreply.github.com from 2020-01-01 until 2020-12-01
 OnLive Inc.:
@@ -15973,14 +15982,3 @@ Refined:
 	markus-geiger: markus-geiger!users.noreply.github.com from 2016-10-01 until 2018-01-01
 Refinery29:
 	localheinz: am!localheinz.com, localheinz!users.noreply.github.com from 2015-03-01 until 2017-07-01
-Refinitiv:
-	allandegnan: allan!secureweb.ltd, allandegnan!users.noreply.github.com from 2020-01-01 until 2020-10-01
-	growse: growse!users.noreply.github.com from 2022-01-01 until 2022-09-01
-	jonstout: jonstout!indiana.edu from 2018-10-01
-	nicopapayann: nicopapaya!gmail.com, nicopapayann!users.noreply.github.com from 2019-12-01 until 2021-02-01
-	richardmosquera: richardmosquera!users.noreply.github.com from 2018-10-01 until 2020-03-01
-	safe2008: safe2008!users.noreply.github.com from 2019-07-01 until 2020-10-01
-	seehait: seehait!users.noreply.github.com from 2019-09-01 until 2021-06-01
-	zoltan-fedor: zoltan-fedor!users.noreply.github.com from 2018-09-01
-Reflec:
-	lucperkins: lucperkins!gmail.com, lucperkins!users.noreply.github.com, mrmattrichards!gmail.com from 2016-11-01 until 2017-05-01
