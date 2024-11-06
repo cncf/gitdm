@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Flexential:
+	beilber: beilber!users.noreply.github.com
+	jmiller-boundless: jmiller-boundless!users.noreply.github.com from 2018-01-01 until 2019-06-01
+	rgarcia6520: rgarcia6520!users.noreply.github.com from 2017-01-01 until 2020-01-01
 Flexera:
 	b-entangled: b-entangled!users.noreply.github.com from 2017-09-01 until 2020-07-01
 	bryankaraffa: bryankaraffa!users.noreply.github.com from 2018-11-01
@@ -15456,7 +15460,7 @@ IGEL Technology GmbH:
 	mukawa: mukawa!igel.co.jp
 	thayama: taki!igel.co.jp
 IGF PAN Hornsund Expedition:
-	lukaszgryglicki: lgryglicki!cncf.io, lukaszgryglicki!o2.pl, lukaszgryglicki!users.noreply.github.com from 2011-06-15 until 2012-08-01
+	lukaszgryglicki: lgryglicki!cncf.io, lgryglicki!contractor.linuxfoundation.org, lukaszgryglicki!o2.pl, lukaszgryglicki!users.noreply.github.com, lukaszgryglicki1982!gmail.com from 2011-06-15 until 2012-08-01
 IGNEOUS SYSTEMS INC:
 	apilloud: andrewpilloud!igneoussystems.com, apilloud!users.noreply.github.com from 2014-10-01 until 2018-01-01
 	sudssm: sudarshan.muralidhar!gmail.com from 2016-09-01
@@ -15499,7 +15503,3 @@ IHS Markit:
 	surbhiahuja: surbhiahuja!users.noreply.github.com from 2015-09-01 until 2019-09-01
 IHS Towers:
 	RichardChukwu: RichardChukwu!users.noreply.github.com from 2023-06-01 until 2023-09-01
-II.Coop:
-	heyste: heyste!users.noreply.github.com, stephen!ii.coop
-IICXV:
-	Jkudjo: Jkudjo!users.noreply.github.com, admin!wolke-sec.com until 2020-04-01

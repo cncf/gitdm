@@ -6160,7 +6160,7 @@ CNCF:
 	lpabon: lpabon!gmail.com, lpabon!users.noreply.github.com, luis!portworx.com, luis.pabon!coreos.com from 2020-10-01
 	lucperkins: lucperkins!gmail.com, lucperkins!users.noreply.github.com, mrmattrichards!gmail.com from 2018-06-01 until 2020-07-01
 	luispabon: luispabon!users.noreply.github.com from 2019-07-01
-	lukaszgryglicki: lgryglicki!cncf.io, lukaszgryglicki!o2.pl, lukaszgryglicki!users.noreply.github.com from 2017-03-15
+	lukaszgryglicki: lgryglicki!cncf.io, lgryglicki!contractor.linuxfoundation.org, lukaszgryglicki!o2.pl, lukaszgryglicki!users.noreply.github.com, lukaszgryglicki1982!gmail.com from 2017-03-15
 	lukehinds: lukehinds!users.noreply.github.com from 2023-03-01 until 2023-05-01
 	luxas: lucas!weave.works, lucas.kaldstrom!hotmail.co.uk, luxas!users.noreply.github.com from 2021-12-01
 	marceloamaral: marcelo.walk!gmail.com, marceloamaral!users.noreply.github.com from 2015-06-01 until 2015-08-01
@@ -11766,7 +11766,7 @@ Clevernet Inc.:
 Cleversafe:
 	mseabornIBM: mseabornIBM!users.noreply.github.com from 2015-03-01 until 2016-08-01
 Cleverstep:
-	lukaszgryglicki: lgryglicki!cncf.io, lukaszgryglicki!o2.pl, lukaszgryglicki!users.noreply.github.com from 2012-08-01 until 2013-10-15, from 2014-04-15 until 2015-11-20
+	lukaszgryglicki: lgryglicki!cncf.io, lgryglicki!contractor.linuxfoundation.org, lukaszgryglicki!o2.pl, lukaszgryglicki!users.noreply.github.com, lukaszgryglicki1982!gmail.com from 2012-08-01 until 2013-10-15, from 2014-04-15 until 2015-11-20
 	radoslaw: cabalrd!yahoo.com, radoslaw!users.noreply.github.com
 Clevertech:
 	JonKusz: JonKusz!users.noreply.github.com from 2021-02-01
@@ -15935,5 +15935,3 @@ CoreChain:
 	rzyns: janusz!corechain.tech from 2020-05-01
 CoreDNS:
 	varyoo: varyoo!users.noreply.github.com
-CoreDial LLC:
-	jmealo: jmealo!users.noreply.github.com until 2015-01-01

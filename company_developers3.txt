@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+CoreDial LLC:
+	jmealo: jmealo!users.noreply.github.com until 2015-01-01
 CoreFiling:
 	ashirley: ashirley!users.noreply.github.com until 2016-11-01
 	dpiddock: dpiddock!users.noreply.github.com until 2015-12-01
@@ -16538,7 +16540,3 @@ Flexcar:
 Flexciton:
 	mat-green: mat-green!users.noreply.github.com, matthew!newedgeengineering.com from 2018-05-01 until 2018-08-01
 	rhysjtevans: rhys!rhysevans.co.uk, rhysjtevans!users.noreply.github.com from 2020-05-01 until 2021-01-01
-Flexential:
-	beilber: beilber!users.noreply.github.com
-	jmiller-boundless: jmiller-boundless!users.noreply.github.com from 2018-01-01 until 2019-06-01
-	rgarcia6520: rgarcia6520!users.noreply.github.com from 2017-01-01 until 2020-01-01
