@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+BeRecruited:
+	jonmoter: jmoter!zendesk.com, jonmoter!users.noreply.github.com from 2014-06-01 until 2015-01-01
 BeScala:
 	octonato: octonato!users.noreply.github.com until 2017-09-01
 Beach Bum:
@@ -2639,6 +2641,7 @@ Boeing:
 	etungsten: etungsten!users.noreply.github.com from 2017-09-01 until 2019-06-01
 	gspetrou: gspetrou98!gmail.com from 2020-08-01 until 2021-05-01, from 2021-07-01
 	ihcsim: 1330522+ihcsim!users.noreply.github.com, ihcsim!users.noreply.github.com until 2014-09-01
+	ishaansehgal99: ishaanforthewin!gmail.com from 2022-03-01 until 2022-05-01
 	klatimer: klatimer!users.noreply.github.com, latimk!u.washington.edu from 2018-06-01 until 2018-09-01, from 2019-06-01 until 2020-03-01
 	mmwebster: milowebster!berkeley.edu, mmwebster!users.noreply.github.com from 2018-06-01 until 2019-07-01
 	nkanish2002: nkanish2002!users.noreply.github.com until 2014-12-01
@@ -15934,8 +15937,3 @@ CoreDNS:
 	varyoo: varyoo!users.noreply.github.com
 CoreDial LLC:
 	jmealo: jmealo!users.noreply.github.com until 2015-01-01
-CoreFiling:
-	ashirley: ashirley!users.noreply.github.com until 2016-11-01
-	dpiddock: dpiddock!users.noreply.github.com until 2015-12-01
-	janslow: janslow!users.noreply.github.com until 2018-05-01
-	mthx: matt!hillsdon.net, mthx!users.noreply.github.com until 2018-10-01

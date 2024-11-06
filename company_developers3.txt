@@ -2,6 +2,11 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+CoreFiling:
+	ashirley: ashirley!users.noreply.github.com until 2016-11-01
+	dpiddock: dpiddock!users.noreply.github.com until 2015-12-01
+	janslow: janslow!users.noreply.github.com until 2018-05-01
+	mthx: matt!hillsdon.net, mthx!users.noreply.github.com until 2018-10-01
 CoreLogic Australia:
 	kadrach: kadrach!gmail.com, kadrach!users.noreply.github.com from 2015-05-01 until 2019-10-01
 CoreLogic Inc.:
@@ -1787,6 +1792,7 @@ Cynet:
 	noam-zweig: noam-zweig!users.noreply.github.com from 2018-04-01 until 2018-10-01
 Cyngn:
 	jpdstan: jpdstan!users.noreply.github.com from 2016-06-01 until 2016-08-01
+	yihuaf: fang.yihua.eric!gmail.com, yihuaf!users.noreply.github.com from 2019-02-01 until 2020-10-01
 Cynny:
 	Zikoel: Zikoel!users.noreply.github.com from 2015-12-01 until 2017-07-01
 Cynopsis:
@@ -2474,6 +2480,7 @@ DIZOFT:
 DJ CodeStars ·:
 	ryuusama09: ryuusama09!users.noreply.github.com from 2021-10-01
 DJ Unicode:
+	YJDoc2: YJDoc2!users.noreply.github.com from 2020-08-01 until 2022-03-01
 	codingmickey: codingmickey!users.noreply.github.com from 2023-08-01
 DJEM:
 	jougene: jougene!users.noreply.github.com from 2016-05-01 until 2017-04-01
@@ -10639,6 +10646,8 @@ Ekino:
 	Tetradeus: thomas.carsuzan!gmail.com until 2020-05-01
 	frntn: frntn!users.noreply.github.com, m!tthieu.fr until 2017-04-01
 	lampietti: lampietti!ekino.com, lucas.lampietti!ekino.com
+Ekinops:
+	ricky-rav: ricky-rav!users.noreply.github.com, rravaiol!redhat.com from 2017-12-01 until 2021-06-01
 Ekleft:
 	kalduzov: kalduzov!users.noreply.github.com from 2015-03-01 until 2017-12-01
 Eko:
@@ -12009,6 +12018,8 @@ Enrise | CodeCuisine:
 	adri: adri!users.noreply.github.com from 2015-12-01 until 2017-02-01
 Enroute:
 	gtzefrain: gtz.efrain!gmail.com, gtzefrain!users.noreply.github.com from 2019-04-01 until 2021-03-01
+Ensaras:
+	ishaansehgal99: ishaanforthewin!gmail.com from 2021-12-01 until 2022-03-01
 Ensequence:
 	weisjohn: ben!benramsey.com, weisjohn!users.noreply.github.com until 2014-09-01
 Ensighten:
@@ -15084,6 +15095,7 @@ Falcon Tech BD:
 Falcon.io:
 	roedie: roedie!users.noreply.github.com from 2016-01-01 until 2018-06-01
 Falkonry:
+	YJDoc2: YJDoc2!users.noreply.github.com from 2022-06-01 until 2024-05-01
 	navicore: ed!onextent.com, navicore!users.noreply.github.com until 2015-06-01
 	phagunbaya: phagun.baya!gmail.com, phagunbaya!users.noreply.github.com from 2016-04-01
 Fam:
@@ -16530,13 +16542,3 @@ Flexential:
 	beilber: beilber!users.noreply.github.com
 	jmiller-boundless: jmiller-boundless!users.noreply.github.com from 2018-01-01 until 2019-06-01
 	rgarcia6520: rgarcia6520!users.noreply.github.com from 2017-01-01 until 2020-01-01
-Flexera:
-	b-entangled: b-entangled!users.noreply.github.com from 2017-09-01 until 2020-07-01
-	bryankaraffa: bryankaraffa!users.noreply.github.com from 2018-11-01
-	ckav370: ckav370!users.noreply.github.com from 2018-10-01 until 2019-04-01
-	jjacob27: jjacob27!users.noreply.github.com from 2017-09-01 until 2020-05-01
-	lucasalexsorensen: lucas.alex.sorensen!gmail.com from 2015-09-01 until 2016-10-01
-	mforutan: mforutan!users.noreply.github.com from 2017-12-01
-	nitinmohan87: nitinmohan87!gmail.com, nitinmohan87!users.noreply.github.com from 2018-09-01
-	srpomeroy: srpomeroy!users.noreply.github.com from 2018-09-01 until 2021-08-01
-	tim775: tim775!users.noreply.github.com from 2018-09-01 until 2019-06-01
