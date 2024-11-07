@@ -2,8 +2,6 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
-BeRecruited:
-	jonmoter: jmoter!zendesk.com, jonmoter!users.noreply.github.com from 2014-06-01 until 2015-01-01
 BeScala:
 	octonato: octonato!users.noreply.github.com until 2017-09-01
 Beach Bum:
@@ -15935,3 +15933,5 @@ CoreChain:
 	rzyns: janusz!corechain.tech from 2020-05-01
 CoreDNS:
 	varyoo: varyoo!users.noreply.github.com
+CoreDial LLC:
+	jmealo: jmealo!users.noreply.github.com until 2015-01-01

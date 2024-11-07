@@ -2,10 +2,6 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
-Flexential:
-	beilber: beilber!users.noreply.github.com
-	jmiller-boundless: jmiller-boundless!users.noreply.github.com from 2018-01-01 until 2019-06-01
-	rgarcia6520: rgarcia6520!users.noreply.github.com from 2017-01-01 until 2020-01-01
 Flexera:
 	b-entangled: b-entangled!users.noreply.github.com from 2017-09-01 until 2020-07-01
 	bryankaraffa: bryankaraffa!users.noreply.github.com from 2018-11-01
@@ -13138,6 +13134,7 @@ Hitachi Ltd.:
 	amorenoz: amorenoz!users.noreply.github.com until 2014-07-01
 	atsikham: atsikham!users.noreply.github.com, tihomirovanatoliy!gmail.com from 2020-08-01
 	bobdoah: bobdoah!users.noreply.github.com, robert.williams!hds.com
+	bucchi: bucchi!users.noreply.github.com
 	fishpen0: fishpen0!users.noreply.github.com until 2016-01-01
 	hiroshi-nasu: hiroshi-nasu!users.noreply.github.com, hiroshi.nasu.gb!hitachi.com
 	jeffbean: jeff.bean!hds.com, jeffbean!users.noreply.github.com, jeffreyrobertbean!gmail.com until 2016-02-01
@@ -13163,6 +13160,7 @@ Hitachi Ltd.:
 	ruoibmt: ruoibmt!users.noreply.github.com from 2023-11-01
 	shekharberry: shekharberry!users.noreply.github.com until 2015-06-01
 	shuhei-matsumoto: shuhei.matsumoto.xt!hitachi.com
+	skabano: skabano!users.noreply.github.com
 	spurin: spurin!users.noreply.github.com from 2015-01-01 until 2015-12-01
 	tmogi001: tmogi001!users.noreply.github.com
 	tnorimat: tnorimat!users.noreply.github.com
@@ -15503,3 +15501,7 @@ IHS Markit:
 	surbhiahuja: surbhiahuja!users.noreply.github.com from 2015-09-01 until 2019-09-01
 IHS Towers:
 	RichardChukwu: RichardChukwu!users.noreply.github.com from 2023-06-01 until 2023-09-01
+II.Coop:
+	heyste: heyste!users.noreply.github.com, stephen!ii.coop
+IICXV:
+	Jkudjo: Jkudjo!users.noreply.github.com, admin!wolke-sec.com until 2020-04-01

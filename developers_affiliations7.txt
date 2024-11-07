@@ -5,12 +5,6 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
-noxiouz: noxiouz!yandex.ru
-	YANDEX LLC until 2017-12-01
-	Independent from 2017-12-01 until 2018-07-01
-	Code First Girls from 2018-07-01 until 2019-03-01
-	Meta Platforms Inc. from 2019-03-01 until 2019-06-01
-	Twitter Inc. from 2019-06-01
 noxora: noxora!users.noreply.github.com
 	Independent until 2016-05-01
 	Datto Inc. from 2016-05-01 until 2016-08-01
@@ -23786,3 +23780,7 @@ shahshreya: shreya!onlab.us
 	Cisco from 2017-05-01
 shahzeb1: shahzeb1!users.noreply.github.com
 	Independent
+shahzzzam: samarthmshah!gmail.com, shahzzzam!users.noreply.github.com
+	Microsoft Corporation
+shaicoleman: git!shaicoleman.com, shaicoleman!users.noreply.github.com
+	Storyful
