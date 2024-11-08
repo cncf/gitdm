@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+MTGx Modern:
+	charud: charud!users.noreply.github.com from 2014-07-01 until 2016-01-01
+MTGx Modern Times:
+	charlie-rudenstal: charlie-rudenstal!users.noreply.github.com until 2016-01-01
+MTHL:
+	pwillie: pwillie!users.noreply.github.com until 2015-12-01, from 2018-03-01 until 2019-05-01
 MTI Film:
 	mcwumbly: mcwumbly!users.noreply.github.com until 2015-01-01
 MTI Studio:
@@ -4085,7 +4091,7 @@ Metaswitch Networks:
 	achermes: achermes!users.noreply.github.com, alexander.hermes!metaswitch.com
 	alexhersh: alexander.hersh!metaswitch.com, alexhersh!users.noreply.github.com
 	caseydavenport: casey!tigera.io, casey.davenport!metaswitch.com, caseydavenport!users.noreply.github.com, davenport.cas!gmail.com until 2016-05-01
-	chewi: chewi!aura-online.co.uk, chewi!users.noreply.github.com, joseph.bollman!gmail.com from 2018-10-01 until 2021-03-01
+	chewi: chewi!aura-online.co.uk, chewi!gentoo.org, chewi!users.noreply.github.com, james.le-cuirot!yakara.com, james.lecuirot!metaswitch.com, jlecuirot!microsoft.com from 2018-10-01 until 2021-03-01
 	coro: coro!users.noreply.github.com from 2016-09-01 until 2019-02-01
 	kajanth: kajanth!users.noreply.github.com from 2014-08-01 until 2016-04-01
 	kw217: keithw!lochan.org, kw217!users.noreply.github.com
@@ -4586,6 +4592,7 @@ Microsoft Corporation:
 	JatinSanghvi: JatinSanghvi!users.noreply.github.com from 2016-06-01
 	Jaxelr: jaxelr!gmail.com from 2020-03-01
 	Jaxing: Jaxing!users.noreply.github.com, jesper.jaxing01!gmail.com from 2019-08-01 until 2020-01-01
+	JaydipGabani: JaydipGabani!users.noreply.github.com, jgabani!redhat.com from 2022-09-30
 	JeremyKuhne: JeremyKuhne!users.noreply.github.com, jeremy.kuhne!microsoft.com, jkuhne!microsoft.com
 	JeyJeyGao: JeyJeyGao!users.noreply.github.com from 2022-05-01
 	JiangtianLi: JiangtianLi!users.noreply.github.com, jiangtianli!hotmail.com until 2018-05-01
@@ -5058,7 +5065,7 @@ Microsoft Corporation:
 	chenriksson: chenriks!microsoft.com
 	chensun: chensun!users.noreply.github.com until 2018-11-01
 	chenyukang: chenyukang!users.noreply.github.com, moorekang!gmail.com, moorekang!gmaill.com from 2020-09-01
-	chewi: chewi!aura-online.co.uk, chewi!users.noreply.github.com, joseph.bollman!gmail.com from 2021-03-01
+	chewi: chewi!aura-online.co.uk, chewi!gentoo.org, chewi!users.noreply.github.com, james.le-cuirot!yakara.com, james.lecuirot!metaswitch.com, jlecuirot!microsoft.com from 2021-03-01
 	chewong: chewong!users.noreply.github.com from 2017-05-01 until 2018-12-01, from 2019-08-01 until 2022-07-22
 	chgeuer: chgeuer!microsoft.com, chgeuer!users.noreply.github.com
 	chhabaramesh: ramesh.chander!agylstor.com, ramesh.chander!sandisk.com from 2017-04-01 until 2018-07-01
@@ -5428,6 +5435,7 @@ Microsoft Corporation:
 	igalfsg: igalfsg!users.noreply.github.com from 2017-05-01 until 2021-03-01
 	ij1: ij1!users.noreply.github.com, ilpo.jarvinen!helsinki.fi from 2013-04-01 until 2016-08-01
 	iliasjennane: iliasjennane!users.noreply.github.com
+	illume: illume!users.noreply.github.com, renedudfield!microsoft.com, renesd!gmail.com from 2021-06-01
 	imWildCat: dh.chong!outlook.com, imWildCat!users.noreply.github.com from 2019-01-01
 	imba-tjd: 109224573!qq.com, imba-tjd!users.noreply.github.com
 	imcarolwang: v-carwan!microsoft.com
@@ -5527,6 +5535,7 @@ Microsoft Corporation:
 	jmo808: jules.ouellette!outlook.com
 	jmspring: jmspring!gmail.com
 	jnoller: jesse.noller!microsoft.com, jnoller!gmail.com
+	joaquimrocha: joaquim.rocha!cern.ch, joaquim.rocha!microsoft.com, joaquimrocha!users.noreply.github.com, me!joaquimrocha.com from 2021-05-21
 	joe-atzinger: joe-atzinger!users.noreply.github.com from 2019-10-01
 	joescars: joe.raio!microsoft.com
 	joewstroman: joewstroman!gmail.com
@@ -5861,6 +5870,7 @@ Microsoft Corporation:
 	nathana1: nathana!microsoft.com, nathana1!users.noreply.github.com
 	nattress: nattress!gmail.com, nattress!users.noreply.github.com
 	naveenkothamasu: naveenkothamasu!gmail.com from 2020-04-01
+	nawazkh: nawazkh!users.noreply.github.com from 2022-05-15
 	nbilling: nbilling!microsoft.com
 	nchikanov: nchikanov!gmail.com, nchikanov!users.noreply.github.com from 2017-06-01 until 2017-09-01, from 2017-09-01
 	nddq: nguyenquang!microsoft.com from 2021-06-01 until 2021-08-01, from 2021-08-01 until 2022-07-01, from 2023-07-01
@@ -5899,7 +5909,7 @@ Microsoft Corporation:
 	nocheinlarry: nocheinlarry!users.noreply.github.com until 2017-12-01
 	noelbundick: noelbundick!gmail.com, noelbundick!users.noreply.github.com
 	noelbundick-msft: noelbundick-msft!users.noreply.github.com from 2015-07-01
-	nojnhuh: huhnjon!gmail.com, nojnhuh!users.noreply.github.com from 2020-05-01
+	nojnhuh: huhnjon!gmail.com, johuhn!microsoft.com, nojnhuh!users.noreply.github.com from 2020-05-01
 	nojvek: nojvek!users.noreply.github.com until 2017-02-01
 	norshtein: tosi!microsoft.com
 	northtyphoon: bindu!microsoft.com, northtyphoon!users.noreply.github.com
@@ -6071,9 +6081,9 @@ Microsoft Corporation:
 	rmkerr: richard.kerr!microsoft.com, rikerr!microsoft.com, rmkerr!users.noreply.github.com
 	robbiezhang: junjiez!microsoft.com, robbiezhang!users.noreply.github.com
 	robece: robece!users.noreply.github.com
+	robert-cronin: robert!robertcronin.com, robert.cronin!uqconnect.edu.au, robert.owen.cronin!gmail.com
 	robertfi: robertfi!users.noreply.github.com
 	roberto-mardeni: rmardeni!gmail.com, roberto-mardeni!users.noreply.github.com from 2017-12-01
-	robert-cronin: robert.owen.cronin!gmail.com, robert!robertcronin.com, robert.cronin!uqconnect.edu.au
 	robinmanuelthiel: robinmanuelthiel!users.noreply.github.com from 2016-01-01
 	roblourens: roblourens!gmail.com, roblourens!users.noreply.github.com
 	robmaw: robmaw!users.noreply.github.com
@@ -6271,6 +6281,7 @@ Microsoft Corporation:
 	t-shama: t-shama!users.noreply.github.com
 	t-wanl: t-wanl!microsoft.com
 	t0rr3sp3dr0: t0rr3sp3dr0!gmail.com, t0rr3sp3dr0!users.noreply.github.com from 2019-10-01 until 2020-02-01
+	tallaxes: tallaxes!users.noreply.github.com
 	tamirkamara: tamirkamara!users.noreply.github.com from 2017-03-01
 	tanaypratap: tanay.mit!gmail.com
 	tangyanhan: tangyanhan!users.noreply.github.com from 2021-05-01
@@ -15904,21 +15915,3 @@ OlinData:
 	AndrewFarley: farley!neonsurge.com from 2016-07-01 until 2018-01-01
 Olio:
 	ji-yaqi: ji-yaqi!users.noreply.github.com, jiyaqi0712!gmail.com from 2017-06-01 until 2017-08-01
-Olis Robotics:
-	jomadu: jomadu!users.noreply.github.com from 2018-11-01 until 2020-02-01
-Olist:
-	andresionek91: andresionek91!users.noreply.github.com from 2018-03-01 until 2019-02-01
-	decko: brito.afa!gmail.com, decko!users.noreply.github.com from 2019-07-01 until 2021-02-01
-	tomaslm: tomaslm!users.noreply.github.com from 2020-05-01
-	wiliamsouza: me!wiliam.dev from 2016-01-01 until 2019-10-01
-Oliv'r:
-	politician: politician!users.noreply.github.com from 2020-09-01
-Olive:
-	dblclik: dblclik!users.noreply.github.com from 2020-06-01
-	etsuo: etsuo!users.noreply.github.com, jp!poveda.net from 2014-09-01 until 2018-10-01
-	jpweber: jpweber!users.noreply.github.com from 2015-11-01 until 2017-11-01
-	krishnabhargav: krishnabhargav!users.noreply.github.com from 2020-08-01
-Olive Garden:
-	ian-howell: ian-howell!users.noreply.github.com, ian.howell0!gmail.com until 2015-05-01
-Olive Ideas Lab:
-	rafey1104: rafey1104!users.noreply.github.com from 2021-11-01

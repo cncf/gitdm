@@ -5,11 +5,6 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
-honnix: honnix!users.noreply.github.com
-	Spotify AB
-honza: honza!redhat.com, honza!users.noreply.github.com, lazyval!gmail.com, mail!lukahartwig.de, me!honza.ca
-	Publet until 2016-02-01
-	Red Hat Inc. from 2016-02-01
 honza801: honza801!users.noreply.github.com
 	RTsoft s.r.o. until 2016-06-01
 	CESNET a.l.e. from 2016-06-01
@@ -2672,9 +2667,9 @@ illukin: illukin!users.noreply.github.com
 	Техносерв Консалтинг from 2018-02-01 until 2019-08-01
 	Ведущий инженер по разработке продукта from 2019-08-01 until 2021-10-01
 	РазработчикРазработчикНСПК МИР from 2021-10-01
-illume: illume!users.noreply.github.com, renesd!gmail.com, renedudfield!microsoft.com
+illume: illume!users.noreply.github.com, renedudfield!microsoft.com, renesd!gmail.com
 	Independent until 2021-06-01
-	Microsoft from 2021-06-01
+	Microsoft Corporation from 2021-06-01
 illusion202: 353780049!qq.com, busyjaylee!gmail.com, illusion202!users.noreply.github.com
 	New H3C Technologies Co. Ltd
 ilonajulczuk: ilonajulczuk!users.noreply.github.com, justyna.ilczuk!gmail.com
@@ -7000,9 +6995,6 @@ jaydipdave: jaydipdave!users.noreply.github.com
 	SAP from 2016-04-01 until 2018-01-01
 	OPTICCA CONSULTING from 2018-01-01 until 2018-07-01
 	National Bank of Canada from 2018-07-01
-jaydipgabani: jaydipgabani!users.noreply.github.com
-	Red Hat Inc. from 2020-08-15 until 2022-09-30
-	Microsoft Corporation from 2022-10-03
 jaydrogers: jay!521dimensions.com, jaydrogers!users.noreply.github.com
 	521 Dimensions
 jaydunk: jaydunk!gmail.com, jaydunk!users.noreply.github.com, ldunkelberger!pivotal.io
@@ -11671,10 +11663,11 @@ joaopgrassi: joaopgrassi!users.noreply.github.com
 joaovitor: joao.vitor!gmail.com, joaovitor!users.noreply.github.com
 	CI&T until 2021-06-01
 	Zero Hash from 2021-06-01
-joaquimrocha: joaquimrocha!users.noreply.github.com, me!joaquimrocha.com, joaquim.rocha!microsoft.com
-	CERN from 2013-09-01 until 2015-12-01
+joaquimrocha: joaquim.rocha!cern.ch, joaquim.rocha!microsoft.com, joaquimrocha!users.noreply.github.com, me!joaquimrocha.com
+	CERN until 2015-12-01
+	Independent from 2015-12-01 until 2019-07-01
 	Kinvolk GmbH from 2019-07-01 until 2021-05-21
-	Microsoft Corporation from 2021-05-22
+	Microsoft Corporation from 2021-05-21
 joar: joar!users.noreply.github.com, joar!wandborg.se
 	5 Monkeys Agency AB
 jobbler: jobbler!users.noreply.github.com, joherr!redhat.com

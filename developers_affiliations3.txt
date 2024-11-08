@@ -5,13 +5,6 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
-asafm: asafm!users.noreply.github.com
-	Logz until 2022-04-01
-	StreamNative from 2022-04-01
-asafyish: asafyish!users.noreply.github.com
-	Hewlett until 2014-05-01
-	Personalics from 2014-05-01 until 2017-03-01
-	Vonage Holdings Corp. from 2017-03-01
 asahalyft: asahalyft!users.noreply.github.com
 	Cognizant Technology Solutions until 2014-08-01
 	Independent from 2014-08-01 until 2016-08-01
@@ -14144,7 +14137,7 @@ cheukwing: me!cheukwing.dev
 	Thought Machine Group Limited from 2020-09-01
 cheungpat: cheungpat!oursky.com, cheungpat!users.noreply.github.com, me!cheungpat.com
 	Oursky
-chewi: chewi!aura-online.co.uk, chewi!users.noreply.github.com, chewi!gentoo.org, jlecuirot!microsoft.com, james.lecuirot!metaswitch.com, james.le-cuirot!yakara.com
+chewi: chewi!aura-online.co.uk, chewi!gentoo.org, chewi!users.noreply.github.com, james.le-cuirot!yakara.com, james.lecuirot!metaswitch.com, jlecuirot!microsoft.com
 	Yakara until 2018-10-01
 	Metaswitch Networks from 2018-10-01 until 2021-03-01
 	Microsoft Corporation from 2021-03-01
@@ -23724,3 +23717,8 @@ demshin: demshin!gmail.com, demshin!users.noreply.github.com
 	Yransparency Regstry from 2018-11-01 until 2020-04-01
 	Paragon Software from 2020-04-01 until 2020-09-01
 	BTS Digital LLP from 2020-09-01
+den-is: den-is!users.noreply.github.com
+	Geocell LLC until 2015-08-01
+	WebFox from 2015-08-01 until 2015-12-01
+	DigiOutsource from 2015-12-01 until 2016-10-01
+	Abc from 2016-10-01
