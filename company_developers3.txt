@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+CoreChain:
+	rzyns: janusz!corechain.tech from 2020-05-01
+CoreDNS:
+	varyoo: varyoo!users.noreply.github.com
+CoreDial LLC:
+	jmealo: jmealo!users.noreply.github.com until 2015-01-01
 CoreFiling:
 	ashirley: ashirley!users.noreply.github.com until 2016-11-01
 	dpiddock: dpiddock!users.noreply.github.com until 2015-12-01
@@ -4663,7 +4669,7 @@ Deis:
 	kmala: ba!berkantaydin.com.tr, keerthan.mala!gmail.com, kmala!deis.com, kmala!engineyard.com, kmala!users.noreply.github.com, kremala!amazon.com from 2016-02-01 until 2016-12-01
 	krancour: kent!akuity.io, kent!deis.com, kent.rancourt!gmail.com, kent.rancourt!microsoft.com, krancour!users.noreply.github.com, krancourt!engineyard.com from 2015-07-15 until 2017-04-01
 	lachie83: lachie83!users.noreply.github.com, lachlan.evenson!microsoft.com from 2016-07-15 until 2017-04-01
-	mboersma: Matt.Boersma!microsoft.com, daniel.joos87!googlemail.com, matt!sprout.org, mboersma!deis.com, mboersma!engineyard.com, mboersma!users.noreply.github.com, rinick!gmail.com until 2017-04-01
+	mboersma: Matt.Boersma!microsoft.com, maboersm!microsoft.com, matt!sprout.org, mboersma!deis.com, mboersma!engineyard.com, mboersma!users.noreply.github.com until 2017-04-01
 	michelleN: michelle!deis.com, michelleN!users.noreply.github.com, michellemolu!gmail.com, minooral!microsoft.com, mnoorali!engineyard.com from 2015-11-01 until 2017-04-01
 	rimusz: rimusz!users.noreply.github.com, rmocius!gmail.com from 2015-09-01 until 2016-10-01
 	sgoings: segoings!microsoft.com, seth!deis.com, sethgoings!gmail.com, sgoings!deis.com, sgoings!engineyard.com, sgoings!users.noreply.github.com from 2015-06-01 until 2017-04-01
@@ -8567,7 +8573,7 @@ Dynatrace LLC:
 	stuzfuz: stuzfuz!users.noreply.github.com from 2016-03-01 until 2017-07-01
 	tcarrio: tcarrio!users.noreply.github.com from 2019-05-01 until 2022-01-01
 	thisthat: giovanni.liva!dynatrace.com, giovanni.liva.91!gmail.com, thisthat!users.noreply.github.com
-	thschue: thomas.schuetz!dynatrace.com, thomas.schuetz!t-sc.eu, thomas.schuetz!whizus.com, thschue!users.noreply.github.com, tsc!manz.at from 2019-06-01 until 2023-03-30
+	thschue: thomas.schuetz!dynatrace.com, thomas.schuetz!kapsch.at, thomas.schuetz!karriere.at, thomas.schuetz!t-sc.eu, thomas.schuetz!whizus.com, thschue!users.noreply.github.com, tsc!manz.at from 2019-06-01 until 2023-03-30
 	toddbaert: obrien.hugh!gmail.com, toddbaert!gmail.com, toddbaert!users.noreply.github.com from 2018-05-01 until 2020-10-01, from 2022-03-01
 	warber: warber!users.noreply.github.com
 	wgottesheim: gottesheim!gmail.com from 2015-03-01
@@ -16538,7 +16544,3 @@ Flexcar:
 Flexciton:
 	mat-green: mat-green!users.noreply.github.com, matthew!newedgeengineering.com from 2018-05-01 until 2018-08-01
 	rhysjtevans: rhys!rhysevans.co.uk, rhysjtevans!users.noreply.github.com from 2020-05-01 until 2021-01-01
-Flexential:
-	beilber: beilber!users.noreply.github.com
-	jmiller-boundless: jmiller-boundless!users.noreply.github.com from 2018-01-01 until 2019-06-01
-	rgarcia6520: rgarcia6520!users.noreply.github.com from 2017-01-01 until 2020-01-01

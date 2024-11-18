@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+OlinData:
+	AndrewFarley: farley!neonsurge.com from 2016-07-01 until 2018-01-01
+Olio:
+	ji-yaqi: ji-yaqi!users.noreply.github.com, jiyaqi0712!gmail.com from 2017-06-01 until 2017-08-01
 Olis Robotics:
 	jomadu: jomadu!users.noreply.github.com from 2018-11-01 until 2020-02-01
 Olist:

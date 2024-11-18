@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Flexential:
+	beilber: beilber!users.noreply.github.com
+	jmiller-boundless: jmiller-boundless!users.noreply.github.com from 2018-01-01 until 2019-06-01
+	rgarcia6520: rgarcia6520!users.noreply.github.com from 2017-01-01 until 2020-01-01
 Flexera:
 	b-entangled: b-entangled!users.noreply.github.com from 2017-09-01 until 2020-07-01
 	bryankaraffa: bryankaraffa!users.noreply.github.com from 2018-11-01
@@ -11008,7 +11012,6 @@ HURITS:
 	d7r-s4a-01: d7r-s4a-01!users.noreply.github.com from 2020-04-01 until 2023-12-01
 	deepankar-sharma-02: deepankar-sharma-02!users.noreply.github.com from 2020-04-01 until 2023-12-01
 HUST:
-	IRONICBo: IRONICBo!users.noreply.github.com
 	yishangzhang: zhangyi2021!hust.edu.cn
 	zhangdeyu: imzhangdeyu!foxmail.com
 HUUB:
@@ -13864,6 +13867,7 @@ Houm:
 Hound Technology Inc. dba Honeycomb:
 	GitBytes: ismith!mit.edu from 2020-08-05 until 2024-05-17
 	JamieDanielson: JamieDanielson!users.noreply.github.com, jamiedanielson!honeycomb.io, jamieedanielson!gmail.com from 2021-06-28
+	McSick: michael.c.sickles!gmail.com, michaelsickles!honeycomb.io from 2020-11-30
 	MikeGoldsmith: MikeGoldsmith!users.noreply.github.com, goldsmith.mike!gmail.com, mike!honeycomb.io from 2020-06-26
 	MustafaHaddara: MustafaHaddara!users.noreply.github.com, mustafa!honeycomb.io from 2024-03-11
 	TylerHelmuth: 12352919+TylerHelmuth!users.noreply.github.com, TylerHelmuth!users.noreply.github.com, thelmuth!newrelic.com, tylerhelmuth!honeycomb.io from 2022-09-14
@@ -15492,14 +15496,3 @@ IHMedical:
 IHS:
 	boblodgett: boblodgett!users.noreply.github.com until 2016-06-01
 	procheta1999: procheta1999!users.noreply.github.com from 2020-09-01 until 2020-11-01
-IHS Markit:
-	SebastianCelejewski: Sebastian.Celejewski!wp.pl
-	ashic: ashic!users.noreply.github.com from 2017-03-01
-	dmccaffery: dmccaffery!users.noreply.github.com from 2019-05-01
-	georgikoemdzhiev: georgikoemdzhiev!users.noreply.github.com from 2019-02-01
-	lvicentesanchez: lvicentesanchez!users.noreply.github.com from 2017-04-01 until 2018-09-01
-	optnfast: 7163060+optnfast!users.noreply.github.com, optnfast!users.noreply.github.com, richard.kettlewell!thalesesecurity.com
-	piotrkpc: piotrkpc!users.noreply.github.com from 2020-09-01 until 2021-06-01
-	surbhiahuja: surbhiahuja!users.noreply.github.com from 2015-09-01 until 2019-09-01
-IHS Towers:
-	RichardChukwu: RichardChukwu!users.noreply.github.com from 2023-06-01 until 2023-09-01

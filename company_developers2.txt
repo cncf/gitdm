@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+BeRecruited:
+	jonmoter: jmoter!zendesk.com, jonmoter!users.noreply.github.com from 2014-06-01 until 2015-01-01
 BeScala:
 	octonato: octonato!users.noreply.github.com until 2017-09-01
 Beach Bum:
@@ -12409,6 +12411,7 @@ CloudPay:
 CloudPhysics:
 	aboyett: aboyett!users.noreply.github.com, andy.boyett!gmail.com
 CloudPilot AI:
+	IRONICBo: IRONICBo!cloudpilot.ai, IRONICBo!users.noreply.github.com from 2024-11-18
 	Vacant2333: Vacant2333!users.noreply.github.com, rentian.zhou!daocloud.io, vacant2333!gmail.com, zhourentian!cloudpilot.ai from 2024-10-15
 	helen-frank: helen-frank!cloudpilot.ai, helen-frank!users.noreply.github.com, helenfrank!protonmail.com from 2024-09-09
 	jwcesign: jwcesign!cloudpilot.ai, jwcesign!gmail.com, jwcesign!users.noreply.github.com from 2024-08-15
@@ -15929,9 +15932,3 @@ CoreAzure:
 	bhicks329: bhicks329!users.noreply.github.com from 2017-11-01 until 2018-02-01
 CoreCentric:
 	willarmiros: willarmiros!users.noreply.github.com from 2016-06-01 until 2016-08-01
-CoreChain:
-	rzyns: janusz!corechain.tech from 2020-05-01
-CoreDNS:
-	varyoo: varyoo!users.noreply.github.com
-CoreDial LLC:
-	jmealo: jmealo!users.noreply.github.com until 2015-01-01
