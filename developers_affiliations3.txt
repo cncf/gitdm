@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+asafalgawi: asafalgawi!users.noreply.github.com
+	TrulyProtect until 2021-10-01
+	AWS from 2021-10-01 until 2023-04-01
+	Independent from 2023-04-01 until 2023-07-01
+	Microsoft Corporation from 2023-07-01
 asafdav2: asafdav2!gmail.com, asafdav2!users.noreply.github.com
 	Kenshoo until 2015-09-01
 	Bringg from 2015-09-01 until 2017-10-01
@@ -7605,10 +7610,10 @@ boffbowsh: paul.bowsher!gmail.com
 	Monzo Bank from 2018-11-01
 bogard1203: bogard1203!users.noreply.github.com, bogard_1203!hotmail.com
 	Independent
+bogdan-at-adobe: bogdan-at-adobe!users.noreply.github.com, bstancu!adobe.com
+	Adobe Inc.
 bogdan-davidoaia: bogdan-davidoaia!users.noreply.github.com, bogdan.davidoaia!linaro.org
 	Linaro Limited
-bogdan-at-adobe: bstancu!adobe.com, bogdan-at-adobe!users.noreply.github.com
-	Adobe Inc.
 bogdanalov-sw: bogdanalov-sw!users.noreply.github.com
 	Independent until 2017-04-01
 	Catalytic from 2017-04-01 until 2019-02-01
@@ -13527,8 +13532,6 @@ charliestrawn: cdstrawn!gmail.com, charlie.strawn!workiva.com, charliestrawn!use
 	Workiva Inc.
 charliestrawn-wf: cdstrawn!gmail.com, charlie.strawn!workiva.com
 	Workiva Inc.
-charlietle: chtle4!gmail.com, charlietle!users.noreply.github.com
-	Apple Inc.
 charlievieth: charlie.vieth!gmail.com, charlievieth!users.noreply.github.com
 	Spotfront until 2015-01-01
 	Pivotal from 2015-01-01 until 2018-04-01
@@ -23724,13 +23727,3 @@ demobox: demobox!users.noreply.github.com
 	essensys from 2020-01-01
 demohi: mds!xue.bi
 	Alibaba Group
-demon: chadh!lumahealth.io, demon!users.noreply.github.com
-	Wikimedia Foundation Inc. until 2018-06-01
-	ASAPP Inc. from 2018-06-01 until 2019-12-01
-	Luma Health from 2019-12-01 until 2021-04-01
-	ujet from 2021-04-01
-demonCoder95: demonCoder95!users.noreply.github.com
-	Independent until 2018-08-01
-	WeChall from 2018-08-01 until 2019-06-01
-	xFlow Research.com from 2019-06-01 until 2021-05-01
-	Zalando SE from 2021-05-01

@@ -5,6 +5,14 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+hongtao: hongtao.yin!huawei.com, onosdev!gmail.com
+	Huawei Technologies Co. Ltd
+hongweiwang: hongweiw!google.com, hongweiwang!users.noreply.github.com, redway180!gmail.com
+	Google LLC
+hongxu-jia: hongxu-jia!users.noreply.github.com, hongxu.jia!windriver.com
+	Wind River Systems Inc.
+hongyans: hongyan.song!intel.com
+	Intel Corporation
 hongymagic: hongymagic!users.noreply.github.com
 	Commonwealth Bank until 2015-11-01
 	Peopleplan from 2015-11-01 until 2018-10-01
@@ -23782,11 +23790,3 @@ lampajr: a.lamparelli95!gmail.com
 	UniCredit from 2022-06-01 until 2022-07-01
 	KIE Community from 2022-07-01 until 2023-09-01
 	Red Hat Inc. from 2023-09-01
-lampietti: lampietti!ekino.com, lucas.lampietti!ekino.com
-	Ekino
-lamroger: lamroger!users.noreply.github.com, me!lamroger.com
-	OpenGov Inc until 2016-08-01
-	Independent from 2016-08-01 until 2017-03-01
-	Karius from 2017-03-01 until 2017-09-01
-	Nava from 2017-09-01 until 2020-10-01
-	Paperspace from 2020-10-01

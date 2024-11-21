@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+BeKitzur:
+	mshkrebtan: mshkrebtan!users.noreply.github.com from 2017-07-01 until 2019-06-01
+BeKitzur I:
+	nogoegst: nogoegst!users.noreply.github.com, sw!nogoegst.net, twim!riseup.net
+BePROUD:
+	hirokiky: hirokiky!gmail.com
 BeRecruited:
 	jonmoter: jmoter!zendesk.com, jonmoter!users.noreply.github.com from 2014-06-01 until 2015-01-01
 BeScala:
@@ -12411,7 +12417,7 @@ CloudPay:
 CloudPhysics:
 	aboyett: aboyett!users.noreply.github.com, andy.boyett!gmail.com
 CloudPilot AI:
-	IRONICBo: IRONICBo!cloudpilot.ai, IRONICBo!users.noreply.github.com from 2024-11-18
+	IRONICBo: IRONICBo!cloudpilot.ai, IRONICBo!users.noreply.github.com, lvbo!cloudpilot.ai from 2024-11-18
 	Vacant2333: Vacant2333!users.noreply.github.com, rentian.zhou!daocloud.io, vacant2333!gmail.com, zhourentian!cloudpilot.ai from 2024-10-15
 	helen-frank: helen-frank!cloudpilot.ai, helen-frank!users.noreply.github.com, helenfrank!protonmail.com from 2024-09-09
 	jwcesign: jwcesign!cloudpilot.ai, jwcesign!gmail.com, jwcesign!users.noreply.github.com from 2024-08-15
@@ -15926,9 +15932,3 @@ Core Scientific:
 	cesargomez: cesargomez!users.noreply.github.com from 2020-07-01 until 2021-05-01
 Core Spreads:
 	gpgabriel: me!gabrielgabor.com from 2015-11-01 until 2016-08-01
-Core10:
-	zedgell: zacharyedgell!gmail.com from 2021-08-01
-CoreAzure:
-	bhicks329: bhicks329!users.noreply.github.com from 2017-11-01 until 2018-02-01
-CoreCentric:
-	willarmiros: willarmiros!users.noreply.github.com from 2016-06-01 until 2016-08-01

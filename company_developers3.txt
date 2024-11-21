@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Core10:
+	zedgell: zacharyedgell!gmail.com from 2021-08-01
+CoreAzure:
+	bhicks329: bhicks329!users.noreply.github.com from 2017-11-01 until 2018-02-01
+CoreCentric:
+	willarmiros: willarmiros!users.noreply.github.com from 2016-06-01 until 2016-08-01
 CoreChain:
 	rzyns: janusz!corechain.tech from 2020-05-01
 CoreDNS:
@@ -16542,6 +16548,3 @@ Flexagon:
 	eedorenko: eedorenko!users.noreply.github.com from 2017-06-01 until 2019-07-01
 Flexcar:
 	JohnDzialo: JohnDzialo!users.noreply.github.com from 2020-07-01
-Flexciton:
-	mat-green: mat-green!users.noreply.github.com, matthew!newedgeengineering.com from 2018-05-01 until 2018-08-01
-	rhysjtevans: rhys!rhysevans.co.uk, rhysjtevans!users.noreply.github.com from 2020-05-01 until 2021-01-01
