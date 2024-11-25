@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+SovTech:
+	LukeMwila: LukeMwila!users.noreply.github.com from 2017-07-01 until 2019-05-01
+Sovcombank:
+	betula: mail!betula.co from 2015-08-01 until 2016-10-01
+Sovereign Systems:
+	chipzoller: chipzoller!users.noreply.github.com from 2015-05-01 until 2019-12-01
 Sovos:
 	LukePammant: LukePammant!users.noreply.github.com from 2017-12-01 until 2018-05-01
 	RomanPavelko: RomanPavelko!users.noreply.github.com from 2019-03-01 until 2022-01-01
@@ -2600,6 +2606,8 @@ StreamRail:
 StreamSets:
 	kunickiaj: adam!streamsets.com, kunickiaj!gmail.com, kunickiaj!users.noreply.github.com from 2015-02-01
 	streamnsight: streamnsight!users.noreply.github.com from 2019-07-01 until 2019-12-01
+StreamUnlimited:
+	adrianalin: adrianalin!users.noreply.github.com from 2015-02-01 until 2015-10-01
 StreamWeaver:
 	dpennell: dpennell!good-cloud.com, dpennell!users.noreply.github.com from 2017-08-01
 Streamax:
@@ -6427,6 +6435,8 @@ TaxSlayer:
 	mcdargh: mcdargh!users.noreply.github.com, mike!mcdargh.com, mike.loll!gmail.com from 2015-10-01
 Taxamo:
 	filip-zyzniewski: filip.zyzniewski!gmail.com from 2020-07-01
+Taxback:
+	PeterYordanov: peter.yordanov.dev!gmail.com from 2019-11-01 until 2021-05-01
 Taxfix:
 	cazorla19: cazorla19!users.noreply.github.com, michael.chinkov!gmail.com from 2019-12-01 until 2021-01-01
 	shuaibiyy: fahecs!gmail.com, jmello!hotmail.com.br, shuaibiyy!gmail.com, shuaibiyy!users.noreply.github.com, xumbik!gmail.com from 2020-10-01 until 2021-10-01
@@ -9748,6 +9758,8 @@ Thycotic:
 	maxsokolovsky: genexpr!protonmail.com from 2019-02-01 until 2021-08-01
 	mexanichp: mexanichp!users.noreply.github.com from 2021-09-01
 	sheldonhull: sheldonhull!users.noreply.github.com from 2021-03-01
+Thynk:
+	PeterYordanov: peter.yordanov.dev!gmail.com from 2021-05-01 until 2021-08-01
 ThyssenKrupp Steel Europe:
 	sparsick: sparsick!users.noreply.github.com from 2016-12-01 until 2017-09-01
 TiKV:
