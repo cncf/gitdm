@@ -2,6 +2,76 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+webfactory:
+	mpdude: mp!webfactory.de
+webgains:
+	victoru: github!victorunegbu.com, victor!unegbu.com, victoru!users.noreply.github.com
+webintPro:
+	impeham: impeham!users.noreply.github.com from 2017-01-01 until 2018-01-01
+webofmars EIRL:
+	fredleger: fredleger!users.noreply.github.com
+websight GmbH:
+	cedricziel: cedric!cedric-ziel.com, cedric.ziel!gmail.com, cedric.ziel!grafana.com, cedric.ziel!ibm.com, cedric.ziel!instana.com, cedricziel!users.noreply.github.com, mail!cedric-ziel.com from 2014-03-01 until 2017-04-01
+webtiser:
+	bygui86: bygui86!users.noreply.github.com from 2015-09-01 until 2016-11-01
+	paolocarta: ing.pcarta!gmail.com, paolocarta!users.noreply.github.com until 2017-02-01
+wecash:
+	ermazi: ermazi!users.noreply.github.com, troy.sdu!gmail.com
+	wsbmilk: wsbmilk!users.noreply.github.com
+wefindvenues:
+	ralphking: ralphking!gmail.com, ralphking!users.noreply.github.com until 2017-06-01
+wefox:
+	ByWefox: ByWefox!users.noreply.github.com from 2022-01-01
+weheartwebsites:
+	lifeofguenter: gunter!grodotzki.co.za, lifeofguenter!users.noreply.github.com until 2019-07-01
+wehkamp:
+	Philippus: Philippus!users.noreply.github.com, philippus!gmail.com from 2016-09-01
+	amolenaar: amolenaar!users.noreply.github.com, ericschlichting!gmail.com, gaphor!gmail.com from 2016-02-01 until 2018-02-01
+	idserda: jeroen.idserda!gmail.com from 2018-01-01
+wehyd:
+	geffzhang: geffzhang!users.noreply.github.com, geffzhang!weyhd.com
+weidian-inc:
+	xingcici: hf.xingci!gmail.com
+weinformatics:
+	weinformatics: weinformatics!users.noreply.github.com
+weixinhost:
+	leeeboo: leeeboo!users.noreply.github.com
+wejellyfish:
+	connor1989: connor1989!users.noreply.github.com, hoehn_connor!bah.com from 2016-07-01 until 2017-08-01
+wejo:
+	barrydobson: barrydobson!users.noreply.github.com from 2019-07-01 until 2020-07-01
+	hamza-tumturk: hamza-tumturk!users.noreply.github.com from 2019-03-01
+welevel:
+	choffmeister: choffmeister!users.noreply.github.com from 2017-10-01 until 2019-05-01
+wellcometrust:
+	alexchan: alex!alexwlchan.net, alex!silverprogram.com, alexchan!users.noreply.github.com
+	alexwlchan: a.chan!wellcome.ac.uk, alex!alexwlchan.net, alex.chan!metaswitch.com, alexwlchan!users.noreply.github.com
+weluse:
+	dennis-tra: dennis-tra!users.noreply.github.com from 2016-12-01 until 2018-01-01
+weme:
+	odelucca: delucca!pm.me, odelucca!users.noreply.github.com from 2017-06-01 until 2018-08-01, from 2020-10-01
+wf tech:
+	VerosK: VerosK!users.noreply.github.com from 2018-01-01
+whatchado:
+	mbertschler: mbertschler!gmail.com, mbertschler!users.noreply.github.com
+whatwedo:
+	xarem: ueli!whatwedo.ch
+white duck:
+	AndreasM009: AndreasM009!users.noreply.github.com, andreas.mock!live.com until 2016-10-01
+	StiviiK: 8115642+stiviik!users.noreply.github.com, StiviiK!users.noreply.github.com from 2018-09-01
+white duck GmbH:
+	nmeisenzahl: nmeisenzahl!users.noreply.github.com from 2019-10-01
+wikiwi:
+	cvle: cvl!winged.kiwi, cvle!users.noreply.github.com
+winchannel:
+	haohaifeng002: haohaifeng002!qq.com
+wisamar Bildungsgesellschaft:
+	alfanse: alex.ouzounis!solarwinds.com until 2014-12-01
+	asxalex: alex.ouzounis!solarwinds.com until 2014-12-01
+	damongant: alex.ouzounis!solarwinds.com until 2014-12-01
+	obitech: ajknipping!mailbox.org, alex.ouzounis!solarwinds.com, obitech!users.noreply.github.com until 2014-12-01
+wissenswerft GmbH:
+	bhurling: hurling83!gmail.com until 2015-10-01
 wit:
 	briankmatheson: bmath!mayadata.io, briankmatheson!users.noreply.github.com from 2019-04-01 until 2019-09-01
 wizard:
@@ -40,6 +110,7 @@ xAd:
 	HP-Nunes: HP-Nunes!users.noreply.github.com from 2015-02-01 until 2016-07-01
 xAd Inc.:
 	AdityaGupta1: AdityaGupta1!users.noreply.github.com, adityag!gmail.com from 2017-06-01 until 2017-07-01
+	karthik-kc: karthik.c!nutanix.com until 2015-01-01
 xCal:
 	kyakan: sicilia.cristian!gmail.com from 2018-06-01
 xFlow:
@@ -205,6 +276,7 @@ zwibe:
 	gecube: gb12335!gmail.com, gecube!users.noreply.github.com from 2023-12-21
 	kvaps: andrei.kvapil!aenix.io, andrei.kvapil!wedos.com, andrey.kvapil!flant.com, kvaps!users.noreply.github.com, kvapss!gmail.com from 2023-07-01
 École:
+	benedictflorance: benedictflorance!users.noreply.github.com, benedictflorance.a!gmail.com from 2019-05-01 until 2019-08-01
 	chnyda: chnyda!users.noreply.github.com from 2014-08-01 until 2015-06-01
 	jpambrun: jf.pambrun!gmail.com, jpambrun!users.noreply.github.com until 2014-12-01
 École Polytechnique de Montréal:
