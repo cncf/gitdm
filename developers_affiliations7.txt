@@ -5,6 +5,49 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+nixiaoming: nixiaoming!huawei.com
+	Huawei Technologies Co. Ltd
+nixpanic: ndevos!redhat.com, niels!nixpanic.net, nixpanic!users.noreply.github.com
+	Red Hat Inc. until 2023-11-01
+	International Business Machines Corporation from 2023-11-01
+nixprime: jamieliu!google.com
+	Google LLC
+nixward: nix.ward!gmail.com, nixward!users.noreply.github.com
+	Independent until 2014-07-01
+	LIFX from 2014-07-01 until 2014-11-01
+	Independent from 2014-11-01 until 2015-09-01
+	Setec from 2015-09-01
+niya3: il.nizamov!ya.ru, niya3!users.noreply.github.com
+	Independent until 2018-05-01
+	Positive Technologies from 2018-05-01
+nizamial09: nizamial09!users.noreply.github.com
+	Independent until 2019-09-01
+	Red Hat Inc. from 2019-09-01
+njablonski: nick.jablonski!dominodatalab.com, njablonski!users.noreply.github.com
+	Palantir until 2016-08-01
+	Google LLC from 2016-08-01 until 2017-04-01
+	HBO Inc. from 2017-04-01 until 2018-04-01
+	Domino Data Lab from 2018-04-01
+njayp: njayp!users.noreply.github.com
+	Independent until 2017-04-01
+	Everett Capital Advisors from 2017-04-01 until 2019-05-01
+	Thought Machine from 2019-05-01
+njegosrailic: njegosrailic!users.noreply.github.com, railic.njegos!gmail.com
+	Asseco until 2016-10-01
+	Wayfair from 2016-10-01
+njern: gmnicke!gmail.com, niclas!walkbase.com, njern!users.noreply.github.com
+	Walkbase
+njfix6: njfix6!users.noreply.github.com
+	Independent until 2015-06-01
+	Intuit Inc. from 2015-06-01 until 2015-08-01
+	Independent from 2015-08-01 until 2017-06-01
+	Intuit Inc. from 2017-06-01 until 2018-09-01
+	Lime from 2018-09-01 until 2020-07-01
+	Independent from 2020-07-01 until 2020-12-10
+	Correlated from 2020-12-10
+njhale: nhale!redhat.com, njhale!users.noreply.github.com
+	UPC until 2018-07-01
+	Red Hat Inc. from 2018-07-01
 njhill: nickhill!us.ibm.com, njhill!users.noreply.github.com
 	International Business Machines Corporation
 njiandan1255: njiandan1255!users.noreply.github.com
@@ -11984,8 +12027,8 @@ raja-sekhar-r: raja-sekhar-r!users.noreply.github.com
 rajaSahil: rajaSahil!users.noreply.github.com, sahil.raja!mayadata.io
 	Independent until 2018-08-01
 	HackerRank from 2018-08-01 until 2020-05-01
-	MayaData Inc. (f/k/a CloudByte Inc) from 2020-05-01 until 2024-10-31
-    Kubermatic GmbH from 2024-11-01
+	MayaData Inc. (f/k/a CloudByte Inc) from 2020-05-01 until 2024-11-01
+	Kubermatic GmbH from 2024-11-01
 rajagopalanand: rajagopalanand!users.noreply.github.com
 	Independent until 2021-04-01
 	AWS from 2021-04-01
@@ -17508,6 +17551,9 @@ rongou: rong.ou!gmail.com, rongou!users.noreply.github.com, rou!nvidia.com
 	NVIDIA Corporation
 rongrong: rongrong!users.noreply.github.com, rongrong100!gmail.com
 	Meta Platforms Inc.
+ronissac88: ronissac88!gmail.com
+	Independent until 2024-01-01
+	Kubermatic GmbH from 2024-01-01
 ronit1495: kumarronit1495!gmail.com, ronit1495!users.noreply.github.com
 	Independent until 2017-08-01
 	Wipro Limited from 2017-08-01 until 2019-07-01
@@ -22296,6 +22342,7 @@ schatekar: schatekar!users.noreply.github.com, suhas.chatekar!gmail.com
 schauerte: schauerte!users.noreply.github.com
 	Independent
 scheeles: scheele.s!web.de, scheeles!loodse.com, scheeles!users.noreply.github.com, sebastian!loodse.com
+	Independent until 2016-01-01
 	Kubermatic GmbH from 2016-01-01
 scheler: santosh.cheler!appdynamics.com, santosh.cheler!gmail.com, scheler!cisco.com, scheler!users.noreply.github.com
 	Independent until 2020-06-01
@@ -23758,50 +23805,3 @@ sergedonaldp: 10876571+sergedonaldp!users.noreply.github.com, sergedonaldp!users
 	SAP
 sergeevo: Oleg_Sergeev!epam.com, sergeevo!users.noreply.github.com
 	EPAM Systems Inc
-sergei-ivanov: sergei-ivanov!users.noreply.github.com, sergei_ivanov!mail.ru
-	Xolstice
-sergei-utinski: sergei-utinski!users.noreply.github.com
-	Hewlett
-sergejjevsejev-home24: sergejjevsejev-home24!users.noreply.github.com, sjevsejev!gmail.com
-	home24
-sergelogvinov: sergelogvinov!users.noreply.github.com
-	ivi.ru until 2015-08-01
-	Independent from 2015-08-01 until 2021-09-01
-	Cubios from 2021-09-01
-sergenyalcin: sergenyalcin!users.noreply.github.com
-	Independent until 2019-06-01
-	SAP from 2019-06-01 until 2021-10-01
-	Upbound from 2021-10-01
-sergeohl: sergeohl!users.noreply.github.com, sohl!coveo.com
-	Coveo
-sergey-koba-mobidev: sergey-koba-mobidev!users.noreply.github.com
-	MobiDev
-sergey-komarov: sergey-komarov!users.noreply.github.com
-	Oxagile until 2018-01-01
-	European Patent Office from 2018-01-01
-sergey-oplavin: oplavin.sergei!gmail.com, sergey-oplavin!users.noreply.github.com, sergey.oplavin!agiletestware.com
-	Reksoft until 2016-01-01
-	Agiletestware LLC from 2016-01-01
-sergey-senozhatsky: sergey.senozhatsky!gmail.com
-	Samsung Electronics Co. Ltd.
-sergey-shambir: sergey-shambir!users.noreply.github.com
-	Altoros until 2014-04-01
-	Independent from 2014-04-01
-sergey-telpuk: telpuk.sergey!gmail.com
-	Independent until 2015-04-01
-	Synesis from 2015-04-01 until 2016-09-01
-	Softarex from 2016-09-01 until 2018-06-01
-	Spiral Scout from 2018-06-01 until 2019-06-01
-	ITRex from 2019-06-01 until 2020-06-01
-	SugarCRM Inc. from 2020-06-01 until 2021-11-01
-	NewAge from 2021-11-01
-sergeyberezansky: sergeyberezansky!users.noreply.github.com
-	Infinidat until 2019-10-01
-	WEKA from 2019-10-01
-sergeybykov: sbykov!microsoft.com, sergeybykov!users.noreply.github.com
-	Microsoft Corporation until 2020-09-01
-	SDE from 2020-09-01
-sergeydeg: sergeydeg!users.noreply.github.com
-	ABC software
-sergeyevstifeev: sergey.evstifeev!gmail.com, sergey.evstifeev!klarna.com, sergeyevstifeev!users.noreply.github.com
-	Klarna

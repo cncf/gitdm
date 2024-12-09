@@ -5,6 +5,29 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+hinchliff: hinchliff!users.noreply.github.com
+	Independent until 2016-11-01
+	Renaissance Computing Institute from 2016-11-01 until 2017-12-01
+	Optiv Security Inc. from 2017-12-01
+hinlopen: hinlopen!users.noreply.github.com
+	Independent until 2020-09-01
+	Fudura from 2020-09-01
+hinshun: edgarl!netflix.com, hinshun!users.noreply.github.com
+	Docker Inc.
+hiondal: hiondal!gmail.com
+	International Business Machines Corporation
+hiragi-gkuth: hiragi-gkuth!users.noreply.github.com
+	Independent
+hiraro: traurig.orz!gmail.com
+	Independent until 2017-07-01
+	Taki Restaurant from 2017-07-01 until 2019-11-01
+	Hilton Garden from 2019-11-01
+hiroakis: hiroaki.sano.9stories!gmail.com, hiroakis!users.noreply.github.com
+	CyberAgent Inc. until 2014-10-01
+	Toreta from 2014-10-01 until 2017-10-01
+	Kanmu from 2017-10-01
+hiroakiy: hiroakiy!users.noreply.github.com
+	Fujitsu Limited
 hirokiky: hirokiky!gmail.com
 	BePROUD
 hirokuni-kitahara: hirokuni-kitahara!users.noreply.github.com
@@ -16243,6 +16266,9 @@ julio-castanar: julio-castanar!users.noreply.github.com, julio.castanarjaime!cen
 julio-lopez: julio!kasten.io, julio-lopez!users.noreply.github.com
 	Dell until 2016-12-01
 	Kasten Inc from 2016-12-01
+julioc-p: 14-10820!usb.ve
+	Independent until 2024-10-01
+	Kubermatic GmbH from 2024-10-01
 julioct: julioct!users.noreply.github.com
 	Microsoft Corporation
 julioo: julioo!users.noreply.github.com
@@ -21935,6 +21961,9 @@ kokosing: kokosing!users.noreply.github.com
 	Teradata from 2014-07-01 until 2017-08-01
 	Starburst Data from 2017-08-01 until 2019-01-01
 	Presto from 2019-01-01
+koksay: koray!kubermatic.com, koray.oksay!gmail.com
+	Independent until 2021-05-01
+	Kubermatic GmbH from 2021-05-01
 kolanos: kolanos!gmail.com, kolanos!users.noreply.github.com, mlavers!newrelic.com
 	Independent until 2017-07-01
 	IOpipe from 2017-07-01 until 2019-10-01
@@ -22842,8 +22871,9 @@ krol3: guillen.carolina!gmail.com, krol3!users.noreply.github.com
 	Elasticsearch Inc. from 2022-12-01
 krolson: krolson!microsoft.com
 	Microsoft Corporation
-kron4eg: kron4eg!users.noreply.github.com, kron82!gmail.com, artiom!hey.com, artiom!kubermatic.com
-    Kubermatic GmbH from 2018-03-01
+kron4eg: artiom!hey.com, artiom!kubermatic.com, kron4eg!users.noreply.github.com, kron82!gmail.com
+	Independent until 2018-03-01
+	Kubermatic GmbH from 2018-03-01
 kronin: kronin!users.noreply.github.com
 	Catholic Health Initiatives until 2016-09-01
 	AWS from 2016-09-01 until 2017-07-01
@@ -23755,34 +23785,3 @@ kwilczynski: krzysztof.wilczynski!linux.com, kw!linux.com, kwilczynski!users.nor
 	ARIAKE from 2019-11-01 until 2022-05-01
 	GitLab from 2022-05-01 until 2022-09-01
 	Red Hat Inc. from 2022-09-01
-kwinkel: github!kevinwinkel.de, kwinkel!users.noreply.github.com
-	OneHourTranslation until 2014-02-01
-	Dinerware from 2014-02-01 until 2019-11-01
-	Perx from 2019-11-01 until 2022-01-01
-	Acronis Inc. from 2022-01-01
-kwk: kkleine!redhat.com
-	McAfee LLC until 2016-05-01
-	Red Hat Inc. from 2016-05-01
-kwladyka: kwladyka!users.noreply.github.com
-	Independent until 2015-10-01
-	Retailic from 2015-10-01 until 2016-06-01
-	ETIN GROUP from 2016-06-01 until 2017-07-01
-	NowThis from 2017-07-01 until 2018-06-01
-	District0x from 2018-06-01 until 2018-12-01
-	Independent from 2018-12-01 until 2019-11-01
-	Getaroom Pty Ltd from 2019-11-01
-kwlockwo: kwlockwo!users.noreply.github.com
-	Amdocs until 2016-06-01
-	Independent from 2016-06-01 until 2016-08-01
-	Heroku from 2016-08-01 until 2022-08-01
-	Aiven from 2022-08-01
-kwlzn: kwlzn!users.noreply.github.com
-	Twitter Inc.
-kwmlodozeniec: kwmlodozeniec!users.noreply.github.com
-	Elekta until 2015-04-01
-	Paxton from 2015-04-01 until 2018-04-01
-	Gooee from 2018-04-01 until 2020-06-01
-	Torstone from 2020-06-01 until 2021-10-01
-	Geek Charge Limited from 2021-10-01
-kwmonroe: kevin.monroe!canonical.com, kwmonroe!users.noreply.github.com
-	Canonical Ltd.
