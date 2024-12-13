@@ -2,8 +2,6 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
-SourceViews:
-	kpdecker: kpdecker!gmail.com, kpdecker!users.noreply.github.com from 2015-08-01 until 2016-08-01
 Sourceability:
 	magikid: magikid!users.noreply.github.com from 2020-08-01
 Sourcebits:
@@ -11990,6 +11988,8 @@ Triller:
 	sethmccombs: sethelt!gmail.com, sethmccombs!users.noreply.github.com, sethpmccombs!gmail.com, smccombs!triller.co from 2019-02-01 until 2019-11-01
 Trilliant Health:
 	lancehudson: lance!lancehudson.com, lancehudson!users.noreply.github.com from 2017-12-01 until 2018-02-01
+Trillion Labs:
+	devholic: devholic!users.noreply.github.com, hoon!akuity.io, hoon!linecorp.com, hoon!rainist.com, me!akuity.io, me!devholic.io, sunghoon.kang!trillionlabs.co from 2024-12-02
 Trillium:
 	dnaka91: dnaka91!gmail.com from 2016-08-01 until 2019-02-01
 Trilogy:

@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Bask:
+	austin-engle: austin-engle!users.noreply.github.com from 2017-02-01 until 2017-10-01
 Basler AG:
 	StKlug: StKlug!users.noreply.github.com, stefan!123-edv.de
 	tkoeller: thomas.koeller!baslerweb.com
@@ -6523,8 +6525,6 @@ CNO Financial:
 	gvauter: gvauter!users.noreply.github.com until 2015-05-01
 CNP:
 	hmizael: hmizael!gmail.com, hmizael!users.noreply.github.com from 2022-06-01 until 2022-09-01
-CNP Assurances:
-	mmorel-35: matthieu.morel!cnp.fr, matthieu.morel35!gmail.com, mmorel-35!users.noreply.github.com from 2018-03-20
 CNP Rayan:
 	mostafa8026: mostafa8026!gmail.com, mostafa8026!users.noreply.github.com
 CNPq:

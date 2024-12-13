@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+webRidge:
+	RichardLindhout: RichardLindhout!users.noreply.github.com, richardlindhout96!gmail.com
 webfactory:
 	mpdude: mp!webfactory.de
 webgains:

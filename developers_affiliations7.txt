@@ -5,13 +5,6 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
-nimamahmoudi: nima.mahmoudi!ualberta.ca, nima_mahmoudi!live.com, nimamahmoudi!users.noreply.github.com
-	Independent until 2014-12-01
-	Signa from 2014-12-01 until 2015-06-01
-	Luxintech from 2015-06-01 until 2018-03-01
-	Independent from 2018-03-01 until 2020-01-01
-	Seneca from 2020-01-01 until 2021-09-01
-	Independent from 2021-09-01
 nimbinatus: dev!nimbinatus.com, nimbinatus!users.noreply.github.com
 	Independent until 2016-01-01
 	Rackspace from 2016-01-01 until 2019-08-01
@@ -23782,3 +23775,12 @@ sebastien-rosset: sebastien-rosset!users.noreply.github.com, serosset!cisco.com
 sebastienblanc: sebastienblanc!users.noreply.github.com
 	Red Hat Inc. until 2022-11-01
 	Aiven from 2022-11-01
+sebastienbuisson: sebastien.buisson!bull.net
+	Atos
+sebastienc: sebastien.coutu!gmail.com, sebastienc!users.noreply.github.com
+	mnubo
+sebastiendejou: sebastiendejou!users.noreply.github.com
+	Sogeti until 2017-08-01
+	Bouygues Teleco from 2017-08-01
+sebastienros: sebastien.ros!microsoft.com
+	Microsoft Corporation
