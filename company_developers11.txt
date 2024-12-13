@@ -2,6 +2,31 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Source Mage:
+	dkowis: dkowis!users.noreply.github.com until 2016-12-01
+	ismaell: ismael!iodev.co.uk, ismael!linux.com, ismael.luceno!corp.bluecherry.net, ismael.luceno!gmail.com until 2018-11-01
+	vaygr: scm!vaygr.net, vaygr!users.noreply.github.com from 2015-10-01
+SourceClear:
+	kickroot: jason!kickroot.com until 2018-04-01
+	malnick: malnick!gmail.com, malnick!users.noreply.github.com until 2015-12-01
+	mdaniel: md!stoi.cc, mdaniel!users.noreply.github.com
+	pdbogen: patrick!srcclr.com, pdbogen!users.noreply.github.com until 2016-12-01
+	sethmccombs: sethelt!gmail.com, sethmccombs!users.noreply.github.com, sethpmccombs!gmail.com, smccombs!triller.co from 2017-11-01 until 2018-04-01
+SourceField:
+	ericandrewmeadows: ericandrewmeadows!users.noreply.github.com from 2021-06-01
+SourceFuse:
+	Arpeet-gupta: Arpeet-gupta!users.noreply.github.com from 2021-03-01 until 2022-04-01
+	Buffer0x7cd: Buffer0x7cd!users.noreply.github.com, manvendra021997!gmail.com from 2018-06-01 until 2019-08-01
+SourceFuse ·:
+	sameerjoshinice: sameerjoshinice!users.noreply.github.com from 2021-04-01
+SourceHut:
+	ddevault: ddevault!users.noreply.github.com, sir!cmpwn.com
+SourceLair:
+	parisk: paris!sourcelair.com, parisk!users.noreply.github.com
+SourceSpy:
+	alexkarezin: alexkarezin!gmail.com from 2019-04-01
+SourceViews:
+	kpdecker: kpdecker!gmail.com, kpdecker!users.noreply.github.com from 2015-08-01 until 2016-08-01
 Sourceability:
 	magikid: magikid!users.noreply.github.com from 2020-08-01
 Sourcebits:
@@ -613,6 +638,8 @@ Spirit AI:
 	borancar: boran.car!gmail.com, borancar!users.noreply.github.com from 2018-10-01 until 2019-09-01
 Spirit AeroSystems:
 	pxp928: pxp928!users.noreply.github.com until 2015-09-01
+SpiritSwap:
+	rahulkumaran: rahul160562!mechyd.ac.in, rahuldravid313!gmail.com, rahulkumaran!users.noreply.github.com from 2021-05-01 until 2021-08-01
 Spirula Systems:
 	galal-hussein: hussein.galal.ahmed.11!gmail.com
 	moelsayed: m.elsayed!gmail.com, moelsayed!users.noreply.github.com until 2015-08-01
@@ -880,6 +907,8 @@ Spot by NetApp:
 Spot.io:
 	kmcgrath: kmcgrath!users.noreply.github.com from 2017-11-01
 	tsahiduek: roberto!gongora.mx, tsahiduek!gmail.com, tsahiduek!users.noreply.github.com from 2019-01-01 until 2020-08-01
+SpotDraft:
+	sanket0896: sanket0896!users.noreply.github.com from 2020-10-01
 SpotHopper:
 	MariusVolkhart: Marius!volkhart.com, MariusVolkhart!users.noreply.github.com from 2014-06-01 until 2014-11-01
 SpotMe:
@@ -2121,6 +2150,7 @@ Stealth:
 	unleashed: alex!flawedcode.org, unleashed!users.noreply.github.com from 2022-05-01 until 2024-02-01
 	vincentjorgensen: vincent!moveworks.ai, vincentjorgensen!users.noreply.github.com from 2017-10-01
 	virendrasuryavanshi: virendrasuryavanshi!users.noreply.github.com, vs9812!gmail.com from 2020-08-01
+	xagent003: xagent003!users.noreply.github.com from 2024-02-01
 	yabanci: yabanci!users.noreply.github.com from 2024-03-01 until 2024-06-01
 	zyxue: zyxue!users.noreply.github.com from 2019-03-01
 Stealth IoT Venture:
@@ -4776,6 +4806,7 @@ T-Systems:
 	snmohan83: snmohan83!users.noreply.github.com from 2021-01-01
 	stefanbethke: stefanbethke!users.noreply.github.com
 	vFondevilla: vFondevilla!users.noreply.github.com, victor.fondevilla!gmail.com from 2016-12-01 until 2019-09-01
+	vinayakbhat24: vinayakbhat24!users.noreply.github.com from 2017-05-01 until 2018-03-01, from 2018-05-01 until 2018-10-01
 	wonkarthik: wonkarthik!users.noreply.github.com from 2019-04-01
 T-Systems Iberia:
 	hecklawert: hecklawert!users.noreply.github.com from 2022-10-01
@@ -5728,6 +5759,8 @@ TableSafe:
 	bclouser: bclouser!users.noreply.github.com from 2016-06-01 until 2018-03-01
 Tablets:
 	ssubramanian123: ssubramanian123!users.noreply.github.com
+Tably:
+	whereistejas: whereistejas!users.noreply.github.com from 2021-10-01
 Tabner:
 	vmunishwar: vmunishwar!users.noreply.github.com until 2016-03-01
 Tabnine:
@@ -8785,6 +8818,7 @@ The Floow:
 The Foundry Visionmongers Limited:
 	henviso: henviso!users.noreply.github.com from 2024-03-01
 	owenhaynes: owenhaynes!users.noreply.github.com from 2014-10-01 until 2019-12-01
+	rahulkumaran: rahul160562!mechyd.ac.in, rahuldravid313!gmail.com, rahulkumaran!users.noreply.github.com from 2023-10-01
 The Free Company:
 	jqueuniet: jqueuniet!users.noreply.github.com from 2022-02-01
 	satyamz: satyam.zode!cloudbyte.com, satyam.zode!openebs.io, satyamz!users.noreply.github.com, satyamzode!gmail.com from 2015-03-01 until 2015-09-01
@@ -9157,6 +9191,7 @@ The Sparks Foundation:
 	ItsRoy69: ItsRoy69!users.noreply.github.com, jyotirmoyroy649!gmail.com from 2021-12-01 until 2022-03-01
 	NikhilSharma03: NikhilSharma03!users.noreply.github.com from 2021-01-01 until 2021-02-01
 	ShaakhaBrahma: ShaakhaBrahma!users.noreply.github.com from 2020-11-01 until 2020-12-01
+	Taranzz25: Taranzz25!users.noreply.github.com from 2021-08-01 until 2021-09-01
 	akashrajput25: akash250799!gmail.com from 2020-06-01
 	sharur7: sharur7!users.noreply.github.com, sharuraut7!gmail.com from 2020-09-01 until 2020-12-01
 The Stagwell:
@@ -15127,6 +15162,8 @@ V2Solutions:
 	sa-ny: sa-ny!users.noreply.github.com from 2017-10-01 until 2018-08-01
 V4Scale:
 	ilyakaznacheev: ilya!kaznacheev.me, ilyakaznacheev!users.noreply.github.com from 2021-08-01 until 2022-08-01
+V@C:
+	Taranzz25: Taranzz25!users.noreply.github.com from 2022-03-01 until 2022-06-01
 VA Linux:
 	fkakuma: kakuma!valinux.co.jp
 	minoura3: minoura!valinux.co.jp
