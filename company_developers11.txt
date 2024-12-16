@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Source Bridge:
+	lukaskalvenas: lukaskalvenas!users.noreply.github.com from 2020-07-01
+Source Capital:
+	m4ce: m4ce!users.noreply.github.com until 2015-04-01
 Source Mage:
 	dkowis: dkowis!users.noreply.github.com until 2016-12-01
 	ismaell: ismael!iodev.co.uk, ismael!linux.com, ismael.luceno!corp.bluecherry.net, ismael.luceno!gmail.com until 2018-11-01
@@ -3483,6 +3487,8 @@ Supergeo:
 	weihanglo: weihanglo!users.noreply.github.com from 2015-02-01 until 2015-08-01
 Supergrain:
 	lucasmarshall: lucasmarshall!users.noreply.github.com from 2021-04-01
+Superhouse:
+	hammadmashkoor: hammadmashkoor!users.noreply.github.com, mashkoor.hammad!gmail.com from 2019-06-01 until 2021-02-01
 Superhuman:
 	ConradIrwin: ConradIrwin!users.noreply.github.com, conrad.irwin!gmail.com from 2015-06-01
 Superior Mobile Medics:
@@ -11954,6 +11960,7 @@ Tribunal de Contas da União:
 	Matheusafonsouza: Matheusafonsouza!users.noreply.github.com, matheusafonsouza!gmail.com from 2020-11-01 until 2021-05-01
 	matgomes21: mateusgomes.nascimento21!gmail.com, matgomes21!users.noreply.github.com from 2021-05-01
 Tribunal de Justiça do Estado de Goiás:
+	juliohm1978: jhm!juliohm.com.br, juliohm1978!users.noreply.github.com
 	jvitor83: joao.carmo!tjmt.jus.br, jvitor83!users.noreply.github.com
 	paivagustavo: email!slonoed.net, guustavo.paiva!gmail.com, paivagustavo!users.noreply.github.com, tassionoronha!gmail.com from 2016-12-01 until 2018-08-01
 Tribunal de Justiça do Estado de Minas Gerais:

@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Bash:
+	BenV: vinsonb!gmail.com from 2020-06-01 until 2021-08-01
 Basho:
 	BrianMMcClain: BrianMMcClain!users.noreply.github.com, brianmmcclain!gmail.com from 2015-03-01 until 2017-04-01
 	aggress: aggress!users.noreply.github.com, richard!aggress.net until 2014-02-15
@@ -1660,6 +1662,7 @@ Bitmain:
 Bitmaker.la:
 	eLRuLL: raul.ogh!gmail.com from 2016-09-01
 Bitmovin:
+	DanielSmrecnik: DanielSmrecnik!users.noreply.github.com, daniel.smrecnik!gmail.com from 2020-07-01 until 2020-08-01, from 2021-07-01 until 2021-08-01
 	michael-riha: michael-riha!users.noreply.github.com from 2018-10-01 until 2020-06-01
 Bitnami Inc.:
 	Angelmmiguel: angel!bitnami.com from 2016-05-01 until 2019-05-01
@@ -13110,6 +13113,8 @@ Cloudstorm (Virtual Solutions Kft.):
 	reegnz: reegnz!users.noreply.github.com, zoltan.reegn!gmail.com from 2019-01-01 until 2020-02-01
 Cloudstorm RPA:
 	csreegn: csreegn!users.noreply.github.com from 2019-01-01 until 2020-02-01
+Cloudtype:
+	ggingmin: ggingmin!gmail.com, ggingmin!users.noreply.github.com from 2022-07-01
 Cloudurable:
 	scottf: scottf!users.noreply.github.com from 2017-02-01 until 2021-01-01
 Cloudwall Capital:

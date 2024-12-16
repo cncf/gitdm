@@ -5,6 +5,61 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+sdouche: sdouche!users.noreply.github.com
+	SecurActive until 2014-06-01
+	Automobile Comercio De Pecas Ltda from 2014-06-01 until 2015-02-01
+	Leboncoin from 2015-02-01 until 2017-04-01
+	Stanley Robotics from 2017-04-01 until 2018-09-01
+	Kpler from 2018-09-01
+sdowell: sdowell!google.com, sdowell!users.noreply.github.com
+	Google LLC
+sdpeters: scott.d.peterson!intel.com
+	Intel Corporation
+sdputurn: sdp.uturn!gmail.com, sdputurn!users.noreply.github.com
+	Tata until 2015-09-01
+	Cisco from 2015-09-01 until 2016-09-01
+	HCL Technologies Ltd. from 2016-09-01 until 2017-10-01
+	International Business Machines Corporation from 2017-10-01 until 2019-06-01
+	SAP from 2019-06-01
+sdrik: sdrik!users.noreply.github.com
+	Meta4 until 2020-03-01
+	Divalto from 2020-03-01
+sdrss: sdrss!users.noreply.github.com, socrates.sidereas!gmail.com
+	Upstream
+sds: sds!users.noreply.github.com
+	Brigade until 2016-12-01
+	Coinbase Inc. from 2016-12-01
+sds-ethan: sds-ethan!users.noreply.github.com, seunghoon.ha!samsung.com
+	Samsung SDS
+sdsen: sayandes!in.ibm.com
+	International Business Machines Corporation
+sdudoladov: sdudoladov!users.noreply.github.com
+	Independent until 2016-07-01
+	Microsoft Corporation from 2016-07-01 until 2016-09-01
+	Apache from 2016-09-01 until 2017-10-01
+	Zalando SE from 2017-10-01
+sduranc: sduranc!users.noreply.github.com
+	LATAM Airlines until 2016-04-01
+	Independent from 2016-04-01 until 2017-11-01
+	Sixty AS from 2017-11-01 until 2020-08-01
+	Cognite from 2020-08-01
+sdurrheimer: s.durrheimer!gmail.com, sdurrheimer!users.noreply.github.com
+	Netapsys until 2018-11-01
+	Cycloid from 2018-11-01
+sduskis: sduskis!google.com, sduskis!users.noreply.github.com, todd.persen!gmail.com
+	Google LLC
+sdwilsh: sdwilsh!users.noreply.github.com
+	Meta Platforms Inc.
+se-jaeger: message!sebastian-jaeger.me
+	Independent until 2017-08-01
+	inovex GmbH from 2017-08-01 until 2020-02-01
+	Independent from 2020-02-01
+seabaylea: baileyc!uk.ibm.com, seabaylea!users.noreply.github.com
+	International Business Machines Corporation
+seamounts: 15010828953!163.com, seamounts!users.noreply.github.com
+	NetEase Inc
+sean-: sean!chittenden.org, sean-!users.noreply.github.com
+	HashiCorp Inc
 sean-jc: sean.j.christopherson!intel.com
 	Intel Corporation
 sean-mcgimpsey: sean-mcgimpsey!users.noreply.github.com
@@ -23907,55 +23962,3 @@ vskubriev: vskubriev!users.noreply.github.com
 	Proml
 vslapik: vslapik!gmail.com, vslapik!users.noreply.github.com
 	EPAM Systems Inc
-vslepakov: vslepakov!users.noreply.github.com
-	Zühlke until 2018-03-01
-	Microsoft Corporation from 2018-03-01
-vslinko: vslinko!yahoo.com, vyacheslav.slinko!gmail.com
-	360D Interactive Agency until 2015-04-01
-	Paintboller from 2015-04-01 until 2016-02-01
-	CIAN Group from 2016-02-01
-vsliouniaev: v.sliouniaev!gmail.com, vasily.sliouniaev!jet.com, vsliouniaev!users.noreply.github.com
-	Greenfinch until 2018-02-01
-	Jetcom Communications Inc. from 2018-02-01 until 2019-06-01
-	Walmart Inc. from 2019-06-01
-vsn4ik: vsn4ik!gmail.com, vsn4ik!users.noreply.github.com, vsn4ik!yandex.ru
-	Independent until 2015-02-01
-	BBDO GROUP from 2015-02-01 until 2015-04-01
-	PROGREDIS from 2015-04-01 until 2016-02-01
-	AVITO from 2016-02-01
-vsoch: vsoch!users.noreply.github.com, vsochat!stanford.edu
-	Independent
-vsrinivas: venkateshs!google.com, vsrinivas!ops101.org
-	Google LLC
-vss96: shettyvikas209!gmail.com, vss96!users.noreply.github.com
-	Independent until 2016-06-01
-	L&T Infotech from 2016-06-01 until 2016-07-01
-	Independent from 2016-07-01 until 2018-07-01
-	Temenos Group USA from 2018-07-01 until 2019-04-01
-	Sahaj from 2019-04-01
-vstehle: v-stehle!ti.com, vincent.stehle!freescale.com, vincent.stehle!laposte.net
-	NXP Semiconductors Netherlands B.V. until 2015-10-01
-	Intel Corporation from 2015-10-01 until 2017-03-01
-	ARM from 2017-03-01
-vstinner: victor.stinner!gmail.com, vstinner!python.org
-	Red Hat Inc.
-vstinner: vstinner!redhat.com
-	eNovance until 2014-06-24
-	Red Hat Inc. from 2014-06-24
-vstrimaitis: vstrimaitis!users.noreply.github.com
-	Independent until 2016-06-01
-	Bentley Motors Limited from 2016-06-01 until 2016-09-01
-	Independent from 2016-09-01 until 2017-07-01
-	Cognizant Technology Solutions from 2017-07-01 until 2020-03-01
-	Vinted from 2020-03-01
-vsundupey: vsundupey!users.noreply.github.com
-	ООО «Центр ИКТ» until 2016-02-01
-	Telematics-One from 2016-02-01 until 2017-08-01
-	Upwork Global Inc. from 2017-08-01 until 2018-04-01
-	Akvelon from 2018-04-01
-vsxen: vnexusk!gmail.com, vsxen!users.noreply.github.com
-	(Robots)
-vsyrjala: ville.syrjala!linux.intel.com
-	Intel Corporation
-vszakats: commit!vszakats.net, vszakats!users.noreply.github.com
-	Syenar Informatikai Kft.
