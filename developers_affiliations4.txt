@@ -1732,6 +1732,8 @@ devnulled: devnulled!users.noreply.github.com
 	Red Canary Inc from 2019-11-01 until 2020-01-01
 	Independent from 2020-01-01 until 2020-03-01
 	Alteryx from 2020-03-01
+devodev: devodev!users.noreply.github.com, abarone!cisco.com
+    Cisco
 devoid: devoid!users.noreply.github.com, sdevoid!gmail.com
 	Google LLC
 devongovett: devongovett!gmail.com, devongovett!users.noreply.github.com
