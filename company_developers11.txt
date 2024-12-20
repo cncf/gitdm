@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Source Auditor Inc.:
+	goneall: gary!sourceauditor.com, goneall!users.noreply.github.com
+Source BioScience:
+	ducksecops: ducksecops!users.noreply.github.com from 2015-05-01 until 2016-10-01
 Source Bridge:
 	lukaskalvenas: lukaskalvenas!users.noreply.github.com from 2020-07-01
 Source Capital:
@@ -3928,7 +3932,6 @@ Swisscom:
 	harmjanblok: harm-jan.blok!swisscom.com, harmjanblok!users.noreply.github.com
 	henrybear327: henrybear327!users.noreply.github.com from 2024-01-01
 	jyotishsre36: jyotishsre36!users.noreply.github.com from 2022-08-01
-	karampok: karampok!users.noreply.github.com, konstantinos.karampogias!swisscom.com until 2019-09-01
 	m4ce: m4ce!users.noreply.github.com from 2015-04-01 until 2016-04-01
 	marcelnem: marcelnem!users.noreply.github.com from 2017-01-01
 	mastertinner: mastertinner!users.noreply.github.com, tobias.fuhrimann!gmail.com
@@ -3949,6 +3952,8 @@ Swisscom:
 	vegasbrianc: brian.christner!gmail.com, vegasbrianc!users.noreply.github.com from 2016-01-01 until 2017-09-01
 Swisscom Blockchain:
 	ironoa: alessio.onori!gmail.com from 2018-06-01 until 2020-07-01
+Swisscomi:
+	karampok: karampok!gmail.com, karampok!users.noreply.github.com, kkarampo!redhat.com, konstantinos.karampogias!swisscom.com until 2019-09-01
 Swisslex:
 	phin1x: phin1x!users.noreply.github.com from 2014-12-01 until 2016-01-01
 Swisslife:
