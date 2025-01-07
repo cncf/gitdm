@@ -2,8 +2,6 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
-SortolNG:
-	Adesoji1: adesoji.alu!gmail.com from 2020-12-01 until 2021-01-01
 Sose:
 	connor-mccarthy: connor-mccarthy!users.noreply.github.com, mccarthy.connor.james!gmail.com from 2020-10-01 until 2021-08-01
 Sosh:
@@ -4709,6 +4707,7 @@ Sysdig Inc.:
 	davideschiera: davide.schiera!gmail.com, davideschiera!users.noreply.github.com
 	deepskyblue86: deepskyblue86!users.noreply.github.com from 2021-05-01
 	dmitsh: dmitry.shmulevich!sysdig.com, dmitsh!users.noreply.github.com from 2019-04-01
+	edsoncelio: edsoncelio!users.noreply.github.com from 2024-12-01
 	ewilderj: ewilderj!users.noreply.github.com from 2022-05-01
 	federico-sysdig: federico-sysdig!users.noreply.github.com from 2022-01-01
 	fntlnz: fntlnz!users.noreply.github.com, fontanalorenz!gmail.com, lo!linux.com from 2019-04-01 until 2021-05-01
@@ -6174,7 +6173,7 @@ Talkpush:
 	rcclemente: rcclemente!users.noreply.github.com from 2020-07-01 until 2022-08-01
 Taller:
 	danilopo: danilopo!users.noreply.github.com from 2022-01-01 until 2023-01-01
-	edsoncelio: edsoncelio!users.noreply.github.com from 2022-05-01 until 2023-03-01
+	edsoncelio: edsoncelio!users.noreply.github.com from 2022-05-01 until 2023-03-01, from 2024-07-01 until 2024-12-01
 Tally:
 	EleanorRigby: EleanorRigby!users.noreply.github.com, taggarwal!vmware.com until 2014-03-01
 	akashjain971: akashjain971!gmail.com, akashjain971!users.noreply.github.com from 2017-07-01 until 2020-03-01
