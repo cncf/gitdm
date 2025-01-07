@@ -5,6 +5,13 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+armsnyder: armsnyder!users.noreply.github.com
+	NUAMPS until 2015-06-01
+	Independent from 2015-06-01 until 2016-06-01
+	Electronic Arts Inc. from 2016-06-01
+armstrmi: armstrmi!users.noreply.github.com
+	Independent until 2022-01-19
+	observIQ from 2022-01-19
 armstrongli: armstrongli!users.noreply.github.com
 	eBay Inc.
 armstrongnate: armstrongnate!users.noreply.github.com, narmstrong!instructure.com, natearmstrong2!gmail.com
@@ -23683,10 +23690,3 @@ dawud: david.sastre!redhat.com
 	Red Hat Inc. from 2017-11-01
 daxian-dbw: daxian-dbw!users.noreply.github.com, dongbow!microsoft.com
 	Microsoft Corporation
-daxmc99: dax!rancher.com, daxmc99!users.noreply.github.com
-	Independent until 2017-05-01
-	Intel Corporation from 2017-05-01 until 2018-05-01
-	ARM from 2018-05-01 until 2018-08-01
-	Independent from 2018-08-01 until 2019-01-01
-	Rancher Labs Inc. from 2019-01-01 until 2020-05-01
-	Sourcegraph Inc from 2020-05-01
