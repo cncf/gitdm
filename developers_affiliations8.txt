@@ -5,6 +5,20 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+sauercrowd: bugs!sauercrowdlabs.xyz, sauercrowd!users.noreply.github.com
+	Independent until 2016-04-01
+	E.ON Energy Research from 2016-04-01 until 2018-03-01
+	Bosch from 2018-03-01 until 2018-07-01
+	Independent from 2018-07-01 until 2018-10-01
+	Bloomberg from 2018-10-01 until 2019-07-01
+	Independent from 2019-07-01 until 2019-10-01
+	MachineMax from 2019-10-01 until 2020-03-01
+	Independent from 2020-03-01 until 2020-06-01
+	Cloudflare Inc from 2020-06-01 until 2020-09-01
+	Palantir from 2020-09-01
+saul: saul!users.noreply.github.com
+	G-Research
+	G-Research from 2100-01-01
 saul-data: saul-data!users.noreply.github.com
 	RBS until 2015-07-01
 	Yaypay from 2015-07-01 until 2016-03-01
@@ -938,10 +952,10 @@ scottrigby: scott!r6by.com, scott!weave.works, scottrigby!users.noreply.github.c
 	Codecademy from 2018-12-01 until 2020-05-31
 	Independent from 2020-05-31 until 2020-09-07
 	Weaveworks Inc. from 2020-09-07 until 2023-01-01
-	Independent 2023-01-01 until 2024-05-14
-	Navteca from 2024-05-15 until 2024-12-15
-	Independent from 2024-12-15 until 2024-01-06
-	Replicated from 2024-01-06
+	Independent from 2023-01-01 until 2024-05-14
+	Navteca from 2024-05-14 until 2024-12-15
+	Independent from 2024-12-15 until 2025-01-06
+	Replicated Inc. from 2025-01-06
 scottrobertson: scottrobertson!users.noreply.github.com
 	romhut.com until 2018-08-01
 	Baremetrics from 2018-08-01 until 2018-10-01
@@ -23926,20 +23940,3 @@ virdb: virdb!users.noreply.github.com
 	SATA from 2019-02-01 until 2020-10-01
 	Ferrari from 2020-10-01 until 2023-06-01
 	Vcube from 2023-06-01
-virendrasuryavanshi: virendrasuryavanshi!users.noreply.github.com, vs9812!gmail.com
-	Independent until 2018-10-01
-	Google LLC from 2018-10-01 until 2018-12-01
-	Siemens AG from 2018-12-01 until 2019-02-01
-	Independent from 2019-02-01 until 2019-07-01
-	CNCF from 2019-07-01 until 2019-11-01
-	Independent from 2019-11-01 until 2020-05-01
-	Google LLC from 2020-05-01 until 2020-08-01
-	Stealth from 2020-08-01
-vireshk: viresh.kumar!linaro.org, viresh.linux!gmail.com
-	Linaro Limited
-virgoaugustine: virgoaugustine!gmail.com, virgoaugustine!users.noreply.github.com
-	Independent until 2021-06-01
-	InfoView from 2021-06-01 until 2021-07-01
-	Independent from 2021-07-01 until 2021-09-01
-	Datopian from 2021-09-01 until 2022-05-01
-	Goldman Sachs & Co. LLC from 2022-05-01
