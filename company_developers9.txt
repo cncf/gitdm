@@ -2,6 +2,20 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+OUTFITTERY:
+	avkonst: andrey.chernishov!gmail.com, avkonst!users.noreply.github.com
+	bobelev: andrey.chernishov!gmail.com, bobelev!users.noreply.github.com
+	divanikus: andrey.chernishov!gmail.com, divanikus!users.noreply.github.com
+	gimlet2: andrey.chernishov!gmail.com, gimlet2!users.noreply.github.com
+	pewpewp3w: andrey.chernishov!gmail.com, iamawesome.ndr!gmail.com, pewpewp3w!users.noreply.github.com
+	sharkyfm: andrey.chernishov!gmail.com, sharkyfm!users.noreply.github.com
+	wizard580: wizard580!users.noreply.github.com from 2016-02-01 until 2019-08-01
+OUTSCALE:
+	RomLecat: romain!lecat.pro from 2017-09-01
+OUTsurance:
+	gvanderberg: gareth.shaun!gmail.com
+OVB Allfinanz España:
+	meskio: clarkbaker!gmail.com, meskio!sindominio.net from 2014-12-01 until 2015-12-01
 OVH:
 	FlorentATo: FlorentATo!users.noreply.github.com from 2016-10-01 until 2019-03-01
 	VFourneau: VFourneau!users.noreply.github.com, victor!justadevops.com from 2017-08-01 until 2018-10-01

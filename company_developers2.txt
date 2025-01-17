@@ -2591,6 +2591,7 @@ Bloomberg:
 	jennybuckley: jennybuckley!google.com, jennybuckley!users.noreply.github.com, miguel.rincon86!gmail.com from 2016-05-01 until 2016-08-01
 	jffrose: jffrose!gmail.com until 2022-03-01
 	johnbellone: jbellone!bloomberg.net, john.bellone.jr!gmail.com, johnbellone!users.noreply.github.com until 2018-11-01
+	justaugustus: augustus!heptio.com, foo!agst.us, foo!auggie.dev, justaugustus!users.noreply.github.com, saugustus!vmware.com from 2025-01-12
 	kelaban: kelaban!users.noreply.github.com
 	kpfleming: kpfleming!bloomberg.net
 	krispraws: krispraws!users.noreply.github.com until 2016-06-01
@@ -6444,7 +6445,7 @@ CNCF:
 	Affan-7: Affan-7!users.noreply.github.com from 2023-09-01 until 2023-11-01
 	AmitVishwash: AmitVishwash!users.noreply.github.com from 2017-05-01 until 2017-09-01
 	AnirudhMurali: AnirudhMurali!users.noreply.github.com, m.anirudh18!gmail.com from 2018-02-01 until 2018-08-01
-	ArthurSens: ArthurSens!users.noreply.github.com, arthursens2005!gmail.com from 2020-06-01 until 2020-08-01
+	ArthurSens: ArthurSens!users.noreply.github.com, arthur.silvasens!grafana.com, arthursens2005!gmail.com from 2020-06-01 until 2020-08-01
 	AswinTimalsina: AswinTimalsina!users.noreply.github.com from 2021-03-01
 	AverageMarcus: AverageMarcus!users.noreply.github.com, marcus!giantswarm.io from 2023-10-01
 	BillMills: BillMills!users.noreply.github.com from 2020-10-01 until 2022-02-01
@@ -9772,7 +9773,7 @@ Chainguard Inc.:
 	mattmoor-sockpuppet: 32418083+mattmoor-sockpuppet!users.noreply.github.com, mattmoor+sockpuppet!google.com from 2021-10-01
 	n3wscott: 32305648+n3wscott!users.noreply.github.com, n3wscott!chainguard.dev, n3wscott!users.noreply.github.com, nicholss!google.com from 2021-10-01 until 2022-08-01
 	puerco: puerco!chainguard.dev, puerco!users.noreply.github.com from 2021-12-31
-	stormqueen1990: 698465+stormqueen1990!users.noreply.github.com, mauren.berti!chainguard.dev, mauren.berti!suse.com, mribeirobert!vmware.com, stormqueen1990!gmail.com, stormqueen1990!users.noreply.github.com from 2023-07-31
+	stormqueen1990: 698465+stormqueen1990!users.noreply.github.com, mauren.berti!chainguard.dev, mauren.berti!suse.com, mribeirobert!vmware.com, stormqueen1990!gmail.com, stormqueen1990!users.noreply.github.com from 2023-08-01 until 2024-07-26
 	tstromberg: t+github!stromberg.org, tstromberg!google.com, tstromberg!users.noreply.github.com from 2021-12-31
 	vaikas: vaikas!gmail.com, vaikas!google.com, vaikas!users.noreply.github.com, vaikas!vmware.com, vaikas-google!users.noreply.github.com from 2021-10-01
 	vaikas-google: vaikas!chainguard.dev, vaikas!gmail.com, vaikas!google.com, vaikas!vmware.com, vaikas-google!users.noreply.github.com from 2021-10-01
@@ -11254,7 +11255,7 @@ Cisco:
 	jswager: jswager!alohaoi.com
 	jtnord: jnord!cloudbees.com, jnord+github!cloudbees.com, jtnord!users.noreply.github.com, teilo!teilo.net, teilo+github!teilo.net until 2014-12-01
 	juliusmh: juliusmh!web.de from 2023-10-01
-	justaugustus: augustus!heptio.com, foo!agst.us, foo!auggie.dev, justaugustus!users.noreply.github.com, saugustus!vmware.com from 2021-04-16
+	justaugustus: augustus!heptio.com, foo!agst.us, foo!auggie.dev, justaugustus!users.noreply.github.com, saugustus!vmware.com from 2021-04-16 until 2024-11-15
 	justice3120: masayoshi.sakamoto!dena.com, masayoshi.sakamoto!dena.jp, sakamoto3120!gmail.com
 	justinschw: justinmschw!gmail.com until 2020-03-01
 	jwstric2: jonatstr!cisco.com, jwstric2!gmail.com
@@ -15923,8 +15924,3 @@ Consentio:
 	jecepeda: jecepeda!users.noreply.github.com from 2019-02-01 until 2022-07-01
 	jsilvela: jaime.silvela!mailfence.com, jsilvela!users.noreply.github.com from 2018-11-01 until 2021-09-01
 	t00mas: t00mas!users.noreply.github.com from 2023-01-01 until 2023-10-01
-Conserto:
-	Wihrt: Wihrt!users.noreply.github.com, arnaud.hatzenbuhler!gmail.com from 2021-01-01
-	mploquin: mickael.ploquin!macif.fr until 2015-03-01
-Conservis:
-	EvgeniGordeev: EvgeniGordeev!users.noreply.github.com from 2017-06-01

@@ -5,6 +5,44 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+kopparam: kashyapk!thoughtworks.com, kopparam!users.noreply.github.com
+	ThoughtWorks Inc
+kopper: aczepil!atlassian.com, kopper!users.noreply.github.com, koppernickus!gmail.com
+	Atlassian
+koraykutanoglu: koraykutanoglu!users.noreply.github.com
+	Independent until 2018-01-01
+	Aksa Elektrik from 2018-01-01 until 2018-06-01
+	Independent from 2018-06-01 until 2020-03-01
+	Hosting from 2020-03-01 until 2021-12-01
+	Entegra Bilişim from 2021-12-01
+korfuri: korfuri!users.noreply.github.com, uriel!corfa.fr
+	Google LLC
+korjavin: korjavin!gmail.com, korjavin!users.noreply.github.com
+	Thales until 2021-09-01
+	Mercedes-Benz AG from 2021-09-01
+korjek: korjek!users.noreply.github.com
+	Ukrlandfarming until 2015-12-01
+	KSTT from 2015-12-01 until 2016-08-01
+	Samsung Electronics Co. Ltd. from 2016-08-01 until 2017-02-01
+	MELEXIS from 2017-02-01 until 2019-07-01
+	Tubular from 2019-07-01
+kormat: kormat!gmail.com, kormat!users.noreply.github.com
+	Robert Half International until 2016-01-01
+	Hays Specialist Recruitment LLC from 2016-01-01 until 2018-01-01
+	The Syfter Group LLC from 2018-01-01 until 2019-12-01
+	Advice Personnel Inc. from 2019-12-01
+kornesh: kornesh!users.noreply.github.com
+	Microsoft Corporation until 2015-07-01
+	Exoot from 2015-07-01 until 2018-01-01
+	ServiceRocket from 2018-01-01
+kornholi: kornholi!users.noreply.github.com
+	Independent until 2017-09-01
+	UAB ELIGITA from 2017-09-01 until 2021-12-01
+	AvatroMB from 2021-12-01
+korniltsev: anatoly.korniltsev!grafana.com, korniltsev!users.noreply.github.com, korniltsev.anatoly!gmail.com
+	Grafana Labs
+kornys: kornys!outlook.com, kornys!users.noreply.github.com
+	Red Hat Inc.
 korovkin: korovkin!gmail.com, korovkin!users.noreply.github.com
 	Meta Platforms Inc. until 2015-08-01
 	Slack Technologies Inc. from 2015-08-01 until 2016-08-01
@@ -432,7 +470,7 @@ krimeshshah: krimeshshah!users.noreply.github.com
 	Bristlecone until 2016-12-01
 	Amadeus from 2016-12-01 until 2017-11-01
 	linkedin from 2017-11-01
-krinkinmu: krinkinmu!users.noreply.github.com, krinkin.m.u!gmail.com, krinkin!google.com, mkrinkin!microsoft.com, mikhail.krinkin!microsoft.com
+krinkinmu: krinkin!google.com, krinkin.m.u!gmail.com, krinkinmu!users.noreply.github.com, mikhail.krinkin!microsoft.com, mkrinkin!microsoft.com
 	Independent until 2017-07-01
 	Google LLC from 2017-07-01 until 2024-05-01
 	Independent from 2024-05-01 until 2024-09-01
@@ -9860,8 +9898,10 @@ marcrohlfs: Marc.Rohlfs!coremedia.com, marc.rohlfs!t-systems.com, pomarize!gmail
 	Silpion until 2016-03-01
 	T-Systems from 2016-03-01 until 2018-07-01
 	CoreMedia GmbH from 2018-07-01
-marcsanmi: 8235696+marcsanmi!users.noreply.github.com, marc.sanmiquel!grafana.com
-	New Relic Inc from 2022-03-01 until 2024-07-30
+marcsanmi: 8235696+marcsanmi!users.noreply.github.com, marc.sanmiquel!grafana.com, msanmiquel!newrelic.com
+	Independent until 2022-03-01
+	New Relic Inc. from 2022-03-01 until 2024-07-30
+	Independent from 2024-07-30 until 2024-08-06
 	Grafana Labs from 2024-08-06
 marcstreeter: marcstreeter!users.noreply.github.com, mstreeter!gmail.com
 	LogicalisLogicalis
@@ -23765,48 +23805,3 @@ netdpb: dpb!google.com, netdpb!users.noreply.github.com
 netflash: alex!strataconsulting.com, netflash!users.noreply.github.com
 	Latera until 2017-08-01
 	Strata Consulting from 2017-08-01
-netgenius18: netgenius18!users.noreply.github.com, wuheng!otcaix.iscas.ac.cn
-	Institute of Software Chinese Academy of Science
-netguino: markitoxs!gmail.com, netguino!users.noreply.github.com
-	RightScale until 2017-11-01
-	Independent from 2017-11-01 until 2018-01-01
-	AppFolio from 2018-01-01
-netikras: netikras!users.noreply.github.com
-	Barclays until 2016-09-01
-	Nortal from 2016-09-01
-netjordan: github!jc.me.uk
-	PrintScene until 2014-05-01
-	Gyron Internet from 2014-05-01 until 2017-07-01
-	Unspecified from 2017-07-01
-netmonk: netmonk!netmonk.org, netmonk!users.noreply.github.com, yvbenitah!gmail.com
-	NetMonk Creative Media
-netomi: netomi!users.noreply.github.com, tn!apache.org
-	Airtopsoft SA until 2015-09-01
-	Guardsquare from 2015-09-01
-netoptimizer: brouer!redhat.com, netoptimizer!brouer.com, netoptimizer!users.noreply.github.com, netoptimizer-rm-this!brouer.com
-	Red Hat Inc.
-netroby: hufeng1987!gmail.com, huzhifeng!douyu.tv, netroby!users.noreply.github.com
-	Netroby
-netvolart: netvolart!users.noreply.github.com
-	IA Konti until 2014-09-01
-	Raiffeisen Bank Aval from 2014-09-01 until 2015-07-01
-	SoftServe from 2015-07-01 until 2016-09-01
-	MobiChord from 2016-09-01 until 2017-11-01
-	DMarket from 2017-11-01 until 2018-10-01
-	SoftServe from 2018-10-01 until 2021-09-01
-	Materialise from 2021-09-01 until 2022-02-01
-	Profisea from 2022-02-01 until 2023-03-01
-	TEMABIT from 2023-03-01
-netwarex: netwarex!users.noreply.github.com
-	VirtualPro Kft until 2018-12-01
-	Independent from 2018-12-01 until 2020-11-01
-	Gentics from 2020-11-01 until 2021-04-01
-	ioflair from 2021-04-01
-network-charles: network-charles!users.noreply.github.com
-	Independent until 2021-03-01
-	Fiam WiFi from 2021-03-01 until 2021-06-01
-	Independent from 2021-06-01 until 2024-03-01
-	TechTarget from 2024-03-01 until 2024-04-01
-	Wikimedia from 2024-04-01
-networkhermit: dot.fun!protonmail.com, networkhermit!users.noreply.github.com
-	Independent

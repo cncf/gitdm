@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+FathomDB:
+	justinsb: justin!fathomdb.com, justinsb!google.com, justinsb!users.noreply.github.com until 2014-01-01
+Fatima:
+	armujahid: abdulraufmujahid!gmail.com, armujahid!users.noreply.github.com from 2014-09-01 until 2014-10-01
 Fatse:
 	LeoColomb: LeoColomb!users.noreply.github.com, git!colombaro.fr from 2017-06-01 until 2017-07-01
 Fatshark AB:
@@ -4848,6 +4852,7 @@ Genesys | Interactive Intelligence:
 	wesmcouch: wes.couch!blackboard.com, wesmcouch!gmail.com, wesmcouch!users.noreply.github.com until 2016-10-01
 Genetec:
 	MaxThom: MaxThom!users.noreply.github.com, maxthomassin!hotmail.com from 2017-05-01 until 2017-09-01
+	agaudreault: agaudreault!users.noreply.github.com, alexandre.gaudreault!goto.com, alexandre.gaudreault!logmein.com, alexandre_gaudreault!intuit.com from 2015-05-01 until 2015-08-01, from 2016-05-01 until 2019-02-01
 	agaudreault-jive: agaudreault-jive!users.noreply.github.com from 2015-05-01 until 2015-08-01, from 2016-05-01 until 2019-02-01
 	cstlaurent: carl!carlstlaurent.com, cstlaurent!users.noreply.github.com
 	emgre: emgre!users.noreply.github.com from 2017-05-01 until 2017-12-01
@@ -5725,6 +5730,7 @@ Gitech:
 Gitlab:
 	TECHNOFAB11: TECHNOFAB11!users.noreply.github.com
 Gitpod GmbH:
+	ArthurSens: ArthurSens!users.noreply.github.com, arthur.silvasens!grafana.com, arthursens2005!gmail.com from 2020-12-01 until 2022-12-01
 	Furisto: Furisto!users.noreply.github.com from 2021-12-01
 	JanKoehnlein: jan!gitpod.io from 2020-07-01
 	MrSimonEmms: MrSimonEmms!users.noreply.github.com from 2021-08-01
@@ -8498,7 +8504,7 @@ Google LLC:
 	krasimirgv: krasimir!google.com, krasimirgv!users.noreply.github.com
 	krazyhaas: krazyhaas!users.noreply.github.com from 2016-04-01 until 2019-10-01
 	krh: hoegsberg!gmail.com, krh!bitplanet.net from 2016-07-01
-	krinkinmu: krinkin.m.u!gmail.com from 2017-07-01
+	krinkinmu: krinkin!google.com, krinkin.m.u!gmail.com, krinkinmu!users.noreply.github.com, mikhail.krinkin!microsoft.com, mkrinkin!microsoft.com from 2017-07-01 until 2024-05-01
 	krishchow: krishchow!users.noreply.github.com from 2022-07-01 until 2023-04-01
 	krishgobinath: gobinathk!google.com, krishgobinath!users.noreply.github.com from 2020-11-01
 	krisstern: krisstern!outlook.com from 2019-05-01 until 2019-08-01, from 2020-05-01 until 2020-08-01
@@ -10165,6 +10171,7 @@ Graduateland:
 	kevinsimper: kevin.simper!gmail.com, kevinsimper!users.noreply.github.com from 2014-08-01 until 2015-06-01
 Grafana Labs:
 	56quarters: 56quarters!users.noreply.github.com
+	ArthurSens: ArthurSens!users.noreply.github.com, arthur.silvasens!grafana.com, arthursens2005!gmail.com from 2024-08-01
 	DanCech: DanCech!users.noreply.github.com, dan!aussiedan.com, dcech!grafana.com
 	Dieterbe: Dieterbe!users.noreply.github.com, dieter!plaetinck.be
 	Gouthamve: Gouthamve!users.noreply.github.com, cs14btech11014!iith.ac.in, goutham!boomerangcommerce.com, gouthamve!gmail.com from 2018-03-01
@@ -10197,6 +10204,7 @@ Grafana Labs:
 	cyrille-leclerc: 459691+cyrille-leclerc!users.noreply.github.com, cleclerc!cloudbees.com, cyrille!cyrilleleclerc.com, cyrille.leclerc!elastic.co, cyrille.lelclerc!grafana.com from 2022-10-01
 	cyriltovena: cyril.tovena!gmail.com, cyriltovena!users.noreply.github.com from 2019-04-01
 	davkal: david.kaltschmidt!gmail.com, davkal!users.noreply.github.com from 2018-04-06
+	dehaansa: dehaansa!gmail.com, dehaansa!users.noreply.github.com, sam.dehaan!grafana.com from 2024-10-01
 	dimitarvdimitrov: dimitarvdimitrov!users.noreply.github.com, hi!dimitar.dev from 2021-09-01
 	domasx2: domasx2!users.noreply.github.com
 	dprokop: dprokop!users.noreply.github.com from 2019-01-01
@@ -10230,6 +10238,7 @@ Grafana Labs:
 	malcolmholmes: malcolmholmes!users.noreply.github.com, mdh!odoko.co.uk
 	mapno: mariorvinas!gmail.com from 2021-03-01
 	mar4uk: mar4ukira!gmail.com from 2022-03-21
+	marcsanmi: 8235696+marcsanmi!users.noreply.github.com, marc.sanmiquel!grafana.com, msanmiquel!newrelic.com from 2024-08-06
 	marctc: marctc!gmail.com, marctc!users.noreply.github.com from 2022-02-01
 	mariomac: mariomac!users.noreply.github.com from 2023-01-01
 	maryliag: marylia.gutierrez!grafana.com, maryliag!gmail.com, maryliag!users.noreply.github.com from 2024-03-01
@@ -10260,6 +10269,7 @@ Grafana Labs:
 	simonswine: christian!jetstack.io, christian.simon!former03.de, christian.simon!grafana.com, christian.simon!jetstack.io, christian.simon!picsolve.com, cs!f03.eu, simon!swine.de, simonswine!users.noreply.github.com from 2020-07-01
 	slim-bean: edward.welch!grafana.com, slim-bean!users.noreply.github.com
 	t00mas: t00mas!users.noreply.github.com from 2024-01-01
+	tiffany76: 30397949+tiffany76!users.noreply.github.com, tiffany.hrabusa!gmail.com, tiffany.hrabusa!grafana.com from 2024-10-01
 	tomwilkie: tom!grafana.com, tom!weave.works, tom.wilkie!gmail.com, tomwilkie!users.noreply.github.com from 2018-04-06
 	tpaschalis: tpaschalis!users.noreply.github.com from 2022-01-01
 	vlad-diachenko: vlad-diachenko!users.noreply.github.com from 2021-05-01
