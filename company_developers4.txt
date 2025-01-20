@@ -2,6 +2,19 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+FastMail.FM:
+	adx11: adx!fastmail.fm
+	andimarek: andimarek!fastmail.fm
+	cvubrugier: cvubrugier!fastmail.fm
+	dholth: dholth!fastmail.fm
+	heukelum: heukelum!fastmail.fm, souzadevinicius!gmail.com
+	jgmills: augie!schwer.us, gary_mills!fastmail.fm
+	klaemo: klaemo!fastmail.fm
+	mateuszb: mateuszb!fastmail.fm
+	michpappas: mpappas!fastmail.fm
+	proteriax: itaieps+github!fastmail.fm, proteriax!users.noreply.github.com
+	sjourdan: fasten!fastmail.fm, stephane.jourdan!outlook.com
+	wyc: wyc!fastmail.fm, wyc!users.noreply.github.com
 FastNet:
 	GlorifiedTypist: GlorifiedTypist!users.noreply.github.com until 2016-10-01
 	strainovic: nenad.strainovic!gmail.com, strainovic!users.noreply.github.com until 2015-05-01
@@ -4384,6 +4397,7 @@ Gameloft:
 	Hopobcn: Hopobcn!users.noreply.github.com from 2018-06-01 until 2020-09-01
 	MarioArriaga92: ing.mario.arriaga!gmail.com from 2017-01-01 until 2017-07-01
 	ROunofF: ROunofF!users.noreply.github.com, brunemat!amazon.com, mbruneau!lapresse.ca, mbruneau!nuglif.com, rounoff!gmail.com from 2005-05-01 until 2011-09-01
+	dedeira: dedeira!users.noreply.github.com until 2015-10-01
 	dminca: dminca!users.noreply.github.com from 2016-09-01 until 2018-11-01
 	dubyte: dubyte!gmail.com, dubyte!users.noreply.github.com until 2017-09-01
 	mozai: mozai!users.noreply.github.com from 2018-09-01
