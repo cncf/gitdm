@@ -9,6 +9,7 @@ def sort_json(json_file)
   data = data.sort_by { |u| [-u['commits'], u['login'], u['email']] }
   data.each_with_index do |row, idx|
     affs = row['affiliation']
+    # p affs
     next unless affs
     ary = affs.split(/\s*,\s*/)
     next if ary.length <= 1
