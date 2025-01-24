@@ -5,6 +5,13 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+kledo-lyft: kledo-lyft!users.noreply.github.com
+	Gemalto until 2016-01-01
+	Independent from 2016-01-01 until 2016-10-01
+	AWS from 2016-10-01 until 2020-04-01
+	Lyft Inc. from 2020-04-01
+kleesc: kenny.lee_sin_cheong!coreos.com, kleesc!users.noreply.github.com
+	Red Hat Inc.
 kleikamp: dave.kleikamp!oracle.com, shaggy!kernel.org
 	Oracle America Inc.
 kleimkuhler: kevin!kleimkuhler.com, kevinl!buoyant.io, kleimkuhler!icloud.com, kleimkuhler!users.noreply.github.com
@@ -23793,9 +23800,3 @@ navendu-pottekkat: navendu-pottekkat!users.noreply.github.com, navendupottekkat!
 	Independent from 2020-02-01 until 2020-11-01
 	Layer5 from 2020-11-01 until 2021-07-01
 	API7.ai from 2021-07-01
-navi86: navi86!users.noreply.github.com
-	VTB24 until 2017-11-01
-	Technoserv (PTY) Ltd from 2017-11-01 until 2018-05-01
-	VTB from 2018-05-01 until 2018-12-01
-	Akvelon from 2018-12-01 until 2019-03-01
-	EPAM from 2019-03-01

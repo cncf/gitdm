@@ -1124,6 +1124,8 @@ hegdenagaraj4: hegdenagaraj4!gmail.com, hegdenagaraj4!users.noreply.github.com
 	Cisco
 hegdevasant: hegdevasant!linux.vnet.ibm.com
 	International Business Machines Corporation
+hegerchr: christoph.heger!elastic.co, hegerchr!googlemail.com, hegerchr!users.noreply.github.com
+	Elasticsearch Inc.
 hegerdes: dev!henrikgerdes.me
 	Independent until 2020-07-01
 	ConSecur from 2020-07-01 until 2020-10-01
@@ -23783,10 +23785,3 @@ klebediev: klebediev!users.noreply.github.com
 	EPAM Systems Inc from 2016-06-01 until 2018-09-01
 	Solve.Care from 2018-09-01 until 2019-03-01
 	Conductor from 2019-03-01
-kledo-lyft: kledo-lyft!users.noreply.github.com
-	Gemalto until 2016-01-01
-	Independent from 2016-01-01 until 2016-10-01
-	AWS from 2016-10-01 until 2020-04-01
-	Lyft Inc. from 2020-04-01
-kleesc: kenny.lee_sin_cheong!coreos.com, kleesc!users.noreply.github.com
-	Red Hat Inc.
