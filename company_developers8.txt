@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+MEDIAGRAM:
+	noe-charmet: noe-charmet!users.noreply.github.com from 2017-03-01 until 2017-05-01
 MEDIASAPIENS:
 	arseniy-sychev: arseniy-sychev!users.noreply.github.com from 2017-12-01
 MEDIKURA:
@@ -14585,7 +14587,6 @@ Nordea Bank:
 	Leovilhena: Leovilhena!users.noreply.github.com, leosvilhena!icloud.com from 2019-07-01 until 2021-03-01
 	NikeNano: NikeNano!users.noreply.github.com from 2017-09-01 until 2019-03-01
 	RobertWojtowicz: rkwojtowicz!gmail.com until 2014-02-01
-	automatictester: ireneusz.pastusiak!gmail.com from 2019-02-01
 	bmelbourne: bmelbourne!users.noreply.github.com until 2014-09-01
 	byako: alexey.fomenko!intel.com, byako!users.noreply.github.com from 2017-10-01 until 2019-10-01
 	emilkor1: emilkor1!users.noreply.github.com from 2020-10-01 until 2021-08-01

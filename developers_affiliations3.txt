@@ -3273,9 +3273,6 @@ autodidaddict: autodidaddict!users.noreply.github.com
 	Pivotal from 2015-08-01 until 2017-01-01
 	Capital One Financial Corporation from 2017-01-01 until 2021-07-01
 	wasmCloud from 2021-07-01
-automatictester: ireneusz.pastusiak!gmail.com
-	Independent until 2019-02-01
-	Nordea Bank from 2019-02-01
 autopp: autopp!gmail.com, autopp!users.noreply.github.com, autopp.inc!gmail.com
 	Independent
 autostatic: autostatic!users.noreply.github.com, jeremy.jongepier!cyso.com
@@ -6038,9 +6035,9 @@ beliaev-maksim: beliaev-maksim!users.noreply.github.com
 	Independent until 2017-09-01
 	Ansys from 2017-09-01 until 2022-08-01
 	Canonical from 2022-08-01
-belimawr: tiago.queiroz!elastic.co
-    Independent from 2010-07-16 until 2021-10-31
-    Elasticsearch Inc. from 2021-11-01
+belimawr: belimawr!users.noreply.github.com, tiago.queiroz!elastic.co
+	Independent until 2021-11-01
+	Elasticsearch Inc. from 2021-11-01
 bell-lev: blevin!redhat.com
 	Independent until 2016-06-01
 	Matrix from 2016-06-01 until 2018-04-01
