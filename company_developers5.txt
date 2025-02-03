@@ -2,6 +2,26 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+HostLogic:
+	nheinemans: nheinemans!users.noreply.github.com until 2014-11-01
+HostMySite:
+	NormJohnIV: NormJohnIV!users.noreply.github.com, njohnson!kiecookingdom.com until 2015-09-01
+Hosted Graphite:
+	VoyTechnology: wojtek.bednarzak!gmail.com from 2017-06-01 until 2017-09-01
+Hosted Power:
+	verwilst: bart!intux.be, bart!verwilst.be, verwilst!users.noreply.github.com from 2021-01-01 until 2021-05-01
+Hosted Solutions:
+	dicko2: dicko2!users.noreply.github.com, j.dickson!hosted-solutions.com.au until 2016-05-01
+HostedMetrics:
+	heliodor: heliodor!users.noreply.github.com, heliodorj!gmail.com from 2017-08-01
+Hostersi:
+	rkubik-hostersi: rkubik-hostersi!users.noreply.github.com from 2017-05-01
+Hostgator.com:
+	chinochao: chinochao!users.noreply.github.com until 2014-12-01
+	jeffwecan: jeff.hogan1!gmail.com until 2015-02-01
+	robotmaxtron: mwhittingham!redhat.com until 2015-01-01
+Hosting:
+	koraykutanoglu: koraykutanoglu!users.noreply.github.com from 2020-03-01 until 2021-12-01
 Hosting House:
 	Avatat: Avatat!users.noreply.github.com, bartosz!zieba.pro until 2015-11-01
 Hosting.de:

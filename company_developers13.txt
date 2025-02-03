@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+trieb.work:
+	JannikZed: JannikZed!users.noreply.github.com from 2023-02-01
+trigonon:
+	mrIncompetent: henrik!henrik-schmidt.de, henrik!loodse.com, mrIncompetent!users.noreply.github.com until 2015-08-01
+trippingrobot:
+	coreycollins: coreyecollins!gmail.com
 tripsta:
 	aisangelos: angelos.karageorgiou!aisera.com from 2017-05-01 until 2018-01-01
 	nikakis: nikakis!users.noreply.github.com from 2017-11-01 until 2018-07-01

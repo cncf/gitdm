@@ -2,6 +2,16 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+OMNYS:
+	ish-xyz: ish-xyz!users.noreply.github.com from 2015-08-01 until 2016-08-01
+OMNYS Information:
+	matteocastellotti: matteo.castellotti!gmail.com, matteocastellotti!users.noreply.github.com from 2017-06-01 until 2020-07-01
+OMP:
+	shivdudhani: shivdudhani!users.noreply.github.com from 2017-02-01 until 2019-03-01
+OMRON ELECTRONICS:
+	Dysproz: Dysproz!users.noreply.github.com until 2016-01-01
+OMS:
+	oxycoder: oxycoder!users.noreply.github.com
 ON.Lab:
 	Andrea-Campanella: andrea!onlab.us, andrea!opennetworking.org, andrea.campanella0!gmail.com from 2015-10-01 until 2017-12-01
 	CameronFranke: cameron!onlab.us from 2015-01-01 until 2015-08-01
@@ -10946,6 +10956,8 @@ PwC:
 	varenaggarwal: varenaggarwal!users.noreply.github.com from 2018-06-01 until 2018-07-01
 PwC Acceleration Centers:
 	shivkanwer: shivkanwer!gmail.com from 2017-03-01 until 2019-01-01
+PwC Australia:
+	riponbanik: ripon.banik!gmail.com, riponbanik!users.noreply.github.com from 2015-06-01 until 2016-05-01
 PwC Deutschland:
 	Jay-Funk: Jay-Funk!users.noreply.github.com from 2018-10-01 until 2021-09-01
 	cedrickring: cedrickring!users.noreply.github.com from 2017-09-01
@@ -11963,6 +11975,8 @@ Queueco:
 	r3mattia: r3mattia!users.noreply.github.com from 2021-08-01
 QuezX:
 	arunp0: arunp0!users.noreply.github.com until 2014-07-01
+Quhu:
+	Raman-Kumar: Raman-Kumar!users.noreply.github.com from 2021-07-01 until 2023-03-01
 QuiBids:
 	ricktbaker: ricktbaker!users.noreply.github.com until 2018-05-01
 Quick Base:
