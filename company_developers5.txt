@@ -2,8 +2,6 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
-HostLogic:
-	nheinemans: nheinemans!users.noreply.github.com until 2014-11-01
 HostMySite:
 	NormJohnIV: NormJohnIV!users.noreply.github.com, njohnson!kiecookingdom.com until 2015-09-01
 Hosted Graphite:

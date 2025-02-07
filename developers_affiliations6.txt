@@ -5,6 +5,26 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+kk7ds: dansmith!redhat.com
+	International Business Machines Corporation until 2013-09-06
+	Red Hat Inc. from 2013-09-06
+kkBill: mjy332528!163.com
+	SEL-Zhejiang University
+kkaempf: kkaempf!suse.de
+	SUSE LLC
+kkalin68: kkalin68!users.noreply.github.com
+	Socotra
+kkallday: 926865+kkallday!users.noreply.github.com, kkallday!users.noreply.github.com
+	ShowKit until 2016-07-01
+	Pivotal from 2016-07-01 until 2019-10-01
+	Independent from 2019-10-01 until 2020-01-01
+	Netflix Inc. from 2020-01-01
+kkaneda: kaneda!squareup.com, kenji.kaneda!gmail.com
+	Square Inc.
+kkaneda: kkaneda!users.noreply.github.com
+	NVIDIA Corporation
+kkapranov: kirill.kapranov!compulab.co.il
+	CompuLab
 kkasravi: kam.d.kasravi!intel.com, kkasravi!users.noreply.github.com
 	Intel Corporation
 kkbankol-ibm: kkbankol!us.ibm.com
@@ -19673,6 +19693,7 @@ mobile-enerlytics: ajindal!mobileenerlytics.com
 mochiliu3000: mochiliu3000!gmail.com, mochiliu3000!users.noreply.github.com
 	International Business Machines Corporation
 mochizuki875: mochizuki875!users.noreply.github.com, mzk875!gmail.com
+	Independent until 2020-04-01
 	NTT DATA from 2020-04-01
 mocyuto: yuutoo.advance!gmail.com
 	CyberAgent Inc. until 2018-03-01
@@ -22586,7 +22607,7 @@ musabmasood: musabmasood!users.noreply.github.com
 	SAP until 2018-04-01
 	AUDELA from 2018-04-01 until 2020-03-01
 	Paytm Labs from 2020-03-01
-musaprg: k.musaino!gmail.com, musaprg!users.noreply.github.com mail!mssn.dev inoue.kotaro!linecorp.com inoue.kotaro!lycorp.co.jp
+musaprg: inoue.kotaro!linecorp.com, inoue.kotaro!lycorp.co.jp, k.musaino!gmail.com, mail!mssn.dev, musaprg!users.noreply.github.com
 	Independent until 2022-04-01
 	LINE from 2022-04-01 until 2023-10-01
 	LY Corporation from 2023-10-01
@@ -23787,11 +23808,3 @@ narindam: arindam.nath!amd.com
 naritta: naritta!users.noreply.github.com, narittan!gmail.com
 	Independent until 2015-10-01
 	Treasure Data Inc. from 2015-10-01
-narmidm: narmidm!users.noreply.github.com
-	Deft Infosystems until 2014-12-01
-	Independent from 2014-12-01 until 2015-01-01
-	Independent from 2015-01-01 until 2016-09-01
-	Tata from 2016-09-01 until 2017-07-01
-	Elezire from 2017-07-01 until 2019-11-01
-	GE Healthcare from 2019-11-01 until 2021-08-01
-	Avesha from 2021-08-01
