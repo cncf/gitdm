@@ -16272,12 +16272,13 @@ fmstephe: fmstephe!users.noreply.github.com, francisstephens!gmail.com
 	Independent
 fmui: florian.mueller02!sap.com, fmui!users.noreply.github.com
 	SAP
-fmuyassarov: feruzjon.muyassarov!intel.com, fmuyassarov!users.noreply.github.com
+fmuyassarov: feruzjon.muyassarov!intel.com, fmuyassarov!users.noreply.github.com, feruzjon.muyassarov!est.tech
 	Independent until 2019-01-01
 	Orange SA from 2019-01-01 until 2019-06-01
 	Independent from 2019-06-01 until 2019-08-01
 	Ericsson from 2019-08-01 until 2022-08-15
-	Intel Corporation from 2022-08-15
+	Intel Corporation from 2022-08-15 until 2024-12-31
+	Ericsson from 2025-01-01
 fnagel: fnagel!users.noreply.github.com, info!felixnagel.com
 	Independent
 fnde-ot: fnde!oticon.com, fnde-ot!users.noreply.github.com
