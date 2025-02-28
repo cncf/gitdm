@@ -5,6 +5,55 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+mwringe: mwringe!redhat.com, mwringe!users.noreply.github.com
+	Red Hat Inc.
+mwsealey: matt.sealey!arm.com, mwsealey!users.noreply.github.com
+	ARM
+mwufi: mwufi!users.noreply.github.com
+	Independent until 2018-05-01
+	Meta Platforms Inc. from 2018-05-01 until 2018-08-01
+	Independent from 2018-08-01 until 2019-09-01
+	Wayve from 2019-09-01 until 2020-07-01
+	TikTok from 2020-07-01
+mwwolters: mwwolters!google.com, mwwolters!users.noreply.github.com
+	Google LLC
+mx-psi: mx-psi!users.noreply.github.com, pbaeyens31+github!gmail.com
+	Independent until 2020-04-01
+	Datadog Inc from 2020-04-01
+mxbrauni: matthew.braun!intel.com
+	Intel Corporation
+mxey: m.gass!babiel.com, mxey!mxey.net, mxey!users.noreply.github.com
+	Babiel
+mxiamxia: mxiamxia!gmail.com
+	Cyberobject until 2016-12-01
+	Audible from 2016-12-01 until 2020-02-01
+	Amazon from 2020-02-01
+mxinden: indenml!gmail.com, mail!max-inden.de, mxinden!users.noreply.github.com
+	innoscale AG until 2016-12-01
+	Independent from 2016-12-01 until 2017-01-01
+	Red Hat Inc. from 2017-01-01 until 2019-04-01
+	Independent from 2019-04-01 until 2019-07-01
+	Parity from 2019-07-01 until 2021-02-01
+	Protocol Media LLC from 2021-02-01
+mxl: aedgcomb!gmail.com, al.shenia!gmail.com, mike!modx.com, mledin89!gmail.com, mxl!users.noreply.github.com, rahul!rmenn.in
+	Rahul Menon
+mxplusb: mike!reboot3times.org, mxplusb!users.noreply.github.com
+	VMware Inc. until 2015-04-01
+	Comcast Cable Communications LLC (Xfinity) from 2015-04-01 until 2016-05-01
+	Amazon from 2016-05-01 until 2016-11-01
+	Independent from 2016-11-01 until 2017-02-01
+	Pivotal from 2017-02-01 until 2019-05-01
+	US General Services Administration from 2019-05-01 until 2020-05-01
+	Recycle Track Systems Inc from 2020-05-01
+mxpv: makpav!amazon.com, mxpv!users.noreply.github.com, pavlenko.maksym!gmail.com
+	Siftheme until 2016-12-01
+	Independent from 2016-12-01 until 2018-09-01
+	Amazon from 2018-09-01 until 2020-04-01
+	Apple Inc. from 2020-04-01
+mxsavchenko: mxsavchenko!users.noreply.github.com
+	ТК Череда until 2015-10-01
+	Latera LLC from 2015-10-01 until 2017-02-01
+	Maklai from 2017-02-01
 mxsdev: max!mxs.dev
 	Independent until 2023-01-01
 	Stateful from 2023-01-01 until 2023-08-01
@@ -258,6 +307,8 @@ n0rad: alemaire!norad.fr, n0rad!users.noreply.github.com
 	BlaBlaCar from 2014-10-01
 n1330: n1330!users.noreply.github.com
 	Independent
+n1hility: jason.greene!redhat.com, n1hility!users.noreply.github.com
+	Red Hat Inc.
 n1koo: n1koo!users.noreply.github.com, niko!kurtti.eu, niko.kurtti!shopify.com
 	Shopify Inc.
 n1r1: n1r1!users.noreply.github.com
@@ -4889,6 +4940,8 @@ nparfait: nparfait!users.noreply.github.com
 npaton: npaton!users.noreply.github.com
 	Consultant until 2017-12-01
 	MantisNet from 2017-12-01
+npdgm: npdgm!users.noreply.github.com
+	Enix SAS
 npentrel: npentrel!users.noreply.github.com
 	Independent until 2015-06-01
 	Palantir Technologies Inc. from 2015-06-01 until 2015-09-01
@@ -11132,6 +11185,15 @@ philippeboyd: philippeboyd!users.noreply.github.com
 	INEAT from 2016-02-01 until 2018-11-01
 	National Bank from 2018-11-01 until 2019-11-01
 	cirQles from 2019-11-01
+philippemnoel: philippemnoel!users.noreply.github.com
+	Independent until 2018-03-01
+	Premier Components from 2018-03-01 until 2018-08-01
+	Indepednent from 2018-08-01 until 2019-05-01
+	Microsoft Corporation from 2019-05-01 until 2019-08-01
+	Independent from 2019-08-01 until 2019-11-01
+	Whist from 2019-11-01 until 2022-12-01
+	Independent from 2022-12-01 until 2023-12-01
+	ParadeDB from 2023-12-01
 philippgille: philipp.gille!gmail.com, philippgille!users.noreply.github.com
 	Independent
 philipphomberger: philipp.homberger!gmail.com, philipphomberger!users.noreply.github.com
@@ -23723,68 +23785,3 @@ rwilson-release: rwilson-release!users.noreply.github.com
 	Underdog Fantasy from 2024-05-01
 rwinch: rwinch!gopivotal.com
 	Pivotal
-rwinieski: winieski!progress.com
-	Computacenter AG & Co OHG until 2015-12-01
-	Gfi Informatique from 2015-12-01 until 2017-04-01
-	AOSIS from 2017-04-01 until 2021-07-01
-	en transit from 2021-07-01 until 2021-08-01
-	GEKKO from 2021-08-01 until 2022-09-01
-	MarkLogic Corporation from 2022-09-01 until 2023-04-01
-	Progress Software Corporation from 2023-04-01
-rwittrick: rwittrick!users.noreply.github.com
-	e2x Limited until 2016-07-01
-	Neoworks from 2016-07-01
-rwmjones: rjones!redhat.com, rwmjones!users.noreply.github.com
-	Red Hat Inc.
-rwong2888: rwong2888!users.noreply.github.com
-	Verizon until 2020-02-01
-	Forbes from 2020-02-01
-rwstauner: randy!magnificent-tears.com, randy!r4s6.net
-	Instructure Inc.
-rwsu: rwsu!redhat.com, rwsu!users.noreply.github.com
-	Red Hat Inc.
-rwxrob: rob!rwx.gg, rwxrob!users.noreply.github.com
-	Independent
-rxaviers: rxaviers!gmail.com, rxaviers!users.noreply.github.com
-	Independent until 2016-10-01
-	PayPal from 2016-10-01
-rxbn: rxbn!users.noreply.github.com
-	Independent until 2015-08-01
-	Abraxas Informati from 2015-08-01 until 2021-10-01
-	VSHN AG from 2021-10-01
-rxbynerd: rxbynerd!users.noreply.github.com, x!rubynerd.net
-	Rentify until 2016-06-01
-	Deliveroo from 2016-06-01
-rxlecky: rxlecky!users.noreply.github.com
-	Independent until 2019-09-01
-	Electric Square from 2019-09-01
-ryad-eldajani: ryad-eldajani!users.noreply.github.com
-	Independent until 2018-03-01
-	Lufthansa from 2018-03-01 until 2021-03-01
-	DKB | Deutsche Kreditbank from 2021-03-01 until 2022-12-01
-	Independent from 2022-12-01
-ryadav88: ryadav88!gmail.com, ryadav88!users.noreply.github.com
-	Cerner Corporation until 2015-01-01
-	International Business Machines Corporation from 2015-01-01 until 2016-09-01
-	D2iQ Inc. (f/k/a Mesosphere) from 2016-09-01
-ryan-a-baker: ryan-a-baker!users.noreply.github.com, ryan.baker!c2fo.com
-	Cerner Corporation until 2018-10-01
-	C2FO from 2018-10-01 until 2021-06-01
-	VMware Inc. from 2021-06-01
-ryan-beisner: ryan-beisner!users.noreply.github.com
-	Canonical Ltd.
-ryan-dayrit: dayrit.ryan!gmail.com, ryan-dayrit!users.noreply.github.com
-	Medidata until 2012-05-01
-	FactSet Research Systems Inc. from 2012-05-01 until 2019-09-01
-	Bluecore from 2019-09-01
-ryan-hanchett: ryan-hanchett!users.noreply.github.com
-	Resource Transition until 2015-06-01
-	Averetek from 2015-06-01 until 2016-09-01
-	Independent from 2016-09-01 until 2017-06-01
-	INRIX Inc. from 2017-06-01 until 2017-09-01
-	Independent from 2017-09-01 until 2018-06-01
-	Independent from 2018-06-01 until 2019-01-01
-	Arivale from 2019-01-01 until 2019-06-01
-	Invitae Corporation from 2019-06-01
-ryan-ibm: rdmello!us.ibm.com, ryan-ibm!users.noreply.github.com
-	International Business Machines Corporation

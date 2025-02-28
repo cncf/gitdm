@@ -2,6 +2,26 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Nuxeo:
+	akervern: arnaud.k!gmail.com
+	dmetzler: dmetzler!gmail.com, dmetzler!nuxeo.com, dmetzler!users.noreply.github.com from 2017-02-01
+	efge: efge!users.noreply.github.com, fguillaume!nuxeo.com until 2021-04-01
+	jcarsique: jcarsique!nuxeo.com, julien.carsique!gmail.com
+	renardguill: renardguill!users.noreply.github.com
+	vpasquier: vpasquier!nuxeo.com, vpasquier!users.noreply.github.com until 2021-03-01
+Nvent:
+	tqn-org: nqtuan!tuan.it.eu.org until 2016-05-01
+Nvizion:
+	chandanpasunoori: chandanpasunoori!gmail.com, chandanpasunoori!users.noreply.github.com from 2018-07-01
+	etsrepo: D.weizhe!gmail.com, chandanpasunoori!gmail.com, etsrepo!users.noreply.github.com from 2018-07-01
+Nvoicepay:
+	SamuelMcAravey: SamuelMcAravey!users.noreply.github.com from 2015-07-01 until 2020-02-01
+NxtGen:
+	mario-ezquerro: mario.ezquerro!gmail.com from 2021-04-01
+Nybble:
+	ggmr2212: ggmr2212!users.noreply.github.com from 2020-09-01
+Nyheter24Gruppen:
+	zegl: gustav!westling.dev, gustav.westling!tink.se, hello!gustav.tv, zegl!users.noreply.github.com until 2015-12-01
 Nylas:
 	Omkar-Waingankar: Omkar-Waingankar!users.noreply.github.com from 2020-11-01 until 2020-12-01, from 2021-08-01
 	armchairlinguist: alexisg!gmail.com from 2019-06-01
@@ -5550,6 +5570,8 @@ Parabolic:
 	dehoward: dehoward!microsoft.com from 2022-01-01 until 2022-04-01
 Parachute Digital Solutions Limited:
 	fin7710: afinley!apperian.com, afinley!arxan.com from 2015-01-01 until 2016-05-01
+ParadeDB:
+	philippemnoel: philippemnoel!users.noreply.github.com from 2023-12-01
 Paradigm:
 	JeanChristopheMorinPerso: jean_christophe_morin!hotmail.com from 2015-05-01 until 2015-07-01
 	Rjected: Rjected!users.noreply.github.com from 2022-10-01
@@ -9707,6 +9729,7 @@ Premier Components:
 	danielwhite: daniel!whitehouse.id.au until 2015-01-01
 	ddseapy: ddseapy!users.noreply.github.com from 2015-06-01 until 2015-10-01
 	dseapy: dseapy!users.noreply.github.com from 2015-06-01 until 2015-10-01
+	philippemnoel: philippemnoel!users.noreply.github.com from 2018-03-01 until 2018-08-01
 Premier Staffing:
 	ScottBrenner: ScottBrenner!users.noreply.github.com, scott!scottbrenner.me from 2014-07-01 until 2014-09-01
 Premier Technologies Inc.:

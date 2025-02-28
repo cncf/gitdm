@@ -5,6 +5,16 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+PatrickGhadban: PatrickGhadban!users.noreply.github.com
+	Independent until 2017-07-01
+	Putnam Investments from 2017-07-01 until 2017-12-01
+	Independent from 2017-12-01 until 2018-06-01
+	Draper Laboratory from 2018-06-01 until 2019-01-01
+	Independent from 2019-01-01 until 2020-04-01
+	AWS from 2020-04-01
+PatrickGhosn: PatrickGhosn!users.noreply.github.com
+	FOO until 2021-01-01
+	BrightClue from 2021-01-01
 PatrickHeneise: PatrickHeneise!users.noreply.github.com, patrick!heneise.co
 	Barcelona.IO until 2015-06-01
 	blended.io from 2015-06-01 until 2017-10-01
@@ -5235,6 +5245,10 @@ Skarlso: 182850+Skarlso!users.noreply.github.com, Skarlso!users.noreply.github.c
 	Weaveworks Inc. from 2021-04-01 until 2024-02-01
 	Independent from 2024-02-01 until 2024-03-01
 	Kubermatic GmbH from 2024-03-01
+Skaronator: Skaronator!users.noreply.github.com
+	Independent until 2018-08-01
+	Finatix from 2018-08-01 until 2024-10-01
+	F&P from 2024-10-01
 Skeen: Skeen!users.noreply.github.com, sovende!gmail.com
 	IOMOSS until 2017-03-01
 	Magenta from 2017-03-01
@@ -14193,6 +14207,10 @@ afialkoff: afialkoff!users.noreply.github.com
 	Red Hat Inc. from 2019-12-01 until 2021-10-01
 	Paperless from 2021-10-01 until 2022-04-01
 	Match from 2022-04-01
+afiebig: afiebig!users.noreply.github.com
+	Clínica Alemana de Santiago until 2015-06-01
+	Continuum HQ from 2015-06-01 until 2022-05-01
+	Shinkansen from 2022-05-01
 afifurrohman-id: afifurrohman-id!users.noreply.github.com
 	Independent
 afilipchik: afilipchik!gmail.com, afilipchik!users.noreply.github.com
@@ -20894,6 +20912,7 @@ andremarianiello: andre.marianiello!gmail.com, andremarianiello!users.noreply.gi
 andremedeiros: andremedeiros!users.noreply.github.com, me!andremedeiros.info
 	Shopify Inc.
 andremm: andre.murbachmaidl!elastic.co, andremm!gmail.com, andremm!users.noreply.github.com
+	Independent until 2018-02-19
 	Elasticsearch Inc. from 2018-02-19
 andrenarchy: andre!gaul.io, andrenarchy!users.noreply.github.com, gaul!web-yard.de
 	Independent until 2014-10-01
@@ -23557,21 +23576,3 @@ apetheriotis: apetheriotis!gmail.com
 	Callsign from 2018-02-01 until 2019-05-01
 	Bó from 2019-05-01 until 2020-10-01
 	NatWest from 2020-10-01
-apetrosian: apetrosian!users.noreply.github.com, artem!petrosian.net
-	Lohika Systems Inc. until 2015-09-01
-	EPAM Systems Inc from 2015-09-01
-apetrovYa: apetrov.ya!yandex.ru, apetrovYa!users.noreply.github.com
-	Independent until 2015-05-01
-	Novatecno SRL from 2015-05-01 until 2015-08-01
-	Independent from 2015-08-01 until 2016-12-01
-	Kirey Group from 2016-12-01 until 2017-01-01
-	Independent from 2017-01-01 until 2017-06-01
-	XTN from 2017-06-01 until 2017-11-01
-	Kirey from 2017-11-01 until 2018-11-01
-	Sentia Netherlands from 2018-11-01 until 2020-09-01
-	Schuberg Philis from 2020-09-01
-apettey: apettey!users.noreply.github.com
-	TedXCapeTown until 2014-08-01
-	Independent from 2014-08-01 until 2015-08-01
-	OLX Group from 2015-08-01 until 2021-07-01
-	Wonder from 2021-07-01
