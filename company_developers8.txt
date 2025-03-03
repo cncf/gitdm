@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+MADE.COM:
+	barrachri: barrachri!users.noreply.github.com from 2018-07-01 until 2019-01-01
+MADGIC:
+	bpaquet: bertrand.paquet!gmail.com, bpaquet!users.noreply.github.com from 2014-11-01 until 2016-07-01
+MADUKA OGAN & CO.:
+	enyiakwu: enyiakwu!users.noreply.github.com until 2016-04-01
 MAG Solvics:
 	Navin-Sankar: Navin-Sankar!users.noreply.github.com, navin!linumiz.com from 2018-07-01 until 2019-06-01
 MAGNA:
@@ -5302,6 +5308,7 @@ Micron:
 	asaithambi: asamymuthupa!micron.com
 	fullmetal-fred: fullmetal-fred!users.noreply.github.com from 2018-05-01 until 2020-07-01
 	gabe-sorensen: gabe-sorensen!users.noreply.github.com until 2016-05-01
+	gakio12: gakio12!users.noreply.github.com from 2018-02-01
 	sbradshawmicron: sbradshaw!micron.com
 Micronova:
 	giuliobenetti: giulio.benetti!benettiengineering.com, giulio.benetti!micronovasrl.com
@@ -8043,8 +8050,10 @@ Mirantis:
 	kozhukalov: kozhukalov!users.noreply.github.com from 2016-09-01 until 2017-05-01, from 2019-11-01
 	kylewuolle: kyle.wuolle!gmail.com, kylewuolle!users.noreply.github.com from 2022-01-01
 	millerdz: millerdz!users.noreply.github.com from 2018-02-01 until 2019-02-01
+	miskun: miskun!users.noreply.github.com from 2020-01-01
 	mshkrebtan: mshkrebtan!users.noreply.github.com from 2016-04-01 until 2017-07-01
 	naumvd95: naumvd95!users.noreply.github.com from 2017-05-01 until 2022-01-01
+	nekwar: nekwar!users.noreply.github.com from 2019-03-01
 	obourdon: obourdon!users.noreply.github.com from 2015-11-01 until 2017-10-01
 	panuhorsmalahti: panu.horsmalahti!iki.fi, panuhorsmalahti!users.noreply.github.com from 2020-11-01
 	pbchekin: pbchekin!users.noreply.github.com until 2017-12-01
@@ -13374,6 +13383,8 @@ Network Rail:
 	hoyon: hoyon!users.noreply.github.com from 2016-07-01 until 2016-09-01
 Network Redux:
 	dijeesh: dijeesh!users.noreply.github.com, dijeeshpnair!gmail.com
+Network World:
+	Starttoaster: Starttoaster!users.noreply.github.com, bmbawb!gmail.com until 2018-01-01
 Network to Code:
 	dgarros: dgarros!users.noreply.github.com from 2019-06-01
 	jfach: jordan!networktocode.com from 2016-07-01
@@ -15466,6 +15477,7 @@ NowSecure:
 	juliangruber: julian!juliangruber.com, juliangruber!users.noreply.github.com from 2015-02-01 until 2016-09-01
 	teaglebuilt: dillan.teagle.va!gmail.com, teaglebuilt!users.noreply.github.com from 2021-11-01 until 2022-02-01
 NowThis:
+	jakubhajek: jakub.hajek!cometari.com, jakubhajek!users.noreply.github.com from 2017-10-01 until 2018-05-01
 	kwladyka: kwladyka!users.noreply.github.com from 2017-07-01 until 2018-06-01
 Nowcom:
 	RobertKozak: RobertKozak!users.noreply.github.com until 2019-03-01
@@ -15882,14 +15894,3 @@ Nuvo Cares:
 	HagaiBarel: hagai.barel!nuvo-group.com, hagaibarel!gmail.com, hagaibarel!users.noreply.github.com from 2017-10-01 until 2019-07-01
 	MeirP-3: MeirP-3!users.noreply.github.com from 2020-08-01
 	tomklino: tomklino!users.noreply.github.com from 2019-02-01 until 2020-05-01
-Nuvoloso:
-	bathina2: bathina2!users.noreply.github.com from 2018-05-01 until 2019-12-01
-	carlbraganza: carlbraganza!users.noreply.github.com from 2017-06-01 until 2019-11-01
-Nuvoton:
-	John-Hsu: kchsu0!nuvoton.com
-	dillonburns: KCHSU0!nuvoton.com, dillonburns!users.noreply.github.com, reach.dillon!gmail.com
-Nuvyta:
-	rweilg: rweilg!users.noreply.github.com from 2018-06-01 until 2018-10-01
-Nuweba:
-	moshebe: moshebe!users.noreply.github.com from 2018-10-01 until 2020-11-01
-	ronlut: ronlut!users.noreply.github.com from 2019-05-01 until 2020-11-01
