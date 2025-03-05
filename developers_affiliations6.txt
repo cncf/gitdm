@@ -5,6 +5,13 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+khernyo: khernyo!users.noreply.github.com, szabolcs.berecz!gmail.com
+	Ustream Inc. until 2016-02-01
+	International Business Machines Corporation from 2016-02-01 until 2018-02-01
+	Independent from 2018-02-01 until 2020-01-01
+	Banzai Media from 2020-01-01 until 2021-01-16
+	Cisco from 2021-01-16 until 2021-05-01
+	Independent from 2021-05-01
 kherock: kherock!users.noreply.github.com
 	Independent until 2015-05-01
 	Kanvasroom from 2015-05-01 until 2018-08-01
@@ -23794,11 +23801,3 @@ mwasilew: milosz.wasilewski!linaro.org
 	Linaro Limited
 mwbringmann: mwb!linux.vnet.ibm.com
 	International Business Machines Corporation
-mwc2019: chip.boling!adtran.com
-	Adtran until 2019-03-01
-	Tibit from 2019-03-01
-mwconceicao: matheuswcon!gmail.com, mwconceicao!users.noreply.github.com
-	Videosoft until 2014-09-01
-	Chaordic from 2014-09-01 until 2017-05-01
-	Fingermark from 2017-05-01 until 2018-02-01
-	Loadsmart from 2018-02-01

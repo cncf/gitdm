@@ -2,6 +2,14 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+CompuLab:
+	ilyacompulab: ilya!compulab.co.il
+	kkapranov: kirill.kapranov!compulab.co.il
+	nikita-kiryanov: nikita!compulab.co.il
+	urimashi: uri.mashiach!compulab.co.il
+	vraevsky: valentin!compulab.co.il
+CompuZest:
+	shahadarsh: github!shahadarsh.com, shahadarsh!users.noreply.github.com from 2020-09-01
 Compuaware:
 	zyad-compuware: zyad-compuware!users.noreply.github.com, zyad.alyashae!compuware.com from 2019-01-01
 Compugeen:
@@ -12450,6 +12458,7 @@ Elasticsearch Inc.:
 	estolfo: estolfo!users.noreply.github.com
 	ezimuel: e.zimuel!gmail.com, enrico.zimuel!elastic.co, ezimuel!users.noreply.github.com
 	fabled: timo.teras!elastic.co, timo.teras!iki.fi from 2021-12-01
+	faec: fae.charlton!elastic.co, faec!users.noreply.github.com
 	fatmcgav: fatmcgav!gmail.com, fatmcgav!users.noreply.github.com from 2018-05-01 until 2022-07-08
 	felixbarny: felix.barnsteiner!elastic.co, felixbarny!users.noreply.github.com from 2018-01-01
 	fin09pcap: fin09pcap!users.noreply.github.com from 2017-03-01
@@ -16411,9 +16420,3 @@ FNST:
 	fenggw-fnst: fenggw-fnst!users.noreply.github.com
 	littleroad: littleroad!users.noreply.github.com, lufq.fnst!cn.fujitsu.com
 	q384566678: q384566678!users.noreply.github.com, zhouhao!cn.fujitsu.com
-FNT:
-	m-no-2017: m-no-2017!users.noreply.github.com, manuel.novak!fntsoftware.com from 2017-02-01 until 2020-03-01
-FNZ:
-	kmmanto: kmmanto!users.noreply.github.com from 2022-04-01
-FOD Economie:
-	cblomart: cblomart!users.noreply.github.com from 2018-12-01 until 2020-02-01

@@ -6604,6 +6604,7 @@ CIPAFilter:
 CIPSA:
 	GuillermoDLCO: guillermo.dlco!outlook.com from 2017-02-01 until 2019-01-01
 CIQ:
+	chris-short: chris!chrisshort.net, chris-short!users.noreply.github.com from 2025-02-23
 	jonasrosland: jonas.rosland!gmail.com, jonasrosland!users.noreply.github.com, jrosland!vmware.com from 2024-02-01
 CIRA:
 	alain-baxter: alain-baxter!users.noreply.github.com until 2021-04-01
@@ -11973,7 +11974,7 @@ Cisco:
 	suryaval: surya.vallabhaneni2!gmail.com from 2018-01-01
 	sushma-priyadharssini: kvsushmapriyadharssini!gmail.com, sushma-priyadharssini!users.noreply.github.com from 2016-10-01 until 2017-03-01
 	svarma1: sakvarma!cisco.com
-	svrnm: neumanns!cisco.com, severin.neumann!altmuehlnet.de, severin.neumann!appdynamics.com, svrnm!users.noreply.github.com from 2017-06-01
+	svrnm: neumanns!cisco.com, severin.neumann!altmuehlnet.de, severin.neumann!appdynamics.com, svrnm!users.noreply.github.com from 2017-06-01 until 2025-03-01
 	swetharavichandrancisco: swetha.ravichandran!appdynamics.com, swetharavichandrancisco!users.noreply.github.com, swravich!cisco.com
 	swiftdiaries: adhita.selvaraj!gmail.com, adhita94!gmail.com, swiftdiaries!users.noreply.github.com from 2016-07-01
 	syml: syml!users.noreply.github.com until 2014-07-01
@@ -15887,11 +15888,3 @@ CompuGroup Medical USA:
 	schlakob: schlakob!users.noreply.github.com from 2021-05-01
 	stroebitzer: stroebitzer!users.noreply.github.com until 2015-05-01
 	yanhongwang: yanhongwang!users.noreply.github.com from 2015-12-01
-CompuLab:
-	ilyacompulab: ilya!compulab.co.il
-	kkapranov: kirill.kapranov!compulab.co.il
-	nikita-kiryanov: nikita!compulab.co.il
-	urimashi: uri.mashiach!compulab.co.il
-	vraevsky: valentin!compulab.co.il
-CompuZest:
-	shahadarsh: github!shahadarsh.com, shahadarsh!users.noreply.github.com from 2020-09-01

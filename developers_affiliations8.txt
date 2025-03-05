@@ -5,6 +5,14 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+rvdgracht: robin!protonic.nl
+	Protonic Holland
+rveerama1: aguilarpgc!gmail.com, gsheerin+public!gmail.com, ravikumar.veeramally!linux.intel.com, rveerama1!users.noreply.github.com
+	Intel Corporation
+rvennam: ram.vennam!solo.io, rvennam!us.ibm.com, rvennam!users.noreply.github.com
+	Independent until 2010-01-01
+	International Business Machines Corporation from 2010-01-01 until 2021-03-16
+	Solo.io from 2021-03-16
 rvennam-lbg: rvennam-lbg!users.noreply.github.com
 	AT&T Services Inc. until 2016-03-01
 	International Business Machines Corporation from 2016-03-01 until 2017-02-01
@@ -15495,7 +15503,7 @@ svrnm: neumanns!cisco.com, severin.neumann!altmuehlnet.de, severin.neumann!appdy
 	eLearning AG until 2015-11-01
 	Independent from 2015-11-01 until 2016-02-01
 	AppDynamics LLC from 2016-02-01 until 2017-06-01
-	Cisco from 2017-06-01 until 2025-02-28
+	Cisco from 2017-06-01 until 2025-03-01
 	Independent from 2025-03-01
 svsite: pavel.chuchma!microfocus.com
 	HP Inc.
@@ -23873,13 +23881,3 @@ twang2218: twang2218!gmail.com, twang2218!users.noreply.github.com
 	Citi from 2018-07-01 until 2018-09-01
 	Qantas from 2018-09-01 until 2020-04-01
 	Arq Group from 2020-04-01
-twasyl: twasyl!users.noreply.github.com
-	ElsassJUG until 2015-06-01
-	ZeroTurnaround from 2015-06-01 until 2015-12-01
-	Knowings from 2015-12-01 until 2018-12-01
-	Sopra Banking from 2018-12-01 until 2020-11-01
-	CloudBees Inc. from 2020-11-01
-twaugh: twaugh!redhat.com, twaugh!users.noreply.github.com
-	Red Hat Inc.
-twbs-grunt: twbs-grunt!users.noreply.github.com
-	(Robots)

@@ -5,6 +5,16 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+twasyl: twasyl!users.noreply.github.com
+	ElsassJUG until 2015-06-01
+	ZeroTurnaround from 2015-06-01 until 2015-12-01
+	Knowings from 2015-12-01 until 2018-12-01
+	Sopra Banking from 2018-12-01 until 2020-11-01
+	CloudBees Inc. from 2020-11-01
+twaugh: twaugh!redhat.com, twaugh!users.noreply.github.com
+	Red Hat Inc.
+twbs-grunt: twbs-grunt!users.noreply.github.com
+	(Robots)
 tweeks-reify: tom.weeks!reifyhealth.com
 	Independent until 2015-12-01
 	TimeTrade from 2015-12-01 until 2020-08-01

@@ -5,6 +5,14 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+mwc2019: chip.boling!adtran.com
+	Adtran until 2019-03-01
+	Tibit from 2019-03-01
+mwconceicao: matheuswcon!gmail.com, mwconceicao!users.noreply.github.com
+	Videosoft until 2014-09-01
+	Chaordic from 2014-09-01 until 2017-05-01
+	Fingermark from 2017-05-01 until 2018-02-01
+	Loadsmart from 2018-02-01
 mwear: matthew.wear!gmail.com, mwear!users.noreply.github.com
 	Independent until 2015-01-01
 	New Relic Inc. from 2015-01-01 until 2019-09-27
@@ -23777,11 +23785,3 @@ rvansa: rvansa!redhat.com, rvansa!users.noreply.github.com
 	Red Hat Inc.
 rvbaz: rvbadin!gmail.com, rvbaz!users.noreply.github.com
 	Cisco
-rvdgracht: robin!protonic.nl
-	Protonic Holland
-rveerama1: aguilarpgc!gmail.com, gsheerin+public!gmail.com, ravikumar.veeramally!linux.intel.com, rveerama1!users.noreply.github.com
-	Intel Corporation
-rvennam: ram.vennam!solo.io, rvennam!us.ibm.com, rvennam!users.noreply.github.com
-	Independent until 2010-01-01
-	International Business Machines Corporation from 2010-01-01 until 2021-03-16
-	Solo.io from 2021-03-16
