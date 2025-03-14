@@ -103,7 +103,7 @@ process_list.each do |login|
   dlogin = login.downcase
   mail = ary[1].strip if ary.length > 1 and not ary[1].nil? and not ary[1].empty?
   unless users.key? login
-    puts "error: #{login} not found in JSON"
+    puts "error: #{login} not found in JSON or has no affiliations"
     if dusers.key? dlogin
       puts "warning: but downcased #{dlogin} found, please use the correct case"
       puts "warning: found #{dusers[dlogin]}"
