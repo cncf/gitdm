@@ -2,6 +2,14 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+FNRS:
+	quertenmont: loic.quertenmont!gmail.com, quertenmont!users.noreply.github.com until 2016-09-01
+FNST:
+	Hellcatlk: Hellcatlk!users.noreply.github.com, zouy.fnst!cn.fujitsu.com
+	MaXinjian: MaXinjian!users.noreply.github.com, maxj.fnst!cn.fujitsu.com
+	fenggw-fnst: fenggw-fnst!users.noreply.github.com
+	littleroad: littleroad!users.noreply.github.com, lufq.fnst!cn.fujitsu.com
+	q384566678: q384566678!users.noreply.github.com, zhouhao!cn.fujitsu.com
 FNT:
 	m-no-2017: m-no-2017!users.noreply.github.com, manuel.novak!fntsoftware.com from 2017-02-01 until 2020-03-01
 FNZ:
@@ -8020,6 +8028,7 @@ Google LLC:
 	TomHennen: TomHennen!users.noreply.github.com from 2016-04-01
 	Tony1023: Tony1023!users.noreply.github.com, tony1023lv!gmail.com from 2019-06-01 until 2019-08-01
 	Torgen: torgen!google.com, torgen!users.noreply.github.com
+	TortillaZHawaii: dwysocki!google.com, dwysocki157!gmail.com from 2024-09-30 until 2025-01-17, from 2025-03-03
 	Treenhan: Treenhan!users.noreply.github.com, nathanluong!google.com from 2022-02-01 until 2023-11-01
 	TrevorEdwards: TrevorEdwards!users.noreply.github.com, trevedwa!gmail.com
 	TrevorFarrelly: farrellytrevor!gmail.com, trevorfarrelly!google.com
@@ -11203,6 +11212,7 @@ Grafana Labs:
 	jarben: jarben!users.noreply.github.com from 2022-04-01
 	jdbaldry: jdbaldry!users.noreply.github.com from 2020-06-01
 	jeschkies: jeschkies!users.noreply.github.com, k!jeschkies.xyz from 2020-07-01
+	jkoby: 297441+jkoby!users.noreply.github.com, jay.koby!grafana.com, jkoby!cisco.com, jkoby!grafana.com, jkoby!splunk.com, jkoby!tinytiny.net from 2025-02-01
 	jmarbach: john.marbach!gmail.com from 2020-12-01
 	joe-elliott: joe-elliott!users.noreply.github.com, joe.elliott!grafana.com, number101010!gmail.com from 2019-08-01
 	joeblubaugh: joe!lightstep.com, joeblubaugh!users.noreply.github.com from 2022-03-01

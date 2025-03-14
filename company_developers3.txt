@@ -2,6 +2,13 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+CompuGroup Medical USA:
+	falsyvalues: falsyvalues!users.noreply.github.com, mylith!gmail.com until 2015-06-01
+	nico1510: Nicolas-Beck!gmx.de, nico1510!users.noreply.github.com from 2018-01-01 until 2022-06-01
+	peterjot: piotrekjasina!gmail.com from 2018-07-01 until 2018-08-01
+	schlakob: schlakob!users.noreply.github.com from 2021-05-01
+	stroebitzer: stroebitzer!users.noreply.github.com until 2015-05-01
+	yanhongwang: yanhongwang!users.noreply.github.com from 2015-12-01
 CompuLab:
 	ilyacompulab: ilya!compulab.co.il
 	kkapranov: kirill.kapranov!compulab.co.il
@@ -16412,11 +16419,3 @@ FMENA Zagreb:
 	alen-z: alen-z!users.noreply.github.com from 2015-09-01 until 2018-09-01
 FNDE:
 	eliseuborges: contato!eliseuborges.com from 2017-10-01 until 2019-01-01
-FNRS:
-	quertenmont: loic.quertenmont!gmail.com, quertenmont!users.noreply.github.com until 2016-09-01
-FNST:
-	Hellcatlk: Hellcatlk!users.noreply.github.com, zouy.fnst!cn.fujitsu.com
-	MaXinjian: MaXinjian!users.noreply.github.com, maxj.fnst!cn.fujitsu.com
-	fenggw-fnst: fenggw-fnst!users.noreply.github.com
-	littleroad: littleroad!users.noreply.github.com, lufq.fnst!cn.fujitsu.com
-	q384566678: q384566678!users.noreply.github.com, zhouhao!cn.fujitsu.com

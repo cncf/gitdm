@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+apelisse: apelisse!gmail.com, apelisse!google.com, apelisse!users.noreply.github.com
+	Amadeus until 2014-08-01
+	Independent from 2014-08-01 until 2014-10-01
+	TangoME Inc. from 2014-10-01 until 2016-04-01
+	Google LLC from 2016-04-01
 apemberton: pembertona!gmail.com
 	Accel Interactive until 2016-12-01
 	CloudBees Inc. from 2016-12-01 until 2017-01-01
@@ -4939,10 +4944,12 @@ b13n1u: b13n1u!gmail.com, b13n1u!users.noreply.github.com
 	eBay Inc.
 b1f6c1c4: b1f6c1c4!gmail.com
 	Independent
-b1gb4by: b1gb4by!linux.com, 34154552+b1gb4by!users.noreply.github.com
-  Video Market Co. from 2019-04-01 until 2021-01-31
-  MONOC, Inc. from 2021-02-01 until 2021-08-31
-  IDC Frontier Inc. from 2021-09-01
+b1gb4by: 34154552+b1gb4by!users.noreply.github.com, b1gb4by!linux.com
+	Independent until 2019-04-01
+	Video Market Co. from 2019-04-01 until 2021-02-01
+	Inc. from 2021-02-01 until 2021-09-01
+	IDC Frontier Inc. from 2021-09-01
+	MONOC from 2100-01-01
 b1r3k: b1r3k!users.noreply.github.com
 	Independent until 2016-01-01
 	Keepsafe from 2016-01-01
@@ -23691,15 +23698,3 @@ dankirkpatrick: dankirkpatrick!users.noreply.github.com
 	Vroom from 2016-01-01 until 2017-05-01
 	MP2 from 2017-05-01 until 2019-09-01
 	Frisson from 2019-09-01
-dankohn: dan!dankohn.com, dan!linuxfoundation.org, dankohn!users.noreply.github.com
-	Spreemo until 2016-05-01
-	CNCF from 2016-05-01 until 2020-06-01
-	LF Public Health from 2020-06-01
-dankomiocevic: dankomiocevic!users.noreply.github.com
-	Virtual Things until 2016-09-01
-	Independent from 2016-09-01 until 2016-11-01
-	Amazon from 2016-11-01
-dankurka: dankurka!google.com
-	Google LLC
-danlanxiaohei: danlanxiaohei!users.noreply.github.com, leeehui!outlook.com
-	personal
