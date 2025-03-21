@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Compliance Track:
+	lucidprogrammer: lucidprogrammer!users.noreply.github.com until 2015-01-01
+Complitech LLC.:
+	maxxlife: maxxlife!users.noreply.github.com, maxxliferobot!gmail.com from 2015-01-01 until 2016-01-01
 ComplyAdvantage:
 	LinuxAd: adam!atestcloud.co.uk from 2021-06-01
 	MihaiAnei: MihaiAnei!users.noreply.github.com, mihai.anei!gmail.com from 2018-07-01
@@ -16411,7 +16415,3 @@ FIS:
 	smeadows-okta: smeadows-okta!users.noreply.github.com from 2015-09-01 until 2017-02-01
 	stephencoe: stephencoe!users.noreply.github.com from 2019-11-01 until 2021-09-01
 	tarioch: patrick!ch.tario.org, patrick.ruckstuhl!fisglobal.com, tarioch!users.noreply.github.com from 2015-12-01
-FISC:
-	Rumbles: Rumbles!users.noreply.github.com, jamesrstocker!gmail.com from 2019-07-01 until 2021-01-01
-FISPAN:
-	fkrauthan: fkrauthan!gmx.net, fkrauthan!users.noreply.github.com from 2017-11-01

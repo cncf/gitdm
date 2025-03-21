@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+anyasabo: anyasabo!users.noreply.github.com
+	Rackspace until 2017-03-01
+	ObjectRocket from 2017-03-01 until 2019-05-01
+	Elasticsearch Inc. from 2019-05-01 until 2022-01-20
+	Independent from 2022-01-20
 anycodes: anycodes!users.noreply.github.com, service!52exe.cn
 	Alibaba Group
 anygaard: anygaard!inselo.no

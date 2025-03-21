@@ -5,6 +5,14 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+tsebastiani: tsebastiani!users.noreply.github.com
+	Point Up until 2015-11-01
+	Qi Interactive from 2015-11-01 until 2016-07-01
+	Candyspace Media from 2016-07-01 until 2017-01-01
+	X3 Solutions from 2017-01-01 until 2020-01-01
+	Frami.io from 2020-01-01 until 2021-11-01
+	TIM from 2021-11-01 until 2022-10-01
+	Red Hat Inc. from 2022-10-01
 tsekiyama: tomoki.sekiyama!hds.com
 	Hitachi Ltd.
 tsenart: tsenart!gmail.com, tsenart!users.noreply.github.com
@@ -218,7 +226,7 @@ tsurdilo: tsurdilo!redhat.com, tsurdilo!users.noreply.github.com
 	Red Hat Inc.
 tsuyoshizawa: tsuyoshi.yoshizawa!gmail.com, tsuyoshizawa!users.noreply.github.com
 	Nulab
-tsuzu: tsuzu!users.noreply.github.com, tsuzu!tsuzu.dev, tstsuchi!lycorp.co.jp
+tsuzu: tstsuchi!lycorp.co.jp, tsuzu!tsuzu.dev, tsuzu!users.noreply.github.com
 	Independent until 2022-04-01
 	Yahoo! Japan Corporation from 2022-04-01 until 2023-10-01
 	LY Corporation from 2023-10-01
@@ -15194,5 +15202,3 @@ zzzhy: candle_1667!163.com, zzzhy!users.noreply.github.com
 	Meituan
 zzztimbo: zzztimbo!users.noreply.github.com
 	Red Hat Inc.
-NitinRamnani: nitin.ramnani!infosys.com, NitinRamnani!users.noreply.github.com
-	Infosys Limited
