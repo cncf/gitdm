@@ -5,17 +5,6 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
-rpetti: robert.petti!hp.com
-	HP Inc.
-rphillips: rphillips!redhat.com, rphillips!users.noreply.github.com, ryan!trolocsis.com
-	Rackspace until 2017-07-01
-	Red Hat Inc. from 2017-07-01
-rpieczon: rpieczon!users.noreply.github.com
-	Intel Corporation
-rpionke: raphael.pionke!t-systems.com, rpionke!users.noreply.github.com
-	T-Systems
-rpioso: richard.pioso!dell.com
-	Dell
 rpjayasekara: rpjayasekara!users.noreply.github.com
 	Independent until 2016-10-01
 	AIESEC in Colombo South from 2016-10-01 until 2017-10-01
@@ -1821,7 +1810,7 @@ sabinaaledort: sabinaaledort!users.noreply.github.com
 	Consonance from 2017-11-01 until 2020-05-01
 	Red Hat Inc. from 2020-05-01
 sabinich: sabinich!users.noreply.github.com
-	FLANT EUROPE OÜ
+	Flant JCS
 sabithag: sabitha.george!gmail.com
 	Cisco
 sabixx: sabixx!users.noreply.github.com
@@ -4265,7 +4254,7 @@ sb-truefalse: sb-truefalse!users.noreply.github.com
 	Independent until 2018-12-01
 	Elecard from 2018-12-01 until 2019-06-01
 	Sequenia from 2019-06-01 until 2020-06-01
-	FLANT EUROPE OÜ from 2020-06-01
+	Flant JCS from 2020-06-01
 sb185296: sb185296!users.noreply.github.com
 	NCR Corporation
 sb1975: sb1975!users.noreply.github.com
@@ -8893,7 +8882,7 @@ shurkaxaa: shurkaxaa!users.noreply.github.com
 	Brillio from 2016-08-01 until 2018-04-01
 	Tekion from 2018-04-01
 shurup: dmitry.shurupov!flant.com, dmitry.shurupov!flant.ru, dmitry.shurupov!palark.com, shurup!users.noreply.github.com
-	FLANT EUROPE OÜ until 2022-10-01
+	Flant JCS until 2022-10-01
 	Palark from 2022-10-01
 shuuji3: shuuji3!gmail.com, shuuji3!users.noreply.github.com
 	Independent until 2018-02-01
@@ -8914,7 +8903,7 @@ shuzokato: shuzokato!users.noreply.github.com
 	Independent from 2021-11-01
 shvgn: evgeny.shevchenko!flant.com, shvgn!users.noreply.github.com
 	Independent until 2020-12-17
-	FLANT EUROPE OÜ from 2020-12-17
+	Flant JCS from 2020-12-17
 shvmbisht: shvmbisht!gmail.com, shvmbisht!users.noreply.github.com
 	Independent until 2018-11-01
 	mobiotics from 2018-11-01 until 2019-04-01
@@ -23857,3 +23846,16 @@ trecloux: trecloux!users.noreply.github.com
 	MOOM Planet from 2020-10-01 until 2022-03-01
 	QIMA from 2022-03-01 until 2022-06-01
 	UpStreamPay from 2022-06-01
+treed: ted.reed!gmail.com, treed!users.noreply.github.com
+	IMVU until 2017-11-01
+	Pure Storage from 2017-11-01
+treeder: antonbaklanov!gmail.com, treeder!gmail.com, treeder!users.noreply.github.com
+	Iron.io Inc. until 2017-04-01
+	Oracle America Inc. from 2017-04-01 until 2018-07-01
+	Job from 2018-07-01 until 2019-03-01
+	Salesforce.com Inc. from 2019-03-01
+treedy: treedy!users.noreply.github.com
+	Google LLC until 2022-03-01
+	Independent from 2022-03-01
+treii28: cwocwo1!gmail.com
+	Inspur Group

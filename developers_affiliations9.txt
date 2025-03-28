@@ -5,19 +5,6 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
-treed: ted.reed!gmail.com, treed!users.noreply.github.com
-	IMVU until 2017-11-01
-	Pure Storage from 2017-11-01
-treeder: antonbaklanov!gmail.com, treeder!gmail.com, treeder!users.noreply.github.com
-	Iron.io Inc. until 2017-04-01
-	Oracle America Inc. from 2017-04-01 until 2018-07-01
-	Job from 2018-07-01 until 2019-03-01
-	Salesforce.com Inc. from 2019-03-01
-treedy: treedy!users.noreply.github.com
-	Google LLC until 2022-03-01
-	Independent from 2022-03-01
-treii28: cwocwo1!gmail.com
-	Inspur Group
 treitmayr: treitmayr!devbase.at
 	Thales
 trejjam: jan!trejbal.land, trejjam!users.noreply.github.com
@@ -2710,7 +2697,7 @@ valdisrigdon: valdis.rigdon!appian.com, valdisrigdon!users.noreply.github.com
 	Content until 2014-06-01
 	Appian Corporation Inc. from 2014-06-01
 valent-ex: anton.klimov!flant.com, anton.klimov!palark.com, valent-ex!users.noreply.github.com
-	FLANT EUROPE OÜ until 2022-10-01
+	Flant JCS until 2022-10-01
 	Palark from 2022-10-01
 valentin-krasontovitsch: v.krasontov!gmail.com, valentin-krasontovitsch!users.noreply.github.com
 	Kubernetes
@@ -4923,7 +4910,7 @@ vitalii-stoian: vit.stoyan!gmail.com, vitalii-stoian!users.noreply.github.com
 vitaliy-leschenko: v.leschenko!vitaliy.org, vitaliy-leschenko!users.noreply.github.com
 	DIGITEUM
 vitaliy-sn: vitaliy-sn!users.noreply.github.com
-	FLANT EUROPE OÜ
+	Flant JCS
 vitaliy-zinchenko: vitaliy-zinchenko!users.noreply.github.com, zinjvi!gmail.com
 	N-iX LTD until 2014-12-01
 	EPAM from 2014-12-01 until 2022-06-01
@@ -10819,7 +10806,7 @@ yaldnoah: duanyalin!inspur.com, yaldnoah!users.noreply.github.com, yalinduan!qq.
 yalosev: losev.yur!gmail.com, yalosev!users.noreply.github.com, yuriy.losev!flant.com
 	Independent until 2016-11-01
 	Elewise from 2016-11-01 until 2021-04-01
-	FLANT EUROPE OÜ from 2021-04-01
+	Flant JCS from 2021-04-01
 yamada-h: yamada.hideki!lab.ntt.co.jp
 	NTT Corporation
 yamajik: yamajik!users.noreply.github.com
@@ -13403,7 +13390,7 @@ z63d: z63d!users.noreply.github.com
 	Independent until 2024-01-01
 	3-shake from 2024-01-01
 z9r5: artem.kladov!flant.com, z9r5!users.noreply.github.com
-	FLANT EUROPE OÜ
+	Flant JCS
 zaa: zaa!ikato.com, zaa!users.noreply.github.com
 	ECHO Research & Development SpA until 2015-03-01
 	MZ from 2015-03-01 until 2016-09-01
@@ -15579,7 +15566,7 @@ zuston: junfan.zhang!outlook.com, zuston!users.noreply.github.com
 	Alluxio Inc. from 2021-05-01 until 2022-09-01
 	Apache from 2022-09-01
 zuzzas: andrei650816!gmail.com, andrey.klimentyev!flant.com, zuzzas!users.noreply.github.com
-	FLANT EUROPE OÜ
+	Flant JCS
 zvictor: zvictor!users.noreply.github.com
 	Independent
 zvigrinberg: zvigrinberg!users.noreply.github.com

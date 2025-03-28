@@ -5,17 +5,6 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
-msvensson222: msvensson222!users.noreply.github.com
-	Independent until 2015-06-01
-	Logent from 2015-06-01 until 2015-08-01
-	Independent from 2015-08-01 until 2016-06-01
-	DB Schenker from 2016-06-01 until 2017-08-01
-	Chalmers from 2017-08-01 until 2018-10-01
-	DAGAB INKÖP & LOGISTIK AB from 2018-10-01 until 2019-04-01
-	Centiro S from 2019-04-01 until 2019-12-01
-	AstraZeneca Pharmaceuticals from 2019-12-01 until 2020-06-01
-	Independent from 2020-06-01 until 2020-09-01
-	Babyshop from 2020-09-01
 msvticket: marten.svantesson!ticket.se, msvticket!users.noreply.github.com
 	Ticket Privatresor
 mswiderski: mswiderski!users.noreply.github.com
@@ -1397,7 +1386,7 @@ nabokihms: maksim.nabokikh!flant.com, nabokihms!users.noreply.github.com
 	Independent until 2016-02-01
 	mark.ru from 2016-02-01 until 2017-09-01
 	Brooklyn Financial Group LLC from 2017-09-01 until 2019-03-01
-	FLANT EUROPE OÜ from 2019-03-01
+	Flant JCS from 2019-03-01
 nabsul: nabsul!users.noreply.github.com
 	Independent until 2015-11-01
 	Automattic from 2015-11-01 until 2018-11-01
@@ -16707,10 +16696,10 @@ qvistgaard: qvistgaard!users.noreply.github.com
 	TDC from 2017-09-01 until 2019-07-01
 	Nuuday from 2019-07-01
 qw1mb0: andrey.sidorov!flant.com, qw1mb0!users.noreply.github.com
-	FLANT EUROPE OÜ until 2020-07-03
+	Flant JCS until 2020-07-03
 	ARRIVAL from 2020-07-03 until 2022-07-01
 	ООО НКО from 2022-07-01 until 2023-08-01
-	FLANT EUROPE OÜ from 2023-08-01
+	Flant JCS from 2023-08-01
 qw3r3wq: github!lpic.lt
 	Independent until 2014-08-01
 	First Data Corporation from 2014-08-01 until 2016-04-01
@@ -23806,3 +23795,14 @@ rpemsel: rpemsel!users.noreply.github.com
 	Independent from 2021-03-01
 rperelma: rperelma!adobe.com, rperelma!users.noreply.github.com
 	Adobe Inc.
+rpetti: robert.petti!hp.com
+	HP Inc.
+rphillips: rphillips!redhat.com, rphillips!users.noreply.github.com, ryan!trolocsis.com
+	Rackspace until 2017-07-01
+	Red Hat Inc. from 2017-07-01
+rpieczon: rpieczon!users.noreply.github.com
+	Intel Corporation
+rpionke: raphael.pionke!t-systems.com, rpionke!users.noreply.github.com
+	T-Systems
+rpioso: richard.pioso!dell.com
+	Dell

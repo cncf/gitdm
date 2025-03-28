@@ -206,44 +206,6 @@ FK Spartaks Jurmala:
 	Pldi23: Pldi23!users.noreply.github.com from 2016-01-01 until 2017-12-01
 FL0 · Contract:
 	Firaenix: Firaenix!users.noreply.github.com from 2024-06-01 until 2024-08-01
-FLANT EUROPE OÜ:
-	EvgenySamoylov: EvgenySamoylov!users.noreply.github.com from 2019-11-01
-	MrBeast: MrBeast!users.noreply.github.com
-	RomanenkoDenys: RomanenkoDenys!users.noreply.github.com, denis.romanenko!flant.com
-	Zhbert: konstantin.nezhbert!flant.com, zhbert!yandex.ru from 2021-09-01
-	alchazov: alchazov!users.noreply.github.com
-	alexey-gavrilov-flant: alexey-gavrilov-flant!users.noreply.github.com, alexey.gavrilov!flant.com
-	alexey-igrychev: aleksei.igrychev!palark.com, alexey-igrychev!users.noreply.github.com, alexey.igrychev!flant.com, driftarp!gmail.com until 2022-10-01
-	apolovov: andrey.polovov!flant.com, apolovov!users.noreply.github.com
-	asidorovj: andrey.sidorov!flant.com until 2020-07-03
-	diafour: diafour!users.noreply.github.com, ivan.mikheykin!flant.com
-	distol: distol!users.noreply.github.com, dmitry.stolyarov!flant.com
-	distorhead: distorhead!gmail.com, distorhead!users.noreply.github.com, timofey.kirillov!flant.com
-	dmitrykravchenko-flant: dmitrykravchenko-flant!users.noreply.github.com from 2019-01-01
-	eugerm: eugerm!users.noreply.github.com
-	fl64: flsixtyfour!gmail.com from 2022-07-01
-	flant-team-sysdev: flant-team-sysdev!users.noreply.github.com
-	gsmetal: gsmetal!users.noreply.github.com, sergey.gnuskov!flant.com
-	gyrter: nikolay.bogdanov!flant.com until 2021-12-07
-	ilya-lesikov: ilya-lesikov!flant.com, ilya-lesikov!users.noreply.github.com from 2020-03-18
-	kirkonru: kirill.kononovich!flant.com, kirkon!gmail.com, kirkonru!users.noreply.github.com
-	kolashtov: andrey.kolashtov!flant.com, kolashtov!users.noreply.github.com
-	konstantin-axenov: konstantin-axenov!users.noreply.github.com, konstantin.aksenov!flant.com
-	kramarama: kramarama!users.noreply.github.com
-	kvaps: andrei.kvapil!aenix.io, andrei.kvapil!wedos.com, andrey.kvapil!flant.com, kvaps!users.noreply.github.com, kvapss!gmail.com from 2021-12-01 until 2022-05-01
-	may-cat: maicatus!gmail.com from 2018-01-01 until 2021-02-01
-	mc-suchecki: qqw1mb0!gmail.com until 2020-07-03
-	nabokihms: maksim.nabokikh!flant.com, nabokihms!users.noreply.github.com from 2019-03-01
-	qw1mb0: andrey.sidorov!flant.com, qw1mb0!users.noreply.github.com until 2020-07-03, from 2023-08-01
-	sabinich: sabinich!users.noreply.github.com
-	sb-truefalse: sb-truefalse!users.noreply.github.com from 2020-06-01
-	shurup: dmitry.shurupov!flant.com, dmitry.shurupov!flant.ru, dmitry.shurupov!palark.com, shurup!users.noreply.github.com until 2022-10-01
-	shvgn: evgeny.shevchenko!flant.com, shvgn!users.noreply.github.com from 2020-12-17
-	valent-ex: anton.klimov!flant.com, anton.klimov!palark.com, valent-ex!users.noreply.github.com until 2022-10-01
-	vitaliy-sn: vitaliy-sn!users.noreply.github.com
-	yalosev: losev.yur!gmail.com, yalosev!users.noreply.github.com, yuriy.losev!flant.com from 2021-04-01
-	z9r5: artem.kladov!flant.com, z9r5!users.noreply.github.com
-	zuzzas: andrei650816!gmail.com, andrey.klimentyev!flant.com, zuzzas!users.noreply.github.com
 FLATSHARING:
 	murka: im!murka.me from 2021-02-01 until 2021-08-01, from 2021-10-01
 FLAVIA IT-Management:
@@ -2248,6 +2210,44 @@ Flanco:
 Flanksource:
 	Moshe-Immerman: Moshe-Immerman!users.noreply.github.com, moshe.immerman!gmail.com
 	moshloop: moshloop!users.noreply.github.com from 2019-12-01
+Flant JCS:
+	EvgenySamoylov: EvgenySamoylov!users.noreply.github.com from 2019-11-01
+	MrBeast: MrBeast!users.noreply.github.com
+	RomanenkoDenys: RomanenkoDenys!users.noreply.github.com, denis.romanenko!flant.com
+	Zhbert: konstantin.nezhbert!flant.com, zhbert!yandex.ru from 2021-09-01
+	alchazov: alchazov!users.noreply.github.com
+	alexey-gavrilov-flant: alexey-gavrilov-flant!users.noreply.github.com, alexey.gavrilov!flant.com
+	alexey-igrychev: aleksei.igrychev!palark.com, alexey-igrychev!users.noreply.github.com, alexey.igrychev!flant.com, driftarp!gmail.com until 2022-10-01
+	apolovov: andrey.polovov!flant.com, apolovov!users.noreply.github.com
+	asidorovj: andrey.sidorov!flant.com until 2020-07-03
+	diafour: diafour!users.noreply.github.com, ivan.mikheykin!flant.com
+	distol: distol!users.noreply.github.com, dmitry.stolyarov!flant.com
+	distorhead: distorhead!gmail.com, distorhead!users.noreply.github.com, timofey.kirillov!flant.com
+	dmitrykravchenko-flant: dmitrykravchenko-flant!users.noreply.github.com from 2019-01-01
+	eugerm: eugerm!users.noreply.github.com
+	fl64: flsixtyfour!gmail.com from 2022-07-01
+	flant-team-sysdev: flant-team-sysdev!users.noreply.github.com
+	gsmetal: gsmetal!users.noreply.github.com, sergey.gnuskov!flant.com
+	gyrter: nikolay.bogdanov!flant.com until 2021-12-07
+	ilya-lesikov: ilya-lesikov!flant.com, ilya-lesikov!users.noreply.github.com from 2020-03-18
+	kirkonru: kirill.kononovich!flant.com, kirkon!gmail.com, kirkonru!users.noreply.github.com
+	kolashtov: andrey.kolashtov!flant.com, kolashtov!users.noreply.github.com
+	konstantin-axenov: konstantin-axenov!users.noreply.github.com, konstantin.aksenov!flant.com
+	kramarama: kramarama!users.noreply.github.com
+	kvaps: andrei.kvapil!aenix.io, andrei.kvapil!wedos.com, andrey.kvapil!flant.com, kvaps!users.noreply.github.com, kvapss!gmail.com from 2021-12-01 until 2022-05-01
+	may-cat: maicatus!gmail.com from 2018-01-01 until 2021-02-01
+	mc-suchecki: qqw1mb0!gmail.com until 2020-07-03
+	nabokihms: maksim.nabokikh!flant.com, nabokihms!users.noreply.github.com from 2019-03-01
+	qw1mb0: andrey.sidorov!flant.com, qw1mb0!users.noreply.github.com until 2020-07-03, from 2023-08-01
+	sabinich: sabinich!users.noreply.github.com
+	sb-truefalse: sb-truefalse!users.noreply.github.com from 2020-06-01
+	shurup: dmitry.shurupov!flant.com, dmitry.shurupov!flant.ru, dmitry.shurupov!palark.com, shurup!users.noreply.github.com until 2022-10-01
+	shvgn: evgeny.shevchenko!flant.com, shvgn!users.noreply.github.com from 2020-12-17
+	valent-ex: anton.klimov!flant.com, anton.klimov!palark.com, valent-ex!users.noreply.github.com until 2022-10-01
+	vitaliy-sn: vitaliy-sn!users.noreply.github.com
+	yalosev: losev.yur!gmail.com, yalosev!users.noreply.github.com, yuriy.losev!flant.com from 2021-04-01
+	z9r5: artem.kladov!flant.com, z9r5!users.noreply.github.com
+	zuzzas: andrei650816!gmail.com, andrey.klimentyev!flant.com, zuzzas!users.noreply.github.com
 Flare:
 	isra17: isra017!gmail.com, isra17!users.noreply.github.com from 2017-02-01
 Flare Systems:
