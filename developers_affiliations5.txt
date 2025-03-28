@@ -5,6 +5,31 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+gsemet: gaetan!xeberon.net, gsemet!users.noreply.github.com
+	Intel Corporation until 2017-06-01
+	Renault from 2017-06-01
+gservat: gservat!users.noreply.github.com
+	domain until 2017-04-01
+	Elasticsearch Inc. from 2017-04-01 until 2021-12-01
+	GitLab from 2021-12-01
+gsf: gsf!users.noreply.github.com, s!gsf.io
+	Consultant until 2015-06-01
+	City of Philadelphia and Philadelphia County from 2015-06-01 until 2016-03-01
+	Vistar Media from 2016-03-01 until 2018-01-01
+	Stepwise LLC from 2018-01-01 until 2019-04-01
+	Independent from 2019-04-01 until 2019-06-01
+	Nava from 2019-06-01
+gshively11: gshively11!users.noreply.github.com
+	GoDaddy Operating Company LLC
+gsi-frank: frank!generalsoftwareinc.com
+	General Software
+gsmecher: gsmecher!threespeedlogic.com
+	Speed Logic
+gsmet: gsmet!users.noreply.github.com, guillaume.smet!gmail.com
+	OpenWide until 2016-03-01
+	Red Hat Inc. from 2016-03-01
+gsmetal: gsmetal!users.noreply.github.com, sergey.gnuskov!flant.com
+	Flant JCS
 gsmirnov-splk: gsmirnov-splk!users.noreply.github.com
 	Deutsche Bank AG until 2014-11-01
 	Plumbr from 2014-11-01 until 2020-11-01
@@ -196,6 +221,8 @@ guce: guce!users.noreply.github.com, guce_baresi!163.com
 	NetEase Inc
 gucki: gucki!users.noreply.github.com, info!corinlangosch.com
 	Netskin
+gudge25: satskiy.a!gmail.com
+	Independent
 gudmojo: gudmundur.orn!gmail.com
 	Handpoint until 2017-03-01
 	Activity Stream from 2017-03-01 until 2020-05-01
@@ -6785,6 +6812,11 @@ ikostan: ikostan!users.noreply.github.com
 	Douglas from 2016-12-01 until 2017-12-01
 	Independent from 2017-12-01 until 2018-02-01
 	FLIR Integrated Imaging Solutions (Telentcor) from 2018-02-01
+ikovalyov: ikovalyov85!gmail.com
+	Tabono Media until 2017-04-01
+	PerfOps from 2017-04-01 until 2019-03-01
+	Showpad from 2019-03-01 until 2024-02-01
+	Sofico from 2024-02-01
 ikr0m: ikr0m!users.noreply.github.com
 	Algo
 ikramulkayes: ikramulkayes!users.noreply.github.com
@@ -7194,6 +7226,11 @@ impeham: impeham!users.noreply.github.com
 	Cyberbit from 2016-03-01 until 2017-01-01
 	webintPro from 2017-01-01 until 2018-01-01
 	Webhose from 2018-01-01
+imphil: imphil!philipp-wagner.com, imphil!users.noreply.github.com, philipp.wagner!tum.de
+	Independent until 2015-10-01
+	FOSSi from 2015-10-01 until 2018-09-01
+	cocotb from 2018-09-01 until 2021-12-01
+	International Business Machines Corporation from 2021-12-01
 impl: impl!users.noreply.github.com
 	Savvr until 2018-06-01
 	Puppet Inc. from 2018-06-01
@@ -8848,6 +8885,16 @@ ivanzotov: ivanzotov!gmail.com, ivanzotov!users.noreply.github.com, me!ivanzotov
 ivar-lazzaro: Evantedesco!gmail.com, ivar-lazzaro!users.noreply.github.com, ivarlazzaro!gmail.com
 	Cisco Systems Inc. until 2014-05-25
 	Cisco from 2014-05-25
+ivardu: ivardu!users.noreply.github.com
+	Siemens until 2015-10-01
+	Independent from 2015-10-01 until 2015-12-01
+	Ideagen from 2015-12-01 until 2016-02-01
+	Aftoo from 2016-02-01 until 2017-04-01
+	PA Media from 2017-04-01 until 2017-10-01
+	Xavient from 2017-10-01 until 2018-02-01
+	NTT Corporation from 2018-02-01 until 2021-11-01
+	TATA from 2021-11-01 until 2022-05-01
+	Capgemini from 2022-05-01
 ivasilyev-servicetitan-com: ivasilyev-servicetitan-com!users.noreply.github.com
 	Azimuth-Automation until 2014-11-01
 	Independent from 2014-11-01 until 2016-06-01
@@ -11980,6 +12027,8 @@ jchax: john.haxby!oracle.com
 jchengsfx: jchengsfx!users.noreply.github.com, jeffreyc!splunk.com
 	SignalFx Inc. until 2019-10-01
 	Splunk Inc. from 2019-10-01
+jchenibm: jchenibm!users.noreply.github.com
+	International Business Machines Corporation
 jchenry: jchenry!users.noreply.github.com
 	Usermind until 2014-05-01
 	Independent from 2014-05-01 until 2014-10-01
@@ -22567,6 +22616,9 @@ karstenkoenig: karsten.koenig.030!gmail.com, karstenkoenig!users.noreply.github.
 	Independent from 2014-01-01 until 2016-08-01
 	Bosch eBike Systems from 2016-08-01 until 2019-02-01
 	Nordic Semiconductor ASA from 2019-02-01
+kartas39: kartas39!gmail.com
+	EPAM until 2025-03-01
+	Soname from 2025-03-01
 karthequian: karthequian!users.noreply.github.com, karthik.gaekwad!gmail.com
 	Mentor Graphics Corporation until 2014-07-01
 	Signal from 2014-07-01 until 2014-11-01
@@ -23776,50 +23828,3 @@ kentfredric: kentfredric!gmail.com, kentfredric!users.noreply.github.com
 	Z Energy NZ from 2017-11-01
 kenthua: kenthua!google.com, kenthua!users.noreply.github.com, pitchdarkice!gmail.com
 	Google LLC
-kentnsw: kentnsw!users.noreply.github.com
-	DMX until 2014-06-01
-	Global Technology Integrator from 2014-06-01 until 2016-03-01
-	DHC Family from 2016-03-01 until 2017-04-01
-	Independent from 2017-04-01 until 2018-03-01
-	Foxtel from 2018-03-01 until 2020-06-01
-	Independent from 2020-06-01 until 2021-06-01
-	News Corp from 2021-06-01
-kentonv: karthicoracle!gmail.com, kenton!cloudflare.com, kenton!sandstorm.io
-	Cloudflare Inc
-kentquirk: kentquirk!gmail.com, kentquirk!honeycomb.io, kentquirk!users.noreply.github.com
-	Independent until 2021-03-30
-	Hound Technology Inc. dba Honeycomb from 2021-03-30
-kentrussell: kent.russell!amd.com
-	Advanced Micro Devices (AMD)
-kentso: kentso!users.noreply.github.com
-	Rakuten until 2017-07-01
-	Fast Retailing USA Inc. from 2017-07-01 until 2020-03-01
-	KPMG from 2020-03-01
-kenvifire: kenvifire!users.noreply.github.com, mrwhite!163.com
-	Tmall until 2014-04-01
-	Independent from 2014-04-01 until 2014-07-01
-	陆金所 from 2014-07-01 until 2015-07-01
-	Meituan from 2015-07-01 until 2017-03-01
-	AWS from 2017-03-01 until 2020-12-01
-	Microsoft Corporation from 2020-12-01
-keontang: ikeontang!gmail.com, keontang!users.noreply.github.com, tangjiyuan!caicloud.io
-	Caiyun Technology (Caicloud)
-keperry: keperry!users.noreply.github.com
-	Integrated DNA until 2015-06-01
-	GoDaddy Operating Company LLC from 2015-06-01
-kergon: agk!redhat.com, kergon!users.noreply.github.com
-	Red Hat Inc.
-kerin: kerin!users.noreply.github.com
-	Independent until 2015-10-01
-	The Government Report from 2015-10-01 until 2016-07-01
-	NHS Digital from 2016-07-01 until 2016-10-01
-	Independent from 2016-10-01 until 2019-07-01
-	Digital from 2019-07-01 until 2019-10-01
-	Methods from 2019-10-01 until 2020-03-01
-	Independent from 2020-03-01 until 2021-08-01
-	Goverment Digital Service from 2021-08-01 until 2022-02-01
-	Independent from 2022-02-01 until 2022-03-01
-	Contino from 2022-03-01
-kerinin: kerinin!users.noreply.github.com
-	Return Path Inc. until 2019-06-01
-	Kaskada from 2019-06-01

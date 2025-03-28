@@ -2,6 +2,22 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+NuoDB Inc.:
+	Ashutosh-Shukla: shukla.as!husky.neu.edu from 2019-05-01 until 2019-12-01
+	KnoxAnderson: KnoxAnderson!users.noreply.github.com, knoxanderson11!gmail.com until 2015-12-01
+	VDuda: VDuda!users.noreply.github.com from 2014-05-15 until 2015-10-15
+	Weltraum: Weltraum!users.noreply.github.com, vduda!users.noreply.github.com from 2014-05-15 until 2015-10-15
+	acharis: acharis!hubspot.com, acharis!users.noreply.github.com, alex!imap.cc until 2015-10-01
+	acharisshopify: acharisshopify!users.noreply.github.com until 2015-10-01
+	keithmcneill: keithmcneill!users.noreply.github.com until 2017-01-01
+	thebithead: thebithead!users.noreply.github.com until 2020-04-01
+	yordanmadzhunkov: yordanmadzhunkov!users.noreply.github.com from 2019-05-01 until 2021-08-01
+Nuovo:
+	pandeybk: pandeybk!users.noreply.github.com from 2015-12-01 until 2018-10-01
+Nupay:
+	readall: readall!users.noreply.github.com from 2022-05-01
+Nurd Innovation Center Turkey:
+	theduman: emreduman16!gmail.com, theduman!users.noreply.github.com from 2018-12-01 until 2019-11-01
 Nureva:
 	LaurentGoderre: LaurentGoderre!users.noreply.github.com, laurent.goderre!gmail.com from 2019-12-01
 Nuri:
@@ -3172,6 +3188,7 @@ Oracle America Inc.:
 	Ishani-Gupta: Ishani-Gupta!users.noreply.github.com, ishani.gupta!nutanix.com from 2015-07-01 until 2017-07-01
 	JadeRedworth: jaderedworth!hotmail.co.uk
 	JaroslavTulach: jaroslav.tulach!oracle.com
+	JauntyJames: JauntyJames!users.noreply.github.com
 	JnyJny: JnyJny!users.noreply.github.com, erik.oshaughnessy!gmail.com
 	JohnPostlethwait: JohnPostlethwait!users.noreply.github.com, johnpostlethwait!fastmail.com from 2015-04-01
 	Jont828: Jont828!users.noreply.github.com from 2015-05-01 until 2019-08-01
@@ -4453,6 +4470,8 @@ PA Consulting Holdings Limited:
 	pamorgan: pamorgan!users.noreply.github.com
 PA Digitale:
 	sandromodarelli: 19608212+sandromodarelli!users.noreply.github.com, sandromodarelli!users.noreply.github.com until 2016-12-01
+PA Media:
+	ivardu: ivardu!users.noreply.github.com from 2017-04-01 until 2017-10-01
 PA Softwares:
 	peeyush-es: peeyush-es!users.noreply.github.com from 2019-04-01 until 2020-08-01
 PAC:
@@ -6974,6 +6993,8 @@ PerfMa:
 	tydhot: tydhot!apache.org, tydhot!users.noreply.github.com
 PerfMeUp:
 	fahedouch: fahed.dorgaa!gmail.com, fahedouch!users.noreply.github.com from 2016-06-01 until 2016-09-01
+PerfOps:
+	ikovalyov: ikovalyov85!gmail.com from 2017-04-01 until 2019-03-01
 Perfect Commerce:
 	msingle: matt.singletary!gmail.com, msingle!users.noreply.github.com
 Perfect Future:
