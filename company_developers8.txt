@@ -2,6 +2,13 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Lytics:
+	NikeNano: NikeNano!users.noreply.github.com from 2017-01-01 until 2017-06-01
+	Ropes: Ropes!users.noreply.github.com until 2018-02-01
+	epsniff: epsniff!users.noreply.github.com from 2014-06-01
+	mattayes: matt.hayes91!gmail.com, mattayes!users.noreply.github.com from 2017-12-01
+	schmichael: michael.schurter!gmail.com, schmichael!lytics.io, schmichael!users.noreply.github.com until 2016-07-01
+	shindakun: shindakun!users.noreply.github.com from 2018-01-01
 Lytro:
 	anujbiyani: anujbiyani!users.noreply.github.com until 2015-01-01
 	crazytan: crazytan!users.noreply.github.com, tjtanjia.tan!gmail.com from 2015-08-01 until 2016-12-01
@@ -4482,7 +4489,7 @@ MessageBird:
 	marcelcorso: marcel!messagebird.com, marcel.corso!gmail.com, marcelcorso!users.noreply.github.com
 	niekert: niekert!users.noreply.github.com from 2017-12-01
 	pablochacin: pablochacin!users.noreply.github.com, pchacin!suse.com from 2021-01-01 until 2022-06-01
-	ricardomaraschini: ricardomaraschini!users.noreply.github.com from 2018-01-01 until 2019-05-01
+	ricardomaraschini: ricardo.maraschini!gmail.com, ricardomaraschini!users.noreply.github.com, rmarasch!redhat.com from 2018-01-01 until 2019-05-01
 	surik: surik!users.noreply.github.com, yury.gargay!gmail.com from 2022-03-01 until 2022-08-01
 	wwmoraes: wwmoraes!users.noreply.github.com from 2019-10-01 until 2021-01-01
 MessageControl:
@@ -10680,7 +10687,7 @@ NEC Corporation:
 	mourya007: deepak.mourya!india.nec.com, mourya007!users.noreply.github.com
 	mudit-01: mudit-01!users.noreply.github.com, mudit.singh!india.nec.com until 2023-05-25
 	nechq: tshibata!ab.jp.nec.com
-	niranjandarshann: niranjan.darshan!india.nec.com, niranjandarshann!users.noreply.github.com until 2025-03-31
+	niranjandarshann: niranjan.darshan!india.nec.com, niranjandarshann!users.noreply.github.com until 2025-04-01
 	oomichi: ken-oomichi!wx.jp.nec.com, oomichi!users.noreply.github.com until 2022-06-01
 	parauliya: parauliya!users.noreply.github.com until 2017-01-01
 	poothia: poothia!users.noreply.github.com, poothia.shubhendu!gmail.com, shubhendu.poothia!india.nec.com until 2019-08-01
@@ -13820,6 +13827,7 @@ New Relic Inc.:
 	coopr: coopr!users.noreply.github.com until 2016-10-01
 	cristianciutea: cristi.ciutea!gmail.com, cristianciutea!users.noreply.github.com from 2021-04-19
 	cwildman: cwildman!users.noreply.github.com from 2015-01-01
+	danielgblanco: daniel.gomezblanco!skyscanner.net, danielgblanco!users.noreply.github.com, dgomezblanco!newrelic.com, mail!dangb.me, nanodgb!gmail.com from 2025-04-01
 	danifitz: danifitz!users.noreply.github.com from 2018-10-01 until 2021-09-01
 	darwin67: 5746693+darwin67!users.noreply.github.com, darwin67!users.noreply.github.com, wuddarwin!gmail.com from 2015-08-01 until 2016-04-01
 	dennisme: dennisme!users.noreply.github.com, medennison123!gmail.com from 2015-09-01 until 2020-01-01
@@ -15951,5 +15959,3 @@ Nuna:
 	galbacarys: galbacarys!users.noreply.github.com from 2022-01-01
 Nuntio:
 	js3692: js3692!users.noreply.github.com from 2016-03-01 until 2016-05-01
-Nunya:
-	matthewhembree: matthewhembree!users.noreply.github.com from 2019-11-01

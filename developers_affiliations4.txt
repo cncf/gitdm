@@ -5,6 +5,15 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+danielepolencic: daniele.polencic!gmail.com, danielepolencic!users.noreply.github.com
+	Uasabi until 2017-03-01
+	Learnk8s from 2017-03-01
+danielerez: danielerez!users.noreply.github.com, derez!redhat.com
+	Red Hat Inc.
+danielezer: danielezer!users.noreply.github.com, danielezer95!gmail.com
+	Jfrog
+danielfbm: daniel!alauda.io, danielfbm!gmail.com, danielfbm!users.noreply.github.com, rjlarcombe!gmail.com
+	AlaudaInc
 danielfelgar: danielfelgar!users.noreply.github.com
 	Quasar until 2016-03-01
 	Independent from 2016-03-01 until 2018-02-01
@@ -23,10 +32,10 @@ danielfoehrKn: danielfoehrKn!users.noreply.github.com
 	SAP
 danielfrg: danielfrg!users.noreply.github.com, df.rodriguez143!gmail.com
 	Continuum Analytics
-danielgblanco: daniel.gomezblanco!skyscanner.net, danielgblanco!users.noreply.github.com, mail!dangb.me, nanodgb!gmail.com, dgomezblanco!newrelic.com
+danielgblanco: daniel.gomezblanco!skyscanner.net, danielgblanco!users.noreply.github.com, dgomezblanco!newrelic.com, mail!dangb.me, nanodgb!gmail.com
 	Independent until 2018-08-15
-	Skyscanner from 2018-08-15
-        New Relic Inc. from 2025-03-31
+	Skyscanner from 2018-08-15 until 2025-04-01
+	New Relic Inc. from 2025-04-01
 danielgerlag: daniel!gerlag.ca, danielgerlag!users.noreply.github.com
 	FedGroup until 2015-06-01
 	Westland from 2015-06-01 until 2017-02-01
@@ -23888,17 +23897,3 @@ gschneider-r7: gavin_schneider!rapid7.com, gschneider-r7!users.noreply.github.co
 	Rapid7 Inc.
 gschueler: evan!esobko.com, greg.schueler!gmail.com
 	Rundeck Inc.
-gschukin: gschukin!users.noreply.github.com
-	Cisco until 2014-03-01
-	Positive s.r.o. from 2014-03-01 until 2018-09-01
-	Independent from 2018-09-01 until 2019-02-01
-	Aquiva from 2019-02-01
-gsdevme: gsdevme!users.noreply.github.com
-	Independent until 2014-10-01
-	Inviqa from 2014-10-01 until 2015-06-01
-	Markup from 2015-06-01 until 2020-10-01
-	Stockopedia from 2020-10-01
-gsegovia2018: gsegovia2018!users.noreply.github.com
-	Independent
-gsemaj: gentsemaj!live.com
-	Independent
