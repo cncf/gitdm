@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+CommuniGator:
+	avestuk: avestuk!users.noreply.github.com from 2017-12-01 until 2018-10-01
+Communication Club:
+	anirudhAgniRedhat: anirudhAgniRedhat!users.noreply.github.com from 2020-08-01 until 2023-06-01
+Communication Service for the Deaf Inc.:
+	jeffutter: jeffutter!users.noreply.github.com from 2017-06-01 until 2019-02-01
 Community:
 	brettstack: brett.j.andrews!gmail.com until 2015-05-01
 	itgkarl: itgkarl!web.de, itgkarl+git!gmail.com from 2018-12-01
@@ -816,6 +822,7 @@ Constant Commerce:
 	claudio-benfatto: claudio-benfatto!users.noreply.github.com from 2014-04-01 until 2015-10-01
 	devopsbrett: brett!brettmack.me until 2014-05-01
 Constant Contact Inc.:
+	ashley-cui: acui!redhat.com, ashley-cui!users.noreply.github.com from 2018-06-01 until 2018-08-01
 	citizenken: citizenken!users.noreply.github.com from 2017-11-01
 	cpaika: cpaika!student.umass.edu, cpaika!users.noreply.github.com, paika.christopher!gmail.com
 	loreleimccollum: loreleimccollum!users.noreply.github.com from 2017-12-01 until 2021-06-01
