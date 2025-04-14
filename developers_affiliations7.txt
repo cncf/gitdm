@@ -5,6 +5,37 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+msftclas: msftclas!users.noreply.github.com
+	Microsoft Corporation
+msftgits: msftgits!microsoft.com, msftgits!users.noreply.github.com
+	(Robots)
+msfuko: msfuko!users.noreply.github.com
+	Trend Micro Incorporated
+msfussell: markfussell!gmail.com, mfussell!microsoft.com, msfussell!users.noreply.github.com
+	Microsoft Corporation until 2021-12-01
+	Diagrid from 2021-12-01
+msgodf: mark.godfrey!oracle.com, msgodf!gmail.com
+	Nokia Corporation until 2014-04-01
+	Microsoft Corporation from 2014-04-01 until 2014-08-01
+	Oracle America Inc. from 2014-08-01
+mshahat: mshahat!computer.org, mshahat!users.noreply.github.com
+	Tibco Group
+mshahbaz: mshahbaz!cs.princeton.edu, mshahbaz!users.noreply.github.com
+	Independent
+mshaikh786: mohsinshaikh786!gmail.com, mshaikh786!users.noreply.github.com
+	Independent
+mshaverdo: m.shaverdo!gmail.com, mshaverdo!users.noreply.github.com
+	Bookie until 2017-06-01
+	Independent from 2017-06-01 until 2018-04-01
+	Synesis from 2018-04-01 until 2019-03-01
+	AVITO from 2019-03-01
+mshawcroft: marcus.shawcroft!gmail.com, mshawcroft!users.noreply.github.com
+	ARM
+msheldyakov: msheldyakov!users.noreply.github.com, sheldyakov!tutu.ru
+	Independent until 2015-03-01
+	Tutu from 2015-03-01
+mshenhera: mshenhera!users.noreply.github.com
+	Independent
 msherif1234: mmahmoud!redhat.com, msherif1234!users.noreply.github.com
 	Cisco until 2021-03-01
 	Red Hat Inc. from 2021-03-01
@@ -23777,38 +23808,3 @@ roshan1988: roshanalexander88!gmail.com
 	Beyond Follow from 2022-04-01
 roshandawrani: roshandawrani!gmail.com, roshandawrani!users.noreply.github.com
 	Independent
-roshanikk: roshanikk!users.noreply.github.com
-	Independent until 2018-08-01
-	Chitale from 2018-08-01 until 2019-06-01
-	Viasat Inc. from 2019-06-01 until 2021-10-01
-	Encora from 2021-10-01
-roshinis78: roshinis78!users.noreply.github.com
-	Independent
-roshpr: roshpr!gmail.com, roshpr!users.noreply.github.com
-	Juniper Networks Inc.
-rosko: a!insvit.com, rosko!users.noreply.github.com
-	Equalibra until 2014-02-01
-	Independent from 2014-02-01 until 2014-04-01
-	Rumble from 2014-04-01 until 2018-07-01
-	Bank of New York Mellon from 2018-07-01
-ross-mcdermott: ross-mcdermott!users.noreply.github.com
-	DWS until 2014-12-01
-	CPA Australia from 2014-12-01 until 2019-02-01
-	Deloitte New Zealand from 2019-02-01
-ross-p-smith: ross-p-smith!users.noreply.github.com
-	Microsoft Corporation
-rossato-rh: rossato-rh!users.noreply.github.com
-	Red Hat Inc.
-rossbachp: peter.rossbach!bee42.com, peterrossbach!me.com, rossbachp!users.noreply.github.com
-	bee42 until 2019-09-01
-	communicode from 2019-09-01
-rosscdh: rosscdh!users.noreply.github.com
-	LawPal until 2014-10-01
-	manualONE from 2014-10-01 until 2016-12-01
-	Independent from 2016-12-01 until 2017-03-01
-	Douglas from 2017-03-01 until 2018-10-01
-	Mindcurv SL from 2018-10-01
-rossdotpink: rossdotpink!users.noreply.github.com
-	DHL Express
-rossdylan: rossd!dropbox.com
-	Dropbox Inc.

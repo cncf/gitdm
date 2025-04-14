@@ -2957,6 +2957,13 @@ ashley-3r: ashley-3r!users.noreply.github.com
 	OKIOK Data ltd from 2015-09-01 until 2017-07-01
 	National Bank of Canada from 2017-07-01 until 2019-05-01
 	3Rein from 2019-05-01
+ashley-cui: acui!redhat.com, ashley-cui!users.noreply.github.com
+	Independent until 2018-06-01
+	Constant Contact Inc. from 2018-06-01 until 2018-08-01
+	Independent from 2018-08-01 until 2019-05-01
+	Red Hat Inc. from 2019-05-01 until 2019-09-01
+	Independent from 2019-09-01 until 2020-06-01
+	Red Hat Inc. from 2020-06-01
 ashleydavies: ashley!davies.me.uk, ashleydavies!users.noreply.github.com, ashleydavieslyons!improbable.io
 	Independent until 2016-06-01
 	Netcraft from 2016-06-01 until 2016-09-01
@@ -15504,6 +15511,10 @@ cdobinsky: cdobinsky!users.noreply.github.com
 	WABCO from 2018-04-01 until 2018-08-01
 	NORD/LB from 2018-08-01 until 2021-05-01
 	Independent from 2021-05-01
+cdoern: cdoern!redhat.com, cdoern!users.noreply.github.com
+	Independent until 2022-06-01
+	Working for Worcester from 2022-06-01 until 2023-06-01
+	Red Hat Inc. from 2023-06-01
 cdown: cdown!fb.com, cdown!users.noreply.github.com, chris!chrisdown.name, wildan
 	Meta Platforms Inc.
 cdrage: cdrage!users.noreply.github.com, charlie!charliedrage.com
@@ -23716,16 +23727,3 @@ danibachar: danibachar!users.noreply.github.com
 danibaeyens: danibaeyens!users.noreply.github.com
 	Frogtek until 2015-08-01
 	adidas from 2015-08-01
-danicat: danicat!users.noreply.github.com, daniela.petruzalek!gmail.com
-	Oracle America Inc. until 2016-07-01
-	Independent from 2016-07-01 until 2017-01-01
-	Globo from 2017-01-01 until 2018-03-01
-	ThoughtWorks Inc from 2018-03-01 until 2019-01-01
-	GoCardless Ltd from 2019-01-01 until 2020-02-01
-	Independent from 2020-02-01 until 2020-09-01
-	Civi from 2020-09-01 until 2021-01-03
-	JPMorgan Chase from 2021-01-03
-daniel-beck: 1831569+daniel-beck!users.noreply.github.com, daniel-beck!github.com, daniel-beck!users.noreply.github.com
-	CloudBees Inc.
-daniel-carrington: daniel-carrington!users.noreply.github.com, daniel.carrington!hpe.com, dpcarrington!gmail.com
-	HP Inc.
