@@ -2,6 +2,41 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+F-Secure Corporation:
+	jakub-bochenski: jakub-bochenski!users.noreply.github.com, jbochenski!egnyte.com, kuba.bochenski!gmail.com, kuba.bochenski+logstash-plugin!gmail.com from 2018-04-01
+	jpts: jpts!users.noreply.github.com from 2017-11-01 until 2021-07-01
+	sigprof: vsu!altlinux.ru from 2016-12-01
+	tuukkamustonen: tuukkamustonen!users.noreply.github.com until 2022-04-01
+F-Secure Cyber Security (Pty) Ltd):
+	TomaszSzusterTR: TomaszSzusterTR!users.noreply.github.com from 2018-07-01 until 2019-02-01
+	airmonitor: airmonitor!users.noreply.github.com, tomasz.szuster!gmail.com from 2018-07-01 until 2019-02-01
+	eoftedal: eoftedal!users.noreply.github.com from 2015-05-01 until 2016-03-01
+	freetom: tomasbortoli!gmail.com from 2018-11-01
+	ibbadhafeez: ibbadhafeez!users.noreply.github.com from 2017-12-01 until 2020-09-01
+	juissi-t: juissi-t!users.noreply.github.com until 2016-11-01
+	lauriholmas: lauriholmas!users.noreply.github.com until 2014-12-01
+	oliora: oliora!gmail.com until 2014-03-01
+	sylr: s.rabot!lectra.com, sylr!users.noreply.github.com, sylvain!abstraction.fr until 2017-04-01
+F-Technology:
+	DmitryKiselev: DmitryKiselev!users.noreply.github.com until 2015-03-01
+F1 Connecting:
+	HenryGP: HenryGP!users.noreply.github.com until 2015-06-01
+F1 Oncology:
+	david-thrower: david-thrower!users.noreply.github.com from 2017-03-01 until 2019-04-01
+F1International Technologies:
+	ssalaues: ssalaues!users.noreply.github.com until 2016-01-01
+F1Soft:
+	surajgautam: surajgautam!users.noreply.github.com, teamwarrior200!gmail.com from 2017-07-01 until 2019-02-01
+F24 Ag:
+	kenan435: hof!hofcom.nl, kenan.karamehmedovic!est.fujitsu.com, kenan435!gmail.com, kenan435!users.noreply.github.com, leluch.contacts!gmail.com until 2016-03-01
+F2F Computer:
+	wickedev: wickedev!users.noreply.github.com until 2014-12-01
+F2Pool:
+	liuyangc3: liuyangc3!users.noreply.github.com from 2019-07-01
+F3:
+	juris: juris!users.noreply.github.com from 2019-05-01
+F4:
+	GabrielNicolasAvellaneda: GabrielNicolasAvellaneda!users.noreply.github.com, avellaneda.gabriel!gmail.com from 2017-06-01
 F5 Networks Inc.:
 	Dean-Coakley: Dean-Coakley!users.noreply.github.com, dean.s.coakley!gmail.com from 2019-04-01
 	JLCode-tech: JLCode-tech!users.noreply.github.com
@@ -986,8 +1021,6 @@ Far East:
 	lwj5: lwj5!hotmail.com, lwj5!users.noreply.github.com from 2015-05-01 until 2015-07-01
 FarEye:
 	abhi93104: abhi93104!users.noreply.github.com from 2020-04-01
-FaraDars:
-	djnotes: djnotes!users.noreply.github.com from 2020-09-01 until 2023-08-01
 Faraday Future:
 	daehyeok: daehyeok!users.noreply.github.com from 2018-03-01 until 2019-05-01
 Faraday Technology Corporation:
@@ -2373,6 +2406,7 @@ Flatiron School:
 	veverkap: veverkap!users.noreply.github.com from 2017-12-01 until 2019-06-01
 	yehudamakarov: yehudamakarov!gmail.com, yehudamakarov!users.noreply.github.com from 2018-10-01 until 2020-01-01
 Flatirons:
+	ananthb: antsub!gmail.com from 2018-07-01 until 2019-12-01
 	teknofile: teknofile!users.noreply.github.com from 2020-09-01 until 2021-11-01
 	wdxxl: wdxxlanswer!gmail.com from 2016-08-01 until 2018-04-01
 Flatirons Solutions:
@@ -4048,6 +4082,8 @@ Fuchs:
 	stealthyV1per: stealthyV1per!users.noreply.github.com from 2019-08-01
 Fuchsia Shoes:
 	macolso: macolso!users.noreply.github.com from 2017-01-01 until 2017-05-01
+FuchsiaGiraffe:
+	ananthb: antsub!gmail.com from 2016-12-01 until 2017-08-01
 Fudo:
 	tcordeu: info!tcordeu.com, tcordeu!users.noreply.github.com from 2018-09-01 until 2019-11-01
 Fudo Security:
@@ -5161,6 +5197,8 @@ GNOME:
 	maiamcc: maiamcc!users.noreply.github.com from 2014-10-01 until 2015-02-01
 GNS Healthcare:
 	DharmitD: DharmitD!users.noreply.github.com from 2019-05-01 until 2019-08-01, from 2020-01-01 until 2020-05-01
+GNS mbh:
+	idleroamer: idleroamer!users.noreply.github.com until 2018-01-01
 GNS-IT:
 	ALX-TH: ALX-TH!users.noreply.github.com from 2016-09-01 until 2019-09-01
 GNTRY:
@@ -7963,6 +8001,7 @@ Goldman Sachs & Co. LLC:
 	gmarek: gmarek!google.com, gmarek!users.noreply.github.com, grmarek!gmail.com from 2019-03-01
 	gnavgire: aganeshnavgire!gmail.com, gnavgire!users.noreply.github.com from 2015-04-01 until 2017-08-01
 	guo0693: guo0693!gmail.com, guo0693!users.noreply.github.com until 2016-02-01
+	infiniteregrets: infiniteregrets!users.noreply.github.com from 2024-05-01 until 2024-07-01
 	ivanRylach: ivan.rylach!gmail.com from 2014-09-01 until 2016-04-01
 	johnhoman: homan.jack!gmail.com, johnhoman!users.noreply.github.com from 2023-08-01
 	justachetan: 30755871+adsrc!users.noreply.github.com, aditya16217!iiitd.ac.in, justachetan!users.noreply.github.com from 2020-06-01 until 2020-07-01
@@ -8398,6 +8437,7 @@ Google LLC:
 	PTDelaney: peterdelaney!google.com
 	Parent5446: tromeo!google.com
 	Parikshit-Hooda: Parikshit-Hooda!users.noreply.github.com, phooda804!live.com from 2019-11-01 until 2020-02-01
+	ParkerVR: ParkerVR!users.noreply.github.com from 2019-02-01 until 2019-05-01
 	PascalPrecht: PascalPrecht!users.noreply.github.com, pascal.precht!googlemail.com from 2015-08-01 until 2016-03-01
 	PatrickXYS: PatrickXYS!users.noreply.github.com, XYSHOW!amazon.com from 2019-08-01 until 2019-10-01
 	PeWu: PeWu!users.noreply.github.com, pwiech!gmail.com
@@ -9481,6 +9521,7 @@ Google LLC:
 	goltermann: goltermann!google.com, goltermann!users.noreply.github.com until 2017-06-01
 	gonzalop: gonzalop!users.noreply.github.com from 2014-01-01
 	gonzojive: gonzojive!users.noreply.github.com, reddaly at gee mail dot com, reddaly!google.com
+	gordonmessmer: gordon.messmer!gmail.com from 2021-08-01
 	gordonmzhu: gordonmzhu!gmail.com, gordonmzhu!users.noreply.github.com until 2014-04-01
 	govindgoel: govindgoel!users.noreply.github.com from 2020-03-01 until 2020-08-01
 	gr455: gr455!users.noreply.github.com from 2021-06-01 until 2021-08-01
@@ -9532,6 +9573,7 @@ Google LLC:
 	hanqingl: hanqingliu!google.com
 	hansl: hans!hansl.ca, hans!larsen.online, hansl!users.noreply.github.com from 2015-05-01 until 2019-07-01
 	hantaowang: hantaowang!users.noreply.github.com, hww!google.com from 2019-05-01 until 2019-08-01
+	hanwen-flow: hanwen!engflow.com until 2024-04-01
 	haon4: 45579440+haon4!users.noreply.github.com, haon!google.com, haon4!users.noreply.github.com
 	haozhun: haozhun!users.noreply.github.com until 2014-09-01
 	happinesstaker: happinesstaker!users.noreply.github.com, jiajiey!google.com from 2018-03-01
@@ -13369,6 +13411,7 @@ HORYOU SA:
 	azr: adrien.delorme!icloud.com, azr!users.noreply.github.com until 2014-12-01
 HOST:
 	Avtandilko: Avtandilko!users.noreply.github.com from 2015-10-01 until 2017-03-01
+	esendjer: esendjer!users.noreply.github.com until 2018-06-01
 HOTOVO s.r.o:
 	Edke: Edke!users.noreply.github.com from 2015-12-01 until 2017-05-01
 	jozzi: jozef.radonak!gmail.com from 2018-08-01
@@ -14242,6 +14285,8 @@ Handy.ai:
 	0x77dev: 0x77dev!protonmail.com, 0x77dev!users.noreply.github.com from 2019-11-01 until 2020-08-01
 Handyman:
 	LennartTimmers: LennartTimmers!users.noreply.github.com from 2016-02-01 until 2017-02-01
+Haneke:
+	MartinX3: MartinX3!users.noreply.github.com, nc-duenkekl3!netcologne.de until 2016-01-01
 Hangar:
 	sjb933: sjb933!gmail.com from 2016-01-01 until 2019-09-01
 Hangar 13:
