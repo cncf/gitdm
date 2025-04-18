@@ -5,6 +5,14 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+msenOticon: msenOticon!users.noreply.github.com
+	Oticon A/S
+msenmurugan: msenmurugan!users.noreply.github.com
+	CVS Health until 2016-11-01
+	StubHub from 2016-11-01 until 2017-03-01
+	Synopsys Inc from 2017-03-01
+msftclas: msftclas!microsoft.com
+	(Robots)
 msftclas: msftclas!users.noreply.github.com
 	Microsoft Corporation
 msftgits: msftgits!microsoft.com, msftgits!users.noreply.github.com
@@ -4027,10 +4035,6 @@ nick5616: nick5616!users.noreply.github.com
 	Microsoft Corporation from 2021-06-01
 nickadam: nickadam!users.noreply.github.com
 	Howard
-NickAnge: nikolaos.angelopoulos!grafana.com, NickAnge!users.noreply.github.com
-	Student until 2021-08-31
-	Glovo from 2021-01-10 until 2024-08-31
-	Grafana Labs from 2024-10-01
 nickbeaugie: nickbeaugie!users.noreply.github.com
 	Monster
 nickboldt: nickboldt!gmail.com
@@ -23803,12 +23807,3 @@ roseoriorden: rosemarie!redhat.com
 	Red Hat Inc. from 2022-01-01 until 2022-07-01
 	Independent from 2022-07-01 until 2024-07-01
 	Red Hat Inc. from 2024-07-01
-roshan1988: roshanalexander88!gmail.com
-	Owler until 2017-11-01
-	Independent from 2017-11-01 until 2020-02-01
-	SalesIntel.io from 2020-02-01 until 2020-03-01
-	Pratilipi from 2020-03-01 until 2021-04-01
-	Independent from 2021-04-01 until 2022-04-01
-	Beyond Follow from 2022-04-01
-roshandawrani: roshandawrani!gmail.com, roshandawrani!users.noreply.github.com
-	Independent

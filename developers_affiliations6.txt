@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+ken-ajiro: 129729055+ken-ajiro!users.noreply.github.com, ken-ajiro!users.noreply.github.com, kenajiro!nec.com
+	NEC Corporation
+ken-tunc: ken-tunc!users.noreply.github.com
+	Independent
+ken1ma: ken1ma!users.noreply.github.com
+	Independent
 ken5scal: github!v-software.de, ken5scal!users.noreply.github.com, kengoscal!gmail.com
 	Independent until 2014-10-01
 	Money Forward Inc. from 2014-10-01 until 2017-12-01
@@ -7765,10 +7771,6 @@ lisa: lisa!users.noreply.github.com
 	Red Hat Inc. from 2018-08-01
 lisael: lisael!lisael.org
 	Peopledoc
-lisahjung: lisahjung.oss!gmail.com
-	IBM until 2020-02-01
-	Elastic until 2023-06-19
-	Grafana Labs from 2023-06-19
 lisamburns: lcho!pivotal.io, lisamburns!users.noreply.github.com
 	Moon until 2016-05-01
 	Pivotal from 2016-05-01 until 2020-01-01
@@ -22853,7 +22855,7 @@ mowies: mowies!users.noreply.github.com
 	Dynatrace LLC from 2021-05-01
 moxiegirl: moxiegirl!users.noreply.github.com
 	Surgical Training Institute
-moxious: moxious!oldhat.org, moxious!users.noreply.github.com, david.allen!grafana.com, david.allen!oldhat.org
+moxious: david.allen!grafana.com, david.allen!oldhat.org, moxious!oldhat.org, moxious!users.noreply.github.com
 	Grafana Labs
 moypray: moypray!users.noreply.github.com, zhangwentao234!huawei.com
 	Huawei Technologies Co. Ltd
@@ -23784,11 +23786,3 @@ mseiwald: mseiwald!users.noreply.github.com
 	Smartify IT from 2020-03-01
 msekletar: msekleta!redhat.com, msekletar!users.noreply.github.com
 	Red Hat Inc.
-msenOticon: msenOticon!users.noreply.github.com
-	Oticon A/S
-msenmurugan: msenmurugan!users.noreply.github.com
-	CVS Health until 2016-11-01
-	StubHub from 2016-11-01 until 2017-03-01
-	Synopsys Inc from 2017-03-01
-msftclas: msftclas!microsoft.com
-	(Robots)

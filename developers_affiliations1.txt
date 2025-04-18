@@ -15328,10 +15328,6 @@ Jay-Funk: Jay-Funk!users.noreply.github.com
 	SVA from 2021-09-01
 JayBeale: JayBeale!users.noreply.github.com, jay.beale!gmail.com
 	InGuardians
-JayClifford345: JayClifford345!users.noreply.github.com, jay.clifford!grafana.com
-	ADLINK Technology from 2018-09-01 until 2021-09-01  
-	InfluxData from 2021-09-01 until 2024-02-03
-	Grafana Labs from 2024-03-03
 JayG-EBSCO: JayG-EBSCO!users.noreply.github.com, jgrant!ebsco.com
 	HP Inc. until 2015-02-01
 	PXT Payments from 2015-02-01 until 2015-08-01
@@ -15358,6 +15354,12 @@ JaySon-Huang: JaySon-Huang!users.noreply.github.com, jayson.hjs!gmail.com
 JayThomason: JayThomason!users.noreply.github.com
 	Kespry until 2019-10-01
 	Covariant from 2019-10-01
+Jayclifford345: Jayclifford345!users.noreply.github.com, jay.clifford!grafana.com
+	Independent until 2018-09-01
+	ADLINK Technology Inc. from 2018-09-01 until 2021-09-01
+	InfluxData Inc from 2021-09-01 until 2024-02-03
+	Independent from 2024-02-03 until 2024-03-03
+	Grafana Labs from 2024-03-03
 Jayden-Lind: Jayden-Lind!users.noreply.github.com
 	Independent until 2018-03-01
 	5G Networks from 2018-03-01 until 2019-01-01
@@ -18757,6 +18759,10 @@ Lirt: Lirt!users.noreply.github.com, ondrej.vaskoo!gmail.com
 	Deutsche Bank AG from 2020-06-01
 LisaFC: lcarey!google.com, lisafc!users.noreply.github.com
 	Google LLC
+LisaHJung: lisahjung.oss!gmail.com
+	International Business Machines Corporation until 2020-02-01
+	Elasticsearch Inc. from 2020-02-01 until 2023-06-19
+	Grafana Labs from 2023-06-19
 LisaLudique: LisaLudique!users.noreply.github.com
 	Lyft Inc.
 Listwon: Listwon!users.noreply.github.com
@@ -22448,6 +22454,11 @@ Nick-Triller: Nick-Triller!users.noreply.github.com
 	AXOOM GmbH from 2017-09-01 until 2019-03-01
 	Independent from 2019-03-01 until 2020-02-01
 	1&1 Telecommunication from 2020-02-01
+NickAnge: NickAnge!users.noreply.github.com, nikolaos.angelopoulos!grafana.com
+	Independent until 2021-01-10
+	Glovo from 2021-01-10 until 2024-08-31
+	Independent from 2024-08-31 until 2024-10-01
+	Grafana Labs from 2024-10-01
 NickDeClario: NickDeClario!users.noreply.github.com
 	QTELL.COM LLC until 2015-03-01
 	Stelligent from 2015-03-01
@@ -23684,22 +23695,3 @@ PJB3005: PJB3005!users.noreply.github.com, pieterjan.briers!gmail.com
 PKizzle: PKizzle!users.noreply.github.com
 	Independent until 2019-11-01
 	Design AI from 2019-11-01
-PMitrafanau: pavel_mitrafanau!epam.com
-	Exadel until 2015-10-01
-	Vizor Interactive from 2015-10-01 until 2018-10-01
-	Playtika from 2018-10-01 until 2018-12-01
-	EPAM Systems Inc from 2018-12-01
-PPCM: PPCM!users.noreply.github.com
-	10TO11 until 2018-08-01
-	Mairie de Beausoleil from 2018-08-01
-PRDinesh: dinesh.ramakrishnan!hpe.com
-	HP Inc.
-PSalant726: PSalant726!users.noreply.github.com
-	HP Software until 2015-04-01
-	Independent from 2015-04-01 until 2015-07-01
-	Weil from 2015-07-01 until 2016-03-01
-	Independent from 2016-03-01 until 2017-02-01
-	Movable Ink from 2017-02-01 until 2021-10-01
-	Ethyca from 2021-10-01
-PTDelaney: peterdelaney!google.com
-	Google LLC
