@@ -5,6 +5,26 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+mrunge: mrunge!redhat.com, mrunge!users.noreply.github.com
+	OpenStack Foundation until 2017-03-01
+	Fedora Project from 2017-03-01 until 2020-03-01
+	Red Hat Inc. from 2020-03-01
+mruoss: mruoss!users.noreply.github.com
+	UFirst Group
+mrushyendra: mrushyendra!users.noreply.github.com
+	GBS until 2017-07-01
+	Independent from 2017-07-01 until 2017-11-01
+	Independent from 2017-11-01 until 2018-05-01
+	Tagit from 2018-05-01 until 2018-08-01
+	Independent from 2018-08-01 until 2020-07-01
+	Bridgewater Associates from 2020-07-01 until 2020-08-01
+	Open Robotics from 2020-08-01
+mrusme: mrusme!users.noreply.github.com
+	twostairs
+mrutkows: mrutkows!us.ibm.com
+	International Business Machines Corporation
+mrvl-leoy: leoy!marvell.com
+	Marvell International Ltd
 mrwacky42: mrwacky42!users.noreply.github.com, sharif!mrwacky.com
 	Independent until 2016-09-15
 	Headspace from 2016-09-15
@@ -23797,20 +23817,3 @@ roncohen: cohen1!gmail.com, ron!elastic.co, roncohen!users.noreply.github.com
 	Independent from 2020-11-30
 ronenil: ronen.arad!intel.com
 	Intel Corporation
-ronenkat: ronenkat!il.ibm.com
-	International Business Machines Corporation
-ronenschafferibm: 31612939+ronenschafferibm!users.noreply.github.com, ronenschafferibm!users.noreply.github.com
-	International Business Machines Corporation
-ronggur: ronggur!users.noreply.github.com
-	Equinix Inc.
-rongou: rong.ou!gmail.com, rongou!users.noreply.github.com, rou!nvidia.com
-	NVIDIA Corporation
-rongrong: rongrong!users.noreply.github.com, rongrong100!gmail.com
-	Meta Platforms Inc.
-ronissac88: ronissac88!gmail.com
-	Independent until 2024-01-01
-	Kubermatic GmbH from 2024-01-01
-ronit1495: kumarronit1495!gmail.com, ronit1495!users.noreply.github.com
-	Independent until 2017-08-01
-	Wipro Limited from 2017-08-01 until 2019-07-01
-	ALTEN Calsoft Labs from 2019-07-01
