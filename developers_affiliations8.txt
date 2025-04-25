@@ -20574,7 +20574,9 @@ theletterf: theletterf!users.noreply.github.com
 	Ohpen from 2019-02-01 until 2020-01-01
 	New Relic Inc. from 2020-01-01 until 2020-10-01
 	Ohpen from 2020-10-01 until 2021-06-01
-	Splunk Inc. from 2021-06-01
+	Splunk Inc. from 2021-06-01 until 2024-10-06
+        Tinybird Inc. from 2024-10-07 until 2025-04-06
+        Elasticsearch Inc. from 2025-04-07
 thelinuxfoundation: thelinuxfoundation!users.noreply.github.com
 	(Robots)
 themarcelor: themarcelor!users.noreply.github.com
