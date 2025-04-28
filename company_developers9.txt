@@ -2833,6 +2833,7 @@ OpenMUL:
 OpenMake:
 	TracyRagan: TracyRagan!users.noreply.github.com, tracy.ragan!openmakesoftware.com until 2018-11-01
 	pgibbs-openmake: phil.gibbs!openmakesoftware.com until 2018-01-01
+	st1971: st1971!users.noreply.github.com until 2022-11-01
 OpenMarket:
 	jeremydvoss: jeremydvoss!users.noreply.github.com from 2019-06-01 until 2019-09-01
 OpenMessage:
@@ -2887,6 +2888,8 @@ OpenSlate:
 	rca: rca!users.noreply.github.com from 2017-06-01
 OpenSolar:
 	chainat: chainat!gmail.com, chainat!users.noreply.github.com from 2018-11-01 until 2018-12-01
+OpenSooq:
+	muayyad-alsadi: muayyad-alsadi!users.noreply.github.com from 2015-07-01
 OpenSource:
 	bradfordcp: bradfordcp!gmail.com, bradfordcp!users.noreply.github.com until 2016-04-01
 OpenSourceMANO:

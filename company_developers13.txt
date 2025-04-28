@@ -2,6 +2,15 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+salesforce:
+	awgneo: awgneo!users.noreply.github.com until 2017-10-01
+saloon.io:
+	philipp-spiess: hello!philippspiess.com, pengxiaolong!camera360.com from 2016-11-01 until 2016-12-01
+	philipp-spiess: philipp-spiess!users.noreply.github.com from 2016-10-01 until 2016-11-01
+sandsiv+:
+	vasily-codefresh: vasily-codefresh!users.noreply.github.com from 2021-03-01
+sankuai:
+	MenglingD: MenglingD!users.noreply.github.com
 saongroup:
 	cepefernando: cepefernando!users.noreply.github.com from 2016-12-01 until 2018-03-01
 sarvasuvidhaen:

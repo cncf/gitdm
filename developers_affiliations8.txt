@@ -5,6 +5,26 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+rollandf: frolland!redhat.com, rollandf!users.noreply.github.com
+	Cisco until 2015-01-01
+	Red Hat Inc. from 2015-01-01
+rollinhand: bjoern.berg!gmx.de, bjoern.berg!numetris.de, rollin.hand!gmx.de, rollinhand!users.noreply.github.com
+	numetris until 2016-04-01
+	Cofinpro from 2016-04-01
+rollulus: roelboel!xs4all.nl, rollulus!users.noreply.github.com
+	Eneco
+rolpat: roland.wilfer!sap.com, rolpat!users.noreply.github.com
+	SAP
+romachalm: romachalm!users.noreply.github.com
+	Magic Leap
+romain-izard-pro: romain.izard.pro!gmail.com
+	Mobile Devices Ingenierie
+romain325: romain325!users.noreply.github.com, romainolivier42!gmail.com
+	Independent until 2020-07-01
+	Dalkia from 2020-07-01 until 2020-08-01
+	Independent from 2020-08-01 until 2021-06-01
+	Dalkia from 2021-06-01 until 2021-07-01
+	Ciril GROUP from 2021-07-01
 romainDavaze: davaze.romain!gmail.com
 	Neopost until 2014-08-01
 	Independent from 2014-08-01 until 2017-07-01
@@ -14365,6 +14385,10 @@ sszigeti: sszigeti!users.noreply.github.com
 	Independent from 2014-10-01 until 2015-02-01
 	Walt Disney Animation Studios from 2015-02-01 until 2020-02-01
 	SandorHQ from 2020-02-01
+st1971: st1971!users.noreply.github.com
+	OpenMake until 2022-11-01
+	JFrog from 2022-11-01 until 2023-02-01
+	DeployHub from 2023-02-01
 st33v: st33v!users.noreply.github.com, steve!aethereal.io, www.oldone!qq.com
 	aethereal until 2019-08-01
 	Silvr from 2019-08-01
@@ -19249,7 +19273,8 @@ tchaikov: kchai!redhat.com, tchaikov!gmail.com, tchaikov!users.noreply.github.co
 	VMware Inc. until 2014-04-01
 	Morgan Stanley from 2014-04-01 until 2015-01-01
 	Red Hat Inc. from 2015-01-01
-tchap: ondra.cap!gmail.com, okupka!redhat.com, tchap!users.noreply.github.com
+tchap: okupka!redhat.com, ondra.cap!gmail.com, tchap!users.noreply.github.com
+	Independent until 2025-04-15
 	Red Hat Inc. from 2025-04-15
 tcharding: me!tobin.cc, tcharding!users.noreply.github.com
 	Independent until 2017-02-01
@@ -23844,28 +23869,3 @@ tomstuart: tomstuart!users.noreply.github.com
 	FutureLearn from 2016-11-01 until 2019-12-01
 	Independent from 2019-12-01 until 2020-05-01
 	Shopify Inc. from 2020-05-01
-tomsucho: tomasz.su!gmail.com, tomsucho!users.noreply.github.com
-	Skyfire until 2018-12-01
-	Accenture Global Solutions Limited from 2018-12-01 until 2019-08-01
-	Grid Dynamics from 2019-08-01 until 2020-04-01
-	Wildberries from 2020-04-01
-tomtaylor: tom!tomtaylor.co.uk, tomtaylor!users.noreply.github.com
-	Newspaper until 2015-01-01
-	MOONDA from 2015-01-01 until 2015-12-01
-	Co-op from 2015-12-01 until 2018-01-01
-	Bulb Energy Limited from 2018-01-01 until 2018-11-01
-	Better Work from 2018-11-01 until 2020-02-01
-	Breakroom from 2020-02-01
-tomtjose: rothoerl!in.tum.de, tomtjose!users.noreply.github.com
-	LinkedIn Corporation
-tomtom94: tomtom94!users.noreply.github.com
-	Independent until 2014-09-01
-	VINCI from 2014-09-01 until 2015-10-01
-	Independent from 2015-10-01 until 2017-05-01
-	Primexis from 2017-05-01 until 2018-04-01
-	Startup from 2018-04-01 until 2018-06-01
-	Le Reacteur from 2018-06-01 until 2018-08-01
-	Upsell from 2018-08-01 until 2018-12-01
-	Independent from 2018-12-01 until 2019-02-01
-	iDGARAGES from 2019-02-01 until 2019-07-01
-	Independent from 2019-07-01

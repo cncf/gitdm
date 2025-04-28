@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Common Media:
+	serundeputy: serundeputy!gmail.com from 2014-05-01 until 2017-01-01
 Common Sense Media:
 	MrMMorris: MrMMorris!users.noreply.github.com from 2014-12-01
 Common Sensing:
@@ -7385,6 +7387,7 @@ Dependabot:
 	greysteil: greysteil!gmail.com, greysteil!users.noreply.github.com from 2017-02-01 until 2019-04-01
 DeployHub:
 	TracyRagan: TracyRagan!users.noreply.github.com, tracy.ragan!openmakesoftware.com from 2021-12-01
+	st1971: st1971!users.noreply.github.com from 2023-02-01
 Deployable Pty Ltd:
 	deployable: code!deployable.co, deployable!users.noreply.github.com
 Deployed.pl:
@@ -9564,6 +9567,8 @@ Dooer:
 	eridem: eridem!users.noreply.github.com, m!eridem.net from 2017-02-01 until 2018-07-01
 Doop:
 	bdalenoord: bdalenoord!users.noreply.github.com from 2019-10-01 until 2022-09-01
+Door Sabha Nigam Limited:
+	balamuruganravi: balamuruganravir!gmail.com from 2017-03-01 until 2019-11-01
 DoorDash Inc.:
 	BojanZelic: BojanZelic!users.noreply.github.com from 2021-10-01
 	EleanorRigby: EleanorRigby!users.noreply.github.com, taggarwal!vmware.com from 2021-04-01 until 2022-04-01
@@ -10975,6 +10980,8 @@ ELSA:
 	biosugar0: biosugar0!gmail.com, biosugar0!users.noreply.github.com from 2022-03-01 until 2022-05-01
 ELSA Corp:
 	mangeshhambarde: mangeshhambarde!users.noreply.github.com from 2019-10-01 until 2021-02-01
+ELSO:
+	vlk-charles: vlk-charles!users.noreply.github.com from 2015-07-01
 ELTA:
 	denzhel: dennis!bigpanda.io, denzhel!users.noreply.github.com until 2019-12-01
 ELTRADE:
@@ -16427,5 +16434,3 @@ EzCred:
 EzCred Private:
 	praveenchandran: praveen.chandrn!gmail.com from 2017-01-01
 	praveenchandran: praveenchandran!users.noreply.github.com from 2017-01-01
-Ezakus:
-	Crow-EH: Crow-EH!users.noreply.github.com until 2014-08-01, from 2015-05-01 until 2015-08-01
