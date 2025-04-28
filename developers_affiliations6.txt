@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+keaxu-exp: connect!thanethomson.com, keaxu!expedia.com, keaxu-exp!users.noreply.github.com
+	Independent until 2017-05-01
+	Expedia Inc. from 2017-05-01 until 2017-08-01
+	Independent from 2017-08-01 until 2018-03-01
+	Expedia Inc. from 2018-03-01
 kebe7jun: kebe.liu!daocloud.io, kebe7jun!users.noreply.github.com, mail!kebe7jun.com
 	DaoCloud Network Technology Co. Ltd.
 kecven: kecven!users.noreply.github.com
@@ -23787,12 +23792,3 @@ mrkeyiano: iamkeyiano!gmail.com, mrkeyiano!users.noreply.github.com
 	K47sec from 2018-01-01 until 2019-03-01
 	PATRICIA from 2019-03-01 until 2021-10-01
 	Payhippo from 2021-10-01
-mrkm4ntr: mrkm4ntr!gmail.com, mrkm4ntr!users.noreply.github.com
-	Fuji Xerox until 2016-11-01
-	CyberAgent Inc. from 2016-11-01 until 2018-10-01
-	Mercari Inc from 2018-10-01
-mrksngl: mrksngl!users.noreply.github.com
-	Independent until 2019-04-01
-	SeRo Systems from 2019-04-01
-mrkurt: mrkurt!users.noreply.github.com
-	Independent

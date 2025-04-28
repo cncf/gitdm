@@ -5,6 +5,14 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+rolfik: marek.istvanek!gmail.com, rolfik!users.noreply.github.com
+	Edhouse until 2014-12-01
+	CROSS Zlín from 2014-12-01 until 2015-01-01
+	HaSaM from 2015-01-01 until 2015-03-01
+	CeMaS from 2015-03-01
+rolinux: rolinux!users.noreply.github.com
+	Morgan Stanley until 2015-04-01
+	Worldpay INC from 2015-04-01
 rollandf: frolland!redhat.com, rollandf!users.noreply.github.com
 	Cisco until 2015-01-01
 	Red Hat Inc. from 2015-01-01
@@ -23864,8 +23872,3 @@ tomsanbear: thomas!santerre.xyz, tomsanbear!users.noreply.github.com
 	BlueCat Networks from 2018-09-01 until 2019-09-01
 	Independent from 2019-09-01 until 2019-11-01
 	PayPay from 2019-11-01
-tomstuart: tomstuart!users.noreply.github.com
-	Codon until 2016-11-01
-	FutureLearn from 2016-11-01 until 2019-12-01
-	Independent from 2019-12-01 until 2020-05-01
-	Shopify Inc. from 2020-05-01
