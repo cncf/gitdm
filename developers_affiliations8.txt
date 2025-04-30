@@ -17319,12 +17319,12 @@ svrana: shaw!vranix.com
 	ContextLogic Inc. (Wish) from 2015-01-01 until 2019-09-01
 	Data Synthesis EU from 2019-09-01 until 2020-12-01
 	ConductorOne from 2020-12-01
-svrnm: neumanns!cisco.com, severin.neumann!altmuehlnet.de, severin.neumann!appdynamics.com, sneumann@causely.ai, svrnm!users.noreply.github.com
+svrnm: neumanns!cisco.com, severin.neumann!altmuehlnet.de, severin.neumann!appdynamics.com, sneumann!causely.ai, svrnm!users.noreply.github.com
 	eLearning AG until 2015-11-01
 	Independent from 2015-11-01 until 2016-02-01
 	AppDynamics LLC from 2016-02-01 until 2017-06-01
 	Cisco from 2017-06-01 until 2025-03-01
-	Independent from 2025-03-01
+	Independent from 2025-03-01 until 2025-04-28
 	Causely from 2025-04-28
 svsite: pavel.chuchma!microfocus.com
 	HP Inc.
@@ -23866,10 +23866,3 @@ tomratbert: tom!herbertland.com
 	Freesat from 2018-04-01
 tomrepo: taoren!fb.com
 	Meta Platforms Inc.
-tomsanbear: thomas!santerre.xyz, tomsanbear!users.noreply.github.com
-	Independent until 2016-10-01
-	BlueCat Networks from 2016-10-01 until 2018-05-01
-	Independent from 2018-05-01 until 2018-09-01
-	BlueCat Networks from 2018-09-01 until 2019-09-01
-	Independent from 2019-09-01 until 2019-11-01
-	PayPay from 2019-11-01

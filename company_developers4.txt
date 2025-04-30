@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+EzCred:
+	Nishant-Pathak: Nishant-Pathak!users.noreply.github.com from 2018-03-01 until 2018-11-01
 EzCred Private:
 	praveenchandran: praveen.chandrn!gmail.com from 2017-01-01
 	praveenchandran: praveenchandran!users.noreply.github.com from 2017-01-01
@@ -222,7 +224,7 @@ FDM Group:
 	15077693d: 15077693d!users.noreply.github.com from 2019-12-01 until 2020-03-01
 	amcginlay: amcginlay!users.noreply.github.com from 2015-08-01 until 2016-11-01
 FDNA:
-	MaxBab: babushkin.max!gmail.com from 2015-03-01 until 2016-02-01
+	MaxBab: babushkin.max!gmail.com, mbabushk!redhat.com from 2015-03-01 until 2016-02-01
 	NightmareCinema: NightmareCinema!users.noreply.github.com from 2017-12-01 until 2019-02-01
 FDR Powersports:
 	ethanchowell: ethanchowell!users.noreply.github.com until 2017-04-01
@@ -11704,6 +11706,7 @@ Grafana Labs:
 	56quarters: 56quarters!users.noreply.github.com
 	AndrejKiri: AndrejKiri!users.noreply.github.com, andrej.kiripolsky!gmail.com, andrej.kiripolsky!grafana.com
 	ArthurSens: ArthurSens!users.noreply.github.com, arthur.silvasens!grafana.com, arthursens2005!gmail.com from 2024-08-01
+	BeverlyJaneJ: beverlyjanej!users.noreply.github.com from 2025-04-01
 	DanCech: DanCech!users.noreply.github.com, dan!aussiedan.com, dcech!grafana.com
 	Dieterbe: Dieterbe!users.noreply.github.com, dieter!plaetinck.be
 	Gouthamve: Gouthamve!users.noreply.github.com, cs14btech11014!iith.ac.in, goutham!boomerangcommerce.com, gouthamve!gmail.com from 2018-03-01
