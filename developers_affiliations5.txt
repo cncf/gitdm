@@ -5,6 +5,17 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+graynk: gray!graynk.space
+	Independent until 2015-03-01
+	Astra from 2015-03-01 until 2020-04-01
+	DIRECTUM from 2020-04-01 until 2021-08-01
+	Independent from 2021-08-01 until 2021-11-01
+	Mad Devs from 2021-11-01 until 2022-05-01
+	Independent from 2022-05-01 until 2022-10-01
+	Scout24 AG from 2022-10-01
+grayside: adamross!google.com, grayside!gmail.com
+	Phase2 until 2018-05-01
+	Google LLC from 2018-05-01
 grayy921013: grayy921013!gmail.com, grayy921013!users.noreply.github.com
 	Ideaslab until 2015-06-01
 	Alibaba Group from 2015-06-01 until 2015-08-01
@@ -3918,6 +3929,8 @@ hgupta12: hgupta12!users.noreply.github.com
 hh: chris!hippiehacker.org, hh!ii.coop, hh!users.noreply.github.com
 	ii Limited until 2016-05-01
 	CNCF from 2016-05-01
+hh24k: hai.he!enterprisedb.com, hh24k!users.noreply.github.com
+	EDB
 hhallman: hhallman!users.noreply.github.com
 	Supertext until 2018-05-01
 	Vimla from 2018-05-01 until 2022-04-01
@@ -9075,6 +9088,16 @@ itatabitovski: itatabitovski!users.noreply.github.com
 	MZ from 2017-05-01 until 2018-03-01
 	Sony Interactive Entertainment LLC from 2018-03-01 until 2019-12-01
 	CrowdStrike from 2019-12-01
+itay-grudev: itay-grudev!users.noreply.github.com
+	BULCRAFT until 2015-07-01
+	Independent from 2015-07-01 until 2015-09-01
+	HackHands from 2015-09-01 until 2016-07-01
+	Bright Box Limited from 2016-07-01 until 2017-05-01
+	Independent from 2017-05-01 until 2019-10-01
+	Indeed Flex from 2019-10-01 until 2020-01-01
+	Clustermarket from 2020-01-01 until 2023-07-01
+	essentim from 2023-07-01 until 2024-03-01
+	Verito Digital from 2024-03-01
 itayd: itay!bazoo.org, itayd!users.noreply.github.com
 	Twitter Inc. until 2016-03-01
 	Lyft Inc. from 2016-03-01 until 2019-02-01
@@ -16108,6 +16131,13 @@ jloisel: loisel.jerome!gmail.com
 jlojosnegros: jl.ojosnegros.manchon!gmail.com, jlojosnegros!users.noreply.github.com
 	Ericsson until 2021-11-01
 	Red Hat Inc. from 2021-11-01
+jlong49: jlong49!users.noreply.github.com
+	Beat the Bookstore- UTK until 2015-06-01
+	Independent from 2015-06-01 until 2016-06-01
+	CTR from 2016-06-01 until 2016-09-01
+	AMS from 2016-09-01 until 2017-09-01
+	Independent from 2017-09-01 until 2021-09-01
+	EDB from 2021-09-01
 jlongtine: joel!joellongtine.com
 	RxREVU until 2018-03-01
 	Gloo from 2018-03-01 until 2021-03-01
@@ -23789,38 +23819,3 @@ kbudde: kbudde!users.noreply.github.com, kris!budd.ee, kris.budde!gmail.com
 	SkyCom until 2021-10-31
 	GEC from 2021-10-31 until 2024-03-31
 	WIIT from 2024-03-31
-kbumsik: k.bumsik!gmail.com, kbumsik!users.noreply.github.com
-	Independent until 2016-06-01
-	Samsung Electronics Co. Ltd. from 2016-06-01 until 2016-08-01
-	Independent from 2016-08-01 until 2017-11-01
-	Language Testing International from 2017-11-01 until 2018-02-01
-	Independent from 2018-02-01 until 2021-03-01
-	Angelswing from 2021-03-01 until 2022-05-01
-	AITRICS from 2022-05-01 until 2022-12-01
-	DeepAuto. from 2022-12-01
-kc-adawson: kc-adawson!users.noreply.github.com
-	Independent until 2017-11-01
-	VMware Inc. from 2017-11-01 until 2019-01-01
-	Orbita from 2019-01-01 until 2020-03-01
-	StormForge from 2020-03-01 until 2021-04-01
-	Netafy from 2021-04-01 until 2022-03-01
-	Stackwatch from 2022-03-01
-kc8apf: kc8apf!kc8apf.net, kc8apf!users.noreply.github.com, raltherr!google.com
-	Google LLC
-kcampos: kyle.campos!gmail.com
-	BioIQ until 2016-01-01
-	CSAA Insurance Group from 2016-01-01 until 2018-07-01
-	Smarsh from 2018-07-01
-kcarlson2915: kcarlson2915!users.noreply.github.com
-	Independent until 2015-05-01
-	Viasat Inc. from 2015-05-01 until 2015-08-01
-	Independent from 2015-08-01 until 2016-07-01
-	OpenTable from 2016-07-01 until 2018-12-01
-	Samsara Networks Inc from 2018-12-01 until 2020-05-01
-	Independent from 2020-05-01
-kcboschert: kcboschert!users.noreply.github.com
-	Braintree Payments
-kcfigaro: kc!cloudacode.com
-	SK planet until 2016-06-01
-	NCSOFT Corporation from 2016-06-01 until 2018-12-01
-	King from 2018-12-01

@@ -2,6 +2,11 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Novi:
+	camerondavison: cameron.davison!gmail.com, camerondavison!users.noreply.github.com from 2014-11-01 until 2019-01-01
+Novi Labs:
+	a86c6f7964: a86c6f7964!users.noreply.github.com, cameron!novilabs.com
+	flyinprogrammer: alan!netifi.com, flyinprogrammer!users.noreply.github.com from 2020-03-01 until 2021-08-01
 Novia Systems:
 	johannol: johann.ollivierlapeyre!gmail.com
 	ludovicRoucoux: ludovic.roucoux!gmail.com, ludovic.roucoux!novia-systems.fr from 2015-03-01 until 2016-07-01
@@ -7896,6 +7901,8 @@ Phreesia:
 	thejurysays: thejurysays!users.noreply.github.com from 2024-04-01
 Phunware:
 	arun-shopify: arun-shopify!users.noreply.github.com until 2015-11-01
+Phusion:
+	FloorD: FloorD!users.noreply.github.com, mark!wolfe.id.au from 2018-02-01 until 2019-02-01
 Phylos Bioscience:
 	kenichi: kenichi.nakamura!gmail.com from 2017-10-01 until 2020-04-01
 PhysIQ:
@@ -9873,6 +9880,8 @@ Port of Seattle:
 	JarLowrey: JarLowrey!users.noreply.github.com from 2019-05-01
 PortOne:
 	sinfull1: sinfull1!users.noreply.github.com from 2021-01-01 until 2022-03-01
+PortSwigger:
+	pselliotc: pselliotc!users.noreply.github.com from 2022-09-01
 PortaOne:
 	YevhenLodovyi: YevhenLodovyi!users.noreply.github.com until 2020-01-01
 	cap1984: ivan.pylypenko!percona.com until 2018-10-01
