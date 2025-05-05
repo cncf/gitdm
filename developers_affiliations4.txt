@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+danburkert: dan!danburkert.com, danburkert!users.noreply.github.com
+	WibiData until 2015-02-01
+	Cloudera Inc. from 2015-02-01 until 2018-10-01
+	SisuData from 2018-10-01
+danc86: dcallagh!redhat.com
+	Red Hat Inc.
 dancadana: shermadana!gmail.com
 	Solid until 2016-10-01
 	Independent from 2016-10-01 until 2017-01-01
@@ -23884,10 +23890,3 @@ gregfiske: gregfiske!users.noreply.github.com
 	CleanSpark from 2019-02-01
 gregg-miskelly: greggm!microsoft.com
 	Microsoft Corporation
-greggbjensen: greggbjensen!users.noreply.github.com
-	Viewpoint until 2015-06-01
-	The VOID from 2015-06-01 until 2016-04-01
-	Independent from 2016-04-01 until 2018-07-01
-	Experlogix from 2018-07-01
-greghackmann: ghackmann!android.com, ghackmann!google.com
-	Google LLC
