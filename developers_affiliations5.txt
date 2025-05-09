@@ -5,6 +5,51 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+gramidt: gramidt!users.noreply.github.com
+	StartUp until 2015-03-01
+	NICE Netherlands B.V. from 2015-03-01 until 2015-07-01
+	SeamlessDocs from 2015-07-01 until 2016-04-01
+	PriorAuthNow from 2016-04-01 until 2018-09-01
+	Aspen Mesh from 2018-09-01 until 2019-07-01
+	Cloud Compliance Ninja from 2019-07-01
+grampelberg: grampelberg!users.noreply.github.com, thomas!saunter.org
+	Mesosphere until 2017-03-01
+	Vapor IO from 2017-03-01 until 2018-04-01
+	Buoyant Inc. from 2018-04-01
+gran-vmv: gran!vmware.com
+	Independent until 2019-05-01
+	Microsoft Corporation from 2019-05-01 until 2019-08-01
+	Independent from 2019-08-01 until 2020-07-01
+	Amazon from 2020-07-01
+grandbora: grandbora!users.noreply.github.com
+	SoundCloud Global Limited & Co. KG
+graned: gran_ed!hotmail.com
+	Accenture México until 2014-03-01
+	Accenture Global Solutions Limited from 2014-03-01 until 2015-12-01
+	Liquid from 2015-12-01 until 2016-05-01
+	collectAI from 2016-05-01 until 2018-09-01
+	CareerTeam from 2018-09-01
+grant: grant!users.noreply.github.com, granttimmerman!gmail.com, ram131!gmail.com, will.moverley!gmail.com
+	Google LLC
+grantbachman: grantbachman!gmail.com, grantbachman!users.noreply.github.com
+	UPMC until 2015-06-01
+	Rainmaker from 2015-06-01 until 2017-12-01
+	RealPage Inc. from 2017-12-01 until 2019-02-01
+	Google LLC from 2019-02-01
+grantbdev: grant!grantbourque.com
+	Independent until 2015-05-01
+	Anedot Inc. from 2015-05-01 until 2019-12-01
+	Independent from 2019-12-01
+grantgumina: grantgumina!users.noreply.github.com
+	The Anvil until 2019-11-01
+	Upbound from 2019-11-01
+grantila: grantila!users.noreply.github.com
+	Independent until 2015-01-01
+	IDKA AB from 2015-01-01 until 2018-06-01
+	Independent from 2018-06-01 until 2018-07-01
+	Klarna from 2018-07-01 until 2020-03-01
+	King from 2020-03-01 until 2021-01-01
+	Spotify AB from 2021-01-01
 grantisdale: grantisdale!users.noreply.github.com
 	Vodafone Group Plc. until 2016-03-01
 	Allgäu Comets from 2016-03-01 until 2016-09-01
@@ -2004,7 +2049,7 @@ hamelsmu: hamelsmu!users.noreply.github.com
 hameno: hameno!users.noreply.github.com
 	sprylab
 hamermike: hamer.mike!gmail.com
-	Dell Technologies Inc. until 2016-11-01
+	Dell Technologies until 2016-11-01
 	Quest from 2016-11-01
 hamhut1066: hamhut1066!users.noreply.github.com, hamish!freeagent.com
 	MappingBook
@@ -3222,7 +3267,7 @@ heckelmann: heckelmann!users.noreply.github.com
 heckj: heckj!mac.com, heckj!users.noreply.github.com
 	Nebula until 2014-01-31
 	EMC from 2014-01-31 until 2017-01-31
-	Dell Technologies Inc. from 2017-01-31 until 2018-04-01
+	Dell Technologies from 2017-01-31 until 2018-04-01
 	SanLink from 2018-04-01 until 2019-01-01
 	Independent from 2019-01-01
 hecklawert: hecklawert!users.noreply.github.com
@@ -3755,7 +3800,7 @@ hernanpl: hernanpl!users.noreply.github.com
 	Medium from 2022-04-01 until 2022-06-01
 	Sonatype Inc. from 2022-06-01
 herohde: herohde!users.noreply.github.com
-	Dell Technologies Inc. until 2015-06-01
+	Dell Technologies until 2015-06-01
 	Google LLC from 2015-06-01
 heroic: heroic!users.noreply.github.com
 	Red Hat Inc.
@@ -3801,7 +3846,7 @@ hesamrahimi: hesam.rahimi!huawei.com
 	Huawei Technologies Co. Ltd
 heschlie: alberto!albertoalmagro.com, chigou79!outlook.com, heschlie!gmail.com, heschlie!users.noreply.github.com
 	Riverbed Technology Inc. until 2015-06-01
-	Dell Technologies Inc. from 2015-06-01 until 2016-10-01
+	Dell Technologies from 2015-06-01 until 2016-10-01
 	Tigera Inc. from 2016-10-01 until 2018-01-01
 	Independent from 2018-01-01 until 2020-01-01
 	BlueOwl from 2020-01-01
@@ -5104,7 +5149,7 @@ hpedrorodrigues: hpedrorodrigues!users.noreply.github.com, hs.pedro.rodrigues!gm
 hpejustin: 872723569!qq.com, hpejustin!users.noreply.github.com
 	Alipay
 hpersh: howard_persh!dell.com, hpersh!yahoo.com
-	Dell Technologies Inc.
+	Dell Technologies
 hpeter: hpeter!gmail.com
 	SAMPO Corp.
 hpohl: hpohl!users.noreply.github.com
@@ -5552,7 +5597,7 @@ hui-yang: hui-yang!users.noreply.github.com
 	Independent until 2021-06-01
 	Kaseya from 2021-06-01
 huide9: huide9!gmail.com, huide9!users.noreply.github.com
-	Dell Technologies Inc.
+	Dell Technologies
 huija: huija!users.noreply.github.com, zhj3212j!outlook.com
 	大 矿 二 矿 三 三 矿
 huikang: hkang.sunysb!gmail.com, huikang!users.noreply.github.com, kangh!us.ibm.com
@@ -5906,7 +5951,7 @@ hyeonsangjeon: hyeonsangjeon!users.noreply.github.com, wingnut0310!gmail.com
 	SK holdings C&C until 2021-07-01
 	AWS from 2021-07-01
 hyffrank: frank.huang!emc.com
-	Dell Technologies Inc.
+	Dell Technologies
 hynek: hs!ox.cx, hynek!users.noreply.github.com
 	Variomedia AG
 hynospt: hynospt!users.noreply.github.com
@@ -7474,7 +7519,7 @@ il9ue: ilque.daniel!gmail.com
 	SAP
 ilackarms: ilackarms!users.noreply.github.com, sdw35!cornell.edu
 	Sonos until 2015-03-15
-	Dell Technologies Inc. from 2015-03-15 until 2017-03-15
+	Dell Technologies from 2015-03-15 until 2017-03-15
 	Red Hat Inc. from 2017-03-15
 ilaipx: ilaipx!users.noreply.github.com
 	StoreSmarts until 2018-01-01
@@ -7509,7 +7554,7 @@ ileixe: ileixe!users.noreply.github.com
 	FuriosaAI from 2021-06-01
 ilevine: idit.levine!solo.io, idit.levine.private!gmail.com, ilevine!users.noreply.github.com
 	Intigua until 2014-09-01
-	Dell Technologies Inc. from 2014-09-01 until 2017-05-01
+	Dell Technologies from 2014-09-01 until 2017-05-01
 	Cloud Foundry Foundation from 2017-05-01
 ilfrin: ilfrin!users.noreply.github.com
 	Hadapt until 2014-07-01
@@ -9067,7 +9112,7 @@ isurusiri: isurusiri!protonmail.com, isurusiri!users.noreply.github.com
 	Cambio Healthcare until 2015-06-01
 	Independent from 2015-06-01 until 2018-09-01
 	Zenika from 2018-09-01 until 2022-07-01
-	Dell Technologies Inc. from 2022-07-01
+	Dell Technologies from 2022-07-01
 isutton: isutton!users.noreply.github.com, isuttonl!redhat.com
 	MultiSafepay until 2014-07-01
 	Booking.com B.V. from 2014-07-01 until 2019-09-01
@@ -10168,7 +10213,7 @@ jadarsie: jadarsie!users.noreply.github.com
 jade-guiton-dd: 179536679+jade-guiton-dd!users.noreply.github.com, jade.guiton!datadoghq.com
 	Datadog Inc
 jadedeane: jadedeane!users.noreply.github.com
-	Dell Technologies Inc. until 2019-07-01
+	Dell Technologies until 2019-07-01
 	International Business Machines Corporation from 2019-07-01 until 2020-03-02
 	Target · from 2020-03-02
 jadekler: deklerk!google.com, jadekler!gmail.com, jadekler!users.noreply.github.com
@@ -12478,7 +12523,7 @@ jbreiding: jbreiding!hotmail.com
 	Crowdstrike
 jbrette: jbrette!gmail.com, jbrette!users.noreply.github.com
 	Ericsson until 2021-04-01
-	Dell Technologies Inc. from 2021-04-01
+	Dell Technologies from 2021-04-01
 jbrianceau: jbriance!cisco.com
 	Microsoft Corporation
 jbriggs22: jbriggs!synopsys.com, jbriggs22!users.noreply.github.com
@@ -13363,7 +13408,7 @@ jeff-phillips-18: jeff-phillips-18!users.noreply.github.com, jephilli!redhat.com
 	Dell EMC until 2015-04-01
 	Red Hat Inc. from 2015-04-01
 jeff-yin: 29264773+jeff-yin!users.noreply.github.com, jeff_yin!dell.com
-	Dell Technologies Inc.
+	Dell Technologies
 jeff51419: jeff51419!users.noreply.github.com
 	Titansoft until 2018-03-01
 	Digital Forest from 2018-03-01 until 2019-09-01
@@ -14788,7 +14833,7 @@ jhaprins: jhp!jhprins.org
 jharbott: j.harbott!x-ion.de
 	Xion Protective Gear
 jharg: jordan_hargrave!dell.com
-	Dell Technologies Inc.
+	Dell Technologies
 jharrington22: jharrington22!users.noreply.github.com
 	Adslot Inc until 2017-03-01
 	Salsify from 2017-03-01 until 2018-07-01
@@ -15453,7 +15498,7 @@ jingerbread: jingerbread!users.noreply.github.com, qwadrillion!gmail.com
 	Devexperts LLC until 2014-10-01
 	Tradable from 2014-10-01 until 2015-10-01
 	Devexperts LLC from 2015-10-01 until 2017-11-01
-	Dell Technologies Inc. from 2017-11-01
+	Dell Technologies from 2017-11-01
 jinghzhu: jhzhu!outlook.com, jinghzhu!users.noreply.github.com
 	HP Inc. until 2015-03-01
 	Independent from 2015-03-01 until 2015-08-01
@@ -16734,7 +16779,7 @@ jmwaks: jmwaks!users.noreply.github.com
 	Academic Resource Centre from 2014-08-01 until 2016-05-01
 	2 Cranes & Sun Inc. from 2016-05-01 until 2017-05-01
 	Independent from 2017-05-01 until 2017-07-01
-	Dell Technologies Inc. from 2017-07-01 until 2019-05-01
+	Dell Technologies from 2017-07-01 until 2019-05-01
 	JPMorgan Chase from 2019-05-01
 jmwilliams89: jmwilliams89!users.noreply.github.com
 	Independent until 2021-07-12
@@ -18084,7 +18129,7 @@ jonasrmichel: jonasrmichel!users.noreply.github.com
 	Cognitive Cloud Solutions Sp. z o. o. from 2015-06-01 until 2018-01-01
 	Certain Affinity from 2018-01-01
 jonasrosland: jonas.rosland!gmail.com, jonasrosland!users.noreply.github.com, jrosland!vmware.com
-	Dell Technologies Inc. until 2018-03-01
+	Dell Technologies until 2018-03-01
 	VMware Inc. from 2018-03-01 until 2024-02-01
 	CIQ from 2024-02-01
 jonasrutishauser: jonas.rutishauser!alumni.ethz.ch, jonasrutishauser!users.noreply.github.com
@@ -18904,7 +18949,7 @@ josephglaspie: josephglaspie!users.noreply.github.com
 	The Home Depot from 2015-03-01 until 2021-09-01
 	Twilio from 2021-09-01
 josephgorse: josephgorse!users.noreply.github.com
-	Dell Technologies Inc.
+	Dell Technologies
 josephholsten: joseph!josephholsten.com, josephholsten!users.noreply.github.com
 	Ensighten
 josephhz: jiangqi903!gmail.com, joseph.qi!huawei.com
@@ -19433,6 +19478,11 @@ jp-gouin: jp-gouin!users.noreply.github.com
 jp83: jp83!users.noreply.github.com, me!jonathanphelps.com
 	onsemi until 2022-11-01
 	Cadence Design Systems Inc. from 2022-11-01
+jpabbuehl: jpabbuehl!users.noreply.github.com
+	Independent until 2016-07-01
+	Hebetec Engineering from 2016-07-01 until 2020-11-01
+	BKW AG from 2020-11-01 until 2021-11-01
+	DSD Heavy Lift from 2021-11-01
 jpadams: jpadams!users.noreply.github.com
 	Puppet Inc. until 2018-09-01
 	Twistlock Inc. from 2018-09-01 until 2019-09-01
@@ -20765,7 +20815,7 @@ judkowitz: judkowitz!google.com, judkowitz!users.noreply.github.com
 	Google LLC
 judwhite: github!judsonwhite.com, judwhite!users.noreply.github.com
 	Rovi Corporation until 2014-01-01
-	Dell Technologies Inc. from 2014-01-01
+	Dell Technologies from 2014-01-01
 judyheflin: judyheflin!users.noreply.github.com
 	Independent until 2015-02-01
 	Language Magazine from 2015-02-01 until 2016-03-01
@@ -20845,7 +20895,7 @@ julb: julb!users.noreply.github.com, julien.baillagou!gmail.com
 julealgon: julealgon!users.noreply.github.com
 	Mobiltec until 2015-08-01
 	Independent from 2015-08-01 until 2019-04-01
-	Dell Technologies Inc. from 2019-04-01 until 2020-09-01
+	Dell Technologies from 2019-04-01 until 2020-09-01
 	Poatek from 2020-09-01
 juleskremer: juleskremer!gmail.com, juleskremer!users.noreply.github.com
 	Google LLC until 2015-01-01
@@ -21100,7 +21150,7 @@ juliev0: juliev0!users.noreply.github.com
 julio-castanar: julio-castanar!users.noreply.github.com, julio.castanarjaime!centurylink.com
 	CenturyLink
 julio-lopez: julio!kasten.io, julio-lopez!users.noreply.github.com
-	Dell Technologies Inc. until 2016-12-01
+	Dell Technologies until 2016-12-01
 	Kasten Inc from 2016-12-01
 julioc-p: 14-10820!usb.ve
 	Independent until 2024-10-01
@@ -22130,7 +22180,7 @@ jzwc: jzwc!users.noreply.github.com, pkroh!cisco.com
 jzwlqx: jiangjizhong!gmail.com, jiangjizhong#gmail.com, jzwlqx!users.noreply.github.com
 	Alibaba Group
 jzyao: jzyao!users.noreply.github.com
-	Dell Technologies Inc. until 2015-03-01
+	Dell Technologies until 2015-03-01
 	Independent from 2015-03-01 until 2015-05-01
 	Huawei Technologies Co. Ltd from 2015-05-01 until 2017-07-01
 	Docker Inc. from 2017-07-01 until 2019-02-01
@@ -22330,7 +22380,7 @@ kachkaev: alexander!kachkaev.ru, kachkaev!users.noreply.github.com
 	Concentra Inc. from 2018-06-01
 kacole2: kacole2!users.noreply.github.com, kendrickc!vmware.com, kendrickcoleman!gmail.com
 	VCE until 2014-10-01
-	Dell Technologies Inc. from 2014-10-01 until 2018-03-01
+	Dell Technologies from 2014-10-01 until 2018-03-01
 	VMware Inc. from 2018-03-01 until 2018-12-01
 	Pursuit Spirits from 2018-12-01
 kaczyns: kaczyns!users.noreply.github.com
@@ -22999,7 +23049,7 @@ kapi-no: kamil.piszczek!nordicsemi.no, kapi-no!users.noreply.github.com
 	Independent until 2015-07-01
 	Nordic Semiconductor ASA from 2015-07-01
 kapiladhikesavalu: hieddiejung!gmail.com, kapil20084!gmail.com, kapil_adhikesavalu!dell.com
-	Dell Technologies Inc.
+	Dell Technologies
 kapilagrawal95: kapilagrawal95!users.noreply.github.com
 	Independent until 2018-07-01
 	Microsoft Corporation from 2018-07-01 until 2021-07-01
@@ -23340,7 +23390,7 @@ karthik-kc: karthik.c!nutanix.com
 	xAd Inc. until 2015-01-01
 	Netflix Inc. from 2015-01-01
 karthik-krishnamurthy: karthik-krishnamurthy!users.noreply.github.com
-	Dell Technologies Inc.
+	Dell Technologies
 karthik-vijayaraju: karthik-vijayaraju!users.noreply.github.com
 	Tata until 2016-03-01
 	ThoughtWorks Inc from 2016-03-01
@@ -23534,7 +23584,7 @@ katcosgrove: kat.cosgrove!gmail.com, katcosgrove!users.noreply.github.com
 	Code Fellows from 2017-11-01 until 2018-09-01
 	JFrog from 2018-09-01 until 2021-05-01
 	Pulumi from 2021-05-01 until 2022-10-01
-	Dell Technologies Inc. from 2022-10-01
+	Dell Technologies from 2022-10-01
 kate-goldenring: kate-goldenring!users.noreply.github.com, kateg!live.unc.edu
 	Awamaki until 2016-08-01
 	Independent from 2016-08-01 until 2017-05-01
@@ -23763,50 +23813,3 @@ kayvee83: kayvee83!users.noreply.github.com
 	HTC America until 2014-11-01
 	Systems Technology Group from 2014-11-01 until 2021-05-01
 	Entelligence from 2021-05-01
-kaywilliams: kay!thewilliams.net, kaywilliams!users.noreply.github.com, roger.albino.i!gmail.com
-	Rendition infosec until 2014-12-01
-	98point6 Inc from 2014-12-01 until 2016-12-01
-	Independent from 2016-12-01 until 2017-01-01
-	Microsoft Corporation from 2017-01-01
-kaz: kaz!users.noreply.github.com
-	Independent until 2017-06-01
-	株式会社 Syun from 2017-06-01
-kazaff: kazaff!users.noreply.github.com
-	YouYou TECH
-kazegusuri: kazegusuri!users.noreply.github.com, sabottenda!gmail.com
-	Yahoo! Inc. until 2015-10-01
-	Mercari Inc from 2015-10-01
-kazhang: kazhang!users.noreply.github.com, zakir.exe!gmail.com
-	Cisco until 2017-02-15
-	Meta Platforms Inc. from 2017-02-15
-kazimsarikaya: kazimsarikaya!users.noreply.github.com
-	Turkish Airlines until 2019-01-01
-	Mantis from 2019-01-01
-kazk: kazk!users.noreply.github.com
-	Qualified
-kazukousen: kazukousen!users.noreply.github.com
-	Independent until 2017-04-01
-	relaido from 2017-04-01 until 2020-05-01
-	DMM from 2020-05-01
-kazum: ayush-_-singh!live.com, morita.kazutaka!gmail.com, wayo.cavazos!gmail.com
-	NTT Corporation
-kb000: kb000!users.noreply.github.com
-	Microsoft Corporation until 2019-04-01
-	Lyft Inc. from 2019-04-01
-kb173: kb173!users.noreply.github.com
-	Independent
-kb2ma: kb2ma!users.noreply.github.com
-	Independent until 2021-03-01
-	Balena Inc. from 2021-03-01
-kbacha: chewbacha!gmail.com, kbacha!users.noreply.github.com
-	3dna Corp. until 2015-07-01
-	Sellbrite from 2015-07-01 until 2016-05-01
-	Weedmaps from 2016-05-01 until 2018-09-01
-	TaskRabbit from 2018-09-01
-kbaegis: kbaegis!users.noreply.github.com, snemeth!suse.com
-	SUSE LLC
-kbajda: kbajda!users.noreply.github.com
-	Teradata until 2017-09-01
-	Starburst Data from 2017-09-01
-kbalka: krzysztof.balka!intel.com
-	Intel Corporation

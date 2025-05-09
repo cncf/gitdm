@@ -2,6 +2,21 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Novell Japan Ltd:
+	budanm: budanm!users.noreply.github.com, jaskirat.s!infosys.com, soumyam1990!gmail.com until 2014-10-01
+	kalabiyau: skullzeek!gmail.com
+	kdave: kdave!users.noreply.github.com
+	lcavajani: lcavajani!users.noreply.github.com
+	marcov: mvedovati!suse.com
+	oliveiradan: doliveirabrz!gmail.com until 2015-04-01
+	sebastian-philipp: sebastian-philipp!users.noreply.github.com
+Novell NetIQ SUSE:
+	kajla: kajla!users.noreply.github.com from 2015-04-01
+Novelti:
+	juanmanuel-tirado: juanmanuel-tirado!users.noreply.github.com from 2016-07-01 until 2017-08-01
+Noveo:
+	imomaliev: imomaliev!users.noreply.github.com from 2017-07-01 until 2017-10-01
+	vbauer: bauer.vlad!gmail.com until 2016-05-01
 Novetta Solutions:
 	DaleBingham: dalebingham!users.noreply.github.com from 2015-05-01 until 2016-12-01
 	TinyCyber: TinyCyber!users.noreply.github.com from 2021-03-01 until 2021-12-01
@@ -991,6 +1006,8 @@ ORIFLAME SOFTWARE:
 	seiffs: seiffs!users.noreply.github.com until 2017-01-01, from 2018-02-01
 ORIGIN Investing:
 	nouney: nouney!users.noreply.github.com from 2016-06-15
+OROBIX:
+	GioPat: GioPat!users.noreply.github.com, gyo15!hotmail.it from 2019-12-01 until 2020-03-01
 OROBIX Srl:
 	Luke035: Luke035!users.noreply.github.com, luca.grazioli!outlook.com from 2018-04-01 until 2019-02-01
 OReilly Media:
@@ -1200,6 +1217,7 @@ OVO:
 	dlaird-ovo: dlaird-ovo!users.noreply.github.com from 2022-08-01
 	ettiee: ettiee!users.noreply.github.com from 2023-05-01
 	joelittlejohn: joelittlejohn!gmail.com, joelittlejohn!users.noreply.github.com from 2020-04-01
+	mikewallace1979: mikewallace1979!users.noreply.github.com from 2020-05-01 until 2021-06-01
 OVO Energy:
 	Inlustra: Inlustra!users.noreply.github.com from 2016-04-01 until 2018-08-01
 	dario1985: dario-simonetti!users.noreply.github.com until 2015-11-01
@@ -2133,6 +2151,7 @@ OncoHealth:
 Oncotest:
 	vindvaki: hordurf!gmail.com, vindvaki!users.noreply.github.com from 2015-01-01 until 2015-12-01
 Ondat:
+	chris-milsted: chris-milsted!users.noreply.github.com from 2021-11-01 until 2023-03-01
 	croomes: croomes!users.noreply.github.com, simon.croome!storageos.com from 2015-06-01 until 2021-11-01
 	mhmxs: mhmxs!users.noreply.github.com from 2021-04-01
 	nolancon: conor.nolan!intel.com, nolancon!users.noreply.github.com from 2021-05-01 until 2023-03-01
@@ -6688,6 +6707,7 @@ PayPal Holdings Inc.:
 PayPay:
 	djKooks: djKooks!users.noreply.github.com, inylove82!gmail.com from 2019-05-01
 	karancode: karancode!users.noreply.github.com from 2019-06-01
+	lotheac: lotheac!users.noreply.github.com from 2022-03-01 until 2024-11-01
 	phanama: 11147376+phanama!users.noreply.github.com, phanama!users.noreply.github.com, yudiandreanp!gmail.com from 2021-02-01 until 2022-03-01
 	rana-awais-paypay: rana-awais-paypay!users.noreply.github.com from 2021-08-01 until 2023-01-01
 	tomsanbear: thomas!santerre.xyz, tomsanbear!users.noreply.github.com from 2019-11-01
@@ -10037,8 +10057,12 @@ PostgreSQL:
 	yosrym93: yosrym93!users.noreply.github.com from 2019-05-01 until 2019-08-01
 Postgres Professional:
 	funny-falcon: funny-falcon!users.noreply.github.com, funny.falcon!gmail.com from 2017-03-01 until 2017-10-01
+Postgres.AI:
+	NikolayS: github2!samokhvalov.com from 2021-10-01
 PostgresML:
 	levkk: levkk!users.noreply.github.com from 2022-06-01
+Postila:
+	NikolayS: github2!samokhvalov.com until 2019-12-01
 Postlight:
 	phyllisstein: phyllisstein!users.noreply.github.com from 2018-02-01 until 2018-10-01
 Postman:
