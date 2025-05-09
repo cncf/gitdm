@@ -2,6 +2,14 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+romhut.com:
+	scottrobertson: scottrobertson!users.noreply.github.com until 2018-08-01
+rovercode:
+	cabarnes: clifton.a.barnes!gmail.com from 2017-06-01
+rspective:
+	damlys: damian.lysiak!gmail.com, damlys!users.noreply.github.com from 2020-01-01 until 2020-04-01
+	pawelrychlik: pawelrychlik!users.noreply.github.com from 2015-09-01 until 2016-01-01
+	phajduk: phajduk!users.noreply.github.com from 2015-11-01 until 2017-01-01
 rtCamp:
 	arush-sal: arush-sal!users.noreply.github.com, me!aru.sh
 	iam404: cloos!netsandbox.de, iam404!users.noreply.github.com, mail!prabuddha.me, rjmaltamar!gmail.com, sachidanand.sharma!gmail.com from 2015-01-01 until 2016-11-01
