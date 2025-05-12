@@ -9231,11 +9231,11 @@ binarycrayon: binarycrayon!users.noreply.github.com
 binarylogic: binarylogic!users.noreply.github.com
 	Timber.io until 2021-02-01
 	Datadog Inc from 2021-02-01
-binbinwu1: binbin.wu!intel.com, chanduveerlas93!gmail.com
-	Intel Corporation
-binbin-li: libinbin!microsoft.com
+binbin-li: binbin-li!users.noreply.github.com, libinbin!microsoft.com, libinbin050215!gmail.com
 	Independent until 2022-05-10
 	Microsoft Corporation from 2022-05-10
+binbinwu1: binbin.wu!intel.com, chanduveerlas93!gmail.com
+	Intel Corporation
 binc75: binc75!users.noreply.github.com
 	CSCS until 2020-04-01
 	Ricardo from 2020-04-01 until 2022-01-01
@@ -23723,7 +23723,3 @@ damadei-google: damadei-google!users.noreply.github.com
 	Google LLC from 2019-06-01
 damaestro: damaestro!users.noreply.github.com
 	Beatport
-damarindra: damarindra!users.noreply.github.com
-	ArKode until 2015-09-01
-	Independent from 2015-09-01 until 2018-01-01
-	SMK Raden Umar Said from 2018-01-01

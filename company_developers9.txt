@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Novelda:
+	sigvartmh: sigvart.hovland!nordicsemi.no, sigvart.m!gmail.com, sigvartmh!users.noreply.github.com from 2015-04-01 until 2016-06-01
+Novelios:
+	vlandemaine-orange: 48279741+vlandemaine-orange!users.noreply.github.com, vlandemaine-orange!users.noreply.github.com until 2018-11-01
 Novelis:
 	justinneilson: justinneilson!users.noreply.github.com from 2022-10-01
 	maxsokolovsky: genexpr!protonmail.com from 2016-05-01 until 2017-12-01
