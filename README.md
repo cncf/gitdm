@@ -18,7 +18,7 @@ If you find any errors or missing affiliations in those lists, please submit a p
 
 Please note that we need both *current* and *historical* email here as we are processing data from GitHub *Archives*, so old emails are there (even if they are no longer current).
 
-We need historical emails to track historical data (GitHub archives save events every hours, so they contain data as they were at given point in time).
+We need historical emails to track historical data (GitHub archives save events every hour, so they contain data as they were at given point in time).
 
 Only the Developers affiliations list [dev1], [dev2], [dev3], [dev4], [dev5], ... should be edited manually.
 
@@ -162,7 +162,7 @@ It gathers `git log` on each of them and concatenates all those files and then r
 
 Results are saved to `repos/combined.<ext>` <ext> is the same as for `anyrepo.sh`.
 
-The typical workflow is re-runing `./kubernetes_repos.sh` and examining `repos/combined.txt` for unknown developers.
+The typical workflow is re-running `./kubernetes_repos.sh` and examining `repos/combined.txt` for unknown developers.
 
 Research on google, Clearbit, FullContact, github, LinkedIn, Facebook, any other source -> update `cncf-config/<filename>` and re-run `./kubernetes_repos.sh`
 <filename>: usually in this order: email-map, domain-map, a in very rare cases: aliases, gitdm.config-cncf or group mappings in groups/
@@ -302,7 +302,7 @@ Last month: 30227,21371,4645,1741,2470,451
 - Big summaries like all developers etc are in `./repos/combined.txt`, for the main k8s repo: `kubernetes/all_time/first_run_numstat.txt`
 - Top developer stats are here: `stats/all_key.csv` (for all repos), `stats/kubernetes_key.csv` (for the main repo) and `stats/v1.x_key.csv` per versions.
 - Import those to the last 3 sheets in the data set
-- Per verion data: `report/v1.x_v1.y_key_top.csv`, key: changesets, lines, developers, import to the datasheet for all versions: 7 x 3 = 21 imports
+- Per version data: `report/v1.x_v1.y_key_top.csv`, key: changesets, lines, developers, import to the datasheet for all versions: 7 x 3 = 21 imports
 
 Affiliations of some developers are uncertain despite the best effort. These developers are listed in `uncertain.csv` file.
 
