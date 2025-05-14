@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+damadei-google: damadei-google!users.noreply.github.com
+	Red Hat Inc. until 2017-01-01
+	Microsoft Corporation from 2017-01-01 until 2019-06-01
+	Google LLC from 2019-06-01
+damaestro: damaestro!users.noreply.github.com
+	Beatport
 damarindra: damarindra!users.noreply.github.com
 	ArKode until 2015-09-01
 	Independent from 2015-09-01 until 2018-01-01
@@ -23881,10 +23887,3 @@ gpocentek: benoit.mallo!gmail.com, gauvain!pocentek.net, gauvain.pocentek!object
 	Objectif Libre
 gpolaert: gpolaert!users.noreply.github.com
 	pubstack
-gportay: gael.portay!gmail.com
-	Overkiz until 2015-07-01
-	Independent from 2015-07-01 until 2016-02-01
-	Savoir-faire Linux from 2016-02-01 until 2018-10-01
-	Collabora from 2018-10-01
-gprasath: 32255588+gprasath!users.noreply.github.com, giridhara.prasad!cloudbyte.com, giridhara.prasad!mayadata.io, gprasath!users.noreply.github.com
-	MayaData-IO

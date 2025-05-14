@@ -12238,7 +12238,8 @@ brirams: brirams!users.noreply.github.com
 brissenden: brissenden!users.noreply.github.com
 	Arkency until 2016-10-01
 	Hivetec from 2016-10-01
-britaniar: britaniar!users.noreply.github.com, britaniar!microsoft.com
+britaniar: britaniar!microsoft.com, britaniar!users.noreply.github.com
+	Independent until 2023-09-11
 	Microsoft Corporation from 2023-09-11
 brito-rafa: brito-rafa!users.noreply.github.com
 	Citi until 2019-05-01
@@ -17654,9 +17655,9 @@ chewong: chewong!users.noreply.github.com, chuwon!microsoft.com, chwong719!gmail
 	Microsoft Corporation from 2017-05-01 until 2018-12-01
 	Independent from 2018-12-01 until 2019-08-01
 	Microsoft Corporation from 2019-08-01 until 2022-07-22
-	AWS from 2022-07-25 until 2023-08-25
-	Stealth from 2023-08-28 until 2025-03-07
-	Microsoft Corporation from 2025-03-10
+	AWS from 2022-07-22 until 2023-08-25
+	Stealth from 2023-08-25 until 2025-03-07
+	Microsoft Corporation from 2025-03-07
 chews93319: stchew!amazon.com
 	Independent until 2021-09-20
 	Amazon AWS from 2021-09-20
@@ -23718,9 +23719,3 @@ daltonal: alexandre.dalton!intel.com
 	Intel Corporation
 dalvizu: alvizu!gmail.com, dalvizu!pingidentity.com, dalvizu!users.noreply.github.com
 	Ping Identity Corporation
-damadei-google: damadei-google!users.noreply.github.com
-	Red Hat Inc. until 2017-01-01
-	Microsoft Corporation from 2017-01-01 until 2019-06-01
-	Google LLC from 2019-06-01
-damaestro: damaestro!users.noreply.github.com
-	Beatport

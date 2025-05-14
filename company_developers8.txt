@@ -3402,8 +3402,6 @@ Measurement:
 	rbizzell40: hardworker30!gmail.com, rbizzell40!users.noreply.github.com from 2015-07-01 until 2017-08-01
 Mecadesign3D:
 	FernandezAnibal: FernandezAnibal!users.noreply.github.com from 2017-01-01 until 2017-09-01
-Mechanical:
-	bupd: bupd!users.noreply.github.com from 2023-03-01 until 2023-05-01
 Mechanical Orchard:
 	marcdel: delagrammatikas!gmail.com, marcdel!users.noreply.github.com from 2023-02-01
 Mechanical Rock:
@@ -5825,6 +5823,7 @@ Microsoft Corporation:
 	Fadyazmy: Fadyazmy!users.noreply.github.com from 2021-05-01 until 2021-07-01, from 2022-04-01
 	Fei-Guo: Fei-Guo!users.noreply.github.com, vrgf2003!gmail.com from 2022-05-01
 	Felihong: Felihong!users.noreply.github.com, hong.zhu!fu-berlin.de
+	FeynmanZhou: FeynmanZhou!users.noreply.github.com, feynmanzhou!microsoft.com from 2022-05-07
 	FinVamp1: finbarr!microsoft.com
 	Flanker32: Flanker32!users.noreply.github.com, hanli!microsoft.com from 2018-07-01
 	FloorD: FloorD!users.noreply.github.com, mark!wolfe.id.au from 2019-02-01 until 2021-05-01
@@ -6318,6 +6317,7 @@ Microsoft Corporation:
 	briankr-ms: briankr-ms!users.noreply.github.com
 	brianrob: brianrob!microsoft.com, brianrob!users.noreply.github.com
 	bridgetkromhout: bridget!kromhout.org, bridgetkromhout!users.noreply.github.com from 2017-08-01
+	britaniar: britaniar!microsoft.com, britaniar!users.noreply.github.com from 2023-09-11
 	brooke-hamilton: brooke-hamilton!users.noreply.github.com
 	brunoborges: bruno.borges!gmail.com, bruno.borges!microsoft.com
 	brwilkinson: brwilkinson!users.noreply.github.com
@@ -6369,7 +6369,7 @@ Microsoft Corporation:
 	chensun: chensun!users.noreply.github.com until 2018-11-01
 	chenyukang: chenyukang!users.noreply.github.com, moorekang!gmail.com, moorekang!gmaill.com from 2020-09-01
 	chewi: chewi!aura-online.co.uk, chewi!gentoo.org, chewi!users.noreply.github.com, james.le-cuirot!yakara.com, james.lecuirot!metaswitch.com, jlecuirot!microsoft.com from 2021-03-01
-	chewong: chewong!users.noreply.github.com from 2017-05-01 until 2018-12-01, from 2019-08-01 until 2022-07-22
+	chewong: chewong!users.noreply.github.com, chuwon!microsoft.com, chwong719!gmail.com from 2017-05-01 until 2018-12-01, from 2019-08-01 until 2022-07-22, from 2025-03-07
 	chgeuer: chgeuer!microsoft.com, chgeuer!users.noreply.github.com
 	chhabaramesh: ramesh.chander!agylstor.com, ramesh.chander!sandisk.com from 2017-04-01 until 2018-07-01
 	chingyi-lin: chingyi-lin!users.noreply.github.com until 2017-07-01
@@ -7283,6 +7283,7 @@ Microsoft Corporation:
 	pallavit: pallavit!microsoft.com, pallavit!users.noreply.github.com
 	panchagnula: panchagnula!users.noreply.github.com, sisirap!microsoft.com
 	panchul: panchul!users.noreply.github.com from 2020-04-01 until 2020-11-01
+	pat-pan: pat-pan!users.noreply.github.com
 	patnaikshekhar: patnaikshekhar!gmail.com, patnaikshekhar!users.noreply.github.com from 2018-10-01
 	patrickcarnahan: patrickcarnahan!users.noreply.github.com until 2020-01-01
 	patrickhuber: patrickhuber!users.noreply.github.com from 2020-05-01
@@ -7790,6 +7791,7 @@ Microsoft Corporation:
 	winguse: github!winguse.com, winguse!users.noreply.github.com until 2016-09-01
 	winterTTr: winterTTr!users.noreply.github.com
 	wizcas: wizcas!users.noreply.github.com until 2014-07-01
+	wju-MSFT: wju-MSFT!users.noreply.github.com
 	wlxiong: xiongyiliang!xunlei.com
 	woehrl01: lukas!woehrl.net, lukas.woehrl!microsoft.com, thomas!oxynum.fr, woehrl01!users.noreply.github.com
 	wsf11: wsf11!users.noreply.github.com from 2018-05-01 until 2018-08-01, from 2019-08-01
@@ -8485,6 +8487,7 @@ Mirantis:
 	teoyaomiqui: kkalynovskyi!mirantis.com, teoyaomiqui!users.noreply.github.com from 2016-12-01
 	teran: me!teran.dev until 2016-09-01
 	trierra: trierra!users.noreply.github.com, trierra.dev!gmail.com until 2014-12-01
+	twz123: t.wieczorek!yieldlab.de, tom!bibbu.net, tom.wieczorek!zalando.de, twz123!users.noreply.github.com from 2022-01-31
 	wkonitzer: wkonitzer!users.noreply.github.com from 2018-03-01 until 2025-02-01
 	wkrysmann: wkrysmann!users.noreply.github.com from 2015-12-01 until 2016-12-01
 	wsoualhi: wsoualhi!users.noreply.github.com from 2021-08-01
@@ -15894,12 +15897,3 @@ Novastrike:
 	williamd1k0: github!tumeo.space
 Novatecno:
 	dalfos: dalfos!mail.ru, dalfos!users.noreply.github.com from 2015-05-01 until 2015-08-01
-Novatecno SRL:
-	apetrovYa: apetrov.ya!yandex.ru, apetrovYa!users.noreply.github.com from 2015-05-01 until 2015-08-01
-Novatis SUARL:
-	atefBB: atefbb!users.noreply.github.com from 2016-07-01 until 2019-02-01
-Novatium Solutions:
-	ragunathan23: ragunathan23!users.noreply.github.com until 2014-10-01
-Novatize:
-	emgre: emgre!users.noreply.github.com from 2015-03-01 until 2016-04-01
-	sylwit: sylvain.witmeyer!gmail.com
