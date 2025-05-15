@@ -13515,11 +13515,12 @@ enriched: enriched!users.noreply.github.com, feelingenriched!gmail.com
 	Hyperfish from 2015-09-01 until 2018-05-01
 	INTELIGHT from 2018-05-01 until 2019-05-01
 	Q-Free ASA from 2019-05-01
-enrichman: enrichman!users.noreply.github.com
+enrichman: enrichman!users.noreply.github.com, enrico.candino!gmail.com, enrico.candino!suse.com
 	Sourcesense until 2015-08-01
 	Datalytics Srl from 2015-08-01 until 2016-11-01
 	Subito from 2016-11-01 until 2020-01-01
-	Prima Assicurazioni from 2020-01-01
+	Prima Assicurazioni from 2020-01-01 until 2022-01-10
+	SUSE LLC from 2022-01-10
 enricofranco: enricofranco!users.noreply.github.com
 	Independent until 2015-04-01
 	NICE Netherlands B.V. from 2015-04-01 until 2015-09-01
