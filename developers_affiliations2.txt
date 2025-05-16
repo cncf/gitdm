@@ -5,6 +5,34 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+OperationalDev: OperationalDev!users.noreply.github.com
+	Standard Bank until 2018-07-01
+	Nedbank from 2018-07-01 until 2019-07-01
+	Standard Chartered Bank from 2019-07-01 until 2020-10-01
+	Goldman Sachs & Co. LLC from 2020-10-01
+Oppen: mrugiero!gmail.com
+	TecnoAccion until 2017-06-01
+	HelpSystems from 2017-06-01 until 2020-03-01
+	Wildlife Studios from 2020-03-01 until 2020-10-01
+	LambdaClass from 2020-10-01
+Ordojan: andrius.or!gmail.com
+	Praqma A/S until 2017-07-01
+	Siteimprove from 2017-07-01
+OriBenHur-akeyless: OriBenHur-akeyless!users.noreply.github.com
+	Independent until 2015-07-01
+	Capriza from 2015-07-01 until 2017-05-01
+	Independent from 2017-05-01 until 2017-12-01
+	Oosto from 2017-12-01 until 2020-05-01
+	Razor Labs from 2020-05-01 until 2022-04-01
+	Akeyless from 2022-04-01
+OriHoch: OriHoch!users.noreply.github.com, ori!uumpa.com
+	Independent until 2019-01-01
+	Kamatera from 2019-01-01
+OriMankali: OriMankali!users.noreply.github.com
+	Compass until 2016-05-01
+	AWS from 2016-05-01 until 2018-07-01
+	DRIVENETS from 2018-07-01 until 2019-09-01
+	AKEYLESS from 2019-09-01
 OrkoHunter: himanshu!orkohunter.net
 	Independent until 2015-05-01
 	Google LLC from 2015-05-01 until 2015-08-01
@@ -1797,6 +1825,10 @@ RJvH: RJvH!users.noreply.github.com
 	Achmea from 2015-01-01
 RKX1209: rkx1209!gmail.com, rkx1209dev!gmail.com
 	Independent
+RLRabinowitz: RLRabinowitz!users.noreply.github.com
+	Independent until 2019-03-01
+	Skycure from 2019-03-01 until 2020-05-01
+	env0 from 2020-05-01
 RMPR: RMPR!users.noreply.github.com
 	Independent until 2018-05-01
 	Google LLC from 2018-05-01 until 2019-08-01
@@ -3321,6 +3353,14 @@ RomLecat: romain!lecat.pro
 	Independent until 2015-09-01
 	LUSH France from 2015-09-01 until 2017-09-01
 	OUTSCALE from 2017-09-01
+Roma36: Roma36!users.noreply.github.com
+	Independent until 2015-03-01
+	Oxagile from 2015-03-01 until 2016-03-01
+	Aligned Code from 2016-03-01 until 2016-08-01
+	EPAM from 2016-08-01 until 2019-08-01
+	Akveo from 2019-08-01 until 2021-10-01
+	Via from 2021-10-01 until 2023-03-01
+	Spacelift from 2023-03-01
 Romain-Geissler-1A: Romain-Geissler-1A!users.noreply.github.com
 	Amadeus
 RomainBelorgey: RomainBelorgey!users.noreply.github.com
@@ -4379,6 +4419,11 @@ Sarabadu: Sarabadu!users.noreply.github.com
 Sarah-Aly: Sarah-Aly!users.noreply.github.com
 	Independent until 2017-11-01
 	Microsoft Corporation from 2017-11-01
+SarahFrench: SarahFrench!users.noreply.github.com
+	Sky UK Limited until 2018-09-01
+	Mumsnet from 2018-09-01 until 2020-09-01
+	Sky UK Limited from 2020-09-01 until 2022-09-01
+	HashiCorp Inc from 2022-09-01
 SaranBalaji90: SaranBalaji90!users.noreply.github.com, egorgrishechko!gmail.com, srisaranbalaji!gmail.com
 	AWS
 Saranya-jena: Saranya.jena!mayadata.io
@@ -4726,6 +4771,8 @@ SebastianM: mail!sebastian-holstein.de
 SebastianSchildt: SebastianSchildt!users.noreply.github.com
 	Independent until 2015-10-01
 	Bosch from 2015-10-01
+SebastianStadil: sebastian!stadil.com
+	Scalr
 SebastianStehle: SebastianStehle!users.noreply.github.com, sebastian!squidex.io
 	Green Parrot until 2016-04-01
 	Independent from 2016-04-01 until 2016-11-01
@@ -5759,7 +5806,7 @@ Skandh15: skandhoff!gmail.com
 	Dayal Group from 2018-06-01 until 2018-07-01
 	Independent from 2018-07-01 until 2019-09-01
 	Optum Global Solutions from 2019-09-01
-Skarlso: skarlso777!gmail.com, 182850+Skarlso!users.noreply.github.com, Skarlso!users.noreply.github.com, gergely!kubermatic.com, gergely!weave.works
+Skarlso: 182850+Skarlso!users.noreply.github.com, Skarlso!users.noreply.github.com, gergely!kubermatic.com, gergely!weave.works, skarlso777!gmail.com
 	Camelot Business Solutions Limited until 2015-02-01
 	Independent from 2015-02-01 until 2015-05-01
 	ChemAxon from 2015-05-01 until 2016-02-01
@@ -9975,6 +10022,8 @@ WoWsj: wowtjdwo!gmail.com
 	Independent until 2020-12-01
 	(주)네오위즈 from 2020-12-01 until 2021-03-01
 	LINE from 2021-03-01
+WodansSon: WodansSon!users.noreply.github.com
+	Microsoft Corporation
 WojtekTomaszewski: WojtekTomaszewski!users.noreply.github.com
 	International Business Machines Corporation until 2016-07-01
 	Independent from 2016-07-01 until 2016-08-01
@@ -10356,6 +10405,12 @@ YafimK: yafim.kazak!gmail.com, yafimk!users.noreply.github.com
 	Micro Focus International plc
 Yajo: Yajo!users.noreply.github.com
 	Moduon
+YakDriver: YakDriver!users.noreply.github.com
+	Manning Systems until 2017-03-01
+	iSenpai from 2017-03-01 until 2017-08-01
+	Independent from 2017-08-01 until 2017-12-01
+	Plus3 from 2017-12-01 until 2020-07-01
+	HashiCorp Inc from 2020-07-01
 YakirShriker: YakirShriker!users.noreply.github.com
 	Amdocs Limited until 2016-04-01
 	LivePerson Inc. from 2016-04-01
@@ -10427,6 +10482,11 @@ Yanson: Yanson!users.noreply.github.com
 	King until 2017-06-01
 	Zopa from 2017-06-01 until 2017-08-01
 	Farfetch from 2017-08-01
+Yantrio: Yantrio!users.noreply.github.com, james!james-humphries.co.uk
+	Axiell G until 2015-03-01
+	VQ Communications from 2015-03-01 until 2022-06-01
+	Spacelift from 2022-06-01 until 2025-04-01
+	OpenTofu from 2025-04-01
 YanzhaoLi: YanzhaoLi!users.noreply.github.com, yanzhaol!vmware.com
 	VMware Inc.
 YaoZengzeng: 461941420!qq.com, yaozengzeng!foxmail.com, yaozengzeng!huawei.com, yaozengzeng!zju.edu.cn, zengzengyao!harmonycloud.cn
@@ -13225,6 +13285,13 @@ acwn1976: acwn1976!users.noreply.github.com
 	Learnship from 2016-04-01 until 2020-06-01
 	Avenga from 2020-06-01 until 2022-01-01
 	Independent from 2022-01-01
+acwwat: acwwat!users.noreply.github.com
+	Toyota until 2011-11-01
+	SAP from 2011-11-01 until 2018-07-01
+	Independent from 2018-07-01 until 2019-01-01
+	Toyota from 2019-01-01 until 2020-03-01
+	Independent from 2020-03-01 until 2020-05-01
+	Softchoice Corporation from 2020-05-01
 ad-m: ad-m!users.noreply.github.com
 	Citizens until 2020-10-01
 	HyperOne from 2020-10-01 until 2021-10-01
@@ -18612,6 +18679,10 @@ alexosumi: alex.osumi!gmail.com
 	BoaConsulta from 2019-01-01 until 2021-12-01
 	Pixeon from 2021-12-01 until 2022-03-01
 	Pier Cloud from 2022-03-01
+alexott: alexott!gmail.com
+	McAfee until 2017-12-01
+	DataStax Inc. from 2017-12-01 until 2020-07-01
+	Databricks Inc. from 2020-07-01
 alexouzounis: alex.ouzounis!me.com
 	SolarWinds Worldwide LLC until 2016-03-01
 	Adobe Inc. from 2016-03-01 until 2017-06-01
@@ -19447,6 +19518,9 @@ almos98: almos98!users.noreply.github.com
 	NetApp from 2019-05-01
 almostivan: jbaron!akamai.com
 	Akamai Technologies Inc.
+almudenasanz: almudena.sanz!elastic.co, almudenasanz!users.noreply.github.com
+	Independent until 2023-05-03
+	Elasticsearch Inc. from 2023-05-03
 almusil: amusil!redhat.com
 	Red Hat Inc.
 alnr: alnr!users.noreply.github.com
@@ -23499,77 +23573,3 @@ anthonydahanne: anthony.dahanne!gmail.com, anthonydahanne!users.noreply.github.c
 	National Bank from 2020-07-01 until 2021-10-01
 	Wise from 2021-10-01 until 2023-01-01
 	VMware Inc. from 2023-01-01
-anthonyfister: anthonyfister!users.noreply.github.com
-	International Business Machines Corporation until 2020-02-01
-	Red Hat Inc. from 2020-02-01
-anthonyfok: anthonyfok!users.noreply.github.com, foka!debian.org
-	Debian
-anthonygreen: anthonygreen!users.noreply.github.com, github!anthonygreen.me
-	BBC
-anthonyho007: anthony.ho!shopify.com, anthonyho007!users.noreply.github.com
-	Shopify Inc.
-anthonyliriano: anthonyliriano!users.noreply.github.com
-	Independent until 2014-11-01
-	Partners HealthCare from 2014-11-01 until 2016-11-01
-	Black Duc from 2016-11-01 until 2017-12-01
-	Gemline from 2017-12-01
-anthonymorrisjohnson: anthonyj!alum.mit.edu, anthonymorrisjohnson!users.noreply.github.com
-	Smartify until 2015-06-01
-	Reputation from 2015-06-01 until 2016-06-01
-	Giphy Inc. from 2016-06-01
-anthonyrouseau: anthonyrouseau!gmail.com, anthonyrouseau!users.noreply.github.com
-	Independent until 2017-09-01
-	Scale Media from 2017-09-01 until 2019-02-01
-	Search Nurture from 2019-02-01 until 2019-12-01
-	Zhejiang University from 2019-12-01 until 2020-03-01
-	One Step from 2020-03-01 until 2020-12-01
-	Hulu LLC from 2020-12-01
-anthonyroux: anthony.roux!amadeus.com, rcuni8!gmail.com
-	Amadeus
-anthonyveiga: anthony_veiga!cable.comcast.com
-	Comcast Cable Communications LLC (Xfinity)
-anthonyvk: anthonyvk!users.noreply.github.com
-	Independent until 2016-01-01
-	Abyeti Technologies from 2016-01-01 until 2019-05-01
-	GE Healthcare from 2019-05-01 until 2022-02-01
-	Bolt from 2022-02-01 until 2022-07-01
-	Wise from 2022-07-01
-anthonywong: anthony.wong!ubuntu.com
-	Canonical Ltd.
-anthr76: anthr76!users.noreply.github.com, hello!anthonyrabbito.com
-	Independent until 2018-02-01
-	Martz Group from 2018-02-01 until 2018-08-01
-	Independent from 2018-08-01 until 2019-07-01
-	NICE Netherlands B.V. from 2019-07-01 until 2019-12-01
-	Susquehanna from 2019-12-01 until 2020-12-01
-	Independent from 2020-12-01 until 2021-03-01
-	PwC from 2021-03-01
-anthu: anthu!users.noreply.github.com
-	Independent until 2016-03-01
-	Burda Bootcamp from 2016-03-01 until 2016-04-01
-	Andrena from 2016-04-01 until 2017-03-01
-	Trvlmind from 2017-03-01 until 2017-04-01
-	SportsHeroes from 2017-04-01 until 2018-12-01
-	Netlight from 2018-12-01
-antialiasis: antialiasis!gmail.com, antialiasis!users.noreply.github.com
-	KinWins
-antimack: antimack!users.noreply.github.com, dmytro.maryniuk!gmail.com
-	Frayman until 2014-06-01
-	Independent from 2014-06-01 until 2014-12-01
-	GlobalLogic Inc. from 2014-12-01 until 2015-08-01
-	Soft Serve Inc. from 2015-08-01 until 2016-03-01
-	Besedo from 2016-03-01 until 2018-09-01
-	Volvo from 2018-09-01
-antiqe: antiqe!users.noreply.github.com
-	Energiency until 2014-08-01
-	Independent from 2014-08-01 until 2015-09-01
-	Swapcard from 2015-09-01
-antiroot-kr: antiroot!gmail.com
-	Samsung Electronics Co. Ltd. until 2014-03-01
-	Yet-another Challenges from 2014-03-01
-antje: antje!users.noreply.github.com
-	Cisco until 2016-07-01
-	Independent from 2016-07-01 until 2016-08-01
-	MapR Technologies from 2016-08-01 until 2019-06-01
-	Independent from 2019-06-01 until 2019-08-01
-	Amazon from 2019-08-01
