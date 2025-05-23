@@ -5,6 +5,18 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+morganfainberg: m!metacloud.com, morgan.fainberg!gmail.com
+	MetaCloud Inc until 2014-05-23
+	HP Inc. from 2014-05-23 until 2015-10-31
+	HP Inc. from 2015-10-31 until 2016-03-25
+	In August from 2016-03-25 until 2016-05-05
+	Red Hat Inc. from 2016-05-05
+morganrOL: morgan.richomme!orange.com, morganrOL!users.noreply.github.com
+	Orange SA
+morgante: morgante!users.noreply.github.com, morgante.pell!morgante.net, morgantep!google.com
+	Google LLC
+morganwangk: morgan.wang!huawei.com
+	Huawei Technologies Co. Ltd
 morganwu277: morganwu277!users.noreply.github.com, xue777hua!gmail.com
 	Transwarp Technology (Shanghai) Co. Ltd until 2015-06-01
 	RIPRO from 2015-06-01 until 2016-01-01
@@ -18900,7 +18912,7 @@ rafaelreinert: rafaelreinert!gmail.com, rafaelreinert!users.noreply.github.com
 rafaelrezend: rafaelrezend!gmail.com
 	itemis AG until 2016-09-01
 	Bosch from 2016-09-01
-rafaelroquetto: rafael.roquetto!grafana.com rafael!roquetto.com rafaelroquetto!users.noreply.github.com
+rafaelroquetto: rafael!roquetto.com, rafael.roquetto!grafana.com, rafaelroquetto!users.noreply.github.com
 	Grafana Labs
 rafaelsales: rafaelcds!gmail.com, rafaelsales!users.noreply.github.com
 	LockState
@@ -23808,22 +23820,3 @@ robertgzr: r!gnzler.io, robertguenzler!kinvolk.io, robertgzr!users.noreply.githu
 roberth1988: robert.hoppe!nodemash.com, roberth1988!users.noreply.github.com
 	msales until 2019-08-01
 	nodemash from 2019-08-01
-roberthamel: roberthamel!users.noreply.github.com
-	Pythian until 2021-11-01
-	3237575 Canada from 2021-11-01
-roberthbailey: robertbailey!google.com, roberthbailey!users.noreply.github.com, s4ros!infinigy.pl
-	Google LLC
-roberthstrand: roberthstrand!users.noreply.github.com
-	SysKon until 2016-06-01
-	Tromsø kommune from 2016-06-01 until 2018-03-01
-	Atea Norge from 2018-03-01 until 2020-03-01
-	Crayon from 2020-03-01
-robertjahn: robertjahn!users.noreply.github.com
-	Collaborative until 2017-02-01
-	Elyxor from 2017-02-01 until 2018-11-01
-	Dynatrace LLC from 2018-11-01
-robertlagrant: robertlagrant!users.noreply.github.com
-	T-Systems until 2015-09-01
-	Independent from 2015-09-01 until 2015-11-01
-	Software AG from 2015-11-01 until 2017-11-01
-	Sensyne Health from 2017-11-01
