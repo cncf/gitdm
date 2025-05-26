@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+paymoon:
+	stevenlii: stevenlii!qq.com, stevenlii!users.noreply.github.com
 paypal:
 	SureshGoli123: SureshGoli123!users.noreply.github.com from 2014-06-01 until 2015-02-01
 paysafetech:

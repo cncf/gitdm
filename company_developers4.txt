@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Excellence:
+	dlindenkreuz: dlindenkreuz!icloud.com, dlindenkreuz!users.noreply.github.com until 2019-01-01
+ExcellentOps:
+	JoshDaone: JoshDaone!users.noreply.github.com
 Excellium:
 	righettod: drighetto!excellium-services.com, righettod!users.noreply.github.com from 2022-01-01
 Exceptionless:
@@ -1850,7 +1854,6 @@ Federal Office:
 Federal Office for Information Security (BSI):
 	abusaidm: abusaidm!users.noreply.github.com until 2016-11-01
 	jmini: dev!jmini.fr, jeremie.bresson!unblu.com, jmini!users.noreply.github.com until 2018-01-01
-	snorwin: snorwin!users.noreply.github.com from 2015-09-01 until 2016-02-01
 Federal Reserve Board:
 	skonzem: konzems!gmail.com, skonzem!users.noreply.github.com
 Federal Soluções Técnicas:
@@ -15681,7 +15684,3 @@ Hearsay Social:
 	bhops: bhops!users.noreply.github.com, hops.brandon!gmail.com from 2015-08-01 until 2015-12-01
 	rogerhu: rhu!hearsaycorp.com, roger.hu!gmail.com until 2019-08-01
 	samv: sam!vilain.net, samv!users.noreply.github.com until 2015-10-15
-Hearst:
-	dgeorgievski: dgeorgievski!users.noreply.github.com from 2016-01-01 until 2017-09-01
-	donofriov: donofriov!users.noreply.github.com, vincent.donofrio!soul-cycle.com from 2015-12-01 until 2017-04-01
-	serkanh: serkanh!users.noreply.github.com from 2018-01-01
