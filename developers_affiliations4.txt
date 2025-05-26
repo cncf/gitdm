@@ -5,6 +5,56 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+d-fence: moc!odoo.com
+	Odoo
+d-gol: d-gol!users.noreply.github.com, dejan.golubovic.27!gmail.com
+	Independent until 2016-10-01
+	ETAL LIMITED from 2016-10-01 until 2017-07-01
+	Independent from 2017-07-01 until 2018-04-01
+	ReLDI C from 2018-04-01 until 2019-01-01
+	CERN from 2019-01-01 until 2023-03-01
+	Neural Concept from 2023-03-01
+d-goro: d-goro!users.noreply.github.com
+	HP Inc. until 2018-05-01
+	Quest from 2018-05-01 until 2019-11-01
+	AKEYLESS from 2019-11-01
+d-hatayama: d.hatayama!fujitsu.com, d.hatayama!jp.fujitsu.com
+	Fujitsu Limited
+d-helios: apenner.it!gmail.com
+	Beeline Kyrgyzstan until 2015-04-01
+	MegaFon from 2015-04-01 until 2016-04-01
+	Nexign from 2016-04-01 until 2017-11-01
+	EPAM Systems Inc from 2017-11-01
+d-honeybadger: d-honeybadger!users.noreply.github.com, komsa.darya!gmail.com
+	Independent until 2019-01-01
+	Sport-Travel from 2019-01-01 until 2020-08-01
+	DigitalOcean from 2020-08-01
+d-jeffery: d-jeffery!users.noreply.github.com
+	AWS until 2015-05-01
+	Independent from 2015-05-01 until 2015-12-01
+	AWS from 2015-12-01 until 2021-02-01
+	Independent from 2021-02-01 until 2021-06-01
+	NYDIG from 2021-06-01 until 2022-10-01
+	Independent from 2022-10-01 until 2023-07-01
+	Okta via Bee from 2023-07-01
+d-k-c: damien.riegel!savoirfairelinux.com
+	Parrot until 2014-10-01
+	SAGEM DEFENSE from 2014-10-01 until 2014-12-01
+	Savoir-faire Linux from 2014-12-01
+d-kowalski: 37632556+d-kowalski!users.noreply.github.com, d-kowalski!users.noreply.github.com
+	Apple Inc.
+d-kuro: d-kuro!users.noreply.github.com, kurosawa7620!gmail.com
+	Independent until 2017-04-01
+	Techno Mobile Co. Ltd. from 2017-04-01 until 2018-02-01
+	Classmethod from 2018-02-01 until 2019-09-01
+	Quipper from 2019-09-01 until 2020-12-01
+	Independent from 2020-12-01
+d-los: dlos!google.com
+	Google LLC
+d-m: d-m!users.noreply.github.com
+	Pliancy until 2016-12-01
+	Independent from 2016-12-01 until 2018-10-01
+	CMD Automation from 2018-10-01
 d-mo: d-mo!users.noreply.github.com
 	Mist.io
 d-nishi: d-nishi!users.noreply.github.com, dnishi!amazon.com, dnishi1218!gmail.com
@@ -2428,6 +2478,13 @@ david-thrower: david-thrower!users.noreply.github.com
 	Cerebros from 2021-01-01
 david-z: david-z!users.noreply.github.com, hanniusshine!gmail.com, zhang.david2011!gmail.com, zhangz.david!outlook.com
 	Tencent Holdings Limited
+david1437: davidsherrier1997!gmail.com
+	Independent until 2017-08-01
+	ConnectWise from 2017-08-01 until 2018-05-01
+	JPMorganChase from 2018-05-01 until 2018-08-01
+	Independent from 2018-08-01 until 2019-05-01
+	eGain from 2019-05-01 until 2025-05-01
+	Addepar Inc. from 2025-05-01
 david50407: david50407!users.noreply.github.com
 	Sharelike
 david6983: david6983!users.noreply.github.com
@@ -5907,6 +5964,12 @@ dhruvikn: dhruvikn!gmail.com, dhruvikn!users.noreply.github.com
 	Radius from 2024-05-01
 dhruvmaindola227: dhruvmaindola227!users.noreply.github.com, maindola.dhruv!gmail.com
 	Independent
+dhuckins: dhuckins!users.noreply.github.com
+	Argyle until 2016-08-01
+	Independent from 2016-08-01 until 2016-11-01
+	Bloomberg from 2016-11-01 until 2021-09-01
+	Orchard from 2021-09-01 until 2022-06-01
+	HashiCorp Inc from 2022-06-01
 dhwthompson: david.thompson!weave.works, dhwthompson!users.noreply.github.com
 	Independent until 2022-01-04
 	Weaveworks Inc. from 2022-01-04 until 2022-04-01
@@ -7672,6 +7735,13 @@ dmikurube: dmikurube!acm.org, dmikurube!users.noreply.github.com
 dmikusa-pivotal: dmikusa-pivotal!users.noreply.github.com
 	Pivotal until 2019-12-01
 	VMware Inc. from 2019-12-01
+dmikushin: dmitry!kernelgen.org
+	Independent until 2017-02-01
+	Luxoft from 2017-02-01 until 2019-04-01
+	Independent from 2019-04-01 until 2022-02-01
+	AMD from 2022-02-01 until 2023-06-01
+	Hexagon from 2023-06-01 until 2025-04-01
+	Applied Parallel from 2025-04-01
 dmildh: dmildh!illumina.com, dmildh!users.noreply.github.com
 	Illumina
 dmilind: dmilind!users.noreply.github.com
@@ -10901,6 +10971,14 @@ dzavalkinolx: dmytro.zavalkin!olx.com, dzavalkinolx!users.noreply.github.com
 	OLX from 2016-04-01 until 2018-10-01
 	Careem from 2018-10-01 until 2019-03-01
 	Independent from 2019-03-01
+dzaytsev91: dzaytsev91!users.noreply.github.com
+	Independent until 2015-06-01
+	Noveo from 2015-06-01 until 2015-12-01
+	Arello Mobile from 2015-12-01 until 2016-07-01
+	Independent from 2016-07-01 until 2016-10-01
+	YANDEX LLC from 2016-10-01 until 2022-04-01
+	Independent from 2022-04-01 until 2022-06-01
+	OZON.ru from 2022-06-01
 dzbarsky: dzbarsky!users.noreply.github.com
 	Mozilla Corporation until 2014-11-01
 	Independent from 2014-11-01 until 2015-09-01
@@ -11752,6 +11830,9 @@ edmund-wagner: edmund-wagner!web.de, mail!edmund-wagner.de
 ednaganon: ednaganon!users.noreply.github.com, ganon.edna!gmail.com
 	MRV until 2017-07-01
 	Adva Optical Networking SE from 2017-07-01
+ednxzu: bertrand.lanson!protonmail.com
+	Independent until 2023-01-01
+	infomaniak from 2023-01-01
 edoblette: edoblette!users.noreply.github.com
 	Independent until 2016-03-01
 	Renault from 2016-03-01 until 2016-04-01
@@ -22297,6 +22378,10 @@ gerrit-photon: photon-checkins!vmware.com
 gerrit8143: gerrit8143!users.noreply.github.com
 	Independent until 2016-05-01
 	dreamIT from 2016-05-01
+gerrytan: gerry.tan!microsoft.com
+	Vantage until 2015-06-01
+	Atlassian from 2015-06-01 until 2024-07-01
+	Microsoft Corporation from 2024-07-01
 gershwinlabs: gershwinlabs!users.noreply.github.com, photo.allen!gmail.com
 	Independent
 gerson24: pozogers!gmail.com
@@ -23817,85 +23902,3 @@ gohackfelipe: emaildofeliperibeiro!gmail.com
 	Globo ComunicaÃ§Ã£o e ParticipaÃ§Ãµes S.A from 2015-09-01 until 2019-09-01
 	OLX Group from 2019-09-01 until 2020-04-01
 	Globo from 2020-04-01
-gohar94: gic2!illinois.edu, gohar94!users.noreply.github.com
-	Independent until 2015-06-01
-	Hydra Consulting Solutions from 2015-06-01 until 2015-08-01
-	Independent from 2015-08-01 until 2016-03-01
-	VMware Inc. from 2016-03-01 until 2017-05-01
-	Cloudera Inc. from 2017-05-01 until 2017-08-01
-	Independent from 2017-08-01 until 2018-07-01
-	Microsoft Corporation from 2018-07-01
-gohilankit: gohilankit!users.noreply.github.com
-	Independent until 2014-12-01
-	Morgan Stanley from 2014-12-01 until 2015-07-01
-	Independent from 2015-07-01 until 2016-05-01
-	Juniper Networks Inc. from 2016-05-01 until 2016-08-01
-	Independent from 2016-08-01 until 2017-02-01
-	Juniper Networks Inc. from 2017-02-01 until 2020-08-01
-	VMware Inc. from 2020-08-01
-gojanpaolo: go.janpaolo!gmail.com
-	Maxim Integrated Products until 2015-10-01
-	Independent from 2015-10-01 until 2018-10-01
-	Gallagher from 2018-10-01 until 2019-06-01
-	Great American from 2019-06-01 until 2020-07-01
-	IMPACTIAN from 2020-07-01
-gojeaqui: gojeaqui!users.noreply.github.com
-	Oracle America Inc. until 2019-09-01
-	Red Hat Inc. from 2019-09-01
-gokalper: gokalper!users.noreply.github.com
-	Nth Generation Computing Inc until 2014-05-01
-	VSS Monitoring from 2014-05-01 until 2015-01-01
-	Nth Generation Computing Inc from 2015-01-01 until 2017-10-01
-	Verraci Solutions from 2017-10-01 until 2018-04-01
-	Intuit Inc. from 2018-04-01 until 2020-04-01
-	Independent from 2020-04-01
-gokart23: gokart23!users.noreply.github.com
-	Independent
-gokhandincer: gokhandincer!users.noreply.github.com
-	Matriks until 2017-12-01
-	Metglobal from 2017-12-01 until 2019-02-01
-	Trendyol Group from 2019-02-01
-gokhankocak: gokhan.kocak!mail.ru, gokhankocak!users.noreply.github.com
-	Hewlett until 2014-09-01
-	Independent from 2014-09-01 until 2018-01-01
-	Asena from 2018-01-01
-gokhansengun: erdem.asga!gmail.com, gokhansengun!gmail.com, gokhansengun!users.noreply.github.com
-	Netaş Telekomünikasyon A.Ş. until 2021-03-01
-	Orion Innovation from 2021-03-01
-goksing: goksing!gmail.com, gs244f!att.com
-	AT&T Services Inc.
-goku321: goku321!users.noreply.github.com, sah.sslpu!gmail.com
-	Independent until 2017-03-01
-	DataGrokr from 2017-03-01 until 2019-06-01
-	Coral Blockchain from 2019-06-01 until 2019-10-01
-	Caring from 2019-10-01 until 2020-04-01
-	UserIQ from 2020-04-01 until 2021-07-01
-	Nutanix Inc. from 2021-07-01
-gokulav137: gokulav137!users.noreply.github.com
-	Independent until 2020-12-01
-	AltBird Robotics from 2020-12-01 until 2021-01-01
-	Independent from 2021-01-01 until 2021-05-01
-	Honeywell International from 2021-05-01 until 2021-07-01
-	Independent from 2021-07-01 until 2022-07-01
-	Honeywell International from 2022-07-01
-gokulnair: gokulnair!users.noreply.github.com
-	Ticketmaster until 2014-12-01
-	Akamai Technologies Inc. from 2014-12-01 until 2018-06-01
-	Twitter Inc. from 2018-06-01
-gokulyc: gokulyc!gmail.com
-	Independent until 2016-06-01
-	Wipro from 2016-06-01 until 2020-03-01
-	Independent from 2020-03-01 until 2021-04-01
-	CBNITS from 2021-04-01 until 2023-03-01
-	Independent from 2023-03-01 until 2023-05-01
-	Randstad Digital from 2023-05-01 until 2024-08-01
-	Independent from 2024-08-01
-golammott: golammott!users.noreply.github.com
-	HME until 2014-12-01
-	Annai Systems from 2014-12-01 until 2016-04-01
-	Sony Marketing Inc. from 2016-04-01
-golance-mightydevops: golance-mightydevops!users.noreply.github.com
-	Mighty Devops
-golaneduard: golaneduard!users.noreply.github.com
-	Independent until 2020-05-01
-	EBS Integrator from 2020-05-01
