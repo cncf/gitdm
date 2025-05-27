@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Collective Idea:
+	rubambiza: gbr26!cornell.edu from 2016-08-01 until 2016-12-01
 Collective Medical Technologies Inc.:
 	JoelJ: joelj!joelj.com, johnson.joel.86!gmail.com from 2017-11-01
 Collective Minds:
@@ -13352,6 +13354,7 @@ Elasticsearch Inc.:
 	jlind23: julien.lind!elastic.co, lind23!users.noreply.github.com, vincent.lind!elastic.co, vj.lind!gmail.com
 	jonas: jonas!users.noreply.github.com from 2022-01-09
 	joshdover: joshdover!users.noreply.github.com, joshua.dover!elastic.co, me!joshdover.com
+	jsvd: joao!elastic.co, jsvd!users.noreply.github.com, jsvduarte!gmail.com
 	kaanyalti: kaanyalti!users.noreply.github.com from 2024-02-01
 	kaisecheng: 69120390+kaisecheng!users.noreply.github.com, kaise.cheng!elastic.co
 	kaiyan-sheng: kaiyan-sheng!users.noreply.github.com, kaiyan.sheng!elastic.co
@@ -16404,7 +16407,3 @@ Excel IT (XLIT) Consulting:
 	mohan-zephyr: mohan.kumar!getzephyr.com from 2018-03-01
 Excel Industries:
 	SudoBrendan: BrendanDBergen!gmail.com, SudoBrendan!users.noreply.github.com from 2015-02-01 until 2017-10-01
-Excel MEC:
-	kurianbenoy: kurianbenoy!users.noreply.github.com from 2018-04-01 until 2018-11-01
-Excelera Health:
-	FallingSnow: FallingSnow!users.noreply.github.com from 2019-02-01 until 2021-07-01

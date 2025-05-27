@@ -5,6 +5,16 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+d-cs: d-cs!users.noreply.github.com
+	Independent until 2015-08-01
+	Civica from 2015-08-01 until 2016-05-01
+	Boeing from 2016-05-01 until 2017-10-01
+	upUgo from 2017-10-01 until 2018-10-01
+	Independent from 2018-10-01 until 2020-08-01
+	YuLife from 2020-08-01 until 2022-10-01
+	Volant Autonomy from 2022-10-01
+d-e-s-o: d-e-s-o!users.noreply.github.com
+	VMware Inc.
 d-fence: moc!odoo.com
 	Odoo
 d-gol: d-gol!users.noreply.github.com, dejan.golubovic.27!gmail.com
@@ -23897,8 +23907,3 @@ goh-chunlin: chunlin!live.com.sg
 	Changi from 2015-02-01 until 2017-10-01
 	Haulio from 2017-10-01 until 2019-09-01
 	Independent from 2019-09-01
-gohackfelipe: emaildofeliperibeiro!gmail.com
-	Orga Systems until 2015-09-01
-	Globo ComunicaÃ§Ã£o e ParticipaÃ§Ãµes S.A from 2015-09-01 until 2019-09-01
-	OLX Group from 2019-09-01 until 2020-04-01
-	Globo from 2020-04-01

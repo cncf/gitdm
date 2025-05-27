@@ -2,8 +2,6 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
-opentargets:
-	elipapa: elipapa!users.noreply.github.com
 opinov8:
 	dobegor: dobegor!users.noreply.github.com, georgy.dobrovolsky!gmail.com from 2021-06-01
 	idestis: idestis!users.noreply.github.com from 2019-07-01 until 2019-11-01
