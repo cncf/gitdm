@@ -5,6 +5,20 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+moikot: moikot!users.noreply.github.com
+	Schlumberger Limited
+moinejf: moinejf!free.fr
+	Société Générale
+moio: moio!users.noreply.github.com, smoioli!suse.de
+	SUSE LLC
+moise3: moise3!users.noreply.github.com
+	Independent until 2016-02-01
+	Upclick from 2016-02-01 until 2016-07-01
+	adaware from 2016-07-01 until 2018-05-01
+	Independent from 2018-05-01 until 2020-09-01
+	Hydro-Quebec from 2020-09-01
+moisei: moisei!users.noreply.github.com
+	Dalet S.r.l.
 moises-perez-tfs: moises-perez-tfs!users.noreply.github.com
 	MediExcer Health Plan until 2016-05-01
 	Thermo Fisher Scientific from 2016-05-01
@@ -23808,19 +23822,3 @@ rlaakkol: rlaakkol!users.noreply.github.com
 	Gofore from 2016-07-01 until 2017-04-01
 	Kaiku from 2017-04-01 until 2020-10-01
 	Hoxhunt from 2020-10-01
-rlandesman: rlandesman!users.noreply.github.com, roee.landesman!gmail.com
-	Independent until 2017-07-01
-	Wix.com Ltd from 2017-07-01 until 2017-08-01
-	Independent from 2017-08-01 until 2018-06-01
-	Aeris from 2018-06-01 until 2018-08-01
-	Independent from 2018-08-01 until 2020-06-01
-	Sonos from 2020-06-01 until 2020-08-01
-	Independent from 2020-08-01 until 2020-10-01
-	Sonos from 2020-10-01 until 2022-02-01
-	Envoy · from 2022-02-01
-rlane: lanerl!gmail.com, rlane!bigswitch.com, rlane!club.cc.cmu.edu
-	Big Switch Networks Inc.
-rlangfordBV: rlangfordBV!users.noreply.github.com
-	BMC TrueSight Pulse until 2014-08-01
-	Independent from 2014-08-01 until 2014-10-01
-	Bazaarvoice from 2014-10-01

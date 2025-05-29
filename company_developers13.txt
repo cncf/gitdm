@@ -2,6 +2,13 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+openSUSE:
+	Conan-Kudo: Conan-Kudo!users.noreply.github.com, ngompa13!gmail.com from 2015-10-01
+	ddemaio: douglas.demaio!suse.com from 2014-09-01
+openjaw:
+	liu9jian: liu9jian!users.noreply.github.com
+opentargets:
+	elipapa: elipapa!users.noreply.github.com
 opinov8:
 	dobegor: dobegor!users.noreply.github.com, georgy.dobrovolsky!gmail.com from 2021-06-01
 	idestis: idestis!users.noreply.github.com from 2019-07-01 until 2019-11-01
