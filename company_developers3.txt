@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+ColdEmail:
+	imomaliev: imomaliev!users.noreply.github.com from 2019-04-01 until 2020-08-01
 ColdFront:
 	auchenberg: auchenberg!users.noreply.github.com, kenneth!auchenberg.dk, nexusguy59!gmail.com until 2016-01-01
 ColdHubs:
@@ -16380,5 +16382,3 @@ Evola:
 Evolane:
 	jdavid5815: jdavid5815!users.noreply.github.com
 	lvthillo: lorenz.vanthillo!outlook.com, lvthillo!users.noreply.github.com from 2017-08-01
-Evolent Health:
-	chetanku: ychetankumarsarma!gmail.com until 2019-07-01
