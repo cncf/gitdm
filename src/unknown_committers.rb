@@ -6,6 +6,7 @@ require 'octokit'
 require 'json'
 require 'concurrent'
 require 'unidecoder'
+require 'uri'
 require 'pg'
 
 require './email_code'
@@ -302,8 +303,8 @@ CSV.open('task.csv', 'w', headers: hdr) do |csv|
     ary2 = emails[0].split '!'
     uname = ary2[0]
     dom = ary2[1]
-    escaped_name = URI.escape(name)
-    escaped_uname = URI.escape(name + ' ' + uname)
+    escaped_name = URI.encode_www_form_component(name)
+    escaped_uname = URI.encode_www_form_component(name + ' ' + uname)
     lin1 = lin2 = lin3 = ''
     gh = "https://github.com/#{login}"
     aff = row['affiliation']
@@ -314,7 +315,7 @@ CSV.open('task.csv', 'w', headers: hdr) do |csv|
     if !dom.nil? && dom.length > 0 && dom != 'users.noreply.github.com'
       ary3 = dom.split '.'
       domain = ary3[0]
-      escaped_domain = URI.escape(name + ' ' + domain)
+      escaped_domain = URI.encode_www_form_component(name + ' ' + domain)
       if keyw
         lin1 = name + ' ' + uname
         lin2 = name + ' ' + domain
