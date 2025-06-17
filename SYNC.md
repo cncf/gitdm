@@ -80,8 +80,9 @@ Please follow the instructions from [ADD_PROJECT.md](https://github.com/cncf/git
 
 To add geo data (`country_id`, `tz`) and gender data (`sex`, `sex_prob`), do the following:
 - Download `allCountries.zip` file from geonames server[](http://download.geonames.org/export/dump/): `wget http://download.geonames.org/export/dump/allCountries.zip`.
-- Create `geonames` database via: `sudo -u postgres createdb geonames`, `sudo -u postgres psql geonames -f geonames.sql` or `[PGPASSWORD=...] psql -Upostgres geonames -f geonames.sql`. Table details in `geonames.info`
-- Create `gha_admin` role via `sudo -u postgres -c "create role gha_admin login password 'xyz'"`.
+- Create `geonames` database via: `sudo -u postgres createdb geonames`.
+- Create `gha_admin` role via `sudo -u postgres psql -c "create role gha_admin login password 'xyz'"`.
+- Create main table: `sudo -u postgres psql geonames -f geonames.sql` or `[PGPASSWORD=...] psql -Upostgres geonames -f geonames.sql`. Table details in `geonames.info`
 - Unzip `unzip allCountries.zip` and run `PG_PASS=... ./geodata.sh allCountries.txt` - this will populate the DB.
 - Create indices on columns to speedup localization: `sudo -u postgres psql geonames -f geonames_idx.sql`.
 - Make sure that you don't have any `nil`, `null` and `false` values saved in any `*_cache.json` file (those files are also saved when you `CTRL^C` running enchancement).
