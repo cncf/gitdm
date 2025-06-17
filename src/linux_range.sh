@@ -1,5 +1,6 @@
 #!/bin/sh
 PWD=`pwd`
+echo "Please run in 'source /data/dev/miniconda2/bin/activate' env"
 FN=$PWD/linux_stats/range_$1_$2
 #cd ~/dev/linux/
 cd ../../../linux/
