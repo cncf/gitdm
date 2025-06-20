@@ -5,6 +5,13 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+cxfcxf: cxfcxf!users.noreply.github.com
+	MaxCDN until 2016-07-01
+	StackPath LLC from 2016-07-01 until 2017-08-01
+	Rubicon Project from 2017-08-01 until 2020-06-01
+	Magnite from 2020-06-01
+cxgbit: varun!chelsio.com
+	Chelsio Communications
 cxhrouet: cxhrouet!users.noreply.github.com
 	Independent
 cxwshawn: chen.xiaowei!h3c.com, cxwshawn!gmail.com
@@ -23897,10 +23904,3 @@ glommer: glauber!scylladb.com, glommer!gmail.com
 glongwave: eric.guo!easystack.cn
 	International Business Machines Corporation until 2014-02-21
 	EasyStack Inc. from 2014-02-21
-glorv: glorv!users.noreply.github.com
-	Independent
-glothriel: glothriel!users.noreply.github.com
-	Lightcode.eu until 2015-11-01
-	Piwik PRO from 2015-11-01
-glouischandra: glouischandra!google.com, glouischandra!users.noreply.github.com
-	Google LLC

@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Solenix:
+	Titus-von-Koeller: Titus-von-Koeller!users.noreply.github.com from 2021-06-01 until 2023-07-01
 Soleo:
 	aphedges: aphedges!users.noreply.github.com from 2017-05-01 until 2017-08-01
 Solera:
@@ -182,6 +184,7 @@ Solo.io:
 	pszeto: peter.szeto!solo.io, pszeto!users.noreply.github.com from 2022-01-01
 	puertomontt: puertomontt!users.noreply.github.com from 2022-12-01
 	rickducott: rickducott!users.noreply.github.com from 2018-10-01
+	rinormaloku: r.maloku!orangenet.de, rinor.maloku!solo.io, rinormaloku!users.noreply.github.com, rinormaloku37!gmail.com, rmaloku!redhat.com from 2021-10-01
 	rohitg00: rohitg00!users.noreply.github.com from 2022-07-01
 	rvennam: ram.vennam!solo.io, rvennam!us.ibm.com, rvennam!users.noreply.github.com from 2021-03-16
 	ryanrolds: ryanrolds!gmail.com, ryanrolds!users.noreply.github.com from 2024-10-01
@@ -16389,7 +16392,3 @@ Upstream:
 	sdrss: sdrss!users.noreply.github.com, socrates.sidereas!gmail.com
 	tomerleib: tomer.leibovich!gmail.com from 2019-07-01 until 2020-01-01
 	toninis: stamatiou.antonis!gmail.com, toninis!users.noreply.github.com from 2016-04-01 until 2018-05-01
-Upstream Security:
-	ofirshtrull: ofirshtrull!users.noreply.github.com, shtrull!gmail.com from 2018-01-01 until 2019-11-01
-Upstream Tech:
-	samn: samn!users.noreply.github.com, samneubardt!gmail.com from 2018-06-01

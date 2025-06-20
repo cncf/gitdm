@@ -5,6 +5,14 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+rikles: lguibert!apache.org
+	Apache
+riklopfer: riklopfer!users.noreply.github.com
+	MModal
+rikoe: rikoe!users.noreply.github.com
+	BlueCrest until 2014-10-01
+	Deutsche Bank AG from 2014-10-01 until 2016-09-01
+	Adaptive Financial Consulting Limited from 2016-09-01
 rikonor: rikonor!gmail.com, rikonor!users.noreply.github.com
 	meet until 2015-05-01
 	Augury from 2015-05-01 until 2015-08-01
@@ -95,7 +103,7 @@ rinokadijk: rino.kadijk!salvesdevelopment.nl
 	Enovation from 2017-01-01 until 2018-03-01
 	Finalist from 2018-03-01 until 2018-09-01
 	Rabobank from 2018-09-01
-rinormaloku: rinormaloku37!gmail.com, rinor.maloku!solo.io, rmaloku!redhat.com, r.maloku@orangenet.de, rinormaloku!users.noreply.github.com
+rinormaloku: r.maloku!orangenet.de, rinor.maloku!solo.io, rinormaloku!users.noreply.github.com, rinormaloku37!gmail.com, rmaloku!redhat.com
 	Independent until 2015-08-01
 	Bottomline Technologies Inc. from 2015-08-01 until 2017-06-01
 	Orange Networks GmbH from 2017-06-01 until 2019-07-01
@@ -23821,10 +23829,3 @@ thomasfricke: thomas!endocode.com, thomasfricke!users.noreply.github.com
 	Endocode
 thomasgl-orange: thomas.degrenierdelatour!orange.com
 	Orange SA
-thomashumio: thomas!humio.com
-	Trifork until 2017-08-01
-	Humio from 2017-08-01
-thomashvmw: thellstrom!vmware.com
-	VMware Inc.
-thomasjfox: thomas.jarosch!intra2net.com
-	Intra2net AG

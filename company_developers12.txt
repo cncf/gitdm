@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Upstream Security:
+	ofirshtrull: ofirshtrull!users.noreply.github.com, shtrull!gmail.com from 2018-01-01 until 2019-11-01
+Upstream Tech:
+	samn: samn!users.noreply.github.com, samneubardt!gmail.com from 2018-06-01
 Uptake:
 	flashgorman-chorus: flashgorman-chorus!users.noreply.github.com from 2018-06-01 until 2020-04-01
 	mkobit: mkobit!gmail.com, mkobit!users.noreply.github.com from 2015-06-01 until 2017-09-01
