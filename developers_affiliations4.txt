@@ -5,6 +5,77 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+cverna: cverna!tutanota.com, cverna!users.noreply.github.com
+	Red Hat Inc.
+cvhariharan: cvhariharan!users.noreply.github.com
+	Independent until 2019-05-01
+	Dell Technologies from 2019-05-01 until 2019-07-01
+	Independent from 2019-07-01 until 2020-01-01
+	Atlan from 2020-01-01 until 2020-05-01
+	Independent from 2020-05-01 until 2020-07-01
+	Dell Technologies from 2020-07-01
+cviecco: camilo_viecco1!symantec.com, cviecco!users.noreply.github.com
+	Symantec Corporation
+cviktorov: cviktorov!users.noreply.github.com
+	Independent until 2015-09-01
+	SAP from 2015-09-01
+cvila84: christophe.vila!gemalto.com, cvila84!users.noreply.github.com
+	Gemalto until 2019-04-01
+	Thales from 2019-04-01
+cvinayak: cvinayak!users.noreply.github.com, vich!nordicsemi.no, vinayak.kariappa.chettimada!nordicsemi.no
+	Nordic Semiconductor ASA
+cvirtucio: cvirtucio!users.noreply.github.com
+	Independent until 2016-12-01
+	Pragmatics Inc. from 2016-12-01 until 2017-09-01
+	Perspecta from 2017-09-01 until 2021-08-01
+	Peraton from 2021-08-01 until 2022-03-01
+	Independent from 2022-03-01 until 2022-07-01
+	Zendesk Inc. from 2022-07-01
+cvishal: cvishal!in.ibm.com
+	International Business Machines Corporation until 2015-03-01
+	Independent from 2015-03-01 until 2015-06-01
+	International Business Machines Corporation from 2015-06-01
+cvlab: cvlab!users.noreply.github.com
+	MaryLab
+cvle: cvl!winged.kiwi, cvle!users.noreply.github.com
+	wikiwi
+cvoltz: cjunk!voltz.ws
+	HP Inc.
+cvp-ops: cvp-ops!users.noreply.github.com
+	(Robots)
+cvrajeesh: cvrajeesh!users.noreply.github.com
+	IdentityMine until 2016-03-01
+	DevFactory from 2016-03-01 until 2019-07-01
+	Clodui from 2019-07-01 until 2020-02-01
+	Vonnue from 2020-02-01
+cvrebert: chris.rebert!hulu.com, code!chrisrebert.com, code!rebertia.com, cvrebert!google.com, cvrebert!users.noreply.github.com, github!chrisrebert.com, github!rebertia.com
+	Hulu LLC until 2015-02-01
+	Independent from 2015-02-01 until 2016-02-01
+	Google LLC from 2016-02-01
+cvrlnolan: cvrlnolan!users.noreply.github.com
+	Invisible
+cvs79: cvs79!msn.com
+	Achmea until 2016-07-01
+	Xpirit from 2016-07-01
+cvubrugier: cvubrugier!fastmail.fm
+	FastMail.FM
+cvuillemez: cvuillemez!users.noreply.github.com
+	Groupe Crédit Agricole until 2015-02-01
+	Orange SA from 2015-02-01 until 2018-12-01
+	SEQUOIASOFT from 2018-12-01 until 2019-07-01
+	SII Services from 2019-07-01
+cvvz: cvvz!users.noreply.github.com, ftdchenwz!gmail.com, weizhichen!microsoft.com
+	Microsoft Corporation
+cw-kuoka: cw-kuoka!users.noreply.github.com
+	Independent until 2014-04-01
+	CrowdWorks from 2014-04-01 until 2015-10-01
+	Chatwork from 2015-10-01 until 2017-10-01
+	freee 株式会社 from 2017-10-01
+cw-sakamoto: cw-sakamoto!users.noreply.github.com, sakamoto!chatwork.com
+	Chatwork
+cw9: cw9!users.noreply.github.com
+	Red Hat Inc. until 2015-02-01
+	UCloud from 2015-02-01
 cwadley: clinton-wadley!teletracking.com, cwadley!users.noreply.github.com
 	Independent until 2016-05-01
 	TeleTracking from 2016-05-01
@@ -19,7 +90,7 @@ cwayne18: cwayne18!gmail.com, cwayne18!users.noreply.github.com
 	Canonical until 2021-06-01
 	SUSE LLC from 2021-06-01
 cwbeitel: cwbeitel!users.noreply.github.com
-	Indeendent until 2021-11-01
+	Independent until 2021-11-01
 	Apton Biosystems from 2021-11-01 until 2022-05-01
 	IMNTY from 2022-05-01
 cwchoe: cwchoe!hotmail.com, cwchoe!users.noreply.github.com
@@ -185,7 +256,7 @@ cybergartar: cybergartar!users.noreply.github.com
 	Opsta from 2018-06-01 until 2019-12-01
 	LINE from 2019-12-01
 cybergeek2077: zhaoshen!buaa.edu.cn
-	Independenr
+	Independent
 cybergrind: cybergrind!gmail.com, cybergrind!users.noreply.github.com
 	Wargaming.net
 cyberh0me: andre.marschalek!outlook.com, cyberh0me!users.noreply.github.com
@@ -594,7 +665,7 @@ dabaitu: dabaitu!users.noreply.github.com, tom.ssf!gmail.com
 	Independent until 2017-01-01
 	Apple Inc. from 2017-01-01
 dabansal: bansalcooldheeraj!gmail.com, dabansal!users.noreply.github.com
-	Cisco until 2017-05-01
+	Cisco Systems Inc. until 2017-05-01
 	General Electric Company from 2017-05-01 until 2019-08-01
 	Athenahealth Inc. from 2019-08-01
 dabcoder: dabcoder!users.noreply.github.com, dialindo7!gmail.com
@@ -862,7 +933,7 @@ dalgaaf: danny.al-gaaf!bisect.de, danny.kukawka!bisect.de
 	SUSE LLC until 2013-06-30
 	Deutsche Telekom from 2013-06-30
 dalgibbard: dalgibbard!gmail.com, dalgibbard!users.noreply.github.com
-	Cisco
+	Cisco Systems Inc.
 dali99: dali99!users.noreply.github.com, daniel.olsen99+GitHub!gmail.com
 	Independent until 2020-08-01
 	Færder Videregående Skole from 2020-08-01 until 2021-06-01
@@ -1211,7 +1282,7 @@ dandillingham: dan.b.dillingham!gmail.com, dan.dillingham!runbox.com, dandilling
 danechitoaie: 10779010+danechitoaie!users.noreply.github.com, daniel.anechitoaie!gmail.com
 	Center for Open Science Inc.
 danehans: danehans!cisco.com, danehans!users.noreply.github.com, daneyon.hansen!solo.io, daneyonhansen!gmail.com
-	Cisco until 2019-02-01
+	Cisco Systems Inc. until 2019-02-01
 	Red Hat Inc. from 2019-02-01 until 2021-07-01
 	Tetrate.io from 2021-07-01 until 2023-02-17
 	Solo.io from 2023-02-17
@@ -1280,7 +1351,7 @@ dangokuson: dangokuson!users.noreply.github.com
 	MEGAZONE from 2020-01-01
 dangolbeeker: dangolbeeker!users.noreply.github.com
 	Independent until 2019-09-01
-	Connect Our Kids · Internship from 2019-09-01 until 2019-11-01
+	Connect Our Kids Internship from 2019-09-01 until 2019-11-01
 	Lambda School from 2019-11-01 until 2020-04-01
 	Independent from 2020-04-01 until 2021-10-01
 	Onlyspitters from 2021-10-01
@@ -1675,7 +1746,7 @@ danielnorberg: daniel.norberg!gmail.com, danielnorberg!users.noreply.github.com,
 	Spotify AB
 danielodievich: danielodievich!hotmail.com
 	Neudesic LLC until 2014-12-01
-	Cisco from 2014-12-01 until 2020-09-01
+	Cisco Systems Inc. from 2014-12-01 until 2020-09-01
 	Snowflake from 2020-09-01 until 2022-09-01
 	Observe from 2022-09-01
 danieloh30: danieloh30!users.noreply.github.com, doh!redhat.com
@@ -1919,7 +1990,7 @@ danilorsilva: danilorsilva!users.noreply.github.com
 danilovid: danilovid!users.noreply.github.com
 	Independent until 2017-07-01
 	Perfomans from 2017-07-01 until 2017-12-01
-	БКС · Full from 2017-12-01 until 2018-12-01
+	БКС Full from 2017-12-01 until 2018-12-01
 	OZON.ru from 2018-12-01 until 2020-06-01
 	Delivery Club from 2020-06-01 until 2022-11-01
 	VK from 2022-11-01 until 2024-02-01
@@ -2006,7 +2077,7 @@ danmanners: daniel.a.manners!gmail.com, danmanners!users.noreply.github.com
 	TOURtech until 2016-12-01
 	BrainGu from 2016-12-01 until 2019-03-01
 	TOURtech from 2019-03-01 until 2020-04-01
-	Cisco from 2020-04-01
+	Cisco Systems Inc. from 2020-04-01
 danmcp: danmcp!users.noreply.github.com, dmcphers!redhat.com
 	Red Hat Inc.
 danmontgomery: dan!dmontgomery.net, danmontgomery!users.noreply.github.com
@@ -2355,8 +2426,8 @@ darkstarmv: darkstar.mv!gmail.com, darkstarmv!users.noreply.github.com, maxim.va
 	Target
 darkweaver87: darkweaver87!users.noreply.github.com
 	Cdiscount until 2019-04-01
-	OVH · Permanent from 2019-04-01 until 2020-06-01
-	Traefik Labs · Permanent from 2020-06-01
+	OVH Permanent from 2019-04-01 until 2020-06-01
+	Traefik Labs Permanent from 2020-06-01
 darlanalves: darlanalves!users.noreply.github.com, me!darlanalv.es
 	Contentools until 2015-12-01
 	Backbase from 2015-12-01 until 2017-10-01
@@ -2396,7 +2467,7 @@ darren-wang: darren-wang!users.noreply.github.com, darren_wang!outlook.com
 	Independent
 darren-west: darren-west!users.noreply.github.com
 	Livingstone until 2015-05-01
-	Cisco from 2015-05-01 until 2015-11-01
+	Cisco Systems Inc. from 2015-05-01 until 2015-11-01
 	Artesian from 2015-11-01 until 2016-08-01
 	Riverbed Technology Inc. from 2016-08-01 until 2018-10-01
 	Independent from 2018-10-01 until 2019-05-01
@@ -2453,7 +2524,7 @@ darshak-patel: darshak-patel!users.noreply.github.com
 	AWS from 2018-11-01
 darshanapdas: darshanapadmadas!gmail.com
 	Independent until 2016-02-01
-	Cisco from 2016-02-01 until 2016-06-01
+	Cisco Systems Inc. from 2016-02-01 until 2016-06-01
 	CERN from 2016-06-01 until 2016-08-01
 	Independent from 2016-08-01
 darshanime: darshanime!users.noreply.github.com, deathbullet!gmail.com
@@ -2469,9 +2540,9 @@ darshannagaraja: darshan!opsmx.com, darshannagaraja!users.noreply.github.com
 darshilgit: darshil.parikh!gmail.com
 	Independent until 2017-08-01
 	Compass from 2017-08-01 until 2018-03-01
-	Cisco from 2018-03-01 until 2018-08-01
+	Cisco Systems Inc. from 2018-03-01 until 2018-08-01
 	Independent from 2018-08-01 until 2019-06-01
-	Cisco from 2019-06-01
+	Cisco Systems Inc. from 2019-06-01
 darshkpatel: darshkpatel!users.noreply.github.com
 	Independent until 2015-06-01
 	Navrachana Vidyani Vidyalaya from 2015-06-01 until 2017-06-01
@@ -2696,14 +2767,14 @@ dav009: dav009!users.noreply.github.com
 dav1x: dav1x!users.noreply.github.com, davis.phillips!gmail.com
 	Red Hat Inc.
 dave-borg: dave-borg!users.noreply.github.com, dborgees!cisco.com
-	Cisco
+	Cisco Systems Inc.
 dave-brace: dave-brace!users.noreply.github.com, david.brace!datacore.com
 	EMC XtremIO until 2017-04-01
 	Independent from 2017-04-01 until 2018-06-01
 	APTARE from 2018-06-01 until 2019-06-01
 	Veritas Technologies LLC from 2019-06-01 until 2020-01-01
-	F5 · Contrac from 2020-01-01 until 2022-06-01
-	F5 · Contract from 2022-06-01 until 2022-10-01
+	F5 Contrac from 2020-01-01 until 2022-06-01
+	F5 Contract from 2022-06-01 until 2022-10-01
 	DataCore Software from 2022-10-01
 dave-dresser: dave_dresser!compuware.com
 	Compuware
@@ -2853,7 +2924,7 @@ david-crowder: david.crowder!cerner.com
 david-garcia-garcia: david-garcia-garcia!users.noreply.github.com
 	Sabentis
 david-gurley: david-gurley!users.noreply.github.com
-	Cisco until 2015-09-01
+	Cisco Systems Inc. until 2015-09-01
 	Illumio from 2015-09-01 until 2019-01-01
 	Apptio from 2019-01-01 until 2020-01-01
 	Pensando Systems from 2020-01-01
@@ -3184,7 +3255,7 @@ davidjumani: davidjumani!users.noreply.github.com
 	GE Capital from 2015-04-01 until 2015-08-01
 	Independent from 2015-08-01 until 2016-07-01
 	VMware Inc. from 2016-07-01 until 2018-01-01
-	Cisco from 2018-01-01 until 2019-12-01
+	Cisco Systems Inc. from 2018-01-01 until 2019-12-01
 	ShapeBlue Ltd from 2019-12-01 until 2023-06-01
 	Solo.io from 2023-06-01
 davidkarlsen: david!davidkarlsen.com, davidkarlsen!gmail.com, davidkarlsen!users.noreply.github.com
@@ -3195,7 +3266,7 @@ davidkaya: david.kaya!ysoft.com, davidkaya!users.noreply.github.com, mail!davidk
 davidkazuhiro: david.somers-harris!rakuten.com, davidkazuhiro!users.noreply.github.com
 	Rakuten Group Inc.
 davidkemper: davidkemper!users.noreply.github.com
-	Cisco until 2016-01-01
+	Cisco Systems Inc. until 2016-01-01
 	Independent from 2016-01-01
 davidker: david.kershner!unisys.com
 	Unisys
@@ -3219,7 +3290,7 @@ davidlanouette: davidlanouette!users.noreply.github.com
 	Oracle America Inc. from 2015-05-01 until 2017-06-01
 	Pendo from 2017-06-01 until 2017-10-01
 	Oracle America Inc. from 2017-10-01 until 2018-12-01
-	Cisco from 2018-12-01 until 2019-03-01
+	Cisco Systems Inc. from 2018-12-01 until 2019-03-01
 	Movable from 2019-03-01 until 2020-04-01
 	Red Hat Inc. from 2020-04-01
 davidleach: davidleach!users.noreply.github.com
@@ -3262,7 +3333,7 @@ davidmilburn: dmilburn!redhat.com
 	Red Hat Inc.
 davidmirza408: damirza!cisco.com, david_mirza!yahoo.com, davidmirza408!users.noreply.github.com
 	Independent until 2021-04-20
-	Cisco from 2021-04-20
+	Cisco Systems Inc. from 2021-04-20
 davidmohar: davidmohar!users.noreply.github.com
 	Adacta Fintech until 2019-12-01
 	Sportradar from 2019-12-01
@@ -3423,7 +3494,7 @@ davidvincze: david.vincze!arm.com
 davidvossel: davidvossel!gmail.com, davidvossel!users.noreply.github.com
 	Red Hat Inc.
 davidwalter0: davidwalter0!users.noreply.github.com, walter.david!gmail.com
-	Cisco
+	Cisco Systems Inc.
 davidwarshaw: davidwarshaw!users.noreply.github.com
 	Merkle Inc. until 2014-03-01
 	Merkle Inc. from 2014-03-01 until 2014-12-01
@@ -3517,7 +3588,7 @@ davitmadoyan: mad.davit.89!gmail.com
 	Epygi until 2018-12-01
 	EPAM Systems Inc from 2018-12-01
 davivcgarcia: davivcgarcia!users.noreply.github.com
-	Cisco until 2016-08-01
+	Cisco Systems Inc. until 2016-08-01
 	Red Hat Inc. from 2016-08-01
 davjr96: davjr96!users.noreply.github.com
 	Independent until 2015-06-01
@@ -4051,7 +4122,7 @@ dconneely: david.conneely+github!gmail.com, dconneely!serena.com, dconneely!user
 	Serena Software Inc. until 2016-05-01
 	Micro Focus International plc from 2016-05-01
 dconnelly: dconnelly!gmail.com, dconnelly!users.noreply.github.com
-	Cisco
+	Cisco Systems Inc.
 dcoraboeuf: damien.coraboeuf!fisglobal.com, damien.coraboeuf!gmail.com, dcoraboeuf!users.noreply.github.com
 	Clear2Pay Belgium until 2018-04-01
 	Collibra Connect from 2018-04-01
@@ -4095,7 +4166,7 @@ dcui: decui!microsoft.com
 dcurran: dominic.curran!citrix.com
 	Citrix Systems Inc.
 dcwangmit01: dcwangmit01!gmail.com, dcwangmit01!users.noreply.github.com
-	Cisco
+	Cisco Systems Inc.
 dcwuser: dawright!microsoft.com
 	Microsoft Corporation
 dczhu: dengcheng.zhu!gmail.com, dengcheng.zhu!imgtec.com, dzhu!wavecomp.com, kshah215!gmail.com, tomByrer!gmail.com
@@ -4135,7 +4206,7 @@ ddebasilio: ddebasilio!users.noreply.github.com
 	Bosch from 2018-10-01 until 2022-11-01
 	MBition GmbH from 2022-11-01
 ddebroy: ddebroy!docker.com, ddebroy!users.noreply.github.com
-	Cisco until 2016-10-01
+	Cisco Systems Inc. until 2016-10-01
 	Docker Inc. from 2016-10-01 until 2020-10-13
 	Apple Inc. from 2020-10-13
 ddeep2007: ddeep2007!users.noreply.github.com
@@ -4183,7 +4254,7 @@ ddmunhoz: ddmunhoz!users.noreply.github.com, munhozdiego!live.com
 	Furnas until 2016-09-01
 	Cameco from 2016-09-01 until 2019-07-01
 	Ubisoft from 2019-07-01 until 2021-02-01
-	Cisco from 2021-02-01 until 2021-05-01
+	Cisco Systems Inc. from 2021-02-01 until 2021-05-01
 	Ubisoft from 2021-05-01
 ddobric: ddobric!users.noreply.github.com
 	daenet
@@ -4195,7 +4266,7 @@ ddodoo: ddodoo!users.noreply.github.com
 	AiFi from 2022-06-01 until 2022-12-01
 	Galt Sudoers from 2022-12-01 until 2023-03-01
 	Independent from 2023-03-01 until 2023-05-01
-	Marygold & Co · from 2023-05-01
+	Marygold & Co from 2023-05-01
 ddompe: ddompe!users.noreply.github.com, dompe!hpe.com
 	HP Inc.
 ddongchen: ddongchen!users.noreply.github.com, dong008259!163.com
@@ -4229,7 +4300,7 @@ ddutt: ddutt!cumulusnetworks.com
 	Net Works LLC until 2018-02-01
 	Independent from 2018-02-01
 ddutta: ddutta!users.noreply.github.com
-	Cisco until 2020-12-01
+	Cisco Systems Inc. until 2020-12-01
 	Nutanix Inc. from 2020-12-01
 ddvlad: vlad.dogaru!intel.com
 	Google LLC
@@ -4330,7 +4401,7 @@ debarshiray: rishi.is!lostca.se
 	Cognizant Technology Solutions from 2018-06-01 until 2022-04-01
 	Red Hat Inc. from 2022-04-01
 debasis9dash: debadash!cisco.com debasis9dash!users.noreply.github.com
-	Cisco
+	Cisco Systems Inc.
 debck: debasish.sahoo1998!gmail.com, debck!users.noreply.github.com, debck7019!gmail.com
 	Independent until 2018-02-01
 	IGNITUS S.r.l. from 2018-02-01 until 2018-10-01
@@ -5287,7 +5358,7 @@ derkoe: derkoe!users.noreply.github.com
 dernDren161: dernDren161!users.noreply.github.com, kitsarpgyawali!gmail.com
 	Independent
 deromka: deromka!users.noreply.github.com, rdembits!cisco.com, romande!gmail.com
-	Cisco
+	Cisco Systems Inc.
 derpferd: derpferd!users.noreply.github.com
 	Independent until 2018-07-01
 	AWS from 2018-07-01 until 2020-08-01
@@ -5403,7 +5474,7 @@ detiber: detiber!gmail.com, detiber!users.noreply.github.com, detiberusj!vmware.
 	Heptio Inc. from 2018-01-29 until 2018-12-11
 	VMware Inc. from 2018-12-11 until 2020-08-10
 	Equinix Inc. from 2020-08-10 until 2022-04-01
-	Cisco from 2022-04-01
+	Cisco Systems Inc. from 2022-04-01
 detro: detro!users.noreply.github.com, detronizator!gmail.com
 	eBay until 2014-06-01
 	New Relic Inc. from 2014-06-01 until 2018-12-01
@@ -5411,7 +5482,7 @@ detro: detro!users.noreply.github.com, detronizator!gmail.com
 	Autonomous from 2019-03-01 until 2020-02-01
 	New Relic Inc. from 2020-02-01
 dettervt: dettervt!gmail.com, dettervt!users.noreply.github.com
-	Cisco
+	Cisco Systems Inc.
 deuill: deuill!users.noreply.github.com
 	Hearst UK until 2016-08-01
 	Cloudflare Inc from 2016-08-01 until 2024-06-01
@@ -5586,7 +5657,7 @@ devilcrises: devilcrises!users.noreply.github.com
 	CloudStakes from 2017-09-01 until 2021-10-01
 	Mudrasys from 2021-10-01 until 2022-10-01
 	SOFTTEK from 2022-10-01 until 2023-02-01
-	Cisco from 2023-02-01
+	Cisco Systems Inc. from 2023-02-01
 devimc: devimc!users.noreply.github.com, julio.montes!intel.com
 	Intel Corporation
 devin-donnelly: ddonnelly!google.com, devin-donnelly!users.noreply.github.com
@@ -5666,7 +5737,7 @@ devnulled: devnulled!users.noreply.github.com
 	Independent from 2020-01-01 until 2020-03-01
 	Alteryx from 2020-03-01
 devodev: abarone!cisco.com, devodev!users.noreply.github.com
-	Cisco
+	Cisco Systems Inc.
 devoid: devoid!users.noreply.github.com, sdevoid!gmail.com
 	Google LLC
 devongovett: devongovett!gmail.com, devongovett!users.noreply.github.com
@@ -5795,7 +5866,7 @@ dexter136: aisling!dex136.xyz
 	Mastery from 2021-06-01
 dexterleng: dexterleng!users.noreply.github.com
 	Independent until 2019-01-01
-	Mobbin · Internship from 2019-01-01 until 2019-04-01
+	Mobbin Internship from 2019-01-01 until 2019-04-01
 	Independent from 2019-04-01 until 2020-03-01
 	Rakuten Viki from 2020-03-01 until 2020-10-01
 	Independent from 2020-10-01 until 2021-01-01
@@ -6169,7 +6240,7 @@ dharapvj: dharapvj!gmail.com, dharapvj!users.noreply.github.com, vijay!kubermati
 dharmab: dharma.bellamkonda!gmail.com, dharmab!users.noreply.github.com
 	Adobe Inc.
 dharmanshujohar: dharmanshujohar!users.noreply.github.com, djohar!cisco.com
-	Cisco
+	Cisco Systems Inc.
 dharmendra-lingaiah: dharmendra-lingaiah!users.noreply.github.com
 	Independent until 2021-01-01
 	NXP Semiconductors Netherlands B.V. from 2021-01-01
@@ -6191,7 +6262,7 @@ dharrisio: dharris!dharris.io
 dhaspden: dhaspden!users.noreply.github.com
 	Independent until 2015-05-01
 	Hifyre from 2015-05-01 until 2018-05-01
-	Coretec · Permanent from 2018-05-01 until 2019-08-01
+	Coretec Permanent from 2018-05-01 until 2019-08-01
 	Hifyre from 2019-08-01
 dhatrifork: dhatrifork!users.noreply.github.com
 	Nokia Corporation until 2015-12-01
@@ -6272,7 +6343,7 @@ dhess: dhess!users.noreply.github.com
 	Quixoftic until 2018-10-01
 	Hackworth from 2018-10-01
 dhgosavi: dgosavi1!gmail.com, dhgosavi!cisco.com, mvolz!wikimedia.org
-	Cisco
+	Cisco Systems Inc.
 dhharala: mitko.haralanov!intel.com
 	Intel Corporation
 dhiemaz: dhiemaz!users.noreply.github.com, prawira.dimas.yudha!gmail.com
@@ -6371,7 +6442,7 @@ dhrishi: hrishi!espressif.com
 	Espressif from 2018-02-01
 dhrp: Zechnophobe!gmail.com, dhrp!users.noreply.github.com, jpereyraleon!gmail.com, thatcher!peskens.nl
 	Docker Inc. until 2014-06-01
-	Cisco from 2014-06-01 until 2017-01-01
+	Cisco Systems Inc. from 2014-06-01 until 2017-01-01
 	Nerdalize from 2017-01-01 until 2018-03-01
 	Independent from 2018-03-01 until 2018-05-01
 	Unchain | The Blockchain Company from 2018-05-01 until 2019-12-01
@@ -6563,7 +6634,7 @@ didlawowo: didlawowo!users.noreply.github.com
 	Wizaplace from 2020-09-01 until 2021-01-01
 	Independent from 2021-01-01 until 2021-04-01
 	WiiS from 2021-04-01 until 2021-09-01
-	Indepeendent from 2021-09-01 until 2022-01-01
+	Independent from 2021-09-01 until 2022-01-01
 	360 medics from 2022-01-01 until 2022-06-01
 	Independent from 2022-06-01
 didof: didof!users.noreply.github.com, didonato.fr!gmail.com
@@ -8101,7 +8172,7 @@ dmarcoux: danymarcoux!gmail.com, dmarcoux!users.noreply.github.com
 	shyftplan GmbH from 2017-01-01 until 2018-06-01
 	SUSE LLC from 2018-06-01
 dmarion: damarion!cisco.com, dmarion!me.com, dmarion!users.noreply.github.com
-	Cisco
+	Cisco Systems Inc.
 dmarkey: david!dmarkey.com, dmarkey!users.noreply.github.com
 	Citrix Systems Inc. until 2016-03-01
 	RapidRatings from 2016-03-01
@@ -8114,7 +8185,7 @@ dmarkwat: dmarkwat!users.noreply.github.com
 dmartin: dustin!dmartin.io
 	Independent
 dmartinol: dmartinol!users.noreply.github.com
-	Cisco until 2020-03-01
+	Cisco Systems Inc. until 2020-03-01
 	Dematic North America from 2020-03-01 until 2020-07-01
 	Nokia Corporation from 2020-07-01 until 2021-06-01
 	Red Hat Inc. from 2021-06-01
@@ -8192,7 +8263,7 @@ dmeytin: dmeytin!users.noreply.github.com
 	Microsoft Corporation from 2019-09-01
 dmfigol: git!dmfigol.me
 	Independent until 2015-09-01
-	Cisco from 2015-09-01 until 2022-05-01
+	Cisco Systems Inc. from 2015-09-01 until 2022-05-01
 	Independent from 2022-05-01 until 2022-07-01
 	AWS from 2022-07-01
 dmgk: dg!syrec.org
@@ -8469,7 +8540,7 @@ dnardo: dnardo!google.com, dnardo!users.noreply.github.com
 	Google LLC
 dnascimento: dfrnascimento!gmail.com
 	Independent until 2015-03-01
-	Cisco from 2015-03-01 until 2015-09-01
+	Cisco Systems Inc. from 2015-03-01 until 2015-09-01
 	Veniam Inc. from 2015-09-01 until 2017-03-01
 	Independent from 2017-03-01 until 2017-05-01
 	Odecee Careers from 2017-05-01 until 2017-12-01
@@ -8477,7 +8548,7 @@ dnascimento: dfrnascimento!gmail.com
 	Commonwealth Bank from 2020-01-01
 dnascimento: dnascimento!users.noreply.github.com
 	Independent until 2015-03-01
-	Cisco from 2015-03-01 until 2015-09-01
+	Cisco Systems Inc. from 2015-03-01 until 2015-09-01
 	Veniam Inc. from 2015-09-01 until 2017-03-01
 	Odecee Careers from 2017-03-01 until 2017-12-01
 	Amazon from 2017-12-01 until 2020-01-01
@@ -8912,7 +8983,7 @@ donaldgifford: donaldgifford!users.noreply.github.com
 donaldguy: donald!tulip.co, donald.b.guy!gmail.com, donaldguy!users.noreply.github.com
 	Tulip
 donaldh: donaldh!users.noreply.github.com
-	Cisco until 2021-01-01
+	Cisco Systems Inc. until 2021-01-01
 	Independent from 2021-01-01 until 2021-03-01
 	Red Hat Inc. from 2021-03-01
 donaldliu: donaldliu!gmail.com, donaldliu!users.noreply.github.com
@@ -9040,7 +9111,7 @@ donkeysharp: donkeysharp!users.noreply.github.com
 donmccasland: Claudio.Rosati!esss.se, don!nestlabs.com, donmccasland!google.com, donmccasland!users.noreply.github.com, thangavel.sundaram!aspiresys.com
 	Nest
 donmstewart: donmstewart!users.noreply.github.com
-	Cisco until 2018-08-01
+	Cisco Systems Inc. until 2018-08-01
 	Docker Inc. from 2018-08-01 until 2019-11-01
 	Kinetica DB Inc. from 2019-11-01
 donnachaforde: donnachaforde!users.noreply.github.com
@@ -9107,7 +9178,7 @@ dooferlad: dooferlad!users.noreply.github.com
 	Soft Pauer from 2018-01-01 until 2019-08-01
 	Kraken from 2019-08-01
 doonhammer: doonhammer!users.noreply.github.com
-	Cisco until 2015-01-01
+	Cisco Systems Inc. until 2015-01-01
 	Palo Alto Networks from 2015-01-01 until 2023-12-01
 	Independent from 2023-12-01
 doowb: brian.woodward!gmail.com, doowb!users.noreply.github.com
@@ -9382,7 +9453,7 @@ dpal: dpal!redhat.com
 dpalmerCB: dpalmer!cloudbees.com
 	CloudBees Inc.
 dpandhi-git: dpandhi!pivotal.io, dpandhi-git!users.noreply.github.com
-	Cisco until 2015-08-01
+	Cisco Systems Inc. until 2015-08-01
 	Pivotal from 2015-08-01
 dpankros: dpankros!users.noreply.github.com
 	Attorney until 2017-01-01
@@ -9492,7 +9563,7 @@ dpinol: github!dpinol.com
 	Social Point S.L. from 2017-09-01 until 2019-03-01
 	Hubtype from 2019-03-01
 dpippenger: dpippenger!users.noreply.github.com
-	Cisco
+	Cisco Systems Inc.
 dpires: david.pires!gmail.com, dpires!users.noreply.github.com
 	unite.live LLC
 dpisanu: dpisanu!users.noreply.github.com
@@ -9541,7 +9612,7 @@ dpr-dev: dpr-dev!users.noreply.github.com
 	LinguaTrip from 2018-02-01 until 2019-11-01
 	Independent from 2019-11-01
 dprabhua: dprabhua!users.noreply.github.com
-	Cisco
+	Cisco Systems Inc.
 dprangnell: dprangnell!users.noreply.github.com
 	Internet Corporation for Assigned Names and Numbers until 2019-08-01
 	Independent from 2019-08-01 until 2021-05-01
@@ -9600,7 +9671,7 @@ dr0pdb: dr0pdb!users.noreply.github.com
 	Independent from 2018-08-01 until 2019-05-01
 	Microsoft Corporation from 2019-05-01 until 2019-07-01
 	Independent from 2019-07-01 until 2020-04-01
-	Mindship · Internship from 2020-04-01 until 2020-05-01
+	Mindship Internship from 2020-04-01 until 2020-05-01
 	Independent from 2020-05-01 until 2020-07-01
 	Microsoft Corporation from 2020-07-01 until 2021-03-01
 	Google LLC from 2021-03-01 until 2022-10-01
@@ -9702,9 +9773,9 @@ drano: didier!newsinapp.io
 	QuartzX from 2020-09-01
 drao9: drao9!users.noreply.github.com
 	Independent until 2016-05-01
-	Cisco from 2016-05-01 until 2016-08-01
+	Cisco Systems Inc. from 2016-05-01 until 2016-08-01
 	Independent from 2016-08-01 until 2017-05-01
-	Cisco from 2017-05-01 until 2017-08-01
+	Cisco Systems Inc. from 2017-05-01 until 2017-08-01
 	Independent from 2017-08-01 until 2018-08-01
 	eBay Inc. from 2018-08-01
 drasko: drasko!users.noreply.github.com, drasko.draskovic!gmail.com
@@ -9794,7 +9865,7 @@ drekle: delemon!cisco.com, derlemon!gmail.com, drekle!users.noreply.github.com
 	Independent from 2017-10-01 until 2018-01-01
 	eMoney Advisor LLC from 2018-01-01 until 2018-05-01
 	Aerotech from 2018-05-01 until 2019-02-01
-	Cisco from 2019-02-01 until 2019-12-01
+	Cisco Systems Inc. from 2019-02-01 until 2019-12-01
 	Drud Technology LLC from 2019-12-01 until 2022-01-01
 	CipherTrace from 2022-01-01 until 2023-03-01
 	TrendyData from 2023-03-01
@@ -10085,7 +10156,7 @@ drzero42: anders!bruun-olsen.net, drzero42!users.noreply.github.com
 ds-ms: desattir!microsoft.com, ds-ms!users.noreply.github.com
 	Microsoft Corporation
 dsahern: dsa!cumulusnetworks.com, dsahern!gmail.com
-	Cisco until 2015-01-01
+	Cisco Systems Inc. until 2015-01-01
 	Oracle America Inc. from 2015-01-01 until 2015-06-01
 	Cumulus Networks Inc. from 2015-06-01
 dsakagi: dsakagi!gmail.com
@@ -10137,7 +10208,7 @@ dschaller: d_a_schaller!yahoo.com, dschaller!lyft.com, dschaller!users.noreply.g
 dschenkelman: damian.schenkelman!gmail.com, dschenkelman!users.noreply.github.com
 	SOUTHWORKS until 2014-05-01
 	Auth0 Inc. from 2014-05-01 until 2022-02-01
-	Okta · from 2022-02-01
+	Okta Inc. from 2022-02-01
 dschobel: dschobel!gmail.com, dschobel!twitter.com, dschobel!users.noreply.github.com
 	Twitter Inc.
 dschunack: dschunack!users.noreply.github.com
@@ -10259,7 +10330,7 @@ dsiebel: dsiebel!users.noreply.github.com
 dsimansk: dsimansk!redhat.com
 	Red Hat Inc.
 dsimonto: dsimonto!cisco.com
-	Cisco
+	Cisco Systems Inc.
 dsingh-nl: dsingh-nl!users.noreply.github.com
 	QASource until 2017-04-01
 	Xebia Nederland B.V. from 2017-04-01 until 2020-12-01
@@ -10992,7 +11063,7 @@ dutingda: dutingda!users.noreply.github.com
 	Independent from 2019-08-01 until 2020-02-01
 	eHealth from 2020-02-01 until 2020-04-01
 	Independent from 2020-04-01 until 2021-05-01
-	Motive · Internship from 2021-05-01 until 2021-08-01
+	Motive Internship from 2021-05-01 until 2021-08-01
 	Tesla Inc. from 2021-08-01 until 2022-04-01
 	Independent from 2022-04-01 until 2022-07-01
 	GoDaddy Operating Company LLC from 2022-07-01
@@ -11047,7 +11118,7 @@ dvasko: dejan.vasko!gmail.com, dvasko!users.noreply.github.com
 dvaumoron: dvaumoron!users.noreply.github.com
 	Independent
 dvavili: dvavili!users.noreply.github.com, vavili.divya!gmail.com
-	Cisco until 2017-08-01
+	Cisco Systems Inc. until 2017-08-01
 	NVIDIA Corporation from 2017-08-01
 dvazar: adv-tsk!yandex.ru, dvazar!users.noreply.github.com
 	Elecard-Med until 2017-03-01
@@ -11108,7 +11179,7 @@ dvonessen: dvonessen!users.noreply.github.com
 dvonthenen: 12752197+dvonthenen!users.noreply.github.com, david.vonthenen!dell.com, davidvonthenen!gmail.com, dvonthenen!users.noreply.github.com, vonthenend!vmware.com
 	Dell Technologies until 2018-03-09
 	VMware Inc. from 2018-03-09 until 2022-07-01
-	Symbl.ai · from 2022-07-01 until 2023-10-01
+	Symbl.ai from 2022-07-01 until 2023-10-01
 	Deepgram from 2023-10-01
 dvorak42: dvorak42!users.noreply.github.com, svaldez!google.com
 	Google LLC
@@ -11182,7 +11253,7 @@ dwdraju: dwdraju!users.noreply.github.com, rajudawadinp!gmail.com
 	Parewa from 2015-06-01 until 2015-09-01
 	Independent from 2015-09-01 until 2016-10-01
 	YoungInnovations from 2016-10-01 until 2017-08-01
-	Indepenent from 2017-08-01 until 2018-02-01
+	Independent from 2017-08-01 until 2018-02-01
 	IMS Evolve from 2018-02-01 until 2019-09-01
 	Pagevamp from 2019-09-01 until 2020-03-01
 	Oyster Financial from 2020-03-01 until 2021-03-01
@@ -11747,7 +11818,7 @@ easkay-castlight: easkay-castlight!users.noreply.github.com
 	Lifecycle until 2014-08-01
 	Independent from 2014-08-01 until 2015-07-01
 	Arnold Clark from 2015-07-01 until 2019-07-01
-	Experian · from 2019-07-01
+	Experian Information Solutions Inc. from 2019-07-01
 easonxiang: dong.xiang!linaro.org
 	Linaro Limited
 eastlondoner: 8148776+eastlondoner!users.noreply.github.com, eastlondoner!users.noreply.github.com
@@ -11853,7 +11924,7 @@ eberkund: eberkund!users.noreply.github.com
 	Independent from 2020-01-01 until 2020-05-01
 	LotusFlare from 2020-05-01 until 2023-03-01
 	Mero from 2023-03-01 until 2024-02-01
-	Alora Labs · from 2024-02-01
+	Alora Labs from 2024-02-01
 eberlec: ceberle!redhat.com, eberlec!users.noreply.github.com
 	Red Hat Inc.
 ebgitelman: betsy.gitelman!enterprisedb.com
@@ -12314,7 +12385,7 @@ edmondop: edmondo.porcu!gmail.com
 	Credimi from 2016-05-01 until 2021-07-01
 	Independent from 2021-07-01 until 2022-01-01
 	Sapient from 2022-01-01 until 2023-12-01
-	Capital One · from 2023-12-01
+	Capital One from 2023-12-01
 edmonds: edmonds!debian.org
 	Debian
 edmorley: edmorley!users.noreply.github.com
@@ -12406,7 +12477,7 @@ edsondearaujo: edsondearaujo!users.noreply.github.com, edsondearaujofga!gmail.co
 	Equipe de Robótica Aérea from 2019-10-01 until 2020-12-01
 	Independent from 2020-12-01 until 2021-10-01
 	Supremo Tribunal Federal from 2021-10-01 until 2022-09-01
-	União Planetária · from 2022-09-01
+	União Planetária from 2022-09-01
 edsonmarquezani: edsonmarquezani!gmail.com
 	Independent until 2015-03-01
 	CredibiliT from 2015-03-01 until 2016-04-01
@@ -12526,7 +12597,7 @@ edumco: edumco!users.noreply.github.com
 	Independent from 2015-02-01 until 2018-07-01
 	Locus from 2018-07-01 until 2019-10-01
 	Independent from 2019-10-01 until 2020-09-01
-	MV · Full-time from 2020-09-01 until 2021-05-01
+	MV Full-time from 2020-09-01 until 2021-05-01
 	Avanade Inc. from 2021-05-01
 eduojeda: eduojeda!users.noreply.github.com
 	ResearchGate until 2019-02-01
@@ -12585,7 +12656,7 @@ edwardpku: edwardpku!users.noreply.github.com
 	Tencent Holdings Limited until 2017-01-01
 	Amazon from 2017-01-01
 edwarnicke: eaw!cisco.com, edwarnicke!users.noreply.github.com, hagbard!gmail.com
-	Cisco
+	Cisco Systems Inc.
 edwin-lai: edwin-lai!users.noreply.github.com
 	Independent until 2014-12-01
 	Varsity Tutors from 2014-12-01 until 2016-01-01
@@ -12613,7 +12684,7 @@ edwinzrodriguez: ed.rodriguez!netapp.com
 	NetApp Inc
 edwmurph: edwmurph!users.noreply.github.com, edwmurph3!gmail.com
 	Independent until 2016-07-01
-	Cisco from 2016-07-01 until 2018-12-01
+	Cisco Systems Inc. from 2016-07-01 until 2018-12-01
 	Starry from 2018-12-01
 edysli: edysli!users.noreply.github.com
 	Gemalto until 2014-06-01
@@ -12626,7 +12697,7 @@ ee0pdt: ee0pdt!users.noreply.github.com
 eeSeeGee: aaron.young!gmail.com, eeSeeGee!users.noreply.github.com
 	Independent
 eebjr: eebjr!users.noreply.github.com
-	Cisco until 2018-04-01
+	Cisco Systems Inc. until 2018-04-01
 	Motorola Mobility Inc. from 2018-04-01 until 2020-02-01
 	Capital One Financial Corporation from 2020-02-01
 eecsninja: sque!chromium.org
@@ -12678,7 +12749,7 @@ eesprit: eesprit!users.noreply.github.com
 	Independent from 2016-12-01 until 2017-01-01
 	Viareport from 2017-01-01
 eestewart: eestewart!users.noreply.github.com
-	Cisco
+	Cisco Systems Inc.
 eeyyee: eeyyee!users.noreply.github.com, zhanghao.lc!inspur.com, zhanghaozhanghao6!gmail.com
 	Inspur Group
 eezhova: eezhova!mirantis.com, ezhovaelena19!gmail.com
@@ -12864,7 +12935,7 @@ egrumbach: emmanuel.grumbach!intel.com
 egsysoev: egor.sysoev!gmail.com
 	Tinkoff
 egtvedt: egtvedt!samfundet.no, hegtvedt!cisco.com
-	Cisco
+	Cisco Systems Inc.
 egunnar: egunnar!users.noreply.github.com
 	Independent until 2018-12-01
 	Capital One Financial Corporation from 2018-12-01
@@ -12953,7 +13024,7 @@ ehrnst: ehrnst!users.noreply.github.com
 	Intility until 2020-12-01
 	Vipps from 2020-12-01 until 2022-03-01
 	Vipps MobilePay from 2022-03-01 until 2023-10-01
-	Simplifai · from 2023-10-01
+	Simplifai from 2023-10-01
 ehsan-tashkhisi: ehsan-tashkhisi!users.noreply.github.com
 	Behpardakht Mellat until 2016-12-01
 	RCII from 2016-12-01 until 2019-06-01
@@ -13575,7 +13646,7 @@ eliaskoromilas: elias.koromilas!gmail.com, eliaskoromilas!users.noreply.github.c
 	LeanXcale from 2017-09-01 until 2018-05-01
 	InAccel from 2018-05-01
 eliaslevy: eliaslevy!users.noreply.github.com, fearsome.lucidity!gmail.com
-	Cisco
+	Cisco Systems Inc.
 eliasnorrby: eliasnorrby!users.noreply.github.com
 	Independent until 2016-01-01
 	iTurgor Management from 2016-01-01 until 2016-02-01
@@ -13927,7 +13998,7 @@ elvinongbl: boon.leong.ong!intel.com, elvinongbl!gmail.com
 elviraux: elviraux!users.noreply.github.com
 	Independent until 2015-09-01
 	Skuuper from 2015-09-01 until 2016-03-01
-	Cisco from 2016-03-01
+	Cisco Systems Inc. from 2016-03-01
 elvis-cai: elvis-cai!users.noreply.github.com, elvis.cai!airwallex.com
 	Ericsson until 2016-07-01
 	oTMS from 2016-07-01 until 2018-03-01
@@ -13974,7 +14045,7 @@ emadolsky: emadolsky!users.noreply.github.com
 emadrid: emadrid!users.noreply.github.com
 	Civitas Learning
 emagana: emagana!gmail.com
-	Cisco until 2014-07-18
+	Cisco Systems Inc. until 2014-07-18
 	Workday Inc. from 2014-07-18
 emailbob: boblee!google.com, emailbob!users.noreply.github.com
 	Google LLC
@@ -14045,7 +14116,7 @@ emattiza: emattiza!users.noreply.github.com
 emayank: emayank!users.noreply.github.com
 	OpsMx
 embano1: embano1!users.noreply.github.com, michael-k!users.noreply.github.com
-	VMware Inc.. until 2022-09-01
+	VMware Inc. until 2022-09-01
 	Amazon from 2022-09-01
 embed-3d: embed3d!gmail.com
 	Independent until 2019-01-01
@@ -14199,14 +14270,14 @@ emirot: emirot!users.noreply.github.com
 	Zillow Inc. from 2019-08-01
 emirsaidh: emirsaidh!users.noreply.github.com
 	Independent until 2021-06-01
-	Udo Games · Internship from 2021-06-01 until 2021-07-01
+	Udo Games Internship from 2021-06-01 until 2021-07-01
 	Independent from 2021-07-01 until 2022-12-01
 	Radiologics Medical from 2022-12-01 until 2023-04-01
-	Rollic · Internship from 2023-04-01 until 2023-06-01
+	Rollic Internship from 2023-04-01 until 2023-06-01
 	Independent from 2023-06-01 until 2023-12-01
 	Codeway from 2023-12-01
 emjburns: emburns!netflix.com, emjburns!umich.edu, emjeburns!gmail.com
-	Cisco until 2016-05-01
+	Cisco Systems Inc. until 2016-05-01
 	Veritas Technologies LLC from 2016-05-01 until 2017-08-01
 	Netflix Inc. from 2017-08-01
 emmahsax: emmahsax!users.noreply.github.com
@@ -14395,7 +14466,7 @@ endersonmenezes: endersonster!gmail.com
 	Startups from 2018-05-01 until 2019-03-01
 	UniCesumar from 2019-03-01 until 2020-09-01
 	Cortex from 2020-09-01 until 2021-06-01
-	Stone · from 2021-06-01
+	Stone from 2021-06-01
 endian-benjamin: benjamin.lindqvist!endian.se, endian-benjamin!users.noreply.github.com
 	Independent until 2016-11-01
 	Alkit from 2016-11-01 until 2017-09-01
@@ -14459,7 +14530,7 @@ engineersamuel: Samuel.Mendenhall!gmail.com, engineersamuel!users.noreply.github
 	Red Hat Inc. until 2018-04-01
 	Microsoft Corporation from 2018-04-01 until 2022-03-01
 	DMA Labs from 2022-03-01 until 2023-01-01
-	Cisco from 2023-01-01
+	Cisco Systems Inc. from 2023-01-01
 engineforce: engineforce!users.noreply.github.com, pong_ho80!hotmail.com
 	IRESS until 2017-08-01
 	Shroogal from 2017-08-01 until 2018-09-01
@@ -14517,7 +14588,7 @@ enjeck: enjeck!users.noreply.github.com
 	ETERNAL COMPANY from 2018-08-01 until 2018-11-01
 	Independent from 2018-11-01 until 2019-12-01
 	Outreachy from 2019-12-01 until 2020-03-01
-	The Linux Foundation · from 2020-03-01
+	The Linux Foundation from 2020-03-01
 enkelprifti98: enkelprifti98!users.noreply.github.com
 	HYPOTHEkids until 2014-08-01
 	Independent from 2014-08-01 until 2015-06-01
@@ -14618,7 +14689,7 @@ enricomarchesin: enricomarchesin!users.noreply.github.com
 	FLECTA from 2018-04-01 until 2019-01-01
 	Ever.Ag from 2019-01-01
 enricoschiattarella: enrico!pensando.io, enrico.schiattarella!gmail.com, enricoschiattarella!users.noreply.github.com
-	Cisco until 2016-06-01
+	Cisco Systems Inc. until 2016-06-01
 	Google LLC from 2016-06-01 until 2017-01-01
 	Startup from 2017-01-01
 enriko-riba: enriko-riba!users.noreply.github.com
@@ -14776,7 +14847,7 @@ ephox-gcc-plugins: re.emese!gmail.com
 	Independent
 ephur: ephur!users.noreply.github.com, gautambhatrcb!gmail.com, richard d0t maynard isat gmail d0t com, richard.maynard!gmail.com
 	Rackspace Hosting until 2014-04-01
-	Cisco from 2014-04-01 until 2017-04-01
+	Cisco Systems Inc. from 2014-04-01 until 2017-04-01
 	ObjectRocket from 2017-04-01
 epicfaace: aramaswamis!gmail.com, epicfaace!users.noreply.github.com
 	Independent until 2016-06-01
@@ -15379,7 +15450,7 @@ erikbohnhorst: erikbohnhorst!users.noreply.github.com
 erikbotta: erikbotta!users.noreply.github.com
 	BudgetBakers
 erikburgess: erikburgess!users.noreply.github.com
-	Cisco
+	Cisco Systems Inc.
 erikengervall: erik.engervall!gmail.com
 	Independent until 2016-06-01
 	Swace Digital AB from 2016-06-01 until 2016-09-01
@@ -16002,9 +16073,9 @@ ethicalmohit: ethicalmohit!users.noreply.github.com, mail!imohit.me
 ethindp: ethindp!users.noreply.github.com, harlydavidsen!gmail.com
 	Independent
 ethirolle: ethirolle!users.noreply.github.com
-	Cisco until 2014-11-01
+	Cisco Systems Inc. until 2014-11-01
 	Lenovo from 2014-11-01 until 2015-07-01
-	Cisco from 2015-07-01 until 2017-10-01
+	Cisco Systems Inc. from 2015-07-01 until 2017-10-01
 	Zenoss Inc. from 2017-10-01 until 2020-07-01
 	Grafana Labs from 2020-07-01
 ethnt: ethan!turkeltaub.dev
@@ -16668,7 +16739,7 @@ eyalzek: eyal.ez!gmail.com, eyalzek!users.noreply.github.com
 	Legal One from 2018-10-01 until 2019-03-01
 	Oetker Digital from 2019-03-01
 eyanulis: eric.yanulis!sendgrid.com, eyanulis!users.noreply.github.com
-	Cisco until 2018-04-01
+	Cisco Systems Inc. until 2018-04-01
 	SendGrid from 2018-04-01 until 2019-01-01
 	Twilio from 2019-01-01
 eyberg: eyberg!users.noreply.github.com, ian!deferpanic.com
@@ -16677,7 +16748,7 @@ eyberg: eyberg!users.noreply.github.com, ian!deferpanic.com
 eye0fra: eye0fra!users.noreply.github.com, mattiam7!gmail.com
 	Red Hat Inc.
 eye0fra: mathieu.duperre!gmail.com
-	Cisco until 2018-08-01
+	Cisco Systems Inc. until 2018-08-01
 	Edgegap from 2018-08-01
 eyeezzi: e.uzziah!gmail.com, eyeezzi!users.noreply.github.com
 	Independent until 2016-08-01
@@ -17355,7 +17426,7 @@ fastlorenzo: fastlorenzo!users.noreply.github.com
 	EY from 2014-05-01 until 2023-09-01
 	NRB from 2023-09-01
 faszhang: faszhang!users.noreply.github.com
-	Cisco
+	Cisco Systems Inc.
 fatalc: cnfatal!gmail.com, fatalc!users.noreply.github.com, zhanglikun!ghostcloud.cn
 	Ghostcloud Chengdu Wizard Cloud Technology Co. Ltd.
 fatcerberus: fatcerberus!icloud.com
@@ -17746,14 +17817,14 @@ feguiguren: feguiguren!users.noreply.github.com
 	Project 42 until 2014-07-01
 	AWS from 2014-07-01 until 2016-09-01
 	Spoken from 2016-09-01 until 2022-08-01
-	Woven Planet · from 2022-08-01
+	Woven Planet from 2022-08-01
 feher-melos: feher-melos!users.noreply.github.com
 	International Business Machines Corporation
 feicun: haomingzhang7!gmail.com
-	Cisco until 2015-08-01
+	Cisco Systems Inc. until 2015-08-01
 	Independent from 2015-08-01 until 2015-11-01
 	Sihua from 2015-11-01 until 2020-01-01
-	Cisco from 2020-01-01
+	Cisco Systems Inc. from 2020-01-01
 feifeiiiiiiiiiii: qinpengfei!jd.com
 	Jd.Com
 feifeiiiiiiiiiii: qinpengfei.2008!163.com
@@ -17786,14 +17857,14 @@ fekete-robert: fekete-robert!users.noreply.github.com
 	Balabit until 2018-01-01
 	One Identity from 2018-01-01 until 2019-12-01
 	Banzai Cloud Zrt from 2019-12-01 until 2021-01-01
-	Cisco from 2021-01-01 until 2024-02-15
+	Cisco Systems Inc. from 2021-01-01 until 2024-02-15
 	Axoflow from 2024-02-15
 felaugmar: felaugmar!gmail.com
 	Itaú Unibanco
 felfert: felfert!users.noreply.github.com, fritz!fritz-elfert.de, fritz-github!fritz-elfert.de
 	Independent
 feli5: feli5!users.noreply.github.com
-	Cisco
+	Cisco Systems Inc.
 felicianotech: Ricardo!Feliciano.Tech, felicianotech!gmail.com, felicianotech!users.noreply.github.com
 	Linode LLC. until 2016-01-01
 	Statusy from 2016-01-01 until 2016-05-01
@@ -18132,7 +18203,7 @@ fernandocarletti: contato!fernandocarletti.net, fernandocarletti!users.noreply.g
 	Credijusto. from 2019-05-01
 fernandodelaiglesia: fernandodelaiglesia!users.noreply.github.com
 	Independent until 2021-07-01
-	Quside · from 2021-07-01
+	Quside from 2021-07-01
 fernandoneto: fernandoneto!users.noreply.github.com
 	junglecloud until 2016-03-01
 	AgrozimVet from 2016-03-01
@@ -18227,7 +18298,7 @@ ffainelli: f.fainelli!gmail.com, ffainelli!freebox.fr, florian!openwrt.org
 	Freebox until 2013-01-01
 	Broadcom Corporation from 2013-01-01
 ffarozan: ffarozan!gmail.com
-	Cisco until 2014-12-01
+	Cisco Systems Inc. until 2014-12-01
 	Aruba from 2014-12-01
 ffdybuster: ffdybuster!users.noreply.github.com
 	Dybuster AG
@@ -18835,7 +18906,7 @@ flarnie: flarnie!fb.com, flarnie!users.noreply.github.com, fnonemaker!gmail.com
 	Meta Platforms Inc. from 2015-09-01 until 2018-11-01
 	Chegg Inc. from 2018-11-01
 flashdumper: flashdumper!users.noreply.github.com
-	Cisco until 2016-01-01
+	Cisco Systems Inc. until 2016-01-01
 	Bell Integrator Inc from 2016-01-01 until 2017-01-01
 	Packt from 2017-01-01 until 2018-01-01
 	Red Hat Inc. from 2018-01-01 until 2019-01-01
@@ -18896,7 +18967,7 @@ flavorjones: mike.dalessio!gmail.com
 	VMware Inc. from 2019-12-01 until 2020-06-01
 	Shopify Inc. from 2020-06-01
 flawedmatrix: flawedmatrix!users.noreply.github.com
-	Cisco until 2014-08-01
+	Cisco Systems Inc. until 2014-08-01
 	Independent from 2014-08-01 until 2015-08-01
 	Pivotal from 2015-08-01 until 2020-01-01
 	VMware Inc. from 2020-01-01
@@ -19080,7 +19151,7 @@ florimondmanca: florimondmanca!users.noreply.github.com
 	Independent from 2021-03-01 until 2021-11-01
 	Fairness from 2021-11-01
 florincoras: florin.coras!gmail.com
-	Cisco
+	Cisco Systems Inc.
 florindragos: florindragos!users.noreply.github.com
 	Uhuru until 2015-01-01
 	Hewlett from 2015-01-01 until 2018-05-01
@@ -19231,7 +19302,7 @@ fmejia97: fmejia97!users.noreply.github.com, francisco.mejia!shopify.com
 	Independent from 2018-08-01
 fmendez89: fmendez89!users.noreply.github.com
 	Independent until 2016-05-01
-	PRAMAC · Internship from 2016-05-01 until 2016-06-01
+	PRAMAC Internship from 2016-05-01 until 2016-06-01
 	Independent from 2016-06-01 until 2017-01-01
 	Inspiring Digital Enterprise Award CIC from 2017-01-01 until 2019-02-01
 	Minsait from 2019-02-01 until 2020-03-01
@@ -19259,7 +19330,7 @@ fmotrifork: fmotrifork!users.noreply.github.com
 fmovlex: adam-26!users.noreply.github.com, fmovlex!users.noreply.github.com
 	Mesosphere
 fmr999: fmolinar!cisco.com, fmr999!users.noreply.github.com
-	Cisco
+	Cisco Systems Inc.
 fmstephe: fmstephe!users.noreply.github.com, francisstephens!gmail.com
 	Independent
 fmui: florian.mueller02!sap.com, fmui!users.noreply.github.com
@@ -19334,7 +19405,7 @@ fogine: fogine!opmbx.org, fogine!users.noreply.github.com
 	Independent from 2018-10-01
 folbricht: folbricht!users.noreply.github.com
 	Symantec Corporation until 2014-10-01
-	Cisco from 2014-10-01 until 2020-10-01
+	Cisco Systems Inc. from 2014-10-01 until 2020-10-01
 	Stripe Inc. from 2020-10-01
 foldingbeauty: foldingbeauty!users.noreply.github.com
 	Steam until 2016-01-01
@@ -19632,7 +19703,7 @@ fraenkel: fraenkel!confluent.io, fraenkel!users.noreply.github.com, michael.frae
 	Confluent from 2019-04-01 until 2020-12-01
 	Domino Data from 2020-12-01
 fragatina: fragatina!users.noreply.github.com, millet!cisco.com
-	Cisco
+	Cisco Systems Inc.
 fragtom: fragtom!users.noreply.github.com
 	Organize.me until 2016-01-01
 	Amadeus from 2016-01-01
@@ -19738,7 +19809,7 @@ francoispqt: francois.parquet!gmail.com, francoispqt!users.noreply.github.com
 	Lalamove from 2017-12-01 until 2019-08-01
 	Heetch from 2019-08-01 until 2020-09-01
 	BlaBlaCar from 2020-09-01 until 2022-04-01
-	Wave Mobile Money · Permanent from 2022-04-01
+	Wave Mobile Money Permanent from 2022-04-01
 francostellari: francostellari!users.noreply.github.com
 	International Business Machines Corporation
 francotiveron: franco.tiveron!gmail.com
@@ -19942,7 +20013,7 @@ fredericrous: fredericrous!users.noreply.github.com
 	FINEOS from 2019-11-01 until 2020-12-01
 	Independent from 2020-12-01 until 2021-04-01
 	Storyful from 2021-04-01 until 2022-02-01
-	Teckro · from 2022-02-01
+	Teckro from 2022-02-01
 frederikbosch: f.bosch!genkgo.nl, frederikbosch!users.noreply.github.com
 	Genkgo
 frederiko: frederiko!gmail.com
@@ -20347,7 +20418,7 @@ fsb4000: fsb4000!yandex.ru
 	Independent from 2015-08-01 until 2017-04-01
 	TUTOROO from 2017-04-01 until 2018-04-01
 	Independent from 2018-04-01 until 2018-06-01
-	City of Casey · InternshipCity of Casey · Internship from 2018-06-01 until 2018-11-01
+	City of Casey InternshipCity of Casey Internship from 2018-06-01 until 2018-11-01
 	AWM Electrical from 2018-11-01 until 2020-06-01
 	AWS from 2020-06-01 until 2020-09-01
 	Accenture Global Solutions Limited from 2020-09-01 until 2022-03-01
@@ -20489,7 +20560,7 @@ fuergaosi233: fuergaosi233!users.noreply.github.com
 fuhbar: fuhbar!users.noreply.github.com
 	Claranet Ltd.
 fujian1115: jiafu!cisco.com
-	Cisco
+	Cisco Systems Inc.
 fujimotos: fujimoto!ceptord.net, fujimoto!clear-code.com, fujimotos!users.noreply.github.com
 	Independent
 fujin: aj!junglistheavy.industries, fujin!users.noreply.github.com
@@ -20753,7 +20824,7 @@ fzylogic: jeremy!dreamhost.com
 	DreamHost LLC.
 g-a-c: gavin.chappell!gmail.com
 	Barracuda Networks Inc. until 2020-11-01
-	Cisco from 2020-11-01
+	Cisco Systems Inc. from 2020-11-01
 g-angstrom: g-angstrom!users.noreply.github.com
 	HSA until 2019-05-01
 	Intel Corporation from 2019-05-01 until 2020-03-01
@@ -20827,7 +20898,7 @@ g1rjeevan: g1rjeevan!users.noreply.github.com
 	aveto from 2016-07-01 until 2017-09-01
 	Tech Mahindra from 2017-09-01 until 2020-06-01
 	LTI from 2020-06-01 until 2022-04-01
-	Cisco from 2022-04-01
+	Cisco Systems Inc. from 2022-04-01
 g1stavo: g1stavo!users.noreply.github.com, gustavocsalvador!gmail.com
 	Independent until 2016-04-01
 	Graal Tecnologia from 2016-04-01 until 2017-07-01
@@ -20954,8 +21025,8 @@ gabriel-dantas98: gabriel.dantas98!outlook.com.br
 	Helix Platform from 2019-08-01 until 2020-02-01
 	QuintoAndar from 2020-02-01
 gabriel-farache: gabriel-farache!users.noreply.github.com, gfarache!redhat.com
-	Sopra Steria · Permanent until 2016-09-01
-	SRC Solution · Permanent from 2016-09-01 until 2018-11-01
+	Sopra Steria Permanent until 2016-09-01
+	SRC Solution Permanent from 2016-09-01 until 2018-11-01
 	Airbus from 2018-11-01 until 2022-04-01
 	Red Hat Inc. from 2022-04-01
 gabriel-samfira: g2p.code!gmail.com, gabriel-samfira!users.noreply.github.com
@@ -21168,7 +21239,7 @@ gageorsburn: gageorsburn!live.com, gageorsburn!users.noreply.github.com
 	City of Raleigh until 2015-06-01
 	Independent from 2015-06-01 until 2016-09-01
 	Temboo from 2016-09-01 until 2017-02-01
-	Cisco from 2017-02-01 until 2018-01-01
+	Cisco Systems Inc. from 2017-02-01 until 2018-01-01
 	One Source Integrations from 2018-01-01
 gagoar: gagoar!users.noreply.github.com
 	Calyptia
@@ -21242,7 +21313,7 @@ galbacarys: galbacarys!users.noreply.github.com
 	Nuna from 2022-01-01
 galbash: galbash!cisco.com, galbash!users.noreply.github.com
 	Epsagon until 2021-10-01
-	Cisco from 2021-10-01
+	Cisco Systems Inc. from 2021-10-01
 galbramc: galbramc!mit.edu
 	MIT Connection Science
 galderz: galderz!users.noreply.github.com
@@ -21352,7 +21423,7 @@ gamunu: gamunu!users.noreply.github.com
 	Pearson Lanka from 2015-12-01 until 2019-09-01
 	John Wiley & Sons Inc. from 2019-09-01
 ganandak: a.geetha!gmail.com
-	Cisco
+	Cisco Systems Inc.
 ganboing: gan.bo!columbia.edu
 	Independent until 2016-01-01
 	VMware Inc. from 2016-01-01 until 2017-01-01
@@ -21563,7 +21634,7 @@ garg-dhruv: garg-dhruv!users.noreply.github.com
 	JPMorgan Chase from 2020-06-01 until 2020-07-01
 	JPMorgan Chase from 2020-07-01
 garganubhav: anubhavgarg5!gmail.com, garganubhav!users.noreply.github.com
-	Cisco
+	Cisco Systems Inc.
 gargarchit: gargarchit!users.noreply.github.com
 	Independent until 2019-05-01
 	Facebook AI from 2019-05-01 until 2020-01-01
@@ -21633,7 +21704,7 @@ garrison-stauffer: garrison-stauffer!users.noreply.github.com
 	Rue La La from 2016-01-01 until 2016-08-01
 	Independent from 2016-08-01 until 2017-01-01
 	Toastmasters International from 2017-01-01 until 2022-06-01
-	Twitch · from 2022-06-01
+	Twitch Interactive Inc from 2022-06-01
 garron: garron!users.noreply.github.com
 	EnergySavvy until 2019-02-01
 	Independent from 2019-02-01 until 2019-07-01
@@ -21770,7 +21841,7 @@ gauntletbuild: saville!adobe.com
 	Adaptive Computing until 2014-12-01
 	Adobe Inc. from 2014-12-01
 gauragup: gauragup!cisco.com
-	Cisco
+	Cisco Systems Inc.
 gaurang2001: gaurang2001!users.noreply.github.com
 	IEEE NITK until 2020-04-01
 	Independent from 2020-04-01 until 2020-07-01
@@ -21782,9 +21853,9 @@ gaurangkudale: gaurangkudale!yahoo.com
 	Google LLC from 2022-05-01 until 2022-09-01
 	AssetCues from 2022-09-01
 gaurav-dalvi: gaurav-dalvi!users.noreply.github.com
-	Cisco until 2015-07-01
+	Cisco Systems Inc. until 2015-07-01
 	Equinix Inc. from 2015-07-01 until 2016-03-01
-	Cisco from 2016-03-01 until 2019-06-01
+	Cisco Systems Inc. from 2016-03-01 until 2019-06-01
 	Atlassian from 2019-06-01
 gaurav-nelson: gaurav-nelson!users.noreply.github.com
 	Housing Industry Association until 2016-10-01
@@ -21863,7 +21934,7 @@ gautierdelorme: gautier.delorme!gmail.com, gautierdelorme!users.noreply.github.c
 gautric: gautric!users.noreply.github.com
 	AWS
 gautvenk: gautam.chennai!gmail.com, gautvenk!users.noreply.github.com
-	Cisco
+	Cisco Systems Inc.
 gavenkoa: gavenkoa!gmail.com, gavenkoa!users.noreply.github.com
 	PrivatBank until 2015-04-01
 	Independent from 2015-04-01 until 2017-02-01
@@ -22258,7 +22329,7 @@ gdidok: gdidok!users.noreply.github.com
 gdmello: gavindmello!gmail.com, gdmello!users.noreply.github.com
 	Points International Ltd.
 gdoctor: gdoctor!users.noreply.github.com
-	Cisco
+	Cisco Systems Inc.
 gdonald: 42317655+gdonald!users.noreply.github.com, gdonald!gmail.com
 	CallProof LLC until 2015-06-01
 	Knight Watch from 2015-06-01
@@ -22293,7 +22364,7 @@ geass: geass!users.noreply.github.com, muhammet.arsln!gmail.com
 	Westwing from 2018-08-01 until 2020-05-01
 	HelloFresh from 2020-05-01
 geastman3: geastman3!users.noreply.github.com
-	Cisco until 2019-09-01
+	Cisco Systems Inc. until 2019-09-01
 	AWS from 2019-09-01 until 2021-07-01
 	Coinbase Inc. from 2021-07-01
 gebi: gebi!users.noreply.github.com, mgebetsroither!mgit.at
@@ -22428,7 +22499,7 @@ geetasg: geetagh!amazon.com
 geffzhang: geffzhang!users.noreply.github.com, geffzhang!weyhd.com
 	wehyd
 gegles: gegles!asperasoft.com, gegles!users.noreply.github.com
-	Cisco until 2014-04-01
+	Cisco Systems Inc. until 2014-04-01
 	Aspera from 2014-04-01
 gehring: gehring!users.noreply.github.com
 	Independent until 2023-04-01
@@ -22688,7 +22759,7 @@ georgecrawford: g.o.crawford!gmail.com, georgecrawford!users.noreply.github.com
 	OVO-TECH
 georgedriver: georgedriver!users.noreply.github.com
 	Ericsson until 2016-02-01
-	Cisco from 2016-02-01 until 2018-02-01
+	Cisco Systems Inc. from 2016-02-01 until 2018-02-01
 	Driver from 2018-02-01 until 2018-12-01
 	WeWork Companies LLC from 2018-12-01
 georgegoh: georgegoh!users.noreply.github.com
@@ -23176,7 +23247,7 @@ gguillotte: gguillotte!users.noreply.github.com
 	Grafana Labs from 2022-02-01 until 2022-10-01
 	Chronosphere Inc. from 2022-10-01
 gguizza: gguizza!users.noreply.github.com
-	Indepndenrt until 2016-03-01
+	Independent until 2016-03-01
 	Immobiliare Castel Maggiore from 2016-03-01 until 2017-05-01
 	Houzz from 2017-05-01 until 2019-07-01
 	Mozilla Corporation from 2019-07-01 until 2020-12-01
@@ -23243,7 +23314,7 @@ ghemawat: ghemawat!users.noreply.github.com, sanjay!google.com
 ghenzler: georg.henzler!netcentric.biz, ghenzler!users.noreply.github.com, github!ghenzler.de
 	Netcentric AG
 gherlein: gherlein!herlein.com, gherlein!users.noreply.github.com
-	Cisco
+	Cisco Systems Inc.
 ghigt: ghigt!users.noreply.github.com, gt.ghislain!gmail.com
 	SOFTINNOV until 2015-09-01
 	Davidson Consulting from 2015-09-01 until 2017-10-01
@@ -23638,8 +23709,8 @@ girirajsharma: giriraj.sharma27!gmail.com
 	Ocrolus from 2017-07-01
 girishkalele: girishkalele!users.noreply.github.com, gkalele!google.com
 	Google LLC until 2016-09-01
-	Cisco from 2016-09-01 until 2018-04-01
-	Cisco from 2018-04-01
+	Cisco Systems Inc. from 2016-09-01 until 2018-04-01
+	Cisco Systems Inc. from 2018-04-01
 girishks: girish.shivananjappa!linaro.org
 	Linaro Limited
 girishks2000: ks.giri!samsung.com
@@ -23805,104 +23876,3 @@ gjwestlife: gjwestlife!users.noreply.github.com, jguan!google.com
 	Databricks Inc. from 2021-11-01
 gk5885: gak!google.com
 	Google LLC
-gkGaneshR: gkGaneshR!users.noreply.github.com, gkganesh126!gmail.com
-	Dell Technologies until 2014-11-01
-	Wells Fargo from 2014-11-01 until 2015-12-01
-	Oracle India Pvt. Ltd. from 2015-12-01 until 2017-10-01
-	VMware Inc. from 2017-10-01
-gkalele: gkalele!google.com, gkalele!users.noreply.github.com
-	Cisco until 2018-04-01
-	Google LLC from 2018-04-01
-gkalpak: g.kalpakas!hotmail.com, gkalpak!users.noreply.github.com, kalpakas.g!gmail.com
-	Independent
-gkammela: gayatri.kammela!intel.com
-	Intel Corporation
-gkao123: gkao123!users.noreply.github.com
-	Amazon
-gkarthiks: 30545166+gkarthiks!users.noreply.github.com, github.gkarthiks!gmail.com, gkarthiks!users.noreply.github.com
-	Toyota until 2016-09-01
-	BlackRock from 2016-09-01 until 2022-09-01
-	Oracle America Inc. from 2022-09-01
-gkaskonas: gkaskonas!users.noreply.github.com
-	Independent until 2015-07-01
-	Ericsson from 2015-07-01 until 2016-08-01
-	Virgin Media from 2016-08-01 until 2017-09-01
-	BT from 2017-09-01 until 2019-09-01
-	OCADO GROUP PLC from 2019-09-01 until 2020-09-01
-	Inawisdom from 2020-09-01 until 2021-07-01
-	Deepcrawl from 2021-07-01
-gkatsikas: george.dit!gmail.com, katsikas.gp!gmail.com
-	IMDEA Networks Institute until 2014-06-01
-	Independent from 2014-06-01 until 2017-05-01
-	RISE SICS from 2017-05-01 until 2018-09-01
-	Independent from 2018-09-01 until 2019-02-01
-	Greek Army from 2019-02-01
-gkdn: goktug!google.com
-	Google LLC
-gkelly: garret.kelly!gmail.com, gdk!google.com, gkelly!users.noreply.github.com
-	Google LLC
-gkgeorgiev: gkgeorgiev!users.noreply.github.com
-	SunGard Data Systems until 2015-06-01
-	Independent from 2015-06-01 until 2017-06-01
-	Avaloq Group AG from 2017-06-01 until 2022-12-01
-	Six Group AG from 2022-12-01
-gkhanna79: gkhanna!microsoft.com, gkhanna79!users.noreply.github.com
-	Microsoft Corporation
-gkid: gkid!users.noreply.github.com
-	Codaf until 2015-10-01
-	Riskified from 2015-10-01
-gkillough: gkillough!blackducksoftware.com
-	Synopsys Inc
-gkleiman: gaston.kleiman!gmail.com, gkleiman!users.noreply.github.com
-	Amazon until 2015-04-01
-	Mesosphere from 2015-04-01 until 2019-09-01
-	Lyft Inc. from 2019-09-01
-gklp: gklp!users.noreply.github.com, gokalpkuscu!gmail.com
-	Yapı Kredi Technology until 2017-11-01
-	Siemens AG from 2017-11-01
-gknepper: gknepper!users.noreply.github.com
-	International Business Machines Corporation until 2017-03-01
-	Independent from 2017-03-01 until 2017-10-01
-	Stefanini from 2017-10-01 until 2018-05-01
-	Independent from 2018-05-01 until 2018-07-01
-	ICBC from 2018-07-01 until 2021-10-01
-	Electronic Arts Inc. from 2021-10-01
-gkohen: gabriel!kohenfamily.net, gkohen!users.noreply.github.com
-	JDA Software Group
-gkonovalenko: gkonovalenko!gmail.com
-	Emergn until 2015-05-01
-	Deutsche Bank AG from 2015-05-01
-gkop: gabe!philo.com, gkop!users.noreply.github.com
-	Binti
-gkopylov: gkopylov!users.noreply.github.com, kopylov.german!gmail.com, roverrr!gmail.com
-	Independent
-gkossakowski: gkossakowski!users.noreply.github.com, grzegorz.kossakowski!gmail.com
-	Lightbend Inc until 2015-04-01
-	Independent from 2015-04-01 until 2016-11-01
-	Stripe Inc. from 2016-11-01
-gkotton: gkotton!vmware.com
-	Radware Inc. until 2012-02-20
-	Red Hat Inc. from 2012-02-20 until 2013-07-17
-	VMware Inc. from 2013-07-17
-gkraynov: github!gkraynov.com, kraynov!google.com
-	Google LLC
-gkrizek: gkrizek!users.noreply.github.com
-	GTM Sportswear until 2015-05-01
-	Fruition from 2015-05-01 until 2016-06-01
-	Email on Acid from 2016-06-01 until 2017-03-01
-	NodeSource from 2017-03-01 until 2019-06-01
-	Ikigai Asset Management from 2019-06-01 until 2020-01-01
-	Salesforce.com Inc. from 2020-01-01 until 2020-10-01
-	Voltage from 2020-10-01
-gkudra-msft: gekudray!microsoft.com, gkudra-msft!users.noreply.github.com
-	Microsoft Corporation
-gkumar7: gkumar7!users.noreply.github.com
-	Independent until 2016-06-01
-	2 Cranes & Sun Inc. from 2016-06-01 until 2019-08-01
-	Amazon from 2019-08-01
-gkumarchilakala: gkumarchilakala!users.noreply.github.com
-	Teko Vietnam
-gkurz: gkurz!linux.vnet.ibm.com, groug!kaod.org
-	International Business Machines Corporation
-gkvijay: vijay.g.krishnan!oracle.com
-	Oracle America Inc.
