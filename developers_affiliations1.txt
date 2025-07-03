@@ -11514,6 +11514,10 @@ Firewall: Firewall!users.noreply.github.com
 	CoScale until 2018-11-01
 	New Relic Inc. from 2018-11-01 until 2024-08-01
 	Red Hat Inc. from 2024-08-01
+Firobe: Firobe!users.noreply.github.com
+	Independent until 2022-09-01
+	Tarides from 2022-09-01 until 2024-03-01
+	Parsimoni from 2024-03-01
 Firstyear: william.brown!suse.com
 	SUSE LLC
 FischerLGLN: FischerLGLN!users.noreply.github.com
@@ -14812,6 +14816,10 @@ IvoBCD: IvoBCD!users.noreply.github.com
 	Dooer from 2017-03-01 until 2017-09-01
 	Independent from 2017-09-01 until 2018-01-01
 	Blue Clover Devices from 2018-01-01
+IvoPereira: ivoecpereira!gmail.com
+	ONGAGEMENT until 2023-09-01
+	Antena from 2023-09-01 until 2024-11-01
+	Societatea eMAG IT Research S.R.L. from 2024-11-01
 Ivoz: teh.ivo!gmail.com
 	Independent
 IxDay: IxDay!users.noreply.github.com, maxime.vidori!container-solutions.com
@@ -18659,6 +18667,10 @@ LandazuriPaul: LandazuriPaul!users.noreply.github.com
 	Independent from 2018-06-01 until 2018-11-01
 	UPANDGO from 2018-11-01 until 2019-07-01
 	VivaCity from 2019-07-01
+LandonTClipp: LandonTClipp!users.noreply.github.com
+	Independent until 2019-01-01
+	Jump Operations LLC from 2019-01-01 until 2023-12-01
+	Lambda from 2023-12-01
 LaneWolf: lanewolf!gmail.com, mrezanin!redhat.com
 	Red Hat Inc.
 LangQian: lang.qian!outlook.com
@@ -19032,6 +19044,12 @@ LiZhenCheng9527: lizhencheng6!huawei.com
 LiamClarkeNZ: LiamClarkeNZ!users.noreply.github.com
 	Ströer until 2021-04-01
 	Red Hat Inc. from 2021-04-01
+LiamMccafferty-bud: LiamMccafferty-bud!users.noreply.github.com
+	Softcat until 2015-12-01
+	UserReplay from 2015-12-01 until 2016-03-01
+	Smartodds from 2016-03-01 until 2019-08-01
+	Sportradar from 2019-08-01 until 2022-05-01
+	Bud from 2022-05-01
 LiamRandall: LiamRandall!users.noreply.github.com
 	Critical Stack until 2019-01-01
 	wasmCloud from 2019-01-01 until 2020-01-01
@@ -20551,10 +20569,9 @@ MartinEliasQ: MartinEliasQ!users.noreply.github.com
 MartinForReal: MartinForReal!users.noreply.github.com, fanshangxiang!gmail.com
 	Independent until 2018-06-01
 	AlaudaInc from 2018-06-01 until 2018-11-01
-	ltd from 2018-11-01 until 2020-06-01
+	Minsheng Fintech Corp ltd from 2018-11-01 until 2020-06-01
 	Qihoo 360 Technology Co. Ltd from 2020-06-01 until 2021-11-01
 	Microsoft Corporation from 2021-11-01
-	Minsheng Fintech Corp from 2100-01-01
 MartinGroscheTT: MartinGroscheTT!users.noreply.github.com
 	TraceTronic GmbH
 MartinKaburu: MartinKaburu!users.noreply.github.com, martinkaburu.m!gmail.com
@@ -20936,6 +20953,14 @@ MaureenHelm: MaureenHelm!users.noreply.github.com, maureen.helm!nxp.com
 	NXP Semiconductors Netherlands B.V.
 Max-Eriksson: max.eriksson.73!gmail.com
 	Independent
+Max-Oliver: Max-Oliver!users.noreply.github.com
+	Independent until 2019-02-01
+	Globant LLC from 2019-02-01 until 2020-11-01
+	Wunderman Thompson from 2020-11-01 until 2021-01-01
+	Wabi Project from 2021-01-01 until 2021-10-01
+	DataArt Solutions Inc. DBA: DeviceHive from 2021-10-01 until 2023-08-01
+	intive from 2023-08-01 until 2023-12-01
+	Creative Labs from 2023-12-01
 MaxAnderson95: max.a.anderson95!gmail.com
 	Chico's FAS until 2016-07-01
 	vTECH io from 2016-07-01 until 2018-07-01
@@ -22586,6 +22611,17 @@ NamrataAShettar: namrataashettar!gmail.com
 	Independent
 NanXiao: NanXiao!users.noreply.github.com, nan!chinadtrace.org, xiao_nan!dsi.a-star.edu.sg
 	Independent
+NanduTej: tejananduri97!gmail.com
+	Independent until 2017-06-01
+	Kore.ai from 2017-06-01 until 2017-07-01
+	Independent from 2017-07-01 until 2018-07-01
+	Draup from 2018-07-01 until 2018-12-01
+	Independent from 2018-12-01 until 2019-06-01
+	Apxor from 2019-06-01 until 2019-08-01
+	KPIT Technologies Limited from 2019-08-01 until 2020-04-01
+	Joveo from 2020-04-01 until 2022-04-01
+	Square Point from 2022-04-01 until 2024-02-01
+	Millennium Management LLC from 2024-02-01
 Nanfei-Chen: Nanfei-Chen!users.noreply.github.com, chennanfei!yeah.net
 	AlaudaInc until 2019-07-01
 	民生科技 Permanent from 2019-07-01
@@ -23634,43 +23670,3 @@ Nymria: Nymria!users.noreply.github.com
 O5ten: O5ten!users.noreply.github.com, mikael.ostberg!cybercom.com
 	Norrbottens Regemente until 2017-04-01
 	Cybercom Group AB from 2017-04-01
-OBAA: agbanabolu!gmail.com
-	Independent until 2019-03-01
-	Excite Panacea from 2019-03-01 until 2019-09-01
-	Independent from 2019-09-01 until 2020-09-01
-	Velcro Gaming from 2020-09-01 until 2022-02-01
-	Spareworks from 2022-02-01 until 2023-03-01
-	Grabba from 2023-03-01
-OBKF: o.boukhelf!gmail.com
-	Independent until 2015-10-01
-	Micro Club from 2015-10-01 until 2019-01-01
-	Independent from 2019-01-01
-OEHC: jeppe.blomquist!gmail.com, oehc!praqma.com, oliverehc!gmail.com
-	Independent
-OEP: paulkilgo!gmail.com, paulkilgo+github!gmail.com, pkilgo!clemson.edu
-	Independent until 2016-06-01
-	Blizzard from 2016-06-01
-OGAWAHirofumi: hirofumi!mail.parknet.co.jp
-	Independent
-OGKevin: 17928966+ogkevin!users.noreply.github.com, OGKevin!users.noreply.github.com
-	Independent until 2017-07-01
-	bunq B.V. from 2017-07-01 until 2018-10-01
-	MessageBird from 2018-10-01
-OGtrilliams: OGtrilliams!users.noreply.github.com
-	Rackspace until 2016-11-01
-	Independent from 2016-11-01 until 2018-06-01
-	Linux Academy Inc. from 2018-06-01 until 2019-06-01
-	Pink Penguins from 2019-06-01 until 2021-01-01
-	Replicated Inc. from 2021-01-01
-OJFord: OJFord!users.noreply.github.com, me!ojford.com
-	Independent until 2014-06-01
-	ARM from 2014-06-01 until 2014-09-01
-	ARM from 2014-09-01 until 2015-09-01
-	Independent from 2015-09-01 until 2016-03-01
-	Independent from 2016-03-01 until 2017-09-01
-	ARM from 2017-09-01 until 2019-07-01
-	Yagro from 2019-07-01
-OKyHb: OKyHb!users.noreply.github.com, okun.sa!gmail.com
-	GlobalLoigc
-OMMHOA: omar.osman.asd!gmail.com
-	Ericsson
