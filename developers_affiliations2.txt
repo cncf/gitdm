@@ -5,6 +5,15 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+OR13: OR13!users.noreply.github.com
+	ProtoExchange until 2015-01-01
+	Patient IO from 2015-01-01 until 2016-09-01
+	athenahealth from 2016-09-01 until 2018-03-01
+	Transmute from 2018-03-01
+ORBAT: ORBAT!users.noreply.github.com
+	Unity Technologies Youdy Software (Shanghai) Co. Ltd. until 2018-05-01
+	Ably from 2018-05-01 until 2018-10-01
+	Positive s.r.o. from 2018-10-01
 OYTIS: agerasimov!twilio.com, davidelu93!gmail.com, justindavidson23!gmail.com, post.ilya!gmail.com, tossel!gmail.com
 	Independent until 2016-04-01
 	Airwave Networks from 2016-04-01 until 2016-12-01
@@ -23532,18 +23541,3 @@ anjensan: anjensan!google.com, anjensan!users.noreply.github.com
 	Google LLC
 anjia0532: anjia0532!gmail.com, anjia0532!users.noreply.github.com
 	shunneng
-anjmao: Anjmao!users.noreply.github.com, bruno.basto!liferay.com, owen!owenkelly.com.au, trusted.tomato!gmail.com
-	Baltic Amadeus until 2015-01-01
-	Visma Connect B.V. from 2015-01-01 until 2016-02-01
-	Drivr from 2016-02-01 until 2018-02-01
-	Trackforce from 2018-02-01 until 2019-10-01
-	Mysterium Network from 2019-10-01
-anjoshigor: anjoshigor!users.noreply.github.com, minidfx!gmail.com
-	Independent
-anjsupsri: anjsupsri!users.noreply.github.com
-	Red Hat Inc.
-anjuls: anjuls!users.noreply.github.com
-	Accenture Australia until 2020-07-01
-	Infracloud Technologies INC from 2020-07-01 until 2021-12-01
-	Lummo from 2021-12-01 until 2022-11-01
-	CloudRaft from 2022-11-01

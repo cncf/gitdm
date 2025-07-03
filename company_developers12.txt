@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Unterbau:
+	gnunicorn: gnunicorn!users.noreply.github.com from 2018-02-01 until 2018-12-01
 Untether AI:
 	RohitKochhar: RohitKochhar!users.noreply.github.com from 2020-09-01 until 2022-04-01
 	kintel: kintel!users.noreply.github.com, marius!kintel.net from 2018-11-01 until 2019-12-01
@@ -5168,7 +5170,7 @@ WEX:
 	awsprof: awsprof!users.noreply.github.com from 2020-02-01 until 2021-08-01
 	rnhurt: rnhurt!kangaroobox.com, rnhurt!users.noreply.github.com from 2017-10-01 until 2018-04-01
 WEXO:
-	kimsondrup: 8328984+kimsondrup!users.noreply.github.com, k8m!sondrup.io, kim!sondrup.io, kim!sondrup.xyz, kim!wexo.dk, kim-sondrup!users.noreply.github.com, kimsondrup!users.noreply.github.com, kis!netcompany.com, kso!commentor.dk, kso!netic.dk from 2015-02-01 until 2018-08-01
+	kimsondrup: 8328984+kimsondrup!users.noreply.github.com, k8m!sondrup.io, kim!sondrup.io, kim!sondrup.xyz, kim!wexo.dk, kim-sondrup!users.noreply.github.com, kimsondrup!users.noreply.github.com, kis!netcompany.com, kisp!kamstrup.com, kso!commentor.dk, kso!netic.dk from 2015-02-01 until 2018-08-01
 WEZOM:
 	dutchenkoOleg: dutchenko.o.dev!gmail.com, dutchenkoOleg!users.noreply.github.com
 WEZR:
@@ -16440,6 +16442,9 @@ lowRISC CIC:
 loxilb:
 	PacketCrunch: PacketCrunch!users.noreply.github.com
 	TrekkieCoder: TrekkieCoder!users.noreply.github.com
+ltd:
+	MartinForReal: MartinForReal!users.noreply.github.com, fanshangxiang!gmail.com from 2018-11-01 until 2020-06-01
+	scottf: scottf!users.noreply.github.com from 2018-11-01 until 2020-06-01
 lthinx GmbH:
 	xueliu: liuxuenetmail!gmail.com from 2017-12-01 until 2018-01-01
 lululemon:
@@ -16827,11 +16832,3 @@ moovel Group:
 	iximiuz: iximiuz!gmail.com from 2017-06-01 until 2019-07-01
 morhipo:
 	umitseremet: umitseremet!users.noreply.github.com from 2017-01-01 until 2018-05-01
-mos.ru:
-	2327: 2327!users.noreply.github.com, max!2327.ru from 2018-09-01 until 2019-09-01
-motion.social:
-	jjhuff: jjhuff!mspin.net, jjhuff!users.noreply.github.com until 2017-09-01
-mountNpass:
-	frouioui: frouioui!users.noreply.github.com from 2019-02-01 until 2019-03-01
-move digital ag:
-	alin-amana: alin-amana!users.noreply.github.com from 2016-11-01

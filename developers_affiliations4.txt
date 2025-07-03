@@ -5,6 +5,23 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+ctlaux: mail!chrislaux.com
+	Deutsches Zentrum until 2018-12-01
+	Independent from 2018-12-01
+ctmarinas: catalin.marinas!arm.com, catalin.marinas!gmail.com
+	ARM
+ctmphuongg: ctmphuongg!users.noreply.github.com
+	Independent
+ctodea: ctodea!users.noreply.github.com
+	Independent until 2016-02-15
+	BiiT Sourcing Solutions from 2016-02-15 until 2017-03-15
+	EDICOM from 2017-03-15
+ctompkinson: ctompkinson!gmail.com
+	NET builder until 2015-09-01
+	You View TV Limited from 2015-09-01 until 2017-07-01
+	Space Ape Games from 2017-07-01
+ctozzi: ctozzi!fixate.io, ctozzi!users.noreply.github.com
+	Fixate IO
 ctrader321: ctrader321!gmail.com
 	Independent until 2015-07-01
 	SEFE Energy from 2015-07-01 until 2019-12-01
@@ -23870,14 +23887,3 @@ giodamelio: gio!damelio.net
 	Independent from 2023-01-01 until 2024-04-01
 	BackNine from 2024-04-01 until 2024-11-01
 	Fathom from 2024-11-01
-gioggi: gioggi!users.noreply.github.com
-	Independent until 2016-09-01
-	MEDISHARE Srl from 2016-09-01 until 2018-08-01
-	O3 Enterprise from 2018-08-01 until 2019-02-01
-	Shop-o-rama from 2019-02-01 until 2020-03-01
-	Independent from 2020-03-01 until 2020-09-02
-	WEBFORMAT from 2020-09-02
-gionapaolini: gionapaolini!users.noreply.github.com
-	Independent until 2016-06-01
-	Maastricht Disrupt from 2016-06-01 until 2018-07-01
-	CX Company from 2018-07-01
