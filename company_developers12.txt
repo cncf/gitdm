@@ -2,6 +2,30 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+University of Donja Gorica:
+	dherges: david!spektrakel.de, dherges!users.noreply.github.com until 2017-02-01
+	stv0g: post!steffenvogel.de, stv0g!users.noreply.github.com until 2015-03-01
+University of Florida:
+	Andor: Andor!users.noreply.github.com until 2015-10-01
+University of Illinois at Chicago:
+	ashwanikhemani: ashwani.khemani!gmail.com, ashwanikhemani!users.noreply.github.com from 2017-06-01 until 2018-05-01
+University of Indonesia (Fasilkom UI):
+	giovanism: giovanism!users.noreply.github.com from 2018-08-01 until 2018-11-01
+University of North Carolina at Charlotte:
+	azeemshaikh38: azeemshaikh38!gmail.com, azeemshaikh38!users.noreply.github.com from 2014-08-01 until 2014-12-01
+	pinkeshsharma: pinkeshsharma!users.noreply.github.com, pinkeshsharma89!gmail.com from 2015-10-01 until 2016-12-01
+University of Pennsylvania:
+	samanthakem: samanthakem!gmail.com, samanthakem!users.noreply.github.com
+University of Surrey:
+	V3ckt0r: V3ckt0r!users.noreply.github.com, burhan_abdi!hotmail.co.uk until 2015-04-01
+	ganchandrasekaran: ganchandrasekaran!users.noreply.github.com until 2016-12-01
+University of Technology Business and Design in Wismar:
+	mikaelh: mikael!try2.se, mikaelh!users.noreply.github.com until 2015-11-01
+University of Tsukuba:
+	Okabe-Junya: Okabe-Junya!users.noreply.github.com, junya.okabe!websci.cs.tsukuba.ac.jp from 2020-04-01
+University of Washington:
+	campionfellin: campionfellin!users.noreply.github.com from 2016-09-01 until 2017-06-01
+	mbforbes: maxforbes!google.com, mbforbes!users.noreply.github.com
 University of the Valley of Atemajac:
 	cameronbrunner: brunner!univa.com, cameronbrunner!users.noreply.github.com
 	joedborg: joedborg!users.noreply.github.com
@@ -2351,6 +2375,7 @@ Valtech:
 	maciejqantas: maciejqantas!users.noreply.github.com from 2014-04-01 until 2014-08-01
 	marecica2: marecica2!users.noreply.github.com from 2015-11-01 until 2019-01-01
 	pardahlman: pardahlman!users.noreply.github.com until 2016-09-01
+	tiagogalvao: tiagogalvao!users.noreply.github.com from 2022-01-01 until 2022-06-01
 	yoanisgil: gil.yoanis!gmail.com
 Valtech Mobility:
 	lgaida: lgaida!users.noreply.github.com from 2019-08-01
@@ -2572,6 +2597,7 @@ Varo Bank:
 	sepulworld: sepulworld!gmail.com, sepulworld!users.noreply.github.com, zane!ugh.cloud, zane.williamson!gmail.com from 2022-08-01
 Varonis Systems Ltd.:
 	eytan-avisror: adekock11!gmail.com, eytan-avisror!users.noreply.github.com, eytan.avisror!hotmail.com until 2015-01-01
+	sagilaufer1992: sagilaufer1992!users.noreply.github.com from 2025-05-01
 Varsity Tutors:
 	MarcoSchaefer: MarcoSchaefer!users.noreply.github.com from 2022-11-01
 	dawsonc623: dawsonc623!users.noreply.github.com from 2021-04-01
@@ -5168,6 +5194,8 @@ WACUL:
 	sasurau4: sasurau4!users.noreply.github.com from 2016-04-01 until 2018-02-01
 WAES:
 	EvertonSA: EvertonSA!users.noreply.github.com from 2022-07-01 until 2024-07-01
+WALA:
+	msamendinger: msamendinger!users.noreply.github.com until 2017-12-01
 WALLIX:
 	GuillaumeGomez: GuillaumeGomez!users.noreply.github.com, fcopardo!gmail.com, guillaume1.gomez!gmail.com from 2015-08-01 until 2016-09-01
 WALTLabs:
@@ -14553,6 +14581,7 @@ env0:
 	ohad1282: ohad1282!users.noreply.github.com from 2018-12-01
 	omry-hay: omry-hay!users.noreply.github.com from 2023-08-01
 	onhate: onhate!users.noreply.github.com from 2019-03-01 until 2020-02-01
+	sagilaufer1992: sagilaufer1992!users.noreply.github.com from 2022-01-01 until 2025-05-01
 	yaronya: yaronya!users.noreply.github.com from 2020-01-01
 envisia:
 	schmitch: c.schmitt!briefdomain.de, c.schmitt!envisia.de, schmitch!users.noreply.github.com
@@ -14607,6 +14636,8 @@ essentim:
 	itay-grudev: itay-grudev!users.noreply.github.com from 2023-07-01 until 2024-03-01
 estmob:
 	bskim45: bskim45!gmail.com, bskim45!users.noreply.github.com from 2016-02-01 until 2016-08-01
+etailiz:
+	robbert229: clifreeder!gmail.com, johnrowleyster!gmail.com, robbert229!users.noreply.github.com until 2014-09-01
 etailz:
 	brandonaikey: brandonaikey!users.noreply.github.com from 2017-12-01 until 2019-04-01
 eteration:
@@ -16816,42 +16847,3 @@ minu:
 	CoffiDev: CoffiDev!users.noreply.github.com, alexcuenca4!gmail.com from 2019-03-01
 mirada plc:
 	spacepluk: oscar.morante!mirada.tv, spacepluk!users.noreply.github.com
-mirantis:
-	koder-ua: koder-ua!users.noreply.github.com, koder.mail!gmail.com
-miro:
-	kkh913: kkh913!gmail.com from 2017-03-01 until 2017-05-01
-mist.io:
-	dimrozakis: dimrozakis!users.noreply.github.com until 2018-09-01
-mister bk!:
-	jackmu95: gregory.mazurek!gmail.com, jackmu95!users.noreply.github.com, jacob.mueller.elz!gmail.com
-mixi:
-	genkami: genkami!users.noreply.github.com, oftn.mofumofu!gmail.com
-	iamrare: 12945919+iamrare!users.noreply.github.com, iamrare!users.noreply.github.com
-	junpei-yoshino: junpei-yoshino!users.noreply.github.com
-	kaorimatz: kaorimatz!users.noreply.github.com from 2014-03-01 until 2016-12-01
-	kei01234kei: k.130.email!gmail.com, kei01234kei!users.noreply.github.com from 2023-02-01 until 2023-05-01
-	mohammedfakhar: fakhar.mohammad!mixi.co.jp, mohammedfakhar!users.noreply.github.com
-	nakabonne: nakabonne!gmail.com, nakabonne!users.noreply.github.com, rodriguez.nak!gmail.com from 2018-06-01 until 2018-08-01
-	riita10069: riita10069!users.noreply.github.com from 2020-11-01 until 2021-02-01
-	sanposhiho: sanposhiho!users.noreply.github.com from 2020-04-01 until 2020-08-01
-mixmaxhq:
-	ttacon: ttacon!gmail.com, ttacon!users.noreply.github.com
-mixslice:
-	zzq889: zzq889!gmail.com, zzq889!users.noreply.github.com
-mmhmm:
-	matthiasgubler: matthiasgubler!me.com, matthiasgubler!users.noreply.github.com from 2022-01-01
-mmm:
-	ralfbaechle: ralf!linux-mips.org
-mmmm:
-	Nodraak: Nodraak!users.noreply.github.com, adrienchardon!mailoo.org
-mnfst:
-	abaskakau: abaskakau!users.noreply.github.com from 2019-02-01
-mnubo:
-	sebastienc: sebastien.coutu!gmail.com, sebastienc!users.noreply.github.com
-moObie:
-	caioquirino: caioquirino!gmail.com from 2016-07-01 until 2017-03-01
-mobilcom-debitel:
-	ElioLopez: ElioLopez!users.noreply.github.com from 2020-03-01 until 2021-03-01
-mobile:
-	Jud: Jud!users.noreply.github.com from 2021-07-01 until 2022-10-01
-	lopitz: lopitz!users.noreply.github.com until 2016-01-01
