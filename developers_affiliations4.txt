@@ -7463,7 +7463,8 @@ dims: davanum!gmail.com, dims!linux.vnet.ibm.com, dims!users.noreply.github.com
 	Huawei Technologies Co. Ltd from 2017-04-24 until 2019-06-14
 	VMware Inc. from 2019-06-14 until 2022-09-23
 	CNCF from 2022-09-23 until 2023-03-01
-	AWS from 2023-03-01
+	AWS from 2023-03-01 until 2025-07-11
+	NVidia from 2025-07-14
 dimtruck: dimitry.ushakov!rackspace.com, dimtruck!users.noreply.github.com
 	Rackspace
 dimvar: dimvar!google.com
