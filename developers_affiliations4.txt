@@ -5,6 +5,20 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+csmarchbanks: csmarchbanks!gmail.com
+	Pipeworks Software until 2014-01-01
+	Savanna from 2014-01-01 until 2015-10-01
+	Rally Software Development Corp. from 2015-10-01 until 2018-01-01
+	FreshTracks.io (CA INC) from 2018-01-01 until 2018-11-01
+	Splunk Inc. from 2018-11-01 until 2021-01-01
+	Grafana Labs from 2021-01-01
+csmarchbanks: csmarchbanks!users.noreply.github.com
+	Pipeworks Software until 2014-01-01
+	Savanna from 2014-01-01 until 2015-10-01
+	Rally Software Development Corp. from 2015-10-01 until 2018-01-01
+	FreshTracksa from 2018-01-01 until 2018-11-01
+	Splunk Inc. from 2018-11-01 until 2021-01-01
+	Grafana Labs from 2021-01-01
 csmart: chris!distroguy.com
 	Independent until 2017-01-15
 	Rackspace from 2017-01-15
@@ -7464,7 +7478,7 @@ dims: davanum!gmail.com, dims!linux.vnet.ibm.com, dims!users.noreply.github.com
 	VMware Inc. from 2019-06-14 until 2022-09-23
 	CNCF from 2022-09-23 until 2023-03-01
 	AWS from 2023-03-01 until 2025-07-11
-	NVidia from 2025-07-14
+	NVIDIA Corporation from 2025-07-11
 dimtruck: dimitry.ushakov!rackspace.com, dimtruck!users.noreply.github.com
 	Rackspace
 dimvar: dimvar!google.com
@@ -10360,6 +10374,8 @@ drewda: drewda!users.noreply.github.com
 	Interline Brands Inc. from 2017-12-01
 drewfish: drew!folta.net, drewfish!users.noreply.github.com
 	Yahoo! Inc.
+drewftw: drewftw!users.noreply.github.com
+	Capital One Financial Corporation
 drewhemm: ahemming!cambridge.org, andrew!footprintmedia.net, drewhemm!users.noreply.github.com
 	Footprint Media IT Services Ltd
 drewinglis: drew!drewinglis.com
@@ -23856,22 +23872,3 @@ ghophp: ghophp!gmail.com, ghophp!users.noreply.github.com
 	Humantech
 ghost974: bastien974!gmail.com, ghost974!users.noreply.github.com
 	D2C Media
-ghostinthewires: ellieniwru!hotmail.co.uk, ghostinthewires!users.noreply.github.com
-	WorkCast until 2016-03-01
-	Vianet from 2016-03-01 until 2017-06-01
-	EPAM Systems Inc from 2017-06-01 until 2018-02-01
-	GL Education from 2018-02-01 until 2019-03-01
-	DevOpsGroup from 2019-03-01 until 2021-03-01
-	Emeria from 2021-03-01 until 2022-09-01
-	Clue Software from 2022-09-01
-ghostplant: weicu!microsoft.com
-	Microsoft Corporation
-ghostsquad: ghost.squadron!gmail.com, ghostsquad!users.noreply.github.com
-	Independent until 2015-07-01
-	AudienceScience from 2015-07-01 until 2016-07-01
-	Outreach from 2016-07-01 until 2019-01-01
-	Independent from 2019-01-01 until 2019-09-01
-	TuneIn from 2019-09-01 until 2022-11-01
-	Zeet from 2022-11-01 until 2023-02-01
-	Everbridge from 2023-02-01 until 2024-02-01
-	Independent from 2024-02-01

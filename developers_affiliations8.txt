@@ -5,6 +5,19 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+rearranged: rearranged!users.noreply.github.com
+	eXa until 2019-01-01
+	Career Break from 2019-01-01 until 2019-10-01
+	eXa from 2019-10-01 until 2020-07-01
+	jambit from 2020-07-01 until 2021-01-01
+	XPOLI from 2021-01-01
+reasonerjt: jiangd!vmware.com, reasonerjt!users.noreply.github.com
+	VMware Inc.
+reasonthearchitect: reasonthearchitect!users.noreply.github.com
+	TEKsystems until 2018-02-01
+	Independent from 2018-02-01
+rebalag: gopinath!opsmx.com, rebalag!users.noreply.github.com
+	OpsMx
 rebeccaalpert: 7014965+rebeccaalpert!users.noreply.github.com, ralpert!redhat.com, rebecca.p.alpert!gmail.com, rebeccaalpert!users.noreply.github.com
 	Independent until 2017-04-01
 	Athenahealth Inc. from 2017-04-01 until 2017-09-01
@@ -725,7 +738,7 @@ rezakrimi: rezakrimi!users.noreply.github.com
 rezgi: rezgi!users.noreply.github.com
 	Rezgi
 rezmoss: hi!rezmoss.com, rez!cloudaid.net
-        Independent
+	Independent
 rf232: rf232!users.noreply.github.com, rfranken!google.com, rob!rob-franken.nl
 	Orkfia until 2014-12-01
 	Ametek Ortec from 2014-12-01 until 2016-07-01
@@ -12802,6 +12815,8 @@ shivam077: shivam077!users.noreply.github.com
 	Tata from 2021-05-01 until 2023-08-01
 	NielsenIQ from 2023-08-01 until 2024-08-01
 	Accenture Global Solutions Limited from 2024-08-01
+shivamarri: shivamarri!users.noreply.github.com
+	Capital One Financial Corporation
 shivamdurgbuns: shivamdurgbuns!gmail.com
 	Independent until 2018-09-01
 	Capgemini from 2018-09-01 until 2021-10-01
@@ -15049,6 +15064,7 @@ skk2142: skk2142!users.noreply.github.com
 	kollate from 2019-07-01 until 2022-01-01
 	HappyFunCorp from 2022-01-01
 skl: skl!users.noreply.github.com, stephen.lang!grafana.com
+	Independent until 2023-01-09
 	Grafana Labs from 2023-01-09
 skloss: skloss!users.noreply.github.com, stefan.kloss!smartfrog.com
 	Smartfrog
@@ -15638,6 +15654,8 @@ smalltown: smalltown!users.noreply.github.com
 	AMIS & MaiCoin
 smalnote: smalnote!gmail.com, smalnote!users.noreply.github.com
 	Myntra
+smamidala: smamidala!gmail.com, smamidala!users.noreply.github.com
+	Capital One Financial Corporation
 smamindla57: smamindla57!users.noreply.github.com
 	Independent until 2021-03-01
 	MANAC from 2021-03-01 until 2021-06-01
@@ -19210,6 +19228,8 @@ stephenhenderson: stephenhenderson!users.noreply.github.com
 	Magnetic until 2019-09-01
 	Deloitte from 2019-09-01 until 2020-03-01
 	Meta Platforms Inc. from 2020-03-01
+stephenhong: stephenhong!users.noreply.github.com
+	Capital One Financial Corporation
 stephenjannin: stephen.jannin!sgcib.com, stephenjannin!users.noreply.github.com
 	Société Générale
 stephenjust: abhiravredox!gmail.com, stephenjust!gmail.com
@@ -23756,25 +23776,3 @@ teddyking: aidan.kodi!gmail.com
 	Solo.io from 2022-03-14
 teddyking: ed!teddyking.co.uk, eking!pivotal.io, teddyking!users.noreply.github.com
 	Pivotal
-tedgxt: gxt20s!163.com, tedgxt!users.noreply.github.com
-	NetEase Inc
-tedhtchang: htchang!us.ibm.com, tedhtchang!users.noreply.github.com
-	International Business Machines Corporation
-tedivm: arthurbdiniz!gmail.com, tedivm!users.noreply.github.com
-	Vicarious until 2018-04-01
-	Rad AI from 2018-04-01 until 2021-04-01
-	Kenna from 2021-04-01 until 2021-06-01
-	Explosion from 2021-06-01 until 2022-03-01
-	Aptible from 2022-03-01 until 2022-11-01
-	Independent from 2022-11-01 until 2023-02-01
-	Comcast Cable Communications LLC (Xfinity) from 2023-02-01
-tedjpoole: tpoole!redhat.com
-	Red Hat Inc.
-tedli: lizhen!outlook.jp, lizhen!tenxcloud.com, tedli!users.noreply.github.com
-	TenxCloud
-tedmiston: tedmiston!gmail.com, tedmiston!users.noreply.github.com
-	Co-Ed Supply until 2014-01-01
-	Lisnr from 2014-01-01 until 2016-01-01
-	Independent from 2016-01-01 until 2017-04-01
-	Astronomer from 2017-04-01 until 2018-09-01
-	Tangram Flex Inc. from 2018-09-01

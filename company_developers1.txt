@@ -3335,7 +3335,7 @@ AWS:
 	dewjam: dewjam!users.noreply.github.com, jim.dewaard!gmail.com from 2018-11-01
 	dheerajgss: dheerajgss!users.noreply.github.com from 2021-07-01
 	dimakuz: dimakuz!users.noreply.github.com from 2021-10-01
-	dims: davanum!gmail.com, dims!linux.vnet.ibm.com, dims!users.noreply.github.com from 2023-03-01
+	dims: davanum!gmail.com, dims!linux.vnet.ibm.com, dims!users.noreply.github.com from 2023-03-01 until 2025-07-11
 	divya144: divya144!users.noreply.github.com from 2019-01-01 until 2020-06-01
 	divyansh-gupta: divyansh-gupta!users.noreply.github.com, guptadiv!amazon.com from 2016-05-01 until 2016-08-01, from 2017-08-01
 	divyasri537: divyasri0615!gmail.com, divyasri537!users.noreply.github.com, dsanagan!amazon.com from 2022-07-25
@@ -6186,7 +6186,7 @@ Agilysys Inc.:
 Agio:
 	mtbdeano: mtbdeano!users.noreply.github.com from 2020-06-01 until 2021-03-01
 Agitare:
-	toddysm: toddysm!users.noreply.github.com
+	toddysm: toddysm!users.noreply.github.com until 2020-03-14
 Agmatix:
 	eladh: eladh!users.noreply.github.com from 2019-10-01
 Agnostic:
@@ -9198,6 +9198,8 @@ Amazon Studios:
 	marioava: marioava!users.noreply.github.com until 2016-09-01
 Amazon Web Services Inc.:
 	PauloMigAlmeida: PauloMigAlmeida!users.noreply.github.com, paulo.miguel.almeida.rodenas!gmail.com from 2016-01-01 until 2017-05-01
+Amazon.com Inc.:
+	aadam19: aadam19!users.noreply.github.com from 2025-06-30 until 2025-09-26
 Ambarella:
 	federico-sysdig: federico-sysdig!users.noreply.github.com from 2018-09-01 until 2019-10-01
 	rfvermut: pveretennikovs!riskfocus.com, rfvermut!users.noreply.github.com until 2015-02-01
@@ -16041,7 +16043,3 @@ BXB Digital:
 	LanceEa: LanceEa!users.noreply.github.com from 2017-04-01
 BXTerminal:
 	alexykot: alexykot!gmail.com, alexykot!users.noreply.github.com until 2017-04-01
-BYD:
-	ikingye: ikingye!users.noreply.github.com, kingye.me!gmail.com until 2015-05-01
-BYG - BookYourGame:
-	aman-bansal: amanbansal!dgraph.io from 2016-06-01 until 2016-08-01
