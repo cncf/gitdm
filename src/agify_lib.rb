@@ -44,7 +44,8 @@ def get_age(name, login, cid)
     $g_agify_stats_mtx.with_write_lock { $g_agify_miss += 1 }
     # Write marker that data is computing now: false
     $g_agify_cache_mtx.with_write_lock { $g_agify_cache[[name, cid]] = false }
-    suri = "https://api.agify.io?name=#{URI.encode(name)}"
+    # suri = "https://api.agify.io?name=#{URI.encode(name)}"
+    suri = "https://api.agify.io?name=#{CGI.escape(name)}"
     suri += "&apikey=#{api_key}" if !api_key.nil? && api_key != ''
     suri += "&country_id=#{URI.encode(cid)}" if !cid.nil? && cid != ''
     begin

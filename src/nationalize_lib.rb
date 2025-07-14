@@ -44,7 +44,8 @@ def get_nat(name, login, prob)
     $g_nationalize_stats_mtx.with_write_lock { $g_nationalize_miss += 1 }
     # Write marker that data is computing now: false
     $g_nationalize_cache_mtx.with_write_lock { $g_nationalize_cache[name] = false }
-    suri = "https://api.nationalize.io?name=#{URI.encode(name)}"
+    # suri = "https://api.nationalize.io?name=#{URI.encode(name)}"
+    suri = "https://api.nationalize.io?name=#{CGI.escape(name)}"
     suri += "&apikey=#{api_key}" if !api_key.nil? && api_key != ''
     begin
       uri = URI.parse(suri)
