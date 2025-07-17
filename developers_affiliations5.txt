@@ -5,6 +5,23 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+geropl: geropl!users.noreply.github.com
+	Gitpod GmbH
+gerow: gerow!google.com, gerow!mgerow.com
+	Google LLC
+gerred: gerred!users.noreply.github.com, hello!gerred.com
+	Independent until 2015-06-01
+	Iron.io Inc. from 2015-06-01 until 2015-12-01
+	Deis from 2015-12-01 until 2016-12-01
+	Replicated Inc. from 2016-12-01 until 2018-03-01
+	D2iQ Inc. (f/k/a Mesosphere) from 2018-03-01 until 2021-05-01
+	Mycelial from 2021-05-01 until 2023-01-01
+	Defense Unicorns from 2023-01-01
+gerrit-photon: photon-checkins!vmware.com
+	VMware Inc.
+gerrit8143: gerrit8143!users.noreply.github.com
+	Independent until 2016-05-01
+	dreamIT from 2016-05-01
 gerrytan: gerry.tan!microsoft.com
 	Vantage until 2015-06-01
 	Atlassian from 2015-06-01 until 2024-07-01
@@ -23839,32 +23856,3 @@ julienfouilhe: julienfouilhe!users.noreply.github.com
 	Building Cash Permanent from 2022-03-01
 juliengk: github!kassisol.com, juliengk!users.noreply.github.com
 	Kassisol
-julienlevasseur: julienlevasseur!users.noreply.github.com
-	Ubisoft until 2016-05-01
-	AWS from 2016-05-01 until 2017-08-01
-	Desjardins Group from 2017-08-01 until 2017-11-01
-	OneSpan from 2017-11-01 until 2018-08-01
-	Independent from 2018-08-01 until 2019-08-01
-	Unity Technologies Youdy Software (Shanghai) Co. Ltd. from 2019-08-01 until 2020-03-01
-	BEEM from 2020-03-01 until 2020-12-01
-	AON3D from 2020-12-01 until 2021-11-01
-	Just Eat Takeaway from 2021-11-01 until 2022-09-01
-	coherence from 2022-09-01 until 2023-10-01
-	Independent from 2023-10-01 until 2024-01-01
-	Petal from 2024-01-01 until 2025-03-01
-	Smart Monkeys from 2025-03-01
-julienlim: diegocarreira.fr!gmail.com, julim!redhat.com
-	Red Hat Inc. until 2019-10-01
-	Amazon from 2019-10-01
-julienlim: julienlim!users.noreply.github.com
-	Red Hat Inc.
-julienp: julien!caffeine.lu, julienp!users.noreply.github.com
-	Lineheart until 2015-10-01
-	Talentsquare from 2015-10-01 until 2016-08-01
-	Elium from 2016-08-01 until 2020-02-01
-	GatsbyJS from 2020-02-01
-julienperignon: julienperignon!users.noreply.github.com, perignon.julien!gmail.com
-	Netapsys until 2016-05-01
-	Independent from 2016-05-01 until 2016-10-01
-	Host/Havas from 2016-10-01 until 2020-01-01
-	WealthO2 from 2020-01-01

@@ -5,6 +5,22 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+crobby: crobby!users.noreply.github.com, croberts!redhat.com
+	Red Hat Inc.
+crobert-1: crobert-1!users.noreply.github.com
+	Independent until 2016-05-01
+	Dell Technologies from 2016-05-01 until 2021-10-01
+	Splunk Inc. from 2021-10-01
+crobinso: crobinso!redhat.com
+	Red Hat Inc.
+crockeo: crockeo!users.noreply.github.com
+	Independent until 2015-07-01
+	Bongoware from 2015-07-01 until 2018-07-01
+	Meta Platforms Inc. from 2018-07-01 until 2018-08-01
+	Independent from 2018-08-01 until 2019-02-01
+	Independent from 2019-02-01 until 2019-06-01
+	Lyft Inc. from 2019-06-01 until 2019-08-01
+	Lyft Inc. from 2019-08-01
 crockpotveggies: crockpotveggies!users.noreply.github.com
 	3 tier logic until 2015-08-01
 	Bernie from 2015-08-01 until 2017-10-01
@@ -23856,20 +23872,3 @@ gernest: geofreyernest!live.com
 	Independent from 2017-12-01 until 2018-08-01
 	Ably from 2018-08-01 until 2018-11-01
 	Tyk Technologies Ltd. from 2018-11-01
-geropl: geropl!users.noreply.github.com
-	Gitpod GmbH
-gerow: gerow!google.com, gerow!mgerow.com
-	Google LLC
-gerred: gerred!users.noreply.github.com, hello!gerred.com
-	Independent until 2015-06-01
-	Iron.io Inc. from 2015-06-01 until 2015-12-01
-	Deis from 2015-12-01 until 2016-12-01
-	Replicated Inc. from 2016-12-01 until 2018-03-01
-	D2iQ Inc. (f/k/a Mesosphere) from 2018-03-01 until 2021-05-01
-	Mycelial from 2021-05-01 until 2023-01-01
-	Defense Unicorns from 2023-01-01
-gerrit-photon: photon-checkins!vmware.com
-	VMware Inc.
-gerrit8143: gerrit8143!users.noreply.github.com
-	Independent until 2016-05-01
-	dreamIT from 2016-05-01
