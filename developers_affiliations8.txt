@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+rbrtbnfgl: rbrtbnfgl!users.noreply.github.com
+	Independent until 2018-02-01
+	Tiesse from 2018-02-01 until 2021-11-01
+	SUSE LLC from 2021-11-01
 rbrto: robertoesparza3!gmail.com
 	Independent until 2015-05-01
 	Gestran S.A. from 2015-05-01 until 2015-08-01
@@ -23779,7 +23783,3 @@ tbetbetbe: tbetbetbe!users.noreply.github.com
 	Independent from 2016-12-01
 tbetker-rs: thomas.betker!rohde-schwarz.com
 	Independent
-tbg: tbg!users.noreply.github.com, tobias.schottdorf!gmail.com
-	Cockroach Labs
-tbielawa: tbielawa!redhat.com, tbielawa!users.noreply.github.com, terciodemelo!gmail.com
-	Red Hat Inc.

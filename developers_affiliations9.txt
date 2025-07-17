@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+tbg: tbg!users.noreply.github.com, tobias.schottdorf!gmail.com
+	Cockroach Labs
+tbielawa: tbielawa!redhat.com, tbielawa!users.noreply.github.com, terciodemelo!gmail.com
+	Red Hat Inc.
 tbingaman: tbingaman!opencloud.com, timothy.bingaman!gmail.com
 	OpenCloud until 2017-02-01
 	Metaswitch Networks from 2017-02-01
@@ -3422,6 +3426,8 @@ titaneric: chenyihuang001!gmail.com, titaneric!users.noreply.github.com
 	LINE from 2022-12-01
 titanous: jonathan!titanous.com, titanous!users.noreply.github.com
 	Flynn
+titi0001: 56649928+titi0001!users.noreply.github.com, titiura!gmail.com
+	Independent
 titilambert: thibault.cohen!nuance.com, titilambert!users.noreply.github.com
 	Nuance Communications Inc. until 2017-01-01
 	Manulife Financial from 2017-01-01 until 2019-04-01
@@ -21668,5 +21674,3 @@ zzzhy: candle_1667!163.com, zzzhy!users.noreply.github.com
 	Meituan
 zzztimbo: zzztimbo!users.noreply.github.com
 	Red Hat Inc.
-titi0001: titiura@gmail.com, 56649928+titi0001@users.noreply.github.com
-	Independent until 2021-06-01
