@@ -15836,9 +15836,10 @@ skrese: skrese!users.noreply.github.com
 	Bitstamp from 2022-04-01
 skreuzer: skreuzer!freebsd.org, skreuzer!users.noreply.github.com
 	FreeBSD
-skriss: krisss!vmware.com, skriss!users.noreply.github.com, stephen.kriss!gmail.com, steve!heptio.com
+skriss: skriss!redhat.com, krisss!vmware.com, skriss!users.noreply.github.com, stephen.kriss!gmail.com, steve!heptio.com
 	Heptio Inc. until 2018-12-11
-	VMware Inc. from 2018-12-11
+	VMware Inc. from 2018-12-11 until 2024-10-01
+	Red Hat Inc. from 2025-06-01
 skristiansson: konghui!live.cn, stefan.kristiansson!saunalahti.fi
 	Espotel Oy until 2015-04-01
 	NVIDIA Corporation from 2015-04-01
