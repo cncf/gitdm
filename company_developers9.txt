@@ -2,6 +2,29 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Nominet:
+	danielloader: danielloader!users.noreply.github.com from 2022-06-01 until 2023-06-01
+Nominum:
+	kozhukalov: kozhukalov!users.noreply.github.com from 2017-05-01 until 2018-01-01
+	skandragon: explorer!flame.org, explorer-github!flame.org, skandragon!users.noreply.github.com until 2016-06-01
+Nomios:
+	camaeel: camaeel!users.noreply.github.com from 2021-01-01 until 2021-12-01
+Nomis:
+	swar8080: swar8080!users.noreply.github.com from 2017-09-01 until 2017-12-01
+Nomitri:
+	henrikengelbrink: henrikengelbrink!users.noreply.github.com from 2019-11-01 until 2020-09-01
+Nomits:
+	AyWa: AyWa!users.noreply.github.com, marc.hurabielle!gmail.com from 2015-01-01 until 2015-02-01
+Nomono:
+	OysteinVesth: OysteinVesth!users.noreply.github.com from 2020-09-01
+	trondhindenes: trond!hindenes.com, trondhindenes!users.noreply.github.com from 2021-09-01
+	troyconder: troy.cui!gmail.com from 2021-09-01
+	trthomps: 773640911!qq.com, trthomps!users.noreply.github.com from 2021-09-01
+	tsoome: tsoome!me.com from 2021-09-01
+	tspaeth: info!spaeth.org from 2021-09-01
+	tsums: tsummerfield!google.com from 2021-09-01
+Nomos:
+	andreatosato: andrea.tosato!hotmail.it, andreatosato!users.noreply.github.com until 2015-01-01
 Nomura Group:
 	XudongLiuHarold: XudongLiuHarold!users.noreply.github.com, xudongliuharold!gmail.com from 2016-06-01 until 2016-08-01
 	avinilcode: avinilcode!users.noreply.github.com from 2018-06-01 until 2018-11-01
@@ -3597,6 +3620,8 @@ OpenTable:
 	vishalud: vishalud!users.noreply.github.com from 2015-12-01
 OpenTag:
 	ALX-TH: ALX-TH!users.noreply.github.com from 2020-07-01
+OpenTeams:
+	teoliphant: teoliphant!gmail.com from 2024-10-01
 OpenTech:
 	andipla: andi.platschek!gmail.com, andreas.platschek!opentech.at from 2015-08-01 until 2018-02-01
 OpenTelemetry:
@@ -13350,6 +13375,8 @@ Qlub:
 	ehsannm: ehsannm!users.noreply.github.com from 2021-09-01
 Qlue AB:
 	goober: goober!users.noreply.github.com, mathias.ahsberg!gmail.com from 2020-01-01
+Qluent:
+	stokedout: paul.stoker!hotmail.com from 2024-05-01
 Qmobi:
 	AKhoria: AKhoria!users.noreply.github.com from 2016-03-01 until 2016-08-01
 QnA Tech:
@@ -14253,6 +14280,8 @@ R3 labs:
 	repejota: raul.perez!r3labs.io, repejota!gmail.com, repejota!users.noreply.github.com from 2016-04-01
 R3PI:
 	radudd: radudd!users.noreply.github.com from 2018-09-01 until 2019-04-01
+R3al Blocks:
+	simonramosb: simonramosb!users.noreply.github.com from 2024-05-01 until 2025-02-01
 RA Army:
 	HaykManukyanAvetiky: HaykManukyanAvetiky!users.noreply.github.com from 2018-08-01 until 2020-08-01
 RAA:
@@ -16110,6 +16139,7 @@ Reaktor:
 	mpeltonen: mikko.peltonen!reaktor.fi, mpeltonen!users.noreply.github.com
 	petkaantonov: petka.antonov!gmail.com, petka_antonov!hotmail.com, petkaantonov!users.noreply.github.com from 2014-01-01
 	pvdlg: pierre.denis.vanduynslager!gmail.com, pvdlg!users.noreply.github.com from 2018-04-01
+	tmatilai: teemu.matilainen!iki.fi until 2019-11-01
 	wolverian: cedric.den.haese!gmail.com, ilmari.vacklin!iki.fi, wolverian!users.noreply.github.com
 Real:
 	jaydeluca: jaydeluca!users.noreply.github.com from 2016-10-01 until 2017-10-01

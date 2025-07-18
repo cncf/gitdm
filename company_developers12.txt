@@ -2,6 +2,21 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+UnitedHealth:
+	JeremyAlosio: JeremyAlosio!users.noreply.github.com from 2016-01-01 until 2016-08-01
+	btrieger: brieger!vmware.com, btrieger!users.noreply.github.com from 2020-01-01 until 2021-04-01
+	doddatpivotal: doddatpivotal!users.noreply.github.com until 2018-02-01
+	jia-zhengwei: jia-zhengwei!users.noreply.github.com from 2018-04-01 until 2020-11-01
+	piyushgupta1551: piyushgupta1551!users.noreply.github.com from 2018-06-01 until 2021-03-01
+	xmlking: xmlking!users.noreply.github.com, xmlking+github!gmail.com from 2022-05-01
+	ykakarap: ykakarap!users.noreply.github.com, ykakaraparth!vmware.com, yuva2811!gmail.com until 2018-08-01
+UnitedHealth Group:
+	PatrickSplice: PatrickSplice!users.noreply.github.com until 2019-04-01
+	PeterLamar: PeterLamar!users.noreply.github.com, peter.r.lamar!gmail.com, peterrlamar!gmail.com
+	carpenike: carpenike!users.noreply.github.com, ryan!ryanholt.net until 2014-12-01
+	distortedsignal: distortedsignal!users.noreply.github.com until 2016-07-01
+	ianstanton: ianstanton!users.noreply.github.com from 2016-06-01 until 2019-03-01
+	rmb938: rmb938!users.noreply.github.com, ryan!belgrave.me, ryan.belgrave!optum.com from 2018-09-01
 UnitedStack:
 	MatheMatrix: damon.devops!gmail.com from 2014-04-20
 	MatheMatrix: wangwei!unitedstack.com from 2014-04-20
@@ -1055,6 +1070,7 @@ VMFive:
 VML:
 	chainat: chainat!gmail.com, chainat!users.noreply.github.com until 2015-02-01
 	jjtroberts: jjtroberts!users.noreply.github.com from 2014-08-01 until 2015-08-01
+	simonramosb: simonramosb!users.noreply.github.com from 2021-08-01 until 2022-11-01
 VMN+:
 	mchurichi: mchurichi!gmail.com, mchurichi!users.noreply.github.com from 2015-07-01 until 2016-03-01
 VMPath:
@@ -1962,7 +1978,7 @@ VMware Inc.:
 	siju-vasudevan: siju-vasudevan!users.noreply.github.com from 2016-09-01 until 2017-05-01
 	skarthiksrinivas: ksundararaman!vmware.com, skarthiksrinivas!users.noreply.github.com
 	skaslev: kaslevs!vmware.com, skaslev!users.noreply.github.com, slavomir.kaslev!gmail.com
-	skriss: krisss!vmware.com, skriss!users.noreply.github.com, stephen.kriss!gmail.com, steve!heptio.com from 2018-12-11
+	skriss: krisss!vmware.com, skriss!redhat.com, skriss!users.noreply.github.com, stephen.kriss!gmail.com, steve!heptio.com from 2018-12-11 until 2024-10-01
 	slevine111: slevine111!gmail.com from 2020-01-01 until 2022-08-01
 	slimm609: slimm609!gmail.com, slimm609!users.noreply.github.com from 2020-07-12
 	sonasingh46: ashutosh.kumar!mayadata.io, ashutosh.kumar!openebs.io, sonasingh46!gmail.com, sonasingh46!users.noreply.github.com from 2021-08-01 until 2023-06-01
@@ -3560,6 +3576,7 @@ Ververica | Original creators of Apache Flink®:
 	metaswirl: metaswirl!users.noreply.github.com from 2021-11-01
 	pnowojski: pnowojski!users.noreply.github.com from 2017-05-01
 	rmetzger: rmetzger!users.noreply.github.com from 2014-08-01
+	webertrlz: webertrlz!users.noreply.github.com, weberts!live.com from 2023-05-01
 Very Good Security:
 	Iapetus999: Iapetus999!users.noreply.github.com from 2020-08-01
 	anavarreteuk: a.navarrete.uk!gmail.com from 2022-01-01
@@ -8408,6 +8425,8 @@ Woorank spl:
 	bcorijn: bruno!woorank.com
 Woori FIS:
 	sangkyu-korbit: sangkyu-korbit!users.noreply.github.com from 2024-05-01
+Wootic:
+	simonramosb: simonramosb!users.noreply.github.com from 2025-02-01
 Woowa Bros:
 	seong7: seong7!users.noreply.github.com, seongjinkim1123!gmail.com from 2019-05-01
 Wopata:
@@ -12508,6 +12527,8 @@ Zynga Inc.:
 	siddharthasonker95: siddharthasonker95!users.noreply.github.com from 2020-06-01 until 2023-12-01
 	suhuruli: suhuruli!users.noreply.github.com from 2015-09-01 until 2015-12-01
 	suskin: suskin!users.noreply.github.com until 2014-03-01
+Zyphra:
+	teoliphant: teoliphant!gmail.com from 2024-04-01 until 2024-10-01
 Zysman Aharoni Gayer & Co.:
 	PauloMigAlmeida: PauloMigAlmeida!users.noreply.github.com, paulo.miguel.almeida.rodenas!gmail.com from 2017-05-01
 	vjunior1981: vjunior1981!users.noreply.github.com from 2018-03-01 until 2019-05-01
@@ -12639,6 +12660,7 @@ adesso:
 	prochnowc: prochnowc!users.noreply.github.com from 2020-01-01
 	skuehnlein: skuehnlein!users.noreply.github.com from 2021-08-01
 	thombergs: thombergs!users.noreply.github.com, tom.hombergs!gmail.com until 2019-09-01
+	tiwood: tiwood!users.noreply.github.com from 2016-01-01 until 2022-12-01
 	victorgetz: victor.getz!impresssol.de, victorgetz!users.noreply.github.com until 2014-12-01
 adesso AG:
 	SebastianM: SebastianM!users.noreply.github.com
@@ -16786,30 +16808,3 @@ lixiang:
 	adamzhoul: adamzhoul!users.noreply.github.com
 lll:
 	RPing: RPing!users.noreply.github.com, g1222888!gmail.com
-lnfobip d.o.o:
-	dlozina: dlozina!users.noreply.github.com from 2021-08-01 until 2022-08-01
-	eldarj: eldar.jah!gmail.com from 2021-10-01 until 2021-11-01
-	elvanja: elvanja!gmail.com, elvanja!users.noreply.github.com until 2017-01-01
-	gek0: gek0!users.noreply.github.com, matijaburisa!gmail.com from 2018-07-01 until 2022-03-01
-	iobestar: iobestar!users.noreply.github.com, ivica.obestar!gmail.com
-	ivankisic: ivankisic!users.noreply.github.com from 2020-01-01
-localsearch:
-	loomsen: loomsen!gmail.com, loomsen!users.noreply.github.com from 2019-08-01 until 2020-07-01
-log-os:
-	Phanindra48: Phanindra48!users.noreply.github.com, phanindra.nitw!gmail.com
-loklak:
-	daminisatya: aladjev.andrew!gmail.com, brightdanawhite!gmail.com, daminisatya!gmail.com, daminisatya!users.noreply.github.com, etuscano!equinix.com, shane!lawrence.dev from 2016-04-01 until 2016-08-01
-loku (internship):
-	Joel-hanson: joelhanson2511995!gmail.com from 2016-10-01 until 2017-07-01
-look local for:
-	Rupeshiya: Rupeshiya!users.noreply.github.com, rupeshiya!gmail.com from 2019-05-01 until 2019-07-01
-love the brands:
-	AnaisUrlichs: AnaisUrlichs!users.noreply.github.com from 2017-10-01 until 2018-03-01
-	anais-codefresh: anais-codefresh!users.noreply.github.com from 2017-10-01 until 2018-03-01
-loveholidays:
-	efmr: edgar.marques.ribeiro!gmail.com from 2020-02-01 until 2020-05-01
-	efmr: efmr!users.noreply.github.com from 2020-02-01 until 2020-05-01
-	jpantsjoha: jpantsjoha!users.noreply.github.com from 2017-06-01 until 2019-09-01
-	queeno: queeno!users.noreply.github.com, simon!norix.co.uk, simon.aquino!kpmg.co.uk from 2020-03-01
-lowRISC:
-	jprendes: jprendes!users.noreply.github.com from 2022-01-01 until 2023-05-01
