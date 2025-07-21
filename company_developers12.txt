@@ -2,6 +2,9 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+United.Cloud:
+	ljubon: ljubon!users.noreply.github.com from 2019-04-01 until 2019-11-01
+	nklmilojevic: nklmilojevic!users.noreply.github.com from 2017-05-01 until 2018-10-01
 UnitedHealth:
 	JeremyAlosio: JeremyAlosio!users.noreply.github.com from 2016-01-01 until 2016-08-01
 	btrieger: brieger!vmware.com, btrieger!users.noreply.github.com from 2020-01-01 until 2021-04-01
@@ -262,6 +265,7 @@ UpCloud:
 	scop: scop!users.noreply.github.com, ville.skytta!iki.fi from 2018-01-01
 UpGuard:
 	HarithaRamesh: HarithaRamesh!users.noreply.github.com from 2016-01-01 until 2016-12-01, from 2017-07-01 until 2020-12-01
+	aarontatar-upguard: aaron.tatar!upguard.com from 2025-01-01
 	cheynewallace: cheyne.wallace!gmail.com, cheynewallace!users.noreply.github.com
 	hasanatkazmi: hasanatkazmi!gmail.com, hasanatkazmi!users.noreply.github.com from 2016-08-15
 	pmsanford: me!paulsanford.net, pmsanford!users.noreply.github.com from 2016-11-01 until 2018-06-01
@@ -3075,6 +3079,7 @@ VenueSafe:
 Venus Data Products:
 	tkhoiwal: tara.khoiwal!gmail.com, tkhoiwal!cisco.com, tkhoiwal!users.noreply.github.com until 2006-03-31
 Veo:
+	abstrask: abstrask!users.noreply.github.com from 2022-04-01
 	jmhautbois: jean-michel.hautbois!vodalys.com until 2017-04-01
 Veolia:
 	AYDEV-FR: aymeric.deliencourt!isen.yncrea.fr from 2018-07-01 until 2018-08-01
@@ -4723,6 +4728,8 @@ Vivy GmbH:
 Vix:
 	evansgp: evans.g.p!gmail.com from 2015-10-01 until 2017-10-01
 	mprimeaux: mprimeaux!users.noreply.github.com from 2016-02-01 until 2018-07-01
+Vixlet:
+	zaaath: zaaath!users.noreply.github.com until 2015-10-01
 Viz:
 	federico-sysdig: federico-sysdig!users.noreply.github.com from 2021-06-01 until 2022-01-01
 Viz Expres:
@@ -10664,6 +10671,7 @@ YouTube:
 	Richardinho: Damienr74!gmail.com, Richardinho!users.noreply.github.com, hanxue.developer!gmail.com, karel291180!gmail.com, richard!richardhunter.co.uk from 2018-05-01 until 2018-08-01
 	SaschaHeyer: SaschaHeyer!users.noreply.github.com, mail!saschaheyer.de from 2022-06-01
 	Susmita-Dey: susmitadey475!gmail.com from 2021-07-01 until 2022-02-01
+	aarontatar-upguard: aaron.tatar!upguard.com until 2017-06-01
 	bariscankurtkaya: bariscankurtkaya!gmail.com from 2019-03-01 until 2019-07-01
 	damienr74: damienr74!gmail.com, damienr74!users.noreply.github.com from 2018-05-01 until 2018-08-01
 	danielromlein: danielromlein!users.noreply.github.com, dromlein!apprenda.com, dromlein.apprenda!gmail.com from 2020-03-01
@@ -14777,6 +14785,7 @@ enterface:
 entri:
 	vmr1532: vmr1532!users.noreply.github.com from 2019-06-01 until 2019-07-01
 env0:
+	AdamElgressy: AdamElgressy!users.noreply.github.com from 2023-10-01 until 2024-02-01
 	Evi1Pumpkin: ronny.orot!gmail.com from 2022-08-01 until 2023-12-01
 	RLRabinowitz: RLRabinowitz!users.noreply.github.com from 2020-05-01
 	adirook: adirook!users.noreply.github.com from 2020-04-01 until 2020-08-01
@@ -16798,13 +16807,3 @@ linte:
 	WoLfulus: WoLfulus!users.noreply.github.com until 2014-12-01
 lintops:
 	OctavioCore: OctavioCore!users.noreply.github.com from 2019-04-01 until 2019-11-01
-listen.dev:
-	fntlnz: fntlnz!users.noreply.github.com, fontanalorenz!gmail.com, lo!linux.com from 2022-03-01
-litl:
-	jwilder: jwilder!users.noreply.github.com from 2014-02-01 until 2015-03-01
-liwwa:
-	majorgreys: tahir!tahirbutt.com from 2018-05-01 until 2018-09-01
-lixiang:
-	adamzhoul: adamzhoul!users.noreply.github.com
-lll:
-	RPing: RPing!users.noreply.github.com, g1222888!gmail.com

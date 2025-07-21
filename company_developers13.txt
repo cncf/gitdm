@@ -2,6 +2,16 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+listen.dev:
+	fntlnz: fntlnz!users.noreply.github.com, fontanalorenz!gmail.com, lo!linux.com from 2022-03-01
+litl:
+	jwilder: jwilder!users.noreply.github.com from 2014-02-01 until 2015-03-01
+liwwa:
+	majorgreys: tahir!tahirbutt.com from 2018-05-01 until 2018-09-01
+lixiang:
+	adamzhoul: adamzhoul!users.noreply.github.com
+lll:
+	RPing: RPing!users.noreply.github.com, g1222888!gmail.com
 lnfobip d.o.o:
 	dlozina: dlozina!users.noreply.github.com from 2021-08-01 until 2022-08-01
 	eldarj: eldar.jah!gmail.com from 2021-10-01 until 2021-11-01
@@ -2690,6 +2700,8 @@ zhejianglab:
 	zhuyaguang: zhuyaguang!users.noreply.github.com
 zhongyuanbank:
 	shaoyifeng1013: shaoyifeng1013!users.noreply.github.com
+zisom-hc:
+	zisom-hc: zisom-hc!users.noreply.github.com
 zjut:
 	zhuxindong: 501801307!qq.com
 znly:
