@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ -z "${PG_PASS}"
+if [ -z "${PG_PASS}" ]
 then
   echo "$0: you need to specify PG_PASS='...'"
   exit 1
