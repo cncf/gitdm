@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Unannounced:
+	davidolorundare: crystilis!gmail.com, david.o!ieee.org
 Unata:
 	garycourt: gary.court!gmail.com, garycourt!users.noreply.github.com from 2016-02-01 until 2017-01-01
 Unbabel:
@@ -16773,5 +16775,3 @@ isMobile:
 	AntiSC2: sinclair.jakob!mailbox.org from 2017-06-01 until 2019-07-01, from 2020-05-01
 isgood.ai:
 	MarkCupitt: MarkCupitt!users.noreply.github.com from 2019-11-01 until 2020-09-01
-isolutions AG:
-	eluchsinger: eluchsinger!users.noreply.github.com, eluchsingerm!hotmail.com from 2018-09-01
