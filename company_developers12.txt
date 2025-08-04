@@ -2,6 +2,14 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Ukrinmash:
+	admssa: admssa!users.noreply.github.com until 2016-08-01
+Ukrlandfarming:
+	korjek: korjek!users.noreply.github.com until 2015-12-01
+Ulaanbaatar Railway Joint Venture Company:
+	eegiimgl: eochirbat!brightpower.com until 2015-11-01
+Ulam:
+	norbertcyran: cyran.norbert97!gmail.com from 2019-08-01 until 2023-09-01
 Ulaştırma ve Altyapı Bakanlığı:
 	zekiyeaydemir: zekiyeaydemir!users.noreply.github.com from 2015-10-01 until 2015-11-01
 Uline:
@@ -1518,6 +1526,8 @@ VIT Linux User Group:
 	aryanshridhar: aryanshridhar!users.noreply.github.com from 2020-12-01
 VIT_Animation:
 	TenzDelek: TenzDelek!users.noreply.github.com from 2022-03-01 until 2023-03-01
+VIU Eyewear:
+	Kosmas: Kosmas!mach7x.com, Kosmas!users.noreply.github.com from 2017-12-01 until 2020-06-01
 VIVACOM:
 	grglzrv: grglzrv!users.noreply.github.com, lazarovgogo!gmail.com from 2016-05-01 until 2018-05-01
 VIX:
@@ -8169,6 +8179,7 @@ WilkinsonEyre:
 WillCall:
 	pat2man: pat2man!gmail.com
 William Hill:
+	Liath: Liath!users.noreply.github.com, john!exthilion.org from 2019-09-01 until 2020-09-01
 	angelosanramon: angelosanramon!users.noreply.github.com from 2019-03-01 until 2019-07-01
 	bekbulatov: alexander!bekbulatov.ru, bekbulatov!users.noreply.github.com
 	costap: costap!users.noreply.github.com, pedrof.costa!gmail.com until 2019-12-01
@@ -16760,5 +16771,3 @@ inoio:
 	caraboides: caraboides!users.noreply.github.com from 2016-01-01
 inovativ:
 	marcvaneijk: marcvaneijk!users.noreply.github.com until 2016-04-01
-inovel:
-	ChristianLutz: ChristianLutz!users.noreply.github.com

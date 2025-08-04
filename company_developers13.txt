@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+inovel:
+	ChristianLutz: ChristianLutz!users.noreply.github.com
 inovex GmbH:
 	DSchmidtDev: DSchmidtDev!users.noreply.github.com from 2016-12-01
 	Lennart01: Lennart01!users.noreply.github.com from 2022-09-01
@@ -1672,6 +1674,8 @@ pink:
 	alexsotocx: alexsotocx!users.noreply.github.com from 2022-01-01
 pintec:
 	du2016: du2016!users.noreply.github.com, leave24534!gmail.com
+piplanning.io:
+	Kosmas: Kosmas!mach7x.com, Kosmas!users.noreply.github.com from 2020-06-01 until 2020-10-01
 pixitmedia:
 	OrlandoArcapix: OrlandoArcapix!users.noreply.github.com from 2016-10-01
 	danfoster: dan!zem.org.uk from 2018-09-01
