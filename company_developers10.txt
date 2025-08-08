@@ -2,6 +2,53 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Reaktor:
+	alex-gunning: alex-gunning!users.noreply.github.com from 2022-03-01
+	chrisdoc: chrisdoc!users.noreply.github.com from 2017-05-01 until 2020-10-01
+	felixheinonen: felixheinonen!users.noreply.github.com from 2021-08-01
+	jussimalinen: jussi.ao.malinen!gmail.com
+	mpeltonen: mikko.peltonen!reaktor.fi, mpeltonen!users.noreply.github.com
+	petkaantonov: petka.antonov!gmail.com, petka_antonov!hotmail.com, petkaantonov!users.noreply.github.com from 2014-01-01
+	pvdlg: pierre.denis.vanduynslager!gmail.com, pvdlg!users.noreply.github.com from 2018-04-01
+	tmatilai: teemu.matilainen!iki.fi until 2019-11-01
+	wolverian: cedric.den.haese!gmail.com, ilmari.vacklin!iki.fi, wolverian!users.noreply.github.com
+Real:
+	jaydeluca: jaydeluca!users.noreply.github.com from 2016-10-01 until 2017-10-01
+Real Asset Management:
+	kapekost: kapekost!gmail.com, kapekost!users.noreply.github.com until 2016-02-01
+Real Estate Webmasters:
+	StevenBarre: StevenBarre!users.noreply.github.com, steven.barre!dxcas.com until 2016-05-01
+	evangsea: evan.g.seabrook!gmail.com from 2016-03-01 until 2019-12-01
+	evanseabrook: evan.g.seabrook!gmail.com, evanseabrook!users.noreply.github.com from 2016-03-01 until 2019-12-01
+	wrossmann: wrossmann!users.noreply.github.com until 2018-10-01
+Real Impact Analytics:
+	HongHuangNeu: HongHuangNeu!users.noreply.github.com, ground.huanghong!gmail.com from 2015-08-01 until 2015-09-01, from 2016-01-01 until 2016-11-01
+Real Kinetic:
+	alexandercampbell: alexandercampbell!users.noreply.github.com, alexanderhcampbell!gmail.com from 2017-08-01
+	tylertreat: ttreat31!gmail.com, tylertreat!users.noreply.github.com from 2018-01-01
+	tylertreat-wf: ttreat31!gmail.com, tyler.treat!workiva.com, tylertreat-wf!users.noreply.github.com from 2018-01-01
+Real Life Analytics:
+	junr03: junr03!users.noreply.github.com from 2014-08-01 until 2014-12-01
+Real Programming 4 Kids:
+	JiahuiCai: jiahui.cai.mail!gmail.com from 2016-10-01 until 2017-05-01
+Real Serious Games:
+	ashleydavis: 276692580!qq.com, ashley!codecapers.com.au, ashleydavis!users.noreply.github.com until 2017-01-01
+Real estate legal:
+	VasiliyS: VasiliyS!users.noreply.github.com until 2017-01-01
+RealBox:
+	nehagup: neha.gup!icloud.com, nehagup!users.noreply.github.com from 2015-05-01 until 2016-01-01
+RealCommerce Ltd:
+	kaplanelad: kaplan.elad!gmail.com, kaplanelad!users.noreply.github.com from 2014-11-01 until 2017-07-01
+RealCore:
+	AndreasKlein: AndreasKlein!users.noreply.github.com from 2016-09-01 until 2016-12-01, from 2019-01-01
+RealEstApp:
+	michaelharrigan: michaelharrigan!users.noreply.github.com from 2017-03-01 until 2017-05-01
+RealFace:
+	nitsanavni: nitsanav!gmail.com from 2016-01-01 until 2017-02-01
+RealMassive:
+	austinmcconnell: austin.s.mcconnell!gmail.com from 2017-05-01 until 2019-10-01
+RealNaut:
+	JParisR: JParisR!users.noreply.github.com from 2023-03-01
 RealPage Inc.:
 	davidthewatson: davidthewatson!gmail.com, davidthewatson!users.noreply.github.com from 2016-12-01 until 2018-01-01
 	grantbachman: grantbachman!gmail.com, grantbachman!users.noreply.github.com from 2017-12-01 until 2019-02-01
@@ -4597,6 +4644,8 @@ Revolgy:
 	vranystepan: vrany.stepan!gmail.com, vranystepan!users.noreply.github.com from 2019-07-01 until 2020-01-01
 Revolt:
 	alexwolfe: alexwolfe!users.noreply.github.com, thewolfe!gmail.com from 2016-03-01 until 2018-05-01
+Revolt Games:
+	nwmqpa: thomas.nicollet!nebulis.io from 2020-03-01 until 2020-07-01
 Revolut:
 	JPedro2: JPedro2!users.noreply.github.com from 2016-02-01 until 2016-07-01
 	allnightlong: allnightlong!allnightlong.ru from 2022-03-01
@@ -10225,6 +10274,8 @@ Santa Monica Networks:
 	defo89: defo89!users.noreply.github.com from 2014-12-01 until 2017-01-01
 Santander Bank:
 	zkayyali812: zkayyali812!gmail.com from 2016-09-01 until 2016-12-01
+Santander Brasil:
+	OLeonardoRodrigues: OLeonardoRodrigues!users.noreply.github.com from 2018-12-01 until 2019-12-01
 Santander UK:
 	a1dutch: a1dutch!users.noreply.github.com, aholland!a1dutch.co.uk from 2018-02-01
 Santex:
@@ -10646,6 +10697,7 @@ Scaleway:
 	kindermoumoute: kindermoumoute!users.noreply.github.com from 2018-07-01
 	neeltom92: neeltom92!gmail.com from 2020-09-01 until 2020-12-01
 	piellick: piellick!users.noreply.github.com
+	quantumsheep: nathanael.dmc!outlook.fr, quantumsheep!users.noreply.github.com from 2022-08-01
 	raskyld: raskyld!users.noreply.github.com from 2019-09-01
 	remyleone: remyleone!users.noreply.github.com, rleone!scaleway.com from 2018-01-01
 	sieben: remy.leone!gmail.com, sieben!users.noreply.github.com from 2018-01-01
@@ -11649,6 +11701,8 @@ SeeSaw Labs:
 	elgris: iddqd07!yandex.ru
 SeeThru:
 	joeblackwaslike: joeblackwaslike!me.com, joeblackwaslike!users.noreply.github.com, me!joeblack.nyc from 2019-04-01 until 2019-08-01
+SeeYourTravel:
+	oltur: oltur!users.noreply.github.com from 2016-02-01 until 2017-01-01
 Seebo:
 	ido-ran: ido-ran!users.noreply.github.com, ido.ran!gmail.com from 2014-02-01 until 2016-07-01
 	tvdinh: tvdinh!users.noreply.github.com until 2015-12-01
@@ -12212,6 +12266,8 @@ Sentometrics:
 	vanpeltj: vanpeltj!users.noreply.github.com
 Sentor:
 	acidflash: acidflash!users.noreply.github.com from 2019-04-01 until 2022-06-01
+Sentor Electrical:
+	milkshakeuk: milkshakeuk!users.noreply.github.com from 2021-07-01
 Sentrana:
 	benfielden-onx: benfielden-onx!users.noreply.github.com until 2016-10-01
 	srlightbody: samuel.lightbody!onxmaps.com until 2016-05-01
@@ -12427,6 +12483,7 @@ ServiceNow:
 	lrochette: laurent.rochette!codefresh.io, lrochette!users.noreply.github.com from 2019-08-01 until 2021-01-01
 	mahebbar: 30617626+mahebbar!users.noreply.github.com, madhuri.hebbar!cloudbyte.com, mahebbar!users.noreply.github.com from 2018-12-01
 	matthagenbuch: matt.hagenbuch!servicenow.com from 2023-01-01
+	matthewaerose: matthewaerose!users.noreply.github.com from 2025-07-01
 	mheidenr: malte.heidenreich!coremedia.com, mheidenr!users.noreply.github.com from 2018-08-01
 	munjal-patel: munjal-patel!users.noreply.github.com from 2017-03-01
 	munjalpatel: munjalpatel!users.noreply.github.com from 2017-03-01
@@ -13021,6 +13078,7 @@ Shipper:
 Shippo:
 	kjaleshire: kjaleshire!users.noreply.github.com from 2021-03-01 until 2022-11-01
 	malcolmrebughini: malcolm.rebughini!gmail.com, malcolmrebughini!users.noreply.github.com from 2019-06-01
+	metaloid2k21: metaloid2k21!users.noreply.github.com from 2023-05-01
 Shippr:
 	abhyuditjain: abhyuditjain!gmail.com, abhyuditjain!users.noreply.github.com from 2015-05-01 until 2015-11-01
 Shipsy:
@@ -14284,6 +14342,7 @@ SingleStore:
 	Gabrielopesantos: Gabrielopesantos!users.noreply.github.com from 2024-03-01
 	brucechin: brucechin!users.noreply.github.com from 2021-06-01 until 2021-09-01
 	gitanuj: gitanuj!users.noreply.github.com, tanuj.183!gmail.com from 2022-09-01
+	mattwilder: mattwilder!users.noreply.github.com from 2021-12-01
 SingleStore Inc.:
 	carlsverre: accounts!carlsverre.com, carlsverre!users.noreply.github.com, id!c83.me
 	kash159: kash159!users.noreply.github.com from 2015-02-01 until 2017-06-01
@@ -14835,6 +14894,8 @@ SkyDeck:
 	lwsinclair: lwsinclair!users.noreply.github.com from 2023-06-01
 SkyLab:
 	ngoduykhanh: ngoduykhanh!users.noreply.github.com from 2016-06-01 until 2020-06-01
+SkyMP:
+	Pospelove: Pospelove!users.noreply.github.com, leonidpospelov.dev!gmail.com from 2023-05-01
 SkyNet:
 	laurieodgers: laurieodgers!users.noreply.github.com until 2015-11-01
 SkyNux:
@@ -15861,6 +15922,8 @@ SoSafe:
 	Scorpil: scorpilmail!gmail.com from 2024-03-01
 SoStronk:
 	hellozee: hellozee!users.noreply.github.com from 2019-09-01 until 2019-10-01
+Soap:
+	myerscf: myerscf!users.noreply.github.com from 2015-12-01 until 2016-03-01
 Soapbox:
 	francoism90: francoism90!users.noreply.github.com from 2021-05-01
 	lauradang: lauradang!users.noreply.github.com, lauradang.2000!gmail.com from 2020-01-01 until 2020-04-01
@@ -15982,34 +16045,3 @@ Societatea eMAG IT Research S.R.L.:
 	beniamin: beniamin.calota!gmail.com from 2014-11-01
 	cristicalin: cristian.calin!outlook.com, cristicalin!users.noreply.github.com from 2021-09-01 until 2022-03-01
 	gabrielbatir: gabrielbatir!users.noreply.github.com from 2018-06-01
-Societe Generale:
-	FrancisLfg: FrancisLfg!users.noreply.github.com from 2016-08-01 until 2019-01-01
-	Mouness: Mouness!users.noreply.github.com until 2016-06-01
-	Techievena: Techievena!users.noreply.github.com, abinashsena!gmail.com from 2018-05-01 until 2018-07-01, from 2021-02-01 until 2023-05-01
-	cboudereau: cboudereau!users.noreply.github.com until 2014-08-01
-	jjbubudi: jjbubudi!gmail.com, jjbubudi!users.noreply.github.com from 2019-06-01 until 2020-08-01
-	michael-doubez: michael-doubez!users.noreply.github.com from 2015-04-01
-	natrem: natrem!users.noreply.github.com
-	nishantsikarwar: nishantsikarwar!users.noreply.github.com, nsikarwar!ch.iitr.ac.in from 2019-05-01 until 2019-08-01, from 2020-08-01
-	tdesaules: tdesaules!users.noreply.github.com from 2021-10-01 until 2024-02-01
-Societe Generale Corporate and Investmen:
-	jyl-cristoff-zobeide: jylcristoff.zobeide!digitaslbi.fr from 2018-12-01
-Societe Generale Global Solution Centre:
-	Aminechakr: Aminechakr!users.noreply.github.com from 2020-03-01
-Society:
-	guillermomanzo: gmanzo!expedia.com from 2015-02-01 until 2015-11-01
-Society of Cannabis Clinicians:
-	ejono: ejono!users.noreply.github.com, jonathak!amazon.com from 2014-10-01 until 2017-10-01
-Society of Petroleum Engineers:
-	VictoryWekwa: VictoryWekwa!users.noreply.github.com from 2020-01-01
-Society of Women Engineers:
-	Princy-Malhotra: Princy-Malhotra!users.noreply.github.com from 2023-02-01 until 2023-03-01
-SocioLeaks:
-	vivekhiwarkar: vivek.hiwarkar!gmail.com from 2018-07-01 until 2018-12-01
-Sociomantic:
-	karabill: karabill!users.noreply.github.com from 2015-09-01 until 2017-09-01
-Sociomantic Labs:
-	iain-buclaw-sociomantic: iain-buclaw-sociomantic!users.noreply.github.com, iain.buclaw!sociomantic.com
-Socionext:
-	katsuster: katsuhiro!katsuster.net from 2015-03-01 until 2018-09-01
-	masahir0y: yamada.m!jp.panasonic.com, yamada.masahiro!socionext.com from 2015-02-01
