@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+inovativ:
+	marcvaneijk: marcvaneijk!users.noreply.github.com until 2016-04-01
 inovel:
 	ChristianLutz: ChristianLutz!users.noreply.github.com
 inovex GmbH:

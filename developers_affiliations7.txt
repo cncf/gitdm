@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+michalbrys: michalbrys!users.noreply.github.com
+	Data Traveler until 2015-05-01
+	Allegro.pl sp. z o.o. from 2015-05-01 until 2016-10-01
+	OpenX Technologies Inc. from 2016-10-01 until 2021-11-01
+	GetInData sp. z o.o. sp. k. from 2021-11-01
 michaldul: michaldul!users.noreply.github.com
 	Medius until 2015-02-01
 	StrikeTech from 2015-02-01 until 2016-03-01
@@ -10141,8 +10146,10 @@ nimbinatus: dev!nimbinatus.com, nimbinatus!users.noreply.github.com
 	LogDNA Inc from 2019-10-01 until 2021-07-01
 	Pulumi from 2021-07-01 until 2022-12-01
 	Dell Technologies from 2022-12-01 until 2024-08-09
-	Equinix from 2024-08-26 until 2024-12-06
-	Red Hat from 2024-12-16
+	Independent from 2024-08-09 until 2024-08-26
+	Equinix Inc. from 2024-08-26 until 2024-12-06
+	Independent from 2024-12-06 until 2024-12-16
+	Red Hat Inc. from 2024-12-16
 nimesh70: nimesh70!users.noreply.github.com
 	Independent until 2020-01-01
 	InCred Financial from 2020-01-01 until 2020-02-01
@@ -23800,14 +23807,3 @@ rakotomandimby: mihamina.rakotomandimby!rktmb.org
 	RKTMB from 2020-08-01
 rakpar: rakpar!microsoft.com
 	Microsoft Corporation
-rakshitgondwal: rakshitgondwal!users.noreply.github.com
-	Independent until 2023-05-01
-	Google LLC from 2023-05-01 until 2023-08-01
-	CNCF from 2023-08-01 until 2023-11-01
-	Keptn from 2023-11-01 until 2024-01-01
-	Kubernetes from 2024-01-01
-rakuista: rakuista!users.noreply.github.com
-	Intuit Inc. until 2015-09-01
-	imgix from 2015-09-01 until 2018-05-01
-	Google LLC from 2018-05-01 until 2023-04-01
-	Buf from 2023-04-01

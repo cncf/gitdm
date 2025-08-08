@@ -134,7 +134,7 @@ Ericsson:
 	hafe: hafe!users.noreply.github.com until 2018-06-01
 	haoruan: haoruan!users.noreply.github.com until 2015-07-01
 	harper1011: harper1011!users.noreply.github.com from 2017-08-01
-	hasan4791: chandra.hasan!oracle.com, hasan4791!users.noreply.github.com until 2015-01-01
+	hasan4791: chandra.hasan!oracle.com, hasan4791!users.noreply.github.com, t.k.chandra.hasan!ibm.com until 2015-01-01
 	hehesky: hehesky!users.noreply.github.com from 2015-05-01 until 2016-04-01
 	hemanthnakkina: hemanthnakkina!users.noreply.github.com from 2015-10-01 until 2019-11-01
 	herlenashavi: avinash.herle!barefootnetworks.com, herlenashavi!users.noreply.github.com until 2014-12-01
@@ -13763,7 +13763,7 @@ Grafana Labs:
 	cstyan: callumstyan!gmail.com, cstyan!users.noreply.github.com from 2018-07-01
 	cyrille-leclerc: 459691+cyrille-leclerc!users.noreply.github.com, cleclerc!cloudbees.com, cyrille!cyrilleleclerc.com, cyrille.leclerc!elastic.co, cyrille.lelclerc!grafana.com from 2022-10-01
 	cyriltovena: cyril.tovena!gmail.com, cyriltovena!users.noreply.github.com from 2019-04-01
-	danifitz: daniel.fitzgerald!grafana.com, danfitzgerald90@gmail.com, danifitz!users.noreply.github.com from 2024-09-01
+	danifitz: danfitzgerald90!gmail.com, daniel.fitzgerald!grafana.com, danifitz!users.noreply.github.com from 2024-09-01
 	davkal: david.kaltschmidt!gmail.com, davkal!users.noreply.github.com from 2018-04-06
 	dehaansa: dehaansa!gmail.com, dehaansa!users.noreply.github.com, sam.dehaan!grafana.com from 2024-10-01
 	dimitarvdimitrov: dimitarvdimitrov!users.noreply.github.com, hi!dimitar.dev from 2021-09-01
@@ -13795,12 +13795,14 @@ Grafana Labs:
 	jpkrohling: jpkrohling!users.noreply.github.com, juraci!kroehling.de, juraci.github!kroehling.de from 2021-10-01 until 2025-01-01
 	jtlisi: jacob.t.lisi!gmail.com, jtlisi!users.noreply.github.com from 2017-06-01
 	jvrplmlmn: jvrplmlmn!users.noreply.github.com from 2020-08-01
+	kgeckhart: kgeckhart!users.noreply.github.com from 2021-08-09
 	kminehart: kevin.minehart!grafana.com, kmineh0151!gmail.com, kminehart!users.noreply.github.com
 	kolesnikovae: anton.kolesnikov!grafana.com, kolesnikovae!users.noreply.github.com
 	korniltsev: anatoly.korniltsev!grafana.com, korniltsev!users.noreply.github.com, korniltsev.anatoly!gmail.com
 	kovrus: ruslan!crate.io, ruslan.kovalyov!gmail.com, ruslan.kovalyov!grafana.com from 2022-07-18
 	krajorama: krajorama!users.noreply.github.com
 	kvrhdn: koenraad.verheyden!posteo.net, kvrhdn!users.noreply.github.com from 2021-04-01
+	lmolkova: liudmila.molkova!grafana.com, lmolkova!microsoft.com, lmolkova!users.noreply.github.com, neskazu!gmail.com from 2025-08-05
 	malcolmholmes: malcolmholmes!users.noreply.github.com, mdh!odoko.co.uk
 	mapno: mariorvinas!gmail.com from 2021-03-01
 	mar4uk: mar4ukira!gmail.com from 2022-03-21
