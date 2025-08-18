@@ -22221,10 +22221,11 @@ stsukrov: stsukrov!users.noreply.github.com
 	Starfinanz from 2016-03-01 until 2016-08-01
 	ChessBase from 2016-08-01 until 2017-12-01
 	AWS from 2017-12-01
-sttts: stefan.schimanski!gmail.com, sttts!mesosphere.io, sttts!redhat.com, sttts!users.noreply.github.com
+sttts: stefan.schimanski!gmail.com, sttts!mesosphere.io, sttts!redhat.com, sttts!users.noreply.github.com, sschimanski@nvidia.com
 	Mesosphere until 2016-05-01
 	Red Hat Inc. from 2016-05-01 until 2023-04-01
-	Upbound from 2023-04-01
+	Upbound from 2023-04-01 until 2025-02-28
+	NVIDIA Corporation from 2025-03-01
 stu-gott: sgott!redhat.com, stu-gott!users.noreply.github.com
 	42six until 2015-03-01
 	Catalytic from 2015-03-01 until 2016-07-01
