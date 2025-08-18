@@ -3013,7 +3013,7 @@ Red Hat Inc.:
 	strangiato: strangiato!users.noreply.github.com from 2021-01-01
 	stratus-ss: stratus-ss!users.noreply.github.com from 2019-12-01
 	streamnsight: streamnsight!users.noreply.github.com from 2019-12-01
-	sttts: stefan.schimanski!gmail.com, sttts!mesosphere.io, sttts!redhat.com, sttts!users.noreply.github.com from 2016-05-01 until 2023-04-01
+	sttts: sschimanski!nvidia.com, stefan.schimanski!gmail.com, sttts!mesosphere.io, sttts!redhat.com, sttts!users.noreply.github.com from 2016-05-01 until 2023-04-01
 	stu-gott: sgott!redhat.com, stu-gott!users.noreply.github.com from 2016-09-01
 	stuartwdouglas: sdouglas!redhat.com, stuart.w.douglas!gmail.com, stuartwdouglas!users.noreply.github.com
 	sub-mod: sub-mod!users.noreply.github.com, subin!apache.org, subin!redhat.com
@@ -16049,5 +16049,3 @@ SocialRadar:
 	daanemanz: daanemanz!users.noreply.github.com from 2015-02-01 until 2016-01-01
 SocialSurvey:
 	divmgl: dimiguel!me.com, divmgl!users.noreply.github.com from 2019-02-01 until 2019-12-01
-SocialTech:
-	eugenekurasov: eugenekurasov!users.noreply.github.com from 2019-08-01 until 2019-12-01

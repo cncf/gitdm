@@ -5114,7 +5114,7 @@ Mesosphere:
 	spahl: sebastien.pahl!gmail.com from 2015-03-01 until 2018-03-01
 	sreis: smnrsti!gmail.com, sreis!mesosphere.io, sreis!users.noreply.github.com
 	ssk2: sunil!mesosphere.io
-	sttts: stefan.schimanski!gmail.com, sttts!mesosphere.io, sttts!redhat.com, sttts!users.noreply.github.com until 2016-05-01
+	sttts: sschimanski!nvidia.com, stefan.schimanski!gmail.com, sttts!mesosphere.io, sttts!redhat.com, sttts!users.noreply.github.com until 2016-05-01
 	timcharper: com.github!citrusfruit.lu, timcharper!gmail.com, timcharper!users.noreply.github.com from 2016-11-01
 	tsenart: tsenart!gmail.com, tsenart!users.noreply.github.com
 	vinodkone: vinodkone!gmail.com, vinodkone!users.noreply.github.com from 2016-01-01
@@ -12437,6 +12437,7 @@ NVIDIA Corporation:
 	soumyabk: soumyab!nvidia.com
 	srikumar-b: srikumar-b!users.noreply.github.com, srikumar.b!gmail.com
 	starryalley: starryalley!users.noreply.github.com until 2017-03-01
+	sttts: sschimanski!nvidia.com, stefan.schimanski!gmail.com, sttts!mesosphere.io, sttts!redhat.com, sttts!users.noreply.github.com from 2025-03-01
 	sumitkbh: sumitb!nvidia.com
 	supertetelman: supertetelman!users.noreply.github.com from 2017-08-01
 	swarren: swarren!nvidia.com
