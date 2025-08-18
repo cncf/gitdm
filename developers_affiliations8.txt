@@ -20461,11 +20461,12 @@ stabai: stabai!users.noreply.github.com
 stac47: stac47!users.noreply.github.com
 	Amadeus until 2022-02-01
 	Onfido from 2022-02-01
-staceypotter: stacey!weave.works, stacey.potter!dynatrace.com, staceypotter!users.noreply.github.com
+staceypotter: stacey!weave.works, stacey.potter!dynatrace.com, spotter!linuxfoundation.org, staceypotter!users.noreply.github.com
 	Weaveworks Inc. until 2023-03-31
 	Dynatrace LLC from 2023-03-31 until 2024-02-01
 	Independent from 2024-02-01 until 2024-04-15
-	Stacklok from 2024-04-15
+	Stacklok from 2024-04-15 until 2025-02-20
+	OpenSSF from 2025-03-31
 staciegravy: stacie.graves!gmail.com, staciegravy!users.noreply.github.com
 	Armory Inc.
 stack72: public!paulstack.co.uk
