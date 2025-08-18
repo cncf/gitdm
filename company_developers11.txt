@@ -2,6 +2,24 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+SocialView:
+	HunterSherms: HunterSherms!users.noreply.github.com until 2014-09-01
+Socialbakers:
+	bydga: bydga!users.noreply.github.com
+	dmvk: dmvk!apache.org, dmvk!users.noreply.github.com until 2014-11-01
+	vorcigernix: vorcigernix!users.noreply.github.com until 2017-03-01, from 2018-03-01 until 2021-06-01
+Socialbit:
+	fbsb: fbsb!users.noreply.github.com from 2015-01-01 until 2016-04-01
+	jubalh: jubalh!users.noreply.github.com from 2015-02-01 until 2015-06-01
+Societal Data:
+	jeff-caylent: jeff-caylent!users.noreply.github.com from 2023-01-01 until 2023-07-01
+Societatea eMAG IT Research S.R.L.:
+	IvoPereira: ivoecpereira!gmail.com from 2024-11-01
+	ameliamariabreda: ameliamaria.breda!dxc.com from 2020-07-01 until 2021-02-01
+	anastazya: anastazya!users.noreply.github.com from 2021-10-01 until 2022-02-01
+	beniamin: beniamin.calota!gmail.com from 2014-11-01
+	cristicalin: cristian.calin!outlook.com, cristicalin!users.noreply.github.com from 2021-09-01 until 2022-03-01
+	gabrielbatir: gabrielbatir!users.noreply.github.com from 2018-06-01
 Societe Generale:
 	FrancisLfg: FrancisLfg!users.noreply.github.com from 2016-08-01 until 2019-01-01
 	Mouness: Mouness!users.noreply.github.com until 2016-06-01
@@ -3029,7 +3047,7 @@ Stacklet:
 Stacklok:
 	evankanderson: argent!google.com, evan.k.anderson!gmail.com, evana!vmware.com, evankanderson!users.noreply.github.com from 2023-06-22
 	jhrozek: jhrozek!users.noreply.github.com from 2023-08-01
-	staceypotter: stacey!weave.works, stacey.potter!dynatrace.com, staceypotter!users.noreply.github.com from 2024-04-15
+	staceypotter: spotter!linuxfoundation.org, stacey!weave.works, stacey.potter!dynatrace.com, staceypotter!users.noreply.github.com from 2024-04-15 until 2025-02-20
 Stackmasters:
 	apollotonkosmo: apollotonkosmo!users.noreply.github.com from 2015-01-01 until 2018-01-01
 	parath: aparathyras!stackmasters.eu
@@ -4711,6 +4729,8 @@ Successive:
 Sucker Punch Productions LLC.:
 	jan-est: jan-est!users.noreply.github.com until 2016-12-01
 	nslottow: naslotto!microsoft.com, nslottow!users.noreply.github.com from 2017-03-01
+Sudeban:
+	roliverio: roliverio!users.noreply.github.com until 2015-06-01
 Suderiane:
 	DanielCastronovo: DanielCastronovo!users.noreply.github.com until 2015-05-01
 Sudespacho:
@@ -5446,6 +5466,8 @@ SwiftStack:
 	smerritt: sam!swiftstack.com
 Swifta:
 	biya-bi: paulmuriel.biyabi!gmail.com until 2018-05-01
+Swiftcom:
+	serber: serber!users.noreply.github.com from 2018-05-01
 Swiftline:
 	jmrodri: jmrodri!gmail.com, jmrodri!users.noreply.github.com from 2023-09-01
 Swiftline Corp:
@@ -9235,6 +9257,7 @@ Teledyne LeCroy:
 Telefonica:
 	Nilsty: Nilsty!users.noreply.github.com, nils.baty!humanitec.com from 2016-10-01 until 2018-07-01
 	RedwineOS: eduardo.sanchez.eslp!gmail.com from 2018-09-01 until 2020-02-01
+	ShimonOhayon: ShimonOhayon!users.noreply.github.com, shimon.ohayon!gmail.com until 2021-10-01
 	SureshGoli123: SureshGoli123!users.noreply.github.com from 2015-02-01 until 2015-06-01
 	aaguilartablada: alvaroteleco!hotmail.com until 2021-05-01
 	atorrescogollo: atorrescogollo!gmail.com, atorrescogollo!users.noreply.github.com from 2019-07-01 until 2021-12-01
@@ -9472,6 +9495,7 @@ Telogis:
 Telstra Corporation Limited:
 	GoldenMouse: GoldenMouse!users.noreply.github.com from 2019-01-01
 	KSanthanam: KSanthanam!users.noreply.github.com from 2017-11-01 until 2018-07-01
+	SamuelMarks: SamuelMarks!users.noreply.github.com, samuelmarks!gmail.com from 2015-02-01 until 2015-03-01
 	ahilmathew: ahil1232!gmail.com, ahilmathew!users.noreply.github.com until 2018-12-01
 	ameyaagashe: ameyaagashe!users.noreply.github.com, ameyaagashe!yahoo.com from 2020-06-01 until 2020-09-01
 	carmine: carmine!users.noreply.github.com, carmine.rimi!gmail.com from 2018-05-01 until 2019-06-01
@@ -11567,6 +11591,8 @@ This is The Foundry:
 	FrazerClews: frazerleslieclews!gmail.com until 2014-04-01
 ThisLife by Shutterfly:
 	luthermonson: luther.monson!gmail.com, luthermonson!users.noreply.github.com from 2015-06-01 until 2017-11-01
+ThisWay Global:
+	craiglpeters: craig.l.peters!gmail.com, craiglpeters!users.noreply.github.com from 2025-08-01
 Thisted Kommune:
 	LayZeeDK: LayZeeDK!users.noreply.github.com, larsbrinknielsen!gmail.com, layzee.dk!gmail.com until 2017-12-01
 Thohts:
@@ -11636,6 +11662,8 @@ Thomson Reuters Markets LLC:
 	zoobert: zoobert!users.noreply.github.com until 2017-01-01
 Thomsons:
 	jamesmckenzie: jamesmckenzie!users.noreply.github.com from 2019-05-01 until 2021-03-01
+Thor Motor Coach:
+	rnemeth90: rnemeth90!users.noreply.github.com, ryannemeth!live.com from 2016-05-01 until 2016-12-01
 ThorTech Solutions L.L.C:
 	Lugoues: Lugoues!users.noreply.github.com, peter!lugoues.net
 Thorgate:
@@ -11838,6 +11866,7 @@ ThoughtWorks Inc:
 	responsible: responsible!users.noreply.github.com, responsible01!yeah.net, shyan!thoughtworks.com
 	retpolanne: retpolanne!users.noreply.github.com from 2020-09-01 until 2022-07-01
 	ricoms: ricoms!users.noreply.github.com from 2021-07-01
+	samuelrcarvalho: samuelrcarvalho!users.noreply.github.com from 2022-03-01
 	sebradloff: sebradloff!users.noreply.github.com, sradloff23!gmail.com from 2015-03-01 until 2017-05-01
 	shahadarsh: github!shahadarsh.com, shahadarsh!users.noreply.github.com until 2017-08-01
 	sheroy: sheroy!gmail.com, sheroy!users.noreply.github.com
@@ -13603,6 +13632,8 @@ Transceptor Technology:
 Transdata:
 	aletes: aletes.xgr!gmail.com from 2017-02-01
 	ipavlushin: ipavlushin!users.noreply.github.com from 2016-12-01 until 2017-07-01
+Transfast:
+	satishweb: satish!satishweb.com, satishweb!users.noreply.github.com from 2018-04-01 until 2019-02-01
 TransferOS:
 	aaparmeggiani: aaparmeggiani!users.noreply.github.com until 2016-11-01
 TransferWise:
@@ -15539,6 +15570,7 @@ UBS:
 	Neeraj-Natu: Neeraj-Natu!users.noreply.github.com, natu.neeraj!gmail.com from 2021-06-01
 	gavinkflam: gavinkflam!users.noreply.github.com from 2023-08-01
 	sambitr: kumar.sambit7!gmail.com from 2018-05-01 until 2021-07-01
+	siddharthasonker: siddharthasonker!users.noreply.github.com from 2018-06-01 until 2019-11-01
 	siddharthasonker95: siddharthasonker95!users.noreply.github.com from 2018-06-01 until 2019-11-01
 	taliesins: taliesins!users.noreply.github.com, taliesins!yahoo.com, vially.ichb!gmail.com from 2018-01-01 until 2018-08-01
 	tomasz-kuzemko: tomasz-kuzemko!users.noreply.github.com from 2019-05-01

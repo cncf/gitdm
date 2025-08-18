@@ -5,6 +5,33 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+jschlichtholz: jschlichtholz!users.noreply.github.com
+	Salesforce.com Inc.
+jschmid1: jschmid!suse.com, jschmid!suse.de
+	SUSE LLC
+jschniper: jschniper!users.noreply.github.com
+	ChipRewards
+jschwartzentruber: jschwartzentruber!users.noreply.github.com
+	BlackBerry Limited until 2016-04-01
+	Mozilla Corporation from 2016-04-01
+jschwarz89: jschwarz!redhat.com
+	Red Hat Inc.
+jschwarzwalder: jschwarzwalder!users.noreply.github.com
+	Amazon
+jschwinger233: gray.liang!isovalent.com, jschwinger233!users.noreply.github.com
+	Independent until 2018-09-01
+	Shopee from 2018-09-01 until 2022-10-01
+	Isovalent from 2022-10-01
+jsdelivrbot: dak!prospectone.io, jsdelivrbot!users.noreply.github.com
+	b
+jseadragon: jseadragon!users.noreply.github.com
+	Futurex until 2018-02-01
+	Comprehend Systems from 2018-02-01
+jsedding: jsedding!apache.org
+	Apache
+jsedgwick: jsedgwick!lyft.com, jsedgwick!users.noreply.github.com, jsedgwick90!gmail.com
+	Meta Platforms Inc. until 2018-02-01
+	Lyft Inc. from 2018-02-01
 jseely: jseely!users.noreply.github.com, justin.seely!gmail.com
 	Microsoft Corporation until 2018-11-01
 	Independent from 2018-11-01 until 2019-03-01
@@ -2858,8 +2885,9 @@ kanika1894: kanika1894!users.noreply.github.com
 	Microsoft Corporation from 2017-07-01 until 2020-08-01
 	GitHub Inc. from 2020-08-01 until 2021-12-01
 	Microsoft Corporation from 2021-12-01
-kanlkan: kanlkan.naklnak!gmail.com, kanlkan!users.noreply.github.com
-	NTT, Inc.
+kanlkan: kanlkan!users.noreply.github.com, kanlkan.naklnak!gmail.com
+	Inc.
+	NTT Corporation from 2100-01-01
 kannamr: kannamr!users.noreply.github.com
 	Servizon until 2015-11-01
 	Independent from 2015-11-01 until 2018-02-01
@@ -4681,6 +4709,9 @@ ketandixit: ketan.dixit!apcera.com
 	Apcera
 ketangangal: ketangangal!users.noreply.github.com
 	iNeuron
+ketanjani21: k_jani!apple.com, ketan.jani!ibm.com, ketanjani21!gmail.com, ketanjani21!users.noreply.github.com
+	Independent until 2020-06-01
+	Apple Inc. from 2020-06-01
 kethansrinivas9: kethansrinivas9!gmail.com
 	Independent until 2015-12-01
 	Kony Solutions Inc. from 2015-12-01 until 2019-08-01
@@ -7628,7 +7659,7 @@ kpiyush17: kpiyush!pm.me, kpiyush17!users.noreply.github.com
 	Sify Technologies Limited from 2016-06-01 until 2018-11-01
 	LoginRadius from 2018-11-01 until 2021-06-01
 	Spectro Cloud from 2021-06-01
-kpjani: ketanjani21!gmail.com, kpjani!users.noreply.github.com
+kpjani: kpjani!users.noreply.github.com
 	International Business Machines Corporation
 kpjeeja: jeeja.kp!intel.com
 	Intel Corporation
@@ -23712,33 +23743,3 @@ michaeldelago: michaeldelago!users.noreply.github.com
 	Apartment 304 from 2022-01-01
 michaeledgar: adgar!google.com, michaeledgar!users.noreply.github.com
 	Google LLC
-michaelferwer: michaelferwer!users.noreply.github.com
-	Cloudwatt until 2016-05-01
-	Thales from 2016-05-01 until 2016-07-01
-	Xebia Nederland B.V. from 2016-07-01 until 2018-06-01
-	Renault from 2018-06-01
-michaelficarra: git!michael.ficarra.me, github!michael.ficarra.me, github.public.email!michael.ficarra.me, mficarra!groupon.com, mficarra!shapesecurity.com, michaelficarra!users.noreply.github.com
-	Groupon Inc. until 2014-04-01
-	Shape Security from 2014-04-01
-michaelfig: michael!fig.org, michael!liveblockauctions.com, michaelfig!users.noreply.github.com
-	Google LLC until 2015-11-01
-	LiveBlock from 2015-11-01 until 2019-05-01
-	Agoric from 2019-05-01
-michaelfindlater: michael.findlater!styler.link
-	Independent until 2018-08-01
-	styler mobility from 2018-08-01
-michaelforney: mforney!mforney.org, michaelforney!users.noreply.github.com
-	Independent
-michaelgeorgeattard: michaelgeorgeattard!gmail.com, michaelgeorgeattard!users.noreply.github.com
-	Betsson Group until 2018-05-01
-	Cerberus from 2018-05-01 until 2019-02-01
-	River iGaming from 2019-02-01
-michaelgoin: mgoin!newrelic.com, michaelgoin!users.noreply.github.com
-	Independent until 2016-03-14
-	New Relic Inc. from 2016-03-14
-michaelgoodrx: michael!goodrx.com
-	Bloomberg until 2014-08-01
-	Independent from 2014-08-01 until 2015-06-01
-	AWS from 2015-06-01 until 2015-08-01
-	Independent from 2015-08-01 until 2016-10-01
-	GoodRx from 2016-10-01
