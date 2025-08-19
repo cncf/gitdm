@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+gchbg: gchbg!users.noreply.github.com, georgi.chulkov!sap.com
+	SAP
+gcheadle-vmware: gcheadle-vmware!users.noreply.github.com
+	Independent until 2020-06-01
+	VMware Inc. from 2020-06-01 until 2022-07-01
+	Bliss Point Media from 2022-07-01
 gcheron: gcheron!users.noreply.github.com
 	Independent until 2016-04-01
 	Microsoft Corporation from 2016-04-01 until 2016-07-01
@@ -23844,11 +23850,3 @@ jscheel: jscheel!users.noreply.github.com
 jscheinblum: jamie!networked.org, js!slack-corp.com, jscheinblum!users.noreply.github.com
 	Bracket Computing until 2015-05-01
 	Slack Technologies Inc. from 2015-05-01
-jscherer92: jscherer92!users.noreply.github.com
-	Argonne National until 2016-04-01
-	LearnCore from 2016-04-01 until 2017-03-01
-	Intercontinental Exchange from 2017-03-01 until 2020-07-01
-	Northwestern Mutual Life Insurance Company from 2020-07-01
-jschewebbn: jschewebbn!users.noreply.github.com
-	BBN until 2021-04-01
-	RTX from 2021-04-01

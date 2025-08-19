@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+cpoole: connor.poole!gmail.com, cpoole!users.noreply.github.com
+	Sustainable Microfarms until 2014-07-01
+	AXS from 2014-07-01 until 2015-05-01
+	The Walt Disney Studios from 2015-05-01 until 2016-04-01
+	DAQRI from 2016-04-01 until 2018-07-01
+	Bird Rides Inc. from 2018-07-01
 cpossinger: cposs2000!gmail.com
 	Independent until 2021-08-01
 	Delta Air Lines from 2021-08-01 until 2021-12-01
@@ -23870,9 +23876,3 @@ gcgirish-radisys: ggowdru!radisys.com
 	Radisys Corporation
 gcharot: buixor!gmail.com, gcharot!redhat.com
 	Red Hat Inc.
-gchbg: gchbg!users.noreply.github.com, georgi.chulkov!sap.com
-	SAP
-gcheadle-vmware: gcheadle-vmware!users.noreply.github.com
-	Independent until 2020-06-01
-	VMware Inc. from 2020-06-01 until 2022-07-01
-	Bliss Point Media from 2022-07-01
