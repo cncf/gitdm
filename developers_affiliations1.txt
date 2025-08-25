@@ -1862,6 +1862,12 @@ AeroNotix: AeroNotix!users.noreply.github.com, aaron.l.france!gmail.com
 	Independent
 AerysNan: AerysNan!users.noreply.github.com, aerysnan!gmail.com
 	Independent
+AetherUnbound: AetherUnbound!users.noreply.github.com
+	Independent until 2019-07-01
+	Ookla from 2019-07-01 until 2021-08-01
+	Automattic from 2021-08-01 until 2024-10-01
+	Independent from 2024-10-01 until 2025-01-01
+	Babylist from 2025-01-01
 AevaOnline: AevaOnline!users.noreply.github.com, devananda.vdv!gmail.com
 	Percona until 2012-03-01
 	HP Inc. from 2012-03-01 until 2015-09-25
@@ -1920,6 +1926,12 @@ Agreon: Agreon!users.noreply.github.com
 AgrimPrasad: AgrimPrasad!users.noreply.github.com
 	Harmonic Inc. until 2017-03-01
 	BGL from 2017-03-01
+AgustinBettati: AgustinBettati!users.noreply.github.com
+	Independent until 2018-03-01
+	Sirius from 2018-03-01 until 2018-11-01
+	MuleSoft from 2018-11-01 until 2022-03-01
+	Applaudo from 2022-03-01 until 2023-06-01
+	monday.com Limited from 2023-06-01
 AhazIsraeli: Ahaz.Israeli!gmail.com
 	CA Technologies until 2018-10-01
 	Broadcom Corporation from 2018-10-01
@@ -1952,6 +1964,10 @@ AhmedGrati: AhmedGrati!users.noreply.github.com
 	Independent from 2022-04-01 until 2022-07-01
 	Think-it from 2022-07-01 until 2024-01-01
 	Independent from 2024-01-01
+AhmedQaziMuhammadJamil: AhmedQaziMuhammadJamil!users.noreply.github.com
+	Independent until 2019-01-01
+	Integra from 2019-01-01 until 2021-12-01
+	Easygenerator from 2021-12-01
 Ahmedsamymahrous: Ahmedsamymahrous!users.noreply.github.com
 	Independent until 2021-07-01
 	Incorta from 2021-07-01 until 2021-10-01
@@ -2154,6 +2170,14 @@ AkselAllas: AkselAllas!users.noreply.github.com
 	Independent from 2019-06-01 until 2021-03-01
 	Concise from 2021-03-01 until 2022-03-01
 	PACTUM from 2022-03-01
+Akshat0694: tandonakshat7!gmail.com
+	Study Partners s until 2015-08-01
+	Accenture Global Solutions Limited from 2015-08-01 until 2017-07-01
+	SAP from 2017-07-01 until 2018-08-01
+	Wirecard from 2018-08-01 until 2021-01-01
+	Banco Santander from 2021-01-01 until 2021-09-01
+	AWS from 2021-09-01 until 2021-12-01
+	StackGuardian from 2021-12-01
 Akshay-Nagle: Akshay-Nagle!users.noreply.github.com
 	Independent until 2020-08-01
 	E-Cell IIT Patna from 2020-08-01
@@ -2227,6 +2251,10 @@ AlanBurlison: alan.burlison!oracle.com
 	Oracle America Inc.
 AlanGreene: AlanGreene!users.noreply.github.com, alangree!ie.ibm.com
 	International Business Machines Corporation
+AlanJumeaucourt: AlanJumeaucourt!users.noreply.github.com
+	Independent until 2020-09-01
+	EDF from 2020-09-01 until 2022-08-01
+	XiVO from 2022-08-01
 AlanStern: stern!rowland.harvard.edu
 	Harvard University
 	Rowland Institute from 2100-01-01
@@ -10939,8 +10967,6 @@ EricTendian: EricTendian!users.noreply.github.com, erictendian!gmail.com
 	Clarify until 2017-05-01
 	Packback from 2017-05-01 until 2022-08-01
 	WPEngine Inc. from 2022-08-01
-EricTune: eric.tune@gmail.com, etune@google.com
-	Google LLC from 2005-02-14
 EricWittmann: EricWittmann!users.noreply.github.com
 	Red Hat Inc.
 EricXie7: 1668398275!qq.com, ericxie7!users.noreply.github.com, xiedong01!inspur.com
@@ -23643,34 +23669,3 @@ NiklasRosenstein: NiklasRosenstein!users.noreply.github.com
 	Palantir from 2018-09-01 until 2022-02-01
 	Independent from 2022-02-01 until 2022-04-01
 	Helsing from 2022-04-01
-Nikola-Milovic: Nikola-Milovic!users.noreply.github.com
-	Independent until 2021-01-01
-	Startup from 2021-01-01 until 2021-04-01
-	Hypefy from 2021-04-01 until 2022-06-01
-	Independent from 2022-06-01 until 2023-06-01
-	Finbet from 2023-06-01 until 2023-09-01
-	BitStarz Casino from 2023-09-01
-NikolaLohinski: NikolaLohinski!users.noreply.github.com
-	Independent until 2015-07-01
-	Roche from 2015-07-01 until 2015-08-01
-	Independent from 2015-08-01 until 2016-07-01
-	Thales from 2016-07-01 until 2016-12-01
-	Sfara from 2016-12-01 until 2017-07-01
-	Independent from 2017-07-01 until 2018-04-01
-	Thales from 2018-04-01 until 2018-09-01
-	Stack Labs from 2018-09-01 until 2021-12-01
-	Kagento from 2021-12-01
-NikolayPianikov: NikolayPianikov!users.noreply.github.com, nikolay.pianikov!jetbrains.com, nikolayp!live.com, rahul.gupta!czonetechnologies.com
-	Deutsche Bank AG until 2015-03-01
-	JetBrains s.r.o. from 2015-03-01
-NikolayS: github2!samokhvalov.com
-	Postila until 2019-12-01
-	My90 from 2019-12-01 until 2021-08-01
-	Boost from 2021-08-01 until 2021-10-01
-	Postgres.AI from 2021-10-01
-Niksko: Niksko!users.noreply.github.com, n.skoufis!gmail.com
-	Independent until 2016-07-01
-	Deloitte New Zealand from 2016-07-01 until 2018-04-01
-	MYOB from 2018-04-01
-Nikunj0601: nikunjhudka123!gmail.com
-	Independent
