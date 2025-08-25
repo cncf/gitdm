@@ -9236,8 +9236,10 @@ hwchiu: hungwei!opennetworking.org, hwchiu!cs.nctu.edu.tw, hwchiu!linkernetworks
 	Synology until 2017-08-01
 	Linker Networks from 2017-08-01 until 2018-09-01
 	Thunder Token from 2018-09-01
-hwdef: hwdef!users.noreply.github.com, hwdef97!gmail.com, hwdefcom!outlook.com, lixin!beyondcent.com
-	BoCloud
+hwdef: hwdef!users.noreply.github.com, hwdef97!gmail.com, hwdefcom!outlook.com
+	BoCloud from 2019-08-01 until 2023-04-17
+	Qihoo 360 from 2023-04-24 until 2025-07-16
+	Shopee from 2025-07-21
 hwillard: henry.willard!oracle.com
 	Oracle America Inc.
 hwilmers: hwilmers!users.noreply.github.com
