@@ -8393,10 +8393,11 @@ tsisodia10: tsisodia10!users.noreply.github.com
 	Red Hat Inc. from 2020-06-01 until 2020-08-01
 	Independent from 2020-08-01 until 2021-10-01
 	Red Hat Inc. from 2021-10-01
+tsj-30: Tharun.SJ!ibm.com, tharunkumar200230!gmail.com
+	Independent until 2024-09-15
+	International Business Machines Corporation from 2024-09-15
 tsjsdbd: tsjsdbd!users.noreply.github.com
 	Huawei Technologies Co. Ltd
-tsj-30: Tharun.SJ!ibm.com, tharunkumar200230!gmail.com
-	International Business Machines Corporation from 2024-09-15	
 tskaiser: tskaiser!users.noreply.github.com
 	Discount Bank until 2014-02-01
 	Independent from 2014-02-01 until 2018-03-01
@@ -24069,5 +24070,3 @@ zzehring: zzehring!users.noreply.github.com
 	Citrix Systems Inc. from 2017-04-01 until 2019-03-01
 	Canonical from 2019-03-01 until 2021-11-01
 	Grafana Labs from 2021-11-01
-zzguang: zhengguang.zhang!intel.com
-	Intel Corporation

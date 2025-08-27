@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Lufttransport:
+	timurgen: timur.samkharadze!gmail.com, timurgen!users.noreply.github.com until 2018-05-01
 Luisi & Diener:
 	AchimGrolimund: AchimGrolimund!users.noreply.github.com until 2017-01-01
 Luizalabs:
@@ -4907,7 +4909,7 @@ Mercedes-Benz AG:
 	benhxy: benhxy!users.noreply.github.com, bensea!google.com from 2018-03-01 until 2018-08-01
 	bobthebuilderberlin: bobthebuilderberlin!users.noreply.github.com from 2025-04-01
 	cforce: cforce!users.noreply.github.com from 2022-05-01
-	chrischdi: chrischdi!users.noreply.github.com, christi.schlotter!gmail.com, christian.schlotter!broadcom.com, christian.schlotter!daimler.com, schlotterc!vmware.com from 2017-04-01 until 2022-04-01
+	chrischdi: chrischdi!users.noreply.github.com, christi.schlotter!gmail.com, christian.schlotter!broadcom.com, christian.schlotter!daimler.com, cschlott!redhat.com, schlotterc!vmware.com from 2017-04-01 until 2022-04-01
 	coder-hugo: coder-hugo!users.noreply.github.com from 2015-01-01 until 2018-02-01
 	creydr: creydr!users.noreply.github.com from 2016-08-01 until 2021-05-01
 	danielsand: danielsand!users.noreply.github.com from 2018-04-01 until 2021-03-01

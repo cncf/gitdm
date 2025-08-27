@@ -12161,7 +12161,8 @@ nre-ableton: nre!ableton.com, nre-ableton!users.noreply.github.com
 	Ableton AG
 nrescobar: neescoba!cisco.com
 	Cisco Systems Inc.
-nrfox: nfox!redhat.com, nrfox!users.noreply.github.com
+nrfox: nfox!redhat.com, nickfox25!gmail.com, nrfox!users.noreply.github.com
+	Independent until 2021-04-12
 	Red Hat Inc. from 2021-04-12
 nritholtz: nritholtz!users.noreply.github.com
 	IDT Corporation
@@ -23823,6 +23824,3 @@ rafaelvanoni: rafaelvanoni!users.noreply.github.com
 rafagsiqueira: rafagsiqueira!users.noreply.github.com
 	Banco Central do Brasil until 2017-11-01
 	United Nations Environment Program from 2017-11-01
-rafal-dudek: rafal-dudek!users.noreply.github.com
-	Independent until 2017-07-01
-	Sabre from 2017-07-01
