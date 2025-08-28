@@ -6,7 +6,7 @@ Company Developers list: [co1], [co2], [co3], [co4], [co5], [co6], [co7], [co8].
 
 Developers affiliations list: [dev1], [dev2], [dev3], [dev4], [dev5].
 
-New affiliations are imported into DevStats about 1-2 times/month.
+*New affiliations are imported into DevStats about once per 4 weeks.*
 
 # DevStats
 
