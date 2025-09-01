@@ -301,7 +301,7 @@ Ericsson:
 	ehengao: ehengao!users.noreply.github.com
 	elvis-cai: elvis-cai!users.noreply.github.com, elvis.cai!airwallex.com until 2016-07-01
 	emichaf: emichaf!users.noreply.github.com
-	erjavaskivuori: 98945567+erjavaskivuori!users.noreply.github.com from 2025-04-01 until 2025-09-30
+	erjavaskivuori: 98945567+erjavaskivuori!users.noreply.github.com, erjavaskivuori!users.noreply.github.com from 2025-04-01 until 2025-09-30
 	erkist: erkist!users.noreply.github.com until 2017-11-01
 	esotsal: Esotsal!users.noreply.github.com from 2024-02-01
 	ewelinawilkosz: ewe!praqma.net, ewelina.w!gmail.com until 2016-12-01
@@ -406,7 +406,7 @@ Ericsson:
 	namnx228: nam.xuan.nguyen!est.tech, namnx228!users.noreply.github.com
 	naseemkullah: naseemkullah!gmail.com, naseemkullah!users.noreply.github.com until 2017-02-01
 	nsimons: nsimons!users.noreply.github.com from 2017-05-01
-	nuhakala: 95333914+nuhakala!users.noreply.github.com from 2025-05-01 until 2025-09-30
+	nuhakala: 95333914+nuhakala!users.noreply.github.com, nuhakala!users.noreply.github.com from 2025-05-01 until 2025-09-30
 	nyren: nyren!users.noreply.github.com, ralf!nyren.net until 2018-02-01
 	oglok: oglok!users.noreply.github.com, rnoriega!redhat.com until 2016-02-01
 	pacevedom: pablo.acevedo.m!gmail.com, pacevedom!users.noreply.github.com until 2021-06-01
@@ -457,7 +457,7 @@ Ericsson:
 	shibir-basak: shibir.basak!nutanix.com until 2016-07-01
 	shravan-achar: shravan-achar!users.noreply.github.com until 2016-07-01
 	silentknight2001: silentknight2001!users.noreply.github.com from 2019-01-01 until 2022-03-01
-	sirpaleet: 149054312+SiiriKemppainen!users.noreply.github.com, 149054312+sirpaleet!users.noreply.github.com from 2025-05-01 until 2025-09-30
+	sirpaleet: 149054312+SiiriKemppainen!users.noreply.github.com, 149054312+sirpaleet!users.noreply.github.com, sirpaleet!users.noreply.github.com from 2025-05-01 until 2025-09-30
 	skreborn: levente95!gmail.com, skreborn!users.noreply.github.com from 2015-01-01 until 2019-12-01
 	smoshiur1237: moshiur.rahman!est.tech, smoshiur1237!users.noreply.github.com from 2020-03-01
 	smurfralf: robert.r.allen!ericsson.com, smurfralf!users.noreply.github.com
@@ -15655,5 +15655,3 @@ HENNGE:
 	yxd-ym: yxd-ym!users.noreply.github.com from 2015-03-01 until 2020-03-01
 HEP:
 	zwhitchcox: zwhitchcox!gmail.com, zwhitchcox!users.noreply.github.com until 2015-11-01
-HERE Mobility:
-	dteplits: dteplits!redhat.com from 2019-01-01 until 2020-08-01
