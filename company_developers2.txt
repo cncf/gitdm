@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+BOA VISTA SERVIÃ‡OS SA:
+	kinow: bruno.kinoshita!niwa.co.nz, brunodepaulak!yahoo.com.br, kinow!apache.org, kinow!users.noreply.github.com until 2016-04-01
+BOGE:
+	LucaDev: LucaDev!users.noreply.github.com, l.kroeger01!gmail.com from 2017-06-01 until 2017-07-01
 BOL - BilheteiraOnline:
 	breun: breun!users.noreply.github.com, nils!breun.nl from 2017-04-01
 	btoonk: btoonk!bol.com, btoonk!users.noreply.github.com from 2017-12-01
@@ -1317,6 +1321,7 @@ Baseconnect:
 Basefarm:
 	ChristofferNicklassonLenswayGroup: ChristofferNicklassonLenswayGroup!users.noreply.github.com until 2016-08-01
 	alegri90: alegri90!users.noreply.github.com from 2020-07-01 until 2021-01-01
+	asbjorn-wiik: asbjorn-wiik!users.noreply.github.com until 2021-03-01
 	brlbil: birol!cilium.io, brlbil!users.noreply.github.com from 2019-01-01 until 2022-03-01
 	tobiasehlert: tobias.ehlert!gmail.com, tobiasehlert!users.noreply.github.com from 2019-11-01 until 2020-05-01
 Baselime:
@@ -10337,6 +10342,8 @@ CareersUnbound:
 	KevinGG: KevinGG!users.noreply.github.com, kawaigin!gmail.com until 2015-02-01
 Careesma:
 	crozzy: crozzy!users.noreply.github.com, joseph.crosland!gmail.com until 2014-10-01
+Caregility:
+	aredshift: a!shane.red from 2022-05-01 until 2023-03-01
 Carelon:
 	dangarthwaite: dan!garthwaite.org, dangarthwaite!users.noreply.github.com from 2022-06-01
 Carestream Health:
@@ -11738,6 +11745,7 @@ Check Please:
 Check Point:
 	FrimIdan: FrimIdan!users.noreply.github.com until 2018-07-01
 	Regevd: Regevd!users.noreply.github.com until 2016-06-01
+	arikg10: arikg10!users.noreply.github.com until 2021-06-01
 	aviadlevy: aviadlevy1!gmail.com from 2015-08-01
 	cole-ratner: cole-ratner!users.noreply.github.com from 2020-09-01
 	eranyanay: eran!yanay.net, eranyanay!users.noreply.github.com until 2015-09-01
@@ -13576,6 +13584,7 @@ Citrix Systems Inc.:
 	ajbennieston: andrew.bennieston!citrix.com
 	andyhhp: andrew.cooper3!citrix.com
 	anoobs: anoob.soman!citrix.com
+	arylatt: arylatt!users.noreply.github.com from 2017-07-01
 	bguthro: benjamin.guthro!citrix.com
 	btannous: brian!briantannous.com, btannous!users.noreply.github.com until 2018-08-01
 	christus02: christus02!users.noreply.github.com, raghul.christus!citrix.com

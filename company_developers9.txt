@@ -2,6 +2,13 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+NodeFlair:
+	andreathniah: 35859937+andreathniah!users.noreply.github.com, andreathniah!users.noreply.github.com from 2018-10-01 until 2019-05-01
+NodePrime:
+	ivanov-aleksander: ivanov-aleksander!users.noreply.github.com from 2015-06-01 until 2017-06-01
+	jaredhanson: jaredhanson!gmail.com, jaredhanson!users.noreply.github.com until 2015-01-01
+NodeSocket:
+	nodesocket: nodesocket!users.noreply.github.com from 2018-10-01 until 2020-04-01
 NodeSource:
 	Raynos: Raynos!users.noreply.github.com, raynos2!gmail.com from 2019-02-01
 	brycebaril: bryce!ravenwall.com, brycebaril!users.noreply.github.com from 2014-09-01 until 2019-07-01

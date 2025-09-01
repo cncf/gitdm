@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Ludeon Studios:
+	zorbathut: zorba-github-public!pavlovian.net from 2017-01-01 until 2018-06-01
+Ludi Dorici:
+	Faless: Faless!users.noreply.github.com from 2017-07-01
 Ludonium:
 	MarianoGnu: MarianoGnu!users.noreply.github.com from 2015-01-01 until 2015-03-01
 Ludopia:
@@ -4149,6 +4153,8 @@ Medical Database:
 	leblowl: lucasleblow!mailbox.org from 2018-02-01 until 2019-11-01
 Medical Diagnostic Imaging:
 	RonMallory: RonMallory!users.noreply.github.com from 2017-06-01 until 2018-03-01
+Medical Electronic:
+	ariel-weiss: ariel!autofleet.io from 2019-07-01 until 2021-01-01
 Medical Information:
 	fin7710: afinley!apperian.com, afinley!arxan.com until 2015-01-01
 Medical Insight A/S:
@@ -4342,6 +4348,7 @@ MegaEase:
 	haoel: haoel!hotmail.com, haoel!users.noreply.github.com from 2016-10-01
 	zhao-kun: zhao-kun!users.noreply.github.com
 MegaFon:
+	Areso: Areso!users.noreply.github.com, returnstrike!yandex.com from 2018-03-01 until 2020-10-01
 	d-helios: apenner.it!gmail.com from 2015-04-01 until 2016-04-01
 	enp: enp!arenadata.io from 2017-09-01
 	tiurikov: tiurikov!users.noreply.github.com until 2015-07-01
@@ -10494,6 +10501,7 @@ Motorola Mobility Inc.:
 	MaciejKucia: MaciejKucia!users.noreply.github.com until 2016-08-01
 	MidZik: MidZik!users.noreply.github.com until 2018-05-01
 	anton-yurchenko: anton-yurchenko!users.noreply.github.com, barry!fruitcake.nl from 2018-01-01 until 2018-09-01
+	aredshift: a!shane.red from 2019-05-01 until 2022-05-01
 	ashwinpagarkhed: ashwinpagarkhed!users.noreply.github.com from 2021-01-01
 	benonymus: benonymus!users.noreply.github.com from 2020-10-01 until 2021-07-01
 	brichins: brichins!users.noreply.github.com from 2017-11-01
@@ -15943,10 +15951,3 @@ NodeConf:
 	a0viedo: a0viedo!users.noreply.github.com, alejandro.oviedo.g!gmail.com from 2015-11-01 until 2018-06-01
 NodeCraft Hosting:
 	geekthattweaks: geekthattweaks!users.noreply.github.com from 2015-07-01 until 2016-03-01
-NodeFlair:
-	andreathniah: 35859937+andreathniah!users.noreply.github.com, andreathniah!users.noreply.github.com from 2018-10-01 until 2019-05-01
-NodePrime:
-	ivanov-aleksander: ivanov-aleksander!users.noreply.github.com from 2015-06-01 until 2017-06-01
-	jaredhanson: jaredhanson!gmail.com, jaredhanson!users.noreply.github.com until 2015-01-01
-NodeSocket:
-	nodesocket: nodesocket!users.noreply.github.com from 2018-10-01 until 2020-04-01
