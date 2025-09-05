@@ -5,6 +5,70 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+rabinv: rabin!rab.in, vincent.whitchurch!axis.com
+	!GP
+rabinv: rabin.vincent!axis.com, rabin.vincent!stericsson.com, rabinv!axis.com
+	Axis Communications
+raboof: arnout!bzzt.net, arnouten!bzzt.net, github!bzzt.net, raboof!users.noreply.github.com
+	Xebia Nederland B.V. until 2017-03-01
+	Lightbend Inc from 2017-03-01
+rabun788: kyle.jackson!providence.org, rabun788!users.noreply.github.com
+	Providence Health and Services
+rabunkosar-dd: rabunkosar-dd!users.noreply.github.com
+	SK Teknoloji until 2015-11-01
+	Famecycle from 2015-11-01 until 2016-05-01
+	Uber from 2016-05-01 until 2019-08-01
+	DoorDash Inc. from 2019-08-01
+racdev: racdev!users.noreply.github.com
+	Aviva
+racevedoo: racevedoo!users.noreply.github.com
+	Grupo de Redes until 2014-07-01
+	Independent from 2014-07-01 until 2014-11-01
+	CESAR from 2014-11-01 until 2016-11-01
+	In Loco from 2016-11-01
+rachelleahklein: rachel.leah.klein!gmail.com
+	New Relic Inc.
+rachelmyers: rachelmariemyers!gmail.com, rachelmyers!google.com, rachelmyers!users.noreply.github.com
+	GitHub Inc. until 2016-06-01
+	Opsolutely from 2016-06-01 until 2016-12-01
+	Google LLC from 2016-12-01
+rachelt44: rachelt44!users.noreply.github.com
+	International Business Machines Corporation
+rachely3n: rachelyen!google.com
+	Google LLC
+rachfop: rachfop!users.noreply.github.com
+	Independent until 2018-03-01
+	lululemon from 2018-03-01 until 2019-09-01
+	Simpson Strong-Tie from 2019-09-01 until 2020-03-01
+	Amazon from 2020-03-01
+rachitchauhan43: rachitchauhan43!gmail.com, rachitchauhan43!users.noreply.github.com
+	Persistent Systems until 2016-01-01
+	SAP from 2016-01-01 until 2017-06-01
+	Independent from 2017-06-01 until 2018-07-01
+	Intuit Inc. from 2018-07-01
+rachmatowicz2: rachmato!redhat.com
+	Red Hat Inc.
+racker7: racker7!users.noreply.github.com
+	Rackspace until 2021-12-01
+	Independent from 2021-12-01 until 2022-03-01
+	Rackspace from 2022-03-01
+rackerWard: rackerWard!users.noreply.github.com
+	Mizuni until 2017-02-01
+	Independent from 2017-02-01 until 2017-06-01
+	Zix from 2017-06-01 until 2019-07-01
+	Onica from 2019-07-01 until 2020-04-01
+	Rackspace from 2020-04-01
+raclepoulpe: raclepoulpe!gmail.com, raclepoulpe!users.noreply.github.com
+	Crédit Mutuel Arkéa
+rad4day: rad4day!users.noreply.github.com
+	Independent until 2022-04-01
+	Werkstudent from 2022-04-01
+radamanthus: rad!getshogun.com, radamanthus!gmail.com, radamanthus!users.noreply.github.com
+	Rails Girls
+radarhere: radarhere!gmail.com, radarhere!users.noreply.github.com
+	Embedded Bits until 2016-08-01
+	Witekio Holding from 2016-08-01 until 2018-08-01
+	ARM from 2018-08-01
 radcortez: radcortez!users.noreply.github.com, radcortez!yahoo.com
 	DSI | DeCare until 2015-05-01
 	Tomitribe from 2015-05-01 until 2019-02-01
@@ -3550,6 +3614,11 @@ rhim: rhim!users.noreply.github.com
 	Cisco Systems Inc.
 rhinoceros: rhinoceros!users.noreply.github.com, rhinoceros.xn!gmail.com
 	chanjet
+rhjanders: janders!redhat.com, rhjanders!users.noreply.github.com
+	Independent until 2016-10-01
+	Red Hat Inc. from 2016-10-01 until 2017-10-01
+	CSIRO from 2017-10-01 until 2020-06-01
+	Red Hat Inc. from 2020-06-01
 rhjensen79: rhjensen79!users.noreply.github.com, robert!robert-jensen.dk
 	VMware Inc. until 2024-01-01
 	Broadcom Corporation from 2024-01-01 until 2024-08-01
@@ -14644,6 +14713,13 @@ sharadgana: sharadgana!users.noreply.github.com
 	Yahoo! Inc.
 sharadgaur: sharad.gaur!oracle.com, sharadgaur!users.noreply.github.com
 	Oracle America Inc.
+sharajat: sharajat!users.noreply.github.com
+	Independent until 2015-03-01
+	Symantec Corporation from 2015-03-01 until 2016-02-01
+	Veritas Technologies LLC from 2016-02-01 until 2019-03-01
+	Continuum LLC from 2019-03-01 until 2019-08-01
+	VMware Inc. from 2019-08-01 until 2023-10-01
+	Broadcom Corporation from 2023-10-01
 sharanmunyal: sharan.munyal!gmail.com, sharanmunyal!users.noreply.github.com
 	Yahoo! Inc. until 2014-11-01
 	AWS from 2014-11-01 until 2022-08-01
@@ -17299,9 +17375,12 @@ sirjasiu: sirjasiu!users.noreply.github.com
 	Trade Ledger from 2022-02-01 until 2022-08-01
 	VeloxAlpha from 2022-08-01
 sirpaleet: 149054312+SiiriKemppainen!users.noreply.github.com, 149054312+sirpaleet!users.noreply.github.com, sirpaleet!users.noreply.github.com
-	Independent until 2025-05-01
-	Ericsson from 2025-05-01 until 2025-09-30
-	Independent from 2025-09-30
+	Independent until 2013-05-01
+	Independent from 2013-05-01 until 2022-04-01
+	K-Rauta from 2022-04-01 until 2022-08-01
+	K-Rauta from 2022-08-01 until 2023-08-01
+	Independent from 2023-08-01 until 2025-05-01
+	Ericsson from 2025-05-01
 siscia: siscia!users.noreply.github.com
 	Independent until 2015-01-01
 	RedBeardLab from 2015-01-01 until 2017-03-01
@@ -23626,76 +23705,3 @@ sunishvk: sunish.vk!cognizant.com
 sunix: sunix!users.noreply.github.com, sutan!redhat.com
 	SERLI until 2017-02-01
 	Red Hat Inc. from 2017-02-01
-sunjayBhatia: sbhatia!pivotal.io, sunjayBhatia!users.noreply.github.com, sunjayb!vmware.com
-	Pivotal until 2019-12-30
-	VMware Inc. from 2019-12-30
-sunlintong: marcochavezf!gmail.com, sunlintong!ghostcloud.cn, sunlintong!users.noreply.github.com
-	Ghostcloud Chengdu Wizard Cloud Technology Co. Ltd.
-sunminjeon: jjsunmin!gmail.com, sunminjeon!users.noreply.github.com
-	Samsung SDS
-sunn-e: sunn-e!users.noreply.github.com, sunnydhoke22!gmail.com
-	Independent until 2019-03-01
-	AIR Infotech from 2019-03-01
-sunny-b: sunny-b!users.noreply.github.com
-	Independent until 2017-03-01
-	Tsang Seymour from 2017-03-01 until 2017-07-01
-	Independent from 2017-07-01 until 2017-10-01
-	Conclave from 2017-10-01 until 2018-04-01
-	DigitalOcean from 2018-04-01
-sunny-g: sunny-g!users.noreply.github.com
-	Morgan Stanley until 2014-07-01
-	Independent from 2014-07-01 until 2015-05-01
-	Hack Reactor from 2015-05-01 until 2016-07-01
-	Descartes Labs from 2016-07-01 until 2018-05-01
-	Independent from 2018-05-01 until 2019-04-01
-	Near Space Labs from 2019-04-01 until 2023-11-01
-	Independent from 2023-11-01 until 2024-04-01
-	Federato from 2024-04-01
-sunny0826: guoxudong!keking.cn, sunny0826!users.noreply.github.com, sunnydog0826!gmail.com
-	Independent until 2018-04-01
-	运维负责人运维负责人上海凯京信达科技集团有限公司 from 2018-04-01 until 2020-11-01
-	ALO7 from 2020-11-01 until 2021-05-01
-	GitLab from 2021-05-01 until 2023-08-01
-	Independent from 2023-08-01 until 2023-10-01
-	OpenAtom from 2023-10-01
-sunny19930321: 923976094!qq.com, sunny19930321!users.noreply.github.com
-	sina weibo
-sunnybhambhani: sunnybhambhani!users.noreply.github.com
-	TomTom International B.V. until 2017-11-01
-	VOIS from 2017-11-01 until 2022-03-01
-	Independent from 2022-03-01 until 2022-05-01
-	Infracloud Technologies INC from 2022-05-01
-sunnycarter: sunnycarter!users.noreply.github.com
-	Microsoft Corporation
-sunnythepatel: sunny33p!gmail.com, sunnythepatel!users.noreply.github.com
-	Independent until 2020-09-01
-	Higgins News Agency from 2020-09-01
-sunpa93: sunpa93!users.noreply.github.com
-	UPS until 2017-12-01
-	Independent from 2017-12-01 until 2018-02-01
-	Lifion from 2018-02-01 until 2019-08-01
-	AWS from 2019-08-01
-sunqm: osirpt.sun!gmail.com
-	Independent until 2018-02-01
-	QuSim from 2018-02-01 until 2018-08-01
-	Caltech Software Systems Inc from 2018-08-01 until 2018-09-01
-	Tencent Holdings Limited from 2018-09-01 until 2020-01-01
-	Independent from 2020-01-01
-sunshangpp: sunshangpp!gmail.com, sunshangpp!users.noreply.github.com
-	Nujobi.com
-sunshine6: jillkendall!google.com, yo!dianitica.com
-	Google LLC
-sunsingerus: sunsingerus!gmail.com, sunsingerus!users.noreply.github.com
-	Ivinco until 2017-02-01
-	Altinity from 2017-02-01
-suntorytimed: 2744377+suntorytimed!users.noreply.github.com, suntorytimed!users.noreply.github.com
-	SUSE LLC
-sunvim: sunvim!users.noreply.github.com
-	Ankr
-sunxiaoguang: sunxiaoguang!hoolai.com, sunxiaoguang!users.noreply.github.com, sunxiaoguang!zhihu.com
-	Alibaba Group
-sunya-ch: sunya-ch!users.noreply.github.com, sunyanan.choochotkaew1!ibm.com
-	Independent until 2020-04-01
-	International Business Machines Corporation from 2020-04-01
-sunyandi: sunyandi!users.noreply.github.com, sunyd!inspur.com
-	Inspur Group

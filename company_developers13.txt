@@ -2,6 +2,18 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+home:
+	tcrst: tcrst!users.noreply.github.com
+	vlavorini: vincenzo.lavorini!protonmail.ch from 2019-08-01 until 2020-02-01
+	wangggong: 793160615!qq.com, wangggong!users.noreply.github.com
+home-iX:
+	marziman: marziman!users.noreply.github.com from 2017-08-01 until 2021-07-01
+home.ai:
+	integrii: eric.greer!comcast.com, ericgreer!gmail.com, integrii!users.noreply.github.com
+home.pl:
+	pawelrosada: pawelrosada!users.noreply.github.com from 2016-06-01 until 2021-12-01
+	prshoper: prshoper!users.noreply.github.com from 2016-06-01 until 2021-12-01
+	r0bj: r0bj!users.noreply.github.com until 2014-08-01
 home24:
 	cagataygurturk: cagataygurturk!users.noreply.github.com, info!cagataygurturk.com from 2015-08-01 until 2016-11-01
 	sergejjevsejev-home24: sergejjevsejev-home24!users.noreply.github.com, sjevsejev!gmail.com
@@ -3956,6 +3968,7 @@ xCal:
 	kyakan: sicilia.cristian!gmail.com from 2018-06-01
 xFlow:
 	AbdulBasitAlvi: AbdulBasitAlvi!users.noreply.github.com, abdulbasit.ta!gmail.com from 2016-04-01 until 2016-07-01
+	MahnoorAsghar: masghar!redhat.com from 2019-08-01 until 2021-12-01
 xFlow Research.com:
 	ZainubW: me.zainub!gmail.com from 2019-09-01 until 2020-05-01, from 2021-02-01
 	demonCoder95: demonCoder95!users.noreply.github.com from 2019-06-01 until 2021-05-01

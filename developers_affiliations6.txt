@@ -5,6 +5,40 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+jpbelangerupgrade: jpbelangerupgrade!users.noreply.github.com
+	Desjardins Group until 2016-03-01
+	Independent from 2016-03-01 until 2016-05-01
+	AppDirect from 2016-05-01 until 2017-07-01
+	Upgrade Inc. from 2017-07-01
+jpbetz: jpbetz!gmail.com, jpbetz!google.com, jpbetz!users.noreply.github.com
+	LinkedIn Corporation until 2014-06-01
+	Independent from 2014-06-01 until 2015-02-01
+	Coursera from 2015-02-01 until 2016-03-01
+	LinkedIn Corporation from 2016-03-01 until 2017-06-01
+	Google LLC from 2017-06-01
+jpbrucker: jean-philippe.brucker!arm.com
+	ARM
+jpd236: jpd!google.com
+	Google LLC
+jpdeburgo: jpdeburgo!users.noreply.github.com
+	Independent until 2019-05-01
+	National Association of Manufacturers from 2019-05-01 until 2019-08-01
+	Independent from 2019-08-01 until 2020-06-01
+	TaskRabbit from 2020-06-01 until 2020-09-01
+	Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V. from 2020-09-01 until 2021-03-01
+	American Airlines from 2021-03-01
+jpdilan: jpdilan!users.noreply.github.com
+	Mozilla Corporation until 2018-01-01
+	SL2College from 2018-01-01 until 2020-01-01
+	FOSSASIA from 2020-01-01
+jpds: jpds!protonmail.com, jpds!users.noreply.github.com
+	Canonical Ltd. until 2015-12-01
+	UK Civil Service from 2015-12-01 until 2017-03-01
+	Independent from 2017-03-01 until 2017-05-01
+	Jetstack Ltd from 2017-05-01 until 2017-09-01
+	Verne Global from 2017-09-01 until 2018-02-01
+	PrismFP from 2018-02-01 until 2018-08-01
+	Independent from 2018-08-01
 jpdstan: jpdstan!users.noreply.github.com
 	WASD Keyboards until 2014-08-01
 	Independent from 2014-08-01 until 2015-06-01
@@ -1124,6 +1158,13 @@ jtulak: jtulak!redhat.com
 	Red Hat Inc.
 jtway: jtway!users.noreply.github.com
 	StackPath LLC
+jtwill98: j_t_williams!dell.com, jtwill98!users.noreply.github.com
+	Independent until 2017-02-01
+	CrowdStrike from 2017-02-01 until 2022-11-01
+	Orca from 2022-11-01 until 2023-06-01
+	Independent from 2023-06-01 until 2023-10-01
+	Legit from 2023-10-01 until 2025-01-01
+	CrowdStrike from 2025-01-01
 jtymes: jeremy!jtymes.net
 	Gordon
 jtyrus: jtyrus!users.noreply.github.com
@@ -3569,6 +3610,9 @@ kanwalnainsingh: mail!kanwalnain.com
 	HCL Technologies Ltd. until 2015-05-01
 	Fidelity Investments from 2015-05-01 until 2018-02-01
 	Macquarie Group USA from 2018-02-01
+kanwar-saad: aleksandrr!gmail.com, kanwar-saad!users.noreply.github.com, kanwar.saad.bin.liaqat!est.tech, kanwar.sbl!gmail.com, timrs2998!gmail.com
+	Independent until 2023-09-01
+	VConn from 2023-09-01
 kaoet: kaoet!users.noreply.github.com, kaoet.ibe!outlook.com
 	Google LLC
 kaorimatz: kaorimatz!users.noreply.github.com
@@ -11615,6 +11659,16 @@ leizerbeam: leizerbeam!users.noreply.github.com
 	Blockvolution from 2019-04-01 until 2020-03-01
 	Synoptek from 2020-03-01 until 2021-08-01
 	Kasten from 2021-08-01
+lekaf974: lekaf974!users.noreply.github.com
+	International Business Machines Corporation until 2015-01-01
+	Wanted from 2015-01-01 until 2015-11-01
+	CEB from 2015-11-01 until 2017-12-01
+	Independent from 2017-12-01 until 2018-08-01
+	FLO EV from 2018-08-01 until 2021-06-01
+	Crakmedia Inc. from 2021-06-01 until 2021-09-01
+	DigitalOcean from 2021-09-01 until 2023-04-01
+	Independent from 2023-04-01 until 2025-01-01
+	Moneris from 2025-01-01
 leki75: gabor.lekeny!gmail.com, leki75!users.noreply.github.com
 	Ericsson until 2016-09-01
 	Origo Zrt from 2016-09-01 until 2017-01-01
@@ -20180,8 +20234,9 @@ matheuscscp: matheuscscp!gmail.com, matheuscscp!linux.com
 	Independent from 2020-02-01 until 2020-05-01
 	Wildlife from 2020-05-01 until 2021-04-01
 	Arista Networks from 2021-04-01 until 2024-03-01
-	Luma Health from 2024-03-04 until 2024-11-08
-	ControlPlane from 2024-11-25
+	Luma Health from 2024-03-01 until 2024-11-08
+	Independent from 2024-11-08 until 2024-11-25
+	ControlPlane.io from 2024-11-25
 matheusde: matheusde!users.noreply.github.com
 	International Business Machines Corporation
 matheusjericoo: matheusjericoo!users.noreply.github.com
@@ -23686,66 +23741,3 @@ mflopez79: mflopez79!users.noreply.github.com
 	Mad Mobile Inc. until 2015-07-01
 	Auth0 Inc. from 2015-07-01 until 2016-04-01
 	Mad Mobile from 2016-04-01
-mfmayer: mfmayer!users.noreply.github.com
-	Mercedes-Benz AG
-mfmooney: mfm!muteddisk.com
-	Independent
-mfocaraccio: marianof23!gmail.com, mfocaraccio!users.noreply.github.com
-	QuanticMind until 2014-06-01
-	Gitcolony from 2014-06-01 until 2016-06-01
-	Tactivos Inc. from 2016-06-01 until 2018-04-01
-	Drixit from 2018-04-01
-mfogliatto: mfogliatto!users.noreply.github.com
-	Moravia until 2018-08-01
-	Bank from 2018-08-01 until 2020-04-01
-	Microsoft Corporation from 2020-04-01
-mfojtak: mfojtak!users.noreply.github.com
-	Eli Lilly until 2019-12-01
-	Novartis from 2019-12-01
-mfojtik: mfojtik!redhat.com, mfojtik!users.noreply.github.com
-	Red Hat Inc.
-mfoliveira: mauricio.foliveira!gmail.com, mfo!canonical.com, mfoliveira!users.noreply.github.com
-	Canonical Ltd.
-mfornasa: mf!fornasa.it, mfornasa!users.noreply.github.com
-	SpreadSheetSpace until 2014-07-01
-	Clevertech from 2014-07-01 until 2018-06-01
-	Kiratech SpA from 2018-06-01
-mforutan: mforutan!users.noreply.github.com
-	MITEK until 2015-10-01
-	13cabs from 2015-10-01 until 2017-12-01
-	Flexera from 2017-12-01
-mfouilleul: maxime.fouilleul!blablacar.com, mfouilleul!users.noreply.github.com
-	BlaBlaCar
-mfournier: marc.fournier!camptocamp.com, mfournier!users.noreply.github.com
-	Camptocamp
-mfpierre: mfpierre!gmail.com
-	Tripnation
-mfpierre: mfpierre!users.noreply.github.com
-	Datadog Inc
-mfrances17: mfrances17!users.noreply.github.com
-	Dell EMC until 2018-04-01
-	Red Hat Inc. from 2018-04-01
-mfranczy: mfranczy!redhat.com, mfranczy!users.noreply.github.com
-	Akamai Technologies Inc. until 2017-04-01
-	Red Hat Inc. from 2017-04-01 until 2019-10-01
-	Kubermatic GmbH from 2019-10-01
-mfriedenhagen: mfriedenhagen!gmail.com, mfriedenhagen!users.noreply.github.com, mirko.friedenhagen!1und1.de
-	United Internet AG until 2014-05-01
-	1&1 Mail & Media from 2014-05-01
-mfrinnstrom: mfrinnstrom!users.noreply.github.com
-	Sweco Inc. until 2015-01-01
-	Consid AB from 2015-01-01 until 2015-09-01
-	Husqvarna from 2015-09-01
-mfruhner: m.fruhner!hs-osnabrueck.de, mfruhner!users.noreply.github.com
-	Independent
-mfrw: falakreyaz!gmail.com, mfrw!users.noreply.github.com
-	Aricent until 2016-06-01
-	IIIT Delhi India from 2016-06-01 until 2017-12-01
-	Goldman Sachs & Co. LLC from 2017-12-01
-mfvitale: mfvitale!users.noreply.github.com
-	Capgemini until 2016-06-01
-	MotorK from 2016-06-01 until 2018-11-01
-	BMC Software Inc from 2018-11-01
-mfykmn: mfykmn!gmail.com, mfykmn!users.noreply.github.com
-	DMM.com Ltd. until 2019-12-01
-	bellFace from 2019-12-01

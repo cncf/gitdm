@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+HENNGE:
+	anphung: anphung!users.noreply.github.com from 2014-12-01 until 2015-10-01
+	dav009: dav009!users.noreply.github.com from 2017-03-01 until 2019-05-01
+	yxd-ym: yxd-ym!users.noreply.github.com from 2015-03-01 until 2020-03-01
+HEP:
+	zwhitchcox: zwhitchcox!gmail.com, zwhitchcox!users.noreply.github.com until 2015-11-01
 HERE Mobility:
 	dteplits: dteplits!redhat.com from 2019-01-01 until 2020-08-01
 HERO:
@@ -3706,6 +3712,8 @@ HostLogic:
 	nheinemans: nheinemans!users.noreply.github.com until 2014-11-01
 HostMySite:
 	NormJohnIV: NormJohnIV!users.noreply.github.com, njohnson!kiecookingdom.com until 2015-09-01
+HostSpace:
+	SafeEHA: SafeEHA!users.noreply.github.com from 2021-04-01 until 2022-08-01, from 2023-08-01 until 2024-08-01
 Hosted Graphite:
 	VoyTechnology: wojtek.bednarzak!gmail.com from 2017-06-01 until 2017-09-01
 Hosted Power:
@@ -6598,6 +6606,8 @@ ITAKO:
 	nobutaka: n.takushima!gmail.com, nobutaka!users.noreply.github.com
 ITAPECO:
 	jebotz: jebotz!users.noreply.github.com until 2019-07-01
+ITAUROS:
+	fracappa: fracappa!users.noreply.github.com from 2022-09-01 until 2023-06-01
 ITC:
 	VariableExp0rt: VariableExp0rt!users.noreply.github.com from 2017-09-01 until 2018-03-01
 ITC Infotech:
@@ -7712,5 +7722,7 @@ Indepemndent:
 	mistikel: mistikel!users.noreply.github.com until 2015-06-01
 	nschad: nschad!users.noreply.github.com from 2020-01-01 until 2020-03-01
 	sanjaysheel: sanjaysheel!users.noreply.github.com until 2019-06-01
+Indepen dent:
+	SafeEHA: SafeEHA!users.noreply.github.com from 2023-01-01 until 2023-05-01
 Independence Manor @ Hunterdon:
 	sgreene570: sgreene570!gmail.com, sgreene570!users.noreply.github.com from 2015-06-01 until 2016-08-01

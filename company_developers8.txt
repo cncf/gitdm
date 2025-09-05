@@ -2,6 +2,17 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Lucinity:
+	aodj: aodj!users.noreply.github.com from 2019-06-01
+	stebet: stebet!users.noreply.github.com from 2023-01-01
+Lucky Cart:
+	mehdichamouma: mehdi.chamouma!gmail.com, mehdichamouma!users.noreply.github.com from 2017-04-01
+Lucky.Net:
+	idestis: idestis!users.noreply.github.com until 2014-04-01
+Lucy Electric:
+	philomory: philomory!users.noreply.github.com from 2017-03-01 until 2017-08-01
+Ludei:
+	karliky: karliky!gmail.com, karliky!users.noreply.github.com, yingosen!gmail.com until 2015-01-01
 Ludeon Studios:
 	zorbathut: zorba-github-public!pavlovian.net from 2017-01-01 until 2018-06-01
 Ludi Dorici:
@@ -68,6 +79,7 @@ LumApps:
 Luma Health:
 	chadasapp: chadasapp!users.noreply.github.com from 2019-12-01 until 2021-04-01
 	demon: chadh!lumahealth.io, demon!users.noreply.github.com from 2019-12-01 until 2021-04-01
+	matheuscscp: matheuscscp!gmail.com, matheuscscp!linux.com from 2024-03-01 until 2024-11-08
 Luma Pictures LLC:
 	jpillora: dev!jpillora.com, jpillora!gmail.com, jpillora!users.noreply.github.com until 2015-01-01
 	theNewFlesh: alexander.g.braun!gmail.com, theNewFlesh!users.noreply.github.com from 2015-01-01 until 2015-05-01
@@ -7056,6 +7068,7 @@ Microsoft Corporation:
 	dgrala: dgrala!users.noreply.github.com until 2016-05-01
 	dharmeshkakadia: dharmeshkakadia!users.noreply.github.com from 2014-07-01
 	dhiraj0911: dhiraj0911!users.noreply.github.com from 2022-11-01 until 2023-06-01
+	digambar15: digambar15!users.noreply.github.com, digambarpat!gmail.com from 2022-02-01
 	digeler: digeler!users.noreply.github.com
 	dikhakha: dikhakha!microsoft.com
 	dilin-MS: dilin!microsoft.com from 2017-06-01 until 2017-09-01, from 2018-06-01
@@ -9483,6 +9496,7 @@ Mobica Ltd:
 	ipatrykx: ipatrykx!users.noreply.github.com from 2018-11-01
 	it-praktyk: it-praktyk!users.noreply.github.com from 2017-01-01 until 2019-04-01
 	kyrtapz: kyrtapz!users.noreply.github.com from 2015-05-01 until 2021-08-01
+	p-strusiewiczsurmacki-mobica: p-strusiewiczsurmacki-mobica!users.noreply.github.com from 2018-11-01
 Mobicare:
 	edualb: edualb!users.noreply.github.com from 2019-04-01 until 2019-07-01
 	jademcosta: jademcosta!users.noreply.github.com until 2014-12-01
@@ -9897,6 +9911,8 @@ Mondrian:
 	Otterpohl: Otterpohl!users.noreply.github.com from 2020-03-01 until 2022-06-01
 Monedo:
 	xgt001: xgt001!users.noreply.github.com, xgt008!gmail.com from 2018-01-01 until 2020-10-01
+Moneris:
+	lekaf974: lekaf974!users.noreply.github.com from 2025-01-01
 Monese:
 	fernando-villalba: fernando-villalba!users.noreply.github.com from 2019-04-01 until 2021-03-01
 Monetas:
@@ -11649,6 +11665,7 @@ NEC Corporation:
 	ghanshyammann: ghanshyam.mann!nectechnologies.in, ghanshyammann!users.noreply.github.com, gmann!ghanshyammann.com
 	h-shimamoto: h-shimamoto!ct.jp.nec.com
 	hidekazuna: hidekazuna!gmail.com, hidekazuna!users.noreply.github.com until 2020-05-01
+	i-yasuda: i-yasuda!users.noreply.github.com, ikumu.yasuda!nec.com
 	jtudelag: jtudelag!users.noreply.github.com until 2016-02-01
 	k-toyoda-pi: k-toyoda!pi.jp.nec.com, k-toyoda-pi!users.noreply.github.com
 	ken-ajiro: 129729055+ken-ajiro!users.noreply.github.com, ken-ajiro!users.noreply.github.com, kenajiro!nec.com
@@ -11690,6 +11707,7 @@ NEC Corporation:
 	visheshtha: visheshtha!users.noreply.github.com, visheshtha.yadav!india.nec.com
 	y-higuchi: y-higuchi!ak.jp.nec.com, y-higuchi!onlab.us, y-higuchi!opennetworking.org
 	yosshy: a-yoshiyama!nec.com, akirayoshiyama!gmail.com, yosshy!users.noreply.github.com
+	yzhou-nec: yzhou-nec!users.noreply.github.com, zhouyifeng!nec.com
 	zhulongcheng: akirayoshiyama!gmail.com
 	ziyi-xie: 92832323+ziyi-xie!users.noreply.github.com, kai-shii!nec.com, ziyi-xie!users.noreply.github.com
 NEC Iberica:
@@ -15931,23 +15949,3 @@ Nodalink:
 	benoit-canet: benoit.canet!nodalink.com
 Node Prime:
 	aaronlehmann: aaron.lehmann!docker.com, aaronlehmann!users.noreply.github.com from 2015-01-01 until 2015-07-01
-Node.js Foundation:
-	BridgeAR: BridgeAR!users.noreply.github.com, ruben!bridgewater.de from 2018-11-01
-	Joerg-Tech: Joerg-Tech!users.noreply.github.com from 2020-04-01
-	JustinBeckwith: JustinBeckwith!users.noreply.github.com, beckwith!google.com, justin.beckwith!gmail.com from 2016-08-01 until 2017-08-01
-	MylesBorins: MylesBorins!users.noreply.github.com, mborins!us.ibm.com, myles.borins!gmail.com from 2017-09-01 until 2019-03-01
-	TimothyGu: TimothyGu!users.noreply.github.com, timothygu99!gmail.com from 2017-06-01 until 2018-03-01
-	ahmadnassri: ahmad!ahmadnassri.com, ahmad!codeinchaos.com, ahmadnassri!users.noreply.github.com from 2018-08-01 until 2019-05-01
-	cjihrig: cjihrig!gmail.com, cjihrig!users.noreply.github.com
-	dshaw: dshaw!dshaw.com, dshaw!users.noreply.github.com, erick.belf!gmail.com, github!dshaw.com from 2017-06-01 until 2017-08-01
-	emwalker: emwalker!users.noreply.github.com, eric.walker!gmail.com from 2014-09-01 until 2015-12-01
-	ohthehugemanatee: campbell!vertesi.com, ohthehugemanatee!users.noreply.github.com until 2018-12-01
-	rvagg: r!va.gg, rod!vagg.org, rvagg!users.noreply.github.com
-Node4:
-	RyanW8: RyanW8!users.noreply.github.com from 2017-11-01 until 2020-01-01
-	fivovic: fivovic!users.noreply.github.com
-	stephensmithlyft: stephensmithlyft!users.noreply.github.com from 2015-08-01 until 2019-11-01
-NodeConf:
-	a0viedo: a0viedo!users.noreply.github.com, alejandro.oviedo.g!gmail.com from 2015-11-01 until 2018-06-01
-NodeCraft Hosting:
-	geekthattweaks: geekthattweaks!users.noreply.github.com from 2015-07-01 until 2016-03-01
