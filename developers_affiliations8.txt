@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+rabeeh: rabeeh!solid-run.com
+	SolidRun
+rabi: rabi!users.noreply.github.com, ramishra!redhat.com
+	Red Hat Inc.
 rabinv: rabin!rab.in, vincent.whitchurch!axis.com
 	!GP
 rabinv: rabin.vincent!axis.com, rabin.vincent!stericsson.com, rabinv!axis.com

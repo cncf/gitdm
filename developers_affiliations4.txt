@@ -10318,10 +10318,13 @@ dmitchnewrelic: dmitchell!newrelic.com
 	New Relic Inc.
 dmiter: alittletf!gmail.com, dmitry.eremin!intel.com
 	Intel Corporation
-dmitri-d: dmitri.dolguikh!solo.io, dmitri-d!users.noreply.github.com, witlessbird!gmail.com, dmitri@appliedlogic.ca
-	Red Hat Inc. from 2009-09-01 until 2021-10-30
+dmitri-d: ddolguik!redhat.com, dmitri!appliedlogic.ca, dmitri-d!users.noreply.github.com, dmitri.dolguikh!solo.io
+	Red Hat Inc. until 2021-11-01
 	Aviatrix from 2021-11-01 until 2022-08-30
+	Independent from 2022-08-30 until 2023-04-01
 	Solo.io from 2023-04-01
+dmitri-d: witlessbird!gmail.com
+	Red Hat Inc.
 dmitrievav: dmitrievav!users.noreply.github.com
 	Align until 2016-03-01
 	Rocket from 2016-03-01 until 2017-06-01
@@ -23859,9 +23862,3 @@ gaowanlong: wanlong.gao!easystack.cn, wanlong.gao!gmail.com
 	EasyStack Inc.
 gaoxinge: gaoxinge!users.noreply.github.com
 	TianRang
-gaoxm: gaoxm!users.noreply.github.com
-	Meta Platforms Inc.
-gaozhenhai: gaozh1988!live.com, gaozhenhai!users.noreply.github.com
-	tenxcloud
-gaozhidf: gaozhidf!gmail.com, gaozhidf!users.noreply.github.com
-	Ericsson

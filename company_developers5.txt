@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+HEMAS:
+	nerodtm: nerodtm!users.noreply.github.com from 2022-11-01
 HENNGE:
 	anphung: anphung!users.noreply.github.com from 2014-12-01 until 2015-10-01
 	dav009: dav009!users.noreply.github.com from 2017-03-01 until 2019-05-01

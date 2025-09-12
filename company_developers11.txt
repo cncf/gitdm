@@ -2,6 +2,9 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Snow Software AB:
+	AntPAllen: AntPAllen!users.noreply.github.com from 2017-10-01
+	PerMalmberg: per.malmberg!gmail.com from 2015-12-01
 Snow Sonic:
 	phisco: phisco!users.noreply.github.com, pscorso93!gmail.com until 2015-03-01
 SnowCamp:
@@ -938,6 +941,7 @@ Solo.io:
 	MitchAman: mitch.aman!solo.io from 2021-04-12
 	Nadine2016: Nadine2016!users.noreply.github.com from 2022-04-01
 	PetrMc: PetrMc!users.noreply.github.com from 2023-11-01
+	Rachael-Graham: Rachael-Graham!users.noreply.github.com, lgraham92!gmail.com, rachael.graham!solo.io
 	SirNexus: SirNexus!users.noreply.github.com, aidan.carson!solo.io from 2022-03-14
 	Sodman: Sodman!users.noreply.github.com, shane!shaneod.net, shane.odonnell!solo.io, sodman74!gmail.com from 2020-05-26
 	afro-coder: afro-coder!users.noreply.github.com, leon.nunes!solo.io, leon9923!gmail.com, me!leonnunes.dev
@@ -966,6 +970,7 @@ Solo.io:
 	dhawton: daniel!hawton.org, daniel.hawton!solo.io, dhawton!users.noreply.github.com from 2020-12-12
 	djannot: denis.jannot!solo.io, djannot!gmail.com, djannot!users.noreply.github.com from 2020-08-01
 	djmcaleese: declan.mcaleese!solo.io, djmcaleese!users.noreply.github.com from 2023-05-08
+	dmitri-d: ddolguik!redhat.com, dmitri!appliedlogic.ca, dmitri-d!users.noreply.github.com, dmitri.dolguikh!solo.io from 2023-04-01
 	edubonifs: edubonifs!users.noreply.github.com from 2020-09-01
 	elcasteel: elcasteel!users.noreply.github.com from 2021-06-01 until 2023-11-01
 	find-arka: arka.bhattacharya!solo.io from 2022-08-08
@@ -1029,6 +1034,7 @@ Solo.io:
 	tjons: tjons!users.noreply.github.com, tylerschade99!gmail.com from 2022-02-18 until 2024-09-20
 	totallyGreg: greg.williams!solo.io, totallyGreg!users.noreply.github.com from 2021-06-01
 	willowmck: will.mckinley!solo.io from 2021-04-01
+	witlessbird: dmitri!appliedlogic.ca, witlessbird!gmail.com, witlessbird!users.noreply.github.com from 2023-04-01
 	wkrause13: william.k.krause!gmail.com, wkrause13!users.noreply.github.com from 2024-02-01
 	ymesika: mesika!il.ibm.com, ymesika!gmail.com, ymesika!users.noreply.github.com, yossi.mesika!solo.io from 2022-05-01
 	yuval-k: yuval-k!users.noreply.github.com, yuval.kohavi!gmail.com from 2017-10-01
@@ -10073,7 +10079,6 @@ Tencent Holdings Limited:
 	hustcat: dbyin!tencent.com, eyniy!qq.com, hustcat!users.noreply.github.com
 	ilyee: 493647673!qq.com, ilyee!users.noreply.github.com
 	imroc: imroc!users.noreply.github.com, roc!imroc.io, rockerchen!tencent.com
-	ivan-cai: ivan-cai!users.noreply.github.com
 	jasonwzm: jasonwzm!gmail.com, jasonwzm!users.noreply.github.com from 2013-06-01 until 2013-08-01
 	jeremyxu2010: jeremyxu2010!gmail.com, jeremyxu2010!users.noreply.github.com
 	jimmy-zh: jimmy-zh!users.noreply.github.com, midnight.vivian!gmail.com
