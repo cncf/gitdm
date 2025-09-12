@@ -2,6 +2,27 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Raytheon|Websense:
+	ellistarn: ellistarn!gmail.com, ellistarn!users.noreply.github.com until 2014-03-01
+Raytion:
+	justjanne: janne!kuschku.de, justjanne!users.noreply.github.com from 2020-05-01 until 2021-11-01
+Raywal:
+	madianas21: madianas21!users.noreply.github.com until 2015-06-01
+Razer:
+	ng29: ng29!users.noreply.github.com, nitingupta2906!gmail.com from 2016-09-01 until 2017-08-01
+Razeware LLC:
+	BrodyEller: BrodyEller!users.noreply.github.com from 2017-04-01 until 2020-08-01
+Razor:
+	sparkeh9: sparkeh9!users.noreply.github.com from 2014-11-01
+Razor Labs:
+	OriBenHur-akeyless: OriBenHur-akeyless!users.noreply.github.com from 2020-05-01 until 2022-04-01
+Razorframe:
+	parkedwards: ed.sh.park!gmail.com, parkedwards!users.noreply.github.com from 2016-09-01 until 2017-09-01
+Razorops:
+	dinesh: dinesh!users.noreply.github.com from 2018-05-01
+	sangam14: sangam14!users.noreply.github.com from 2020-01-01 until 2020-11-01
+Razorpa:
+	sourava01: sourava01!users.noreply.github.com from 2023-10-01
 Razorpay:
 	Ckbhatia: Chetansain86!gmail.com from 2022-06-01 until 2023-02-01
 	SoulPancake: SoulPancake!users.noreply.github.com from 2022-04-01 until 2025-02-01
@@ -568,6 +589,7 @@ Red Hat Inc.:
 	EdDev: EdDev!users.noreply.github.com, edwardh!redhat.com from 2015-11-01
 	EduardGomezEscandell: egomez!redhat.com from 2024-04-01
 	Edward5hen: weshen!redhat.com from 2016-07-01
+	EgorLu: EgorLu!users.noreply.github.com from 2020-02-01 until 2021-01-01
 	Elbehery: Elbehery!users.noreply.github.com, melbeher!redhat.com
 	ElijahCaine: ElijahCaine!users.noreply.github.com, elijah.caine!coreos.com, elijahcainemv!gmail.com, voigte!osuosl.org
 	ElioLopez: ElioLopez!users.noreply.github.com from 2015-12-01 until 2017-09-01
@@ -589,6 +611,7 @@ Red Hat Inc.:
 	Frawless: Frawless!users.noreply.github.com, jstejska!redhat.com, stejskinek!gmail.com, xstejs24!gmail.com from 2017-07-01
 	Freddy-Montero: fmontero!redhat.com from 2016-03-01
 	FreedomBen: FreedomBen!users.noreply.github.com, freedomben!protonmail.com
+	Gal-Zaidman: Gal-Zaidman!users.noreply.github.com from 2017-09-01 until 2021-12-01
 	GeekArthur: usherwang19!gmail.com from 2020-09-01 until 2021-10-01
 	GeoBK: GeoBK!users.noreply.github.com, bkuriang!redhat.com from 2019-07-01
 	Gouthamve: Gouthamve!users.noreply.github.com, cs14btech11014!iith.ac.in, goutham!boomerangcommerce.com, gouthamve!gmail.com from 2017-05-01 until 2017-07-01
@@ -825,6 +848,7 @@ Red Hat Inc.:
 	adellape: adellape!redhat.com, adellape!users.noreply.github.com
 	adelton: adelton!users.noreply.github.com, jpazdziora!redhat.com
 	adeniyistephen: adeniyistephen!users.noreply.github.com from 2019-01-01
+	adetalhouet: adetalhouet!users.noreply.github.com, adetalhouet89!gmail.com from 2021-04-01 until 2024-09-01
 	adietish: adietish!redhat.com
 	adisky: adi.sky17!gmail.com, adisky!users.noreply.github.com, aditi.s!india.nec.com, adsharma!redhat.com, sharmaad!vmware.com from 2020-01-18 until 2020-12-24
 	aditya-konarde: aditya-konarde!users.noreply.github.com, aditya.konarde!gmail.com, akonarde!redhat.com
@@ -1023,6 +1047,7 @@ Red Hat Inc.:
 	averevki: sandyverevkin!gmail.com
 	avikivity: Dodd.AnthonyJosiah!gmail.com, avi!scylladb.com, avi.kivity!gmail.com, avikivity!users.noreply.github.com until 2012-12-01
 	avinal: avinal!users.noreply.github.com, avinal.xlvii!gmail.com from 2022-01-01
+	avishayt: avishayt!users.noreply.github.com from 2020-01-01
 	avlitman: avlitman!users.noreply.github.com from 2020-03-01
 	avyas26: avyas26!users.noreply.github.com from 2021-05-01
 	aweiteka: aweiteka!redhat.com, aweiteka!users.noreply.github.com
@@ -1240,6 +1265,7 @@ Red Hat Inc.:
 	ciiay: ciiay!users.noreply.github.com, yicai!redhat.com from 2021-06-01
 	cindy: cindy.pallaresq!gmail.com from 2014-03-24
 	cipherboy: alex.scheel!hashicorp.com from 2017-05-01 until 2017-08-01, from 2018-06-01 until 2021-03-01
+	cjeanner: cjeanner!users.noreply.github.com from 2020-12-01
 	cjreyn: cjreyn!users.noreply.github.com
 	ckandag: ckandag!users.noreply.github.com, ckandaga!redhat.com
 	ckavili: ckavili!users.noreply.github.com from 2020-04-01
@@ -2706,6 +2732,7 @@ Red Hat Inc.:
 	piparul: piparul!users.noreply.github.com from 2018-06-01 until 2018-09-01, from 2018-12-01
 	pipo: pkrempa!redhat.com
 	pittar: apitt!redhat.com, pittar!users.noreply.github.com from 2019-01-01
+	pixelsoccupied: pixelsoccupied!users.noreply.github.com
 	piyush-garg: 19270240+piyush-garg!users.noreply.github.com, piyush-garg!users.noreply.github.com
 	pjanouse: pjanouse!redhat.com
 	pjgg: pablo.gonzalez.granados!gmail.com, pjgg!users.noreply.github.com from 2020-10-01 until 2023-04-01
@@ -3250,6 +3277,7 @@ Red Hat Inc.:
 	tkashem: tkashem!users.noreply.github.com from 2018-04-01
 	tkrishtop: tkrishtop!users.noreply.github.com from 2021-07-01
 	tlitovsk: tlitovsk!redhat.com, tlitovsk!users.noreply.github.com
+	tliu2021: tliu2021!users.noreply.github.com from 2021-07-01
 	tmckayus: tmckayus!users.noreply.github.com until 2020-01-01
 	tmds: tmds!users.noreply.github.com, tom.deseyn!gmail.com from 2016-10-01
 	tmuthamizhan: tmuthami!redhat.com
@@ -5429,6 +5457,8 @@ Robin:
 	duriti: duriti!users.noreply.github.com from 2019-03-01
 Robin Systems:
 	eyeofthefrog: chris!octarinesec.com, eyeofthefrog!users.noreply.github.com until 2017-04-01
+Robinhood Financial LLC:
+	udayruddarraju: uday.ruddarraju!gmail.com, udayruddarraju!users.noreply.github.com from 2018-08-01 until 2024-06-01
 Robinhood Markets Inc.:
 	AlexAtkinson: AlexAtkinson!users.noreply.github.com from 2025-01-01
 	CharlieMartell: CharlieMartell!users.noreply.github.com from 2020-11-01 until 2022-07-01
@@ -7585,6 +7615,8 @@ SHOPTHAT:
 	maxmcd: maxmcd!users.noreply.github.com from 2017-05-01 until 2018-03-01
 SHS Viveon:
 	RappC: RappC!users.noreply.github.com until 2016-12-01
+SI BIS:
+	surabujin: surabujin!users.noreply.github.com until 2015-03-01
 SIA 4finance IT Sp. z o. o. Oddziat w Polsce:
 	ArturGajowy: ArturGajowy!users.noreply.github.com from 2014-09-01 until 2015-12-01
 	jonas-l: jonas-l!users.noreply.github.com until 2014-07-01
@@ -14148,6 +14180,8 @@ Siili Solutions Oyj:
 	slomek: ppawelslomka!gmail.com, slomek!users.noreply.github.com
 Siiwerk Oy:
 	jlumme: jesse.lumme!gmail.com, jlumme!users.noreply.github.com until 2017-12-01
+Sikt:
+	nerok: nerok!users.noreply.github.com
 Sikuani:
 	unmultimedio: unmultimedio!users.noreply.github.com until 2015-12-01
 SilOOette:
@@ -16013,36 +16047,3 @@ Snapp:
 	saeidakbari: code!eddie.sh, saeid9063!gmail.com, saeidakbari!users.noreply.github.com from 2020-09-01
 SnappCar:
 	crunchtime-ali: crunchtime-ali!users.noreply.github.com from 2015-02-01 until 2015-08-01
-SnappMarket:
-	msitworld: msitworld!users.noreply.github.com from 2022-04-01 until 2023-02-01
-	sayjeyhi: sayjeyhi!gmail.com, sayjeyhi!users.noreply.github.com from 2019-10-01 until 2021-01-01
-SnappTrip:
-	kevinkim9264: kangkim9264!gmail.com, kevinkim9264!users.noreply.github.com from 2017-02-01 until 2019-04-01
-Snappy Research:
-	josepot: josepot!gmail.com, josepot!users.noreply.github.com from 2017-09-01 until 2018-04-01
-Snaps:
-	BruceAko: BruceAko!users.noreply.github.com until 2015-10-01
-Snazzy:
-	ayushpateria: ayushpateria!users.noreply.github.com, cs15btech11007!iith.ac.in from 2020-07-01
-Snipp:
-	asok-mirror: asok-mirror!users.noreply.github.com from 2018-08-01 until 2020-04-01
-Snips:
-	corradio: corradio!users.noreply.github.com until 2016-02-01
-	elbywan: elbywan!users.noreply.github.com, julien.elbaz!web-education.net from 2017-11-01 until 2019-11-01
-	jeremiegirault: jeremie.girault!gmail.com, jeremiegirault!users.noreply.github.com
-Snoculars:
-	dmitryyankowski: dmitry!snoculars.com from 2018-10-01
-Snoonu:
-	pashtet04: pashtet04!gmail.com, pashtet04!users.noreply.github.com from 2022-05-01 until 2023-01-01
-Snooper:
-	alexperez52: alexperez52!users.noreply.github.com from 2020-07-01 until 2020-09-01
-Snootlab:
-	Beetix: Beetix!users.noreply.github.com from 2018-09-01 until 2019-02-01
-Snopes:
-	reilly3000: reilly3000!users.noreply.github.com from 2019-10-01 until 2021-06-01
-Snorkel AI:
-	williamhuangh: williamhuang5098!gmail.com, williamhuangh!users.noreply.github.com from 2019-12-01
-Snow:
-	pieterlange: pieter!ptlc.nl, pieterlange!users.noreply.github.com until 2015-12-01
-Snow Day Calculator:
-	phoenixking25: anujjangra25119!gmail.com, phoenixking25!users.noreply.github.com from 2017-10-01 until 2018-06-01

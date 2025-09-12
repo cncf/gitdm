@@ -2,6 +2,20 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+LucidWorks Inc.:
+	akanarsky: akanarsky!users.noreply.github.com from 2015-06-01 until 2020-03-01
+	dmitrytokarev: dmitrytokarev!users.noreply.github.com from 2014-07-01 until 2015-02-01
+	ezeev: evan.pease!gmail.com, ezeev!users.noreply.github.com
+	kai-tillman: kai-tillman!users.noreply.github.com from 2019-08-01 until 2020-03-01
+	makuk66: mak-github!greenhills.co.uk, makuk66!users.noreply.github.com
+	nddipiazza: nddipiazza!users.noreply.github.com, nicholas.dipiazza!lucidworks.com from 2016-02-01
+	sekka1: garlandk!gmail.com, sekka1!users.noreply.github.com from 2017-12-01 until 2018-09-01
+Lucida:
+	nikolaik: nikolaik!gmail.com from 2016-12-01 until 2017-12-01
+Lucidity:
+	igorvpcleao: igorvpcleao!gmail.com, igorvpcleao!users.noreply.github.com from 2018-10-01
+Lucini&Lucini:
+	damascenorakuten: damascenorakuten!users.noreply.github.com from 2015-03-01 until 2016-02-01
 Lucinity:
 	aodj: aodj!users.noreply.github.com from 2019-06-01
 	stebet: stebet!users.noreply.github.com from 2023-01-01
@@ -5397,6 +5411,7 @@ Meta Platforms Inc.:
 	bkim54: bkim54!users.noreply.github.com from 2019-04-01
 	bmc99: bmc99!users.noreply.github.com, bmithun!yahoo.com from 2018-10-01
 	bobbypage: bobbypage!users.noreply.github.com, david!porter.me from 2018-09-01 until 2018-12-01
+	boldfield: boldfield!users.noreply.github.com from 2016-05-01 until 2022-02-01
 	bolinfest: bolinfest!gmail.com
 	bradlygreen: bradlygreen!gmail.com, bradlygreen!users.noreply.github.com from 2017-06-01
 	brandonbodnar-wk: brandonbodnar-wk!users.noreply.github.com from 2020-04-01
@@ -8093,6 +8108,7 @@ Microsoft Corporation:
 	sergeybykov: sbykov!microsoft.com, sergeybykov!users.noreply.github.com until 2020-09-01
 	serprex: serprex!users.noreply.github.com from 2019-01-01 until 2023-10-01
 	seushermsft: seushermsft!users.noreply.github.com
+	sf1tzp: sf1tzp!users.noreply.github.com from 2021-08-01 until 2024-11-01
 	sfc-gh-gshe: guozhen.she!snowflake.com from 2019-01-01 until 2019-06-01
 	sgoings: segoings!microsoft.com, seth!deis.com, sethgoings!gmail.com, sgoings!deis.com, sgoings!engineyard.com, sgoings!users.noreply.github.com from 2017-04-01
 	shahriak: shahriak!users.noreply.github.com from 2020-04-01
@@ -12424,6 +12440,7 @@ NVIDIA Corporation:
 	Eric-Zhang1990: Eric-Zhang1990!users.noreply.github.com, shifengzhang1990!gmail.com from 2020-06-01 until 2020-08-01
 	Ethyling: Ethyling!users.noreply.github.com, jjacobelli!nvidia.com
 	FrankSpitulski: FrankSpitulski!users.noreply.github.com, frankspitulski!gmail.com, fspituls!ucsd.edu
+	Gal-Zaidman: Gal-Zaidman!users.noreply.github.com from 2021-12-01
 	Gnurou: acourbot!chromium.org, acourbot!nvidia.com, gnurou!gmail.com until 2017-03-01
 	HarryMichal: harrymichal!seznam.cz from 2024-05-01
 	KiranPadwal: kiran.padwal!smartplayin.com, kiran.padwal21!gmail.com from 2016-04-01
@@ -12454,6 +12471,7 @@ NVIDIA Corporation:
 	beefyamoeba5: beefyamoeba5!users.noreply.github.com, lvjing5!huawei.com from 2020-10-01
 	benjaminchan: benjaminchan!users.noreply.github.com from 2022-03-01
 	bhadram: varkab!cdac.in from 2015-11-01
+	boldfield: boldfield!users.noreply.github.com from 2024-04-01
 	bopiy: dahuang!nvidia.com
 	calvin0327: calvin0327!users.noreply.github.com, wen.chen!daocloud.io from 2017-10-01 until 2018-03-01
 	chaitanyav: chaitanyav!users.noreply.github.com until 2015-09-01, from 2018-05-01
@@ -14475,6 +14493,7 @@ Netflix Inc.:
 	ocochard: olivier!cochard.me, olivier!freebsd.org
 	patricksanders: mail!patricksanders.net from 2019-11-01
 	paulbakker: paul.bakker.nl!gmail.com, paulbakker!users.noreply.github.com
+	pszczerbik: pszczerbik!users.noreply.github.com from 2025-09-01
 	quidryan: jryan!netflix.com, justin!halfempty.org
 	rahulsom: rahulsom!users.noreply.github.com from 2018-03-01
 	ralfonso: ralfonso!users.noreply.github.com from 2020-08-01
@@ -15937,15 +15956,3 @@ Nobl9:
 	themightymuppet: themightymuppet!users.noreply.github.com from 2021-02-01 until 2023-12-01
 NobleProg:
 	theanotherwise: theanotherwise!users.noreply.github.com from 2022-11-01 until 2023-07-01
-Noblis:
-	mark-nc: mark-nc!users.noreply.github.com from 2015-09-01 until 2019-11-01
-	tomhuang12: tomhuang12!users.noreply.github.com until 2014-08-01, from 2015-01-01 until 2017-07-01
-	zacharyljones: zacharyljones!users.noreply.github.com from 2017-04-01 until 2017-12-01
-Nod:
-	JamesMarino: james!marino.io from 2018-02-01 until 2019-06-01
-	Miles-Garnsey: Miles-Garnsey!users.noreply.github.com from 2018-09-01 until 2019-12-01
-	suryaavala: suryaavala!users.noreply.github.com, suryaavala.dev!gmail.com from 2017-12-01 until 2019-08-01
-Nodalink:
-	benoit-canet: benoit.canet!nodalink.com
-Node Prime:
-	aaronlehmann: aaron.lehmann!docker.com, aaronlehmann!users.noreply.github.com from 2015-01-01 until 2015-07-01
