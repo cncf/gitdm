@@ -2,6 +2,28 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Raynet:
+	toxynoid: toxynoid!users.noreply.github.com until 2016-04-01
+Raytheon Intelligence & Space:
+	pxp928: pxp928!users.noreply.github.com from 2019-01-01 until 2021-04-01
+Raytheon Technologies:
+	AntonKueltz: AntonKueltz!users.noreply.github.com until 2014-06-01
+	Electron752: mzoran!crowfest.net
+	KCSesh: KCSesh!users.noreply.github.com from 2016-01-01 until 2017-11-01
+	MorrisLaw: MorrisLaw!users.noreply.github.com, jeremylevanmorris!gmail.com from 2016-02-01 until 2017-03-01
+	brylex418: brylex418!users.noreply.github.com from 2016-02-01 until 2018-02-01
+	courtneypacheco: courtneypacheco!users.noreply.github.com from 2015-07-01 until 2015-11-01
+	dudash: dudash!users.noreply.github.com, jason.dudash!gmail.com, thenut77!gmail.com until 2015-11-01
+	endawkins: eryn.dawkins!suse.com from 2020-05-01 until 2021-12-01
+	hlschmidbauer: hlschmidbauer!users.noreply.github.com from 2017-06-01 until 2020-01-01
+	jasonhancock: jasonhancock!users.noreply.github.com from 2015-10-01 until 2016-05-01
+	mjgutermuth: mjgutermuth!users.noreply.github.com until 2015-01-01
+	mjnagel: mjnagel!users.noreply.github.com from 2019-06-01 until 2020-06-01
+	mkm29: mitch.murphy!gmail.com from 2022-05-01 until 2023-02-01
+	mphammer: mphammer!users.noreply.github.com from 2017-05-01 until 2018-10-01
+	pxp928: pxp928!users.noreply.github.com from 2015-09-01 until 2019-01-01
+	tangkun75: tangkun75!gmail.com, tangkun75!users.noreply.github.com until 2014-03-01
+	timm088: 8890118+timm088!users.noreply.github.com, timj.curtin!gmail.com, timm088!users.noreply.github.com until 2014-10-01
 Raytheon|Websense:
 	ellistarn: ellistarn!gmail.com, ellistarn!users.noreply.github.com until 2014-03-01
 Raytion:
@@ -1358,6 +1380,7 @@ Red Hat Inc.:
 	danilocesar: danilo.cesar!collabora.co.uk
 	danivilla9: danivilla9!users.noreply.github.com from 2024-06-01
 	dankenigsberg: danken!gmail.com, danken!redhat.com, dankenigsberg!users.noreply.github.com
+	dankingtech: dankingtech.github!anewmind.me from 2021-04-01 until 2024-09-01
 	danmcp: danmcp!users.noreply.github.com, dmcphers!redhat.com
 	danniel1205: danniel1205!users.noreply.github.com until 2019-01-01
 	dannyzaken: dannyzaken!users.noreply.github.com from 2018-02-01
@@ -2110,6 +2133,7 @@ Red Hat Inc.:
 	jwhonce: jhonce!redhat.com, jwhonce!users.noreply.github.com
 	jwmatthews: jmatthew!redhat.com, jwmatthews!gmail.com
 	jwrdegoede: asa!asasmith.com, hdegoede!redhat.com, j.w.r.degoede!gmail.com, jwrdegoede!fedoraproject.org
+	jzding: jzding!users.noreply.github.com from 2021-03-01
 	jzelinskie: jimmy!coreos.com, jimmy.zelinskie!coreos.com, jimmy.zelinskie+git!gmail.com, jimmyzelinskie!gmail.com, jzelinskie!users.noreply.github.com
 	k-wall: k-wall!users.noreply.github.com
 	kabir: kabir.khan!jboss.com, kkhan!redhat.com
@@ -2710,7 +2734,7 @@ Red Hat Inc.:
 	petr-muller: afri!afri.cz, muller!redhat.com, petr-muller!users.noreply.github.com until 2016-08-01, from 2018-06-01
 	petrepopescu21: petrepopescu21!users.noreply.github.com from 2014-07-01 until 2016-07-01
 	petrkotas: petr.kotas!gmail.com, petrkotas!users.noreply.github.com, pkotas!redhat.com from 2017-06-01
-	pfeifferj: josie!redhat.com from 2023-01-01
+	pfeifferj: github!josie.lol, gitlab!josie.lol, hi!josie.lol, josephine.pfeiffer!sygnum.com, josie!linux.com, josie!redhat.com, jpfeiffe!redhat.com from 2023-01-01
 	pgburt: pgburt!gmail.com
 	pgier: pgier!redhat.com, pgier!users.noreply.github.com
 	phantomjinx: phantomjinx!users.noreply.github.com
@@ -5457,8 +5481,6 @@ Robin:
 	duriti: duriti!users.noreply.github.com from 2019-03-01
 Robin Systems:
 	eyeofthefrog: chris!octarinesec.com, eyeofthefrog!users.noreply.github.com until 2017-04-01
-Robinhood Financial LLC:
-	udayruddarraju: uday.ruddarraju!gmail.com, udayruddarraju!users.noreply.github.com from 2018-08-01 until 2024-06-01
 Robinhood Markets Inc.:
 	AlexAtkinson: AlexAtkinson!users.noreply.github.com from 2025-01-01
 	CharlieMartell: CharlieMartell!users.noreply.github.com from 2020-11-01 until 2022-07-01
@@ -5475,6 +5497,7 @@ Robinhood Markets Inc.:
 	marcoamorales: marcoamorales!users.noreply.github.com from 2016-05-01
 	nckturner: 1205393+nckturner!users.noreply.github.com, nckturner!users.noreply.github.com, nic!amazon.com, nick.turner!robinhood.com from 2024-01-18
 	randxie: randxie!users.noreply.github.com, randxiexyy29!gmail.com from 2020-10-01
+	udayruddarraju: uday.ruddarraju!gmail.com, udayruddarraju!users.noreply.github.com from 2018-08-01 until 2024-06-01
 	uruddarraju: rudaykumarraju!gmail.com, uday.ruddarraju!robinhood.com, uruddarraju!ebay.com, uruddarraju!users.noreply.github.com from 2018-08-01
 	williamhu99: williamhu99!users.noreply.github.com from 2020-09-01
 	ybbkrishna: ybbkrishna!gmail.com from 2021-08-01 until 2022-04-01
@@ -12304,6 +12327,7 @@ SendGrid:
 	hobbsh: hobbsh!users.noreply.github.com, wylie!wyliehobbs.com from 2016-03-01 until 2016-08-01
 	jdumars: jasinger!microsoft.com, jdumars!gmail.com, jdumars!users.noreply.github.com, magnomp!gmail.com from 2015-08-01 until 2016-03-01
 	jeremytanner: jeremytanner!users.noreply.github.com from 2016-12-01 until 2019-12-01
+	jplimack: jplimack!users.noreply.github.com from 2016-12-01 until 2018-11-01
 	kplimack: jake.plimack!gmail.com, kplimack!users.noreply.github.com, sobreiro.pedro!gmail.com from 2016-12-01
 	matoszz: matoszz!users.noreply.github.com from 2018-06-01 until 2020-02-01
 	metrictwo: metrictwo!users.noreply.github.com from 2015-06-01
@@ -13679,6 +13703,8 @@ ShowGear:
 	marcdomain: marcdomain!users.noreply.github.com, marcus2cu!gmail.com from 2015-05-01 until 2017-08-01
 ShowKit:
 	kkallday: 926865+kkallday!users.noreply.github.com, kkallday!users.noreply.github.com until 2016-07-01
+ShowMobile:
+	jplimack: jplimack!users.noreply.github.com until 2015-06-01
 ShowSeeker:
 	dwdraju: dwdraju!users.noreply.github.com, rajudawadinp!gmail.com from 2021-03-01
 Showbox (acquired by Powtoon):
@@ -16016,34 +16042,3 @@ SnapShot:
 	smiklosovic: smiklosovic!users.noreply.github.com from 2015-12-01 until 2016-06-01
 SnapStrat:
 	francisu: francisu!gmail.com, francisu!users.noreply.github.com from 2018-04-01
-Snapask (Holdings) Inc.:
-	GnawNom: joewang!berkeley.edu from 2017-07-01
-	j03wang: joewang!berkeley.edu from 2017-07-01
-	joe11051105: joe11051105!users.noreply.github.com, joewang!berkeley.edu, wangjoe1105!gmail.com from 2017-07-01
-	k801030: k801030!users.noreply.github.com from 2015-12-01 until 2016-05-01
-Snapchat:
-	Will2817: Will2817!users.noreply.github.com, will.clifford!qlik.com, willclifford2817!gmail.com from 2017-09-01
-	chiraggadasc: chirag.gada!snapchat.com, chiraggadasc!users.noreply.github.com from 2016-01-01 until 2016-04-01
-	tabossert: tabossert!users.noreply.github.com from 2016-08-01 until 2018-03-01
-Snapdea:
-	DeepanshuA: deepanshu.agarwal1984!gmail.com from 2021-04-01 until 2022-01-01
-Snapdeal:
-	Jasvinder-aulakh: Jasvinder-aulakh!users.noreply.github.com until 2018-05-01
-	asifalix: asifalix!users.noreply.github.com from 2015-08-01 until 2017-10-01
-	cnu1812: cnu1812!gmail.com from 2021-05-01 until 2022-01-01
-	jasvinder-tp: jasvinder-tp!users.noreply.github.com until 2018-05-01
-	kshamajain99: kshamajain99!gmail.com, kshamajain99!users.noreply.github.com from 2015-06-01 until 2016-07-01
-	pardhasm: pardhasm!users.noreply.github.com from 2015-07-01 until 2017-02-01
-	phoenix24: phoenix24!users.noreply.github.com from 2019-01-01 until 2021-03-01
-	psbrar99: psbrar99!users.noreply.github.com from 2015-07-01 until 2016-08-01
-Snapdeal | AceVector:
-	AJ-54: AJ-54!users.noreply.github.com, ayushjai!iitg.ac.in from 2014-12-01 until 2017-03-01
-Snapdocs Inc.:
-	itmustbejj: itmustbejj!users.noreply.github.com from 2019-11-01 until 2020-06-01
-	jgaskins: jgaskins!gmail.com, jgaskins!users.noreply.github.com from 2019-07-01
-Snapp:
-	Azhovan: Azhovan!users.noreply.github.com, jasadi!d2iq.com from 2015-06-01 until 2017-02-01
-	mrazimi99: mrazimi99!gmail.com from 2022-07-01
-	saeidakbari: code!eddie.sh, saeid9063!gmail.com, saeidakbari!users.noreply.github.com from 2020-09-01
-SnappCar:
-	crunchtime-ali: crunchtime-ali!users.noreply.github.com from 2015-02-01 until 2015-08-01

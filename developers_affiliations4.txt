@@ -5,6 +5,32 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+combor: combor!users.noreply.github.com, piotr.komborski!gmail.com
+	Springer USA until 2015-10-15
+	Goverment Digital Service from 2015-10-15
+cometrojan: Cometrojan!users.noreply.github.com, d.gweon!samsung.com
+	Samsung SDS
+cometzero: parkch98!gmail.com
+	Samsung Electronics Co. Ltd.
+comfortablynumb: comfortablynumb!users.noreply.github.com
+	Intraway until 2019-09-01
+	Mercado Libre from 2019-09-01 until 2021-12-01
+	Kavak from 2021-12-01
+comicmuse: colm.linehan!gmail.com, comicmuse!users.noreply.github.com
+	Deutsche Bank AG
+commandgjj: gjinjun!gmail.com
+	VMware Inc.
+commarla: commarla!users.noreply.github.com, laurent.commarieu!gmail.com
+	iAdvize
+commixon: commixon!users.noreply.github.com
+	Mist.io until 2018-03-01
+	Beat from 2018-03-01
+commodo: alexandru.ardelean!analog.com, ardeleanalex!gmail.com
+	Analog Devices Inc.
+commonlisp: commonlisp!gmail.com, commonlisp!users.noreply.github.com
+	Intel Corporation
+compleatang: casey!monax.io, compleatang!users.noreply.github.com
+	Monax Industries Ltd
 complex64: complex64!users.noreply.github.com, joe!complex64.com
 	Wooga until 2016-08-01
 	Independent from 2016-08-01 until 2016-11-01
@@ -3955,6 +3981,12 @@ dankegit: d.xie!sta.samsung.com
 	Samsung Electronics Co. Ltd.
 dankenigsberg: danken!gmail.com, danken!redhat.com, dankenigsberg!users.noreply.github.com
 	Red Hat Inc.
+dankingtech: dankingtech.github!anewmind.me
+	Independent until 2015-02-01
+	Kontron Europe GmbH from 2015-02-01 until 2017-06-01
+	Bell from 2017-06-01 until 2021-04-01
+	Red Hat Inc. from 2021-04-01 until 2024-09-01
+	Google LLC from 2024-09-01
 dankirkpatrick: dankirkpatrick!users.noreply.github.com
 	Independent until 2016-01-01
 	Vroom from 2016-01-01 until 2017-05-01
@@ -18187,6 +18219,14 @@ etep: etep!users.noreply.github.com
 	Pixie from 2020-11-01
 ethan-daocloud: ethan-daocloud!users.noreply.github.com, guangming.wang!daocloud.io
 	DaoCloud Network Technology Co. Ltd.
+ethan-gallant: ethan.gallant!gmail.com
+	Independent until 2018-01-01
+	Microcad from 2018-01-01 until 2018-06-01
+	WPG from 2018-06-01 until 2019-12-01
+	Independent from 2019-12-01 until 2020-12-01
+	Ziax from 2020-12-01 until 2022-12-01
+	OceanSync from 2022-12-01 until 2023-01-01
+	Acquia Inc. from 2023-01-01
 ethan-lowman-dd: ethan-lowman-dd!users.noreply.github.com
 	Independent until 2015-03-01
 	Ammeon from 2015-03-01 until 2018-09-01
@@ -23817,51 +23857,3 @@ ganeshk1928: ganesh.katakam!freshworks.com
 	Independent until 2020-01-01
 	Freshworks Technologies Pvt. Ltd. from 2020-01-01 until 2023-11-01
 	Zenoti from 2023-11-01
-ganeshkumarashok: ganeshkumarashok!users.noreply.github.com
-	Independent until 2015-05-01
-	Qatar from 2015-05-01 until 2015-07-01
-	Independent from 2015-07-01 until 2016-07-01
-	Qatar from 2016-07-01 until 2016-09-01
-	Independent from 2016-09-01 until 2018-06-01
-	Area 1 Security from 2018-06-01 until 2018-08-01
-	Accel from 2018-08-01 until 2019-04-01
-	Microsoft Corporation from 2019-04-01 until 2019-08-01
-	Robotics at Berkeley from 2019-08-01 until 2020-05-01
-	Microsoft Corporation from 2020-05-01
-ganeshmaharaj: ganesh.mahalingam!intel.com, ganeshmaharaj!users.noreply.github.com
-	Intel Corporation
-ganeshniyer: ganeshniyer!users.noreply.github.com
-	IIIT Hyderabad until 2018-05-01
-	Salesforce.com Inc. from 2018-05-01
-ganeshr2: ganeshr2!users.noreply.github.com
-	Infosys Limited until 2014-07-01
-	Cognizant Technology Solutions from 2014-07-01
-ganezasan: ganezasan!users.noreply.github.com
-	Circle Internet Services Inc
-ganga1980: ganga1980!users.noreply.github.com, gangams!microsoft.com
-	Microsoft Corporation
-gangadhars: gangadhars!biarca.com, gangadhars!users.noreply.github.com
-	DBS Bank
-gangefors: gangefors!users.noreply.github.com, stefan!gangefors.com
-	Gangefors Programmering AB
-ganghe: ghe!suse.com
-	SUSE LLC
-gangseok514: gangseok514!gmail.com, gangseok514!users.noreply.github.com
-	Samsung Electronics Co. Ltd.
-ganguay: ayan!opsmx.io, ganguay!users.noreply.github.com
-	OpsMx
-ganievs: mail!ganiev.link
-	BARS GROUP until 2016-04-01
-	Infotech from 2016-04-01 until 2018-04-01
-	4Poker from 2018-04-01 until 2019-02-01
-	Independent from 2019-02-01 until 2019-10-01
-	Empathy from 2019-10-01 until 2020-04-01
-	ARRIVAL from 2020-04-01 until 2023-02-01
-	Plata Card from 2023-02-01
-ganmacs: ganmacs!gmail.com, ganmacs!users.noreply.github.com, yuta.iwama!treasure-data.com
-	Independent until 2017-04-01
-	Cookpad Inc. (UK) from 2017-04-01
-ganmao: zdl0812!163.com
-	Huawei Technologies Co. Ltd
-ganniterix: ganniterix!gmail.com, ganniterix!users.noreply.github.com
-	Gamesys Network
