@@ -5,6 +5,13 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+sugi: sugi!nemui.org, sugi!users.noreply.github.com
+	OSDN until 2019-06-01
+	Repro from 2019-06-01
+sugilog: sugilog!users.noreply.github.com
+	Live Revolution
+suguru: snamura!gmail.com
+	Mercari Inc
 suguru03: patrick.kings!live.com, suguru.motegi!gmail.com, suguru03!users.noreply.github.com
 	CyberAgent Inc. until 2015-11-01
 	Independent from 2015-11-01 until 2016-04-01
@@ -24038,9 +24045,3 @@ zkendall: zkendall!users.noreply.github.com
 	Dev9 from 2015-11-01 until 2016-10-01
 	Agilysys Inc. from 2016-10-01 until 2019-04-01
 	Axon from 2019-04-01
-zkhadikov: kvzura!gmail.com
-	Jedox until 2017-11-01
-	Endress+Hauser from 2017-11-01 until 2022-12-01
-	Wiferion from 2022-12-01
-zklapow: zklapow!gmail.com, zklapow!hubspot.com, zklapow!users.noreply.github.com
-	HubSpot Inc.
