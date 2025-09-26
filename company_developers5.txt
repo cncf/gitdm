@@ -706,6 +706,8 @@ HRtec:
 	ppabis: ppabis!users.noreply.github.com from 2020-09-01 until 2021-01-01
 HSA:
 	g-angstrom: g-angstrom!users.noreply.github.com until 2019-05-01
+HSB:
+	Ashtonian: Ashtonian!users.noreply.github.com from 2017-04-01 until 2018-05-01
 HSB - Hartford Steam Boiler:
 	Dig-Doug: Dig-Doug!users.noreply.github.com from 2015-05-01 until 2016-08-01
 HSBC:
@@ -1571,6 +1573,7 @@ HashiCorp Inc:
 	armon: armon.dadgar!gmail.com, vitaliy.bogdanets!gmail.com
 	asaba-hashi: asaba-hashi!users.noreply.github.com from 2022-08-01
 	asheshvidyut: asheshvidyut!users.noreply.github.com from 2023-04-01 until 2025-05-01
+	aslamovamir: aslamovamir!users.noreply.github.com from 2022-05-01 until 2022-08-01, from 2023-06-01 until 2025-06-01
 	austinvalle: austinvalle!gmail.com from 2022-12-01
 	azr: adrien.delorme!icloud.com, azr!users.noreply.github.com from 2018-07-01
 	banks: banks!users.noreply.github.com from 2017-08-01
@@ -2860,6 +2863,7 @@ Hexaware:
 	Rohitrajak1807: Rohitrajak1807!users.noreply.github.com from 2021-10-01
 	Subhamverma2407: Subhamverma2407!users.noreply.github.com, subhamverma2407!gmail.com from 2022-09-01 until 2024-08-01
 	dilyanpalauzov: dilyanpalauzov!users.noreply.github.com, dpa-github!aegee.org from 2024-04-01 until 2024-12-01
+	nitendra-thakur: nitendra-thakur!users.noreply.github.com until 2016-09-01
 Hexlab:
 	RaunakShah: RaunakShah!users.noreply.github.com, shahra!vmware.com from 2018-01-01 until 2018-12-01
 Hexmen Limited:
@@ -3227,6 +3231,7 @@ Hitachi Ltd.:
 	ak-tanak: ak-tanak!users.noreply.github.com
 	alexdotsh: alexdotsh!users.noreply.github.com from 2019-04-01 until 2019-11-01
 	amorenoz: amorenoz!users.noreply.github.com until 2014-07-01
+	asensionacher: sergi.asensio.nacher!gmail.com from 2023-02-01 until 2023-09-01
 	atsikham: atsikham!users.noreply.github.com, tihomirovanatoliy!gmail.com from 2020-08-01
 	bobdoah: bobdoah!users.noreply.github.com, robert.williams!hds.com
 	bucchi: bucchi!users.noreply.github.com
@@ -4286,6 +4291,7 @@ Huawei Technologies Co. Ltd:
 	artqzn: artqzn!users.noreply.github.com from 2020-03-01
 	asierHuawei: asierHuawei!users.noreply.github.com from 2022-09-01
 	asifdxtreme: asifdiatm!gmail.com, asifdxtreme!users.noreply.github.com, mohammad.asif.siddiqui1!huawei.com until 2021-08-01
+	baburciu: baburciu!users.noreply.github.com from 2017-06-01 until 2018-10-01
 	beefyamoeba5: beefyamoeba5!users.noreply.github.com, lvjing5!huawei.com from 2016-03-01 until 2020-10-01
 	bharatsaraswal-huawei: bharat.saraswal!huawei.com
 	bluebreezecf: bluebreezecf!gmail.com, bluebreezecf!users.noreply.github.com, fb!baqend.com, shijianwei.sjwei!huawei.com, shijianwei2020!163.com
@@ -4466,6 +4472,7 @@ Huawei Technologies Co. Ltd:
 	mbertrone: daniel!danieljost.com, haishyan!163.com, m.bertrone!gmail.com from 2017-05-01 until 2018-06-01
 	mbssaiakhil: malepatib.akhil!huawei.com, mbssaiakhil!users.noreply.github.com, ubo.oberoi!gmail.com from 2015-07-01 until 2018-07-01
 	mccxj: mc02cxj!gmail.com, mccxj!users.noreply.github.com
+	mchiappero: mchiappero!users.noreply.github.com from 2023-05-01 until 2024-02-01
 	meteortwinkle: 75751845!qq.com, yangjkmail!163.com
 	mewais: mewais!users.noreply.github.com from 2018-06-01 until 2019-08-01
 	miaoxie: miaoxie!huawei.com
@@ -6901,6 +6908,8 @@ ITS Iskratel:
 	ivanovaleksandar: ivanovaleksandar!users.noreply.github.com from 2016-03-01 until 2017-05-01
 ITS SYSTEM:
 	amioranza: amioranza!users.noreply.github.com until 2015-12-01
+ITSA BVDUCOE:
+	sanmarg: sanmarg!users.noreply.github.com from 2023-07-01 until 2024-06-01
 ITSA VIT:
 	YashPimple: YashPimple!users.noreply.github.com from 2022-08-01
 ITSDONE:
