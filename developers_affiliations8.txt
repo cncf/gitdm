@@ -5,6 +5,55 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+qixuanl1: qixuanl!google.com, qixuanl1!users.noreply.github.com
+	Google LLC
+qiyuangong: qiyuan.gong!intel.com, qiyuangong!users.noreply.github.com
+	Independent until 2017-01-01
+	Intel Corporation from 2017-01-01
+qiyueyao: qiyueyao!users.noreply.github.com
+	Independent until 2018-05-01
+	Deepfield from 2018-05-01 until 2018-08-01
+	Independent from 2018-08-01 until 2019-06-01
+	SAP from 2019-06-01 until 2019-08-01
+	Independent from 2019-08-01 until 2020-06-01
+	VMware Inc. from 2020-06-01
+qizha: antoine.vergos!gmail.com, qizha!users.noreply.github.com, set.name.fahad!gmail.com, zhangqi21!huawei.com
+	Huawei Technologies Co. Ltd
+qizhanMS: qizhan!microsoft.com, qizhanMS!users.noreply.github.com
+	Microsoft Corporation
+qjerome: qjerome!users.noreply.github.com
+	RawSec
+qjiang77: janejiang0123!gmail.com, qjiang77!users.noreply.github.com
+	Independent
+qlijin: qlijin!gmail.com, qlijin!users.noreply.github.com
+	UnionTech Software Technology Co. Ltd.
+qlikcoe: 33262478+qlikcoe!users.noreply.github.com, qlikcoe!users.noreply.github.com
+	Intouch Insight until 2014-10-01
+	Icontrol from 2014-10-01 until 2017-03-01
+	Alarm from 2017-03-01 until 2017-10-01
+	QlikTech International AB from 2017-10-01
+qmfrederik: frederik.carlier!quamotion.mobi, qmfrederik!users.noreply.github.com
+	Quamotion until 2022-01-01
+	Keysight from 2022-01-01
+qmhu: qmhu!users.noreply.github.com
+	Tencent
+qmloong: qmloong!users.noreply.github.com
+	Shopee
+qmonnet: qmo!kernel.org, qmo!qmon.net, quentin!githedgehog.com, quentin!isovalent.com, quentin.monnet!6wind.com, quentin.monnet!netronome.com
+	Independent until 2015-09-01
+	6WIND S.A. from 2015-09-01 until 2017-09-01
+	Netronome Systems Inc. from 2017-09-01 until 2020-02-01
+	Isovalent from 2020-02-01 until 2024-09-01
+	Hedgehog from 2024-09-01
+qmuntal: qmuntal!users.noreply.github.com
+	Independent until 2016-01-01
+	Aritex from 2016-01-01 until 2017-01-01
+	HP Inc. from 2017-01-01 until 2021-11-01
+	Microsoft Corporation from 2021-11-01
+qnetter: 11758255+qnetter!users.noreply.github.com, qnetter!users.noreply.github.com, roger.klorese!suse.com
+	SUSE LLC
+qnm: qnm!users.noreply.github.com
+	Amber Electric
 qodfathr: qodfathr!users.noreply.github.com
 	Microsoft Corporation until 2015-10-01
 	Red Hat Inc. from 2015-10-01 until 2018-07-01
@@ -4636,10 +4685,11 @@ rijosimon: rijosimon!users.noreply.github.com
 	Google LLC until 2015-12-01
 	VMware Inc. from 2015-12-01 until 2021-12-01
 	JPMorgan Chase from 2021-12-01
-rikatz: ricardo.katz!gmail.com, ricardo.katz!serpro.gov.br, rikatz!users.noreply.github.com, katz@redhat.com
+rikatz: katz!redhat.com, ricardo.katz!gmail.com, ricardo.katz!serpro.gov.br, rikatz!users.noreply.github.com
 	SERPRO until 2021-05-01
 	VMware Inc. from 2021-05-01 until 2023-12-01
 	Broadcom Corporation from 2023-12-01 until 2025-06-15
+	Independent from 2025-06-15 until 2025-08-01
 	Red Hat Inc. from 2025-08-01
 rikez: enricomalvarenga!gmail.com
 	Independent until 2015-11-01
@@ -17906,10 +17956,8 @@ sirjasiu: sirjasiu!users.noreply.github.com
 	Trade Ledger from 2022-02-01 until 2022-08-01
 	VeloxAlpha from 2022-08-01
 sirpaleet: 149054312+SiiriKemppainen!users.noreply.github.com, 149054312+sirpaleet!users.noreply.github.com, sirpaleet!users.noreply.github.com
-	Independent until 2013-05-01
-	Independent from 2013-05-01 until 2022-04-01
-	K-Rauta from 2022-04-01 until 2022-08-01
-	K-Rauta from 2022-08-01 until 2023-08-01
+	Independent until 2022-04-01
+	K-Rauta from 2022-04-01 until 2023-08-01
 	Independent from 2023-08-01 until 2025-05-01
 	Ericsson from 2025-05-01
 siscia: siscia!users.noreply.github.com
@@ -23660,57 +23708,3 @@ subashd: subash.dangol!citrix.com, subashd!users.noreply.github.com
 subashram: subashram!users.noreply.github.com
 	eBay Inc. until 2018-08-01
 	Teradata from 2018-08-01
-subbarao-meduri: smeduri!redhat.com
-	Red Hat Inc.
-subbu-raj: subbu-raj!users.noreply.github.com
-	iGATE Corporation until 2016-01-01
-	Fidelity Investments from 2016-01-01
-subbu147: subbu147!gmail.com, subbu147!users.noreply.github.com
-	Cisco Systems Inc.
-subbuv26: subbareddyv.uoh!gmail.com
-	One Convergence Inc. until 2016-04-01
-	Raudra Eduservices from 2016-04-01 until 2017-05-01
-	Teradata from 2017-05-01 until 2019-01-01
-	Jabulani Sp. z o. o from 2019-01-01
-subeom7: subeom7!users.noreply.github.com
-	JLK until 2024-05-01
-	Independent from 2024-05-01 until 2024-06-01
-	Independent from 2024-06-01
-subesokun: subesokun!users.noreply.github.com
-	Independent
-subfuzion: subfuzion!users.noreply.github.com
-	Axway Inc. until 2018-04-01
-	AWS from 2018-04-01 until 2019-10-01
-	Google LLC from 2019-10-01
-subh007: subh.singh007!gmail.com, subhash.kumar.singh!huawei.com, subhash_singh!criterionnetworks.com
-	Huawei Technologies Co. Ltd
-subhabratabanerjee: subhabratabanerjee!users.noreply.github.com
-	Symantec Corporation until 2014-10-01
-	McAfee from 2014-10-01 until 2015-04-01
-	Cisco Systems Inc. from 2015-04-01 until 2017-05-01
-	Oracle America Inc. from 2017-05-01 until 2018-06-01
-	Nutanix Inc. from 2018-06-01 until 2019-05-01
-	Juniper Networks Inc. from 2019-05-01 until 2022-08-01
-	Imperva Inc. from 2022-08-01
-subhamgcon: subhamgcon!users.noreply.github.com
-	Independent until 2021-12-01
-	Numbr from 2021-12-01 until 2022-02-01
-	Twilio from 2022-02-01
-subhamkrai: subhamkrai!users.noreply.github.com
-	Independent until 2019-05-01
-	CSIR-CDRI from 2019-05-01 until 2019-06-01
-	Independent from 2019-06-01 until 2019-08-01
-	Layer5 from 2019-08-01 until 2020-03-01
-	Red Hat Inc. from 2020-03-01
-subhraveti: subhraveti!gmail.com
-	Altiscale Inc. until 2015-04-01
-	App Switch from 2015-04-01 until 2017-12-01
-	AppOrbit from 2017-12-01
-subinataws: subinm!amazon.com
-	Accenture Global Solutions Limited until 2015-02-01
-	Amazon from 2015-02-01
-sublimino: sublimino!gmail.com, sublimino!users.noreply.github.com
-	DevOps Institute
-subnetmarco: 88.marco!gmail.com, marco!konghq.com, subnetmarco!users.noreply.github.com
-	Mashape API Marketplace until 2017-07-01
-	Kong Inc. from 2017-07-01

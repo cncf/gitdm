@@ -2,6 +2,11 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Epic Games Inc:
+	grubernaut: jake!gnu.space, jake.champlin.27!gmail.com from 2017-09-01
+	jonbonazza: jonbonazza!gmail.com, jonbonazza!users.noreply.github.com from 2019-11-01
+	lolimjake: jake.martin!comcast.com, lolimjake!users.noreply.github.com from 2019-07-01
+	tpounds: tpounds!users.noreply.github.com, trevor.pounds!gmail.com from 2015-01-01 until 2018-12-01
 Epic Systems:
 	AnberLu: AnberLu!users.noreply.github.com from 2020-07-01 until 2022-01-01
 	JTarasovic: JTarasovic!users.noreply.github.com until 2016-05-01
@@ -5728,6 +5733,8 @@ Foursquare Labs Inc.:
 Fourth:
 	dustinmoris: dustinmoris!gmail.com, dustinmoris!users.noreply.github.com from 2015-08-01 until 2015-10-01
 	george-harness: george!harness.io from 2018-11-01 until 2020-07-01
+Fourth & Five:
+	atkretsch: atkretsch!users.noreply.github.com from 2016-08-01 until 2021-06-01
 Fourthline:
 	mohelsaka: mohamed.elsaka2007!gmail.com from 2020-02-01 until 2021-04-01
 Fourthwall:
@@ -10516,6 +10523,8 @@ González Byass:
 	3clypse: 3clypse!users.noreply.github.com from 2017-09-01 until 2018-08-01
 GooHoo:
 	samarpan-rai: samarpan-rai!users.noreply.github.com from 2018-08-01 until 2020-04-01
+Good:
+	atkretsch: atkretsch!users.noreply.github.com from 2014-10-01 until 2015-10-01
 Good Device:
 	attie-argentum: attie-argentum!users.noreply.github.com, attie.grande!argentum-systems.co.uk from 2020-01-01
 Good Eggs:
@@ -11277,6 +11286,7 @@ Google LLC:
 	atdt: ori!wikimedia.org
 	atscott: atscott!google.com, atscott!users.noreply.github.com, atscott01!gmail.com from 2015-07-01
 	atseanpaul: aakash.ohri19!gmail.com, seanpaul!chromium.org
+	attachmentgenie: attachmentgenie!users.noreply.github.com, bram!attachmentgenie.com from 2025-03-01
 	aulanov: andreyu!google.com, aulanov!gmail.com, aulanov!users.noreply.github.com
 	auni53: auni!google.com, auni.ahsan53!gmail.com, auni53!users.noreply.github.com from 2017-06-01 until 2017-09-01, from 2018-07-01
 	aureq: aureq!users.noreply.github.com from 2019-11-01
@@ -15642,12 +15652,3 @@ HBUS:
 	chxchx: chx!google.com, chxchx!users.noreply.github.com from 2018-12-01
 HCG:
 	alexbrjo: alexbrjo!users.noreply.github.com, alexjo5000!gmail.com from 2017-08-01 until 2018-01-01
-HCL America Solutions:
-	soumynathan: SVasudevan!suse.com from 2020-10-01
-HCL Infosystems:
-	jawad846: jawad846!users.noreply.github.com from 2016-02-01 until 2016-10-01
-HCL Software:
-	harold-padilla: harold-padilla!users.noreply.github.com from 2018-02-01
-	zaroman: zemuel.roman!gmail.com from 2018-03-01
-HCL T:
-	yashubh: bhandari.yashwant.almora!gmail.com, yashubh!users.noreply.github.com from 2018-11-01 until 2019-05-01

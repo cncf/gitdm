@@ -2,6 +2,36 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+URX:
+	rchakra3: rchakra3!users.noreply.github.com, rohan.c219!gmail.com, rohanc219!gmail.com from 2015-05-01 until 2015-12-01
+	sverch: sverch!users.noreply.github.com from 2014-07-01 until 2016-04-01
+US Army:
+	NullOranje: NullOranje!users.noreply.github.com until 2014-12-01, from 2015-06-01 until 2016-09-01
+	adamhl8: adamhl!pm.me from 2019-11-01 until 2022-06-01
+	bmcmanus-apex: bmcmanus-apex!users.noreply.github.com until 2016-06-01
+	davideduma: davideduma!users.noreply.github.com until 2020-05-01
+	green2jello: green2jello!users.noreply.github.com until 2018-06-01
+	phongvdoan: phongdoan.dev!gmail.com until 2019-10-01
+	tclasen: ToryClasen!Gmail.com until 2019-10-01
+US Department of Agriculture:
+	deepakbitragunta: deepak!iastate.edu until 2015-07-01
+US Food:
+	mda590: matt.adorjan!gmail.com, mda590!users.noreply.github.com from 2016-01-01 until 2017-05-01
+US Foods:
+	jonanderson10: jonanderson10!users.noreply.github.com from 2018-10-01
+US General Services Administration:
+	JJediny: JJediny!users.noreply.github.com from 2015-11-01 until 2019-08-01
+	benelliott: 4996462+benelliott!users.noreply.github.com, benelliott!users.noreply.github.com, bengelliott!gmail.com from 2016-01-01
+	mbland: jacksonsandland!gmail.com, mbland!acm.org, michael.bland!gsa.gov from 2014-10-01 until 2016-03-01
+	mxplusb: mike!reboot3times.org, mxplusb!users.noreply.github.com from 2019-05-01 until 2020-05-01
+	ultrasaurus: sarah!ultrasaurus.com, sarahallen!google.com, ultrasaurus!users.noreply.github.com until 2016-05-01
+US Mobile:
+	joekhoobyar: joekhoobyar!users.noreply.github.com from 2024-10-01
+US National Security Agency:
+	cmSAMIAMnot: cmSAMIAMnot!users.noreply.github.com, smmosle!tycho.nsa.gov
+	dgdegraaf: dgdegra!tycho.nsa.gov
+	jedomagalski: jedomag!tycho.nsa.gov, jedomagalski!users.noreply.github.com
+	stephensmalley: sds!tycho.nsa.gov
 US Navy:
 	KasonBraley: KasonBraley!users.noreply.github.com from 2015-05-01 until 2019-05-01
 	codecustard: emmanuelbarroga!gmail.com until 2018-06-01
@@ -2980,7 +3010,7 @@ VMware Inc.:
 	rhjensen79: rhjensen79!users.noreply.github.com, robert!robert-jensen.dk until 2024-01-01
 	ricardo-larosa: ricardo!larosa.dev, ricardo!larosasanoja.com, ricardo-larosa!users.noreply.github.com, rlr!vmware.com from 2022-08-15
 	rijosimon: rijosimon!users.noreply.github.com from 2015-12-01 until 2021-12-01
-	rikatz: ricardo.katz!gmail.com, ricardo.katz!serpro.gov.br, rikatz!users.noreply.github.com from 2021-05-01 until 2023-12-01
+	rikatz: katz!redhat.com, ricardo.katz!gmail.com, ricardo.katz!serpro.gov.br, rikatz!users.noreply.github.com from 2021-05-01 until 2023-12-01
 	ritpanjw: panjwaniritu45!gmail.com, ritpanjw!users.noreply.github.com from 2017-12-01 until 2021-11-01
 	rjanovski: rjanovski!users.noreply.github.com until 2015-12-01
 	rlenglet: rlenglet!google.com, rlenglet!users.noreply.github.com, romain.lenglet!berabera.info until 2014-10-01
@@ -8776,6 +8806,8 @@ Wildberries:
 	danilovid: danilovid!users.noreply.github.com from 2024-02-01
 	sosiska: motkov.kirill!gmail.com, sosiska!users.noreply.github.com from 2017-10-01
 	tomsucho: tomasz.su!gmail.com, tomsucho!users.noreply.github.com from 2020-04-01
+Wildbit:
+	atheken: atheken!gmail.com, atheken!users.noreply.github.com from 2015-06-01 until 2015-09-01
 Wildbit LLC:
 	lausena: lau.sena.gabriel!gmail.com until 2016-02-01
 Wildcard:
@@ -14564,6 +14596,8 @@ buildo s.r.l:
 	bennesp: bennesp!users.noreply.github.com from 2020-07-01
 	danielegallingani: danielegallingani!users.noreply.github.com
 	gabro: gabriele!buildo.io, gabro!users.noreply.github.com, oo.thomas96!gmail.com until 2020-04-01
+buildspace:
+	ATREAY: ATREAY!users.noreply.github.com from 2023-05-01 until 2023-07-01
 buildspace Seasonal:
 	krishjainx: kjain7!u.rochester.edu from 2024-06-01 until 2024-07-01
 bulbthings:
@@ -16534,44 +16568,3 @@ golubev.photo:
 	Schtolc: Schtolc!users.noreply.github.com, pavelgolubev345!gmail.com from 2017-11-01
 gomedisys:
 	cmwylie19: cmwylie19!gmail.com, cmwylie19!users.noreply.github.com from 2017-01-01 until 2017-07-01
-good:
-	DmitryShonin: DmitryShonin!users.noreply.github.com
-googlers:
-	mlevesquedion: mlevesquedion!users.noreply.github.com
-goop:
-	tzilist: tzilist!users.noreply.github.com from 2019-09-01
-grandcentrix:
-	M1cha: M1cha!users.noreply.github.com, sigmaepsilon92!gmail.com from 2017-04-01
-	alexander-knezevic-luetke-gcx: alexander-knezevic-luetke-gcx!users.noreply.github.com from 2018-11-01
-	janpieper: janpieper!users.noreply.github.com, kontakt!jan-pieper.info from 2017-09-01
-	janpieper-gcx: janpieper-gcx!users.noreply.github.com from 2017-09-01
-	mRs-: marius.landwehr!gmail.com from 2017-12-01 until 2019-02-01
-	rhazdon: djordje!atlialp.com, djordje.atlialp!grandcentrix.net, rhazdon!users.noreply.github.com
-	timbuchwaldt: tim!buchwaldt.ws, timbuchwaldt!users.noreply.github.com, wijakoperski!gmail.com until 2020-09-01
-graphql360.com:
-	vertis: me!vertis.io from 2018-09-01
-gravity9:
-	rkrawiel: rkrawiel!users.noreply.github.com from 2021-04-01
-grey.ooo:
-	matthewbaggett: matthewbaggett!users.noreply.github.com from 2024-08-01
-greymatter:
-	justincely: justin.ely!deciphernow.com, justincely!users.noreply.github.com, vahid.m.dev!gmail.com from 2020-03-01
-greymatter.io:
-	bgrissin: bgrissin!users.noreply.github.com from 2021-12-01
-gridX:
-	MarcelMue: MarcelMue!users.noreply.github.com, marcel.mueller1!rwth-aachen.de from 2024-01-01
-	TanZng: TanZng!users.noreply.github.com from 2023-06-01
-	juliusmh: juliusmh!web.de from 2019-01-01 until 2023-08-01
-	michaelbeaumont: michaelbeaumont!users.noreply.github.com, michaelbeaumont!weave.works, mjboamail!gmail.com from 2021-03-01 until 2021-09-01
-	schogges: schogges!users.noreply.github.com
-gridscale:
-	ajfriesen: ajfriesen!users.noreply.github.com from 2020-07-01
-groom gbr:
-	grobie: grobie!users.noreply.github.com, ts!soundcloud.com until 2016-07-01
-	grobie: tobidt!gmail.com until 2012-07-01
-groonga:
-	daijiro: daijiro.mori!gmail.com
-groov.it:
-	TonyBarganski: TonyBarganski!users.noreply.github.com from 2020-03-01 until 2022-06-01
-grupo MRI:
-	thefang12: thefang12!gmail.com from 2017-02-01 until 2017-03-01
