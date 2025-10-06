@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+HARTEK:
+	simarpreetsingh-019: simarpreetsingh.019!gmail.com from 2020-04-01
 HASH CAPITAL GROUP LTD:
 	derekparker: derek.parker!coreos.com, derekparker!users.noreply.github.com, parkerderek86!gmail.com until 2015-01-01
 	mikechau: mikechau!users.noreply.github.com from 2015-05-01 until 2016-06-01

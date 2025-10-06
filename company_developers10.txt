@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+RapidAIM:
+	aichholzer: aichholzer!users.noreply.github.com, theaichholzer!gmail.com from 2019-03-01 until 2021-03-01
 RapidAPI:
 	gimpiron: gimpiron!users.noreply.github.com from 2020-01-01
 	wzzrd: maxim!wzzrd.com, wzzrd!users.noreply.github.com from 2022-01-01 until 2023-06-01
@@ -1340,6 +1342,7 @@ Red Hat Inc.:
 	bipuladh: badhikar!redhat.com, bipuladh!users.noreply.github.com from 2019-08-01
 	birsanv: vbirsan!redhat.com from 2020-03-01
 	bison: bison!coreos.com, bison!garbagebrain.org, bison!xvdf.io
+	biswassri: biswassri!users.noreply.github.com from 2021-06-01
 	bjoydeep: jbanerje!redhat.com from 2020-03-01
 	bjpritch: bjpritch!users.noreply.github.com
 	bkhizgiy: bkhizgiy!redhat.com from 2020-04-01
@@ -2658,6 +2661,7 @@ Red Hat Inc.:
 	mheon: aicra!faqlinux.com, matthew.heon!gmail.com, mheon!redhat.com, mheon!users.noreply.github.com
 	mhjacks: mhjacks!users.noreply.github.com from 2021-07-01
 	mhockelberg: mhockelberg!users.noreply.github.com from 2018-07-01
+	mholder6: mholder6!users.noreply.github.com from 2020-05-01
 	mhrivnak: mhrivnak!hrivnak.org, mhrivnak!redhat.com, mhrivnak!users.noreply.github.com
 	mhuin: mhuin!redhat.com from 2014-06-24
 	miabbott: miabbott!redhat.com, miabbott!users.noreply.github.com
@@ -3453,6 +3457,7 @@ Red Hat Inc.:
 	taitken-splunk: taitken-splunk!users.noreply.github.com from 2016-04-01 until 2018-12-01
 	tamireran: tamireran!users.noreply.github.com
 	tanaka-takayoshi: tanaka-takayoshi!users.noreply.github.com, tatanaka!redhat.com
+	taneem-ibrahim: taneem-ibrahim!users.noreply.github.com
 	taragu: guw!ibm.com, tara.weiqing!gmail.com, taragu!users.noreply.github.com from 2021-04-01 until 2022-01-01
 	tareqalayan: tareq.alayan!gmail.com, tareqalayan!users.noreply.github.com
 	tarilabs: tarilabs!users.noreply.github.com from 2022-05-01
@@ -13892,6 +13897,7 @@ Shopping Minds:
 	kvanzuijlen: kvanzuijlen!users.noreply.github.com from 2018-07-01 until 2021-12-01
 Shopsense Retail Technologies Private Limited:
 	RijulGulati: RijulGulati!users.noreply.github.com, rijul!rijulgulati.com from 2022-08-01
+	Rstar1998: Rstar1998!users.noreply.github.com from 2022-07-01 until 2023-08-01
 	anjannair: anjannair!users.noreply.github.com from 2022-10-01
 	dkess: daniel!dkess.me, dkess!users.noreply.github.com from 2016-05-01 until 2016-08-01
 	etashsingh: etashsingh!users.noreply.github.com, etashsingh29!gmail.com from 2023-03-01
@@ -16031,12 +16037,3 @@ Smartcorp:
 	JamesMarino: james!marino.io from 2015-02-01 until 2016-06-01
 Smarte:
 	jabelone: jabelone!users.noreply.github.com from 2020-03-01
-Smarte Kasse:
-	Ka0o0: Ka0o0!users.noreply.github.com from 2018-06-01 until 2019-05-01
-Smartedge:
-	ChandraReddy97: ChandraReddy97!users.noreply.github.com until 2014-05-01
-Smartenit:
-	jgbernalp: jgbernalp!users.noreply.github.com from 2016-02-01 until 2017-07-01
-Smarter Ecommerce:
-	YourPsychiatrist: YourPsychiatrist!users.noreply.github.com
-	stroebitzer: stroebitzer!users.noreply.github.com from 2017-02-01 until 2019-08-01

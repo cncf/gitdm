@@ -5,6 +5,73 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+strangeman: strangeman!users.noreply.github.com
+	Upwork until 2016-05-01
+	Express 42 from 2016-05-01 until 2016-08-01
+	Independent from 2016-08-01 until 2021-11-01
+	Хекслет from 2021-11-01 until 2022-06-01
+	United Traders from 2022-06-01 until 2022-08-01
+	Prisma Lab from 2022-08-01
+strangeminds: strangeminds!users.noreply.github.com
+	DOWN EAST ENTERPRISE until 2017-04-01
+	LiveWorld from 2017-04-01 until 2020-01-01
+	Alteryx from 2020-01-01
+strangemonad-faire: strangemonad-faire!users.noreply.github.com
+	Square Inc. until 2015-10-01
+	Inscriptive from 2015-10-01 until 2018-12-01
+	Plenty® from 2018-12-01 until 2021-03-01
+	Rivian from 2021-03-01
+strangiato: strangiato!users.noreply.github.com
+	Exxon Mobil Corporation until 2021-01-01
+	Red Hat Inc. from 2021-01-01
+strantalis: strantalis!users.noreply.github.com
+	Cigna
+strassek: kevin.strasser!intel.com, kevin.strasser!linux.intel.com
+	Intel Corporation
+stratosgear: stratosgear!users.noreply.github.com
+	Square Inc. until 2015-10-01
+	Inscriptive from 2015-10-01 until 2018-12-01
+	Plenty® from 2018-12-01 until 2021-03-01
+	Rivian from 2021-03-01
+strattner: strattner!users.noreply.github.com
+	International Business Machines Corporation
+stratus-ss: stratus-ss!users.noreply.github.com
+	Independent until 2019-12-01
+	Red Hat Inc. from 2019-12-01
+straurob: straurob!users.noreply.github.com
+	Square Inc. until 2015-10-01
+	Inscriptive from 2015-10-01 until 2018-12-01
+	Plenty® from 2018-12-01 until 2021-03-01
+	Rivian from 2021-03-01
+strawberrypie: strawberrypie!users.noreply.github.com
+	Independent until 2015-07-01
+	NAUMEN from 2015-07-01 until 2015-09-01
+	Independent from 2015-09-01 until 2018-07-01
+	EORA from 2018-07-01 until 2019-07-01
+	Kaberg Schutz from 2019-07-01 until 2020-01-01
+	Provectus from 2020-01-01 until 2021-09-01
+	Zalando SE from 2021-09-01
+strawgate: bill.easton!elastic.co, strawgate!users.noreply.github.com, williamseaston!gmail.com
+	Elasticsearch Inc.
+strawhatrag: strawhatrag!users.noreply.github.com
+	Independent until 2021-08-01
+	Cisco Systems Inc. from 2021-08-01 until 2022-08-01
+	Independent from 2022-08-01
+streadway: sean!soundcloud.com, streadway!users.noreply.github.com
+	SoundCloud Global Limited & Co. KG
+streamnativebot: streamnativebot!users.noreply.github.com
+	StreamNative
+streamnsight: streamnsight!users.noreply.github.com
+	Medium until 2017-02-01
+	Syndio from 2017-02-01 until 2019-07-01
+	StreamSets from 2019-07-01 until 2019-12-01
+	Red Hat Inc. from 2019-12-01
+streetmapp: streetmapp!users.noreply.github.com
+	Gartner until 2019-10-01
+	Urbint from 2019-10-01 until 2022-05-01
+	NYDIG from 2022-05-01 until 2023-05-01
+	Mothership from 2023-05-01 until 2024-03-01
+	Gartner from 2024-03-01
 stresler: stresler!users.noreply.github.com
 	Tresler
 striderarun: striderarun!users.noreply.github.com
@@ -2732,6 +2799,8 @@ tandrup: tandrup!users.noreply.github.com
 	Nettooth until 2020-01-01
 	SQD GROUP CO. LTD from 2020-01-01 until 2021-11-01
 	Trackunit from 2021-11-01
+taneem-ibrahim: taneem-ibrahim!users.noreply.github.com
+	Red Hat Inc.
 tang-chen: tangchen!cn.fujitsu.com
 	Fujitsu Limited until 2016-01-28
 	EasyStack Inc. from 2016-01-28
@@ -15105,7 +15174,7 @@ vraevsky: valentin!compulab.co.il
 	CompuLab
 vrahane: vipulrahane!apache.org, vrahane!users.noreply.github.com
 	Apache
-vrajashkr: vrajashe!cisco.com, vrajashkr!users.noreply.github.com, dev!vrajashkr.com
+vrajashkr: dev!vrajashkr.com, vrajashe!cisco.com, vrajashkr!users.noreply.github.com
 	Independent until 2021-08-11
 	Cisco Systems Inc. from 2021-08-11 until 2024-12-03
 	Independent from 2024-12-03
@@ -23980,63 +24049,3 @@ zhangsw: zhang_shaowen!139.com, zhangshaowen!cmss.chinamobile.com
 	China Mobile Communication Company Ltd
 zhangtbj: zhangtbj!cn.ibm.com, zhangtbj!users.noreply.github.com
 	International Business Machines Corporation
-zhangwg-david: 254721813!qq.com, zhangweigang02!inspur.com, zhangwg-david!user.noreply.github.com, zhangwg-david!users.noreply.github.com
-	Inspur Group
-zhangxianwei8: zhang.xianwei8!zte.com.cn
-	ZTE Corporation
-zhangxiaohao: zhangxiaohao!users.noreply.github.com
-	Independent
-zhangxiaolins: xiaolin.zxl!alibaba-inc.com, zhangxiaolins!gmail.com
-	Alibaba Group
-zhangxiaoyu-zidif: zhangxiaoyu-zidif!users.noreply.github.com, zxysjtu!gmail.com
-	Jiangsu Hailong Software Technology Co. Ltd until 2014-03-01
-	中兴通讯股份有限公司 from 2014-03-01 until 2018-06-01
-	Alibaba Group from 2018-06-01 until 2020-07-01
-	Tencent from 2020-07-01
-zhangyangyang1991: zhangyangyang!unionpay.com
-	China UnionPay
-zhangyangyu: angwerzx!126.com, zhangyangyu!users.noreply.github.com
-	PingCAP
-zhangyi089: yi.zhang!huawei.com
-	Huawei Technologies Co. Ltd
-zhangysh1995: zhangysh1995!gmail.com
-	Independent until 2018-02-01
-	Sourcebrella from 2018-02-01 until 2018-04-01
-	Independent from 2018-04-01
-zhangyx23: zhangyongxue!inspur.com, zhangyx23!users.noreply.github.com, zyx0203!foxmail.com
-	Inspur Group
-zhangzerui20: zhangzerui20!users.noreply.github.com
-	tencent
-zhangzheming629: zhangzheming!inspur.com, zhangzheming629!gmail.com, zhangzheming629!users.noreply.github.com
-	Inspur Group
-zhangzujian: simon!consentric.io, vbaderks!gmail.com, zhangzujian!users.noreply.github.com, zhangzujian.7!gmail.com
-	AlaudaInc
-zhanw15: zhanw15!gmail.com, zhanw15!users.noreply.github.com, zhanwang!inspur.com
-	Inspur Group
-zhao-kun: zhao-kun!users.noreply.github.com
-	MegaEase
-zhaochao: zhaochao1984!gmail.com
-	Eayun
-zhaochaobo: 31228480+zhaochaobo!users.noreply.github.com, zhaocb3!gmail.com, zhaochaobo!ghostcloud.cn, zhaochaobo!users.noreply.github.com
-	Ghostcloud Chengdu Wizard Cloud Technology Co. Ltd.
-zhaochenglan: zhaochenglan!users.noreply.github.com
-	Independent until 2014-08-01
-	高顿财经 from 2014-08-01 until 2017-06-01
-	Independent from 2017-06-01 until 2018-04-01
-	Strikingly from 2018-04-01
-zhaohuabing: huabing!tetrate.io, huabingzhao!tencent.com, zhao.huabing!zte.com.cn, zhaohuabing!gmail.com, zhaohuabing!users.noreply.github.com
-	ZTE Corporation until 2014-11-01
-	Oracle America Inc. from 2014-11-01 until 2016-04-01
-	ZTE Corporation from 2016-04-01 until 2020-07-01
-	Tencent Holdings Limited from 2020-07-01 until 2023-05-04
-	Tetrate.io from 2023-05-04
-zhaojizhuang: 571130360!qq.com, zhaojizhuang!users.noreply.github.com
-	Bytedance Ltd
-zhaoleidd: zhaolei!cn.fujitsu.com
-	Fujitsu Limited
-zhaomeiru: willkiy!163.com, zhaomeiru!inspur.com, zhaomeiru!users.noreply.github.com
-	Inspur Group
-zhaonian: luxueyan200888!gmail.com, lzn0830!gmail.com, zhaonian!users.noreply.github.com
-	Google LLC
-zhaoshengbo: zhaoshengbo!users.noreply.github.com
-	Alibaba Group

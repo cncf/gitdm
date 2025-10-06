@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+CodeMirror:
+	mightyguava: maladiere.vincent!yahoo.fr, mightyguava!gmail.com, mightyguava!users.noreply.github.com, ramganesh7k!gmail.com from 2014-09-01 until 2015-06-01
 CodeMonke:
 	hsadoyan: harrysadoyan!gmail.com, hsadoyan!users.noreply.github.com until 2019-06-01
 CodeMonkey:
@@ -843,6 +845,7 @@ Coinbase Inc.:
 	f3nry: f3nry!users.noreply.github.com, paul!fenry.org from 2018-02-01
 	geastman3: geastman3!users.noreply.github.com from 2021-07-01
 	jeremyd: jeremyd!users.noreply.github.com, jeremydeininger!gmail.com from 2015-06-01 until 2016-05-01
+	jyono: jyono!users.noreply.github.com from 2022-05-01 until 2022-06-01
 	kcking: kcking!users.noreply.github.com from 2014-05-01 until 2014-07-01
 	koblas: david!tubularlabs.com, koblas!users.noreply.github.com from 2022-05-01 until 2023-01-01
 	kothariaditya: 4659904+kothariaditya!users.noreply.github.com, kothariaditya!users.noreply.github.com from 2018-09-01 until 2018-12-01
@@ -16381,6 +16384,3 @@ Envoy:
 	ri-roee: ri-roee!users.noreply.github.com from 2022-02-01 until 2024-01-01
 	rlandesman: rlandesman!users.noreply.github.com, roee.landesman!gmail.com from 2022-02-01
 	roeelandesman: roeelandesman!users.noreply.github.com from 2022-02-01
-Enyata:
-	Aijeyomah: Aijeyomah!users.noreply.github.com from 2019-12-01 until 2020-12-01
-	SomtochiAma: SomtochiAma!users.noreply.github.com, somtochi!users.noreply.github.com, somtochi!weave.works, somtochionyekwere!gmail.com from 2019-07-01 until 2019-12-01
