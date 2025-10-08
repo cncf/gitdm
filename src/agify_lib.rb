@@ -47,7 +47,8 @@ def get_age(name, login, cid)
     # suri = "https://api.agify.io?name=#{URI.encode(name)}"
     suri = "https://api.agify.io?name=#{CGI.escape(name)}"
     suri += "&apikey=#{api_key}" if !api_key.nil? && api_key != ''
-    suri += "&country_id=#{URI.encode(cid)}" if !cid.nil? && cid != ''
+    # suri += "&country_id=#{URI.encode(cid)}" if !cid.nil? && cid != ''
+    suri += "&country_id=#{URI.encode_www_form_component(cid)}" if !cid.nil? && cid != ''
     begin
       uri = URI.parse(suri)
       response = Net::HTTP.get_response(uri)
