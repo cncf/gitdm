@@ -5,6 +5,56 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+mdreizin: mdreizin!users.noreply.github.com
+	Godel until 2014-03-01
+	Fitbit Inc. from 2014-03-01 until 2019-06-01
+	EPAM from 2019-06-01
+mdroogendijk: mdroogendijk!users.noreply.github.com
+	Independent
+mdroth: mdroth!linux.vnet.ibm.com
+	International Business Machines Corporation
+mdscruggs: mdscruggs!users.noreply.github.com
+	RTI International until 2015-08-01
+	Oracle America Inc. from 2015-08-01 until 2017-12-01
+	Infinia from 2017-12-01 until 2019-07-01
+	Agari Data Inc from 2019-07-01 until 2020-08-01
+	Onna Technologies Inc from 2020-08-01
+mdshuai: dma!redhat.com, mdshuai!users.noreply.github.com
+	Red Hat Inc.
+mdsteele: mdsteele!alum.mit.edu, mdsteele!users.noreply.github.com
+	MIT Connection Science
+mduarte: mduarte!users.noreply.github.com
+	International Business Machines Corporation until 2017-01-01
+	Gilt from 2017-01-01 until 2019-07-01
+	Independent from 2019-07-01 until 2019-10-01
+	Elasticsearch Inc. from 2019-10-01
+mdub: mdub!dogbiscuit.org, mdub!users.noreply.github.com
+	Independent
+mdubbyap: mdubbyap!users.noreply.github.com, mwp!signalfx.com
+	SignalFx Inc.
+mdujava: mdujava!users.noreply.github.com
+	OZEX until 2014-08-01
+	Independent from 2014-08-01 until 2015-07-01
+	EGOTEX from 2015-07-01 until 2015-09-01
+	Computer System from 2015-09-01 until 2016-07-01
+	Red Hat Inc. from 2016-07-01 until 2017-12-01
+	Independent from 2017-12-01 until 2018-04-01
+	Red Hat Inc. from 2018-04-01
+mdutton3: MatthewRDutton!gmail.com
+	Motion Reality until 2016-04-01
+	Independent from 2016-04-01 until 2019-07-01
+	Novetta Solutions from 2019-07-01
+mdvorak: mdvorak!users.noreply.github.com, mikee2185!gmail.com
+	Česká spořitelna until 2019-01-01
+	Atypon Systems LLC from 2019-01-01 until 2019-04-01
+	Independent from 2019-04-01 until 2019-06-01
+	Česká spořitelna from 2019-06-01
+mdw-at-linuxbox: magdkudama!gmail.com, mwatts!redhat.com
+	Red Hat Inc.
+mdziegie: marcin.dziegielewski!intel.com
+	Intel Corporation
+mdzoba: mdzoba!google.com, mdzoba!users.noreply.github.com
+	Google LLC
 me-diru: me!diru.tech
 	Independent until 2020-05-01
 	MetaBrainz from 2020-05-01 until 2021-02-01
@@ -8066,6 +8116,11 @@ mvaal: mvaal!users.noreply.github.com
 	Expedia Inc. from 2018-07-01
 mvalarh: mvalarh!users.noreply.github.com
 	Red Hat Inc.
+mvalenzisi: mvalenzisi!users.noreply.github.com
+	Erasys until 2014-02-01
+	Independent from 2014-02-01 until 2015-08-01
+	GLOSSYBOX from 2015-08-01 until 2018-01-01
+	Akelius Residential Property AB from 2018-01-01
 mvanholsteijn: mvanholsteijn!users.noreply.github.com, mvanholsteijn!xebia.com
 	Xebia Nederland B.V. until 2017-05-01
 	Binx.io from 2017-05-01
@@ -11298,6 +11353,9 @@ nickuraltsev: nick.uraltsev!gmail.com, nickuraltsev!users.noreply.github.com
 	Intermedia.net Inc until 2016-11-01
 	ThinAir from 2016-11-01 until 2018-03-01
 	Stripe Inc. from 2018-03-01
+nickveenhof: nick.veenhof!gmail.com, nickveenhof!users.noreply.github.com
+	Drupal until 2024-11-01
+	GitLab from 2024-11-01
 nickvth: nickvth!users.noreply.github.com
 	Enovation until 2018-11-01
 	Independent from 2018-11-01 until 2019-01-01
@@ -12070,6 +12128,9 @@ nilsMontenegro: nils.montenegro!nordicsemi.no, nilsMontenegro!users.noreply.gith
 nilsbrenkman: nilsbrenkman!users.noreply.github.com
 	Independent until 2015-04-01
 	Adyen from 2015-04-01
+nilsgstrabo: nilsgstrabo!users.noreply.github.com
+	NOV until 2020-10-01
+	Bouvet from 2020-10-01
 nilslice: nilslice!users.noreply.github.com
 	Boss Sauce Creative until 2017-09-01
 	Fanatics from 2017-09-01 until 2019-11-01
@@ -22878,6 +22939,12 @@ prince-chrismc: prince-chrismc!users.noreply.github.com, prince.chrismc!gmail.co
 	Matrox Video from 2016-09-01 until 2021-09-01
 	Mistplay from 2021-09-01 until 2021-10-01
 	JFrog from 2021-10-01
+prince-melvin: prince-melvin!users.noreply.github.com
+	Independent until 2016-05-01
+	Expanion from 2016-05-01 until 2016-06-01
+	Independent from 2016-06-01 until 2018-07-01
+	Philips I from 2018-07-01 until 2022-08-01
+	Microsoft Corporation from 2022-08-01
 princefishthrower: frewin.christopher!gmail.com, princefishthrower!users.noreply.github.com
 	Knitware until 2020-02-01
 	Full Stack Craft from 2020-02-01 until 2021-06-01
@@ -23759,67 +23826,3 @@ pumicerD: berenger.nguyen.nhon!gmail.com, pumicerD!users.noreply.github.com
 	RTL Nederland B.V. from 2021-04-01
 pundiramit: amit.pundir!linaro.org
 	Linaro Limited
-pundirsumit: pundirsumit11!gmail.com
-	Independent until 2016-06-01
-	Atol Solutions from 2016-06-01 until 2016-07-01
-	Independent from 2016-07-01 until 2018-02-01
-	HiveBrig from 2018-02-01
-puneethkosaraju: puneethkosaraju!aol.com, puneethkosaraju!users.noreply.github.com
-	Dell EMC
-puneetjaiswal: puneetjaiswal!users.noreply.github.com
-	Walmart Inc. until 2014-03-01
-	Independent from 2014-03-01 until 2014-08-01
-	AppDynamics LLC from 2014-08-01 until 2016-06-01
-	LinkedIn Corporation from 2016-06-01 until 2017-09-01
-	Lyft Inc. from 2017-09-01
-puneetloya: puneetloya!users.noreply.github.com
-	Independent until 2015-05-01
-	International Business Machines Corporation from 2015-05-01
-puneetpahuja: er.puneetpahuja!gmail.com
-	Independent until 2015-07-01
-	Citrix Systems Inc. from 2015-07-01 until 2016-08-01
-	Geekskool from 2016-08-01 until 2017-07-01
-	MYGRAM CONNECT from 2017-07-01 until 2018-07-01
-	Adori from 2018-07-01 until 2018-12-01
-	JUSPAY from 2018-12-01
-puneetsarna: puneetsarna!users.noreply.github.com
-	Independent until 2015-09-01
-	Tata from 2015-09-01 until 2016-07-01
-	Independent from 2016-07-01 until 2017-06-01
-	Charter from 2017-06-01 until 2017-08-01
-	Independent from 2017-08-01 until 2018-06-01
-	Jabulani Sp. z o. o from 2018-06-01
-puneith: puneith!users.noreply.github.com
-	Administrative Services LLC A Neustar Company until 2014-07-01
-	Quixey from 2014-07-01 until 2016-03-01
-	Google LLC from 2016-03-01
-puni9869: puni9869!users.noreply.github.com
-	AWS until 2019-12-01
-	Independent from 2019-12-01 until 2021-02-01
-	Rackspace from 2021-02-01
-punitagrawal: punit.agrawal!arm.com
-	ARM
-punithnayak: punithnayak!users.noreply.github.com
-	Independent until 2023-05-01
-	Wikimedia Foundation Inc. from 2023-05-01
-punitvara: punit.vara!intel.com, punitvara!gmail.com
-	Independent until 2016-12-01
-	Intel Corporation from 2016-12-01
-punkisdead: janderson!sonatype.com, jeremy!code-adept.com, jeremy.d.anderson!gmail.com
-	Code Adept
-punkle: brian.jf.fletcher!gmail.com
-	Workday Inc.
-punnarpulusu: punnarpulusu!users.noreply.github.com
-	Monsanto Company until 2015-11-01
-	Independent from 2015-11-01 until 2016-01-01
-	Walgreens Boots Alliance from 2016-01-01 until 2017-10-01
-	SapientRazorfish from 2017-10-01 until 2018-09-01
-	Neotech from 2018-09-01 until 2018-10-01
-	Independent from 2018-10-01 until 2019-01-01
-	Infostretch from 2019-01-01 until 2020-01-01
-	Earnin from 2020-01-01
-punya: punya!users.noreply.github.com, punya.biswal!gmail.com
-	Palantir Technologies Inc. until 2016-12-01
-	ASAPP Inc. from 2016-12-01 until 2020-01-01
-	TetraScience from 2020-01-01 until 2020-11-01
-	Google LLC from 2020-11-01
