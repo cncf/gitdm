@@ -5,6 +5,20 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+g-k: g-k!users.noreply.github.com, gguthe!mozilla.com
+	RJMetrics until 2016-09-01
+	Mozilla Corporation from 2016-09-01 until 2021-12-01
+	Figma from 2021-12-01
+g-karthik: g-karthik!users.noreply.github.com
+	NVIDIA Corporation until 2020-03-01
+	Snowflake from 2020-03-01
+g-lam: g-lam!users.noreply.github.com
+	Priceline
+g-linville: g-linville!users.noreply.github.com
+	Independent until 2020-05-01
+	Radiance from 2020-05-01 until 2020-07-01
+	Independent from 2020-07-01 until 2020-12-01
+	Tangram Flex Inc. from 2020-12-01
 g-luo: g-luo!users.noreply.github.com, graceluo!berkeley.edu
 	Independent until 2018-06-01
 	Market Games from 2018-06-01 until 2018-08-01
@@ -23844,15 +23858,3 @@ jordanfbrown: jordanfbrown!users.noreply.github.com
 	CrowdFlower until 2014-12-01
 	Change from 2014-12-01 until 2015-08-01
 	Homebase from 2015-08-01
-jordangarside: jordangarside!users.noreply.github.com
-	Independent until 2018-02-01
-	atoms+bits from 2018-02-01 until 2018-09-01
-	Artemis from 2018-09-01 until 2019-04-01
-	Robinhood Markets Inc. from 2019-04-01 until 2022-06-01
-	Hidden Road from 2022-06-01 until 2022-11-01
-	Independent from 2022-11-01
-jordanglassman: jglassman!cloudbees.com
-	Phononic Devices Inc until 2014-04-01
-	Independent from 2014-04-01 until 2014-11-01
-	Medfusion from 2014-11-01 until 2016-12-01
-	CloudBees Inc. from 2016-12-01

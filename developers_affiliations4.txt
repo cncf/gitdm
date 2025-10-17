@@ -5,6 +5,18 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+co-jo: co-jo!users.noreply.github.com
+	Independent until 2016-01-01
+	FitPath from 2016-01-01 until 2016-04-01
+	Independent from 2016-04-01 until 2017-01-01
+	Cvent Inc. from 2017-01-01 until 2017-08-01
+	Independent from 2017-08-01 until 2018-05-01
+	Dell Technologies from 2018-05-01 until 2018-12-01
+	Independent from 2018-12-01 until 2019-11-01
+	Dell Technologies from 2019-11-01
+coadler: coadler!users.noreply.github.com, colin!coder.com
+	Independent until 2017-12-01
+	Coder from 2017-12-01
 cober: cober!cober.si
 	Independent until 2015-01-01
 	NTEX AS from 2015-01-01 until 2016-05-01
@@ -23839,17 +23851,3 @@ g-gaston: g-gaston!users.noreply.github.com
 g-io: g-io!users.noreply.github.com
 	MeteoGroup until 2021-01-01
 	Volkswagen from 2021-01-01
-g-k: g-k!users.noreply.github.com, gguthe!mozilla.com
-	RJMetrics until 2016-09-01
-	Mozilla Corporation from 2016-09-01 until 2021-12-01
-	Figma from 2021-12-01
-g-karthik: g-karthik!users.noreply.github.com
-	NVIDIA Corporation until 2020-03-01
-	Snowflake from 2020-03-01
-g-lam: g-lam!users.noreply.github.com
-	Priceline
-g-linville: g-linville!users.noreply.github.com
-	Independent until 2020-05-01
-	Radiance from 2020-05-01 until 2020-07-01
-	Independent from 2020-07-01 until 2020-12-01
-	Tangram Flex Inc. from 2020-12-01
