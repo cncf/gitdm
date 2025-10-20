@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Entertainment Partners:
+	brendenehlers: brendenehlers!users.noreply.github.com from 2021-01-01 until 2021-12-01
 Enthought:
 	cournape: cournape!gmail.com, cournape!users.noreply.github.com
 	pratikmallya: pratikmallya!users.noreply.github.com until 2014-07-01
@@ -3062,6 +3064,7 @@ FacilityConneX:
 	josh-pritchard: josh-pritchard!users.noreply.github.com from 2016-03-01 until 2021-04-01
 FacilityLive:
 	aroundthecode: aroundthecode!users.noreply.github.com
+	edorizzardi: edorizzardi!users.noreply.github.com from 2019-12-01 until 2021-11-01
 	mbovo: manuel.bovo!gmail.com, mbovo!users.noreply.github.com from 2016-05-01 until 2019-07-01
 Fact Fiber:
 	shaunc: shaunc!users.noreply.github.com
@@ -3559,6 +3562,7 @@ Fastly:
 	djosephsen: djosephsen!users.noreply.github.com from 2019-01-01
 	fcrespofastly: fcrespofastly!users.noreply.github.com
 	harmony7: harmony7!users.noreply.github.com from 2022-03-01
+	ibizaman: ibizaman!users.noreply.github.com from 2019-02-01 until 2024-09-01
 	ickymettle: ickymettle!users.noreply.github.com, mbarczak!gmail.com from 2016-06-01
 	jbartus: jbartus!users.noreply.github.com from 2015-10-01 until 2017-02-01
 	lanej: jlane!engineyard.com, lanej!users.noreply.github.com, me!joshualane.com from 2015-12-01

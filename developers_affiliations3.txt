@@ -5,6 +5,18 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+andre-nascimento-rh: andre-nascimento-rh!users.noreply.github.com
+	Independent until 2019-12-01
+	Höffner from 2019-12-01 until 2020-06-01
+	Hubject from 2020-06-01 until 2021-06-01
+	Red Hat Inc. from 2021-06-01
+andre2007: andre.pany!sap.com, andre2007!users.noreply.github.com
+	SAP
+andrea-adami: andrea.adami!gmail.com
+	FULCRO SRLU
+andrea-cola: andrea-cola!users.noreply.github.com, andrea.cola95!gmail.com
+	Independent until 2019-09-01
+	BIP from 2019-09-01
 andreaTP: andrea.peruffo1982!gmail.com, andreaTP!users.noreply.github.com
 	UniCredit until 2016-12-01
 	Nokia Corporation from 2016-12-01 until 2018-10-01
@@ -14986,6 +14998,10 @@ brews: brews!users.noreply.github.com, sbmalev!gmail.com
 	Rhodium from 2019-08-01
 brezerk: brezerk!gmail.com, brezerk!users.noreply.github.com
 	BrezBlock
+brezinajn: brezinajn!users.noreply.github.com
+	AVG until 2017-01-01
+	Independent from 2017-01-01 until 2018-02-01
+	Purple from 2018-02-01
 brf153: brf153!users.noreply.github.com
 	Independent until 2022-09-01
 	TreeVed from 2022-09-01 until 2022-10-01
@@ -17784,6 +17800,10 @@ carabasdaniel: carabasdaniel!users.noreply.github.com
 	Hewlett from 2015-01-01 until 2018-05-01
 	Puppet from 2018-05-01 until 2021-10-01
 	Aserto from 2021-10-01
+carabj: carabj!users.noreply.github.com
+	Independent until 2015-06-01
+	Bisnode AB from 2015-06-01 until 2022-05-01
+	4Auth Limited. from 2022-05-01
 caraboides: caraboides!users.noreply.github.com
 	Independent until 2016-01-01
 	inoio from 2016-01-01
@@ -23603,19 +23623,3 @@ cnvergence: cnvergence!users.noreply.github.com, karol!kubermatic.com
 	Onegini from 2019-06-01 until 2021-01-01
 	SeaChange from 2021-01-01 until 2021-03-01
 	Kubermatic GmbH from 2021-03-01
-cnwalker: christophernathanielwalker!gmail.com, cnwalker!users.noreply.github.com
-	Independent until 2016-06-01
-	Eventbrite Inc. from 2016-06-01 until 2016-08-01
-	Independent from 2016-08-01 until 2017-06-01
-	Box Inc. from 2017-06-01 until 2017-09-01
-	Independent from 2017-09-01 until 2018-03-01
-	Forward from 2018-03-01
-cnwarden: cnwarden!users.noreply.github.com
-	Zpark
-cnwhy: dassolucas!c238.com.ar, w.why!163.com
-	NetEase Inc
-cnygardtw: cnygardtw!users.noreply.github.com
-	Fortna until 2016-12-01
-	Cengage from 2016-12-01 until 2019-11-01
-	Global Science from 2019-11-01 until 2020-04-01
-	ThoughtWorks Inc from 2020-04-01

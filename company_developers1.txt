@@ -809,6 +809,7 @@ $MARTBIN:
 4ARMED:
 	marcwickenden: marcwickenden!users.noreply.github.com
 4Auth Limited.:
+	carabj: carabj!users.noreply.github.com from 2022-05-01
 	marcuz: marcuz!users.noreply.github.com from 2020-05-01
 4C Strategies:
 	EliasGabrielsson: EliasGabrielsson!users.noreply.github.com from 2019-10-01
@@ -1065,6 +1066,7 @@ $MARTBIN:
 	marcosinger: marcosinger!users.noreply.github.com, markaum!gmail.com from 2018-06-01 until 2019-08-01
 888holdings:
 	ekirmayer: 6572119+ekirmayer!users.noreply.github.com, ekirmayer!users.noreply.github.com until 2014-07-01
+	iTaybb: Brandes.Itay!gmail.com, iTaybb!users.noreply.github.com until 2018-08-01
 	jkilzi: jkilzi!users.noreply.github.com from 2017-12-01 until 2020-12-01
 8D:
 	nparfait: nparfait!users.noreply.github.com from 2018-10-01 until 2019-10-01
@@ -1757,6 +1759,8 @@ AG2R LA MONDIALE:
 	robinmarechal: robin-marechal!hotmail.fr, robinmarechal!users.noreply.github.com from 2017-12-01 until 2018-08-01
 AGAS IT & Communications Experience:
 	yossig-aquasec: yossig-aquasec!users.noreply.github.com until 2016-10-01
+AGENA:
+	edemen: edemen!users.noreply.github.com until 2018-04-01
 AGENCY04:
 	4nte: 4nte!users.noreply.github.com from 2017-10-01 until 2019-03-01
 AGF Investments:
@@ -3140,6 +3144,7 @@ AVEVA Group:
 	robert-blackman: robert.blackman!monster.com from 2016-06-01 until 2018-07-01
 	vmahedia: vinit.mahedia!gmail.com, vmahedia!users.noreply.github.com until 2013-08-15
 AVG:
+	brezinajn: brezinajn!users.noreply.github.com until 2017-01-01
 	guyromb: guyromb!users.noreply.github.com from 2015-01-01 until 2017-01-01
 	saarwasserman: saarwasserman!users.noreply.github.com from 2015-01-01 until 2016-01-01
 AVH:
@@ -6195,6 +6200,8 @@ Ageas UK:
 	thepaulmacca: pm!thepaulmacca.com, thepaulmacca!users.noreply.github.com until 2016-11-01
 Agem:
 	emrekgn: emrekgn!users.noreply.github.com until 2019-07-01
+AgenaRisk:
+	edemen: edemen!users.noreply.github.com from 2018-04-01 until 2022-05-01
 Agence:
 	Andrew4d3: Andrew4d3!users.noreply.github.com from 2015-10-01 until 2016-05-01
 Agence Paprika:
@@ -10574,7 +10581,7 @@ Apache:
 	mkiiskila: marko!apache.org
 	morristai: morristai01!gmail.com from 2023-05-01
 	mosuka: mosuka!users.noreply.github.com until 2018-11-01
-	nacx: nacx!apache.org, nacx!users.noreply.github.com
+	nacx: nacx!apache.org, nacx!users.noreply.github.com until 2018-07-01
 	normanmaurer: norman_maurer!apple.com, normanmaurer!users.noreply.github.com
 	nslater: nslater!tumbolia.org, nslater!users.noreply.github.com
 	olamy: olamy!apache.org, olamy!users.noreply.github.com
