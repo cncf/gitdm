@@ -19285,14 +19285,17 @@ perithompson: perithompson!users.noreply.github.com
 	Valpak from 2018-08-01 until 2020-07-01
 	VMware Inc. from 2020-07-01 until 2022-10-01
 	ControlPlane.io from 2022-10-01
-perk: marcin.stozek!gmail.com, mstozek!sumologic.com, perk!sumologic.com, perk!users.noreply.github.com, perk-sumo!users.noreply.github.com
+perk: marcin.stozek!gmail.com, mstozek!sumologic.com, perk!sumologic.com, perk!users.noreply.github.com, perk-sumo!users.noreply.github.com, marcin.stozek!canonical.com, marcin.stozek!elastic.co, perk!elastic.co
 	TheBookingRoom until 2010-07-01
 	International Business Machines Corporation from 2010-07-01 until 2015-08-31
 	Cinckiarz.pl from 2015-08-31 until 2017-04-30
 	Independent from 2017-04-30 until 2017-05-01
 	COLLECTIVE SENSE LLC from 2017-05-01 until 2019-11-30
 	Sumo Logic Inc. from 2019-11-30 until 2023-08-31
-	Independent from 2023-08-31
+	Independent from 2023-08-31 until 2023-09-18
+	Canonical Ltd. from 2023-09-18 until 2025-03-01
+	Independent from 2025-03-01 until 2025-10-20
+	Elasticsearch Inc. from 2025-10-20
 perk-sumo: perk-sumo!users.noreply.github.com
 	TheBookingRoom until 2010-07-01
 	International Business Machines Corporation from 2010-07-01 until 2015-08-31
