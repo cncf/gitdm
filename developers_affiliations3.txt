@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+andhesky: andhesky!users.noreply.github.com
+	Microsoft Corporation
+andi-bigswitch: andreas.wundsam!bigswitch.com, rebecca.bruggman!gmail.com
+	Big Switch Networks Inc.
 andihit: andreas!gerstmayr.me, andreas.gerstmayr!catalysts.cc, andreas.gerstmayr!gmail.com
 	Catalysts Strategic Consulting Pvt Ltd until 2017-06-01
 	Red Hat Inc. from 2017-06-01
@@ -758,6 +762,10 @@ andrewmeissner: ameissner!sofi.org, andrewmeissner!users.noreply.github.com
 	Social Finance (SoFi) from 2016-02-01
 andrewmichaelsmith: andrewmichaelsmith!users.noreply.github.com, me!andrewmichaelsmith.com
 	Virtu Financial
+andrewmwells-amazon: andrewmwells-amazon!users.noreply.github.com
+	Independent until 2021-06-01
+	Tesla Inc . from 2021-06-01 until 2022-09-01
+	AWS from 2022-09-01
 andrewmyhre: andrew.myhre!gmail.com, andrewmyhre!users.noreply.github.com
 	JustGiving until 2016-10-01
 	Capital One Financial Corporation from 2016-10-01
@@ -19113,6 +19121,15 @@ cdevienne: cdevienne!users.noreply.github.com, christophe!cdevienne.info
 	Orus
 cdickmann: cdickmann!users.noreply.github.com
 	VMware Inc.
+cdisselkoen: cdisselkoen!users.noreply.github.com
+	Independent until 2017-06-01
+	Qualcomm from 2017-06-01 until 2017-09-01
+	Independent from 2017-09-01 until 2018-06-01
+	Mozilla Corporation from 2018-06-01 until 2018-08-01
+	Independent from 2018-08-01 until 2021-06-01
+	Correct from 2021-06-01 until 2021-08-01
+	Independent from 2021-08-01 until 2022-01-01
+	AWS from 2022-01-01
 cdituri: cdituri!users.noreply.github.com
 	Independent until 2016-05-01
 	SPR from 2016-05-01 until 2018-03-01
@@ -23598,24 +23615,3 @@ cmnzs: cmnzs!users.noreply.github.com
 	Validere from 2022-03-01 until 2022-12-01
 	Independent from 2022-12-01 until 2023-07-01
 	Felix from 2023-07-01
-cmoad: cmoad!users.noreply.github.com
-	ExactTarget until 2014-04-01
-	Salesforce.com Inc. from 2014-04-01 until 2014-12-01
-	Geofeedia Inc. from 2014-12-01 until 2017-02-01
-	Costello from 2017-02-01 until 2019-11-01
-	SalesLoft from 2019-11-01
-cmontemuino: cmontemuino!users.noreply.github.com
-	SDL until 2015-08-01
-	iFlavours from 2015-08-01 until 2016-09-01
-	Hatch BV from 2016-09-01 until 2017-10-01
-	SmartFocus from 2017-10-01 until 2018-05-01
-	Schibsted Media Group from 2018-05-01 until 2019-03-01
-	Adevinta from 2019-03-01 until 2021-01-01
-	Glovo from 2021-01-01
-cmoore15: carolinemoore!google.com, cmoore15!users.noreply.github.com
-	Google LLC
-cmoore42: chris.moore!emulex.com, cmoore042!gmail.com
-	Emulex Corporation
-cmorty: morty!gmx.net
-	Independent until 2015-12-01
-	Redheads from 2015-12-01

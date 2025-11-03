@@ -5,6 +5,27 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+cmoad: cmoad!users.noreply.github.com
+	ExactTarget until 2014-04-01
+	Salesforce.com Inc. from 2014-04-01 until 2014-12-01
+	Geofeedia Inc. from 2014-12-01 until 2017-02-01
+	Costello from 2017-02-01 until 2019-11-01
+	SalesLoft from 2019-11-01
+cmontemuino: cmontemuino!users.noreply.github.com
+	SDL until 2015-08-01
+	iFlavours from 2015-08-01 until 2016-09-01
+	Hatch BV from 2016-09-01 until 2017-10-01
+	SmartFocus from 2017-10-01 until 2018-05-01
+	Schibsted Media Group from 2018-05-01 until 2019-03-01
+	Adevinta from 2019-03-01 until 2021-01-01
+	Glovo from 2021-01-01
+cmoore15: carolinemoore!google.com, cmoore15!users.noreply.github.com
+	Google LLC
+cmoore42: chris.moore!emulex.com, cmoore042!gmail.com
+	Emulex Corporation
+cmorty: morty!gmx.net
+	Independent until 2015-12-01
+	Redheads from 2015-12-01
 cmosetick: cmosetick!users.noreply.github.com
 	Revolution Analytics until 2015-04-01
 	Independent from 2015-04-01 until 2015-07-01
@@ -23826,23 +23847,3 @@ fungusakafungus: fungusakafungus!users.noreply.github.com, ilya!ulani.de
 funkygao: funky.gao!gmail.com
 	FunPlus until 2015-04-01
 	Dalian Wanda Group Co Ltd from 2015-04-01
-funkypenguin: davidy!funkypenguin.co.nz, funkypenguin!users.noreply.github.com, raffi.khatchadourian!hunter.cuny.edu
-	Prophecy Networks until 2019-02-01
-	TurtleCoin from 2019-02-01 until 2019-06-01
-	EMERGING TECHNOLOGY PARTNERS from 2019-06-01
-funkytaco: funkytaco!users.noreply.github.com
-	Cogeco Peer 1 until 2015-06-01
-	Independent from 2015-06-01 until 2015-08-01
-	Turner from 2015-08-01 until 2019-04-01
-	Beach Life from 2019-04-01 until 2019-10-01
-	Red Hat Inc. from 2019-10-01
-funny-falcon: funny-falcon!users.noreply.github.com, funny.falcon!gmail.com
-	Moscow Design Bureau - Compas until 2017-03-01
-	Postgres Professional from 2017-03-01 until 2017-10-01
-	Joom from 2017-10-01
-fuqianggao: fuqianggao!users.noreply.github.com
-	Google LLC
-furkanmustafa: furkanmustafa!users.noreply.github.com
-	Rainlab
-furkansakar: furkansakar!users.noreply.github.com
-	beqom

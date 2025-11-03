@@ -5,6 +5,36 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+stephane-klein: contact!stephane-klein.info
+	Bearstech until 2016-01-01
+	Gemnasium from 2016-01-01 until 2017-12-01
+	Scaleway from 2017-12-01
+stephaneey: stephaneey!users.noreply.github.com
+	BNP Paribas until 2014-11-01
+	UCB from 2014-11-01 until 2018-04-01
+	Ypto from 2018-04-01 until 2018-10-01
+	Euroclear from 2018-10-01 until 2019-10-01
+	Xpirit | Part of Xebia from 2019-10-01
+stephanemartin: stephane.martin!neotys.com
+	Inria (French Institute for Research in Computer Science and Automation) until 2014-10-01
+	Independent from 2014-10-01 until 2015-01-01
+	Neotys from 2015-01-01
+stephanlindauer: stephanlindauer!posteo.de, stephanlindauer!users.noreply.github.com
+	Wooga until 2016-04-01
+	Civey from 2016-04-01 until 2017-04-01
+	eBay Inc. from 2017-04-01
+stephanschielke: stephanschielke!users.noreply.github.com
+	SOPTIM AG until 2017-04-01
+	Tractable from 2017-04-01
+stephen-dahl: stephen!programmingfreaks.com, stephen-dahl!users.noreply.github.com
+	Cayuse until 2015-09-01
+	General Electric Company from 2015-09-01 until 2016-12-01
+	Independent from 2016-12-01 until 2017-05-01
+	SurveyVitals from 2017-05-01
+stephen-fox: stephen-fox!users.noreply.github.com, stephen.j.fox.jr!gmail.com
+	Fox Bus Lines until 2019-12-01
+	Mutualink from 2019-12-01 until 2021-10-01
+	/tmp/x from 2021-10-01
 stephen-galea-weavr: stephen-galea-weavr!users.noreply.github.com
 	Ixaris until 2016-03-01
 	Concentric Data Systems from 2016-03-01 until 2017-05-01
@@ -22696,6 +22726,9 @@ yongli3: sdliyong!gmail.com, yong.b.li!intel.com
 	Intel Corporation
 yongni: yongni!google.com, yongni!users.noreply.github.com
 	Google LLC
+yongruilin: lyray1994!gmail.com, yongrlin!google.com, yongrlin!outlook.com, yongruilin!users.noreply.github.com
+	eBay Inc. until 2022-08-01
+	Google LLC from 2022-08-01
 yongtang: 476839241!qq.com, contmp!me.com, lui!Mutesymphony.com, vibeeshan025!gmail.com, yong.tang.github!outlook.com, yongtang!users.noreply.github.com
 	ThreatTrack until 2014-06-01
 	Infoblox Inc. from 2014-06-01 until 2018-06-01
@@ -22705,9 +22738,6 @@ yongwen: yongwen!users.noreply.github.com
 	Pinterest Inc. from 2015-08-01
 yongwww: yongcale!gmail.com, yongwww!users.noreply.github.com, ywu118!alumni.jh.edu
 	Amazon
-yongruilin: yongruilin!users.noreply.github.com, yongrlin!outlook.com, yongrlin!google.com, lyray1994!gmail.com
-	eBay Inc. from until 2022-07-31
-	Google LLC from 2022-08-01
 yongzhang: yongzhang!users.noreply.github.com
 	International Business Machines Corporation until 2015-07-01
 	Blackboard from 2015-07-01 until 2016-10-01
@@ -23971,43 +24001,3 @@ zachyee: zachyee!users.noreply.github.com
 	Teradata from 2016-06-01 until 2016-08-01
 	Independent from 2016-08-01 until 2017-08-01
 	Amazon from 2017-08-01
-zack-johnson5455: zack-johnson5455!users.noreply.github.com
-	Independent until 2015-05-01
-	Red Ventures from 2015-05-01 until 2018-08-01
-	Ardan Labs from 2018-08-01 until 2019-01-01
-	The Home Depot from 2019-01-01 until 2019-07-01
-	Grey from 2019-07-01 until 2019-12-01
-	NSONE Inc. from 2019-12-01
-zackangelo: zackangelo!gmail.com, zackangelo!users.noreply.github.com
-	Big Commerce
-zackhsi: janis.sci!gmail.com, zackhsi!gmail.com, zhsi!lyft.com
-	Lyft Inc.
-zackhsi: zackhsi!users.noreply.github.com
-	Independent until 2015-05-01
-	Red Ventures from 2015-05-01 until 2018-08-01
-	Ardan Labs from 2018-08-01 until 2019-01-01
-	The Home Depot from 2019-01-01 until 2019-07-01
-	Grey from 2019-07-01 until 2019-12-01
-	NSONE Inc. from 2019-12-01
-zackijack: zackijack!users.noreply.github.com
-	Independent until 2016-02-01
-	PT Logika Pratama from 2016-02-01 until 2016-07-01
-	Armin from 2016-07-01 until 2017-04-01
-	Kitabisa from 2017-04-01 until 2020-03-01
-	Bukalapak from 2020-03-01 until 2020-09-01
-	Kitabisa from 2020-09-01
-zackliu: chenyl!microsoft.com, thijs!grasple.com, zackliu1995!hotmail.com
-	Microsoft Corporation
-zackman0010: zachary!sistrunk.dev
-	Woodlawn Church until 2014-07-01
-	Independent from 2014-07-01 until 2018-05-01
-	C Spire from 2018-05-01
-zackpollard: zackpollard!users.noreply.github.com, zackpollard!ymail.com
-	Independent until 2016-07-01
-	International Business Machines Corporation from 2016-07-01 until 2017-07-01
-	Independent from 2017-07-01 until 2018-11-01
-	Moonpig from 2018-11-01 until 2023-09-01
-	KFC from 2023-09-01 until 2024-05-01
-	FUTO from 2024-05-01
-zackproser: zackproser!gmail.com, zackproser!users.noreply.github.com
-	Cloudmark
