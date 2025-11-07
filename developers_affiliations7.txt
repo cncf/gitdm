@@ -5,6 +5,44 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+mchalla: challa!noironetworks.com, mchalla!users.noreply.github.com
+	Cisco Systems Inc.
+mchambers: marc.chambers!outlook.com, marcchambers!google.com
+	Google LLC
+mchangxe: mchangxe!users.noreply.github.com, michael-k!users.noreply.github.com
+	VMware Inc.
+mcharleb: charlebm!gmail.com
+	Qualcomm
+mchasal: bratac!linux.vnet.ibm.com
+	International Business Machines Corporation
+mchehab: m.chehab!samsung.com, mchehab!infradead.org, mchehab!osg.samsung.com, mchehab!s-opensource.com, mchehab+samsung!kernel.org
+	Samsung Electronics Co. Ltd.
+mchiappero: mchiappero!users.noreply.github.com
+	SWHARD until 2015-06-01
+	Intel Corporation from 2015-06-01 until 2023-05-01
+	Huawei Technologies Co. Ltd from 2023-05-01 until 2024-02-01
+	SUSE LLC from 2024-02-01
+mchmarny: mark!chmarny.com, mchmarny!users.noreply.github.com
+	Intel Corporation until 2017-03-01
+	Google LLC from 2017-03-01 until 2020-03-01
+	Microsoft Corporation from 2020-03-01 until 2020-12-31
+	Apple Inc. from 2020-12-31 until 2021-08-27
+	Google LLC from 2021-08-27
+mchmielarski: m.chmielarski!gmail.com, mchmielarski!users.noreply.github.com
+	Azimo
+mchugh19: mchugh19!hotmail.com
+	WAYTTA LLC until 2018-12-01
+	Millennium Management from 2018-12-01
+mchurichi: mchurichi!gmail.com, mchurichi!users.noreply.github.com
+	Independent until 2015-07-01
+	VMN+ from 2015-07-01 until 2016-03-01
+	Velocity from 2016-03-01 until 2017-12-01
+	Scytale from 2017-12-01
+mcieplak: mcieplak!users.noreply.github.com, michael.cieplak!gmail.com
+	Teradata until 2015-01-01
+	DIRECTV from 2015-01-01 until 2015-09-01
+	Independent from 2015-09-01 until 2016-07-01
+	Yahoo! Inc. from 2016-07-01
 mcinbell: mcinbell!users.noreply.github.com
 	Vivastreet until 2018-01-01
 	Independent from 2018-01-01 until 2018-03-01
@@ -999,6 +1037,12 @@ merlante: merlante!users.noreply.github.com
 	MATCHES from 2015-09-01 until 2018-03-01
 	Vhi from 2018-03-01 until 2019-03-01
 	Red Hat Inc. from 2019-03-01
+merlimat: merlimat!users.noreply.github.com, mmerli!apache.org
+	Yahoo! Inc. until 2017-01-01
+	Salesforce from 2017-01-01 until 2017-04-01
+	Streamlio from 2017-04-01 until 2019-11-01
+	Splunk Inc. from 2019-11-01 until 2021-05-01
+	StreamNative from 2021-05-01
 merlin2030: hemaolin!inspur.com, merlin2030!users.noreply.github.com
 	Inspur Group
 merlindorin: merlindorin!users.noreply.github.com, romain.dary!gmail.com
@@ -4627,7 +4671,7 @@ mkulke: magnuskulke!microsoft.com, mkulke!gmail.com, mkulke!users.noreply.github
 	moovel from 2016-06-01 until 2020-11-01
 	Mobimeo GmbH from 2020-11-01 until 2022-08-01
 	Microsoft Corporation from 2022-08-01
-mkumatag: mkumatag!in.ibm.com, mkumatag!users.noreply.github.com, shair.nash!gmail.com
+mkumatag: mkumatag!in.ibm.com, mkumatag!users.noreply.github.com
 	International Business Machines Corporation
 mkurylec: maria.kurylec!globant.com, mkurylec!users.noreply.github.com
 	Independent
@@ -8636,6 +8680,11 @@ mwhahaha: aschultz!next-development.com, mwhahaha!users.noreply.github.com
 	Rackspace until 2015-04-03
 	Mirantis Inc. from 2015-04-03 until 2016-08-26
 	Red Hat Inc. from 2016-08-26
+mwhicks1: mwhicks1!users.noreply.github.com
+	Independent until 2015-06-01
+	Microsoft Corporation from 2015-06-01 until 2015-08-01
+	Independent from 2015-08-01 until 2022-01-01
+	AWS from 2022-01-01
 mwhittington21: mwhittington!atlassian.com, mwhittington21!users.noreply.github.com
 	Independent until 2015-01-01
 	Atlassian from 2015-01-01
@@ -11298,6 +11347,11 @@ nheinemans: nheinemans!users.noreply.github.com
 nhenderson: nhenderson!users.noreply.github.com
 	Implantable until 2015-02-01
 	CastleBranch from 2015-02-01
+nherment: nherment!users.noreply.github.com
+	NearForm Ltd until 2017-01-01
+	Portchain from 2017-01-01 until 2021-02-01
+	NearForm Ltd from 2021-02-01 until 2024-10-01
+	Arkhaios from 2024-10-01
 nhimanshujain: nhimanshujain!users.noreply.github.com
 	Independent until 2021-06-01
 	Wipro from 2021-06-01 until 2021-07-01
@@ -23750,63 +23804,3 @@ psancheti110: prateek.sancheti!research.iiit.ac.in
 	Hyderabad from 2022-11-01
 psanford: psanford!retailnext.net, psanford!sanford.io, psanford!users.noreply.github.com
 	RetailNext Inc.
-psantus: psantus!users.noreply.github.com
-	Independent until 2015-05-01
-	next from 2015-05-01 until 2016-04-01
-	ENERGY POOL from 2016-04-01 until 2021-01-01
-	Groupe SORÉGIES from 2021-01-01 until 2023-09-01
-	ESIGELEC from 2023-09-01 until 2024-01-01
-	Independent from 2024-01-01 until 2024-11-01
-	TerraCloud from 2024-11-01
-psarna: psarna!users.noreply.github.com
-	Samsung Electronics Co. Ltd. until 2014-08-01
-	Independent from 2014-08-01 until 2014-10-01
-	9livesdata from 2014-10-01 until 2014-12-01
-	Skytechnology from 2014-12-01 until 2018-02-01
-	Independent from 2018-02-01 until 2018-04-01
-	ScyllaDB Ltd. from 2018-04-01 until 2022-10-01
-	Turso from 2022-10-01 until 2024-02-01
-	poolside from 2024-02-01
-psasidhar: psasidhar!users.noreply.github.com
-	Yahoo! Inc.
-psavva: psavva!gmail.com, psavva!users.noreply.github.com
-	Independent
-psbrar99: psbrar99!users.noreply.github.com
-	Independent until 2015-07-01
-	Snapdeal from 2015-07-01 until 2016-08-01
-	Gradeup from 2016-08-01 until 2017-11-01
-	airtel from 2017-11-01 until 2019-09-01
-	OYO from 2019-09-01 until 2020-10-01
-	Independent from 2020-10-01 until 2020-12-01
-	Trademo from 2020-12-01 until 2022-02-01
-	Expedia from 2022-02-01
-pschichtel: pschichtel!users.noreply.github.com
-	Amadeus until 2017-09-01
-	Rockwell Automation from 2017-09-01 until 2019-10-01
-	Lindenbaum GmbH – Conferencing . Virtual Dial from 2019-10-01
-pschmitt: pschmitt!users.noreply.github.com
-	Independent
-pschwartz: philip.schwartz!rackspace.com, pschwartz!users.noreply.github.com
-	Rackspace
-pselden: pselden!users.noreply.github.com
-	AXS until 2015-03-01
-	OpenX Technologies Inc. from 2015-03-01 until 2022-05-01
-	Google LLC from 2022-05-01 until 2023-04-01
-	Dropbox Inc. from 2023-04-01
-pselliotc: pselliotc!users.noreply.github.com
-	Independent until 2022-09-01
-	PortSwigger from 2022-09-01
-psema4: psema4!users.noreply.github.com
-	Human_Code until 2018-02-01
-	Independent from 2018-02-01 until 2018-07-01
-	ADESA from 2018-07-01
-pserranoa: pserranoa!users.noreply.github.com
-	Produban Servicios Informaticos Generales S.L.
-pseudometric: pseudometric!users.noreply.github.com, res!qoxp.net
-	Arcesium
-pseudomorph: rkstrickland!gmail.com
-	Box Inc. until 2017-10-01
-	Samsung Electronics Co. Ltd. from 2017-10-01 until 2018-11-01
-	Zuora Inc. from 2018-11-01 until 2020-11-01
-	Instacart from 2020-11-01 until 2023-12-01
-	ClickUp from 2023-12-01

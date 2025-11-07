@@ -5,6 +5,26 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+cmingxu: cming.xu!gmail.com, cmingxu!users.noreply.github.com
+	Independent until 2015-06-01
+	Wilson Sonsini Goodrich & Rosati from 2015-06-01 until 2015-08-01
+	Kailash ehf. from 2015-08-01 until 2017-01-01
+	Independent from 2017-01-01 until 2017-10-01
+	PingCAP from 2017-10-01 until 2019-07-01
+	OSS Capital from 2019-07-01 until 2020-02-01
+	Interconnected from 2020-02-01
+cminyard: cminyard!mvista.com, komuw05!gmail.com, minyard!acm.org, vedangdate!gmail.com
+	MontaVista Software LLC
+cmluciano: christophermluciano!gmail.com, cmluciano!cruznet.org, cmluciano!us.ibm.com, cmluciano!users.noreply.github.com
+	International Business Machines Corporation
+cmnzs: cmnzs!users.noreply.github.com
+	Uncharted until 2018-03-01
+	PagerDuty from 2018-03-01 until 2019-08-01
+	Independent from 2019-08-01 until 2019-11-01
+	Wealthsimple from 2019-11-01 until 2022-03-01
+	Validere from 2022-03-01 until 2022-12-01
+	Independent from 2022-12-01 until 2023-07-01
+	Felix from 2023-07-01
 cmoad: cmoad!users.noreply.github.com
 	ExactTarget until 2014-04-01
 	Salesforce.com Inc. from 2014-04-01 until 2014-12-01
@@ -12839,6 +12859,7 @@ drewpca: drewpca!users.noreply.github.com
 	YouTube until 2020-04-01
 	Google LLC from 2020-04-01
 drewrelmas: drewrelmas!gmail.com, drewrelmas!users.noreply.github.com
+	Independent until 2018-08-13
 	Microsoft Corporation from 2018-08-13
 drewrichardson-arm: drew.richardson!arm.com
 	ARM
@@ -17299,6 +17320,9 @@ emilyzhang: emilyzhang!users.noreply.github.com
 	Independent from 2017-08-01 until 2018-08-01
 	Loblaw Digital from 2018-08-01 until 2020-03-01
 	Netlify from 2020-03-01
+emina: emina!users.noreply.github.com
+	Independent until 2021-06-01
+	AWS from 2021-06-01
 eminaktas: eminaktas!users.noreply.github.com, eminaktas34!gmail.com
 	Bogazici Elektrik Dagitim until 2015-01-01
 	Independent from 2015-01-01 until 2016-05-01
@@ -23816,36 +23840,3 @@ fulldecent: fulldecent!users.noreply.github.com, github.com!phor.net
 	Pacific Medical from 2020-03-01
 fullerdj: dfuller!redhat.com
 	Red Hat Inc.
-fullmetal-fred: fullmetal-fred!users.noreply.github.com
-	Independent until 2015-06-01
-	Neurilink from 2015-06-01 until 2018-05-01
-	Micron from 2018-05-01 until 2020-07-01
-	VMware Inc. from 2020-07-01 until 2020-11-01
-	Level 3 Audiovisual from 2020-11-01 until 2023-09-01
-	Independent from 2023-09-01 until 2024-05-01
-	Zoom from 2024-05-01
-fullykubed: fullykubed!users.noreply.github.com
-	Independent until 2015-08-01
-	Langstonnet from 2015-08-01 until 2019-06-01
-	EvidenceCare from 2019-06-01 until 2021-03-01
-	Bambee from 2021-03-01 until 2023-07-01
-	Independent from 2023-07-01 until 2024-09-01
-	Panfactum from 2024-09-01
-fulong82: hock.leong.kweh!intel.com
-	Intel Corporation
-funera1: funera1!users.noreply.github.com
-	future university hakodate
-fungi: fungi!users.noreply.github.com, fungi!yuggoth.org
-	HP Inc. until 2013-04-08
-	OpenStack Foundation from 2013-04-08
-fungiboletus: fungiboletus!users.noreply.github.com
-	SINTEF until 2018-04-01
-	Tellu from 2018-04-01 until 2021-12-01
-	SINTEF from 2021-12-01
-fungusakafungus: fungusakafungus!users.noreply.github.com, ilya!ulani.de
-	Independent until 2015-06-01
-	Luware AG @ Ciklum from 2015-06-01 until 2020-04-01
-	ClickDimensions from 2020-04-01
-funkygao: funky.gao!gmail.com
-	FunPlus until 2015-04-01
-	Dalian Wanda Group Co Ltd from 2015-04-01

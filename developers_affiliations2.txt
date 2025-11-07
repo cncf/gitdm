@@ -5,6 +5,9 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+Nerja: Nerja!users.noreply.github.com
+	Independent until 2019-01-01
+	Sinch from 2019-01-01
 Nerzal: theel.tobias!gmx.de
 	BCIS until 2018-06-01
 	Independent from 2018-06-01 until 2018-09-01
@@ -13367,6 +13370,11 @@ aanm: aanm!users.noreply.github.com, aanm90!gmail.com, andre!cilium.io
 	Isovalent from 2017-01-01
 aanoaa: aanoaa!users.noreply.github.com
 	Samsung Electronics Co. Ltd.
+aantn: aantn!users.noreply.github.com
+	Independent until 2020-01-01
+	Alcide from 2020-01-01 until 2021-03-01
+	Independent from 2021-03-01 until 2021-06-01
+	Robusta Dev from 2021-06-01
 aaomidi: aaomidi!users.noreply.github.com
 	BioImpacts until 2017-04-01
 	Zync from 2017-04-01 until 2018-05-01
@@ -15409,6 +15417,14 @@ adamoswick: adamoswick!users.noreply.github.com
 	GoDaddy Operating Company LLC from 2020-08-01
 adamparco: adamparco!users.noreply.github.com
 	Docker Inc.
+adamperlin: adamperlin!users.noreply.github.com
+	Independent until 2018-04-01
+	IUNU from 2018-04-01 until 2018-05-01
+	InfluxData Inc from 2018-05-01 until 2019-09-01
+	Independent from 2019-09-01 until 2020-06-01
+	Microsoft Corporation from 2020-06-01 until 2022-10-01
+	Independent from 2022-10-01 until 2023-10-01
+	Microsoft Corporation from 2023-10-01
 adampie: adampie!users.noreply.github.com
 	Independent until 2019-10-01
 	heycar from 2019-10-01 until 2020-09-01
@@ -16151,6 +16167,11 @@ adowair: adowair!users.noreply.github.com
 	Independent from 2019-08-01
 adoy: adoy!users.noreply.github.com, pierrick!php.net
 	AdoY
+adpaco-aws: adpaco-aws!users.noreply.github.com
+	Independent until 2019-04-01
+	AWS from 2019-04-01 until 2019-07-01
+	Independent from 2019-07-01 until 2020-10-01
+	AWS from 2020-10-01
 adr-arroyo: adr-arroyo!users.noreply.github.com, adr.arroyo.perez!gmail.com
 	Independent until 2017-10-01
 	Indra from 2017-10-01 until 2018-07-01
@@ -23577,26 +23598,3 @@ anderson4u2: anderson4u2!users.noreply.github.com
 andersonandrei: silva.andersonandrei!gmail.com
 	Independent until 2021-01-01
 	Ryax from 2021-01-01
-andersonsoares-tomtom: andersonsoares-tomtom!users.noreply.github.com
-	CSG International Inc. until 2018-12-01
-	Independent from 2018-12-01 until 2021-07-01
-	TomTom International B.V. from 2021-07-01
-andersosthus: andersosthus!users.noreply.github.com
-	Turritt until 2018-03-01
-	Geodata AS from 2018-03-01
-anderspitman: anderspitman!users.noreply.github.com, tapitman11!gmail.com
-	Artemis until 2014-04-01
-	Independent from 2014-04-01 until 2015-10-01
-	Tidepool from 2015-10-01 until 2016-01-01
-	Independent from 2016-01-01
-andersschuller: andersschuller!gmail.com, andersschuller!users.noreply.github.com
-	Independent
-andersson: bjorn.andersson!linaro.org
-	Linaro Limited
-andersson: bjorn.andersson!sonymobile.com
-	Sony Mobile Communications
-andfasano: andfasano!users.noreply.github.com
-	D-VoiS Communications Private Limited (I-ON) until 2019-12-01
-	Red Hat Inc. from 2019-12-01
-andham: anders!hammar.net
-	Antigo

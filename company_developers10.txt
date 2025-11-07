@@ -2,6 +2,11 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Ramboll:
+	olevski: olevski!users.noreply.github.com, olevski90!gmail.com from 2015-06-01 until 2020-09-01
+	swinges: swinges!users.noreply.github.com until 2015-03-01, from 2016-04-01 until 2018-01-01
+Ramboll Group A/S:
+	Tapppi: Tapppi!users.noreply.github.com, moilanen.tapani!gmail.com until 2016-12-01
 Rambus:
 	cagdascirit: cagdascirit!gmail.com, cagdascirit!users.noreply.github.com from 2017-02-01 until 2019-10-01
 	shgattu: shgattu!users.noreply.github.com from 2017-04-01 until 2019-05-01
@@ -2555,7 +2560,7 @@ Red Hat Inc.:
 	kabir: kabir.khan!jboss.com, kkhan!redhat.com
 	kadel: djose.martinezp!gmail.com, kadel!users.noreply.github.com, lima.kayo!gmail.com, tkral!redhat.com, tomas.kral!gmail.com from 2015-09-01
 	kairen: k2r2.bai!gmail.com, kairen!users.noreply.github.com, kyle.b!inwinstack.com, s1499k005!gmail.com from 2020-11-01
-	kakkoyun: kakkoyun!gmail.com, kakkoyun!users.noreply.github.com from 2019-07-01 until 2021-07-01
+	kakkoyun: kakkoyun!gmail.com, kakkoyun!users.noreply.github.com, kemal.akkoyun!datadoghq.com from 2019-07-01 until 2021-07-01
 	kameshsampath: kamesh.sampath!hotmail.com, kameshsampath!users.noreply.github.com from 2016-01-01
 	kami619: kamesh.asp!gmail.com from 2021-12-01
 	kanekoh: kanekoh!users.noreply.github.com from 2018-03-01
@@ -6030,6 +6035,7 @@ Robusta:
 	NourhanKhaled: NourhanKhaled!users.noreply.github.com, nourhan.kh02!gmail.com from 2017-07-01 until 2017-11-01
 	shubhamyadav20: shubhamyadav20!users.noreply.github.com from 2022-04-01 until 2022-06-01
 Robusta Dev:
+	aantn: aantn!users.noreply.github.com from 2021-06-01
 	batmnnn: batmnnn!users.noreply.github.com from 2022-04-01 until 2022-06-01
 Rocana:
 	actgardner: actgardner!users.noreply.github.com from 2015-01-01 until 2017-03-01
@@ -10109,6 +10115,7 @@ Salesforce:
 	maselvaraj: maselvaraj!users.noreply.github.com from 2021-10-01
 	mattnaides: mattnaides!users.noreply.github.com until 2016-12-01
 	mbaijal: mbaijal!users.noreply.github.com from 2022-11-01
+	merlimat: merlimat!users.noreply.github.com, mmerli!apache.org from 2017-01-01 until 2017-04-01
 	mohitmahi: mohitmahi!users.noreply.github.com from 2021-09-01
 	monkeymantra: gregrice!gmail.com from 2017-07-01 until 2020-10-01
 	mrgiles: mrgiles!users.noreply.github.com from 2017-08-01
@@ -13498,6 +13505,8 @@ Shanghai Heyu Investment Management Co Ltd:
 	thisisobate: obasiuche62!gmail.com, thisisobate!users.noreply.github.com from 2017-08-01 until 2017-12-01
 Shanghai International Shipping Institute:
 	JinsYin: JinsYin!users.noreply.github.com, jinsyin!gmail.com from 2014-09-01 until 2015-12-01
+Shanghai Juyong:
+	mattisonchao: mattisonchao!users.noreply.github.com from 2019-10-01 until 2022-01-01
 Shanghai Kyligence Information Technology Co. Ltd.:
 	363921219: jie.wang!kylin-cloud.com
 	skyline09: skyline09!users.noreply.github.com, wwwjieo0!gmail.com
@@ -15945,34 +15954,3 @@ Slalom Build:
 	joestafford: joestafford!users.noreply.github.com from 2019-04-01
 	lfacchinelli: lfacchinelli!users.noreply.github.com from 2019-10-01 until 2024-01-01
 	zzhu158: zzhu158!users.noreply.github.com from 2021-02-01 until 2023-03-01
-Slalom Consulting:
-	AngusHelm: AngusHelm!users.noreply.github.com
-	HashedDan: 31777345+hasheddan!users.noreply.github.com, HashedDan!users.noreply.github.com from 2019-01-01 until 2019-07-01
-	PaulRiviera: PaulRiviera!users.noreply.github.com from 2021-06-01
-	Preskton: Preskton!users.noreply.github.com, preston.doster!genoq.com until 2017-02-01
-	Szasza: Szasza!users.noreply.github.com from 2024-12-01
-	Z3r0Sum: z3r0sum!users.noreply.github.com from 2019-11-01 until 2020-04-01
-	bgshacklett: bgshacklett!users.noreply.github.com, mistria!redhat.com, sapre.r!husky.neu.edu from 2019-12-01
-	bonucki: bonucki!users.noreply.github.com
-	chinltong: chinltong!users.noreply.github.com from 2019-04-01 until 2020-03-01
-	danielsiwiec: daniel.siwiec!gmail.com, danielsiwiec!users.noreply.github.com from 2020-01-01 until 2022-08-01
-	gavin-io: gavin-io!users.noreply.github.com from 2022-05-01
-	jpeterson88: jpeterson4223!yahoo.com, jpeterson88!users.noreply.github.com
-	jrnt30: jrnt30!users.noreply.github.com, justin!spantree.net, justin.r.nauman+github!gmail.com until 2016-12-01
-	mstrother: mstrother!users.noreply.github.com from 2020-01-01 until 2021-01-01
-	owenfarrell: owenfarrell!users.noreply.github.com from 2021-03-01
-	quixoticmonk: quixoticmonk!users.noreply.github.com from 2021-02-01 until 2022-07-01
-	rishabhsaha: rishabhsaha!users.noreply.github.com from 2018-08-01 until 2019-02-01
-	rossedman: rossedman!users.noreply.github.com from 2016-03-01 until 2017-06-01
-	rossgrambo: rossgrambo!users.noreply.github.com until 2015-09-01, from 2016-09-01 until 2016-12-01
-	sosimon: sosimon!users.noreply.github.com from 2016-12-01 until 2021-09-01
-	spitzzz: spitzzz!users.noreply.github.com from 2018-07-01 until 2020-01-01
-	szahn: szahn!users.noreply.github.com from 2019-08-01
-Slang:
-	yamilurbina: hello!yamilurbina.com, yamilurbina!users.noreply.github.com from 2021-03-01 until 2021-12-01
-Slash:
-	mmorev: mmorev!users.noreply.github.com from 2022-02-01
-SlashDuck:
-	zewelor: zewelor!gmail.com, zewelor!users.noreply.github.com until 2014-12-01
-Slate and Pencil Pvt Ltd:
-	akhilerm: akhil.mohan!mayadata.io, akhilerm!gmail.com, akhilerm!users.noreply.github.com, makhil!vmware.com until 2016-11-01

@@ -2,6 +2,37 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Slalom Consulting:
+	AngusHelm: AngusHelm!users.noreply.github.com
+	HashedDan: 31777345+hasheddan!users.noreply.github.com, HashedDan!users.noreply.github.com from 2019-01-01 until 2019-07-01
+	PaulRiviera: PaulRiviera!users.noreply.github.com from 2021-06-01
+	Preskton: Preskton!users.noreply.github.com, preston.doster!genoq.com until 2017-02-01
+	Szasza: Szasza!users.noreply.github.com from 2024-12-01
+	Z3r0Sum: z3r0sum!users.noreply.github.com from 2019-11-01 until 2020-04-01
+	bgshacklett: bgshacklett!users.noreply.github.com, mistria!redhat.com, sapre.r!husky.neu.edu from 2019-12-01
+	bonucki: bonucki!users.noreply.github.com
+	chinltong: chinltong!users.noreply.github.com from 2019-04-01 until 2020-03-01
+	danielsiwiec: daniel.siwiec!gmail.com, danielsiwiec!users.noreply.github.com from 2020-01-01 until 2022-08-01
+	gavin-io: gavin-io!users.noreply.github.com from 2022-05-01
+	jpeterson88: jpeterson4223!yahoo.com, jpeterson88!users.noreply.github.com
+	jrnt30: jrnt30!users.noreply.github.com, justin!spantree.net, justin.r.nauman+github!gmail.com until 2016-12-01
+	mstrother: mstrother!users.noreply.github.com from 2020-01-01 until 2021-01-01
+	owenfarrell: owenfarrell!users.noreply.github.com from 2021-03-01
+	quixoticmonk: quixoticmonk!users.noreply.github.com from 2021-02-01 until 2022-07-01
+	rishabhsaha: rishabhsaha!users.noreply.github.com from 2018-08-01 until 2019-02-01
+	rossedman: rossedman!users.noreply.github.com from 2016-03-01 until 2017-06-01
+	rossgrambo: rossgrambo!users.noreply.github.com until 2015-09-01, from 2016-09-01 until 2016-12-01
+	sosimon: sosimon!users.noreply.github.com from 2016-12-01 until 2021-09-01
+	spitzzz: spitzzz!users.noreply.github.com from 2018-07-01 until 2020-01-01
+	szahn: szahn!users.noreply.github.com from 2019-08-01
+Slang:
+	yamilurbina: hello!yamilurbina.com, yamilurbina!users.noreply.github.com from 2021-03-01 until 2021-12-01
+Slash:
+	mmorev: mmorev!users.noreply.github.com from 2022-02-01
+SlashDuck:
+	zewelor: zewelor!gmail.com, zewelor!users.noreply.github.com until 2014-12-01
+Slate and Pencil Pvt Ltd:
+	akhilerm: akhil.mohan!mayadata.io, akhilerm!gmail.com, akhilerm!users.noreply.github.com, makhil!vmware.com until 2016-11-01
 Slaughter&Fox:
 	kushthedude: kushthedude!users.noreply.github.com from 2019-06-01 until 2019-07-01
 Sled:
@@ -3108,6 +3139,7 @@ Splunk Inc.:
 	matthewmodestino: matthewmodestino!users.noreply.github.com from 2016-03-01
 	mattk42: matt.knox!trackvia.com, matt1988!gmail.com, mattk42!users.noreply.github.com from 2019-03-01
 	mechpen: mechpen!users.noreply.github.com, whzhao!gmail.com from 2017-10-01
+	merlimat: merlimat!users.noreply.github.com, mmerli!apache.org from 2019-11-01 until 2021-05-01
 	metrue: h.minghe!gmail.com, metrue!users.noreply.github.com from 2016-08-01 until 2017-07-01
 	mhennoch: mhennoch!users.noreply.github.com from 2020-10-01
 	mhite: mhite!users.noreply.github.com from 2020-10-01
@@ -5238,6 +5270,8 @@ StreamNative:
 	codelipenghui: codelipenghui!users.noreply.github.com, penghui!apache.org from 2020-03-01
 	dao-jun: dao-jun!users.noreply.github.com
 	jrsdav: jrsdav!users.noreply.github.com from 2021-04-01
+	mattisonchao: mattisonchao!users.noreply.github.com from 2022-01-01
+	merlimat: merlimat!users.noreply.github.com, mmerli!apache.org from 2021-05-01
 	streamnativebot: streamnativebot!users.noreply.github.com
 	tjiuming: tjiuming!users.noreply.github.com
 StreamRail:
@@ -5260,6 +5294,7 @@ StreamingClouds:
 Streamlane:
 	ledroide: ledroide!users.noreply.github.com, serge.hartmann!gmail.com from 2023-11-01
 Streamlio:
+	merlimat: merlimat!users.noreply.github.com, mmerli!apache.org from 2017-04-01 until 2019-11-01
 	sijie: sijie!apache.org, sijie!users.noreply.github.com, sijieg!twitter.com from 2017-03-01
 Streamlit Inc.:
 	Amey-D: Amey-D!users.noreply.github.com, ameyd!google.com from 2020-03-01
