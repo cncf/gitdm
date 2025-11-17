@@ -59,17 +59,18 @@ def store_patch(patch):
 def save_csv (prefix='data'):
     # Dump the ChangeSets
     if len(ChangeSets) > 0:
-        fd = open('%s-changesets.csv' % prefix, 'w')
+        fd = open('%s-changesets.csv' % prefix, 'wb')
         writer = csv.writer (fd, quoting=csv.QUOTE_NONNUMERIC)
-        writer.writerow (['Commit', 'Date', 'Domain',
-                          'Email', 'Name', 'Affliation',
+        # Header aligned with emitted row order and corrected spelling
+        writer.writerow (['Commit', 'Date', 'Email',
+                          'Domain', 'Name', 'Affiliation',
                           'Added', 'Removed', 'Changed'])
         for commit in ChangeSets:
             writer.writerow(commit)
 
     # Dump the file types
     if len(FileTypes) > 0:
-        fd = open('%s-filetypes.csv' % prefix, 'w')
+        fd = open('%s-filetypes.csv' % prefix, 'wb')
         writer = csv.writer (fd, quoting=csv.QUOTE_NONNUMERIC)
 
         writer.writerow (['Commit', 'Type', 'Added', 'Removed'])
@@ -82,7 +83,7 @@ def OutputCSV (file):
     if file is None:
         return
     writer = csv.writer (file, quoting=csv.QUOTE_NONNUMERIC)
-    writer.writerow (['Name', 'Email', 'Affliation', 'Date',
+    writer.writerow (['Name', 'Email', 'Affiliation', 'Date',
                       'Added', 'Removed', 'Changed', 'Changesets'])
     for date, stat in PeriodCommitHash.items():
         # sanitise names " is common and \" sometimes too
