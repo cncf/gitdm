@@ -5,13 +5,6 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
-cmeury: cedric!meury.com, cmeury!users.noreply.github.com
-	Microsoft Corporation until 2016-02-01
-	Tamedia from 2016-02-01 until 2017-01-01
-	Independent from 2017-01-01 until 2017-07-01
-	ricardo from 2017-07-01 until 2019-11-01
-	ETH from 2019-11-01 until 2021-09-01
-	Well Gesundheit from 2021-09-01
 cmgitdream: chenmin!xsky.com, minchen!ubuntukylin.com, runpanamera!gmail.com
 	XSKY Cooperation
 cmharden: chris.harden!weave.works, cmharden!gmail.com, cmharden!users.noreply.github.com
@@ -15887,8 +15880,8 @@ efrisch: efrisch!users.noreply.github.com
 	Cognizant Technology Solutions from 2019-10-01 until 2021-10-01
 	JFrog from 2021-10-01 until 2023-03-01
 	Independent from 2023-03-01
-eftiquar: eftiquar!users.noreply.github.com efshaikh!cisco.com
-	Cisco
+eftiquar: efshaikh!cisco.com, eftiquar!users.noreply.github.com
+	Cisco Systems Inc.
 eftugahan: eftugahan!users.noreply.github.com
 	Nextix
 efueger: efueger!users.noreply.github.com
@@ -23846,3 +23839,11 @@ fujian1115: jiafu!cisco.com
 	Cisco Systems Inc.
 fujimotos: fujimoto!ceptord.net, fujimoto!clear-code.com, fujimotos!users.noreply.github.com
 	Independent
+fujin: aj!junglistheavy.industries, fujin!users.noreply.github.com
+	MoPub until 2014-07-01
+	Pantheon Platform from 2014-07-01 until 2016-06-01
+	DoubleDutch from 2016-06-01 until 2019-03-01
+	Independent from 2019-03-01 until 2019-05-01
+	brightwheel from 2019-05-01 until 2019-12-01
+	Independent from 2019-12-01 until 2020-04-01
+	Postmates Inc from 2020-04-01

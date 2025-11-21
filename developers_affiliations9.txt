@@ -5,12 +5,6 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
-steffen-karlsson: steffen-karlsson!users.noreply.github.com
-	Shape until 2017-07-01
-	Netcompany from 2017-07-01 until 2021-02-01
-	Deloitte from 2021-02-01 until 2021-12-01
-	Nordea Bank from 2021-12-01 until 2023-06-01
-	Maersk from 2023-06-01
 steffen-maier: maier!linux.vnet.ibm.com
 	International Business Machines Corporation
 steffeneichler: steffeneichler!users.noreply.github.com
@@ -24014,3 +24008,8 @@ zach-source: zach-source!users.noreply.github.com, ztaylor!ibm.com
 	International Business Machines Corporation from 2019-08-01
 zach593: Zach593!users.noreply.github.com, zach_li!outlook.com
 	Trip.com Group
+zachaller: zachaller!hotmail.com, zachaller!users.noreply.github.com, zaller!iteris.com
+	Independent until 2022-03-01
+	Intuit Inc. from 2022-03-01
+zacharya: zach.abrahamson!gmail.com, zacharya!users.noreply.github.com
+	Amazon

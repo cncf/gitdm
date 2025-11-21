@@ -5,13 +5,6 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
-mcdermj: nh6z!nh6z.net
-	Kattere until 2016-06-01
-	IP Services from 2016-06-01
-mcdoker18: Mcdkr!yandex.ru, mcdoker18!users.noreply.github.com
-	Independent until 2016-04-01
-	Netcracker Technology Corporation from 2016-04-01 until 2018-11-01
-	EPAM S from 2018-11-01
 mcdonagj: mcdonagj!users.noreply.github.com
 	Independent until 2022-03-01
 	Mastercard International Incorporated from 2022-03-01
@@ -18162,6 +18155,10 @@ patjak: patrik.jakobsson!linux.intel.com, patrik.r.jakobsson!gmail.com
 	Nuday until 2014-12-01
 	Intel Corporation from 2014-12-01 until 2016-11-01
 	SUSE LLC from 2016-11-01
+patjakdev: pat!jakattack.net
+	Qumulo until 2022-12-01
+	Apella from 2022-12-01 until 2024-05-01
+	StrongDM from 2024-05-01
 patjones: patjones!users.noreply.github.com
 	Independent until 2015-06-01
 	Monroe 2-Orleans BOCES from 2015-06-01 until 2015-08-01
@@ -23814,3 +23811,5 @@ prydonius: aadnan!vmware.com, adnan!bitnami.com, adnan!prydoni.us, prydonius!use
 pryorda: daniel!pryorda.net, pryorda!users.noreply.github.com
 	Parchment until 2022-03-01
 	Alkami from 2022-03-01
+przemeklal: przemeklal!users.noreply.github.com, przemyslawx.lal!intel.com
+	Intel Corporation

@@ -5,8 +5,6 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
-przemeklal: przemeklal!users.noreply.github.com, przemyslawx.lal!intel.com
-	Intel Corporation
 przemolb: przemolb!users.noreply.github.com
 	CMC Markets until 2017-09-01
 	R3 from 2017-09-01
@@ -23730,3 +23728,9 @@ steff-petro: steff-petro!users.noreply.github.com
 steffakasid: steffakasid!users.noreply.github.com
 	Boehringer Ingelheim until 2015-05-01
 	DB Systel GmbH from 2015-05-01
+steffen-karlsson: steffen-karlsson!users.noreply.github.com
+	Shape until 2017-07-01
+	Netcompany from 2017-07-01 until 2021-02-01
+	Deloitte from 2021-02-01 until 2021-12-01
+	Nordea Bank from 2021-12-01 until 2023-06-01
+	Maersk from 2023-06-01
