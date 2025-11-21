@@ -51,6 +51,10 @@ Please follow the instructions from [SYNC.md](https://github.com/cncf/gitdm/blob
 # Running
 Use `*.sh` scripts to run analytics (`all*.sh` for full analysis and `rels*.sh` for per release stats)
 
+Convenience wrappers:
+- Unix shells: pipe `git log` into `./gitdm` instead of calling `src/cncfdm.py` directly; the wrapper auto-selects a Python 2/PyPy interpreter and points `-b` to `src/`.
+- PowerShell: use `./gitdm.ps1` similarly.
+
 This program assumes that gitdm resides in: `~/dev/cncf/gitdm/` and that kubernetes is in `~/dev/go/src/k8s.io/kubernetes/`
 
 Output files are placed in the `kubernetes` directory.

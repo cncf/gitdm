@@ -348,7 +348,7 @@ class patch:
         self.reports.append (reporter)
 
     def addfiletype (self, filetype, added, removed):
-        if self.filetypes.has_key (filetype):
+        if filetype in self.filetypes:
             self.filetypes[filetype][self.ADDED] += added
             self.filetypes[filetype][self.REMOVED] += removed
         else:

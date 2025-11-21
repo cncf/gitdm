@@ -53,6 +53,10 @@ class LogPatchSplitter:
             raise StopIteration
         return patch
 
+    # Py3 compatibility when/if the project is ported
+    def __next__(self):
+        return self.next()
+
     def getDate(self, line):
         # ['Date:', '', '', 'Thu', 'May', '11', '09:15:21', '2017', '+0200\n']
         arr = line.split(' ')
