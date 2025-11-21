@@ -149,12 +149,21 @@ def PrintDateStats():
     dates = DateMap.keys ()
     dates.sort ()
     total = 0
-    datef = open ('datelc.csv', 'w')
-    datef.write('Date,Changed,Total Changed\n')
+    # Modern CSV output for external tooling
+    datef_csv = open('datelc.csv', 'w')
+    datef_csv.write('Date,Changed,Total Changed\n')
+    # Legacy fixed-width output expected by tests/back-compat
+    datef_legacy = open('datelc', 'w')
     for date in dates:
         total += DateMap[date]
-        datef.write ('%d/%02d/%02d,%d,%d\n' % (date.year, date.month, date.day,
+        # CSV
+        datef_csv.write('%d/%02d/%02d,%d,%d\n' % (date.year, date.month, date.day,
                                     DateMap[date], total))
+        # Legacy: date + two right-aligned integer columns width 7 and 8
+        datef_legacy.write('%d/%02d/%02d%7d%8d\n' % (date.year, date.month, date.day,
+                                    DateMap[date], total))
+    datef_csv.close()
+    datef_legacy.close()
 
 
 #
