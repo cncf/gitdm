@@ -413,7 +413,8 @@ TotalChanged = TotalAdded = TotalRemoved = 0
 #
 print >> sys.stderr, 'Grabbing changesets...\r',
 
-patches = logparser.LogPatchSplitter(sys.stdin)
+# Default to a wide-open date range to match cncfdm.py
+patches = logparser.LogPatchSplitter(sys.stdin, datetime.datetime(1970, 1, 1), datetime.datetime(2069, 1, 1))
 printcount = CSCount = 0
 
 for logpatch in patches:

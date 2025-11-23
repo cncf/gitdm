@@ -688,10 +688,11 @@ for logpatch in patches:
         AddDateLines (pa.date, max (pa.added, pa.removed))
         empl = pa.author.emailemployer (pa.email, pa.date)
         if not empl:
-            # Usually missing the final affiliation (like last affiliation ws untin 2019-01-01 and this patch is from 2019-03-03
-            print 'pdb on email ', pa.email
-            print 'pdb on logpatch ', logpatch
-            pdb.set_trace()
+            # Usually missing the final affiliation (like last affiliation was until some date and this patch is after that)
+            if DebugHalt:
+                pdb.set_trace()
+            else:
+                sys.stderr.write('Missing affiliation for %s at %s; skipping.\n' % (pa.email, pa.date))
             continue
         empl.AddCSet (pa)
         for sobemail, sobber in pa.sobs:
