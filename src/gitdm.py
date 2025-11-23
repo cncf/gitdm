@@ -323,11 +323,11 @@ def grabpatch(logpatch):
         else:
             # Get the statistics (lines added/removes) using numstats
             # and without requiring a diff (--numstat instead -p)
-			(filename, filetype, added, removed) = parse_numstat (Line, FileFilter)
-			if filename:
-			    p.added += added
-			    p.removed += removed
-			    p.addfiletype (filetype, added, removed)
+            (filename, filetype, added, removed) = parse_numstat (Line, FileFilter)
+            if filename:
+                p.added += added
+                p.removed += removed
+                p.addfiletype (filetype, added, removed)
 
     if '@' in p.author.name:
         GripeAboutAuthorName (p.author.name)
