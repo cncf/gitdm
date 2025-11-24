@@ -43,6 +43,6 @@ for line in input.readlines():
             DB[m.group(1)] = Tag
 
 print 'Found %d commits, %d tags' % (len(DB.keys()), Tags)
-out = open('committags.db', 'w')
+out = open('committags.db', 'wb')
 pickle.dump(DB, out)
 out.close()

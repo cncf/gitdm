@@ -188,7 +188,7 @@ def AllAffsCSV(file, hlist):
                 if em in emails:
                     print 'This is bad, reverse email already in emails, check: `em`, `email`, `emails`'
                     pdb.set_trace()
-                writer.writerow ([email_encode(em), email_encode(name), emplstr, datestr])
+                writer.writerow ([email_encode(em), email_encode(name), emplstr, datestr, source])
 
 def AllHackers ():
     return HackersByID.values ()
