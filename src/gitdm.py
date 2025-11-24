@@ -323,11 +323,11 @@ def grabpatch(logpatch):
         else:
             # Get the statistics (lines added/removes) using numstats
             # and without requiring a diff (--numstat instead -p)
-			(filename, filetype, added, removed) = parse_numstat (Line, FileFilter)
-			if filename:
-			    p.added += added
-			    p.removed += removed
-			    p.addfiletype (filetype, added, removed)
+            (filename, filetype, added, removed) = parse_numstat (Line, FileFilter)
+            if filename:
+                p.added += added
+                p.removed += removed
+                p.addfiletype (filetype, added, removed)
 
     if '@' in p.author.name:
         GripeAboutAuthorName (p.author.name)
@@ -413,7 +413,8 @@ TotalChanged = TotalAdded = TotalRemoved = 0
 #
 print >> sys.stderr, 'Grabbing changesets...\r',
 
-patches = logparser.LogPatchSplitter(sys.stdin)
+# Default to a wide-open date range to match cncfdm.py
+patches = logparser.LogPatchSplitter(sys.stdin, datetime.datetime(1970, 1, 1), datetime.datetime(2069, 1, 1))
 printcount = CSCount = 0
 
 for logpatch in patches:
