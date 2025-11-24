@@ -5,6 +5,15 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+mccv1r0: mcambria!redhat.com, mccv1r0!users.noreply.github.com
+	Red Hat Inc.
+mccxj: mc02cxj!gmail.com, mccxj!users.noreply.github.com
+	Huawei Technologies Co. Ltd
+mcdan: mcdan!users.noreply.github.com, mcweeney!adobe.com, me!danmcweeney.com
+	Adobe Inc.
+mcdargh: mcdargh!users.noreply.github.com, mike!mcdargh.com, mike.loll!gmail.com
+	FnnTEK until 2015-10-01
+	TaxSlayer from 2015-10-01
 mcdermj: nh6z!nh6z.net
 	Kattere until 2016-06-01
 	IP Services from 2016-06-01
@@ -23807,11 +23816,3 @@ prydie: ben.lucato!gmail.com
 	Vibrato from 2017-08-01
 prydin: prydin!users.noreply.github.com
 	VMware Inc.
-prydom: prydom!users.noreply.github.com
-	Independent until 2016-09-01
-	A9.com from 2016-09-01 until 2016-12-01
-	Independent from 2016-12-01
-prydonius: aadnan!vmware.com, adnan!bitnami.com, adnan!prydoni.us, prydonius!users.noreply.github.com
-	Bitnami Inc. until 2019-05-22
-	VMware Inc. from 2019-05-22 until 2019-12-01
-	Brex from 2019-12-01

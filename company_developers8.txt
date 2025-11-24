@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Lotem:
+	Tal-or: Tal-or!users.noreply.github.com, titzhak!redhat.com until 2016-06-01
 Loterie Romande:
 	Tb0: Tb0!users.noreply.github.com until 2016-12-01
 Lotpath:
@@ -2093,8 +2095,6 @@ Magic Web:
 	kittywaresz: stoksenatck!gmail.com from 2018-09-01 until 2021-09-01
 MagicArena:
 	EverOctivian: EverOctivian!gmail.com
-MagicCap:
-	MattIPv4: MattIPv4!users.noreply.github.com, matthew!cowley.org.uk, me!mattcowley.co.uk from 2019-09-01 until 2021-04-01
 MagicCube:
 	pcrost: crosthwaite.peter!gmail.com, crosthwaitepeter!gmail.com from 2015-07-01 until 2016-07-01, from 2017-04-01
 MagicFlex:
@@ -6537,6 +6537,7 @@ Microsoft Corporation:
 	DanBarychev: DanBarychev!users.noreply.github.com, dbaryche!andrew.cmu.edu from 2019-05-01 until 2019-08-01, from 2020-08-01
 	DanielShor: DanielShor!users.noreply.github.com from 2017-11-01
 	DanielWangZhanggui: DanielWangZhanggui!users.noreply.github.com
+	DannyBrito: DannyBrito!users.noreply.github.com from 2022-02-01 until 2022-06-01, from 2022-08-01
 	DarinShapiroMS: dashapir!microsoft.com from 2016-05-01
 	DariuszPorowski: DariuszPorowski!users.noreply.github.com from 2016-02-01
 	DarqueWarrior: DarqueWarrior!users.noreply.github.com
