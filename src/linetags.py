@@ -66,7 +66,7 @@ if len(sys.argv) != 2:
 #
 # Grab the tags/version database.
 #
-dbf = open('committags.db', 'r')
+dbf = open('committags.db', 'rb')
 DB = pickle.load(dbf)
 dbf.close()
 

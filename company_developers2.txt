@@ -2,6 +2,14 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+BMC Software:
+	PankajWorks: PankajWorks!users.noreply.github.com until 2015-05-01
+	RamIyer1998: RamIyer1998!users.noreply.github.com until 2015-11-01
+	RobertMirantis: RobertMirantis!users.noreply.github.com from 2017-10-01 until 2019-02-01
+	etashsingh: etashsingh!users.noreply.github.com, etashsingh29!gmail.com from 2021-08-01 until 2023-03-01
+	kiryteo: capnoi8!gmail.com, kiryteo!users.noreply.github.com from 2018-10-01 until 2019-05-01
+	sonaikar: sonaikar!users.noreply.github.com until 2016-10-01
+	yurigene: yurigene!users.noreply.github.com until 2015-02-01
 BMC Software Inc:
 	GabrielNicolasAvellaneda: GabrielNicolasAvellaneda!users.noreply.github.com, avellaneda.gabriel!gmail.com from 2015-09-01 until 2015-11-01
 	ajaijoy: ajai.joy!gmail.com
@@ -6226,6 +6234,8 @@ BrowserStack:
 	sinstein: sauravkothari2!gmail.com from 2015-06-01 until 2018-07-01
 	suyash-811: suyash-811!users.noreply.github.com from 2022-01-01
 	vaibhavsingh97: singh.vaibhav2011!gmail.com, vaibhav.singh.14cse!bml.edu.in, vaibhavsingh97!users.noreply.github.com from 2019-03-01
+Browzwear:
+	RoiGlinik: groi.tech!gmail.com from 2019-01-01 until 2022-01-01
 Broy Engineering:
 	rrangith: rrangith!users.noreply.github.com from 2015-07-01 until 2017-08-01
 Brujula:
@@ -9250,7 +9260,7 @@ Caiyun Technology (Caicloud):
 	joyme123: jiangpengfei12!gmail.com, joyme123!users.noreply.github.com
 	keontang: ikeontang!gmail.com, keontang!users.noreply.github.com, tangjiyuan!caicloud.io
 	lsytj0413: 511121939!qq.com, lsytj0413!users.noreply.github.com
-	mainred: haoqingchuan!caicloud.io, haoqingchuan!hotmail.com, mainred!users.noreply.github.com from 2017-08-01 until 2018-06-01
+	mainred: haoqingchuan!hotmail.com, mainred!users.noreply.github.com from 2017-08-01 until 2018-06-01
 	markthink: markthink!users.noreply.github.com
 	mqliang: jladuval!gmail.com, mqliang!users.noreply.github.com, mqliang.zju!gmail.com, secret.mqliang!gmail.com from 2015-10-30 until 2017-07-01
 	orainxiong: orainxiong!users.noreply.github.com from 2019-06-01 until 2020-06-01
@@ -10044,7 +10054,7 @@ Capgemini:
 	thennetirajesh: thennetirajesh!users.noreply.github.com from 2018-05-01 until 2018-11-01
 	tiagoassis00: tiagoassis00!gmail.com from 2018-01-01 until 2020-09-01
 	torrespro: torrespro!users.noreply.github.com from 2015-01-01 until 2015-06-01
-	tuunit: jan!larwig.com, tuunit!users.noreply.github.com from 2019-06-01
+	tuunit: jan!larwig.com, tuunit!users.noreply.github.com from 2019-06-01 until 2024-09-01
 	uhinze: uhinze!users.noreply.github.com from 2015-01-01 until 2019-07-01
 	vamsidvk09: vamsidvk09!users.noreply.github.com from 2020-01-01
 	varunjain99: varunjain99!gmail.com until 2015-07-01
@@ -12950,6 +12960,7 @@ Cisco Systems Inc.:
 	PurushottamHari: PurushottamHari!users.noreply.github.com, purhari!cisco.com
 	Rajagopalan-Ranganathan: rarangan!redhat.com until 2015-11-01
 	Ranganaths8: Ranganaths8!users.noreply.github.com until 2015-02-01, from 2019-02-01 until 2019-12-01
+	Rhynier: rhynier!users.noreply.github.com, rmyburgh!cisco.com
 	RichWellum: RichWellum!users.noreply.github.com until 2016-10-01, from 2019-07-01 until 2020-10-01
 	RichardoC: RichardoC!users.noreply.github.com from 2017-09-01 until 2018-10-01
 	Routhinator: Routhinator!users.noreply.github.com from 2020-07-01 until 2022-07-01
@@ -13183,6 +13194,7 @@ Cisco Systems Inc.:
 	edwmurph: edwmurph!users.noreply.github.com, edwmurph3!gmail.com from 2016-07-01 until 2018-12-01
 	eebjr: eebjr!users.noreply.github.com until 2018-04-01
 	eestewart: eestewart!users.noreply.github.com
+	eftiquar: efshaikh!cisco.com, eftiquar!users.noreply.github.com
 	egtvedt: egtvedt!samfundet.no, hegtvedt!cisco.com
 	eliaslevy: eliaslevy!users.noreply.github.com, fearsome.lucidity!gmail.com
 	elviraux: elviraux!users.noreply.github.com from 2016-03-01
@@ -15938,16 +15950,3 @@ Code Adept:
 	punkisdead: janderson!sonatype.com, jeremy!code-adept.com, jeremy.d.anderson!gmail.com
 Code Boss:
 	Kantis: emil.kantis!protonmail.com
-Code Camp:
-	harrisonturton: harryt!canva.com from 2018-06-01 until 2018-07-01
-	rsdelhi91: rsdelhi91!users.noreply.github.com from 2017-04-01 until 2018-12-01
-	suryaavala: suryaavala!users.noreply.github.com, suryaavala.dev!gmail.com from 2016-04-01 until 2016-10-01
-Code Chrysalis:
-	melvinkcx: melvinkcx!users.noreply.github.com from 2019-03-01 until 2020-09-01
-Code Climate:
-	calavera: calavera!users.noreply.github.com, david.calavera!gmail.com from 2014-06-01 until 2015-02-01
-	dblandin: dblandin!gmail.com, dblandin!users.noreply.github.com from 2015-09-01 until 2018-10-01
-	efueger: efueger!users.noreply.github.com from 2015-06-01
-	larkinscott: larkinscott!users.noreply.github.com, scott!codeclimate.com
-Code Club:
-	martinpeck: martinjohnpeck!gmail.com, martinpeck!users.noreply.github.com from 2014-12-01 until 2016-04-01

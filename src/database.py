@@ -188,7 +188,7 @@ def AllAffsCSV(file, hlist):
                 if em in emails:
                     print 'This is bad, reverse email already in emails, check: `em`, `email`, `emails`'
                     pdb.set_trace()
-                writer.writerow ([email_encode(em), email_encode(name), emplstr, datestr])
+                writer.writerow ([email_encode(em), email_encode(name), emplstr, datestr, source])
 
 def AllHackers ():
     return HackersByID.values ()
@@ -263,7 +263,7 @@ class Employer:
 Employers = { }
 
 def GetEmployer (name):
-    if CompanyMap.has_key (name):
+    if name in CompanyMap:
         name = CompanyMap[name]
     try:
         return Employers[name]
@@ -300,10 +300,11 @@ class VirtualEmployer (Employer):
             real.removed += int (self.removed*fraction)
             real.changed += int (self.changed*fraction)
             real.count += int (self.count*fraction)
-        self.__init__ (name) # Reset counts just in case
+        # Reset counts while preserving the virtual employer's original name
+        self.__init__ (self.name) # Reset counts just in case
 
     def store (self):
-        if Employers.has_key (self.name):
+        if self.name in Employers:
             print Employers[self.name]
             sys.stderr.write ('WARNING: Virtual empl %s overwrites another\n'
                               % (self.name))
@@ -323,7 +324,7 @@ class FileType:
         order = order or self.order
 
         for file_type in order:
-            if patterns.has_key (file_type):
+            if file_type in patterns:
                 for patt in patterns[file_type]:
                     if patt.search (filename):
                         return file_type
@@ -349,14 +350,14 @@ def MixVirtuals ():
 EmailAliases = { }
 
 def AddEmailAlias (variant, canonical):
-    if EmailAliases.has_key (variant):
+    if variant in EmailAliases:
         sys.stderr.write ('Duplicate email alias for %s\n' % (email_encode(variant)))
     EmailAliases[variant] = canonical
 
 CompanyMap = { }
 
 def AddCompanyMap(nameFrom, nameTo):
-    if CompanyMap.has_key (nameFrom):
+    if nameFrom in CompanyMap:
         sys.stderr.write ('Duplicate company map for %s\n' % (nameFrom))
     CompanyMap[nameFrom] = nameTo
 

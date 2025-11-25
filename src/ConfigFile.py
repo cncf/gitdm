@@ -170,6 +170,8 @@ def ReadFileType (filename):
         if not m or len (m.groups ()) != 2:
             croak ('Funky file type line "%s"' % (line))
         if not patterns.has_key (m.group (1)):
+        if m.group (1) not in patterns:
+
             patterns[m.group (1)] = []
         if m.group (1) not in order:
             print '%s not found, appended to the last order' % m.group (1)
@@ -187,9 +189,9 @@ def ReadFileType (filename):
 
 def ConfigFile (name, confdir):
     try:
-        file = open (confdir + name, 'r')
+        file = open (os.path.join(confdir, name), 'r')
     except IOError:
-        croak ('Unable to open config file %s' % (confdir + name))
+        croak ('Unable to open config file %s' % (os.path.join(confdir, name)))
     line = ReadConfigLine (file)
     while line:
         sline = line.split (None, 2)

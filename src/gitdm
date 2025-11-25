@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# Thin wrapper to execute gitdm.py using a Python 2 compatible interpreter if available.
+# Falls back to `python` if neither pypy nor python2 are on PATH.
+# This restores the legacy `./gitdm` entrypoint expected by tests and docs.
+set -euo pipefail
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+if command -v pypy >/dev/null 2>&1; then
+  exec pypy "$DIR/gitdm.py" "$@"
+elif command -v python2 >/dev/null 2>&1; then
+  exec python2 "$DIR/gitdm.py" "$@"
+else
+  exec python "$DIR/gitdm.py" "$@"
+fi
