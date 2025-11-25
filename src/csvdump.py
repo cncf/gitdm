@@ -43,14 +43,15 @@ def store_patch(patch):
     if not patch.merge:
         employer = patch.author.emailemployer(patch.email, patch.date)
         employer = employer.name.replace('"', '.').replace ('\\', '.')
-        author = patch.author.name.replace ('"', '.').replace ('\\', '.')
-        author = email_encode(patch.author.name.replace ("'", '.'))
+        # Sanitize and encode author name consistently (quotes, slashes, apostrophes, and emails)
+        _author = patch.author.name.replace('"', '.').replace('\\', '.')
+        _author = email_encode(_author.replace("'", '.'))
         try:
             domain = patch.email.split('@')[1]
         except:
             domain = patch.email
         ChangeSets.append([patch.commit, str(patch.date),
-                           email_encode(patch.email), domain, author, employer,
+                           email_encode(patch.email), domain, _author, employer,
                            patch.added, patch.removed, max(patch.added, patch.removed)])
         for (filetype, (added, removed)) in patch.filetypes.iteritems():
             FileTypes.append([patch.commit, filetype, added, removed])
@@ -59,22 +60,25 @@ def store_patch(patch):
 def save_csv (prefix='data'):
     # Dump the ChangeSets
     if len(ChangeSets) > 0:
-        fd = open('%s-changesets.csv' % prefix, 'w')
+        fd = open('%s-changesets.csv' % prefix, 'wb')
         writer = csv.writer (fd, quoting=csv.QUOTE_NONNUMERIC)
-        writer.writerow (['Commit', 'Date', 'Domain',
-                          'Email', 'Name', 'Affliation',
+        # Header aligned with emitted row order and corrected spelling
+        writer.writerow (['Commit', 'Date', 'Email',
+                          'Domain', 'Name', 'Affiliation',
                           'Added', 'Removed', 'Changed'])
         for commit in ChangeSets:
             writer.writerow(commit)
+        fd.close()
 
     # Dump the file types
     if len(FileTypes) > 0:
-        fd = open('%s-filetypes.csv' % prefix, 'w')
+        fd = open('%s-filetypes.csv' % prefix, 'wb')
         writer = csv.writer (fd, quoting=csv.QUOTE_NONNUMERIC)
 
         writer.writerow (['Commit', 'Type', 'Added', 'Removed'])
         for commit in FileTypes:
             writer.writerow(commit)
+        fd.close()
 
 
 
@@ -82,7 +86,7 @@ def OutputCSV (file):
     if file is None:
         return
     writer = csv.writer (file, quoting=csv.QUOTE_NONNUMERIC)
-    writer.writerow (['Name', 'Email', 'Affliation', 'Date',
+    writer.writerow (['Name', 'Email', 'Affiliation', 'Date',
                       'Added', 'Removed', 'Changed', 'Changesets'])
     for date, stat in PeriodCommitHash.items():
         # sanitise names " is common and \" sometimes too

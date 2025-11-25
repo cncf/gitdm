@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+# Lightweight CLI wrapper for cncfdm.py that picks a Python 2/PyPy interpreter
+# and points the engine at this repo's src/ directory by default.
+# Usage: git log ... | ./gitdm [cncfdm options]
+
+set -euo pipefail
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+BASE_DIR="$SCRIPT_DIR/src"
+ENGINE="$SCRIPT_DIR/src/cncfdm.py"
+
+# Allow override
+PY_BIN=${GITDM_PY:-}
+
+pick_python() {
+  if [[ -n "${PY_BIN}" ]]; then
+    echo "$PY_BIN"
+    return
+  fi
+  # Prefer explicit Python 2 binaries, then PyPy, then fall back to python if it is v2
+  for cand in python2 pypy pypy2; do
+    if command -v "$cand" >/dev/null 2>&1; then
+      echo "$cand"; return
+    fi
+  done
+  if command -v python >/dev/null 2>&1; then
+    if python - <<'PY'
+import sys
+sys.exit(0 if sys.version_info[0] == 2 else 1)
+PY
+    then
+      echo python; return
+    fi
+  fi
+  echo ""  # not found
+}
+
+PY_CMD=$(pick_python || true)
+if [[ -z "$PY_CMD" ]]; then
+  echo "error: gitdm requires Python 2 or PyPy. Install python2/pypy or set GITDM_PY to a suitable interpreter." >&2
+  exit 1
+fi
+
+exec "$PY_CMD" "$ENGINE" -b "$BASE_DIR/" "$@"
