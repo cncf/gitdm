@@ -421,6 +421,8 @@ def MapToEmployer (email, unknown = 0):
         print 'Oops...funky email %s' % email_encode(email)
         return [(nextyear, GetEmployer ('Funky'), False)]
     s = namedom[1].split ('.')
+    # Ensure addr is always defined (handles single-label domains like 'localhost')
+    addr = namedom[1]
     for dots in range (len (s) - 2, -1, -1):
         addr = '.'.join (s[dots:])
         try:

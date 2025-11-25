@@ -1,7 +1,6 @@
 #
 # aggregate per-month statistics for people
 #
-import sys, datetime
 import csv
 from patterns import email_encode
 
