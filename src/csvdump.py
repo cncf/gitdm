@@ -61,11 +61,12 @@ def save_csv (prefix='data'):
     if len(ChangeSets) > 0:
         fd = open('%s-changesets.csv' % prefix, 'w')
         writer = csv.writer (fd, quoting=csv.QUOTE_NONNUMERIC)
-        writer.writerow (['Commit', 'Date', 'Domain',
-                          'Email', 'Name', 'Affliation',
+        writer.writerow (['Commit', 'Date', 'Email',
+                          'Domain', 'Name', 'Affiliation',
                           'Added', 'Removed', 'Changed'])
         for commit in ChangeSets:
             writer.writerow(commit)
+        fd.close()
 
     # Dump the file types
     if len(FileTypes) > 0:
@@ -75,6 +76,7 @@ def save_csv (prefix='data'):
         writer.writerow (['Commit', 'Type', 'Added', 'Removed'])
         for commit in FileTypes:
             writer.writerow(commit)
+        fd.close()
 
 
 
@@ -82,7 +84,7 @@ def OutputCSV (file):
     if file is None:
         return
     writer = csv.writer (file, quoting=csv.QUOTE_NONNUMERIC)
-    writer.writerow (['Name', 'Email', 'Affliation', 'Date',
+    writer.writerow (['Name', 'Email', 'Affiliation', 'Date',
                       'Added', 'Removed', 'Changed', 'Changesets'])
     for date, stat in PeriodCommitHash.items():
         # sanitise names " is common and \" sometimes too

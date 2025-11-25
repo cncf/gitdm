@@ -168,7 +168,7 @@ def ReadFileType (filename):
 
         m = regex_file_type.match (line)
         if not m or len (m.groups ()) != 2:
-            ConfigFile.croak ('Funky file type line "%s"' % (line))
+            croak ('Funky file type line "%s"' % (line))
         if not patterns.has_key (m.group (1)):
             patterns[m.group (1)] = []
         if m.group (1) not in order:

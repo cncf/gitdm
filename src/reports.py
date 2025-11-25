@@ -344,7 +344,7 @@ def ReportByReports (hlist):
         scount = len (h.reports)
         if scount > 0:
             ReportLine (h.full_name_with_aff(), scount, Pct(scount, totalreps))
-            report += scount
+            reported += scount
         count += 1
         if count >= ListCount:
             break
