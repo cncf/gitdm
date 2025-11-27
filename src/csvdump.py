@@ -47,7 +47,7 @@ def store_patch(patch):
         author = email_encode(patch.author.name.replace ("'", '.'))
         try:
             domain = patch.email.split('@')[1]
-        except:
+        except IndexError:
             domain = patch.email
         ChangeSets.append([patch.commit, str(patch.date),
                            email_encode(patch.email), domain, author, employer,

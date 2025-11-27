@@ -543,14 +543,14 @@ def ReportByFileType (hacker_list):
         for patch in h.patches:
             # Get a summary by hacker
             for (filetype, (added, removed)) in patch.filetypes.iteritems():
-                if by_hacker.has_key(filetype):
+                if filetype in by_hacker:
                     by_hacker[filetype][patch.ADDED] += added
                     by_hacker[filetype][patch.REMOVED] += removed
                 else:
                     by_hacker[filetype] = [added, removed]
 
                 # Update the totals
-                if total.has_key(filetype):
+                if filetype in total:
                     total[filetype][patch.ADDED] += added
                     total[filetype][patch.REMOVED] += removed
                 else:

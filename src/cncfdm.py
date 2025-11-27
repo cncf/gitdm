@@ -348,7 +348,7 @@ class patch:
         self.reports.append (reporter)
 
     def addfiletype (self, filetype, added, removed):
-        if self.filetypes.has_key (filetype):
+        if filetype in self.filetypes:
             self.filetypes[filetype][self.ADDED] += added
             self.filetypes[filetype][self.REMOVED] += removed
         else:
@@ -571,12 +571,12 @@ def grabpatch(logpatch):
             # Get the statistics (lines added/removes) using numstats
             # and without requiring a diff (--numstat instead -p)
             (filename, filetype, added, removed) = parse_numstat (Line, FileFilter)
-	    if filename:
-	        pa.added += added
-		pa.removed += removed
-		pa.addfiletype (filetype, added, removed)
+            if filename:
+                pa.added += added
+                pa.removed += removed
+                pa.addfiletype (filetype, added, removed)
                 if FileStats:
-		    pa.addfile (filename, added, removed)
+                    pa.addfile (filename, added, removed)
 
     if '@' in pa.author.name:
         GripeAboutAuthorName (pa.author.name)
