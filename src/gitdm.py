@@ -149,12 +149,21 @@ def PrintDateStats():
     dates = DateMap.keys ()
     dates.sort ()
     total = 0
-    datef = open ('datelc.csv', 'w')
-    datef.write('Date,Changed,Total Changed\n')
+    # Modern CSV output for external tooling
+    datef_csv = open('datelc.csv', 'w')
+    datef_csv.write('Date,Changed,Total Changed\n')
+    # Legacy fixed-width output expected by tests/back-compat
+    datef_legacy = open('datelc', 'w')
     for date in dates:
         total += DateMap[date]
-        datef.write ('%d/%02d/%02d,%d,%d\n' % (date.year, date.month, date.day,
+        # CSV
+        datef_csv.write('%d/%02d/%02d,%d,%d\n' % (date.year, date.month, date.day,
                                     DateMap[date], total))
+        # Legacy: date + two right-aligned integer columns width 7 and 8
+        datef_legacy.write('%d/%02d/%02d%7d%8d\n' % (date.year, date.month, date.day,
+                                    DateMap[date], total))
+    datef_csv.close()
+    datef_legacy.close()
 
 
 #
@@ -314,11 +323,11 @@ def grabpatch(logpatch):
         else:
             # Get the statistics (lines added/removes) using numstats
             # and without requiring a diff (--numstat instead -p)
-			(filename, filetype, added, removed) = parse_numstat (Line, FileFilter)
-			if filename:
-			    p.added += added
-			    p.removed += removed
-			    p.addfiletype (filetype, added, removed)
+            (filename, filetype, added, removed) = parse_numstat (Line, FileFilter)
+            if filename:
+                p.added += added
+                p.removed += removed
+                p.addfiletype (filetype, added, removed)
 
     if '@' in p.author.name:
         GripeAboutAuthorName (p.author.name)
@@ -404,7 +413,8 @@ TotalChanged = TotalAdded = TotalRemoved = 0
 #
 print >> sys.stderr, 'Grabbing changesets...\r',
 
-patches = logparser.LogPatchSplitter(sys.stdin)
+# Default to a wide-open date range to match cncfdm.py
+patches = logparser.LogPatchSplitter(sys.stdin, datetime.datetime(1970, 1, 1), datetime.datetime(2069, 1, 1))
 printcount = CSCount = 0
 
 for logpatch in patches:

@@ -34,10 +34,11 @@ class LogPatchSplitter:
                 parse_patch(patch)
     """
 
-    def __init__(self, fd, date_from, date_to):
+    def __init__(self, fd, date_from=None, date_to=None):
         self.fd = fd
-        self.date_from = date_from
-        self.date_to = date_to
+        # Provide backward-compatible defaults when not supplied (as in older callers)
+        self.date_from = date_from or datetime.datetime(1970, 1, 1)
+        self.date_to = date_to or datetime.datetime(2069, 1, 1)
         self.buffer = None
         self.patch = []
 
@@ -51,6 +52,10 @@ class LogPatchSplitter:
         if not patch:
             raise StopIteration
         return patch
+
+    # Py3 compatibility when/if the project is ported
+    def __next__(self):
+        return self.next()
 
     def getDate(self, line):
         # ['Date:', '', '', 'Thu', 'May', '11', '09:15:21', '2017', '+0200\n']

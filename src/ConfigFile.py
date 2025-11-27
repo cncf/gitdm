@@ -168,7 +168,11 @@ def ReadFileType (filename):
 
         m = regex_file_type.match (line)
         if not m or len (m.groups ()) != 2:
+
             ConfigFile.croak ('Funky file type line "%s"' % (line))
+
+            croak ('Funky file type line "%s"' % (line))
+
         if m.group (1) not in patterns:
             patterns[m.group (1)] = []
         if m.group (1) not in order:
@@ -187,9 +191,9 @@ def ReadFileType (filename):
 
 def ConfigFile (name, confdir):
     try:
-        file = open (confdir + name, 'r')
+        file = open (os.path.join(confdir, name), 'r')
     except IOError:
-        croak ('Unable to open config file %s' % (confdir + name))
+        croak ('Unable to open config file %s' % (os.path.join(confdir, name)))
     line = ReadConfigLine (file)
     while line:
         sline = line.split (None, 2)

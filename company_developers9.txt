@@ -2631,6 +2631,7 @@ ObjectRocket:
 Objectif Libre:
 	Linkid: francois.magimel!objectif-libre.com
 	MrFreezeex: MrFreezeex!users.noreply.github.com from 2019-09-01 until 2020-01-01
+	VannTen: VannTen!users.noreply.github.com, max.gautier!objectif-libre.fr, max.gautier!redhat.com, mg!max.gautier.name, mgautier!student.42.fr from 2019-09-02 until 2022-06-20
 	eesprit: eesprit!users.noreply.github.com from 2015-03-01 until 2016-12-01
 	gpocentek: benoit.mallo!gmail.com, gauvain!pocentek.net, gauvain.pocentek!objectif-libre.com, gauvainpocentek!gmail.com, gpocentek!users.noreply.github.com
 	lukapeschke: lukapeschke!users.noreply.github.com from 2016-07-01 until 2016-12-01, from 2017-02-01 until 2020-01-01
@@ -4672,6 +4673,8 @@ OpsWorks:
 	wiseelf: wiseelf!users.noreply.github.com from 2018-11-01
 Opscale:
 	Buffer0x7cd: Buffer0x7cd!users.noreply.github.com, manvendra021997!gmail.com from 2018-02-01 until 2018-06-01
+Opscompass:
+	hakanson: hakanson!users.noreply.github.com from 2020-03-01 until 2021-03-01
 Opsee:
 	grepory: greg.istehbest!gmail.com, grepory!users.noreply.github.com from 2015-03-01 until 2016-08-01
 Opsert Oy:
@@ -15087,6 +15090,7 @@ Qumu:
 Qumulo:
 	KitSutliff: KitSutliff!users.noreply.github.com from 2022-02-01 until 2022-07-01
 	demirkayaender: demirkayaender!users.noreply.github.com from 2015-03-01 until 2016-04-01
+	patjakdev: pat!jakattack.net until 2022-12-01
 	rmmh: hitchmanr!gmail.com, rmmh!google.com, rmmh!users.noreply.github.com until 2016-03-01
 Qumulus:
 	dniasoff: dniasoff!users.noreply.github.com from 2021-12-01
@@ -16547,7 +16551,3 @@ Rally Software Development Corp.:
 	csmarchbanks: csmarchbanks!gmail.com from 2015-10-01 until 2018-01-01
 	csmarchbanks: csmarchbanks!users.noreply.github.com from 2015-10-01 until 2018-01-01
 	waffle-iron: iron!waffle.io, waffle-iron!users.noreply.github.com
-Ramakrishna Math Chennai:
-	bharathpgp: bharathpgp!gmail.com, bharathpgp!users.noreply.github.com from 2019-04-01
-Ramblist:
-	jayzalowitz: jayzalowitz!users.noreply.github.com from 2021-04-01 until 2022-04-01

@@ -188,7 +188,7 @@ def AllAffsCSV(file, hlist):
                 if em in emails:
                     print 'This is bad, reverse email already in emails, check: `em`, `email`, `emails`'
                     pdb.set_trace()
-                writer.writerow ([email_encode(em), email_encode(name), emplstr, datestr])
+                writer.writerow ([email_encode(em), email_encode(name), emplstr, datestr, source])
 
 def AllHackers ():
     return HackersByID.values ()
@@ -300,7 +300,8 @@ class VirtualEmployer (Employer):
             real.removed += int (self.removed*fraction)
             real.changed += int (self.changed*fraction)
             real.count += int (self.count*fraction)
-        self.__init__ (name) # Reset counts just in case
+        # Reset counts while preserving the virtual employer's original name
+        self.__init__ (self.name) # Reset counts just in case
 
     def store (self):
         if self.name in Employers:

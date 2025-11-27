@@ -477,6 +477,7 @@ def affiliations(affiliations_file, json_file, email_map)
           entries.each do |entry|
             index = entry[0]
             user = entry[1]
+            # p prios, prev_source, source
             higher_prio = prios[prev_source] > prios[source]
             if gender && gender.length == 1 && user['sex'] != gender
               puts "Note: overwriting gender #{user['sex']} --> #{gender} for #{login}/#{user['email']}, commits #{user['commits']}, line #{ln}" if dbg && !user['sex'].nil?

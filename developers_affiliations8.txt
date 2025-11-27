@@ -5,6 +5,48 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+prydom: prydom!users.noreply.github.com
+	Independent until 2016-09-01
+	A9.com from 2016-09-01 until 2016-12-01
+	Independent from 2016-12-01
+prydonius: aadnan!vmware.com, adnan!bitnami.com, adnan!prydoni.us, prydonius!users.noreply.github.com
+	Bitnami Inc. until 2019-05-22
+	VMware Inc. from 2019-05-22 until 2019-12-01
+	Brex from 2019-12-01
+pryorda: daniel!pryorda.net, pryorda!users.noreply.github.com
+	Parchment until 2022-03-01
+	Alkami from 2022-03-01
+przemeklal: przemeklal!users.noreply.github.com, przemyslawx.lal!intel.com
+	Intel Corporation
+przemolb: przemolb!users.noreply.github.com
+	CMC Markets until 2017-09-01
+	R3 from 2017-09-01
+ps3910att: ps3910!att.com, ps3910att!users.noreply.github.com
+	AT&T Services Inc.
+ps882: amedvedev!ciferox.com, premdeeps!google.com, ps882!users.noreply.github.com, sherodtaylor!gmail.com
+	Ericsson until 2014-04-01
+	Huawei Technologies Co. Ltd from 2014-04-01 until 2016-07-01
+	Independent from 2016-07-01 until 2017-06-01
+	Next Jump from 2017-06-01 until 2019-03-01
+	Google LLC from 2019-03-01
+psaia: psaia!users.noreply.github.com
+	Lev Interactive until 2016-11-01
+	Stackahoy from 2016-11-01 until 2018-09-01
+	WorkTaps from 2018-09-01 until 2020-05-01
+	New York Times from 2020-05-01
+psalaberria002: psalaberria002!gmail.com, psalaberria002!users.noreply.github.com
+	Dataloy until 2015-09-01
+	Telenor from 2015-09-01 until 2018-02-01
+	Cognite AS from 2018-02-01
+psancheti110: prateek.sancheti!research.iiit.ac.in
+	Independent until 2021-07-01
+	Summer of Bitcoin from 2021-07-01 until 2021-09-01
+	Independent from 2021-09-01 until 2022-05-01
+	Qualcomm from 2022-05-01 until 2022-07-01
+	Independent from 2022-07-01 until 2022-11-01
+	Hyderabad from 2022-11-01
+psanford: psanford!retailnext.net, psanford!sanford.io, psanford!users.noreply.github.com
+	RetailNext Inc.
 psantus: psantus!users.noreply.github.com
 	Independent until 2015-05-01
 	next from 2015-05-01 until 2016-04-01
@@ -5363,8 +5405,6 @@ rhyas: github!coronastreet.net, rhyas!users.noreply.github.com, sysop!scream.com
 	Convergys Corporation until 2016-05-01
 	MapQuest from 2016-05-01 until 2017-07-01
 	Ping from 2017-07-01
-rhynier: rhynier!users.noreply.github.com rmyburgh@cisco.com
-	Cisco
 rhyselsmore: rhyselsmore!users.noreply.github.com
 	Heroku Inc.
 rhysemmas: 44974642+rhysemmas!users.noreply.github.com, rhys.emmas!uswitch.com, rhysemmas!users.noreply.github.com
@@ -23693,45 +23733,3 @@ stefee: git!sril.email
 	Pesky Fish from 2021-01-01 until 2021-06-01
 	Independent from 2021-06-01 until 2021-08-01
 	Kobalt Music from 2021-08-01
-steff-petro: steff-petro!users.noreply.github.com
-	Independent until 2021-05-01
-	Tersus Skolsystem from 2021-05-01 until 2021-07-01
-	Independent from 2021-07-01 until 2022-09-01
-	Cognizant Technology Solutions from 2022-09-01
-steffakasid: steffakasid!users.noreply.github.com
-	Boehringer Ingelheim until 2015-05-01
-	DB Systel GmbH from 2015-05-01
-steffen-karlsson: steffen-karlsson!users.noreply.github.com
-	Shape until 2017-07-01
-	Netcompany from 2017-07-01 until 2021-02-01
-	Deloitte from 2021-02-01 until 2021-12-01
-	Nordea Bank from 2021-12-01 until 2023-06-01
-	Maersk from 2023-06-01
-steffen-maier: maier!linux.vnet.ibm.com
-	International Business Machines Corporation
-steffeneichler: steffeneichler!users.noreply.github.com
-	StayFriends until 2016-11-01
-	Independent from 2016-11-01 until 2017-01-01
-	LA2 from 2017-01-01 until 2019-07-01
-	Deutsche Telekom from 2019-07-01
-steffengy: steffengy!users.noreply.github.com
-	Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.
-steffenrost: lue-kle!freenet.de, srost!de.ibm.com
-	International Business Machines Corporation
-stefka-sarafska: stefka-sarafska!users.noreply.github.com
-	Independent until 2022-02-01
-	EGT from 2022-02-01
-stefpopa: stefan.popa!analog.com
-	Analog Devices Inc.
-stefsuse: 33298234+stefsuse!users.noreply.github.com, stefsuse!users.noreply.github.com
-	SUSE LLC
-stefwalter: stef!thewalter.net, stefw!redhat.com, stefwalter!users.noreply.github.com
-	Red Hat Inc.
-steils: s.strogin!partner.samsung.com, stefan!steils.org
-	Samsung Electronics Co. Ltd.
-steils: sstrogin!cisco.com
-	Cisco Systems Inc.
-steinbeck65: greg.pearson!hp.com, pearson65!gmail.com
-	HP Inc.
-steinliber: steinliber!users.noreply.github.com
-	NoCode
