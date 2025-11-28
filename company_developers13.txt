@@ -2,6 +2,13 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+eGlobalTech:
+	agill17: agill17!users.noreply.github.com, amgill1234!gmail.com from 2017-10-01 until 2018-02-01
+	michaelgugino: gugino.michael!yahoo.com, mgugino!redhat.com, michaelgugino!users.noreply.github.com until 2014-12-01
+eGovernments:
+	RamanPndy: RamanPndy!users.noreply.github.com, raman.pndy!gmail.com from 2016-11-01 until 2017-09-01
+eGroup:
+	zparnold: me!zacharnold.org, zparnold!users.noreply.github.com from 2014-08-01 until 2015-11-01
 eHarmony Inc.:
 	iceycake: andy.chan!cloudtf.ninja, andy.chan!iceycake.com, andy.chan!ticketmaster.com, iceycake!users.noreply.github.com until 2014-07-01
 	vmogilev: vmogilev!users.noreply.github.com until 2014-11-01
@@ -1146,6 +1153,8 @@ huge domains:
 	kevinawoo: kevinawoo!gmail.com, kevinawoo!users.noreply.github.com from 2015-03-01 until 2015-10-01
 humancloud:
 	alekhyarani2812: alekhyarani2812!users.noreply.github.com from 2024-12-01
+humm:
+	chrnorm: 17420369+chrnorm!users.noreply.github.com, chrnorm!users.noreply.github.com from 2017-02-01 until 2019-01-01
 hundsun:
 	zhengtianchi: zhengtianchi!users.noreply.github.com
 hungryhouse:
@@ -1294,6 +1303,7 @@ iFood:
 	SamuelMolling: SamuelMolling!users.noreply.github.com from 2022-03-01 until 2022-10-01
 	Thomasr-02: Thomasr-02!users.noreply.github.com from 2022-12-01
 	bbarin: bbarin!users.noreply.github.com, brunobarin!gmail.com from 2017-03-01
+	caiorcferreira: caiorcferreira!gmail.com, caiorcferreira!users.noreply.github.com from 2020-03-01
 	carnei-ro: carnei-ro!users.noreply.github.com from 2018-09-01
 	dggc: dggc!users.noreply.github.com from 2020-01-01
 	exiett: exiett!users.noreply.github.com from 2021-03-01
