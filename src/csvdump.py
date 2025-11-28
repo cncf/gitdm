@@ -62,6 +62,8 @@ def save_csv (prefix='data'):
     if len(ChangeSets) > 0:
         fd = open('%s-changesets.csv' % prefix, 'wb')
         writer = csv.writer (fd, quoting=csv.QUOTE_NONNUMERIC)
+        
+        
         # Header aligned with emitted row order and corrected spelling
         writer.writerow (['Commit', 'Date', 'Email',
                           'Domain', 'Name', 'Affiliation',
