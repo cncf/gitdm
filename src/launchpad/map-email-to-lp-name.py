@@ -22,5 +22,5 @@ for email in args.emails:
         person = launchpad.people.getByEmail(email=email)
         if person:
             print person.name, email
-    except:
+    except Exception:
         continue
