@@ -59,7 +59,7 @@ class Hacker:
                         return empl
         # pdb.set_trace()
         # If there is a circular alias - this bug will appear!
-        print 'OOPS.  ', self.name, self.employer, self.email, email, date
+        print('OOPS.  ', self.name, self.employer, self.email, email, date)
         return None # Should not happen
 
     def addpatch (self, patch):
@@ -148,7 +148,7 @@ def AllFilesCSV(file, hlist, FileFilter, InvertFilter):
             aname = patch.author.name
             datestr = str(patch.date)
             emplstr = empl.name.replace ('"', '.').replace ('\\', '.')
-            for (filename, filedata) in patch.files.iteritems():
+            for (filename, filedata) in patch.files.items():
                 if filedata[2] == 0:
                     continue
                 if FileFilter:
@@ -186,7 +186,7 @@ def AllAffsCSV(file, hlist):
             writer.writerow ([email_encode(email), email_encode(name), emplstr, datestr, source])
             for em in ReverseAlias(email):
                 if em in emails:
-                    print 'This is bad, reverse email already in emails, check: `em`, `email`, `emails`'
+                    print('This is bad, reverse email already in emails, check: `em`, `email`, `emails`')
                     pdb.set_trace()
                 writer.writerow ([email_encode(em), email_encode(name), emplstr, datestr, source])
 
@@ -305,7 +305,7 @@ class VirtualEmployer (Employer):
 
     def store (self):
         if self.name in Employers:
-            print Employers[self.name]
+            print(Employers[self.name])
             sys.stderr.write ('WARNING: Virtual empl %s overwrites another\n'
                               % (self.name))
         if len (self.splits) == 0:
@@ -385,7 +385,7 @@ def AddEmailEmployerMapping (email, employer, end = nextyear, domain = False):
         for i in range (0, len(l)):
             date, xempl, dom = l[i]
             if date == end:  # probably both nextyear
-                print 'WARNING: duplicate email/empl for %s' % (email_encode(email))
+                print('WARNING: duplicate email/empl for %s' % (email_encode(email)))
             if date > end:
                 l.insert (i, (end, empl, domain))
                 return
@@ -418,7 +418,7 @@ def MapToEmployer (email, unknown = 0):
         pass
     namedom = email.split ('@')
     if len (namedom) < 2:
-        print 'Oops...funky email %s' % email_encode(email)
+        print('Oops...funky email %s' % email_encode(email))
         return [(nextyear, GetEmployer ('Funky'), False)]
     s = namedom[1].split ('.')
     for dots in range (len (s) - 2, -1, -1):
@@ -437,7 +437,7 @@ def MapToEmployer (email, unknown = 0):
     elif unknown == 2:
         return [(nextyear, GetEmployer ('(Unknown)'), False)]
     else:
-        print "Unsupported unknown parameter handling value"
+        print("Unsupported unknown parameter handling value")
 
 
 def LookupEmployer (email, mapunknown = 0):
