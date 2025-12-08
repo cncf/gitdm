@@ -565,15 +565,10 @@ codesmith14: codesmith14!users.noreply.github.com
 	Splunk Inc. from 2019-09-01
 codesmith25103: codesmith25103!users.noreply.github.com
 	Independent
-codesome: 15064823+codesome!users.noreply.github.com, codesome!users.noreply.github.com, cs15btech11018!iith.ac.in
-	Independent until 2016-05-01
-	International Business Machines Corporation from 2016-05-01 until 2016-12-01
-	Stealth from 2016-12-01 until 2017-01-01
-	Independent from 2017-01-01 until 2017-05-01
-	Boomerang Commerc from 2017-05-01 until 2017-09-01
-	Independent from 2017-09-01 until 2018-05-01
-	CNCF from 2018-05-01 until 2018-11-01
-	Grafana Labs from 2018-11-01
+codesome: 15064823+codesome!users.noreply.github.com, codesome!users.noreply.github.com, cs15btech11018!iith.ac.in, ganeshvern!gmail.com
+	Independent until 2018-10-31
+	Grafana Labs from 2018-11-01 until 2025-05-19
+	Reddit Inc from 2025-05-20
 codespearhead: codespearhead!users.noreply.github.com
 	Independent until 2021-04-01
 	Câmara Municipal de Manaus from 2021-04-01 until 2023-01-01
