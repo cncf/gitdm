@@ -200,7 +200,7 @@ def ReportByBCEmpl (elist, totalbugs):
         count += 1
         if count >= ListCount:
             break
-    EndReport ('Covers %f%% of bugs' % (Pct(reported, totalbugs, )))
+    EndReport ('Covers %f%% of bugs' % (Pct(reported, totalbugs)))
 
 def CompareELChanged (e1, e2):
     return e2.changed - e1.changed
