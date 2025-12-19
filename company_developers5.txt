@@ -2,6 +2,30 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Groupe Creative:
+	elebeaup: elebeaup!users.noreply.github.com from 2016-08-01 until 2019-03-01
+	tanandy: tanandy!users.noreply.github.com from 2014-12-01 until 2018-10-01
+Groupe Crédit Agricole:
+	NileshGule: vn_nilesh!yahoo.com until 2018-06-01
+	cvuillemez: cvuillemez!users.noreply.github.com until 2015-02-01
+Groupe Enode:
+	hugueschabot: hugues.chabot!gmail.com, hugueschabot!users.noreply.github.com
+Groupe Flow Line:
+	outscale-rce: renaud.calle!outscale.com until 2016-04-01
+Groupe Foyer:
+	meier-christoph: meier-christoph!users.noreply.github.com from 2016-05-01
+Groupe HN:
+	mat1e: delrocq.mathieu!gmail.com, mat1e!users.noreply.github.com, mathieu-externe.delrocq!edf.fr until 2017-08-01
+Groupe Karavel - Promovacances:
+	wmellouli: wmellouli!users.noreply.github.com
+Groupe L'Express:
+	j0k3r: j0k3r!users.noreply.github.com, jeremy.benoist!gmail.com until 2016-03-01
+Groupe La Centrale:
+	eviln1: eviln1!users.noreply.github.com, nedim.haveric!polyconseil.fr until 2015-04-01
+Groupe Luxorama:
+	bbigras: bbigras!users.noreply.github.com, bigras.bruno!gmail.com
+Groupe Mutuel:
+	olivier-mauras: olivier!mauras.ch, olivier-mauras!users.noreply.github.com from 2019-02-01
 Groupe PSA:
 	alcfeoh: alain!interstate21.com, alcfeoh!users.noreply.github.com until 2014-05-01
 	kadern0: kadern0!users.noreply.github.com until 2014-06-01
@@ -3328,6 +3352,7 @@ Hewlett:
 	fhartwig: florian.j.hartwig!gmail.com until 2016-10-01
 	florindragos: florindragos!users.noreply.github.com from 2015-01-01 until 2018-05-01
 	font: font!users.noreply.github.com, ifont!redhat.com until 2016-04-01
+	frankhsueh: frankhsueh!users.noreply.github.com until 2015-07-01
 	fuleow: fuleow!users.noreply.github.com until 2015-11-01
 	gdrudy: gdrudy!users.noreply.github.com
 	gertd: gertd!users.noreply.github.com until 2016-12-01
