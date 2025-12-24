@@ -45,7 +45,7 @@ DirName = ''
 def ParseOpts ():
     global MapUnknown, DevReports
     global DumpDB
-    global CFName, DirName, Aggregate
+    global CFName, DirName
 
     opts, rest = getopt.getopt (sys.argv[1:], 'b:dc:h:l:o:uz')
     for opt in opts:
