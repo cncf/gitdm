@@ -17552,11 +17552,12 @@ embano1: embano1!users.noreply.github.com, michael-k!users.noreply.github.com
 embed-3d: embed3d!gmail.com
 	Independent until 2019-01-01
 	Hilti from 2019-01-01
-embik: embik!users.noreply.github.com, mail!embik.me, marvin!kubermatic.com
+embik: embik!users.noreply.github.com, mail!embik.me, marvin!kubermatic.com, marvin.beckers!clickhouse.com
 	Independent until 2018-02-01
 	CANCOM from 2018-02-01 until 2019-09-01
 	Cerence from 2019-09-01 until 2021-10-01
-	Kubermatic GmbH from 2021-10-01
+	Kubermatic GmbH from 2021-10-01 until 2025-12-01
+    ClickHouse from 2025-12-01
 embix: embix!users.noreply.github.com
 	Independent
 embs: embs!cin.ufpe.br, embs!users.noreply.github.com
