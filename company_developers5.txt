@@ -3368,6 +3368,7 @@ Heroku:
 	cyx: cyx!users.noreply.github.com from 2015-01-01 until 2020-01-01
 	fdr: fdr!users.noreply.github.com until 2016-01-01
 	galbacarys: galbacarys!users.noreply.github.com from 2020-03-01 until 2020-10-01
+	genslein: genslein!users.noreply.github.com from 2015-02-01 until 2020-01-01
 	jmorrell: jmorrell!users.noreply.github.com, joel!goldhat.ca, morrell.jeremy!gmail.com
 	justjenu: justjenu!users.noreply.github.com from 2015-06-01 until 2017-05-01, from 2018-07-01 until 2020-01-01
 	kwlockwo: kwlockwo!users.noreply.github.com from 2016-08-01 until 2022-08-01
@@ -8710,6 +8711,7 @@ InThere:
 InTouch:
 	collinpeters: collin.peters!gmail.com until 2017-02-01
 InVision AG:
+	JeremyBarbosa: JeremyBarbosa!users.noreply.github.com from 2020-11-01 until 2024-01-01
 	bnfb: bnfb!users.noreply.github.com from 2015-10-01 until 2016-04-01
 	bodymindarts: bodymindarts!users.noreply.github.com until 2015-11-01
 	candonov: candonov!users.noreply.github.com

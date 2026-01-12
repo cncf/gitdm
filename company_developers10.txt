@@ -2,6 +2,15 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Raiffeisen Bank:
+	alexey-boyko: alexey-boyko!users.noreply.github.com from 2018-04-01 until 2019-07-01
+	davtex: davtex!users.noreply.github.com from 2022-06-01
+	dpinchukov-ueni: dpinchukov-ueni!users.noreply.github.com until 2018-05-01
+	klebediev: klebediev!users.noreply.github.com until 2015-06-01
+	mihaigalos: mihaigalos!gmail.com, mihaigalos!users.noreply.github.com from 2021-10-01
+	pik4ez: pik4ez!users.noreply.github.com from 2020-11-01
+Raiffeisen Bank Aval:
+	netvolart: netvolart!users.noreply.github.com from 2014-09-01 until 2015-07-01
 Raiffeisen Bank Romania:
 	mirceanton: contact!mirceanton.com, mirceanton!users.noreply.github.com from 2023-09-01
 Raiffeisen Bank Russia:
@@ -7435,6 +7444,7 @@ SAP:
 	althati: althati!users.noreply.github.com until 2015-07-01
 	alxsap: 33052602+alxsap!users.noreply.github.com, alexander.link!sap.com
 	ambar-cap: ambar.mehrotra!capillarytech.com from 2015-08-01 until 2015-12-01
+	amiramw: amiramw!users.noreply.github.com
 	amitkrishna: amitkrishna!users.noreply.github.com from 2019-08-01
 	amshuman-kr: 32157254+amshuman-kr!users.noreply.github.com, amshuman-kr!users.noreply.github.com
 	andre2007: andre.pany!sap.com, andre2007!users.noreply.github.com

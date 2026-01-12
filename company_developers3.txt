@@ -2,6 +2,13 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+ClubCollect:
+	elvanja: elvanja!gmail.com, elvanja!users.noreply.github.com from 2017-01-01
+	wojtekmach: wojtekmach!users.noreply.github.com from 2016-04-01 until 2018-08-01
+ClubInternet:
+	bilalba: bilalba!users.noreply.github.com from 2016-05-01 until 2016-09-01
+Clubhouse:
+	erikreppel: erikreppel!gmail.com from 2021-08-01 until 2021-10-01
 Clue Software:
 	ghostinthewires: ellieniwru!hotmail.co.uk, ghostinthewires!users.noreply.github.com from 2022-09-01
 Clue by Biowink:
@@ -555,6 +562,7 @@ Codebreak:
 Codec Networks:
 	armudgal: armudgal!users.noreply.github.com from 2017-05-01 until 2017-06-01
 Codecademy:
+	JeremyBarbosa: JeremyBarbosa!users.noreply.github.com from 2024-01-01
 	brendanjryan: brendanjryan!users.noreply.github.com until 2014-04-01
 	ericandrewlewis: eric.andrew.lewis!gmail.com, ericandrewlewis!users.noreply.github.com from 2017-01-01 until 2018-01-01
 	kalverra: kalverra!users.noreply.github.com from 2016-08-01 until 2017-09-01
@@ -2414,6 +2422,8 @@ Confidential Client:
 	bdbaddog: bill!baddogconsulting.com from 2015-03-01 until 2018-08-01
 Confidentiel:
 	msalles-winn: msalles-winn!users.noreply.github.com from 2020-02-01
+ConfigHub:
+	genslein: genslein!users.noreply.github.com from 2024-10-01 until 2025-07-01
 Configit:
 	AButler: AButler!users.noreply.github.com until 2020-10-01
 Configr:

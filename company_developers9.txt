@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Nextcloud:
+	srkunze: srkunze!users.noreply.github.com
 Nextcode:
 	khaosdoctor: hello!lsantos.dev, khaosdoctor!users.noreply.github.com, lhs.santoss!gmail.com from 2018-09-01 until 2019-06-01
 Nextdoor.com Inc.:
@@ -3264,6 +3266,7 @@ Okta Inc.:
 	deepu105: cro.wicked!gmail.com, deepu.k.sasidharan!gmail.com, deepu105!users.noreply.github.com from 2021-09-01
 	dschenkelman: damian.schenkelman!gmail.com, dschenkelman!users.noreply.github.com from 2022-02-01
 	duedares-rvj: duedares!gmail.com from 2024-05-01
+	genslein: genslein!users.noreply.github.com from 2024-06-01 until 2024-10-01
 	ggreer: geoff!greer.fm, ggreer!users.noreply.github.com from 2018-06-01
 	iggy: iggy!users.noreply.github.com from 2023-07-01 until 2024-02-01
 	jakthom: jakthom!users.noreply.github.com from 2022-09-01 until 2025-10-01
@@ -9690,6 +9693,7 @@ Philips:
 	marcofranssen: marcofranssen!users.noreply.github.com from 2019-10-01
 	mcastellin: manuel!castellinconsulting.com, mcastellin!users.noreply.github.com from 2016-10-01 until 2017-05-01
 	npalm: dev.npalm!gmail.com, npalm!users.noreply.github.com from 2015-12-01
+	plorent: plorent!users.noreply.github.com until 2021-09-01, from 2022-02-01
 	rakeshr99: rakeshr99!gmail.com, rakeshr99!users.noreply.github.com from 2018-01-01
 	rgaduput: gsekhar73!gmail.com, rgaduput!users.noreply.github.com from 2018-09-01 until 2019-08-01
 	sciamp-dev: denniscampagna!gmail.com, sciamp-dev!users.noreply.github.com from 2019-09-01 until 2020-03-01
@@ -15092,6 +15096,8 @@ Qucoon:
 	juliophp: adeyemi.julius!gmail.com from 2019-06-01 until 2022-08-01
 Qudini:
 	mohsen0: mohsen0!users.noreply.github.com
+QueHambre:
+	blackjid: blackjid!users.noreply.github.com, jidonoso!gmail.com until 2014-03-01
 Quebecor:
 	Hkyx: Hkyx!users.noreply.github.com from 2017-04-01 until 2017-09-01
 	aleveille: aleveille!users.noreply.github.com until 2016-04-01
@@ -16583,12 +16589,3 @@ Raiffeisen:
 	davtex: davtex!users.noreply.github.com until 2015-09-01
 	mdnix: mdnix!users.noreply.github.com from 2018-01-01 until 2021-04-01
 	pstauffer: pstauffer!users.noreply.github.com until 2015-07-01
-Raiffeisen Bank:
-	alexey-boyko: alexey-boyko!users.noreply.github.com from 2018-04-01 until 2019-07-01
-	davtex: davtex!users.noreply.github.com from 2022-06-01
-	dpinchukov-ueni: dpinchukov-ueni!users.noreply.github.com until 2018-05-01
-	klebediev: klebediev!users.noreply.github.com until 2015-06-01
-	mihaigalos: mihaigalos!gmail.com, mihaigalos!users.noreply.github.com from 2021-10-01
-	pik4ez: pik4ez!users.noreply.github.com from 2020-11-01
-Raiffeisen Bank Aval:
-	netvolart: netvolart!users.noreply.github.com from 2014-09-01 until 2015-07-01
