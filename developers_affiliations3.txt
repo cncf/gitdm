@@ -12951,13 +12951,14 @@ bitmvr: bitmvr!users.noreply.github.com
 	Salesforce from 2016-12-01
 bitnami-bot: containers!bitnami.com, containers-bot!bitnami.com
 	Bitnami Inc.
-bitoku: attokubi!amazon.com, bitoku!users.noreply.github.com
+bitoku: attokubi!amazon.com, bitoku!users.noreply.github.com, atokubi!redhat.com
 	Independent until 2019-08-01
 	Akatsuki from 2019-08-01 until 2019-09-01
 	pixiv from 2019-09-01 until 2019-10-01
 	Google LLC from 2019-10-01 until 2020-01-01
 	株）ナガセ Part-time from 2020-01-01 until 2021-03-01
-	AWS from 2021-03-01
+	AWS from 2021-03-01 unitl 2023-02-03
+	Red Hat Inc. from 2023-04-05
 bitsal: beletsky.andrew!gmail.com, bitsal!users.noreply.github.com
 	drfocused
 bitscuit: bitscuit!users.noreply.github.com
