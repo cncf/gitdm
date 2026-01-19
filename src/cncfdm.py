@@ -487,7 +487,7 @@ def grabpatch(logpatch):
         if m:
             email = database.RemapEmail (m.group (2))
             pa.addtester (LookupStoreHacker (m.group (1), email))
-            pa.author.testcredit (patch)
+            pa.author.testcredit (pa)
             dkey = 'tested-by'
             if dkey not in matched:
                 matched[dkey] = 1
@@ -499,7 +499,7 @@ def grabpatch(logpatch):
         if m:
             email = database.RemapEmail (m.group (2))
             pa.addreporter (LookupStoreHacker (m.group (1), email))
-            pa.author.reportcredit (patch)
+            pa.author.reportcredit (pa)
             dkey = 'reported-by'
             if dkey not in matched:
                 matched[dkey] = 1
@@ -513,8 +513,8 @@ def grabpatch(logpatch):
             h = LookupStoreHacker (m.group (1), email)
             pa.addreporter (h)
             pa.addtester (h)
-            pa.author.reportcredit (patch)
-            pa.author.testcredit (patch)
+            pa.author.reportcredit (pa)
+            pa.author.testcredit (pa)
             dkey = 'reported-and-tested-by'
             if dkey not in matched:
                 matched[dkey] = 1
