@@ -53,7 +53,7 @@ def store_patch(patch):
         ChangeSets.append([patch.commit, str(patch.date),
                            email_encode(patch.email), domain, _author, employer,
                            patch.added, patch.removed, max(patch.added, patch.removed)])
-        for (filetype, (added, removed)) in patch.filetypes.iteritems():
+        for (filetype, (added, removed)) in patch.filetypes.items():
             FileTypes.append([patch.commit, filetype, added, removed])
 
 
