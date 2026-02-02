@@ -5,6 +5,30 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+amylily1011: amy.lily!canonical.com
+	International Business Machines Corporation until 2015-01-01
+	Independent from 2015-01-01 until 2015-04-01
+	Parking Duck from 2015-04-01 until 2015-12-01
+	Independent from 2015-12-01 until 2016-04-01
+	Carmana from 2016-04-01 until 2016-11-01
+	Independent from 2016-11-01 until 2017-11-01
+	HotelQuickly Ltd from 2017-11-01 until 2017-12-01
+	Independent from 2017-12-01 until 2018-05-01
+	Canonical Ltd. from 2018-05-01
+amylindburg: amylindburg!gmail.com
+	Docker Inc. until 2018-01-01
+	Independent from 2018-01-01 until 2018-05-01
+	SiFive from 2018-05-01 until 2020-02-01
+	Independent from 2020-02-01 until 2020-04-01
+	Noodle.ai from 2020-04-01
+amylwiles: amy.l.wiles!intel.com
+	Intel Corporation
+amyroh: amy.roh!oracle.com, amyroh!users.noreply.github.com
+	Apache until 2021-08-01
+	Oracle America Inc. from 2021-08-01 until 2021-09-01
+	Independent from 2021-09-01
+amyth: amyth!singhsays.com, amyth!users.noreply.github.com
+	Bleeding Code
 amyxst: amyxst!gmail.com, amyxst!users.noreply.github.com
 	Independent until 2015-01-01
 	Nano from 2015-01-01 until 2016-06-01
@@ -596,6 +620,11 @@ andreaslarfors: andreas!larfors.com
 andreaspapazois: andreas.papazois!gmail.com
 	Independent until 2018-05-01
 	MaxServices from 2018-05-01
+andreasph: andreasph!users.noreply.github.com
+	Edil until 2015-12-01
+	Independent from 2015-12-01 until 2016-12-01
+	Fluidra from 2016-12-01 until 2018-12-01
+	Golmar from 2018-12-01
 andreasschroth: andreas!hpage.com, andreasschroth!users.noreply.github.com
 	asnetworks until 2017-08-01
 	hPage from 2017-08-01
@@ -3887,6 +3916,10 @@ apsinha: apsinha!users.noreply.github.com
 apsureda: apsureda!gmail.com, apsureda!users.noreply.github.com
 	AXA Financial Inc. until 2014-10-01
 	Google LLC from 2014-10-01
+apten-fors: aleksandr.zhitnikov!gcore.com
+	Independent until 2015-08-01
+	NAUMEN from 2015-08-01 until 2022-03-01
+	Gcore from 2022-03-01
 aptomaKetil: ketil!aptoma.com
 	Aptoma
 aptrishu: code.rishus23!gmail.com
@@ -13302,6 +13335,15 @@ bkungfoo: bkungfoo!users.noreply.github.com, brian.foo!gmail.com
 bkuschel: bkuschel!users.noreply.github.com
 	International Business Machines Corporation until 2019-03-01
 	QlikTech International AB from 2019-03-01
+bkuzmic: bkuzmic!users.noreply.github.com
+	Ericsson until 2014-06-01
+	Independent from 2014-06-01 until 2015-03-01
+	Ericsson from 2015-03-01 until 2015-05-01
+	Independent from 2015-05-01 until 2018-12-01
+	Zerocracy from 2018-12-01 until 2020-05-01
+	Ericsson from 2020-05-01 until 2021-01-01
+	House of Code from 2021-01-01 until 2021-11-01
+	Bloomreach from 2021-11-01
 bkw: bkw!codingforce.com, bkw!users.noreply.github.com
 	codingforce UG
 bl0m1: bl0m1!users.noreply.github.com
@@ -23598,42 +23640,3 @@ claudiobastos: claudiobastos!users.noreply.github.com
 	Mensis
 claudiofahey: claudiofahey!users.noreply.github.com
 	Dell Technologies
-claudiomerli: claudiomerli!users.noreply.github.com
-	Independent until 2017-09-01
-	Solving Team from 2017-09-01
-claudioscordino: claudio!evidence.eu.com
-	Evidence Srl until 2015-12-01
-	LIST S.p.A. from 2015-12-01 until 2016-08-01
-	Evidence Srl from 2016-08-01
-claudiu-coman: claud.coman!gmail.com, claudiu-coman!users.noreply.github.com
-	Hootsuite
-claudiu-m: claudiu.manoil!freescale.com
-	Freescale
-claudiu-m: claudiu.manoil!nxp.com
-	NXP Semiconductors Netherlands B.V.
-claudiubelu: claudiubelu!users.noreply.github.com
-	Cloudbase
-claudiubeznea: claudiu.beznea!microchip.com
-	Luxoft Global Operations GmbH until 2016-06-01
-	Paradox from 2016-06-01 until 2017-01-01
-	Microchip LLC from 2017-01-01
-claurence: claurence!pivotal.io, claurence!users.noreply.github.com
-	Pivotal until 2020-01-01
-	VMware Inc. from 2020-01-01
-clausagerskov: clausagerskov!users.noreply.github.com
-	COMSOL until 2015-03-01
-	Independent from 2015-03-01 until 2015-08-01
-	Lundbeck from 2015-08-01 until 2020-01-01
-	PS AI Labs from 2020-01-01
-clawr: clawr!google.com
-	Google LLC
-clawsavior: clawsavior!users.noreply.github.com
-	Aktiebolaget Scorpius until 2017-08-01
-	Independent from 2017-08-01 until 2018-05-01
-	Building Council Ale Municipitaly from 2018-05-01 until 2022-11-01
-	Ericsson from 2022-11-01
-claydanford: 42356991+claydanford!users.noreply.github.com, claydanford!users.noreply.github.com
-	City of Denton until 2018-08-01
-	McKinsey & Company from 2018-08-01 until 2020-01-01
-	Neiman Marcus Group Inc. from 2020-01-01 until 2020-10-01
-	Parc Ventures Inc. from 2020-10-01
