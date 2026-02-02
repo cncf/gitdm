@@ -2,6 +2,20 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+NextRoll:
+	blt: blt!users.noreply.github.com, brian!troutwine.us until 2016-04-01
+NextUp:
+	scop: scop!users.noreply.github.com, ville.skytta!iki.fi from 2015-01-01 until 2016-01-01
+NextVR:
+	earlcoder: ehuskey!linkedin.com from 2016-12-01 until 2018-06-01
+NextWare:
+	jkears: jkears!users.noreply.github.com from 2019-03-01
+NextWeb:
+	DylanPiercey: DylanPiercey!users.noreply.github.com, pierceydylan!gmail.com until 2014-09-01
+Nextail:
+	rubensa: rubensa!gmail.com, rubensa!users.noreply.github.com from 2022-03-01
+Nextbridge IT Solutions:
+	shivanand007: shivanand007!users.noreply.github.com from 2021-09-01 until 2023-03-01
 Nextcloud:
 	srkunze: srkunze!users.noreply.github.com
 Nextcode:
@@ -6141,7 +6155,7 @@ Ottoo:
 Otylico:
 	Matei207: Matei207!users.noreply.github.com, t-madavid!hotels.com from 2017-07-01 until 2017-08-01
 Ouest-France:
-	pablo-ruth: pablo-ruth!users.noreply.github.com from 2018-03-01
+	pablo-ruth: pablo-ruth!users.noreply.github.com from 2018-03-01 until 2023-09-01
 Our Beer:
 	hiddenmarten: hiddenmarten!users.noreply.github.com from 2018-12-01 until 2019-09-01
 Our Community:
@@ -16581,11 +16595,3 @@ Rahul Menon:
 	rahulakash: rahul!rmenn.in, rahulakash!users.noreply.github.com
 Rai:
 	kagedani: daniele.uboldi.job!gmail.com, kagedani!users.noreply.github.com from 2018-03-01 until 2018-04-01
-Raicam Clutch:
-	lukeplausin: luke.plausin!gmail.com, lukeplausin!users.noreply.github.com until 2015-04-01
-Raid CentraleSupélec:
-	Gandem: Gandem!users.noreply.github.com, nayef.ghattas!gmail.com from 2015-08-01 until 2016-05-01
-Raiffeisen:
-	davtex: davtex!users.noreply.github.com until 2015-09-01
-	mdnix: mdnix!users.noreply.github.com from 2018-01-01 until 2021-04-01
-	pstauffer: pstauffer!users.noreply.github.com until 2015-07-01

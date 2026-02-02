@@ -3890,6 +3890,7 @@ International Business Machines Corporation:
 	agorgl: agorgl!users.noreply.github.com, agorglouk!gmail.com from 2019-12-01
 	agunnerson-ibm: agunnerson-ibm!users.noreply.github.com, andrew.gunnerson!us.ibm.com
 	aharbis: aharbis!users.noreply.github.com from 2015-05-01
+	ahus1: ahus1!users.noreply.github.com, alexander.schwartz!gmx.net, alexander.schwartz!ibm.com, alexander.schwartz!msg-systems.com, alexander.schwartz!msg.group, aschwart!redhat.com from 2025-07-01
 	aik: aik!ozlabs.ru
 	ajaypvictor: ajay.victor3!gmail.com, ajaypvictor!users.noreply.github.com, ajvictor!in.ibm.com
 	ajborley: ajborley!users.noreply.github.com
@@ -4979,8 +4980,7 @@ International Business Machines Corporation:
 	pebrc: pebrc!users.noreply.github.com until 2014-05-01
 	peiniliu: peini.liu!gmail.com, peiniliu!users.noreply.github.com until 2021-04-01
 	pepov: pepov!users.noreply.github.com, peterwilcsinszky!gmail.com until 2018-04-01
-	perk: marcin.stozek!canonical.com, marcin.stozek!elastic.co, marcin.stozek!gmail.com, mstozek!sumologic.com, perk!elastic.co, perk!sumologic.com, perk!users.noreply.github.com from 2010-07-01 until 2015-08-31
-	perk-sumo: perk-sumo!users.noreply.github.com from 2010-07-01 until 2015-08-31
+	perk: 1143849+perk!users.noreply.github.com, marcin.stozek!canonical.com, marcin.stozek!elastic.co, marcin.stozek!gmail.com, mstozek!sumologic.com, perk!elastic.co, perk!sumologic.com, perk!users.noreply.github.com from 2010-07-01 until 2015-09-01
 	perryibm: perry!us.ibm.com
 	petergrau: petergrau!users.noreply.github.com until 2018-12-01
 	petrilaakso: petrilaakso!users.noreply.github.com from 2018-06-01 until 2019-10-01
@@ -14274,7 +14274,7 @@ Liara:
 	guoard: afsharzadeh8!gmail.com from 2021-09-01 until 2023-09-01
 	mhemrg: mhemrg!users.noreply.github.com, mhemrg120!gmail.com from 2019-06-01
 Liatrio:
-	adrielp: adrielp!users.noreply.github.com from 2022-04-01
+	adrielp: adrielp!users.noreply.github.com from 2022-04-01 until 2025-09-28
 	blairdrummond: blairdrummond!users.noreply.github.com from 2022-05-01
 	cplee: cplee!nektos.com, cplee!users.noreply.github.com from 2019-04-01 until 2020-06-01
 	ericchapman80: ericc!liatrio.com from 2018-05-01
@@ -16045,8 +16045,3 @@ Lone Rooftop:
 	jcerjak: jcerjak!users.noreply.github.com from 2018-04-01 until 2019-10-01
 Lone Wolf:
 	adamrbennett: adam.bennett!globant.com, adamrbennett!users.noreply.github.com until 2016-10-01
-Lonely Planet:
-	derrickburns: derrickburns!users.noreply.github.com, derrickrburns!gmail.com, dubrsl!gmail.com from 2015-09-01 until 2016-10-01
-	jujugrrr: jujugrrr!users.noreply.github.com until 2014-09-01
-	sciurus: sciurus!users.noreply.github.com until 2015-01-01
-	thenayr: thenayr!users.noreply.github.com from 2016-12-01 until 2020-04-01

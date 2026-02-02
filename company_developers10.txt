@@ -2,6 +2,14 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Raicam Clutch:
+	lukeplausin: luke.plausin!gmail.com, lukeplausin!users.noreply.github.com until 2015-04-01
+Raid CentraleSupélec:
+	Gandem: Gandem!users.noreply.github.com, nayef.ghattas!gmail.com from 2015-08-01 until 2016-05-01
+Raiffeisen:
+	davtex: davtex!users.noreply.github.com until 2015-09-01
+	mdnix: mdnix!users.noreply.github.com from 2018-01-01 until 2021-04-01
+	pstauffer: pstauffer!users.noreply.github.com until 2015-07-01
 Raiffeisen Bank:
 	alexey-boyko: alexey-boyko!users.noreply.github.com from 2018-04-01 until 2019-07-01
 	davtex: davtex!users.noreply.github.com from 2022-06-01
@@ -1539,7 +1547,7 @@ Red Hat Inc.:
 	ahadas: ahadas!redhat.com
 	ahardin-rh: ahardin-rh!users.noreply.github.com from 2015-11-01
 	ahuffman: ahuffman!redhat.com, ahuffman!users.noreply.github.com from 2015-08-01 until 2019-12-01
-	ahus1: ahus1!users.noreply.github.com, alexander.schwartz!gmx.net, alexander.schwartz!msg-systems.com, aschwart!redhat.com from 2021-12-31
+	ahus1: ahus1!users.noreply.github.com, alexander.schwartz!gmx.net, alexander.schwartz!ibm.com, alexander.schwartz!msg-systems.com, alexander.schwartz!msg.group, aschwart!redhat.com from 2021-12-31 until 2025-07-01
 	ahussey-redhat: ahussey-redhat!users.noreply.github.com
 	aireilly: aireilly!users.noreply.github.com from 2020-11-01
 	airlied: airlied!gmail.com, airlied!redhat.com
@@ -3699,7 +3707,7 @@ Red Hat Inc.:
 	schen1: sylvain.chen1!gmail.com from 2017-08-01
 	schmaustech: schmaustech!users.noreply.github.com from 2015-05-01
 	schmidtd: schmidtd!users.noreply.github.com
-	scholzj: github!scholzj.com, scholzj!users.noreply.github.com, www!scholzj.com from 2017-08-01
+	scholzj: github!scholzj.com, scholzj!users.noreply.github.com, www!scholzj.com from 2017-09-01 until 2026-01-01
 	schultzp2020: pschultz!pobox.com from 2021-04-01
 	scoheb: scoheb!gmail.com, scoheb!users.noreply.github.com, shebert!redhat.com
 	scollier: emailscottcollier!gmail.com, scollier!users.noreply.github.com
@@ -4441,7 +4449,7 @@ Reddit Inc:
 	EvanFabry: EvanFabry!users.noreply.github.com from 2022-06-01 until 2022-10-01
 	Griatch: Griatch!users.noreply.github.com from 2016-04-01 until 2020-08-01
 	SriRamanujam: SriRamanujam!users.noreply.github.com from 2021-07-01
-	SuperQ: superq!gmail.com, superq!users.noreply.github.com from 2023-03-01
+	SuperQ: superq!gmail.com, superq!users.noreply.github.com from 2021-05-01
 	brson: andersrb!gmail.com, brson!users.noreply.github.com from 2017-09-01 until 2018-09-01
 	chisom-igwe: chisom-igwe!users.noreply.github.com from 2018-07-01 until 2021-07-01
 	codesome: 15064823+codesome!users.noreply.github.com, codesome!users.noreply.github.com, cs15btech11018!iith.ac.in, ganeshvern!gmail.com from 2025-05-20
@@ -9491,6 +9499,7 @@ SURF:
 	F3licity: eftychiathomaidou!gmail.com from 2019-07-01 until 2020-09-01
 	a-nldisr: a-nldisr!users.noreply.github.com until 2018-01-01
 	datatalking: datatalking!users.noreply.github.com from 2024-03-01
+	nikParasyr: git!nikparasyr.com, nik.parasyr!gmail.com, nik.parasyr!protonmail.com, nikParasyr!users.noreply.github.com from 2019-02-01
 SURFsara:
 	fjbsantiago: francisco!brasant.com from 2017-09-01 until 2019-12-01
 SUSE LLC:
@@ -11748,6 +11757,7 @@ Scaleway:
 	jtherin: jtherin!users.noreply.github.com from 2017-07-01
 	kindermoumoute: kindermoumoute!users.noreply.github.com from 2018-07-01
 	neeltom92: neeltom92!gmail.com from 2020-09-01 until 2020-12-01
+	pablo-ruth: pablo-ruth!users.noreply.github.com from 2023-09-01
 	piellick: piellick!users.noreply.github.com
 	quantumsheep: nathanael.dmc!outlook.fr, quantumsheep!users.noreply.github.com from 2022-08-01
 	raskyld: raskyld!users.noreply.github.com from 2019-09-01

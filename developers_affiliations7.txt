@@ -5,6 +5,35 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+mavimo: johannespfeiffer!netnexus.de, marco!mavimo.org, mavimo!gmail.com, mavimo!users.noreply.github.com
+	Agavee until 2014-09-01
+	LaGuide from 2014-09-01 until 2015-06-01
+	Independent from 2015-06-01 until 2016-06-01
+	ProntoPro from 2016-06-01
+mavlyutov: MaprapuH!gmail.com, m.mavlyutov!gmail.com, mavlyutov!yandex-team.ru
+	YANDEX LLC
+maweike: maweike!inspur.com, maweike!user.noreply.github.com, maweike!users.noreply.github.com
+	Inspur Group
+mawinter69: m.winter!sap.com
+	SAP
+max-arnold: max-arnold!users.noreply.github.com
+	Dinect until 2018-04-01
+	Independent from 2018-04-01 until 2020-11-01
+	TurtleTraction from 2020-11-01
+max-dankow: max.dankow!gmail.com
+	Independent
+max-k: max-k!post.com, max-k!users.noreply.github.com
+	Today Job Post.com
+max-lobur: max-lobur!users.noreply.github.com, max_lobur!outlook.com
+	Mirantis Inc.
+max-mykhailenko: max-mykhailenko!users.noreply.github.com, max.mykhailenko!gmail.com
+	Memcrab
+max-okumoto: max-okumoto!users.noreply.github.com
+	Arista Networks until 2021-01-01
+	LinkedIn from 2021-01-01
+max-radin: max-radin!users.noreply.github.com
+	Radin Digital Marketing Agency until 2020-01-01
+	Zapata from 2020-01-01
 max-rocket-internet: futuresharks!gmail.com, max-rocket-internet!users.noreply.github.com, max.williams!deliveryhero.com
 	London Metal Exchange until 2014-08-01
 	Rocket from 2014-08-01 until 2017-04-01
@@ -7372,8 +7401,9 @@ moskitone: moskitone!users.noreply.github.com
 	Independent until 2015-03-01
 	EPOM from 2015-03-01 until 2019-03-01
 	MacPaw from 2019-03-01
-moskrive: moskrive!users.noreply.github.com moskrive!cisco.com
-	Cisco from 2007-08-01
+moskrive: moskrive!cisco.com, moskrive!users.noreply.github.com
+	Independent until 2007-08-01
+	Cisco Systems Inc. from 2007-08-01
 moskyb: ben!mosk.nz, moskyb!users.noreply.github.com
 	Independent until 2015-11-01
 	Flick Electric from 2015-11-01 until 2016-02-01
@@ -13310,6 +13340,9 @@ nik131186: nik131186!users.noreply.github.com
 	Independent from 2015-08-01 until 2017-10-01
 	CGI from 2017-10-01 until 2021-06-01
 	Citi from 2021-06-01
+nikParasyr: git!nikparasyr.com, nik.parasyr!gmail.com, nik.parasyr!protonmail.com, nikParasyr!users.noreply.github.com
+	Independent until 2019-02-01
+	SURF from 2019-02-01
 nikai3d: nikai!nikai.net
 	Independent until 2015-06-01
 	Algeco from 2015-06-01 until 2017-09-01
@@ -13526,8 +13559,6 @@ nikovirtala: nikovirtala!users.noreply.github.com
 	Polar Squad from 2021-01-01
 nikox94: nikola!canva.com, nikola.yuroukov!gmail.com, nikox94!users.noreply.github.com
 	ScaleFocus
-nikParasyr: nik.parasyr@protonmail.com, git@nikparasyr.com, nik.parasyr@gmail.com
-	SURF from 2019-02-01
 nikpivkin: nikita.pivkin!smartforce.io
 	Independent until 2022-03-01
 	Appfire from 2022-03-01 until 2022-10-01
@@ -20858,10 +20889,10 @@ perithompson: perithompson!users.noreply.github.com
 	Valpak from 2018-08-01 until 2020-07-01
 	VMware Inc. from 2020-07-01 until 2022-10-01
 	ControlPlane.io from 2022-10-01
-perk: marcin.stozek!canonical.com, marcin.stozek!elastic.co, marcin.stozek!gmail.com, mstozek!sumologic.com, perk!elastic.co, perk!sumologic.com, perk!users.noreply.github.com, 1143849+perk!users.noreply.github.com
+perk: 1143849+perk!users.noreply.github.com, marcin.stozek!canonical.com, marcin.stozek!elastic.co, marcin.stozek!gmail.com, mstozek!sumologic.com, perk!elastic.co, perk!sumologic.com, perk!users.noreply.github.com
 	TheBookingRoom until 2010-07-01
 	International Business Machines Corporation from 2010-07-01 until 2015-09-01
-	Cinckiarz.pl from 2015-09-01 until 2017-05-01
+	Cinckiarz.pl from from 2015-09-01 until 2017-05-01
 	Collective Sense LLC from 2017-05-01 until 2019-11-30
 	Sumo Logic Inc. from 2019-11-30 until 2023-09-01
 	Independent from 2023-09-01 until 2023-09-18
@@ -23802,27 +23833,3 @@ prabath: prabath!apache.org, prabath!users.noreply.github.com
 	DevRev from 2022-01-01
 prabdeb: 37529789+prabdeb!users.noreply.github.com, prabdeb!users.noreply.github.com, prbldeb!gmail.com
 	Cisco Systems Inc.
-prabhakar-pal: prabhakar-pal!users.noreply.github.com
-	Racelogic until 2019-07-01
-	Renesas Electronics Corporation from 2019-07-01
-prabhakarlad: prabhakar.csengg!gmail.com
-	Visvesvaraya
-prabhatchand: prabhat.chand.pandey!intel.com
-	Intel Corporation
-prabhatdubey1: prabhatdubey1!users.noreply.github.com
-	Independent until 2016-04-01
-	Atos from 2016-04-01 until 2019-12-01
-	Persistent Systems from 2019-12-01
-prabhatkumarthakur: prabhat.thakur!mayadata.io, prabhatkumarthakur!users.noreply.github.com
-	Independent until 2014-06-01
-	HBJ from 2014-06-01 until 2014-10-01
-	CloudByte Inc from 2014-10-01 until 2017-11-01
-	Independent from 2017-11-01 until 2017-12-01
-	MayaData Inc. (f/k/a CloudByte Inc) from 2017-12-01
-prabhu43: prabhu43!users.noreply.github.com
-	ThoughtWorks Inc
-prabhulc: prabhulc!users.noreply.github.com
-	EY until 2017-06-01
-	Accenture Global Solutions Limited from 2017-06-01 until 2019-09-01
-	Mercedes-Benz AG from 2019-09-01 until 2020-10-01
-	Hewlett from 2020-10-01

@@ -5,6 +5,27 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+clayheaton: clayheaton!users.noreply.github.com
+	RTI International until 2016-09-01
+	Imangi Studios from 2016-09-01
+claymccoy: git!claymccoy.com, github!claymccoy.com, mail!shouryalala.com
+	Netflix Inc. until 2016-04-01
+	Atomist Inc. from 2016-04-01 until 2018-10-01
+	Pivotal from 2018-10-01 until 2019-09-01
+	Armory Inc. from 2019-09-01
+clayreimann: clayreimann!users.noreply.github.com
+	Epic Systems until 2015-02-01
+	Flurry Analytics from 2015-02-01
+clayrisser: clayrisser!users.noreply.github.com, jam!codejam.ninja
+	Independent until 2016-01-01
+	GroupThreads from 2016-01-01 until 2017-06-01
+	General Motors from 2017-06-01 until 2017-12-01
+	Nueve from 2017-12-01
+claytonlemons: ClaytonLLemons!gmail.com, claytonlemons!users.noreply.github.com
+	NI until 2018-12-01
+	GrammaTech from 2018-12-01 until 2020-06-01
+	CitronicWare from 2020-06-01 until 2020-12-01
+	Elevance Health from 2020-12-01
 claytono: 27088+claytono!users.noreply.github.com, claytono!github.com, claytono!users.noreply.github.com
 	Time Warner Cable until 2016-05-01
 	Charter Communications from 2016-05-01 until 2018-02-01
@@ -3135,8 +3156,9 @@ cumason123: cumason123!users.noreply.github.com
 	Holdette from 2018-09-01 until 2019-06-01
 	Refrating LLC from 2019-06-01 until 2020-05-01
 	Google LLC from 2020-05-01
-cunningr: cunningr!users.noreply.github.com cunningr!gmail.com
-	Cisco from 2005-08-01
+cunningr: cunningr!gmail.com, cunningr!users.noreply.github.com
+	Independent until 2005-08-01
+	Cisco Systems Inc. from 2005-08-01
 cunyat: cunyat.r!gmail.com
 	Peix i Marisc Ramon Cuñat until 2019-03-01
 	Agroptima from 2019-03-01 until 2020-04-01
@@ -16525,9 +16547,11 @@ egoughnour: e.goughnour!gmail.com
 	Accenture Global Solutions Limited
 egrimley-arm: egrimley-arm!users.noreply.github.com
 	ARM
-egrosdou01: egrosdou01!users.noreply.github.com egrosdou!cisco.com
-	Cisco from 2018-09-03 until 2021-01-31
-	Cisco from 2023-02-01
+egrosdou01: egrosdou!cisco.com, egrosdou01!users.noreply.github.com
+	Independent until 2018-09-03
+	Cisco Systems Inc. from 2018-09-03 until 2021-01-31
+	Independent from 2021-01-31 until 2023-02-01
+	Cisco Systems Inc. from 2023-02-01
 egrumbach: emmanuel.grumbach!intel.com
 	Intel Corporation
 egsysoev: egor.sysoev!gmail.com
@@ -23809,30 +23833,3 @@ fransklaver: frans.klaver!xsens.com, fransklaver!gmail.com
 	Mobile Viewpoint from 2017-08-01
 fransvanberckel: fransvanberckel!users.noreply.github.com
 	Independent
-frantjc: frantjc!users.noreply.github.com
-	Independent until 2019-08-01
-	Manifest from 2019-08-01 until 2021-09-01
-	American Electric Power Company Inc. from 2021-09-01
-frantony: antonynpavlov!gmail.com
-	ОАО ТриА
-franziskagoltz: franziska!vdgoltz.eu, franziskagoltz!users.noreply.github.com
-	MRC II Distribution Company L.P. until 2015-12-01
-	NOAA from 2015-12-01 until 2016-05-01
-	Independent from 2016-05-01 until 2016-12-01
-	Hackbright Academy from 2016-12-01 until 2017-08-01
-	Independent from 2017-08-01 until 2017-09-01
-	Buoyant Inc. from 2017-09-01 until 2018-08-01
-	Apple Inc. from 2018-08-01
-franznemeth: franznemeth!users.noreply.github.com
-	Drei-Banken until 2018-02-01
-	Independent from 2018-02-01 until 2018-04-01
-	BMW from 2018-04-01 until 2019-02-01
-	Independent from 2019-02-01 until 2019-04-01
-	Dynatrace LLC from 2019-04-01
-franzudev: fede.franzu!gmail.com, franzudev!users.noreply.github.com
-	Independent until 2019-06-01
-	Brokenice Interactive from 2019-06-01 until 2021-09-01
-	Soft Strategy from 2021-09-01 until 2022-05-01
-	Kiratech SpA from 2022-05-01
-fraozy: fraozy!users.noreply.github.com
-	Bosch

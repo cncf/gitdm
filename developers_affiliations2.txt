@@ -10005,6 +10005,9 @@ TomasTokaMrazek: TomasTokaMrazek!users.noreply.github.com
 	Anywhere from 2018-12-01
 TomasTomecek: TomasTomecek!users.noreply.github.com, jean!jean.fi
 	Red Hat Inc.
+TomasVrabel: TomasVrabel!users.noreply.github.com
+	Independent until 2016-11-01
+	SolarWinds Worldwide LLC from 2016-11-01
 TomaszGasior: TomaszGasior!users.noreply.github.com
 	Independent until 2021-05-01
 	Gamefound from 2021-05-01 until 2022-07-01
@@ -15827,11 +15830,11 @@ adamvonpaternos: adamvonpaternos!users.noreply.github.com
 	Independent from 2020-02-01
 adamwalach: adam.walach!gmail.com, adamwalach!users.noreply.github.com
 	SAP
-adamwg: adamwg!users.noreply.github.com, awg!digitalocean.com, awg!xvx.ca, adam.wolfegordon!docker.com, adam.wolfegordon!upbound.io, awg!upbound.io
+adamwg: adam.wolfegordon!docker.com, adam.wolfegordon!upbound.io, adamwg!users.noreply.github.com, awg!digitalocean.com, awg!upbound.io, awg!xvx.ca
 	Dell EMC until 2016-05-01
 	DigitalOcean from 2016-05-01 until 2023-09-01
-    Docker Inc. from 2023-09-01 until 2024-05-01
-    Upbound from 2024-05-01
+	Docker Inc. from 2023-09-01 until 2024-05-01
+	Upbound from 2024-05-01
 adamwojt: adamwojt!users.noreply.github.com
 	Independent until 2017-07-01
 	Future Electronics from 2017-07-01 until 2018-11-01
@@ -16742,7 +16745,7 @@ adrielp: adrielp!users.noreply.github.com
 	Independent from 2019-01-01 until 2019-06-01
 	CGI from 2019-06-01 until 2022-04-01
 	Liatrio from 2022-04-01 until 2025-09-28
-	W.W. Grainger from 2025-09-29
+	W.W. Grainger from 2025-09-28
 adrien-f: adrien-f!users.noreply.github.com, adrien.fillon!cdiscount.com
 	Independent until 2014-07-01
 	Softmobiles from 2014-07-01 until 2014-10-01
@@ -18041,9 +18044,9 @@ ahuret: ahuret!users.noreply.github.com
 	SkillD India from 2017-01-01
 ahurtaud: ahurtaud!users.noreply.github.com, alban.hurtaud!amadeus.com
 	Amadeus
-ahus1: ahus1!users.noreply.github.com, alexander.schwartz!gmx.net, alexander.schwartz!msg-systems.com, alexander.schwartz!msg.group, aschwart!redhat.com, alexander.schwartz!ibm.com
+ahus1: ahus1!users.noreply.github.com, alexander.schwartz!gmx.net, alexander.schwartz!ibm.com, alexander.schwartz!msg-systems.com, alexander.schwartz!msg.group, aschwart!redhat.com
 	msg until 2021-12-31
-	Red Hat Inc. from 2021-12-31 until 2025-06-31
+	Red Hat Inc. from 2021-12-31 until 2025-07-01
 	International Business Machines Corporation from 2025-07-01
 ahussey-redhat: ahussey-redhat!users.noreply.github.com
 	Red Hat Inc.
@@ -23585,20 +23588,3 @@ amyroh: amy.roh!oracle.com, amyroh!users.noreply.github.com
 	Independent from 2021-09-01
 amyth: amyth!singhsays.com, amyth!users.noreply.github.com
 	Bleeding Code
-amyxst: amyxst!gmail.com, amyxst!users.noreply.github.com
-	Independent until 2015-01-01
-	Nano from 2015-01-01 until 2016-06-01
-	Kijiji from 2016-06-01 until 2016-09-01
-	Borealis from 2016-09-01 until 2017-06-01
-	AWS from 2017-06-01 until 2017-09-01
-	Independent from 2017-09-01 until 2020-08-01
-	Snap Snap from 2020-08-01 until 2022-08-01
-	Independent from 2022-08-01 until 2022-12-01
-	Arize AI from 2022-12-01
-an-tex: an-tex!users.noreply.github.com
-	Webtrekk until 2016-04-01
-	Independent from 2016-04-01 until 2017-06-01
-	OTTO from 2017-06-01 until 2017-07-01
-	Independent from 2017-07-01
-anEXPer: inviolate.mind!gmail.com
-	VMware Inc.

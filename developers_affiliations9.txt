@@ -5,6 +5,32 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+springdo: springdo!users.noreply.github.com
+	International Business Machines Corporation until 2017-10-01
+	Red Hat Inc. from 2017-10-01
+spron-in: spron-in!users.noreply.github.com
+	Alpari until 2017-01-01
+	ESW Capital from 2017-01-01 until 2020-09-01
+	Percona from 2020-09-01
+sprutner: sprutner!users.noreply.github.com
+	RealReal until 2016-02-01
+	Independent from 2016-02-01 until 2017-02-01
+	CREDO Mobile from 2017-02-01 until 2017-11-01
+	Presence from 2017-11-01 until 2019-03-01
+	PlanGrid Inc. from 2019-03-01 until 2020-04-01
+	Autodesk from 2020-04-01
+spuder: owenspencer!gmail.com, spuder!users.noreply.github.com
+	Adaptive until 2014-12-01
+	NetDocuments from 2014-12-01 until 2018-08-01
+	MX from 2018-08-01
+spurin: spurin!users.noreply.github.com
+	Goldman Sachs & Co. LLC until 2014-05-01
+	Independent from 2014-05-01 until 2015-01-01
+	Hitachi Ltd. from 2015-01-01 until 2015-12-01
+	StorageOS Ltd from 2015-12-01 until 2018-01-01
+	Nomura Group from 2018-01-01
+sputnick: eiki!greenqloud.com, sputnick!users.noreply.github.com
+	NetApp Inc
 sputnik13: sputnik13!gmail.com, sputnik13!users.noreply.github.com
 	HP Inc. until 2015-10-31
 	HP Inc. from 2015-10-31
@@ -7031,6 +7057,8 @@ thbkrkr: thbkrkr!users.noreply.github.com
 	OVH SAS from 2015-09-01 until 2018-06-01
 	LumApps from 2018-06-01 until 2021-01-01
 	Datadog Inc from 2021-01-01
+thc1006: hctsai!linux.com, thc1006!users.noreply.github.com
+	Independent
 thcdrt: thomas.coudert!corp.ovh.com
 	Worldline Global until 2014-08-01
 	Independent from 2014-08-01 until 2015-04-01
@@ -9956,7 +9984,7 @@ tobiasehlert: tobias.ehlert!gmail.com, tobiasehlert!users.noreply.github.com
 	TV4 from 2022-02-01 until 2022-11-01
 	Telia Company AB from 2022-11-01
 tobiasgiese: tobiasgiese!users.noreply.github.com
-	Mercedes-Benz AG from 2017-10-01 until 2024-07-01
+	Mercedes-Benz AG until 2024-07-01
 	NVIDIA Corporation from 2024-07-01
 tobiashenkel: pierre-alain.galtier!vivelys.com, tobias.henkel!bmw-carit.de, tobias.henkel!bmw.de, tobiashenkel!users.noreply.github.com
 	BMW
@@ -10220,8 +10248,6 @@ tomasulo: thomaskieffer!web.de
 	Independent until 2015-08-01
 	Codecentric AG from 2015-08-01 until 2018-10-01
 	wohnungshelden GmbH from 2018-10-01
-TomasVrabel: TomasVrabel!users.noreply.github.com
-	SolarWinds Worldwide LLC from 2016-11-01
 tomaswarynyca: tomaswarynyca!users.noreply.github.com
 	Independent until 2021-07-01
 	Green Cloud from 2021-07-01 until 2022-04-01
@@ -23977,36 +24003,3 @@ ymatsiuk: ymatsiuk!users.noreply.github.com
 	Flexport from 2020-11-01
 ymeine: yannick.meine!gmail.com, ymeine!users.noreply.github.com
 	Amadeus
-ymesika: mesika!il.ibm.com, ymesika!gmail.com, ymesika!users.noreply.github.com, yossi.mesika!solo.io
-	International Business Machines Corporation until 2019-03-01
-	Dell EMC from 2019-03-01 until 2022-05-01
-	Solo.io from 2022-05-01
-ymgyt: yamaguchi7073xtt!gmail.com, ymgyt!users.noreply.github.com
-	Independent until 2016-04-01
-	CYDAS from 2016-04-01 until 2018-02-01
-	Howtelevision from 2018-02-01 until 2019-10-01
-	Hacobu from 2019-10-01 until 2022-01-01
-	FRAIM株式会社 from 2022-01-01
-ymizushi: mizushi!gmail.com, shaomq!gmail.com, ymizushi!users.noreply.github.com
-	Dwango
-ymlbright: yml_bright!163.com
-	NetEase Inc
-ymmt2005: ymmt!cybozu.com, ymmt2005!gmail.com, ymmt2005!users.noreply.github.com
-	Cybozu
-ymotongpoo: ymotongpoo!users.noreply.github.com
-	Google LLC
-ymtdzzz: ymtdzzz!users.noreply.github.com
-	Independent
-ynambiar: ynambiar!users.noreply.github.com
-	Independent until 2016-05-01
-	Google LLC from 2016-05-01 until 2017-08-01
-	Independent from 2017-08-01 until 2018-09-01
-	Microsoft Corporation from 2018-09-01
-yncxcw: yncxcw!users.noreply.github.com
-	NVIDIA Corporation
-ynezz: ynezz!true.cz, ynezz!users.noreply.github.com
-	Webtron
-yngveh: yngve.hansen2!avinor.no, yngveh!users.noreply.github.com
-	Avinor AS
-yngvesv: yngve.svendsen!oracle.com
-	Oracle America Inc.

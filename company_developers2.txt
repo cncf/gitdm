@@ -4246,6 +4246,7 @@ Bloomberg:
 	kpfleming: kpfleming!bloomberg.net
 	krispraws: krispraws!users.noreply.github.com until 2016-06-01
 	kyliau: kyliau!google.com, kyliau!umich.edu, kyliau!users.noreply.github.com from 2014-12-01 until 2017-08-01
+	liwang0513: liwang0513!gmail.com, liwang0513!users.noreply.github.com
 	lookfwd: lookfwd!gmail.com, lookfwd!users.noreply.github.com
 	michaelgoodrx: michael!goodrx.com until 2014-08-01
 	michaelwsherman: michaelwsherman!users.noreply.github.com from 2015-09-01 until 2017-12-01
@@ -8847,8 +8848,6 @@ COGNITIVE ID LTD:
 	srfrnk: srfrnk!gmail.com, srfrnk!users.noreply.github.com from 2017-08-01 until 2018-02-01
 COLLECTIVE SENSE LLC:
 	kkruk-sumo: kkruk-sumo!users.noreply.github.com from 2016-02-01 until 2019-12-01
-	perk: marcin.stozek!canonical.com, marcin.stozek!elastic.co, marcin.stozek!gmail.com, mstozek!sumologic.com, perk!elastic.co, perk!sumologic.com, perk!users.noreply.github.com from 2017-05-01 until 2019-11-30
-	perk-sumo: perk-sumo!users.noreply.github.com from 2017-05-01 until 2019-11-30
 	sumo-drosiek: sumo-drosiek!users.noreply.github.com from 2016-08-01 until 2019-11-01
 	tomob: tomob!users.noreply.github.com from 2016-10-01 until 2018-05-01
 COLO21:
@@ -9997,8 +9996,7 @@ Canonical Ltd.:
 	mwhudson: micahel!gmail.com, michael.hudson!canonical.com, mwhudson!users.noreply.github.com
 	nickolaev: nickolaev!users.noreply.github.com, nnikolay!vmware.com from 2017-11-01 until 2018-08-01
 	nzoueidi: naeilzoueidi!ubuntu.com, nzoueidi!users.noreply.github.com
-	perk: marcin.stozek!canonical.com, marcin.stozek!elastic.co, marcin.stozek!gmail.com, mstozek!sumologic.com, perk!elastic.co, perk!sumologic.com, perk!users.noreply.github.com from 2023-09-18 until 2025-03-01
-	perk-sumo: perk-sumo!users.noreply.github.com from 2023-09-18 until 2025-03-01
+	perk: 1143849+perk!users.noreply.github.com, marcin.stozek!canonical.com, marcin.stozek!elastic.co, marcin.stozek!gmail.com, mstozek!sumologic.com, perk!elastic.co, perk!sumologic.com, perk!users.noreply.github.com from 2023-09-18 until 2025-03-01
 	psusi: psusi!ubuntu.com
 	raharper: ryan.harper!canonical.com
 	rickspencer3: rickspencer3!users.noreply.github.com until 2016-03-01
@@ -12987,9 +12985,8 @@ Cinarra Systems:
 	RustamGimadiev: RustamGimadiev!users.noreply.github.com from 2016-05-01 until 2018-12-01
 Cinch Financial:
 	marcogschmidt: marcog.schmidt!gmail.com from 2018-02-01 until 2018-09-01
-Cinckiarz.pl:
-	perk: marcin.stozek!canonical.com, marcin.stozek!elastic.co, marcin.stozek!gmail.com, mstozek!sumologic.com, perk!elastic.co, perk!sumologic.com, perk!users.noreply.github.com from 2015-08-31 until 2017-04-30
-	perk-sumo: perk-sumo!users.noreply.github.com from 2015-08-31 until 2017-04-30
+Cinckiarz.pl from:
+	perk: 1143849+perk!users.noreply.github.com, marcin.stozek!canonical.com, marcin.stozek!elastic.co, marcin.stozek!gmail.com, mstozek!sumologic.com, perk!elastic.co, perk!sumologic.com, perk!users.noreply.github.com from 2015-09-01 until 2017-05-01
 Cindicator:
 	EsDmitrii: EsDmitrii!users.noreply.github.com from 2022-09-01 until 2022-11-01
 	orsinium: mail!orsinium.dev, orsinium!users.noreply.github.com from 2018-06-01 until 2019-05-01
@@ -13401,6 +13398,7 @@ Cisco Systems Inc.:
 	crimsonfaith91: crimsonfaith91!users.noreply.github.com, juntee!google.com from 2016-05-01 until 2016-08-01
 	csatib02: csatib02!users.noreply.github.com from 2023-08-01
 	cuichenli: cuichen.li!appdynamics.com, cuichen.li94!gmail.com, cuichenli!users.noreply.github.com, cuichli!cisco.com from 2021-03-23
+	cunningr: cunningr!gmail.com, cunningr!users.noreply.github.com from 2005-08-01
 	dabansal: bansalcooldheeraj!gmail.com, dabansal!users.noreply.github.com until 2017-05-01
 	dalgibbard: dalgibbard!gmail.com, dalgibbard!users.noreply.github.com
 	danehans: danehans!cisco.com, danehans!users.noreply.github.com, daneyon.hansen!solo.io, daneyonhansen!gmail.com until 2019-02-01
@@ -13454,6 +13452,7 @@ Cisco Systems Inc.:
 	eebjr: eebjr!users.noreply.github.com until 2018-04-01
 	eestewart: eestewart!users.noreply.github.com
 	eftiquar: efshaikh!cisco.com, eftiquar!users.noreply.github.com
+	egrosdou01: egrosdou!cisco.com, egrosdou01!users.noreply.github.com from 2018-09-03 until 2021-01-31, from 2023-02-01
 	egtvedt: egtvedt!samfundet.no, hegtvedt!cisco.com
 	eliaslevy: eliaslevy!users.noreply.github.com, fearsome.lucidity!gmail.com
 	elviraux: elviraux!users.noreply.github.com from 2016-03-01
@@ -13574,6 +13573,7 @@ Cisco Systems Inc.:
 	josdotso: josdotso!cisco.com, josdotso!users.noreply.github.com from 2016-11-01 until 2017-01-01, from 2018-02-01
 	josdough-te: josdough!cisco.com, josdough-te!users.noreply.github.com
 	josephbarnett: josephbarnett!users.noreply.github.com from 2020-09-01 until 2020-11-01
+	joshhalley: johalley!cisco.com, joshhalley!users.noreply.github.com
 	jrish1: jrish1!users.noreply.github.com from 2015-08-01 until 2017-06-01, from 2019-02-01 until 2020-05-01
 	jsquyres: jsquyres!cisco.com
 	jswager: jswager!alohaoi.com
@@ -13680,6 +13680,7 @@ Cisco Systems Inc.:
 	mikemccracken: michael.mccracken!gmail.com from 2017-11-01
 	mishal23: mishal23!users.noreply.github.com, shahmishal1998!gmail.com from 2020-08-01 until 2021-10-01
 	mosesoak: mosesoak!users.noreply.github.com, office!mosessupposes.com, pengxiao!outlook.com
+	moskrive: moskrive!cisco.com, moskrive!users.noreply.github.com from 2007-08-01
 	mpeters: mpeters!users.noreply.github.com until 2020-05-01
 	mrjana: mrjana!users.noreply.github.com until 2015-01-01, from 2016-11-01
 	msardara: msardara!cisco.com, msardara!users.noreply.github.com
@@ -15954,6 +15955,3 @@ Club Med India:
 	julienemo: julienemo!users.noreply.github.com, juliette.nada!gmail.com from 2015-09-01 until 2015-12-01
 Club Monaco:
 	ingmarfjolla: ingmarfjolla!users.noreply.github.com from 2018-09-01 until 2019-02-01
-Club of Programmers:
-	criticic: criticic!users.noreply.github.com from 2024-04-01
-	king-11: king-11!users.noreply.github.com, lakshay.singh1108!gmail.com from 2021-12-01
