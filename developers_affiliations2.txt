@@ -15827,9 +15827,11 @@ adamvonpaternos: adamvonpaternos!users.noreply.github.com
 	Independent from 2020-02-01
 adamwalach: adam.walach!gmail.com, adamwalach!users.noreply.github.com
 	SAP
-adamwg: adamwg!users.noreply.github.com, awg!digitalocean.com, awg!xvx.ca
+adamwg: adamwg!users.noreply.github.com, awg!digitalocean.com, awg!xvx.ca, adam.wolfegordon!docker.com, adam.wolfegordon!upbound.io, awg!upbound.io
 	Dell EMC until 2016-05-01
-	DigitalOcean from 2016-05-01
+	DigitalOcean from 2016-05-01 until 2023-09-01
+    Docker Inc. from 2023-09-01 until 2024-05-01
+    Upbound from 2024-05-01
 adamwojt: adamwojt!users.noreply.github.com
 	Independent until 2017-07-01
 	Future Electronics from 2017-07-01 until 2018-11-01
