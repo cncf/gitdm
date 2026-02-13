@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+BEEM:
+	julienlevasseur: julienlevasseur!users.noreply.github.com from 2020-03-01 until 2020-12-01
+BEEM HQ:
+	levkk: levkk!users.noreply.github.com from 2016-08-01 until 2017-09-01
+BEESLI CZ:
+	Alirun: Alirun!users.noreply.github.com from 2017-04-01 until 2018-03-01
 BEEVA:
 	Keralin: Keralin!users.noreply.github.com, baronizquierdo!gmail.com from 2016-04-01 until 2018-04-01
 	aljesusg: aljesusg!gmail.com, aljesusg!users.noreply.github.com until 2017-09-01
@@ -56,6 +62,8 @@ BEarena Pty:
 	KyleMartin901: KyleMartin901!users.noreply.github.com, kylemartin901!gmail.com from 2015-03-01 until 2017-11-01
 BFAM:
 	benjaminfuchs: email!benjaminfuchs.de
+BFT:
+	sm1lexops: sm1lexops!users.noreply.github.com until 2019-11-01
 BG:
 	Jebaseelanravi: Jebaseelanravi!users.noreply.github.com from 2017-12-01
 BG Development:
@@ -2435,6 +2443,8 @@ Bemobi:
 	felipegfalcao: felipegfalcao!users.noreply.github.com, felipegfalcao.si!gmail.com from 2018-10-01 until 2021-04-01
 	lmbleandro: lmbleandro2010!gmail.com from 2015-07-01 until 2021-04-01
 	viniciusfs: viniciusfs!gmail.com from 2021-12-01
+Ben Holdings:
+	malith1997: malith1997!users.noreply.github.com from 2024-01-01 until 2024-06-01
 Benbria:
 	jwalton: jwalton!benbria.ca, jwalton!users.noreply.github.com, pixelrazor!gmail.com
 Bench:
@@ -8491,6 +8501,7 @@ CNCF:
 	Rajdeep1311: Rajdeep1311!users.noreply.github.com from 2023-08-01 until 2023-09-01
 	RealHarshThakur: RealHarshThakur!users.noreply.github.com from 2020-06-01 until 2020-08-01
 	Riaankl: Riaankl!users.noreply.github.com from 2023-10-01
+	Riaankleinhans: Riaankleinhans!users.noreply.github.com from 2023-11-01
 	RinkiyaKeDad: RinkiyaKeDad!users.noreply.github.com from 2021-12-01
 	RobertKielty: RobertKielty!users.noreply.github.com, rob.kielty!gmail.com from 2022-11-01
 	RohanGupta06: rohange!outlook.com from 2018-04-01 until 2018-08-01
@@ -11993,6 +12004,8 @@ Cevo:
 	sanyu: sanyu!users.noreply.github.com until 2014-12-01
 Cevo Australia:
 	otakumike: otakumike!users.noreply.github.com from 2015-09-01 until 2016-06-01
+Ceycore:
+	malith1997: malith1997!users.noreply.github.com from 2021-07-01 until 2022-07-01
 Cezurity:
 	YuraBeznos: YuraBeznos!users.noreply.github.com from 2015-04-01 until 2018-03-01
 Cfaz.net:
@@ -15943,15 +15956,3 @@ Cloudreach:
 	troy0820: troy0820!users.noreply.github.com from 2017-08-01 until 2019-07-01
 	uhinze: uhinze!users.noreply.github.com from 2019-07-01 until 2020-05-01
 	vibhorrawat: vibhorrawat!users.noreply.github.com from 2021-02-01
-Clouds Sky GmbH:
-	iamShantanu101: iamShantanu101!users.noreply.github.com from 2018-09-01 until 2020-02-01
-	infinitydon: infinitydon!users.noreply.github.com from 2018-01-01 until 2019-06-01
-	ishantanu: ishantanu!users.noreply.github.com, shantanud106!gmail.com from 2019-09-01 until 2020-02-01
-Cloudscaling:
-	alexandrelevine: alevine!cloudscaling.com, alexandrelevine!gmail.com
-	benley: ben!folsomlabs.com, benley!gmail.com, benley!users.noreply.github.com until 2014-09-01
-	blakebarnett: blake.barnett!postmates.com, blakebarnett!users.noreply.github.com until 2014-04-01
-	ewindisch: eric!iopipe.com, eric!windisch.us, ewindisch!users.noreply.github.com until 2014-01-01
-	jogo: joe.gordon0!gmail.com until 2013-05-17
-Cloudsmith Ltd:
-	DavidS-om: DavidS-om!users.noreply.github.com from 2021-07-01 until 2022-11-01
