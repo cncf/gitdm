@@ -2,6 +2,23 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Truphone:
+	alsuren: alsuren!users.noreply.github.com until 2014-03-01
+	fsequeira1: fsequeira1!users.noreply.github.com from 2021-01-01 until 2021-09-01
+	jacintobarbeira: jacintobarbeira!users.noreply.github.com until 2021-05-01
+	marcoandredinis: marcoandredinis!gmail.com, marcoandredinis!users.noreply.github.com from 2020-09-01 until 2021-07-01
+Trusk:
+	hamon-e: hamon-e!users.noreply.github.com from 2020-11-01 until 2021-01-01
+Truss:
+	cblkwell: cblkwell!users.noreply.github.com from 2019-02-01 until 2021-10-01
+	rpdelaney: rpdelaney!users.noreply.github.com from 2018-09-01 until 2023-10-01
+Trust:
+	EdwinOtten: EdwinOtten!users.noreply.github.com from 2015-06-01 until 2017-09-01
+	andrewpollack: andrewpkq!gmail.com, andrewpollack!users.noreply.github.com from 2020-06-01 until 2020-09-01
+Trust International:
+	pascal-hofmann: pascal-hofmann!users.noreply.github.com from 2015-07-01 until 2016-07-01
+Trust Networks:
+	M-JobPixel: M-JobPixel!users.noreply.github.com from 2017-12-01 until 2019-03-01
 Trust Stamp:
 	sonicaj: sonicaj!users.noreply.github.com from 2017-03-01 until 2017-10-01
 TrustArc:
@@ -645,6 +662,7 @@ Twitter Inc.:
 	kraai: kraai!ftbfs.org, kraai!users.noreply.github.com from 2016-05-01 until 2018-05-01
 	kurst03: kurst03!users.noreply.github.com from 2021-01-01 until 2023-03-01
 	kwlzn: kwlzn!users.noreply.github.com
+	lancewf: lancewf!users.noreply.github.com from 2020-12-01 until 2023-01-01
 	lavacat: bkanivets!gmail.com, lavacat!users.noreply.github.com from 2018-08-01 until 2020-12-01
 	lgarrett-isp: lgarrett-isp!users.noreply.github.com from 2020-12-01
 	lingz: lingliangz!gmail.com, lingz!users.noreply.github.com from 2019-11-01
@@ -2789,6 +2807,7 @@ Upstart:
 	creicheupstart: creicheupstart!users.noreply.github.com from 2020-11-01
 	patrickbadleyupstart: patrickbadleyupstart!users.noreply.github.com from 2021-01-01
 Upstream:
+	PanOS1: PanOS1!users.noreply.github.com, adamopoulos!workable.com until 2017-05-01
 	dan-katz: dan-katz!users.noreply.github.com from 2017-05-01 until 2018-08-01, from 2019-07-01
 	dliappis: dimitrios.liappis!elastic.co, dliappis!users.noreply.github.com until 2014-02-01
 	nikfot: nikfot!users.noreply.github.com from 2019-10-01
@@ -7554,6 +7573,7 @@ Vonage Holdings Corp.:
 	dorr-vonage: dorr-vonage!users.noreply.github.com until 2017-03-01, from 2018-10-01
 	druchoo: druchoo!users.noreply.github.com
 	ewassef: ewassef!users.noreply.github.com from 2021-07-01
+	jonlane80: jonlane80!users.noreply.github.com from 2018-08-01
 	matt-lethargic: matt-lethargic!users.noreply.github.com, mattlethargic!gmail.com from 2021-09-01
 	mmerrill3: michael.merrill!vonage.com, mmerrill3!users.noreply.github.com until 2021-04-01
 	presztak: piotr.resztak!gmail.com, presztak!users.noreply.github.com from 2022-07-01
@@ -7832,6 +7852,8 @@ WAPPO AB:
 	williamleven: william!leven.id from 2019-08-01 until 2019-10-01
 WARDA:
 	gazzu: gazzu!users.noreply.github.com from 2019-08-01 until 2019-10-01
+WARNTracker:
+	stevenpyzhang: stevenpyzhang!users.noreply.github.com from 2022-12-01 until 2023-01-01
 WAS:
 	jupblb: jupblb!google.com, jupblb!users.noreply.github.com from 2016-07-01 until 2016-09-01
 WASD Keyboards:
@@ -11101,6 +11123,7 @@ WorkValues:
 	AlvinStanescu: alvin.stanescu!uipath.com from 2017-07-01 until 2019-03-01
 Workable Inc:
 	LavredisG: LavredisG!users.noreply.github.com from 2023-10-01
+	PanOS1: PanOS1!users.noreply.github.com, adamopoulos!workable.com from 2017-05-01
 	gtseres: george.tseres!gmail.com, gtseres!users.noreply.github.com from 2017-11-01
 	pantelis-karamolegkos: pantelis-karamolegkos!users.noreply.github.com from 2019-05-01
 	pavlospt: p.tournaris!gmail.com, pavlospt!users.noreply.github.com from 2016-03-01 until 2019-11-01
@@ -12600,6 +12623,7 @@ Yahoo! Inc.:
 	KeisukeYamashita: 19yamashita15!gmail.com, KeisukeYamashita!users.noreply.github.com from 2018-02-01 until 2018-03-01
 	Lewuathe: Lewuathe!users.noreply.github.com, lewuathe!me.com until 2015-10-01
 	LiuShuaiyi: LiuShuaiyi!users.noreply.github.com, liushuaiyi!gmail.com from 2017-06-01 until 2017-09-01
+	MeghaGeo: MeghaGeo!users.noreply.github.com from 2025-05-01
 	MysticDoll: MysticDoll!users.noreply.github.com from 2018-04-01 until 2023-01-01
 	NathanielRN: NathanielRN!users.noreply.github.com from 2017-09-01 until 2017-12-01
 	OnTitansShoulder: OnTitansShoulder!users.noreply.github.com from 2019-06-01 until 2022-06-01
@@ -15662,6 +15686,8 @@ aspaNETCONOMY:
 aspaNETCONOMY S.L.:
 	lukogex: lukogex!users.noreply.github.com from 2015-12-01
 	zerok: h.gutmann!netconomy.net, zerok!users.noreply.github.com, zerok!zerokspot.com
+aspectra:
+	pandino: g.ceolin!gmail.com from 2024-11-01
 asquera:
 	schultyy: janschulte!fastmail.com until 2017-03-01
 	spacekookie: kookie!spacekookie.de, spacekookie!users.noreply.github.com from 2017-04-01
@@ -16366,35 +16392,3 @@ communicode:
 	solidnerd: github!mietz.io, niclas!mietz.io, solidnerd!users.noreply.github.com from 2019-08-01
 companoidLabs:
 	RRoundTable: ryu071511!gmail.com from 2018-03-01 until 2018-06-01
-comparethemarket:
-	MattCollinge: MattCollinge!users.noreply.github.com until 2017-12-01
-	programatt: mathewrphillips!gmail.com, programatt!users.noreply.github.com from 2018-01-01 until 2018-08-01
-compeople AG:
-	siegfriedweber: siegfriedweber!users.noreply.github.com until 2016-12-01
-comprigo:
-	syst0m: syst0m!users.noreply.github.com from 2016-10-01 until 2018-10-01
-comsenz:
-	potterhe: potter.he!gmail.com, potterhe!users.noreply.github.com
-comsolit AG:
-	bittner: bittner!users.noreply.github.com from 2015-01-01 until 2018-03-01
-comvive:
-	juanjoselopezroldan: juanjoselopezroldan!users.noreply.github.com from 2018-03-01 until 2018-06-01
-con terra:
-	casassg: casassg!users.noreply.github.com from 2018-08-01 until 2018-09-01
-conauta:
-	adriantabirta: adriantabirta!gmail.com, adriantabirta!users.noreply.github.com from 2016-12-01 until 2017-03-01
-confidential:
-	petervandenabeele: peter!vandenabeele.com, petervandenabeele!users.noreply.github.com until 2014-03-01
-confirm:
-	pstauffer: pstauffer!users.noreply.github.com from 2015-07-01
-conichi:
-	bitmaybewise: bitmaybewise!users.noreply.github.com from 2017-03-01 until 2019-10-01
-connyun GmbH:
-	KevinKlinger: KevinKlinger!users.noreply.github.com from 2017-02-01 until 2017-07-01
-	okryvoshapka-connyun: okryvoshapka-connyun!users.noreply.github.com, oleksandr.kryvoshapka!connyun.com from 2017-04-01
-conogenetix Biosciences:
-	Ashafix: Ashafix!users.noreply.github.com until 2015-03-01
-conplement:
-	GramozKrasniqi: GramozKrasniqi!users.noreply.github.com from 2019-04-01
-conserata IT:
-	tspaeth: info!conserata.com, ts!conserata.com, tspaeth!users.noreply.github.com
