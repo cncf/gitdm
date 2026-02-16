@@ -369,6 +369,10 @@ clebs: bclement!redhat.com, borja.clemente!gmail.com, cborja!vmware.com, clebs!u
 	VMware Inc. from 2023-02-01 until 2025-08-01
 	Independent from 2025-08-01 until 2025-09-15
 	Red Hat Inc. from 2025-09-15
+cyrille-leclerc: cyrille.lelclerc!grafana.com, 459691+cyrille-leclerc!users.noreply.github.com, cleclerc!cloudbees.com, cyrille!cyrilleleclerc.com, cyrille.leclerc!elastic.co
+	CloudBees Inc. until 2020-01-01
+	Elasticsearch Inc. from 2020-01-01 until 2022-10-01
+    Grafana Labs from 2022-10-03
 cleech: cleech!redhat.com, cleech!users.noreply.github.com
 	Red Hat Inc.
 cleeland: chris.cleeland!gmail.com
