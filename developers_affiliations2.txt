@@ -13867,7 +13867,7 @@ aandis: aandis!users.noreply.github.com, abhishekrm!iitrpr.ac.in
 	Google LLC from 2015-07-01 until 2016-04-01
 	Independent from 2016-04-01 until 2016-07-01
 	JioSaavn from 2016-07-01
-aanm: aanm!users.noreply.github.com, aanm90!gmail.com, andre!cilium.io
+aanm: aanm!users.noreply.github.com, aanm90!gmail.com, andre!cilium.io, andre!isovalent.com
 	Independent until 2015-01-01
 	Cisco Systems Inc. from 2015-01-01 until 2017-01-01
 	Isovalent from 2017-01-01
@@ -21090,6 +21090,13 @@ alexdegroot: alexdegroot!users.noreply.github.com
 	Xpirit from 2015-11-01
 alexdmoss: alex!mosstech.io
 	John Lewis plc
+alexdor: alexandroscr!outlook.com, alexdor!users.noreply.github.com
+	Independent until 2018-11-01
+	Framna from 2018-11-01 until 2019-10-01
+	KissMyButton from 2019-10-01 until 2022-10-01
+	DFDS from 2022-10-01 until 2023-09-01
+	Onomondo from 2023-09-01 until 2026-02-01
+	Veo from 2026-02-01
 alexdotsh: alexdotsh!users.noreply.github.com
 	Independent until 2018-03-01
 	Capgemini from 2018-03-01 until 2019-04-01
@@ -21169,7 +21176,7 @@ alexeykazakov: alexeykazakov!users.noreply.github.com, alkazako!redhat.com
 alexeyklyukin: alexeyklyukin!users.noreply.github.com, porkbird!icloud.com
 	Zalando SE until 2018-08-01
 	Custard Insurance Adjusters Inc. from 2018-08-01
-alexeypukhov: alexey.pukhov!appdynamics.com, alexeypukhov!users.noreply.github.com, apukhov!cisco.com, puhov.alexey!gmail.com
+alexeypukhov: alexey.pukhov!appdynamics.com, AlexeyPukhov!users.noreply.github.com, apukhov!cisco.com, puhov.alexey!gmail.com
 	Independent until 2013-12-11
 	AppDynamics LLC from 2013-12-11 until 2017-06-01
 	Cisco Systems Inc. from 2017-06-01
@@ -21683,6 +21690,10 @@ alfredmyers: alfredmyers!users.noreply.github.com, git!alfredmyers.com
 	Inetx from 2015-09-01 until 2016-07-01
 	Independent from 2016-07-01 until 2017-05-01
 	Bracta Tecnologia from 2017-05-01
+alfredo: alfredo!users.noreply.github.com
+	ARGO until 2017-04-01
+	Reveal from 2017-04-01 until 2023-09-01
+	Independent from 2023-09-01
 alfredo-gil: alfredo-gil!users.noreply.github.com
 	Independent until 2019-06-01
 	Entravision from 2019-06-01 until 2020-01-01
@@ -23578,14 +23589,3 @@ amogh-dambal: amogh-dambal!users.noreply.github.com
 amoghmargoor: amoghmargoor!users.noreply.github.com
 	MathWorks Inc. until 2015-03-01
 	Qubole from 2015-03-01
-amohamedhey: amohamedhey!users.noreply.github.com
-	ExaServe until 2015-07-01
-	DETASAD from 2015-07-01 until 2019-01-01
-	HolidayPirates from 2019-01-01
-amolenaar: amolenaar!users.noreply.github.com, ericschlichting!gmail.com, gaphor!gmail.com
-	XebiaLabs until 2016-02-01
-	wehkamp from 2016-02-01 until 2018-02-01
-	Royal FloraHolland from 2018-02-01
-amolenk: a.molenkamp!gmail.com
-	Independent until 2019-03-01
-	Azure Fest from 2019-03-01

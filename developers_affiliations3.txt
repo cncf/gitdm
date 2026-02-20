@@ -5,6 +5,17 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+amohamedhey: amohamedhey!users.noreply.github.com
+	ExaServe until 2015-07-01
+	DETASAD from 2015-07-01 until 2019-01-01
+	HolidayPirates from 2019-01-01
+amolenaar: amolenaar!users.noreply.github.com, ericschlichting!gmail.com, gaphor!gmail.com
+	XebiaLabs until 2016-02-01
+	wehkamp from 2016-02-01 until 2018-02-01
+	Royal FloraHolland from 2018-02-01
+amolenk: a.molenkamp!gmail.com
+	Independent until 2019-03-01
+	Azure Fest from 2019-03-01
 amolkavitkar: amolkavitkar!users.noreply.github.com
 	International Business Machines Corporation until 2014-12-01
 	ZS Associates from 2014-12-01 until 2015-08-01
@@ -708,6 +719,11 @@ andrea-adami: andrea.adami!gmail.com
 andrea-cola: andrea-cola!users.noreply.github.com, andrea.cola95!gmail.com
 	Independent until 2019-09-01
 	BIP from 2019-09-01
+andrea-manzi: andrea.manzi!gmail.com
+	CERN until 2020-02-01
+	Independent from 2020-02-01 until 2022-09-01
+	interTwin from 2022-09-01 until 2025-08-01
+	EGI from 2025-08-01
 andreaTP: andrea.peruffo1982!gmail.com, andreaTP!users.noreply.github.com
 	UniCredit until 2016-12-01
 	Nokia Corporation from 2016-12-01 until 2018-10-01
@@ -4153,6 +4169,8 @@ aqilbeig: aqilbeig!users.noreply.github.com
 	Sopra Steria Group until 2017-10-01
 	HCL Technologies Ltd. from 2017-10-01 until 2018-12-01
 	Adobe Inc. from 2018-12-01
+aqt01: aqt01!users.noreply.github.com, lowell.abbott!gmail.com
+	Independent
 aquamme: aquamme!users.noreply.github.com
 	FBS until 2017-02-01
 	Independent from 2017-02-01 until 2017-09-01
@@ -5869,6 +5887,10 @@ arunp0: arunp0!users.noreply.github.com
 	Samsung Electronics Co. Ltd. from 2015-07-01 until 2017-09-01
 	Houm from 2017-09-01 until 2019-11-01
 	Zupee from 2019-11-01
+arunprasadlv: arunprasadlv!users.noreply.github.com
+	American Express Banking Corp. until 2014-03-01
+	Independent from 2014-03-01 until 2020-03-01
+	Wells Fargo from 2020-03-01
 arunrama-bcm: arunrama!broadcom.com
 	Broadcom Corporation
 arunramachandran15: arunramachandran15!users.noreply.github.com
@@ -6080,6 +6102,13 @@ asad-awadia: asad-awadia!users.noreply.github.com
 	TextNow from 2018-05-01 until 2020-12-01
 	Miovision Technologies Inc. from 2020-12-01 until 2021-10-01
 	TraceLink from 2021-10-01
+asadoughi: asadoughi!users.noreply.github.com
+	Rackspace until 2015-12-01
+	Amazon from 2015-12-01 until 2016-01-01
+	AWS from 2016-01-01 until 2019-01-01
+	Pinecone from 2019-01-01 until 2021-01-01
+	Meta Platforms Inc. from 2021-01-01 until 2025-01-01
+	Stealth from 2025-01-01
 asafalgawi: asafalgawi!users.noreply.github.com
 	TrulyProtect until 2021-10-01
 	AWS from 2021-10-01 until 2023-04-01
@@ -14928,16 +14957,7 @@ borismattijssen: borismattijssen!gmail.com, borismattijssen!users.noreply.github
 	Nerdalize from 2015-05-15
 borisroman: borisroman!users.noreply.github.com, bschrijver!schubergphilis.com
 	Schuberg Philis
-borkmann: borkmann!users.noreply.github.com, danborkmann!iogearbox.net, dborkman!redhat.com
-	Red Hat Inc. until 2015-01-01
-	Cisco Systems Inc. from 2015-01-01 until 2017-01-01
-	Isovalent from 2017-01-01
-borkmann: daniel!iogearbox.net, dborkman!kernel.org
-	ETH Zurich until 2012-01-01
-	Red Hat Inc. from 2012-01-01 until 2015-01-01
-	Cisco Systems Inc. from 2015-01-01 until 2017-01-01
-	Isovalent from 2017-01-01
-borkmann: dxchgb!gmail.com
+borkmann: borkmann!users.noreply.github.com, danborkmann!iogearbox.net, daniel!iogearbox.net, dborkman!kernel.org, dborkman!redhat.com, dxchgb!gmail.com
 	ETH Zurich until 2012-01-01
 	Red Hat Inc. from 2012-01-01 until 2015-01-01
 	Cisco Systems Inc. from 2015-01-01 until 2017-01-01
@@ -15621,7 +15641,7 @@ braydonk: braydonk!users.noreply.github.com
 	D2L from 2019-09-01 until 2021-03-01
 	Enlighted from 2021-03-01 until 2021-10-01
 	Independent from 2021-10-01
-brb: brb!users.noreply.github.com, m!lambda.lt, martynas!weave.works, martynasp!gmail.com
+brb: brb!users.noreply.github.com, m!lambda.lt, martynas!isovalent.com, martynas!weave.works, martynasp!gmail.com
 	SumUp until 2015-09-01
 	Independent from 2015-09-01 until 2016-02-01
 	Weaveworks Inc. from 2016-02-01 until 2018-11-01
@@ -22794,7 +22814,7 @@ christ66: schristou88!gmail.com
 	CloudBees Inc. until 2016-04-01
 	Google LLC from 2016-04-01 until 2016-08-01
 	CloudBees Inc. from 2016-08-01
-christarazi: christarazi!users.noreply.github.com
+christarazi: chris!isovalent.com, christarazi!users.noreply.github.com
 	Independent until 2015-06-01
 	Intellect from 2015-06-01 until 2015-08-01
 	Independent from 2015-08-01 until 2016-05-01
@@ -23605,23 +23625,3 @@ cjhomour: 33446629+cjhomour!users.noreply.github.com, cjhomour!users.noreply.git
 	AlaudaInc
 cjhpaul: cjhpaul!hotmail.com, cjhpaul!users.noreply.github.com
 	Bentley Motors Limited
-cji: 419708+cji!users.noreply.github.com, cingram!heroku.com, cji!linux.com, cji!stripe.com, cji!users.noreply.github.com, cjingram!google.com
-	Heroku Inc. until 2020-08-14
-	Stripe Inc from 2020-08-14 until 2022-06-03
-	Google LLC from 2022-06-03
-cjihrig: cjihrig!gmail.com, cjihrig!users.noreply.github.com
-	Node.js Foundation
-cjlarose: cjlarose!gmail.com, cjlarose!users.noreply.github.com
-	iPlant Collaborative until 2014-01-01
-	AppFolio from 2014-01-01
-cjlee01: calvin.lee!harness.io
-	Independent until 2018-05-01
-	ark Derochie from 2018-05-01 until 2018-08-01
-	Independent from 2018-08-01 until 2019-07-01
-	web3 from 2019-07-01 until 2019-09-01
-	Independent from 2019-09-01 until 2020-06-01
-	Organic Box from 2020-06-01 until 2021-10-01
-	Harness from 2021-10-01
-cjlpowers: cjlpowers!users.noreply.github.com
-	Lease until 2019-02-01
-	AT&T from 2019-02-01
