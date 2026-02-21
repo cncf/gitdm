@@ -22,8 +22,9 @@ def ReadConfigLine (file):
     line = file.readline ()
     if not line:
         return None
+    # Skip comment lines entirely and continue reading
     if line.startswith('#'):
-        return ''
+        return ReadConfigLine (file)
     line = line.strip () # and extra white space
     line = email_decode(line)
     if len (line) == 0: # we got rid of everything
@@ -152,7 +153,7 @@ def ReadFileType (filename):
         file = open (filename, 'r')
     except IOError:
         croak ('Unable to open file type mapping file %s' % (filename))
-    patterns = {}
+    ft_patterns = {}
     order = []
     regex_order = re.compile ('^order\s+(.*)$')
     regex_file_type = re.compile ('^filetype\s+(\S+)\s+(.+)$')
@@ -170,17 +171,17 @@ def ReadFileType (filename):
         if not m or len (m.groups ()) != 2:
             croak ('Funky file type line "%s"' % (line))
 
-        if m.group (1) not in patterns:
-            patterns[m.group (1)] = []
+        if m.group (1) not in ft_patterns:
+            ft_patterns[m.group (1)] = []
         if m.group (1) not in order:
             print '%s not found, appended to the last order' % m.group (1)
             order.append (m.group (1))
 
-        patterns[m.group (1)].append (re.compile (m.group (2), re.IGNORECASE))
+        ft_patterns[m.group (1)].append (re.compile (m.group (2), re.IGNORECASE))
 
         line = ReadConfigLine (file)
     file.close ()
-    return patterns, order
+    return ft_patterns, order
 
 #
 # Read an overall config file.

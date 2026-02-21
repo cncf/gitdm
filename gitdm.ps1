@@ -10,10 +10,7 @@ function Pick-Python {
   foreach ($cand in @('py -2','python2','pypy','pypy2')) {
     try {
       if ($cand -eq 'py -2') {
-        & py -2 - <<'PY'
-import sys
-print(2 if sys.version_info[0]==2 else 3)
-PY
+        & py -2 -c "import sys; assert sys.version_info[0]==2" 1>$null 2>$null
         if ($LASTEXITCODE -eq 0) { return 'py -2' }
       } else {
         if (Get-Command ($cand.Split(' ')[0]) -ErrorAction SilentlyContinue) { return $cand }
@@ -21,10 +18,7 @@ PY
     } catch { }
   }
   if (Get-Command python -ErrorAction SilentlyContinue) {
-    $ver = & python - <<'PY'
-import sys
-print(sys.version_info[0])
-PY
+    $ver = & python -c "import sys; print(sys.version_info[0])"
     if ($ver -eq 2) { return 'python' }
   }
   return $null

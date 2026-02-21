@@ -473,9 +473,9 @@ def EmplReviews (elist, totalreviews):
 # Who are the unknown hackers?
 #
 def IsUnknown(h):
-    # LG: need to take a look
+    # LG: treat developers as unknown if employer is unmapped or explicitly not found
     empl = h.employer[0][0][1].name
-    return h.email[0] == empl or empl == '(Unknown)' or empl == 'NotFound'
+    return h.email[0] == empl or empl in ('(Unknown)', '(Not Found)')
 
 def IsSelf(h):
     empl = h.employer[0][0][1].name
@@ -535,7 +535,6 @@ def ReportSelfs(hlist, cscount):
 
 def ReportByFileType (hacker_list):
     total = {}
-    total_by_hacker = {}
 
     BeginReport ('Developer contributions by type')
     for h in hacker_list:
@@ -556,10 +555,10 @@ def ReportByFileType (hacker_list):
                 else:
                     total[filetype] = [added, removed, []]
 
-        # Print a summary by hacker
-        print email_encode(h.full_name_with_aff())
+        # Print a summary by hacker using the configured output stream
+        Write(email_encode(h.full_name_with_aff()) + '\n')
         for filetype, counters in by_hacker.iteritems():
-            print '\t', filetype, counters
+            Write('\t%s %s\n' % (filetype, counters))
             h_added = by_hacker[filetype][patch.ADDED]
             h_removed = by_hacker[filetype][patch.REMOVED]
             total[filetype][2].append ([h.full_name_with_aff(), h_added, h_removed])
@@ -567,11 +566,11 @@ def ReportByFileType (hacker_list):
     # Print the global summary
     BeginReport ('Contributions by type and developers')
     for filetype, (added, removed, hackers) in total.iteritems():
-        print filetype, added, removed
+        Write('%s %d %d\n' % (filetype, added, removed))
         for h, h_added, h_removed in hackers:
-            print email_encode('\t%s: [%d, %d]' % (h, h_added, h_removed))
+            Write(email_encode('\t%s: [%d, %d]' % (h, h_added, h_removed)) + '\n')
 
     # Print the very global summary
     BeginReport ('General contributions by type')
     for filetype, (added, removed, hackers) in total.iteritems():
-        print filetype, added, removed
+        Write('%s %d %d\n' % (filetype, added, removed))
