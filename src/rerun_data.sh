@@ -4,7 +4,7 @@ echo "Update PULL_DATE after this, and update datasheet dates and report dates t
 echo "Also update last_processed.txt with last processed unknown/not found affliation from repos/combined.txt"
 rm -f ./other_repos/*
 echo "All with map to (Unknown)"
-./all.sh
+./run_all.sh
 echo "All without mapping"
 ./all_no_map.sh
 echo "All with map to Domain *"

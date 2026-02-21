@@ -5,37 +5,54 @@ $ScriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 $BaseDir = Join-Path $ScriptDir 'src'
 $Engine  = Join-Path $BaseDir 'cncfdm.py'
 
+function Test-Python2 {
+  param(
+    [Parameter(Mandatory=$true)] [string]$Exe,
+    [string[]]$ExeArgs = @()
+  )
+  try {
+    & $Exe @ExeArgs -c "import sys; sys.exit(0 if sys.version_info[0] == 2 else 1)" *> $null
+    return ($LASTEXITCODE -eq 0)
+  } catch {
+    return $false
+  }
+}
+
 function Pick-Python {
-  if ($env:GITDM_PY) { return $env:GITDM_PY }
-  foreach ($cand in @('py -2','python2','pypy','pypy2')) {
-    try {
-      if ($cand -eq 'py -2') {
-        & py -2 - <<'PY'
-import sys
-print(2 if sys.version_info[0]==2 else 3)
-PY
-        if ($LASTEXITCODE -eq 0) { return 'py -2' }
-      } else {
-        if (Get-Command ($cand.Split(' ')[0]) -ErrorAction SilentlyContinue) { return $cand }
+  # Allow override via environment variable.
+  if ($env:GITDM_PY) {
+    return [pscustomobject]@{ Exe = $env:GITDM_PY; Args = @() }
+  }
+
+  # Prefer Python Launcher (if Python 2 is installed).
+  if (Get-Command py -ErrorAction SilentlyContinue) {
+    if (Test-Python2 -Exe 'py' -ExeArgs @('-2')) {
+      return [pscustomobject]@{ Exe = 'py'; Args = @('-2') }
+    }
+  }
+
+  # Prefer explicit Python 2 binaries, then fall back to python only if it is v2.
+  foreach ($cand in @('python2', 'pypy2', 'pypy', 'python')) {
+    if (Get-Command $cand -ErrorAction SilentlyContinue) {
+      if (Test-Python2 -Exe $cand) {
+        return [pscustomobject]@{ Exe = $cand; Args = @() }
       }
-    } catch { }
+    }
   }
-  if (Get-Command python -ErrorAction SilentlyContinue) {
-    $ver = & python - <<'PY'
-import sys
-print(sys.version_info[0])
-PY
-    if ($ver -eq 2) { return 'python' }
-  }
+
   return $null
 }
 
 $py = Pick-Python
 if (-not $py) {
-  Write-Error 'gitdm requires Python 2 or PyPy. Install python2/pypy or set GITDM_PY.'
+  Write-Error 'gitdm requires Python 2 or PyPy. Install python2/pypy2 or set GITDM_PY.'
   exit 1
 }
 
 # Pass through stdin/stdout; add -b to point at src/
-& $py $Engine -b "$BaseDir/" @Args
+if ($MyInvocation.ExpectingInput) {
+  $input | & $py.Exe @($py.Args) $Engine -b "$BaseDir/" @Args
+} else {
+  & $py.Exe @($py.Args) $Engine -b "$BaseDir/" @Args
+}
 exit $LASTEXITCODE
