@@ -211,6 +211,7 @@ def DumpDB ():
                                                  empl.name))
         if h.versions:
             out.write ('\tVersions: %s\n' % ','.join (h.versions))
+    out.close ()
 
 #
 # Hack: The first visible tag comes a ways into the stream; when we see it,
@@ -315,13 +316,13 @@ class VirtualEmployer (Employer):
         Employers[self.name] = self
 
 class FileType:
-    def __init__ (self, patterns={}, order=[]):
-        self.patterns = patterns
-        self.order = order
+    def __init__ (self, patterns=None, order=None):
+        self.patterns = patterns if patterns is not None else {}
+        self.order = order if order is not None else []
 
     def guess_file_type (self, filename, patterns=None, order=None):
-        patterns = patterns or self.patterns
-        order = order or self.order
+        patterns = patterns if patterns is not None else self.patterns
+        order = order if order is not None else self.order
 
         for file_type in order:
             if file_type in patterns:
@@ -437,7 +438,8 @@ def MapToEmployer (email, unknown = 0):
     elif unknown == 2:
         return [(nextyear, GetEmployer ('(Unknown)'), False)]
     else:
-        print "Unsupported unknown parameter handling value"
+        print "Unsupported unknown parameter handling value, defaulting to email"
+        return [(nextyear, GetEmployer (email), False)]
 
 
 def LookupEmployer (email, mapunknown = 0):

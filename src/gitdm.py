@@ -268,14 +268,14 @@ def grabpatch(logpatch):
         if m:
             email = database.RemapEmail (m.group (2))
             p.addtester (LookupStoreHacker (m.group (1), email))
-            p.author.testcredit (patch)
+            p.author.testcredit (p)
             continue
         # Reported-by:
         m = patterns['reported-by'].match (Line)
         if m:
             email = database.RemapEmail (m.group (2))
             p.addreporter (LookupStoreHacker (m.group (1), email))
-            p.author.reportcredit (patch)
+            p.author.reportcredit (p)
             continue
         # Reported-and-tested-by:
         m = patterns['reported-and-tested-by'].match (Line)
@@ -284,8 +284,8 @@ def grabpatch(logpatch):
             h = LookupStoreHacker (m.group (1), email)
             p.addreporter (h)
             p.addtester (h)
-            p.author.reportcredit (patch)
-            p.author.testcredit (patch)
+            p.author.reportcredit (p)
+            p.author.testcredit (p)
             continue
         #
         # If this one is a merge, make note of the fact.
