@@ -396,7 +396,11 @@ def AddEmailEmployerMapping (email, employer, end = nextyear, domain = False):
 # LG: Artificial Domains from Hacker's email domain names
 ArtificialDomains = {}
 def GetHackerDomain(dom, email):
-    new_dom = ''.join(map(lambda x: x.lower().capitalize(), dom.split('.')[:-1]))
+    parts = dom.split('.')
+    # If the domain has no dot (e.g. "localhost"), keep the whole value so we
+    # generate a meaningful label instead of just " *".
+    name_parts = parts if len(parts) == 1 else parts[:-1]
+    new_dom = ''.join(map(lambda x: x.lower().capitalize(), name_parts))
     new_dom += ' *'
     key = (new_dom, dom)
     if key not in ArtificialDomains:
@@ -420,7 +424,10 @@ def MapToEmployer (email, unknown = 0):
     if len (namedom) < 2:
         print 'Oops...funky email %s' % email_encode(email)
         return [(nextyear, GetEmployer ('Funky'), False)]
-    s = namedom[1].split ('.')
+    domain = namedom[1]
+    s = domain.split ('.')
+    # Keep a usable default for unknown==1 even when the domain has no dots.
+    addr = domain
     for dots in range (len (s) - 2, -1, -1):
         addr = '.'.join (s[dots:])
         try:
