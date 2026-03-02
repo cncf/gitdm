@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+BDDW:
+	martinflemingdev: martinflemingdev!users.noreply.github.com until 2020-08-01
 BDG Automation Solutions:
 	bdellegrazie: bdellegrazie!users.noreply.github.com from 2019-03-01
 BDNAN:
@@ -6343,7 +6345,7 @@ Broadcom Corporation:
 	AhazIsraeli: Ahaz.Israeli!gmail.com from 2018-10-01
 	AlamyLiu: alamy.liu!gmail.com until 2016-07-01
 	Ankitasw: Ankitasw!users.noreply.github.com, ankita.swamy20!gmail.com, swamyan!vmware.com from 2023-11-01
-	ArkaSaha30: arka.saha!broadcom.com, arkasaha30!gmail.com, arkasaha30!users.noreply.github.com
+	ArkaSaha30: arka.saha!broadcom.com, arkasaha30!gmail.com, arkasaha30!users.noreply.github.com until 2022-05-17
 	DavidRChristensen: davidch!broadcom.com
 	GeetikaBatra: GeetikaBatra!users.noreply.github.com, batrageetika21!gmail.com, geetikab!vmware.com from 2023-11-01
 	IlyaKobelevskiy: IlyaKobelevskiy!users.noreply.github.com from 2023-07-01
@@ -9740,6 +9742,7 @@ Callity Permanent:
 	bdronneau: bdronneau!users.noreply.github.com from 2022-03-01
 Callsign:
 	Trozz: git!leer.dev from 2018-12-01 until 2019-01-01
+	anus-ali: anus-ali!users.noreply.github.com from 2021-11-01 until 2022-03-01
 	apetheriotis: apetheriotis!gmail.com from 2018-02-01 until 2019-05-01
 	graforlock: graforlock!users.noreply.github.com from 2018-07-01 until 2019-06-01
 Calm:
@@ -11142,6 +11145,8 @@ Cars.co.za:
 Cars.com:
 	ajose01: ajose01!gmail.com, ajose01!users.noreply.github.com from 2020-03-01
 	shanesveller: shanesveller!users.noreply.github.com from 2019-10-01 until 2021-04-01
+Cars24:
+	anshikavashistha: anshikavashistha!users.noreply.github.com from 2025-03-01 until 2025-06-01
 Carsat:
 	tperelle: thomas!gravitek.io until 2017-08-01
 Carta:
@@ -15966,9 +15971,3 @@ Cloudical:
 Cloudify Platform Ltd.:
 	iliapolo: Eli.polonsky!gmail.com until 2015-06-01
 	mcouthon: mcouthon!users.noreply.github.com from 2016-05-01 until 2018-12-01
-Cloudily:
-	cybercyst: cybercyst!users.noreply.github.com from 2021-06-01 until 2022-04-01
-Cloudinary:
-	CodeJjang: CodeJjang!users.noreply.github.com from 2021-12-01
-Cloudini:
-	csabakollar: csabakollar!users.noreply.github.com from 2020-11-01 until 2022-01-01

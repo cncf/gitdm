@@ -2,6 +2,22 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Nexenta Systems Inc.:
+	Ramzec: roman.strashkin!nexenta.com
+	alhazred: a.eremin!nexenta.com
+	antonfisher: anton.fisher!nexenta.com, antonfisher!users.noreply.github.com
+	autosupport: autosupport!users.noreply.github.com, dmitry.yusupov!nexenta.com
+	bprotopopov: boris.protopopov!actifio.com, boris.protopopov!nexenta.com, bprotopopov!users.noreply.github.com until 2014-01-01
+	caitlinbestler: cait!asomi.com, caitlinbestler!users.noreply.github.com until 2018-10-01
+	davoam: david.stepanov!nexenta.com
+	dyusupov: dmitry!nexenta.com, dyusupov!users.noreply.github.com
+	gila: Jeffry.molanus!gmail.com, gila!users.noreply.github.com, jeffry.molanus!openebs.io until 2016-09-01
+	jkryl: jan.kryl!cloudbyte.com, jan.kryl!mayadata.io, jkryl!users.noreply.github.com until 2017-08-01
+	kschoche: kschoche!users.noreply.github.com until 2018-02-01
+	mtelka: marcel!telka.sk, marcel.telka!nexenta.com until 2016-04-01
+	mtzaurus: mtzaurus!gmail.com until 2020-11-01
+	sabbot: Anton.Skriptsov!nexenta.com, sabbot!users.noreply.github.com, sabbotagge!gmail.com
+	xvoidz: yuri.pankov!nexenta.com
 Nexenta by DDN:
 	dsavitskiy: dmitry.savitsky!datacore.com, dsavitskiy!users.noreply.github.com, kona4kona!gmail.com until 2021-06-01
 Nexergy.co:
@@ -473,6 +489,8 @@ Nines:
 	andrewring: andrew!andrewring.dev from 2019-01-01 until 2022-02-01
 Nineteen Feet:
 	akrabat: rob!akrabat.com
+Ninja:
+	anus-ali: anus-ali!users.noreply.github.com from 2024-10-01
 Ninja Blocks:
 	elliots: elliot!identitii.com, elliots!users.noreply.github.com until 2015-05-01
 	wolfeidau: wolfeidau!users.noreply.github.com until 2015-05-01
@@ -1279,6 +1297,8 @@ Norse:
 	StasPiv: StasPiv!users.noreply.github.com from 2015-07-01 until 2018-11-01
 Norseal Ltd:
 	notrab: hi_jamie!me.com, jamie!notrab.dev, notrab!users.noreply.github.com until 2017-12-01
+Norseman:
+	armunro: armunro!users.noreply.github.com until 2015-10-01
 Norsk Helsenett:
 	runemy: runemy!users.noreply.github.com from 2020-04-01
 Norsk Tipping:
@@ -6449,6 +6469,7 @@ Outreachy:
 	Sagarpreet: Sagarpreet!users.noreply.github.com from 2018-12-01 until 2019-03-01
 	Shorla: Shorla!users.noreply.github.com from 2021-12-01 until 2022-03-01
 	akoserwal: akoserwal!users.noreply.github.com until 2015-07-01
+	anshikavashistha: anshikavashistha!users.noreply.github.com from 2024-02-01 until 2024-07-01
 	azuretek: azuretek!users.noreply.github.com from 2017-11-01
 	davidquarles: david.e.quarles!gmail.com, davidquarles!users.noreply.github.com from 2018-02-01 until 2020-01-01
 	deregtd: deregtd!users.noreply.github.com from 2019-10-01
@@ -8467,6 +8488,8 @@ Passman:
 	jfdumont: jfdumont!users.noreply.github.com
 Passport Internship:
 	bpickard22: bpickard22!users.noreply.github.com from 2019-05-01 until 2019-07-01
+Passthrough:
+	base698: base698!users.noreply.github.com from 2025-04-01 until 2026-02-01
 Pat Solution:
 	jjbubudi: jjbubudi!gmail.com, jjbubudi!users.noreply.github.com until 2014-10-01
 Patagona:
@@ -8490,6 +8513,8 @@ Pathbird:
 	travigd: travigd!users.noreply.github.com from 2021-10-01
 Pathfind:
 	francilioaraujo: francilioaraujo!gmail.com, francilioaraujo!users.noreply.github.com from 2018-04-01 until 2021-02-01
+Pathfinder:
+	andrewmelis: andrewmelis!gmail.com, andrewmelis!users.noreply.github.com until 2014-06-01
 Pathgather:
 	jimisan: jim!2thestars.ru, jimisan!users.noreply.github.com, jm.wlkr1!gmail.com
 Pathlight:
