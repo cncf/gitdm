@@ -1229,6 +1229,8 @@ src-code: src-code!users.noreply.github.com
 	Yahoo! Inc. from 2021-09-01
 srcLurker: css!google.com
 	Google LLC
+srclosson: 7053010+srclosson!users.noreply.github.com, srclosson!users.noreply.github.com, srclosson!gmail.com
+	Grafana Labs from 2019-09-01
 sre: sebastian.reichel!collabora.co.uk, sebastian.reichel!collabora.com, sre!debian.org, sre!kernel.org, sre!ring0.de
 	Debian until 2017-04-01
 	Independent from 2017-04-01
@@ -7298,10 +7300,11 @@ tedsmitt: ed!edintheclouds.io
 	OBT Live from 2019-08-01
 tedsteen: ted.steen!gmail.com
 	Independent
-tedsuo: ted!lightstep.com, tedsuo!users.noreply.github.com
+tedsuo: ted!lightstep.com, 24074+tedsuo!users.noreply.github.com, tedsuo!users.noreply.github.com, ted!tedsuo.com
 	Pivotal until 2016-10-01
 	Independent from 2016-10-01 until 2017-01-01
-	LightStep Inc. from 2017-01-01
+	LightStep Inc. from 2017-01-01 until 2025-03-01
+	Grafana Labs from 2025-03-01
 tedtramonte: tedtramonte!users.noreply.github.com
 	J.Crew until 2015-12-01
 	Independent from 2015-12-01 until 2016-07-01
@@ -11186,6 +11189,8 @@ toddnni: toddnni!users.noreply.github.com, toni.ylenius!cybercom.com
 	Cybercom Group AB
 toddpoynor: toddpoynor!google.com, toddpoynor!users.noreply.github.com
 	Google LLC
+toddtreece: 360020+toddtreece!users.noreply.github.com, toddtreece!users.noreply.github.com
+	Grafana Labs from 2021-04-01
 toddysm: toddysm!users.noreply.github.com
 	Agitare until 2020-03-14
 	Microsoft Corporation from 2020-03-14
@@ -11427,6 +11432,8 @@ tomberget: tomberget!users.noreply.github.com, toms.berget!gmail.com
 	TietoEVRY from 2021-01-01
 tombokombo: tombokombo!users.noreply.github.com
 	SysArt
+tombrk: 26971117+tombrk!users.noreply.github.com, tombrk!users.noreply.github.com
+	Grafana Labs from 2019-07-01
 tombruijn: tom!tomdebruijn.com, tombruijn!users.noreply.github.com
 	Keplar Agency until 2016-07-01
 	Independent from 2016-07-01 until 2018-04-01
@@ -11453,6 +11460,8 @@ tombuuz: ldagvanorov!gmail.com
 tomchwojkofrank: tomchwojkofrank!users.noreply.github.com
 	VP of R&D until 2016-11-01
 	Independent from 2016-11-01
+tomclqncy: 10931458+tomclqncy!users.noreply.github.com, tomclqncy!users.noreply.github.com
+	Grafana Labs from 2022-10-01
 tomconte: tomconte!users.noreply.github.com
 	Microsoft Corporation
 tomcruise81: tomcruise81!users.noreply.github.com
@@ -16281,6 +16290,8 @@ verdverm: verdverm!users.noreply.github.com
 	Independent from 2017-06-01 until 2019-06-01
 	Ferrum Health from 2019-06-01 until 2019-10-01
 	Astronomer from 2019-10-01
+verejoel: 46783161+verejoel!users.noreply.github.com, verejoel!users.noreply.github.com
+	Grafana Labs from 2025-11-01
 verma-kunal: verma-kunal!users.noreply.github.com
 	Independent until 2021-07-01
 	Community Classroom from 2021-07-01 until 2021-09-01
@@ -18291,6 +18302,8 @@ vmr1532: vmr1532!users.noreply.github.com
 	Meta Platforms Inc. from 2021-08-01
 vmsh0: vmsh0!users.noreply.github.com
 	Independent
+vmtocloud: 10639221+vmtocloud!users.noreply.github.com, vmtocloud!users.noreply.github.com
+	Grafana Labs from 2024-11-01
 vmtyler: tbritten!us.ibm.com, vmtyler!users.noreply.github.com
 	EMC until 2015-06-30
 	Blue Box Group from 2015-06-30
