@@ -608,8 +608,9 @@ portellaa: lcportellaa!gmail.com, portellaa!users.noreply.github.com
 	YData from 2020-02-01
 portepa: porte.pierreantoine!gmail.com, portepa!users.noreply.github.com
 	Pivotal
-portertech: portertech!gmail.com, portertech!users.noreply.github.com
-	Sensu Inc
+portertech: portertech!gmail.com, 149630+portertech!users.noreply.github.com, portertech!users.noreply.github.com
+	Sensu Inc until 2024-08-01
+	Grafana Labs from 2024-08-01
 portovep: portovep!tcd.ie
 	ThoughtWorks Inc
 pose: albertopose!gmail.com, pose!users.noreply.github.com
@@ -3972,6 +3973,8 @@ rafa-acioly: aciolyr!gmail.com, rafa-acioly!users.noreply.github.com
 	Independent from 2020-08-01 until 2020-10-01
 	Gympass from 2020-10-01 until 2022-07-01
 	Grupo Boticário from 2022-07-01
+rafa-munoz: 23944+rafa-munoz!users.noreply.github.com, rafa-munoz!users.noreply.github.com
+	Grafana Labs from 2021-06-01
 rafabene: benevides!redhat.com, pgrepps!savi.com, rafabene!gmail.com, rafabene!users.noreply.github.com, vladimirfol!gmail.com, yogeshkumar180592!gmail.com
 	Red Hat Inc.
 rafadc: rafadc!users.noreply.github.com, rafael!micubiculo.com
@@ -9184,6 +9187,8 @@ robert-cronin: robert!robertcronin.com, robert.cronin!uqconnect.edu.au, robert.o
 	Microsoft Corporation
 robert-hoo: robert.hu!intel.com
 	Intel Corporation
+robert-northmind: 59053438+robert-northmind!users.noreply.github.com, robert-northmind!users.noreply.github.com
+	Grafana Labs from 2024-01-01
 robert-shade: robert.shade!gmail.com
 	Coleman Technologies Inc. until 2018-01-01
 	Presidio Inc. from 2018-01-01 until 2018-02-01
@@ -10194,8 +10199,9 @@ roi-codefresh: roi-codefresh!users.noreply.github.com
 	Codefresh Inc. from 2020-02-01
 roidayan: roid!mellanox.com
 	Mellanox
-roidelapluie: roidelapluie!gmail.com, roidelapluie!inuits.eu, roidelapluie!users.noreply.github.com
-	Inuits
+roidelapluie: roidelapluie!gmail.com, roidelapluie!inuits.eu, 291750+roidelapluie!users.noreply.github.com, roidelapluie!users.noreply.github.com
+	Inuits until 2025-03-01
+	Grafana Labs from 2025-03-01
 roiravhon: roi!roiravhon.com
 	Logshero Ltd.
 roivaz: roivaz!users.noreply.github.com, roivazquez!gmail.com
@@ -11906,6 +11912,8 @@ ruskofd: ruskofd!users.noreply.github.com
 	CESI from 2019-02-01 until 2020-07-01
 	SIA Worldline Latvia from 2020-07-01 until 2023-04-01
 	ADEO from 2023-04-01
+ruslan-mikhailov: 195758209+ruslan-mikhailov!users.noreply.github.com, ruslan-mikhailov!users.noreply.github.com
+	Grafana Labs from 2025-02-01
 ruslantum: ruslantum!users.noreply.github.com
 	Silpion IT
 russellb: rbryant!redhat.com, russell!russellbryant.net, russellb!users.noreply.github.com
@@ -16388,8 +16396,9 @@ sd-buildbot: sd-buildbot!users.noreply.github.com
 	b
 sd-buildbot-functional: sd-buildbot-functional!users.noreply.github.com
 	b
-sd2k: ben.sully!yougov.com, ben.sully88!gmail.com, jginsburgn!gmail.com, sd2k!users.noreply.github.com
-	YouGov
+sd2k: ben.sully!yougov.com, ben.sully88!gmail.com, jginsburgn!gmail.com, 5464991+sd2k!users.noreply.github.com, sd2k!users.noreply.github.com
+	YouGov until 2021-02-01
+	Grafana Labs from 2021-02-01
 sdadh01: sdadh01!users.noreply.github.com
 	techopsguru
 sdague: sdague!users.noreply.github.com, sean!dague.net
@@ -16558,6 +16567,8 @@ sealmove: sealmove!users.noreply.github.com
 	Incelligent from 2023-01-01
 seamounts: 15010828953!163.com, seamounts!users.noreply.github.com
 	NetEase Inc
+seamusgrafana: 102023327+seamusgrafana!users.noreply.github.com, seamusgrafana!users.noreply.github.com
+	Grafana Labs from 2022-03-01
 sean-: sean!chittenden.org, sean-!users.noreply.github.com
 	HashiCorp Inc
 sean-jc: sean.j.christopherson!intel.com

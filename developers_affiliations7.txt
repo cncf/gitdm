@@ -1315,10 +1315,11 @@ mbarrien: mbarrien!users.noreply.github.com, mike!syapse.com
 mbasmanova: mbasmanova!users.noreply.github.com
 	VMware Inc. until 2014-09-01
 	Meta Platforms Inc. from 2014-09-01
-mbaykara: mbaykara!users.noreply.github.com, mehmetalibaykara!gmail.com
+mbaykara: 31475871+mbaykara!users.noreply.github.com, mbaykara!users.noreply.github.com, mehmetalibaykara!gmail.com
 	Independent until 2019-04-01
 	encoway from 2019-04-01 until 2021-01-01
-	TeamViewer from 2021-01-01
+	TeamViewer from 2021-01-01 until 2024-09-01
+	Grafana Labs from 2024-09-01
 mbbroberg: 1744971+mbbroberg!users.noreply.github.com, mbbroberg!users.noreply.github.com
 	Infinio until 2014-12-01
 	Basho from 2014-12-01 until 2015-12-01
@@ -9579,11 +9580,12 @@ mstsirkin: mst!redhat.com
 	Red Hat Inc.
 mstump: mrevilgnome!gmail.com, mstump!users.noreply.github.com
 	Vorstella Corp
-mstumpfx: mstumpf!signalfx.com, mstumpfx!users.noreply.github.com
+mstumpfx: mstumpf!signalfx.com, 31015658+mstumpfx!users.noreply.github.com, mstumpfx!users.noreply.github.com
 	Elster until 2015-09-01
 	Independent from 2015-09-01 until 2017-08-01
 	SignalFx Inc. from 2017-08-01 until 2019-10-01
-	Splunk Inc. from 2019-10-01
+	Splunk Inc. from 2019-10-01 until 2024-11-01
+	Grafana Labs from 2024-11-01
 msukalski: mitch.sukalski!gmail.com, mitch.sukalski!workday.com, msukalski!users.noreply.github.com
 	Pertino until 2015-12-01
 	Cradlepoint Inc from 2015-12-01 until 2019-01-01
@@ -11151,6 +11153,8 @@ nadiaciobanu: nadiaciobanu!users.noreply.github.com
 	Independent from 2019-08-01 until 2020-05-01
 	Google LLC from 2020-05-01 until 2020-08-01
 	Independent from 2020-08-01
+nadiamoe: 969721+nadiamoe!users.noreply.github.com, nadiamoe!users.noreply.github.com
+	Grafana Labs from 2023-04-01
 nadiatk: natkach!microsoft.com
 	Microsoft Corporation
 nadihagh: nadihagh!users.noreply.github.com, sina.nadihagh!gmail.com
@@ -13921,6 +13925,8 @@ nicolerenee: nicole!nicolerenee.io, nicolerenee!users.noreply.github.com
 	WPEngine Inc.
 nicolethoen: nicolemthoen!gmail.com, nicolethoen!users.noreply.github.com, nthoen!redhat.com
 	Red Hat Inc.
+nicolevanderhoeven: 36070553+nicolevanderhoeven!users.noreply.github.com, nicolevanderhoeven!users.noreply.github.com
+	Grafana Labs from 2021-06-01
 nicolo-ribaudo: nicolo-ribaudo!users.noreply.github.com, nicolo.ribaudo!gmail.com
 	Independent until 2017-08-01
 	BabelJS from 2017-08-01
@@ -15096,6 +15102,8 @@ njuettner: hello!juni.io, nick!juni.io, nick!zalando.de, nick.juettner!zalando.d
 	Giant Swarm GmbH from 2020-04-01
 njuicsgz: gaozheng0123!163.com, njuicsgz!users.noreply.github.com
 	NetEase Inc
+njvrzm: 19716792+njvrzm!users.noreply.github.com, njvrzm!users.noreply.github.com
+	Grafana Labs from 2024-01-01
 nkanish2002: nkanish2002!users.noreply.github.com
 	Boeing until 2014-12-01
 	Symantec Corporation from 2014-12-01 until 2015-11-01
@@ -15900,6 +15908,8 @@ nparfait: nparfait!users.noreply.github.com
 npaton: npaton!users.noreply.github.com
 	Consultant until 2017-12-01
 	MantisNet from 2017-12-01
+npazosmendez: 32206519+npazosmendez!users.noreply.github.com, npazosmendez!users.noreply.github.com
+	Grafana Labs from 2022-06-01
 npdgm: npdgm!users.noreply.github.com
 	Enix SAS
 npentrel: npentrel!users.noreply.github.com
@@ -16699,6 +16709,8 @@ obeleh: obeleh!users.noreply.github.com, sjanssen!insign.it
 	Kabisa B.V. from 2018-12-01
 oberpar: oberpar!linux.ibm.com, oberpar!linux.vnet.ibm.com
 	International Business Machines Corporation
+obetomuniz: 1680157+obetomuniz!users.noreply.github.com, obetomuniz!users.noreply.github.com
+	Grafana Labs from 2022-06-01
 obeyda: djefobey!gmail.com, obeyda!users.noreply.github.com
 	Independent until 2016-06-01
 	Redfabriq from 2016-06-01 until 2017-02-01
@@ -17367,6 +17379,8 @@ oleg-filiutsich: oleg-filiutsich!users.noreply.github.com
 	EPAM Systems Inc until 2017-02-01
 	IDFinance from 2017-02-01 until 2019-10-01
 	Stark Games from 2019-10-01
+oleg-kozlyuk-grafana: 229985674+oleg-kozlyuk-grafana!users.noreply.github.com, oleg-kozlyuk-grafana!users.noreply.github.com
+	Grafana Labs from 2025-09-01
 oleg-nenashev: kim!letkeman.net, nenashev!synopsys.com, o.v.nenashev!gmail.com
 	Independent until 2015-04-01
 	CloudBees Inc. from 2015-04-01
@@ -22139,11 +22153,12 @@ petethepig: dmitry.filimonov!grafana.com, petethepig!users.noreply.github.com
 petetnt: pete.a.nykanen!gmail.com, petelive138!gmail.com, petetnt!users.noreply.github.com
 	Upknowledge until 2016-04-01
 	Motley Agency from 2016-04-01
-petewall: petewall!users.noreply.github.com
+petewall: 2235675+petewall!users.noreply.github.com, petewall!users.noreply.github.com
 	Sift Limited group until 2016-09-01
 	AREA15 from 2016-09-01 until 2018-06-01
 	Pivotal from 2018-06-01 until 2020-01-01
-	VMware Inc. from 2020-01-01
+	VMware Inc. from 2020-01-01 until 2023-01-01
+	Grafana Labs from 2023-01-01
 petewarden: pete!petewarden.com
 	Google LLC
 petkaantonov: petka.antonov!gmail.com, petka_antonov!hotmail.com, petkaantonov!users.noreply.github.com
