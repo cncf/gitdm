@@ -2,6 +2,67 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+axiForSure:
+	RameshByndoor: RameshByndoor!users.noreply.github.com from 2015-02-01 until 2015-07-01
+axilaris:
+	Anonyfox: Anonyfox!users.noreply.github.com from 2015-01-01 until 2016-03-01
+axity:
+	walejandromt: walejandromt!gmail.com from 2017-10-01 until 2018-11-01
+ayush.:
+	is-it-ayush: is-it-ayush!users.noreply.github.com from 2024-01-01
+azerbe:
+	azerbe: azerbe!users.noreply.github.com
+b:
+	Box-Cube: Box-Cube!users.noreply.github.com
+	CLAassistant: CLAassistant!users.noreply.github.com
+	FewBox: FewBox!users.noreply.github.com
+	Identitry: Identitry!users.noreply.github.com
+	KuberDriver: KuberDriver!users.noreply.github.com
+	bitfex: 35873563+bitfex!users.noreply.github.com, bitfex!users.noreply.github.com
+	blackduck-serv-builder: blackduck-serv-builder!users.noreply.github.com
+	bordenit: bordenit!users.noreply.github.com
+	cloudties: cloudties!users.noreply.github.com, info!cloudties.in
+	ddbXJ: lxj9207!gmail.com
+	fermybot: fermybot!users.noreply.github.com
+	goodluckbot: goodluckbot!users.noreply.github.com
+	hari819: hari819!users.noreply.github.com
+	jfrog: jfrog!users.noreply.github.com
+	jfrogbot: jfrogbot!users.noreply.github.com
+	jsdelivrbot: dak!prospectone.io, jsdelivrbot!users.noreply.github.com
+	loadfocuscom: loadfocus!gmail.com, loadfocuscom!users.noreply.github.com
+	megaeasebot: megaeasebot!users.noreply.github.com
+	nuclecloud: nuclecloud!users.noreply.github.com
+	opencurve: opencurve!users.noreply.github.com
+	pivotal-issuemaster: pivotal-issuemaster!users.noreply.github.com
+	pixie-labs-buildbot: pixie-labs-buildbot!users.noreply.github.com
+	sd-buildbot: sd-buildbot!users.noreply.github.com
+	sd-buildbot-functional: sd-buildbot-functional!users.noreply.github.com
+	shinji3887: shinji3887!users.noreply.github.com
+	simplysoft: simplysoft!users.noreply.github.com
+	sonofmagic: 1324318532!qq.com, sonofmagic!users.noreply.github.com
+	wadjei: wadjei!bloomberg.net
+	wasmcloud-automation: wasmcloud-automation!users.noreply.github.com
+	your-azure-coach: your-azure-coach!users.noreply.github.com
+b-data:
+	benz0li: benz0li!users.noreply.github.com from 2015-12-01 until 2020-03-01
+b-nova Schweiz GmbH:
+	bnova-stefan: bnova-stefan!users.noreply.github.com, stefan.welsch!b-nova.com from 2017-04-01
+b.telligent:
+	LaurenzReitsam: LaurenzReitsam!users.noreply.github.com from 2020-11-01
+b.well:
+	cajual: cajual!users.noreply.github.com from 2020-02-01 until 2020-10-01
+b2bpolis:
+	yuridevx: yuridevx!users.noreply.github.com from 2016-02-01 until 2018-11-01
+bGrid:
+	mfiumara: mattia.fiumara!bgridsolutions.com from 2017-09-01
+bPol:
+	pshanoop: pshanoop!users.noreply.github.com from 2016-04-01 until 2018-07-01
+bSmart:
+	masterkain: masterkain!gmail.com, masterkain!users.noreply.github.com from 2019-03-01
+baai:
+	lvsizhe: lvsizhe!gmail.com
+bab.la GmbH:
+	schantaraud: 32103189+schantaraud!users.noreply.github.com, samuel.chantaraud!messagepoint.com, schantaraud!users.noreply.github.com until 2016-05-01
 babelforce:
 	azkore: azcore!gmail.com, azkore!users.noreply.github.com from 2019-04-01
 	eyablokov: eyablokov!me.com, eyablokov!users.noreply.github.com from 2020-05-01 until 2020-08-01
@@ -1715,7 +1776,7 @@ encaptiv:
 encloud:
 	Deepansharora27: Deepansharora27!users.noreply.github.com from 2022-09-01 until 2025-01-01
 encoway:
-	mbaykara: mbaykara!users.noreply.github.com, mehmetalibaykara!gmail.com from 2019-04-01 until 2021-01-01
+	mbaykara: 31475871+mbaykara!users.noreply.github.com, mbaykara!users.noreply.github.com, mehmetalibaykara!gmail.com from 2019-04-01 until 2021-01-01
 enechain:
 	nakker1218: nakker1218!users.noreply.github.com
 enercity:
@@ -2054,6 +2115,8 @@ floch + ebeling:
 	bfloch: bfloch!users.noreply.github.com until 2016-02-01
 flomesh:
 	cybwan: baili!flomesh.io
+flowbank:
+	cluster2600: cluster2600!users.noreply.github.com from 2023-06-01 until 2024-06-01
 fluct:
 	acomagu: yuki!gnnk.net until 2014-06-01
 	mururu: dude!noderiety.com, mururu!users.noreply.github.com, yuki!gnnk.net, yuki.mururu!gmail.com until 2014-06-01
@@ -2300,7 +2363,7 @@ greymatter.io:
 gridX:
 	MarcelMue: MarcelMue!users.noreply.github.com, marcel.mueller1!rwth-aachen.de from 2024-01-01
 	TanZng: TanZng!users.noreply.github.com from 2023-06-01
-	juliusmh: juliusmh!web.de from 2019-01-01 until 2023-08-01
+	juliusmh: 7480158+juliusmh!users.noreply.github.com, juliusmh!users.noreply.github.com, juliusmh!web.de from 2019-01-01 until 2023-08-01
 	michaelbeaumont: michaelbeaumont!users.noreply.github.com, michaelbeaumont!weave.works, mjboamail!gmail.com from 2021-03-01 until 2021-09-01
 	schogges: schogges!users.noreply.github.com
 gridscale:
@@ -4751,7 +4814,7 @@ observIQ:
 	dsvanlani: dsvanlani!users.noreply.github.com from 2021-01-01
 	jmwilliams89: jmwilliams89!users.noreply.github.com from 2021-07-12
 	jsirianni: joe.sirianni!bluemedora.com, jsirianni!users.noreply.github.com from 2020-07-01
-	kuiperda: kuiperda!users.noreply.github.com from 2023-01-01
+	kuiperda: 44123852+kuiperda!users.noreply.github.com, kuiperda!users.noreply.github.com from 2023-01-01 until 2026-02-01
 	schmikei: schmikei!users.noreply.github.com from 2021-10-01
 ochen Schweizer mydays:
 	aplr: aplr!users.noreply.github.com from 2022-03-01 until 2022-08-01
