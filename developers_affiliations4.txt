@@ -5,6 +5,52 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+chunye: chunye!microsoft.com
+	Microsoft Corporation
+chunyeow: yeohchunyeow!cozybit.com, yeohchunyeow!gmail.com
+	Deutsche Telekom AG
+chupark: qkrcldn12!gmail.com
+	네이버클라우드
+chupman: chris.hupman!gmail.com, chupman!us.ibm.com, chupman!users.noreply.github.com
+	International Business Machines Corporation
+chusteven: chusteven!users.noreply.github.com
+	Fandor until 2015-07-01
+	Cornerstone OnDemand from 2015-07-01 until 2017-08-01
+	Meta Platforms Inc. from 2017-08-01 until 2019-12-01
+	Yelp Inc. from 2019-12-01 until 2022-06-01
+	Block from 2022-06-01
+chuyangliu: chuyangliu!users.noreply.github.com
+	Independent until 2017-08-01
+	Tencent from 2017-08-01 until 2018-10-01
+	Independent from 2018-10-01 until 2019-05-01
+	Microsoft Corporation from 2019-05-01 until 2019-08-01
+	Independent from 2019-08-01 until 2020-07-01
+	Microsoft Corporation from 2020-07-01
+chvck: chvck!users.noreply.github.com, chvckd!gmail.com
+	Exony until 2015-02-01
+	WEST COAST SOFTWARE from 2015-02-01 until 2016-09-01
+	Independent from 2016-09-01 until 2016-12-01
+	Gamebuildr.io from 2016-12-01 until 2017-07-01
+	National Library of Wales from 2017-07-01 until 2018-04-01
+	Couchbase Inc. from 2018-04-01
+chwarr: chwarr!microsoft.com, chwarr!users.noreply.github.com
+	Microsoft Corporation
+chxchx: chx!google.com, chxchx!users.noreply.github.com
+	Google LLC until 2018-12-01
+	HBUS from 2018-12-01
+chyczewski-maciej: chyczewski-maciej!users.noreply.github.com
+	Independent until 2017-09-01
+	Rubrikk from 2017-09-01 until 2019-03-01
+	Komplett Bank from 2019-03-01 until 2019-06-01
+	Rubrikk from 2019-06-01
+chyeh: chyeh!users.noreply.github.com
+	Zalando SE
+chymy: 928588056!qq.com, chymy!users.noreply.github.com
+	ZTE Corporation
+chzbrgr71: chzbrgr71!users.noreply.github.com
+	Microsoft Corporation
+chzhj: chzhj!users.noreply.github.com
+	Alibaba Group
 chzhyang: chzhyang!users.noreply.github.com, ge.yang!intel.com
 	Intel Corporation
 ci-robbot: ci-robbot!users.noreply.github.com
@@ -3402,6 +3448,9 @@ cschp: cs.chpmn!gmail.com
 	EDB from 2021-10-01
 cschwede: info!cschwede.de
 	Red Hat Inc.
+cschyma: cschyma!users.noreply.github.com
+	Independent until 2015-07-01
+	Festo from 2015-07-01
 csdaraujo: csdaraujo!users.noreply.github.com
 	ChefsClub until 2015-12-01
 	Independent from 2015-12-01 until 2016-03-01
@@ -13623,7 +13672,8 @@ dozer75: dozer75!users.noreply.github.com
 	Independent from 2019-06-01 until 2019-10-01
 	Axiell from 2019-10-01
 dpacheconr: dpacheconr!users.noreply.github.com
-	New Relic from 2022-02-01
+	Independent until 2022-02-01
+	New Relic Inc. from 2022-02-01
 dpacierpnik: dpacierpnik!users.noreply.github.com
 	SoftArch until 2015-12-01
 	SAP from 2015-12-01 until 2018-08-01
@@ -19903,6 +19953,11 @@ erihanse: erihanse!outlook.com, erihanse!users.noreply.github.com
 	Independent from 2016-10-01 until 2016-11-01
 	Manag-E from 2016-11-01 until 2018-02-01
 	Netcompany from 2018-02-01
+erik-h: erik-h!users.noreply.github.com
+	Independent until 2018-09-01
+	Spieker Point from 2018-09-01 until 2023-01-01
+	IronSight from 2023-01-01 until 2023-09-01
+	Actenum from 2023-09-01
 erik1o6: erik.arfvidson!gmail.com
 	Unisys until 2017-05-01
 	Pakurity from 2017-05-01 until 2018-09-01
@@ -20588,6 +20643,10 @@ ethnt: ethan!turkeltaub.dev
 	Aircall.io. Inc. from 2018-03-01 until 2020-02-01
 	Enlitic from 2020-02-01 until 2021-01-01
 	Stripe Inc. from 2021-01-01
+etho201: etho201!users.noreply.github.com
+	Boeing until 2020-09-01
+	Booz Allen Hamilton Inc from 2020-09-01 until 2021-09-01
+	Oracle America Inc. from 2021-09-01
 etichy: etichy!users.noreply.github.com
 	Independent until 2016-11-01
 	SolarWinds Worldwide LLC from 2016-11-01
@@ -23782,63 +23841,3 @@ florianlacreuse: florian.lacreuse!kobalt.fr, florianlacreuse!users.noreply.githu
 	Kobalt from 2017-12-01
 florianorpeliere: florian.orpeliere!dailymotion.com, florian.orpeliere!gmail.com, florianorpeliere!users.noreply.github.com
 	DAILYMOTION SA
-florianrusch: florianrusch!users.noreply.github.com, git!florianrusch.de
-	Florian Rusch Webservices until 2017-03-01
-	SAP from 2017-03-01 until 2017-08-01
-	Cluetec from 2017-08-01
-florianschmidt1994: florianschmidt1994!users.noreply.github.com
-	Independent until 2017-07-01
-	DataTorrent from 2017-07-01 until 2017-10-01
-	Independent from 2017-10-01 until 2017-12-01
-	Apache from 2017-12-01 until 2019-06-01
-	Independent from 2019-06-01 until 2020-06-01
-	Netlight from 2020-06-01
-florianstoeber: florianstoeber!users.noreply.github.com
-	Independent until 2019-10-01
-	Reply from 2019-10-01
-floriantraber: floriantraber!users.noreply.github.com, github!floriantraber.de
-	Mattern Consult until 2016-04-01
-	Avanade Inc. from 2016-04-01
-floric: floric!users.noreply.github.com
-	LeFx until 2016-09-01
-	AWS from 2016-09-01 until 2017-03-01
-	Mercateo from 2017-03-01 until 2018-10-01
-	Capgemini from 2018-10-01 until 2020-10-01
-	DB Systel GmbH from 2020-10-01
-florimondmanca: florimondmanca!users.noreply.github.com
-	Independent until 2017-08-01
-	Thales from 2017-08-01 until 2018-01-01
-	Independent from 2018-01-01 until 2018-03-01
-	ComplyAdvantage from 2018-03-01 until 2018-08-01
-	Independent from 2018-08-01 until 2019-05-01
-	Padoa from 2019-05-01 until 2019-10-01
-	Datadog Inc from 2019-10-01 until 2021-03-01
-	Independent from 2021-03-01 until 2021-11-01
-	Fairness from 2021-11-01
-florincoras: florin.coras!gmail.com
-	Cisco Systems Inc.
-florindragos: florindragos!users.noreply.github.com
-	Uhuru until 2015-01-01
-	Hewlett from 2015-01-01 until 2018-05-01
-	Puppet from 2018-05-01 until 2021-08-01
-	Aserto from 2021-08-01
-florinpapa: florin.papa!intel.com, florin.papa192!gmail.com
-	Intel Corporation
-floryut: florian234!hotmail.com, floryut!users.noreply.github.com
-	CGI until 2020-07-01
-	SFEIR SA from 2020-07-01 until 2021-06-01
-	Agaetis from 2021-06-01
-flosell: florian.sellmayr!gmail.com
-	ThoughtWorks Inc
-flostadler: flostadler!users.noreply.github.com, flrn.stdlr!gmail.com
-	BMW until 2016-02-01
-	Independent from 2016-02-01 until 2016-11-01
-	YAZAKI from 2016-11-01 until 2017-11-01
-	iNTENCE from 2017-11-01 until 2020-01-01
-	AWS from 2020-01-01 until 2022-03-01
-	Twilio from 2022-03-01 until 2024-03-01
-	Pulumi from 2024-03-01
-flowerinthenight: flowerinthenight!users.noreply.github.com, root!flowerinthenight.com
-	Alphaus
-flowftw: flowftw!users.noreply.github.com
-	Independent

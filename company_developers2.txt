@@ -2,6 +2,24 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+BCI Burke:
+	nbjohnson: nbjohnson!users.noreply.github.com from 2016-08-01 until 2017-12-01
+BCIS:
+	Nerzal: theel.tobias!gmx.de until 2018-06-01
+BCIS IT-Systeme:
+	GameScripting: GameScripting!users.noreply.github.com until 2015-03-01
+BCLOUD:
+	bsctl: bsctl!users.noreply.github.com from 2015-11-01 until 2016-12-10
+BCM Energy:
+	DylanBowden: DylanBowden!users.noreply.github.com from 2019-03-01
+BCM Solutions:
+	tpfister-form3: tpfister-form3!users.noreply.github.com from 2015-06-01 until 2016-03-01
+BCR:
+	Matei207: Matei207!users.noreply.github.com, t-madavid!hotels.com until 2014-08-01
+BCT:
+	jalseth: jalseth!users.noreply.github.com until 2017-08-01
+BCU:
+	zmmille2: zmmille2!gmail.com, zmmille2!users.noreply.github.com until 2015-01-01
 BCV:
 	jdelafon: jdelafon!users.noreply.github.com from 2020-08-01
 	marcaurele: m!brothier.org, marcaurele!users.noreply.github.com from 2018-10-01 until 2020-08-01
@@ -3507,6 +3525,8 @@ BitMEX:
 	yifan-gu: guyifan1121!gmail.com, yifan-gu!users.noreply.github.com, yifan.gu!coreos.com from 2018-10-01 until 2022-02-01
 BitMart:
 	v-gu: v!vgu.io, v-gu!users.noreply.github.com from 2017-07-01 until 2020-03-01
+BitMetrics:
+	stevedanomodolor: stevedanomodolor!users.noreply.github.com from 2024-11-01
 BitNet Technology Pvt:
 	dmcnaught: dmcnaught!users.noreply.github.com, duncan.mcnaught!welltok.com from 2015-01-15 until 2015-09-15
 BitPagos:
@@ -4918,6 +4938,7 @@ Boeing:
 	bzumhagen: bz.kalashnikov!gmail.com, bzumhagen!users.noreply.github.com until 2015-10-01
 	d-cs: d-cs!users.noreply.github.com from 2016-05-01 until 2017-10-01
 	daogilvie: daogilvie!users.noreply.github.com until 2015-11-01
+	etho201: etho201!users.noreply.github.com until 2020-09-01
 	etungsten: etungsten!users.noreply.github.com from 2017-09-01 until 2019-06-01
 	gspetrou: gspetrou98!gmail.com from 2020-08-01 until 2021-05-01, from 2021-07-01
 	ihcsim: 1330522+ihcsim!users.noreply.github.com, ihcsim!users.noreply.github.com until 2014-09-01
@@ -5310,6 +5331,7 @@ Booz Allen Hamilton Inc:
 	connor1989: connor1989!users.noreply.github.com, hoehn_connor!bah.com from 2017-08-01 until 2019-12-01
 	csteegz: csteegz!users.noreply.github.com from 2015-06-01 until 2015-08-01
 	ecda909: Ecda909!gmail.com, ecda909!users.noreply.github.com from 2019-02-01
+	etho201: etho201!users.noreply.github.com from 2020-09-01 until 2021-09-01
 	green2jello: green2jello!users.noreply.github.com from 2019-08-01 until 2020-05-01
 	jpke: j.patrick.earnest!gmail.com, jpke!users.noreply.github.com from 2021-04-01
 	leifliddy: leifliddy!users.noreply.github.com from 2016-11-01
@@ -8290,6 +8312,8 @@ CI&T:
 	tiagoangelozup: tiago.angelo!zup.com.br from 2016-10-01 until 2017-07-01
 	wolvery: GUISIGO!GMAIL.COM from 2020-08-01 until 2020-11-01
 	zamariola: leonardo.zamariola!gmail.com from 2016-07-01 until 2019-01-01, from 2019-08-01
+CIAD:
+	zoriax: zoriax!users.noreply.github.com
 CIAN Group:
 	1it: 1it!users.noreply.github.com until 2015-06-01
 	alexlokotochek: aleksandr.laktionov!phystech.edu from 2017-02-01 until 2018-06-01
@@ -15128,6 +15152,7 @@ Clockwork:
 	GabrielNicolasAvellaneda: GabrielNicolasAvellaneda!users.noreply.github.com, avellaneda.gabriel!gmail.com from 2016-01-01 until 2017-06-01
 	lancetarn: lancetarn!users.noreply.github.com until 2018-02-01
 Clockworks:
+	Overv: Overv!users.noreply.github.com from 2020-01-01
 	OvervCW: OvervCW!users.noreply.github.com from 2020-01-01
 Clodui:
 	cvrajeesh: cvrajeesh!users.noreply.github.com from 2019-07-01 until 2020-02-01
