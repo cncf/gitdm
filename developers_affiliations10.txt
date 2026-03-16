@@ -5,6 +5,75 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+xrow: xrow!users.noreply.github.com
+	xrow
+xrstf: christoph!kubermatic.com, git!xrstf.de, github!xrstf.de, xrstf!users.noreply.github.com
+	Independent until 2018-08-01
+	Kubermatic GmbH from 2018-08-01
+xs3c: w90p710!gmail.com, xs3c!users.noreply.github.com
+	Independent until 2019-07-01
+	知小白信息技术有限公司 from 2019-07-01 until 2019-09-01
+	Independent from 2019-09-01 until 2020-06-01
+	Trend Micro Incorporated from 2020-06-01 until 2020-09-01
+	Independent from 2020-09-01 until 2021-07-01
+	Trend Micro Incorporated from 2021-07-01
+xsa: xsa!users.noreply.github.com
+	International Business Machines Corporation
+xscript: kevinzha!microsoft.com, kvn.zhl!gmail.com
+	Microsoft Corporation
+xsellier: xsellier!gmail.com, xsellier!users.noreply.github.com
+	Schneider Electric until 2015-04-01
+	Hibernum from 2015-04-01 until 2017-03-01
+	Ubisoft from 2017-03-01 until 2017-07-01
+	Binogure Studio from 2017-07-01
+xsgordon: sgordon!redhat.com, stephen.a.gordon!gmail.com, xsgordon!users.noreply.github.com
+	Red Hat Inc.
+xstevens: xstevens!users.noreply.github.com
+	Independent
+xt99: xt99!users.noreply.github.com
+	Soft Serve Inc.
+xtellurian: rianfinnegan!gmail.com, xtellurian!users.noreply.github.com
+	Ramp RFID until 2016-02-01
+	Independent from 2016-02-01 until 2017-07-01
+	Microsoft Corporation from 2017-07-01 until 2019-07-01
+	Independent from 2019-07-01 until 2019-08-01
+	Amphora Data from 2019-08-01
+xtfeng: xtfeng!gmail.com
+	Independent
+xtineskim: xtineskim!users.noreply.github.com
+	Independent until 2021-08-01
+	Google LLC from 2021-08-01
+xtophs: christoph!bracketangles.net, xtophs!users.noreply.github.com
+	Microsoft Corporation
+xtreme-andrew-su: asu!pivotal.io, xtreme-andrew-su!users.noreply.github.com
+	Pivotal
+xtreme-behrouz-soroushian: bsoroushian!pivotal.io
+	Pivotal
+xtreme-conor-nosal: xtreme-conor-nosal!users.noreply.github.com
+	Pivotal
+xtreme-sameer-vohra: svohra!pivotal.io, vohra.sam!gmail.com, xtreme-sameer-vohra!users.noreply.github.com
+	Pivotal until 2020-04-01
+	VMware Inc. from 2020-04-01
+xtreme-stevehiehn: shiehn!pivotal.io, xtreme-stevehiehn!users.noreply.github.com
+	Pivotal until 2018-12-01
+	Independent from 2018-12-01 until 2019-02-01
+	Independent from 2019-02-01
+xtremerui: ruiy!outlook.com, ryang!pivotal.io, xtremerui!users.noreply.github.com
+	Pivotal
+xu-yiping: keczan!live.com, xuyiping!hisilicon.com
+	Hisilicon Technologies Co. Ltd.
+xu0429: xsy04290239!sina.com, xu0429!users.noreply.github.com, xushuyu!inspur.com
+	Inspur Group
+xu1zhou: xu1zhou!users.noreply.github.com, yizhou.xu!intel.com
+	Intel Corporation
+xuan-cao-swi: xuan-cao-swi!users.noreply.github.com
+	SolarWinds Worldwide LLC
+xuanqu: xqu2!andrew.cmu.edu
+	Independent
+xuanyu66: 1395305816!qq.com
+	Lenovo
+xubofei1983: xubofei1983!users.noreply.github.com
+	Karius
 xuchengli: lixucheng!aliyun.com, xuchengli!users.noreply.github.com
 	International Business Machines Corporation
 xuchenhao001: xu.chenhao!hotmail.com, xuchenhao001!users.noreply.github.com
@@ -953,6 +1022,7 @@ yashshah7: yash.shah!sifive.com
 	Visteon Innovation and Technology GmbH from 2014-06-01 until 2018-11-01
 	SiFive from 2018-11-01
 yashsingh74: yashsingh1774!gmail.com, yashsingh74!users.noreply.github.com
+	Independent until 2022-01-30
 	VMware Inc. from 2022-01-30
 yashsriv: yash111998!gmail.com, yashsriv!users.noreply.github.com
 	Independent until 2019-08-01
