@@ -117,7 +117,7 @@ Indra:
 	adr-arroyo: adr-arroyo!users.noreply.github.com, adr.arroyo.perez!gmail.com from 2017-10-01 until 2018-07-01
 	bmunozm: bmunoz!cloudbees.com, bmunozm!users.noreply.github.com from 2014-11-01 until 2015-11-01
 	danivilla9: danivilla9!users.noreply.github.com from 2021-10-01 until 2024-06-01
-	dawud: david.sastre!redhat.com until 2014-08-01
+	dawud: david.sastre!redhat.com, dawud!users.noreply.github.com until 2014-08-01
 	jcezarms: 2316114920!qq.com, jcezarms!users.noreply.github.com, juliocmdsilva!gmail.com from 2017-01-01 until 2018-02-01
 	mpeterson: mpeterson!users.noreply.github.com until 2015-08-01
 	visomar: vsoriano!vmware.com until 2019-10-01
@@ -2578,7 +2578,7 @@ Intel Corporation:
 	ickle: chris!chris-wilson.co.uk
 	icpenguins: icpenguins!users.noreply.github.com from 2021-05-01
 	ideak: imre.deak!intel.com
-	idesai: imran.desai!intel.com
+	idesai: idesai!users.noreply.github.com, imran.desai!intel.com
 	idevz: zhoujing_k49!163.com from 2021-05-01
 	idohalevi: idohalevi!users.noreply.github.com from 2015-01-01 until 2017-10-01
 	idontusenumbers: idontusenumbers!users.noreply.github.com from 2021-05-01
@@ -3935,7 +3935,7 @@ International Business Machines Corporation:
 	amfred: amfred!users.noreply.github.com from 2018-09-01 until 2021-09-01
 	amodra: amodra!gmail.com
 	amolkavitkar: amolkavitkar!users.noreply.github.com until 2014-12-01
-	amylily1011: amy.lily!canonical.com until 2015-01-01
+	amylily1011: amy.lily!canonical.com, amylily1011!users.noreply.github.com until 2015-01-01
 	ananyakaushik: ananyakaushik!users.noreply.github.com from 2017-06-01 until 2017-08-01, from 2018-07-01 until 2020-07-01
 	ancatri: ancatri!users.noreply.github.com
 	andreas-ibm: amartens!uk.ibm.com, andreas-ibm!users.noreply.github.com
@@ -4646,7 +4646,7 @@ International Business Machines Corporation:
 	kevinzs2048: kevin.zhao!linaro.org, kevinzs2048!users.noreply.github.com from 2015-03-01 until 2016-04-01
 	kgermanibm: kgerman!us.ibm.com
 	kgibm: kevin.grigorenko!us.ibm.com, kgibm!users.noreply.github.com
-	kgold2: kgold!linux.ibm.com
+	kgold2: kgold!linux.ibm.com, kgold2!users.noreply.github.com
 	kgoldman: kgoldman!us.ibm.com
 	khernyo: khernyo!users.noreply.github.com, szabolcs.berecz!gmail.com from 2016-02-01 until 2018-02-01
 	khmarbaise: github!soebes.com, github!soebes.de, info!soebes.de, kama!soebes.de, khmarbaise!apache.org from 2017-12-01
@@ -8777,6 +8777,7 @@ KE-chain platform - by KE-works:
 	milosonator: milosonator!users.noreply.github.com until 2015-02-01
 KEAKIE:
 	jessicastenning: jessicastenning!users.noreply.github.com from 2021-07-01
+	lacroixthomas: thomas.lacroix!ubisoft.com from 2021-05-01 until 2022-04-01
 KEB Automation:
 	robinschneider: robinschneider!users.noreply.github.com from 2021-12-01 until 2022-12-01
 KEBA Gruppe:
@@ -16024,10 +16025,3 @@ Logits:
 	enisoc: enisoc!enisoc.dev, enisoc!google.com, enisoc!planetscale.com, enisoc!users.noreply.github.com from 2023-06-01
 Logiva A/S:
 	ssoerensen: ssoerensen!users.noreply.github.com
-Logix:
-	93lucasp: spezzanoluca!gmail.com from 2021-11-01
-	imnitishng: imnitishng!users.noreply.github.com from 2018-08-01 until 2020-01-01
-Logixboard:
-	emmanuel: emmanuel!users.noreply.github.com from 2019-08-01
-Loglevel:
-	Darksonn: alice!ryhl.io from 2017-11-01 until 2021-05-01

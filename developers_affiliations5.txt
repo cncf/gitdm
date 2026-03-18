@@ -5,6 +5,19 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+floe: floe!butterbrot.org
+	Independent
+floflock: flock.flo!gmail.com
+	PixelCreative until 2015-06-01
+	Koerbler from 2015-06-01 until 2017-02-01
+	niceshops from 2017-02-01 until 2020-11-01
+	Datenkraft from 2020-11-01
+flofuchs: flofuchs!users.noreply.github.com
+	Red Hat Inc.
+flojon: flojon!users.noreply.github.com, jonas!floden.nu
+	Arkon IT until 2015-03-01
+	Swesharp Consulting from 2015-03-01 until 2018-06-01
+	Floden Consulting from 2018-06-01
 flokli: flokli!flokli.de, flokli!users.noreply.github.com
 	Independent until 2016-01-01
 	Verizon Corporate Services from 2016-01-01 until 2017-12-01
@@ -5807,6 +5820,10 @@ gongguan: gongguan!users.noreply.github.com
 	Independent
 gongleiarei: arei.gonglei!huawei.com
 	Huawei Technologies Co. Ltd
+gongmax: gongmax!users.noreply.github.com
+	Independent until 2016-03-01
+	Amazon from 2016-03-01 until 2022-08-01
+	Google LLC from 2022-08-01
 gongomgra: gongomgra!users.noreply.github.com
 	Bitnami Inc.
 gongx: gongx!users.noreply.github.com, jeffgx619!gmail.com
@@ -13666,7 +13683,7 @@ identitynerd: identitynerd!users.noreply.github.com
 	SkyDeck until 2017-09-01
 	Oracle America Inc. from 2017-09-01 until 2019-07-01
 	Strata from 2019-07-01
-idesai: imran.desai!intel.com
+idesai: idesai!users.noreply.github.com, imran.desai!intel.com
 	Intel Corporation
 idestis: idestis!users.noreply.github.com
 	Lucky.Net until 2014-04-01
@@ -14361,6 +14378,10 @@ iliul: liul.stone!gmail.com, liul124!chinaunicom.cn
 	China Unicom
 iljun: sumusb34!gmail.com
 	Krafton
+ilkercelikyilmaz: ilker.ca!gmail.com
+	Visa Inc. until 2015-11-01
+	Microsoft Corporation from 2015-11-01 until 2018-12-01
+	Google LLC from 2018-12-01
 illagrenan: illagrenan!users.noreply.github.com
 	Independent
 illeatmyhat: illeatmyhat!users.noreply.github.com
@@ -23250,6 +23271,9 @@ jkowall: jkowall!users.noreply.github.com
 	AppDynamics LLC from 2015-02-01 until 2019-04-01
 	Kentik from 2019-04-01 until 2020-04-01
 	Logshero Ltd. from 2020-04-01
+jkowalski: jaak!jkowalski.net, jkowalski!users.noreply.github.com
+	Google LLC until 2022-01-01
+	Snowflake from 2022-01-01
 jkraj: jkraj!users.noreply.github.com
 	Hewlett until 2017-12-01
 	Infoblox Inc. from 2017-12-01
@@ -23860,21 +23884,3 @@ jmhwang7: jmhwang7!users.noreply.github.com
 	Stripe Inc. from 2019-06-01 until 2020-10-01
 	Independent from 2020-10-01 until 2021-02-01
 	Render from 2021-02-01
-jmichalek132: 7171250+jmichalek132!users.noreply.github.com, jmichalek132!users.noreply.github.com
-	Independent until 2017-06-01
-	Ringier Axel Springer SK from 2017-06-01 until 2017-09-01
-	Independent from 2017-09-01 until 2018-02-01
-	Seznam.cz a.s. from 2018-02-01 until 2020-05-01
-	Medallia from 2020-05-01 until 2025-06-01
-	Grafana Labs from 2025-06-01
-jmickey: github!mickey.dev, jmickey!users.noreply.github.com, josh.michielsen!weave.works
-	Cancer Council Western Australia until 2015-11-01
-	Office Solutions from 2015-11-01 until 2017-01-01
-	Bright from 2017-01-01 until 2017-10-01
-	Bankwest from 2017-10-01 until 2018-11-01
-	Conde Nast Holdings Ltd. from 2018-11-01 until 2020-04-01
-	Snyk Limited from 2020-04-01 until 2021-10-01
-	Weaveworks Inc. from 2021-10-01 until 2023-06-12
-	Independent from 2023-06-12
-jmiddleton: jmiddleton!users.noreply.github.com, jorge.middleton!gmail.com
-	Accenture Global Solutions Limited

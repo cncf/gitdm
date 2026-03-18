@@ -5,6 +5,40 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+piparul: piparul!users.noreply.github.com
+	MegaNexus until 2015-11-01
+	Independent from 2015-11-01 until 2016-01-01
+	Bank of America Merrill Lynch from 2016-01-01 until 2016-06-01
+	Independent from 2016-06-01 until 2018-06-01
+	Red Hat Inc. from 2018-06-01 until 2018-09-01
+	Mass Open Cloud from 2018-09-01 until 2018-12-01
+	Red Hat Inc. from 2018-12-01
+pipejakob: beacham!google.com, pipejakob!users.noreply.github.com
+	Google LLC
+piperchester: piperchester!gmail.com, piperchester!users.noreply.github.com
+	Intuit Inc. until 2015-08-01
+	Independent from 2015-08-01 until 2016-01-01
+	Intuit Inc. from 2016-01-01 until 2018-08-01
+	NerdWallet from 2018-08-01
+pipo: pkrempa!redhat.com
+	Red Hat Inc.
+pipo02mix: fernando!giantswarm.io, info!loorlab.com, kalpeshk9967016292!gmail.com, pipo02mix!gmail.com, pipo02mix!users.noreply.github.com
+	CoBrowser.net
+piradeepk: piradeepk!users.noreply.github.com
+	Independent until 2017-03-01
+	AWS from 2017-03-01
+pires: 1752631+pires!users.noreply.github.com, pires!!users.noreply.github.com, pires!apprenda.com, pires!mesosphere.io, pires!users.noreply.github.com, pjpires!gmail.com
+	Independent until 2016-09-01
+	Apprenda Inc. from 2016-09-01 until 2017-04-01
+	Mesosphere from 2017-04-01 until 2019-04-30
+	Independent from 2019-04-30
+pirgeo: pirgeo!users.noreply.github.com
+	Independent until 2016-08-01
+	Wellcome from 2016-08-01 until 2016-09-01
+	Independent from 2016-09-01 until 2017-03-01
+	Wellcome from 2017-03-01 until 2017-06-01
+	Independent from 2017-06-01 until 2021-02-01
+	Dynatrace LLC from 2021-02-01
 piroor: piro.outsider.reflex!gmail.com, piroor!users.noreply.github.com, pszafer!gmail.com, shimoda!clear-code.com
 	ClearCode
 pisarenko-net: pisarenko-net!users.noreply.github.com
@@ -1021,6 +1055,8 @@ poon64: peter.o.nilsson!gmail.com
 	Ericsson until 2016-02-01
 	Independent from 2016-02-01 until 2017-02-01
 	Lexher AB from 2017-02-01
+pooneh-m: pooneh-m!users.noreply.github.com
+	Google LLC
 poopoothegorilla: poopoothegorilla!users.noreply.github.com
 	Cloudera Inc. until 2015-03-01
 	ZoomInfo Technologies LLC from 2015-03-01 until 2016-07-01
@@ -23625,47 +23661,3 @@ sniok: dubenko.oleksandr!gmail.com
 	Microsoft Corporation from 2024-04-01
 sniperking1234: chenzhengwei!inspur.com, sniperking1234!users.noreply.github.com
 	Inspur Group
-snir911: snir911!users.noreply.github.com, ssheribe!redhat.com
-	Red Hat Inc.
-snirkop89: snirkop89!users.noreply.github.com
-	Nuclear Research until 2019-07-01
-	Payoneer from 2019-07-01
-snitm: snitzer!redhat.com
-	Red Hat Inc.
-snits: dev!snitselaar.org, jsnitsel!redhat.com
-	Red Hat Inc.
-snkshukla: snkshukla!users.noreply.github.com
-	Independent until 2018-06-01
-	ISRO from 2018-06-01 until 2018-08-01
-	Independent from 2018-08-01 until 2021-04-01
-	Infosys Limited from 2021-04-01 until 2022-06-01
-	International Business Machines Corporation from 2022-06-01
-snmohan83: snmohan83!users.noreply.github.com
-	SUSE LLC until 2021-01-01
-	T-Systems from 2021-01-01
-snneji: snneji!users.noreply.github.com
-	Pivotal
-snnn: chasun!microsoft.com, snnn!users.noreply.github.com
-	Microsoft Corporation
-snobear: snobear!users.noreply.github.com
-	Information Management Services until 2017-04-01
-	FireEye from 2017-04-01
-snobu: foo!snobu.org, snobu!users.noreply.github.com
-	Microsoft Corporation
-snoby: snoby!users.noreply.github.com, snobym!cisco.com
-	Cisco Systems Inc.
-snocorp: snocorp!gmail.com, snocorp!users.noreply.github.com
-	SurveyMonkey
-snokw: snowmanli88!163.com
-	NetEase Inc
-snoodleboot: snoodleboot!users.noreply.github.com
-	CGG until 2014-06-01
-	Independent from 2014-06-01 until 2014-08-01
-	MD Anderson Cancer Center from 2014-08-01 until 2017-01-01
-	Sanchez Oil from 2017-01-01 until 2018-08-01
-	Caserta from 2018-08-01 until 2019-04-01
-	Hashmap from 2019-04-01 until 2021-04-01
-	Mercury from 2021-04-01
-snoopdave: snoopdave!gmail.com, snoopdave!users.noreply.github.com
-	Google LLC until 2017-01-01
-	CloudBees Inc. from 2017-01-01
