@@ -5,6 +5,8 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+pioy: piotr.luc!intel.com
+	Intel Corporation
 piparul: piparul!users.noreply.github.com
 	MegaNexus until 2015-11-01
 	Independent from 2015-11-01 until 2016-01-01
@@ -16566,7 +16568,7 @@ scholzj: github!scholzj.com, scholzj!users.noreply.github.com, www!scholzj.com
 	Deutsche Börse until 2017-09-01
 	Red Hat Inc. from 2017-09-01 until 2026-01-01
 	Independent from 2026-01-01 until 2026-03-01
-	Cloudera from 2026-03-02
+	Cloudera from 2026-03-01
 schomatis: lmolas!fundacionsadosky.org.ar, schomatis!users.noreply.github.com
 	Fundación Sadosky
 schoren: schoren!users.noreply.github.com
@@ -22007,6 +22009,7 @@ sirpaleet: 149054312+SiiriKemppainen!users.noreply.github.com, 149054312+sirpale
 	K-Rauta from 2022-04-01 until 2023-08-01
 	Independent from 2023-08-01 until 2025-05-01
 	Ericsson from 2025-05-01 until 2025-09-30
+	Independent from 2025-09-30
 sirrapa: info!sirrapa.com, sirrapa!users.noreply.github.com
 	Ahold Delhaize USA until 2019-05-01
 	Nederlandse from 2019-05-01 until 2019-11-01
@@ -23655,10 +23658,3 @@ sniemeyer13: sniemeyer13!users.noreply.github.com
 snikhil1998: snikhil1998!users.noreply.github.com
 	Independent until 2021-01-01
 	Cisco Systems Inc. from 2021-01-01
-sniok: dubenko.oleksandr!gmail.com
-	Independent until 2017-04-01
-	TomTom International B.V. from 2017-04-01 until 2022-05-01
-	EPAM Systems Inc from 2022-05-01 until 2024-04-01
-	Microsoft Corporation from 2024-04-01
-sniperking1234: chenzhengwei!inspur.com, sniperking1234!users.noreply.github.com
-	Inspur Group

@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+mateuszdrab: mateuszdrab!users.noreply.github.com
+	Independent until 2016-01-01
+	Rackspace from 2016-01-01 until 2018-06-01
+	intelliflo from 2018-06-01 until 2020-04-01
+	Microsoft Corporation from 2020-04-01
 mateuszkwiatkowski: mateuszkwiatkowski!users.noreply.github.com
 	AtlasHost until 2016-03-01
 	Virtkick from 2016-03-01 until 2017-04-01
@@ -23513,7 +23518,7 @@ pierluc-codes: pierluc-codes!users.noreply.github.com
 	hims & hers from 2019-04-01 until 2020-02-01
 	Shopify Inc. from 2020-02-01 until 2022-08-01
 	HashiCorp Inc from 2022-08-01
-pierluigilenoci: pierluigilenoci!users.noreply.github.com, pierluigi.lenoci!gmail.com, pierluigi.lenoci!sap.com
+pierluigilenoci: pierluigi.lenoci!gmail.com, pierluigi.lenoci!sap.com, pierluigilenoci!users.noreply.github.com
 	GruppoMeta until 2016-07-01
 	GLOSSYBOX from 2016-07-01 until 2018-01-01
 	Akelius Residential Property AB from 2018-01-01 until 2022-04-01
@@ -23790,5 +23795,3 @@ piotrzarycki: piotr.zarycki!gmail.com
 	Creativestyle until 2015-09-01
 	TVN from 2015-09-01 until 2018-07-01
 	Independent from 2018-07-01
-pioy: piotr.luc!intel.com
-	Intel Corporation

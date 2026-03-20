@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+flockoftanks: flockoftanks!users.noreply.github.com
+	TABcom until 2015-08-01
+	NIC from 2015-08-01 until 2020-03-01
+	Independent from 2020-03-01
 floe: floe!butterbrot.org
 	Independent
 floflock: flock.flo!gmail.com
@@ -23876,11 +23880,3 @@ jmhobbs: john!velvetcache.org
 	Chromatic from 2020-12-01
 jmhodges: jeff!somethingsimilar.com, jmhodges!users.noreply.github.com
 	DARKISH GREEN LLC
-jmhwang7: jmhwang7!users.noreply.github.com
-	Independent until 2015-07-01
-	Redfin Corporation from 2015-07-01 until 2017-10-01
-	Digit from 2017-10-01 until 2019-03-01
-	Independent from 2019-03-01 until 2019-06-01
-	Stripe Inc. from 2019-06-01 until 2020-10-01
-	Independent from 2020-10-01 until 2021-02-01
-	Render from 2021-02-01

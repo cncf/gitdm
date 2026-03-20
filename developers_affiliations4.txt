@@ -5,6 +5,8 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+chuemb: huembert!absint.com
+	AbsInt Angewandte Informatik GmbH
 chugtum: 35785932+chugtum!users.noreply.github.com, chugtum!users.noreply.github.com
 	Verizon until 2017-12-01
 	Independent from 2017-12-01 until 2018-01-01
@@ -23300,8 +23302,6 @@ filip-zyzniewski: filip.zyzniewski!gmail.com
 	Google LLC until 2019-06-01
 	Fexco from 2019-06-01 until 2020-07-01
 	Taxamo from 2020-07-01
-FilipB: fbrychta!redhat.com, FilipB!users.noreply.github.com
-	Red Hat Inc. from 2011-04-02
 filipeguarino: guarinobm!gmail.com
 	Spassu until 2015-04-01
 	OLX Group from 2015-04-01 until 2017-11-01
@@ -23842,7 +23842,3 @@ flobz: flobz!users.noreply.github.com
 	Independent until 2016-09-01
 	EDF from 2016-09-01 until 2021-06-01
 	Agregio from 2021-06-01
-flockoftanks: flockoftanks!users.noreply.github.com
-	TABcom until 2015-08-01
-	NIC from 2015-08-01 until 2020-03-01
-	Independent from 2020-03-01

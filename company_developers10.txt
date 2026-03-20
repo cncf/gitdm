@@ -1670,7 +1670,7 @@ Red Hat Inc.:
 	Fale: Fale!users.noreply.github.com, fabio!locati.cc, fabiolocati!gmail.com, me!fale.io from 2016-06-01 until 2017-02-01, from 2020-02-01
 	Fedosin: Fedosin!users.noreply.github.com, mfedosin!gmail.com, mfedosin!mirantis.com, mfedosin!redhat.com, mikhail.fedosin.ext!nokia.com from 2019-02-01 until 2023-02-01
 	FelixRodriguezJara: FelixRodriguezJara!users.noreply.github.com until 2019-03-01
-	FilipB: FilipB!users.noreply.github.com, fbrychta!redhat.com
+	FilipB: FilipB!users.noreply.github.com, fbrychta!redhat.com from 2011-04-02
 	Firewall: Firewall!users.noreply.github.com from 2024-08-01
 	FlaPer87: FlaPer87!users.noreply.github.com until 2019-04-01, from 2021-02-01 until 2023-04-01
 	FlexibleToast: FlexibleToast!users.noreply.github.com, Joseph!McDade.info
@@ -7828,6 +7828,7 @@ SAP:
 	Nuckal777: Nuckal777!users.noreply.github.com, erik.schubert!sap.com from 2018-09-01
 	OlegLoewen: 44769983+olegloewen!users.noreply.github.com, OlegLoewen!users.noreply.github.com, oleg.loewen!sap.com
 	OliverNocon: 33484802+olivernocon!users.noreply.github.com, oliver.nocon!sap.com
+	OrlinVasilev: OrlinVasilev!users.noreply.github.com, orlin!orlix.org, orlin.vasilev!sap.com, orlin.vasilev!suse.com, ovasilev!vmware.com from 2026-03-01
 	Parth: Parth!users.noreply.github.com from 2018-01-01 until 2019-05-01
 	PatrikSteuer: PatrikSteuer!users.noreply.github.com
 	PierreFritsch: pierre.fritsch!sap.com, pierrefritsch!users.noreply.github.com
@@ -8150,7 +8151,7 @@ SAP:
 	petr-muller: afri!afri.cz, muller!redhat.com, petr-muller!users.noreply.github.com from 2016-08-01 until 2018-01-01
 	phil9909: phil9909!users.noreply.github.com, philipp.stehle!sap.com
 	philipphomberger: philipp.homberger!gmail.com, philipphomberger!users.noreply.github.com from 2024-09-01
-	pierluigilenoci: pierluigilenoci!users.noreply.github.com from 2022-04-01
+	pierluigilenoci: pierluigi.lenoci!gmail.com, pierluigi.lenoci!sap.com, pierluigilenoci!users.noreply.github.com from 2022-04-01
 	pietromenna: pietromenna!gmail.com, pietromenna!users.noreply.github.com
 	piotrmiskiewicz: piotrmiskiewicz!users.noreply.github.com, pmiskiew!wp.pl
 	piotrmsc: piotr.mscichowski!sap.com, piotrmsc!users.noreply.github.com until 2021-03-01
@@ -9985,7 +9986,7 @@ SUSE LLC:
 	MonzElmasry: MonzElmasry!users.noreply.github.com from 2020-12-01
 	Nino-K: nkodabande!suse.com
 	Oats87: Oats87!users.noreply.github.com from 2020-12-01
-	OrlinVasilev: OrlinVasilev!users.noreply.github.com, orlin!orlix.org, ovasilev!vmware.com from 2024-02-06
+	OrlinVasilev: OrlinVasilev!users.noreply.github.com, orlin!orlix.org, orlin.vasilev!sap.com, orlin.vasilev!suse.com, ovasilev!vmware.com from 2024-02-06 until 2026-03-01
 	PhanLe1010: PhanLe1010!users.noreply.github.com from 2021-01-01
 	Priyankasaggu11929: Priyankasaggu11929!users.noreply.github.com, priyankasaggu11929!gmail.com from 2022-12-01
 	SchoolGuy: matrixfueller!gmail.com
@@ -15847,10 +15848,3 @@ Simplifile:
 	samsieber: samsieber!users.noreply.github.com from 2015-04-01
 Simplify Solutions:
 	jesseduffield: jessedduffield!gmail.com, jesseduffield!users.noreply.github.com from 2016-12-01 until 2017-09-01
-Simplilearn:
-	shahidafrid526: shahidafrid526!users.noreply.github.com from 2021-08-01 until 2023-04-01
-Simplistic:
-	Duologic: Duologic!users.noreply.github.com from 2019-02-01
-Simplon:
-	evialle: eric!vialle.org from 2016-12-01 until 2017-01-01
-	wichert: alex.everget161!gmail.com, wichert!users.noreply.github.com from 2020-03-01
