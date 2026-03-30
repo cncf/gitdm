@@ -10526,10 +10526,11 @@ bastbu: bastbu!users.noreply.github.com
 	Microsoft Corporation from 2020-04-01
 bastelfreak: bastelfreak!users.noreply.github.com, tim!bastelfreak.de
 	Vox Pupuli
-basti1302: basti1302!users.noreply.github.com
+basti1302: basti1302!users.noreply.github.com, bastian.krol!web.de, bastian.krol!dash0.com, bastian.krol!instana.com, bastian.krol!ibm.com
 	Independent until 2018-01-01
 	Instana Inc. from 2018-01-01 until 2021-12-01
-	International Business Machines Corporation from 2021-12-01
+	International Business Machines Corporation from 2021-12-01 until 2024-01-01
+	Dash0 Inc. from 2024-01-01
 bastiaanv: bastiaanv!users.noreply.github.com
 	Independent until 2016-05-01
 	Albert Heijn from 2016-05-01 until 2017-04-01
@@ -15268,6 +15269,8 @@ bopamo: bopamo!gmail.com, bopamo.osaisai!intel.com
 	Intel Corporation
 bopiy: dahuang!nvidia.com
 	NVIDIA Corporation
+boqu: qubo78!gmail.com, bo.qu!dash0.com, boqu!users.noreply.github.com
+	Dash0 Inc.
 boramalper: boramalper!users.noreply.github.com, jason!4one.io
 	Independent until 2021-12-01
 	Stripe Inc. from 2021-12-01
@@ -16532,9 +16535,11 @@ brindasanth: brindasanth!users.noreply.github.com, brindasanth!yahoo.com
 	International Business Machines Corporation
 brint: brint!users.noreply.github.com, brintly!gmail.com
 	Rackspace
-bripkens: alex.yankouski!gmail.com, bripkens!gmail.com, bripkens!users.noreply.github.com, bripkens.dev!gmail.com, drego85!draghetti.it, ieb!tfd.co.uk, pl2476!126.com
+bripkens: bripkens!gmail.com, bripkens!users.noreply.github.com, bripkens.dev!gmail.com, ben.blackmore!steadybit.com, ben.blackmore!dash0.com, ben.blackmore!instana.com, ben.ripkens!instana.com, ben.ripkens!codecentric.de
 	Codecentric AG until 2015-07-01
-	Instana Inc. from 2015-07-01
+	Instana Inc. from 2015-07-01 until 2022-01-01
+	Steadybit GmbH from 2022-01-01 until 2023-05-01
+	Dash0 Inc. from 2023-05-01
 brirams: brirams!users.noreply.github.com
 	Twitter Inc. until 2015-06-01
 	Clara Lending from 2015-06-01 until 2017-08-01

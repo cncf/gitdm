@@ -2337,11 +2337,13 @@ joscha: joscha!feth.com, joscha!users.noreply.github.com
 	Jimdo GmbH until 2015-08-01
 	Atlassian from 2015-08-01 until 2016-11-01
 	Canva from 2016-11-01
-joschi: jochen!schalanda.name, joschi!users.noreply.github.com
-	Independent until 2014-08-01
-	Gini from 2014-08-01 until 2017-07-01
-	Graylog from 2017-07-01 until 2018-07-01
-	Holidu from 2018-07-01
+joschi: jochen!schalanda.name, joschi!users.noreply.github.com, jochen.schalanda!dash0.com
+	Gini GmbH from 2012-03-01 until 2014-08-01
+	Graylog Inc. from 2014-08-01 until 2018-08-01
+	Holidu GmbH from 2018-08-01 until 2020-03-01
+	Instana Inc. from 2020-03-01 until 2022-07-01
+	Personio SE & Co. KG from 2022-07-01 until 2024-06-01
+	Dash0 Inc. from 2024-06-01
 joschi36: joschi36!users.noreply.github.com, joshua!trafficteam.ch
 	Fr. Sauter until 2017-07-01
 	SWISS TXT from 2017-07-01
@@ -7340,9 +7342,10 @@ kasper-f: kasper!easyspeedy.com
 kasperbe: kasper!firemango.dk, kasperbe!users.noreply.github.com
 	Extenda Go until 2016-11-15
 	BookBites A/S from 2016-11-15
-kaspernissen: kaspernissen!gmail.com, kaspernissen!users.noreply.github.com
+kaspernissen: kaspernissen!gmail.com, kaspernissen!users.noreply.github.com, kasper.nissen!dash0.com
 	Drivelogger until 2017-06-01
-	Lunar A/S from 2017-06-01
+	Lunar A/S from 2017-06-01 until 2025-15-01
+	Dash0 Inc from 2025-15-01
 kassarl: kassarl!users.noreply.github.com
 	Independent until 2016-03-01
 	HomeGoods Stores from 2016-03-01 until 2016-07-01
@@ -21699,9 +21702,11 @@ marcelaquintela: marcelaquintela!users.noreply.github.com
 	Independent until 2018-11-01
 	Cisco Systems Inc. from 2018-11-01 until 2022-07-01
 	Spectro Cloud from 2022-07-01
-marcelbirkner: marcel.birkner!gmail.com, rick.hopkins!gmail.com
-	Codecentric AG until 2017-12-01
-	Instana Inc. from 2017-12-01
+marcelbirkner: marcel.birkner!gmail.com, marcel.birkner!codecentric.com, marcel.birkner!clickhouse.com, marcel.birkner!dash0.com
+	codecentric AG until 2018-01-01
+	Instana Inc. from 2018-01-01 until 2022-01-01
+	ClickHouse Inc. from 2022-01-01 until 2023-05-01
+	Dash0 Inc. from 2023-05-01
 marcelcorso: marcel!messagebird.com, marcel.corso!gmail.com, marcelcorso!users.noreply.github.com
 	MessageBird
 marceldegraaf: mail!marceldegraaf.net, marceldegraaf!users.noreply.github.com

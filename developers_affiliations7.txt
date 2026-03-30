@@ -2627,9 +2627,11 @@ mdolinin: mdolinin!users.noreply.github.com, rjdkolb!gmail.com
 	Independent until 2015-10-01
 	Google LLC from 2015-10-01 until 2022-02-01
 	Dropbox Inc. from 2022-02-01
-mdonkers: mdonkers!users.noreply.github.com, miel.donkers!codecentric.nl, miel.donkers!instana.com
+mdonkers: mdonkers!users.noreply.github.com, miel.donkers!codecentric.nl, miel.donkers!instana.com, miel.donkers!clickhouse.com, miel.donkers!dash0.com, miel.donkers!xs4all.nl, miel.donkers!gmail.com
 	Codecentric AG until 2017-12-01
-	Instana Inc. from 2017-12-01
+	Instana Inc. from 2017-12-01 until 2022-02-01
+	ClickHouse Inc. from 2022-02-01 until 2023-05-01
+	Dash0 Inc. from 2023-05-01
 mdonohue: mdonohue!dydynamic.com, mdonohue!structureus.com, michael.donohue!gmail.com
 	Azzurri Designs Ltd until 2014-02-01
 	West from 2014-02-01 until 2016-07-01
