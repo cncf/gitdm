@@ -154,6 +154,7 @@ Grafana Labs:
 	pianohacker: pianohacker!gmail.com, pianohacker!users.noreply.github.com from 2021-07-01
 	portertech: 149630+portertech!users.noreply.github.com, portertech!gmail.com, portertech!users.noreply.github.com from 2024-08-01
 	pracucci: marco!grafana.com, marco!pracucci.com, marco.pracucci!spreaker.com, pracucci!users.noreply.github.com from 2019-09-01
+	proffalken: matt!doics.co, matt!mockingbirdconsulting.co.uk, matthew.macdonald-wallace!dash0.com, matthew.macdonald-wallace!grafana.com, matthew.macdonald-wallace!hp.com, mmw!greenandsecure.co.uk, proffalken!users.noreply.github.com from 2023-11-01 until 2025-12-01
 	pstibrany: pstibrany!gmail.com, pstibrany!users.noreply.github.com
 	ptodev: ptodev!users.noreply.github.com from 2022-10-01
 	pyohannes: johannes!johannes.tax, johannes.tax!bitpanda.com, johannes.tax!grafana.com, johannestax!microsoft.com, jtax!newrelic.com, pyohannes!users.noreply.github.com from 2023-07-25 until 2024-08-01
@@ -387,8 +388,8 @@ Graybar:
 	jmklix: jkl!amazon.com from 2016-05-01 until 2016-08-01
 Graycore:
 	damienwebdev: damienwebdev!users.noreply.github.com from 2016-11-01
-Graylog:
-	joschi: jochen!schalanda.name, joschi!users.noreply.github.com from 2017-07-01 until 2018-07-01
+Graylog Inc.:
+	joschi: jochen!schalanda.name, jochen.schalanda!dash0.com, joschi!users.noreply.github.com from 2014-08-01 until 2018-08-01
 Graymatics:
 	dttung2905: dttung2905!users.noreply.github.com from 2017-05-01 until 2017-08-01
 Grazac:
@@ -466,6 +467,8 @@ Greek Army:
 Green:
 	JulieChenadec: JulieChenadec!users.noreply.github.com until 2014-09-01, from 2015-02-01 until 2015-07-01, from 2015-11-01 until 2020-10-01
 	sfontanarrosa: s.fontanarrosa!globant.com from 2021-08-01
+Green And Secure IT Limited:
+	proffalken: matt!doics.co, matt!mockingbirdconsulting.co.uk, matthew.macdonald-wallace!dash0.com, matthew.macdonald-wallace!grafana.com, matthew.macdonald-wallace!hp.com, mmw!greenandsecure.co.uk, proffalken!users.noreply.github.com from 2014-10-01 until 2015-10-01
 Green Bits:
 	tshedor: tshedor!users.noreply.github.com from 2018-09-01 until 2022-05-01
 Green Brick:
@@ -494,8 +497,6 @@ Green Parrot:
 	gentisaliu: gentisaliu!gmail.com from 2016-03-01 until 2018-07-01
 Green River:
 	btucker: ben!btucker.net, btucker!users.noreply.github.com, dickhardt!gmail.com until 2017-02-01
-Green Secure Energy Private Limited:
-	proffalken: matt!mockingbirdconsulting.co.uk, proffalken!users.noreply.github.com from 2014-10-01 until 2015-10-01
 Green Solutions:
 	aredshift: a!shane.red from 2017-05-01 until 2017-08-01
 Green Tree:
@@ -1347,7 +1348,7 @@ Gunnebo:
 	AliRezaTaleghani: AliRezaTaleghani!users.noreply.github.com, shayne.alone!gmail.com from 2018-07-01 until 2019-04-01
 Gunosy:
 	civitaspo: civitaspo!users.noreply.github.com
-	mathetake: mathetake!users.noreply.github.com, t.y.mathetake!gmail.com, takeshi!tetrate.io from 2017-04-01 until 2019-09-01
+	mathetake: mathetake!users.noreply.github.com, t.y.mathetake!gmail.com, takeshi!tetrate.io, tyoneda!netflix.com from 2017-04-01 until 2019-09-01
 	mocyuto: yuutoo.advance!gmail.com from 2018-03-01
 Guokr:
 	softlns: softlns!users.noreply.github.com
@@ -4371,7 +4372,6 @@ Hewlett:
 	prabhulc: prabhulc!users.noreply.github.com from 2020-10-01
 	prasek: prasek!users.noreply.github.com until 2015-10-01
 	prashantokochavara: prashantokochavara!users.noreply.github.com from 2017-02-01 until 2020-03-01
-	proffalken: matt!mockingbirdconsulting.co.uk, proffalken!users.noreply.github.com until 2014-10-01
 	purushred: purushred!users.noreply.github.com from 2017-06-01 until 2021-09-01
 	pwntester: alvaro!pwntester.com from 2015-11-01 until 2017-09-01
 	ragashreeshekar: ragashreeshekar!gmail.com, ragashreeshekar!users.noreply.github.com from 2018-08-01 until 2020-10-01
@@ -4439,6 +4439,7 @@ Hewlett P:
 	rajeshnayakmdCCD: rajeshnayakmdCCD!users.noreply.github.com from 2020-03-01 until 2021-05-01
 Hewlett Packard:
 	benja-wu: benja-wu!users.noreply.github.com, benjamin2013elka!gmail.com from 2022-05-01 until 2022-08-01
+	proffalken: matt!doics.co, matt!mockingbirdconsulting.co.uk, matthew.macdonald-wallace!dash0.com, matthew.macdonald-wallace!grafana.com, matthew.macdonald-wallace!hp.com, mmw!greenandsecure.co.uk, proffalken!users.noreply.github.com until 2014-10-01
 Hewlett Packard Enterprise Development LP:
 	akoehler: amk!cray.com
 	alexlovelltroy: alexlovelltroy!users.noreply.github.com from 2018-11-01
@@ -5111,8 +5112,9 @@ Holidu:
 	RoozbehShafiee: me!roozbeh.net from 2021-01-01
 	convoi: convoi!users.noreply.github.com, justin+github!blocksberg.com from 2017-11-01
 	jeanholidu: jean.vicelli!holidu.com from 2019-01-01 until 2021-02-01
-	joschi: jochen!schalanda.name, joschi!users.noreply.github.com from 2018-07-01
 	revolutionisme: revolutionisme!users.noreply.github.com from 2024-11-01
+Holidu GmbH:
+	joschi: jochen!schalanda.name, jochen.schalanda!dash0.com, joschi!users.noreply.github.com from 2018-08-01 until 2020-03-01
 Holimetrix:
 	didlawowo: didlawowo!users.noreply.github.com from 2016-03-01 until 2017-03-01
 	ocombe: ocombe!users.noreply.github.com, olivier.combe!gmail.com from 2015-01-01 until 2017-02-01
@@ -8185,7 +8187,7 @@ IPOMM By DATA PM:
 IPONWEB:
 	Keramblock: Keramblock!users.noreply.github.com from 2017-06-01 until 2019-08-01
 	alter: alter!users.noreply.github.com from 2016-02-01 until 2017-09-01
-	lexfrei: f!lex.la, lexfrei!users.noreply.github.com, schwan_s!hotmail.com from 2015-09-01 until 2016-05-01
+	lexfrei: 3811295!gmail.com, a.sviridkin!adguard.com, a.sviridkin!sdventures.com, aleksei.sviridkin!ringcentral.com, aleksey.sviridkin!aenix.io, asv!whenspeak.ru, asviridkin!7tech.ru, asviridkin!dtln.ru, asviridkin!ozon.ru, f!lex.la, lexfrei!users.noreply.github.com, sviridkin!restream.rt.ru, sviridkin!urusit.com from 2015-12-01 until 2016-05-01
 	rlukin: rlukin!users.noreply.github.com from 2023-04-01
 	yaroslavkasatikov: yaroslavkasatikov!users.noreply.github.com until 2017-08-01
 	zerthimon: zerthimon!users.noreply.github.com until 2014-08-01

@@ -1889,22 +1889,23 @@ Instamojo:
 	rmenn: rmenn!users.noreply.github.com from 2015-06-01 until 2015-12-01
 	vigneshsarma: vigneshsarma!users.noreply.github.com from 2015-06-01 until 2015-08-01
 Instana Inc.:
-	CodingFabian: codingfabian!users.noreply.github.com, lange.fabian!gmail.com
+	CodingFabian: codingfabian!users.noreply.github.com, fabian.lange!codecentric.de, fabian.lange!dash0.com, fabian.lange!ibm.com, fabian.lange!instana.com, lange.fabian!gmail.com from 2015-01-01 until 2024-05-01
 	EWachnowezki: 43754445+ewachnowezki!users.noreply.github.com, evgeni.wachnowezki!instana.com from 2018-09-01
-	basti1302: basti1302!users.noreply.github.com from 2018-01-01 until 2021-12-01
-	bripkens: alex.yankouski!gmail.com, bripkens!gmail.com, bripkens!users.noreply.github.com, bripkens.dev!gmail.com, drego85!draghetti.it, ieb!tfd.co.uk, pl2476!126.com from 2015-07-01
+	basti1302: basti1302!users.noreply.github.com, bastian.krol!dash0.com, bastian.krol!ibm.com, bastian.krol!instana.com, bastian.krol!web.de from 2018-01-01 until 2021-12-01
+	bripkens: ben.blackmore!dash0.com, ben.blackmore!instana.com, ben.blackmore!steadybit.com, ben.ripkens!codecentric.de, ben.ripkens!instana.com, bripkens!gmail.com, bripkens!users.noreply.github.com, bripkens.dev!gmail.com from 2015-07-01 until 2022-01-01
 	cedricziel: cedric!cedric-ziel.com, cedric.ziel!gmail.com, cedric.ziel!grafana.com, cedric.ziel!ibm.com, cedric.ziel!instana.com, cedricziel!users.noreply.github.com, mail!cedric-ziel.com from 2018-10-31 until 2022-01-01
 	dlbock: 149529+dlbock!users.noreply.github.com, dlbock!users.noreply.github.com from 2018-12-01
 	dusansusic: dsn.ssc!gmail.com, dusan.susic!gmail.com, dusan.susic!instana.com, dusansusic!users.noreply.github.com from 2018-05-01
 	fstab: fabian!fstab.de, fabian!prometheus.io, fabian.staeber!grafana.com, fstab!users.noreply.github.com from 2019-01-01 until 2022-01-01
 	instanacd: instanacd!users.noreply.github.com
 	jbrisbin: jbrisbin!users.noreply.github.com, jon!jbrisbin.com from 2017-04-01
+	joschi: jochen!schalanda.name, jochen.schalanda!dash0.com, joschi!users.noreply.github.com from 2020-03-01 until 2022-07-01
 	justynroberts: justynroberts!gmail.com from 2017-07-01 until 2021-10-01
 	kirrg001: katharina.irrgang!googlemail.com, kirrg001!users.noreply.github.com from 2021-07-01
 	luebken: luebken!users.noreply.github.com, matthias.luebken!gmail.com, namngology!gmail.com from 2017-12-01
-	marcelbirkner: marcel.birkner!gmail.com, rick.hopkins!gmail.com from 2017-12-01
-	mdonkers: mdonkers!users.noreply.github.com, miel.donkers!codecentric.nl, miel.donkers!instana.com from 2017-12-01
-	mmanciop: michele.mancioppi!canonical.com, michele.mancioppi!gmail.com, michele.mancioppi!instana.com, michelem!lumigo.io, mmanciop!users.noreply.github.com from 2018-10-30 until 2021-04-30
+	marcelbirkner: marcel.birkner!clickhouse.com, marcel.birkner!codecentric.com, marcel.birkner!dash0.com, marcel.birkner!gmail.com from 2018-01-01 until 2022-01-01
+	mdonkers: mdonkers!users.noreply.github.com, miel.donkers!clickhouse.com, miel.donkers!codecentric.nl, miel.donkers!dash0.com, miel.donkers!gmail.com, miel.donkers!instana.com, miel.donkers!xs4all.nl from 2017-12-01 until 2022-02-01
+	mmanciop: michele.mancioppi!canonical.com, michele.mancioppi!dash0.com, michele.mancioppi!gmail.com, michele.mancioppi!instana.com, michele.mancioppi!sap.com, michelem!lumigo.io, mmanciop!users.noreply.github.com from 2018-10-30 until 2021-04-30
 	notsureifkevin: notsureifkevin!users.noreply.github.com from 2018-03-01 until 2020-04-01
 	tkohn: tkohn!users.noreply.github.com from 2021-07-01 until 2021-12-01
 	wiggzz: jameswt!gmail.com, wiggzz!users.noreply.github.com, william.james!instana.com from 2018-09-01
@@ -4004,7 +4005,7 @@ International Business Machines Corporation:
 	barryzhounb: barryzhounb!users.noreply.github.com
 	barthy1: barthy1!users.noreply.github.com from 2015-10-01
 	bartlomiej-malecki: bartlomiej-malecki!users.noreply.github.com
-	basti1302: basti1302!users.noreply.github.com from 2021-12-01
+	basti1302: basti1302!users.noreply.github.com, bastian.krol!dash0.com, bastian.krol!ibm.com, bastian.krol!instana.com, bastian.krol!web.de from 2021-12-01 until 2024-01-01
 	baude: baude!users.noreply.github.com, bbaude!redhat.com until 2014-06-01
 	bauermann: bauerman!linux.ibm.com, bauerman!linux.vnet.ibm.com
 	bbyrne5: bbyrne5!users.noreply.github.com
@@ -16012,16 +16013,3 @@ Logista Publicaciones:
 	agheorghiu: gheorghiuandru!gmail.com until 2014-03-01
 Logistimo:
 	tj---: tj---!users.noreply.github.com from 2015-07-01 until 2018-04-01
-Logit:
-	firegrass: patrick.mcevoy!gmail.com from 2016-12-01 until 2018-05-01
-Logitech:
-	jdartigalongue: jdartigalongue!users.noreply.github.com, jeremy.dartigalongue!outlook.com until 2015-06-01
-	ogay: ogay!logitech.com, ogay!users.noreply.github.com, olivier.gay!a3.epfl.ch
-Logitravel:
-	adriancast: adriancast!users.noreply.github.com from 2017-06-01 until 2022-08-01
-	daveresbk: daveresbk!users.noreply.github.com from 2015-10-01 until 2017-08-01
-	xabinapal: xabinapal!users.noreply.github.com from 2016-10-01 until 2017-08-01
-Logits:
-	enisoc: enisoc!enisoc.dev, enisoc!google.com, enisoc!planetscale.com, enisoc!users.noreply.github.com from 2023-06-01
-Logiva A/S:
-	ssoerensen: ssoerensen!users.noreply.github.com

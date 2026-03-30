@@ -856,8 +856,6 @@ Babraham Institute:
 	feoff3: feoff3!gmail.com from 2016-02-01 until 2017-02-01
 Baby:
 	mtaghavi2005: mtaghavi2005!gmail.com from 2018-06-01 until 2020-05-01
-Baby Generation Inc.:
-	proffalken: matt!mockingbirdconsulting.co.uk, proffalken!users.noreply.github.com from 2017-02-01 until 2019-05-01
 Baby Sittor:
 	chartinmarrel: chartinmarrel!users.noreply.github.com from 2016-12-01 until 2018-08-01
 BabyBus:
@@ -8034,7 +8032,7 @@ CERN:
 	megh1241: meghana.madhyastha!gmail.com from 2018-06-01
 	michallaskowski: michal.laskowski.dev!gmail.com until 2014-09-01, from 2015-07-01 until 2015-09-01
 	miltalex: miltalex!users.noreply.github.com from 2017-10-01 until 2022-08-01
-	mkowalski: m!kowalski.xyz, mko!redhat.com, mkowalski!users.noreply.github.com until 2018-04-30
+	mkowalski: m!kowalski.xyz, mateusz!mkowalski.com, mko!redhat.com, mkowalski!users.noreply.github.com until 2018-04-30
 	mrow4a: mrow4a!users.noreply.github.com, pmrowcz!gmail.com from 2018-02-01
 	ojeda: miguel.ojeda.sandonis!gmail.com
 	onyb: ani07nov!gmail.com, anirudha.bose!alumni.cern from 2015-01-01 until 2015-08-01
@@ -10114,7 +10112,7 @@ Canonical:
 	xavpaice: xavpaice!users.noreply.github.com from 2016-11-01 until 2022-06-01
 	zzehring: zzehring!users.noreply.github.com from 2019-03-01 until 2021-11-01
 Canonical LLC:
-	mmanciop: michele.mancioppi!canonical.com, michele.mancioppi!gmail.com, michele.mancioppi!instana.com, michelem!lumigo.io, mmanciop!users.noreply.github.com from 2021-04-30 until 2022-04-30
+	mmanciop: michele.mancioppi!canonical.com, michele.mancioppi!dash0.com, michele.mancioppi!gmail.com, michele.mancioppi!instana.com, michele.mancioppi!sap.com, michelem!lumigo.io, mmanciop!users.noreply.github.com from 2021-04-30 until 2022-04-30
 Canonical Ltd.:
 	APokorny: andreas.pokorny!canonical.com, andreas.pokorny!siemens.com
 	CalvinHartwell: CalvinHartwell!users.noreply.github.com, calvin!calvinhartwell.com, mail!calvinhartwell.com from 2017-10-01
@@ -15038,6 +15036,9 @@ ClickHouse:
 	primeroz: primeroz!users.noreply.github.com from 2023-08-01
 	serprex: serprex!users.noreply.github.com from 2024-07-01
 	tbragin: tbragin!users.noreply.github.com from 2022-01-01
+ClickHouse Inc.:
+	marcelbirkner: marcel.birkner!clickhouse.com, marcel.birkner!codecentric.com, marcel.birkner!dash0.com, marcel.birkner!gmail.com from 2022-01-01 until 2023-05-01
+	mdonkers: mdonkers!users.noreply.github.com, miel.donkers!clickhouse.com, miel.donkers!codecentric.nl, miel.donkers!dash0.com, miel.donkers!gmail.com, miel.donkers!instana.com, miel.donkers!xs4all.nl from 2022-02-01 until 2023-05-01
 ClickMeter:
 	marcoliceti: marco.liceti!gmail.com, marcoliceti!users.noreply.github.com until 2015-03-01
 ClickTale:

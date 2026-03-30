@@ -5,6 +5,23 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+jmhbh: jmhbh!users.noreply.github.com
+	Independent until 2016-06-01
+	Wayfair from 2016-06-01 until 2016-08-01
+	Independent from 2016-08-01 until 2017-02-01
+	Wayfair from 2017-02-01 until 2021-08-01
+	SmarterTravel from 2021-08-01 until 2022-05-01
+	Solo.io from 2022-05-01
+jmhbnz: jmhbnz!users.noreply.github.com, mail!jamesblair.net
+	Independent until 2022-09-01
+	Red Hat Inc. from 2022-09-01
+jmhobbs: john!velvetcache.org
+	Packco Inc. until 2019-01-01
+	NEJS from 2019-01-01 until 2019-08-01
+	Flywheel from 2019-08-01 until 2020-12-01
+	Chromatic from 2020-12-01
+jmhodges: jeff!somethingsimilar.com, jmhodges!users.noreply.github.com
+	DARKISH GREEN LLC
 jmhwang7: jmhwang7!users.noreply.github.com
 	Independent until 2015-07-01
 	Redfin Corporation from 2015-07-01 until 2017-10-01
@@ -2337,8 +2354,8 @@ joscha: joscha!feth.com, joscha!users.noreply.github.com
 	Jimdo GmbH until 2015-08-01
 	Atlassian from 2015-08-01 until 2016-11-01
 	Canva from 2016-11-01
-joschi: jochen!schalanda.name, joschi!users.noreply.github.com, jochen.schalanda!dash0.com
-	Gini GmbH from 2012-03-01 until 2014-08-01
+joschi: jochen!schalanda.name, jochen.schalanda!dash0.com, joschi!users.noreply.github.com
+	Gini GmbH until 2014-08-01
 	Graylog Inc. from 2014-08-01 until 2018-08-01
 	Holidu GmbH from 2018-08-01 until 2020-03-01
 	Instana Inc. from 2020-03-01 until 2022-07-01
@@ -7342,10 +7359,10 @@ kasper-f: kasper!easyspeedy.com
 kasperbe: kasper!firemango.dk, kasperbe!users.noreply.github.com
 	Extenda Go until 2016-11-15
 	BookBites A/S from 2016-11-15
-kaspernissen: kaspernissen!gmail.com, kaspernissen!users.noreply.github.com, kasper.nissen!dash0.com
+kaspernissen: kasper.nissen!dash0.com, kaspernissen!gmail.com, kaspernissen!users.noreply.github.com
 	Drivelogger until 2017-06-01
-	Lunar A/S from 2017-06-01 until 2025-15-01
-	Dash0 Inc from 2025-15-01
+	Lunar A/S from 2017-06-01 until 2025-01-15
+	Dash0 Inc from 2025-01-15
 kassarl: kassarl!users.noreply.github.com
 	Independent until 2016-03-01
 	HomeGoods Stores from 2016-03-01 until 2016-07-01
@@ -15656,7 +15673,7 @@ lexdevelop: lexdevelop!users.noreply.github.com
 	Stanga1 from 2015-02-01 until 2016-12-01
 	Prime Holding from 2016-12-01 until 2024-07-01
 	Wiser from 2024-07-01
-lexfrei: f!lex.la, lexfrei!users.noreply.github.com, 3811295!gmail.com, aleksey.sviridkin!aenix.io, aleksei.sviridkin!ringcentral.com, asviridkin!ozon.ru, asv!whenspeak.ru, asviridkin!dtln.ru, asviridkin!7tech.ru, sviridkin!urusit.com, a.sviridkin!adguard.com, sviridkin!restream.rt.ru, a.sviridkin!sdventures.com
+lexfrei: 3811295!gmail.com, a.sviridkin!adguard.com, a.sviridkin!sdventures.com, aleksei.sviridkin!ringcentral.com, aleksey.sviridkin!aenix.io, asv!whenspeak.ru, asviridkin!7tech.ru, asviridkin!dtln.ru, asviridkin!ozon.ru, f!lex.la, lexfrei!users.noreply.github.com, sviridkin!restream.rt.ru, sviridkin!urusit.com
 	ООО МАГ until 2014-09-01
 	Independent from 2014-09-01 until 2015-03-01
 	REG.RU from 2015-03-01 until 2015-09-01
@@ -15667,11 +15684,10 @@ lexfrei: f!lex.la, lexfrei!users.noreply.github.com, 3811295!gmail.com, aleksey.
 	Film Direction from 2016-12-01 until 2017-07-01
 	ООО УРУС-УМНЫЕ ЦИФРОВЫЕ СЕРВИСЫ from 2017-07-01 until 2018-07-01
 	DataLine Co from 2018-07-01 until 2019-01-01
-	Independent from 2019-01-01 until 2020-01-01
-	Independent from 2020-01-01 until 2021-04-01
+	Independent from 2019-01-01 until 2021-04-01
 	OZON.ru from 2021-04-01 until 2022-04-01
 	Social Discovery Ventures from 2022-04-01 until 2024-01-01
-	RingCentral from 2024-01-01 until 2024-11-01
+	RingCentral Inc. from 2024-01-01 until 2024-11-01
 	Independent from 2024-11-01 until 2025-12-01
 	Ænix from 2025-12-01
 lexholden: a!lexholden.com, alex!alexjonasholden.com
@@ -21702,8 +21718,8 @@ marcelaquintela: marcelaquintela!users.noreply.github.com
 	Independent until 2018-11-01
 	Cisco Systems Inc. from 2018-11-01 until 2022-07-01
 	Spectro Cloud from 2022-07-01
-marcelbirkner: marcel.birkner!gmail.com, marcel.birkner!codecentric.com, marcel.birkner!clickhouse.com, marcel.birkner!dash0.com
-	codecentric AG until 2018-01-01
+marcelbirkner: marcel.birkner!clickhouse.com, marcel.birkner!codecentric.com, marcel.birkner!dash0.com, marcel.birkner!gmail.com
+	Codecentric AG until 2018-01-01
 	Instana Inc. from 2018-01-01 until 2022-01-01
 	ClickHouse Inc. from 2022-01-01 until 2023-05-01
 	Dash0 Inc. from 2023-05-01
@@ -23738,41 +23754,3 @@ mateusbraga: mateus.a.braga!gmail.com, mateusbraga!users.noreply.github.com
 	Google LLC from 2015-05-01 until 2015-08-01
 	Independent from 2015-08-01 until 2016-01-01
 	Google LLC from 2016-01-01
-mateusdemboski: mateusdemboski!gmail.com
-	Catânia Studio until 2015-07-01
-	DigitalDesk from 2015-07-01 until 2017-07-01
-	SharePrime from 2017-07-01 until 2017-11-01
-	CWI Software from 2017-11-01 until 2019-07-01
-	Dell Technologies from 2019-07-01
-mateusfccp: mateusfccp!gmail.com
-	Independent until 2019-08-01
-	IATec from 2019-08-01
-mateusht-ciandt: mateusht-ciandt!users.noreply.github.com
-	Independent until 2015-02-01
-	CI&T from 2015-02-01
-mateusmarquezini: mateusmarquezini01!gmail.com
-	Independent until 2014-11-01
-	Jaguar Plásticos from 2014-11-01 until 2015-04-01
-	Synchro from 2015-04-01 until 2019-03-01
-	Dextra from 2019-03-01 until 2020-09-01
-	CI&T from 2020-09-01
-mateustanaka: mateushikaritanaka!gmail.com, mateustanaka!users.noreply.github.com
-	Independent until 2015-02-01
-	CI&T from 2015-02-01
-mateusz-ciesielski: mateusz-ciesielski!users.noreply.github.com, mateusz.j.ciesielski!intel.com
-	Intel Corporation
-mateusz-gozdek-sociomantic: mateusz.gozdek!dunnhumby.com
-	Independent until 2018-06-01
-	Dunnhumby Ltd from 2018-06-01 until 2019-04-01
-	Kinvolk GmbH from 2019-04-01
-mateusz-holenko: mateusz-holenko!users.noreply.github.com, mholenko!antmicro.com
-	ANTMICRO LTD
-mateusz-lubanski-sinch: mateusz-lubanski-sinch!users.noreply.github.com
-	EUVIC until 2015-06-01
-	OMNETRIC from 2015-06-01 until 2020-05-01
-	Ellie Mae Inc. from 2020-05-01 until 2021-06-01
-	ICE from 2021-06-01 until 2021-07-01
-	EAP & Wellbeing from 2021-07-01 until 2022-06-01
-	Sinch from 2022-06-01
-mateuszb: mateuszb!fastmail.fm
-	FastMail.FM

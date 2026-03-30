@@ -5,6 +5,12 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+amirakhmedov: amir.akhmedov!gmail.com
+	Infosoft until 2014-07-01
+	Luxoft from 2014-07-01 until 2019-02-01
+	Barclays from 2019-02-01 until 2020-04-01
+	Meta Platforms Inc. from 2020-04-01 until 2022-05-01
+	LinkedIn from 2022-05-01
 amiralis: amiralis!users.noreply.github.com
 	Independent until 2019-02-01
 	OReilly Media from 2019-02-01 until 2020-02-01
@@ -10526,7 +10532,7 @@ bastbu: bastbu!users.noreply.github.com
 	Microsoft Corporation from 2020-04-01
 bastelfreak: bastelfreak!users.noreply.github.com, tim!bastelfreak.de
 	Vox Pupuli
-basti1302: basti1302!users.noreply.github.com, bastian.krol!web.de, bastian.krol!dash0.com, bastian.krol!instana.com, bastian.krol!ibm.com
+basti1302: basti1302!users.noreply.github.com, bastian.krol!dash0.com, bastian.krol!ibm.com, bastian.krol!instana.com, bastian.krol!web.de
 	Independent until 2018-01-01
 	Instana Inc. from 2018-01-01 until 2021-12-01
 	International Business Machines Corporation from 2021-12-01 until 2024-01-01
@@ -15269,7 +15275,7 @@ bopamo: bopamo!gmail.com, bopamo.osaisai!intel.com
 	Intel Corporation
 bopiy: dahuang!nvidia.com
 	NVIDIA Corporation
-boqu: qubo78!gmail.com, bo.qu!dash0.com, boqu!users.noreply.github.com
+boqu: bo.qu!dash0.com, boqu!users.noreply.github.com, qubo78!gmail.com
 	Dash0 Inc.
 boramalper: boramalper!users.noreply.github.com, jason!4one.io
 	Independent until 2021-12-01
@@ -16535,7 +16541,7 @@ brindasanth: brindasanth!users.noreply.github.com, brindasanth!yahoo.com
 	International Business Machines Corporation
 brint: brint!users.noreply.github.com, brintly!gmail.com
 	Rackspace
-bripkens: bripkens!gmail.com, bripkens!users.noreply.github.com, bripkens.dev!gmail.com, ben.blackmore!steadybit.com, ben.blackmore!dash0.com, ben.blackmore!instana.com, ben.ripkens!instana.com, ben.ripkens!codecentric.de
+bripkens: ben.blackmore!dash0.com, ben.blackmore!instana.com, ben.blackmore!steadybit.com, ben.ripkens!codecentric.de, ben.ripkens!instana.com, bripkens!gmail.com, bripkens!users.noreply.github.com, bripkens.dev!gmail.com
 	Codecentric AG until 2015-07-01
 	Instana Inc. from 2015-07-01 until 2022-01-01
 	Steadybit GmbH from 2022-01-01 until 2023-05-01
@@ -23624,19 +23630,3 @@ chuckjaz: chuckj!google.com, chuckjaz!gmail.com, chuckjaz!users.noreply.github.c
 	Google LLC
 chucklever: chuck.lever!oracle.com
 	Oracle America Inc.
-chucknthem: chuckjma!gmail.com
-	Meta Platforms Inc. until 2014-10-01
-	Uber from 2014-10-01 until 2020-06-01
-	Chronosphere Inc. from 2020-06-01
-chuckpiercey: chuckpiercey!users.noreply.github.com, cpiercey!icloud.com
-	TidalScale until 2018-10-01
-	Juniper Networks Inc. from 2018-10-01 until 2019-08-01
-	9P from 2019-08-01 until 2019-10-01
-	KIOXIA from 2019-10-01
-chuckstar76: chuckstar76!users.noreply.github.com
-	DXC Technology until 2019-06-01
-	Google LLC from 2019-06-01
-chuegle: chuegle!users.noreply.github.com
-	TellApart until 2015-05-01
-	Twitter Inc. from 2015-05-01 until 2015-12-01
-	Independent from 2015-12-01
