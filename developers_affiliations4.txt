@@ -22160,7 +22160,8 @@ fanweixiao: fanweixiao!gmail.com, fanweixiao!users.noreply.github.com
 	YoMo
 fanzhangio: fanz!vmware.com, fanzhangio!users.noreply.github.com
 	SAP until 2015-01-01
-	VMware Inc. from 2015-01-01
+	VMware Inc. from 2015-01-01 until 2020-09-08
+	NVIDIA Corporation from 2020-09-08
 fao89: fabricio!redhat.com, fao89!users.noreply.github.com
 	Independent until 2015-03-01
 	Baker Hughes from 2015-03-01 until 2016-03-01
@@ -23406,8 +23407,11 @@ fidelcoria-aa: fidelcoria-aa!users.noreply.github.com
 	tejas roofing until 2017-08-01
 	Independent from 2017-08-01 until 2018-06-01
 	American Airlines from 2018-06-01
-fidencio: fabiano!fidencio.org, fidencio!redhat.com, fidencio!users.noreply.github.com
-	Red Hat Inc.
+fidencio: fabiano!fidencio.org, fabiano.fidencio!intel.com, fidencio!northflank.com, fidencio!redhat.com, fidencio!users.noreply.github.com
+	Red Hat Inc. until 2021-12-01
+	Intel Corporation from 2021-12-01 until 2025-07-01
+	Northflank from 2025-07-01 until 2025-09-22
+	NVIDIA Corporation from 2025-09-22
 fiedukow: fiedukow!gmail.com, fiedukow!users.noreply.github.com
 	Opera Software ASA until 2016-02-01
 	Teradata from 2016-02-01 until 2017-09-01
