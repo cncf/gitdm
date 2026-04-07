@@ -11402,7 +11402,8 @@ mxpv: makpav!amazon.com, mxpv!users.noreply.github.com, pavlenko.maksym!gmail.co
 	Siftheme until 2016-12-01
 	Independent from 2016-12-01 until 2018-09-01
 	Amazon from 2018-09-01 until 2020-04-01
-	Apple Inc. from 2020-04-01
+	Apple Inc. from 2020-04-01 until 2024-12-30
+	NVIDIA Corporation from 2024-12-30
 mxsavchenko: mxsavchenko!users.noreply.github.com
 	ТК Череда until 2015-10-01
 	Latera LLC from 2015-10-01 until 2017-02-01
@@ -12612,7 +12613,8 @@ nathantsoi: nathan!vertile.com, nathantsoi!users.noreply.github.com
 nathanweatherly: nathanweatherly!users.noreply.github.com
 	Red Hat Inc.
 natherz97: nathan.herz97!gmail.com, natherz!amazon.com, natherz97!users.noreply.github.com
-	Amazon
+	Amazon until 2025-07-14
+	NVIDIA Corporation from 2025-07-14
 nathforge: email!nreynolds.co.uk, nathforge!users.noreply.github.com
 	Proxama until 2017-01-01
 	KCOM from 2017-01-01 until 2019-10-01

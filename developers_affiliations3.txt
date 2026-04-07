@@ -12318,7 +12318,7 @@ bep: bep!users.noreply.github.com, bjorn.erik.pedersen!gmail.com, gomes.tisystem
 bephinix: bephinix!users.noreply.github.com
 	Independent until 2020-04-01
 	Fraunhofer FKIE from 2020-04-01
-berendt: berendt!b1-systems.de, berendt!betacloud-solutions.de, berendt!users.noreply.github.com, christian!berendt.io, fillzpp.pub!gmail.com, junkmail!donaldpistole.com
+berendt: berendt!b1-systems.de, berendt!betacloud-solutions.de, berendt!users.noreply.github.com, christian!berendt.io, junkmail!donaldpistole.com
 	B1 Systems GmbH
 berenss: berenss!users.noreply.github.com, sberens!redhat.com
 	Red Hat Inc.
@@ -20449,6 +20449,8 @@ cdennig: dechrist!microsoft.com
 	ITML until 2015-12-01
 	Smart from 2015-12-01 until 2016-12-01
 	Microsoft Corporation from 2016-12-01
+cdesiniotis: cdesiniotis!users.noreply.github.com, chris.desiniotis!gmail.com
+	NVIDIA Corporation from 2021-07-19
 cdevienne: cdevienne!users.noreply.github.com, christophe!cdevienne.info
 	Orus
 cdickmann: cdickmann!users.noreply.github.com

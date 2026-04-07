@@ -5,6 +5,8 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+xdu31: jaydu!nvidia.com, xdu31!users.noreply.github.com
+	NVIDIA Corporation from 2025-12-01
 xiejunan: xiejunan!huawei.com, xiejunan!users.noreply.github.com
 	Huawei Technologies Co. Ltd
 xiekeyang: keyang.xie!gmail.com, xiekeyang!huawei.com, xiekeyang!users.noreply.github.com
@@ -5946,7 +5948,8 @@ zvlb: zvlb!users.noreply.github.com
 	СБЕР from 2021-06-01 until 2022-04-01
 	Obelis Limited from 2022-04-01
 zvonkok: zkosic!redhat.com, zvonkok!users.noreply.github.com
-	Red Hat Inc.
+	Red Hat Inc. until 2021-10-04
+	NVIDIA Corporation from 2021-10-04
 zw0610: zw0610!users.noreply.github.com
 	Independent until 2016-02-01
 	Wolfram Research from 2016-02-01 until 2018-03-01
