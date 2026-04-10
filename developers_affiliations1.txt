@@ -103,6 +103,12 @@
 	OCADO GROUP PLC
 0x0539: seabass!google.com, sebastian.goodman!gmail.com
 	Google LLC
+0x113: 0x113!users.noreply.github.com
+	Independent until 2020-09-01
+	CloudCasa from 2020-09-01 until 2023-05-01
+	Typebuilders from 2023-05-01 until 2025-11-01
+	Bitee.ai from 2025-11-01 until 2026-03-01
+	unveild from 2026-03-01
 0x2b3bfa0: 0x2b3bfa0!users.noreply.github.com
 	Iterative
 0x333333: jesusjzp!gmail.com
@@ -1469,6 +1475,10 @@ AbhiPrasad: AbhiPrasad!users.noreply.github.com
 	Independent from 2019-12-01 until 2020-05-01
 	Sentry from 2020-05-01 until 2020-08-01
 	Independent from 2020-08-01
+Abhiger: abhijitger!hotmail.com
+	Microsoft Corporation until 2014-10-01
+	Trafigura Global from 2014-10-01 until 2018-12-01
+	EY from 2018-12-01
 Abhijay007: abhijay007j!gmail.com
 	Independent until 2021-01-01
 	Mexili from 2021-01-01 until 2021-02-01
@@ -12194,7 +12204,7 @@ FilipSwiatczak: FilipSwiatczak!users.noreply.github.com, filip.swiatczak!gmail.c
 	Independent until 2017-07-01
 	Delio from 2017-07-01 until 2018-09-01
 	AJ Bell from 2018-09-01
-FillZpp: fillzpp.pub!gmail.com, FillZpp!users.noreply.github.com
+FillZpp: FillZpp!users.noreply.github.com, fillzpp.pub!gmail.com
 	International Business Machines Corporation until 2014-06-01
 	Asiainfo Technologies (China) Inc. from 2014-06-01 until 2014-12-01
 	Alibaba Group from 2014-12-01 until 2025-04-07
@@ -12966,7 +12976,8 @@ Gandem: Gandem!users.noreply.github.com, nayef.ghattas!gmail.com
 	Paris Digital from 2017-01-01 until 2017-08-01
 	Datadog Inc from 2017-08-01
 GaneshBannur: 76954924+GaneshBannur!users.noreply.github.com
-	Amazon from 2026-04-06
+	Independent until 2024-04-06
+	Amazon from 2024-04-06
 GaneshSPatil: GaneshSPatil!users.noreply.github.com, ganeshp8996!gmail.com, ganeshpl!thoughtworks.com
 	ThoughtWorks Inc
 Gangaram-Dewasi: Gangaram-Dewasi!users.noreply.github.com
@@ -22951,6 +22962,10 @@ MoShitrit: MoShitrit!users.noreply.github.com
 	Liaison from 2017-02-01 until 2017-12-01
 	TSYS Corporation from 2017-12-01 until 2018-10-01
 	SalesLoft from 2018-10-01
+MoZadro: MoZadro!users.noreply.github.com
+	AvaCom until 2014-07-01
+	Independent from 2014-07-01 until 2017-10-01
+	Sportradar from 2017-10-01
 MoZhonghua: MoZhonghua!users.noreply.github.com
 	iQIYI
 MoaidHathot: MoaidHathot!users.noreply.github.com
@@ -23679,17 +23694,3 @@ NLaws: NLaws!users.noreply.github.com
 	CAMUS ENERGY INC from 2022-07-01
 NM4: NM4!users.noreply.github.com
 	ACE-GL
-NMFR: NMFR!users.noreply.github.com
-	Safira Group AB until 2016-07-01
-	Frames from 2016-07-01
-NOX73: NOX73!users.noreply.github.com, alex2789!gmail.com, nox73!ya.ru
-	NFLabs
-NPDebs: NPDebs!users.noreply.github.com
-	Independent until 2022-05-01
-	Zuri from 2022-05-01
-NPellet: NPellet!users.noreply.github.com
-	PRECIDATA until 2017-08-01
-	Independent from 2017-08-01 until 2018-01-01
-	Q CELLS from 2018-01-01 until 2019-04-01
-	Boegli-Gravures from 2019-04-01 until 2022-10-01
-	Lendis from 2022-10-01
