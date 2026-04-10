@@ -2029,7 +2029,8 @@ g-gaston: g-gaston!users.noreply.github.com
 	Independent until 2016-10-01
 	Grainger from 2016-10-01 until 2018-11-01
 	Fooda from 2018-11-01 until 2021-03-01
-	AWS from 2021-03-01
+	AWS from 2021-03-01 until 2025-12-01
+	NVIDIA Corporation from 2025-12-01
 g-io: g-io!users.noreply.github.com
 	MeteoGroup until 2021-01-01
 	Volkswagen from 2021-01-01
@@ -8179,7 +8180,8 @@ gyuho: gyuho!users.noreply.github.com, gyuhox!gmail.com, leegyuho!amazon.com
 	CoreOS Inc. from 2015-12-01 until 2018-08-01
 	Amazon from 2018-08-01 until 2021-10-01
 	Ava Labs from 2021-10-01 until 2023-07-01
-	TBA from 2023-07-01
+	TBA from 2023-07-01 until 2025-04-07
+	NVIDIA Corporation from 2025-04-07
 gyulaweber: gyula.weber.in!gmail.com, gyula_weber!fastmail.com, gyulaweber!users.noreply.github.com
 	EPAM Systems Inc
 gyunnkim: gyunnkim!users.noreply.github.com
@@ -21999,10 +22001,11 @@ jgbernalp: jgbernalp!users.noreply.github.com
 	Red Hat Inc. from 2022-01-01
 jgeewax: jgeewax!users.noreply.github.com, jj!geewax.org
 	Google LLC
-jgehrcke: jgehrcke!googlemail.com, jgehrcke!users.noreply.github.com
+jgehrcke: jgehrcke!googlemail.com, jgehrcke!nvidia.com, jgehrcke!users.noreply.github.com
 	Independent until 2015-10-01
 	Mesosphere from 2015-10-01 until 2019-10-01
-	TBD - TV from 2019-10-01
+	TBD - TV from 2019-10-01 until 2025-01-27
+	NVIDIA Corporation from 2025-01-27
 jgelens: jeffrey!gelens.org, jgelens!users.noreply.github.com
 	Noppo
 jgeliex: jonathanx.gelie!intel.com
