@@ -7254,6 +7254,7 @@ rdna: rdna!fb.com
 	YANDEX LLC until 2015-09-01
 	Meta Platforms Inc. from 2015-09-01
 rdner: denis.rechkunov!elastic.co, rdner!users.noreply.github.com
+	Independent until 2026-04-10
 	Elasticsearch Inc. from 2026-04-10
 rdodev: orduzr!vmware.com, rdodev!users.noreply.github.com, rdodev!vmware.com, rubenoz!gmail.com
 	Rackspace until 2015-02-01
@@ -23380,9 +23381,9 @@ slashr: slashr!users.noreply.github.com
 	Independent from 2017-09-01 until 2018-09-01
 	Checkout Charlie from 2018-09-01 until 2020-12-01
 	understand.ai from 2020-12-01
-slaskawi: sebastian.laskawiec!gmail.com, sebastian.laskawiec!redhat.com, slaskawi!redhat.com, slaskawi!users.noreply.github.com, sebastian.laskawiec!mongodb.com, sebastian.laskawiec!defenseunicorns.com
+slaskawi: sebastian.laskawiec!defenseunicorns.com, sebastian.laskawiec!gmail.com, sebastian.laskawiec!mongodb.com, sebastian.laskawiec!redhat.com, slaskawi!redhat.com, slaskawi!users.noreply.github.com
 	Red Hat Inc. until 2022-06-01
-	MongoDB Inc from 2022-06-01 until 2025-01-01
+	monday.com Limited from 2022-06-01 until 2025-01-01
 	Defense Unicorns from 2025-01-01
 slater-ben: ben.slater!instaclustr.com
 	Accenture Global Solutions Limited until 2015-02-01
@@ -23635,11 +23636,3 @@ smaffulli: smaffulli!gmail.com, stefano!maffulli.net, stefano!openstack.org
 	OpenStack Foundation until 2015-06-01
 	DreamHost LLC. from 2015-06-01 until 2018-03-01
 	Scality Inc. from 2018-03-01
-smakam: smakam!users.noreply.github.com
-	Cisco Systems Inc. until 2015-10-01
-	Docker Inc. from 2015-10-01 until 2018-03-01
-	Google LLC from 2018-03-01 until 2021-12-01
-	BYJU'S from 2021-12-01
-smallcreep: ilia.rogozhin!gmail.com
-	Inforbix until 2014-09-01
-	МедиаТех from 2014-09-01
