@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+NLaws: NLaws!users.noreply.github.com
+	Independent until 2022-07-01
+	CAMUS ENERGY INC from 2022-07-01
+NM4: NM4!users.noreply.github.com
+	ACE-GL
 NMFR: NMFR!users.noreply.github.com
 	Safira Group AB until 2016-07-01
 	Frames from 2016-07-01
@@ -23573,6 +23578,3 @@ ameer00: ameer00!gmail.com, ameer00!users.noreply.github.com
 	Google LLC from 2017-07-01
 ameetkonnur: ameetkonnur!users.noreply.github.com
 	Microsoft Corporation
-ameetkotian: akotian!slack-corp.com, ameetkotian!users.noreply.github.com
-	Twitter Inc. until 2017-02-01
-	Slack Technologies Inc. from 2017-02-01

@@ -5,6 +5,43 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+sm1lexops: sm1lexops!users.noreply.github.com
+	BFT until 2019-11-01
+	Independent from 2019-11-01 until 2024-01-01
+	TeachMeSkills from 2024-01-01 until 2025-01-01
+	SoftGamings from 2025-01-01
+sm43: sm43!users.noreply.github.com, smukhade!redhat.com
+	Independent until 2018-05-01
+	Lifetron from 2018-05-01 until 2018-06-01
+	Independent from 2018-06-01 until 2019-01-01
+	Symantec Corporation from 2019-01-01 until 2019-06-01
+	Independent from 2019-06-01 until 2019-09-01
+	Red Hat Inc. from 2019-09-01 until 2023-01-01
+	Wooga from 2023-01-01
+smac89: medros1455!gmail.com, smac89!users.noreply.github.com
+	Matrixspec
+smacarth: shawn!nospam.com, shawnmacarthur!gmail.com, smacarth!users.noreply.github.com
+	VMTraining
+smackmybitsup: smackmybitsup!users.noreply.github.com
+	Ntrepid until 2017-07-01
+	Petco from 2017-07-01 until 2021-05-01
+	ServiceNow from 2021-05-01
+smaclennan: seanm!seanm.ca
+	CloudLink LLC until 2015-11-01
+	Diablo Technologies from 2015-11-01 until 2017-10-01
+	BlackBerry Limited from 2017-10-01
+smaeul: samuel!sholland.org
+	Independent
+smaeul: smaeul!users.noreply.github.com
+	Cisco Systems Inc. until 2016-10-01
+	Ticketmaste from 2016-10-01 until 2017-07-01
+	Medallia from 2017-07-01 until 2018-02-01
+	IG Group Ltd. from 2018-02-01 until 2019-12-01
+	Skyscanner from 2019-12-01
+smaffulli: smaffulli!gmail.com, stefano!maffulli.net, stefano!openstack.org
+	OpenStack Foundation until 2015-06-01
+	DreamHost LLC. from 2015-06-01 until 2018-03-01
+	Scality Inc. from 2018-03-01
 smakam: smakam!users.noreply.github.com
 	Cisco Systems Inc. until 2015-10-01
 	Docker Inc. from 2015-10-01 until 2018-03-01
@@ -23945,41 +23982,3 @@ xelatex: chunqi.li.pku!gmail.com, xelatex!users.noreply.github.com, yzt356!gmail
 	Google LLC until 2014-09-01
 	VMware Inc. from 2014-09-01 until 2016-02-01
 	Google LLC from 2016-02-01
-xemul: xemul!parallels.com, xemul!users.noreply.github.com
-	Parallels Research
-xenithorb: xenithorb!users.noreply.github.com
-	Gubagoo Inc until 2015-10-01
-	Independent from 2015-10-01 until 2016-01-01
-	Contact Velocity from 2016-01-01 until 2018-05-01
-	OpSech IT from 2018-05-01 until 2019-02-01
-	Apptio from 2019-02-01
-xenolinux: xenolinux!users.noreply.github.com
-	Independent until 2018-06-01
-	Red Hat Inc. from 2018-06-01
-xenolog: svasilenko!mirantis.com, xenolog!users.noreply.github.com
-	Mirantis Inc.
-xenoscopic: jacob!xenoscopic.com
-	CERN until 2015-04-01
-	Independent from 2015-04-01 until 2019-01-01
-	Mutagen from 2019-01-01
-xens: r.aviolat!gmail.com, xens!users.noreply.github.com
-	Kudelski
-xeonx: simonhege!gmail.com, xeonx!users.noreply.github.com
-	CGX AERO until 2015-12-01
-	Amadeus from 2015-12-01
-xeor: lars.solberg+github!gmail.com, xeor!users.noreply.github.com
-	Sykehuspartner until 2013-03-15
-	Sopra Steria Group from 2013-03-15 until 2015-01-15
-	Sykehuspartner from 2015-01-15
-xerial: leo!xerial.org, xerial!users.noreply.github.com
-	Treasure Data Inc. until 2018-07-01
-	ARM from 2018-07-01
-xerofoify: xerofoify!gmail.com
-	Legacy
-xeruf: 27jf!pm.me
-	Independent
-xescab: xescab!users.noreply.github.com
-	TOPdesk until 2015-09-01
-	ALTEN Spain from 2015-09-01 until 2018-08-01
-	CAPSiDE from 2018-08-01 until 2021-10-01
-	NTT Corporation from 2021-10-01

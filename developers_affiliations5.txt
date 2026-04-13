@@ -5,6 +5,19 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+fixl: fixl!users.noreply.github.com
+	DGIT until 2015-10-01
+	Sixtree from 2015-10-01 until 2016-08-01
+	Deloitte New Zealand from 2016-08-01 until 2018-01-01
+	Contino from 2018-01-01
+fjaeckel: fjaeckel!github.com, fjaeckel!users.noreply.github.com, frederic.jaeckel!megaport.com, irwanbibrahim!onewoorks.com, josephandrewdelapena!gmail.com
+	Megaport
+fjagugar: fjagugar!users.noreply.github.com
+	Independent until 2015-06-01
+	Bitnami Inc. from 2015-06-01 until 2019-05-01
+	VMware Inc. from 2019-05-01
+fjammes: fjammes!users.noreply.github.com
+	SLAC
 fjbecerra: fjbecerra!users.noreply.github.com, fran.bcra!gmail.com
 	KatchUp until 2014-12-01
 	Dentsu from 2014-12-01 until 2017-02-01
@@ -23877,14 +23890,3 @@ jlourenc: jeremy!lourenco.io, jlourenc!users.noreply.github.com
 	Wiz from 2025-04-01
 jlowdermilk: jeffml!google.com, jlowdermilk!users.noreply.github.com, tiro.jeff.ml!gmail.com
 	Google LLC
-jlozano-rh: jlozano-rh!users.noreply.github.com
-	CIMA until 2014-09-01
-	GlobalLogic Inc. from 2014-09-01 until 2016-07-01
-	Tecnosoftware from 2016-07-01 until 2017-04-01
-	Oracle America Inc. from 2017-04-01 until 2018-07-01
-	Softtek from 2018-07-01 until 2020-02-01
-	Vault Consulting from 2020-02-01 until 2021-08-01
-	Red Hat Inc. from 2021-08-01
-jlpadilla: jlpadilla!users.noreply.github.com, jpadilla!redhat.com
-	International Business Machines Corporation until 2020-03-01
-	Red Hat Inc. from 2020-03-01
