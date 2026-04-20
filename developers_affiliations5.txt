@@ -5,6 +5,23 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+finnag: finnag!users.noreply.github.com
+	cXense until 2018-04-01
+	Independent from 2018-04-01 until 2018-06-01
+	Arcane Crypto from 2018-06-01 until 2019-11-01
+	Skatteetaten from 2019-11-01 until 2020-05-01
+	Cognite AS from 2020-05-01
+finnbear: finnbear!users.noreply.github.com, finnbearone!gmail.com
+	Independent until 2015-01-01
+	People Driven Performance from 2015-01-01 until 2019-01-01
+	Independent from 2019-01-01 until 2023-04-01
+	SurrealDB from 2023-04-01 until 2023-06-01
+	Independent from 2023-06-01 until 2025-04-01
+	Softbear from 2025-04-01
+finnq: finnq!users.noreply.github.com
+	novag
+fiorix: fiorix!gmail.com, fiorix!users.noreply.github.com
+	Meta Platforms Inc.
 fipro78: fipro78!users.noreply.github.com
 	BeOne Stuttgart until 2014-04-01
 	Codecentric AG from 2014-04-01 until 2015-09-01
@@ -23867,22 +23884,3 @@ jkt628: jkt628!users.noreply.github.com
 	Adobe Inc.
 jktjkt: bezumkin!yandex.ru, jan.kundrat!cesnet.cz, jkt!flaska.net, jkt!kde.org
 	CESNET a.l.e.
-jku: jku!goto.fi
-	Intel Corporation until 2017-09-01
-	Compile Oy from 2017-09-01 until 2020-01-01
-	VMware Inc. from 2020-01-01
-jkupferer: jkupfere!redhat.com, jkupferer!users.noreply.github.com
-	Yellow until 2016-07-01
-	Red Hat Inc. from 2016-07-01
-jkusa: jkusa!users.noreply.github.com
-	Yahoo! Inc.
-jkutner: jkutner!users.noreply.github.com, joe!heroku.com
-	Heroku Inc.
-jkutner: joekutner!icloud.com, jpkutner!gmail.com
-	Salesforce.com Inc.
-jkwatson: jkwatson!gmail.com, jkwatson!users.noreply.github.com, jwatson!newrelic.com
-	Madarka Inc. until 2017-03-01
-	New Relic Inc. from 2017-03-01 until 2020-09-21
-	Splunk Inc. from 2020-09-21
-jl2005: jiaolongdy!163.com, jl2005!users.noreply.github.com
-	NetEase Inc
