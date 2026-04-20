@@ -63,7 +63,7 @@ class LogPatchSplitter:
         arr2 = []
         for i in range(len(arr) - 1):
             s = arr[i]
-            if s != '' and s != 'Date:':
+            if s and s not in ('Date:', 'CommitDate:'):
                 arr2.append(s)
         datestr = ' '.join(arr2)
         date = datetime.datetime.strptime(datestr, '%a %b %d %H:%M:%S %Y')
