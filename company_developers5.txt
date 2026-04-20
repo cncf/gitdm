@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+GovTech Singapore:
+	chrissng: chrissng!users.noreply.github.com from 2015-08-01 until 2018-07-01
+GovWhiz:
+	FezVrasta: FezVrasta!users.noreply.github.com, federico.zivolo!gmail.com from 2014-12-01 until 2015-03-01
 Goverment Digital Service:
 	andy-paine-numan: andy-paine-numan!users.noreply.github.com from 2018-03-01 until 2019-10-01
 	bilbof: bilbof!users.noreply.github.com from 2018-09-01 until 2022-03-01

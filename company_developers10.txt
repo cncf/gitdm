@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+RGK:
+	agu3rra: agu3rra!pm.me, agu3rra!users.noreply.github.com until 2018-03-01
 RGP:
 	AnthonyRuffinoDH: AnthonyRuffinoDH!users.noreply.github.com from 2015-04-01 until 2017-05-01
 RGT Cycling:
@@ -2458,6 +2460,7 @@ Red Hat Inc.:
 	arnongilboa: arnongilboa!users.noreply.github.com
 	art-tapin: art-tapin!users.noreply.github.com from 2023-03-01 until 2023-08-01, from 2024-06-01
 	artaleks9: oshmarai!redhat.com
+	arthur-r-oliveira: arthur-r-oliveira!users.noreply.github.com from 2021-11-01
 	artmello: amello!redhat.com, arthur.mello85!gmail.com, artmello!users.noreply.github.com from 2017-06-01 until 2019-05-01
 	arun-gupta: arun-gupta!users.noreply.github.com, arun.gupta!gmail.com until 2015-09-01
 	arvin-a: arvin-a!users.noreply.github.com
@@ -3277,6 +3280,7 @@ Red Hat Inc.:
 	hongkailiu: hongkailiu!users.noreply.github.com, hongkliu!redhat.com from 2017-06-01
 	honza: honza!redhat.com, honza!users.noreply.github.com, lazyval!gmail.com, mail!lukahartwig.de, me!honza.ca from 2016-02-01
 	hrishin: hrishin!users.noreply.github.com, hrishishinde.p!gmail.com, hshinde!redhat.com
+	hroncok: hroncok!users.noreply.github.com, miro!hroncok.cz
 	hroyrh: hroyrh!users.noreply.github.com
 	hsiangkao: boatwind!gmail.com, hsiangkao!aol.com, hsiangkao!users.noreply.github.com from 2020-04-01 until 2021-05-01
 	hstastna: stastna.hilda!proton.me from 2015-07-01 until 2024-06-01
@@ -13427,6 +13431,8 @@ SearchLateral:
 	Datamance: Datamance!users.noreply.github.com, rico.l.rodriguez!gmail.com from 2014-08-01 until 2015-03-01
 Searchanise:
 	dbazhenov: daniil.bazhenov!percona.com from 2018-01-01 until 2019-09-01
+Searchbar:
+	himanshu-ntml: himanshu-ntml!users.noreply.github.com from 2019-09-01 until 2019-12-01
 Searchlight:
 	rcrowe-google: rcrowe-google!users.noreply.github.com, robertcrowe!google.com until 2018-08-01
 Searchmetrics:
@@ -15840,10 +15846,3 @@ Sightline Innovation:
 	mtughan: mtughan!users.noreply.github.com until 2015-02-01
 Sigma Designs Inc.:
 	tejlmand: tejlmand!users.noreply.github.com, torsten.rasmussen!nordicsemi.no from 2015-06-01 until 2018-04-01
-Sigma IT:
-	SebRosander: SebRosander!users.noreply.github.com from 2018-08-01 until 2019-08-01
-	ievgen-kolomiiets: ievgen-kolomiiets!users.noreply.github.com from 2016-06-01 until 2018-05-01
-	kilobyte: kilobyte!angband.pl from 2018-11-01
-	swizkon: swizkon!users.noreply.github.com from 2018-10-01 until 2020-06-01
-Sigma Informatique:
-	wanix: wanix!users.noreply.github.com, wanix.fr!gmail.com until 2016-07-01
