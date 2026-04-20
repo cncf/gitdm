@@ -542,7 +542,7 @@ def ReportByFileType (hacker_list):
         by_hacker = {}
         for patch in h.patches:
             # Get a summary by hacker
-            for (filetype, (added, removed)) in patch.filetypes.iteritems():
+            for (filetype, (added, removed)) in patch.filetypes.items():
                 if filetype in by_hacker:
                     by_hacker[filetype][patch.ADDED] += added
                     by_hacker[filetype][patch.REMOVED] += removed
@@ -557,21 +557,21 @@ def ReportByFileType (hacker_list):
                     total[filetype] = [added, removed, []]
 
         # Print a summary by hacker
-        print email_encode(h.full_name_with_aff())
-        for filetype, counters in by_hacker.iteritems():
-            print '\t', filetype, counters
+        print(email_encode(h.full_name_with_aff()))
+        for filetype, counters in by_hacker.items():
+            print('\t', filetype, counters)
             h_added = by_hacker[filetype][patch.ADDED]
             h_removed = by_hacker[filetype][patch.REMOVED]
             total[filetype][2].append ([h.full_name_with_aff(), h_added, h_removed])
 
     # Print the global summary
     BeginReport ('Contributions by type and developers')
-    for filetype, (added, removed, hackers) in total.iteritems():
-        print filetype, added, removed
+    for filetype, (added, removed, hackers) in total.items():
+        print(filetype, added, removed)
         for h, h_added, h_removed in hackers:
-            print email_encode('\t%s: [%d, %d]' % (h, h_added, h_removed))
+            print(email_encode('\t%s: [%d, %d]' % (h, h_added, h_removed)))
 
     # Print the very global summary
     BeginReport ('General contributions by type')
-    for filetype, (added, removed, hackers) in total.iteritems():
-        print filetype, added, removed
+    for filetype, (added, removed, hackers) in total.items():
+        print(filetype, added, removed)
