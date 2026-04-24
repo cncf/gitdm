@@ -687,7 +687,8 @@ amy: amy!users.noreply.github.com, amyc!vmware.com
 	Heptio Inc. from 2017-12-01 until 2018-12-01
 	VMware Inc. from 2018-12-01 until 2020-01-01
 	Independent from 2020-01-01 until 2021-04-01
-	Apple Inc. from 2021-04-01
+	Apple Inc. from 2021-04-01 until 2026-03-03
+	CoreWeave from 2026-03-09
 amy-super: amy-super!users.noreply.github.com, amy.super!grafana.com, amylsuper!gmail.com
 	Grafana Labs
 amybachir: amybachir!users.noreply.github.com
