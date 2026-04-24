@@ -169,6 +169,7 @@ def affiliations(affiliations_file, json_file, email_map)
       emails = possible_emails.map { |e| email_encode(e) }.reject { |e| e.nil? || e.empty? || !e.include?('!') }.uniq
       if emails.length != possible_emails.length
         puts "Wrong emails config (some discarded)"
+        p [emails, possible_emails]
         p h
         binding.pry
         next
