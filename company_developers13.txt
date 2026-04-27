@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Zonal:
+	vxav: xavier.avrillier!gmail.com from 2015-08-01 until 2017-08-01
 Zonar:
 	derekheld: derekheld!users.noreply.github.com from 2018-08-01 until 2021-06-01
 Zonar Systems Inc:
