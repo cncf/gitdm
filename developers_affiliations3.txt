@@ -5,6 +5,8 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+amazingyyc: amazingyyc!outlook.com
+	Microsoft Corporation
 ambar-cap: ambar.mehrotra!capillarytech.com
 	Independent until 2015-05-01
 	Google LLC from 2015-05-01 until 2015-08-01
@@ -16060,7 +16062,8 @@ bradjones1: bradjones1!users.noreply.github.com
 	Fruition from 2020-03-01
 bradleyjones: jones.bradley!me.com
 	Cisco Systems Inc.
-bradleypettit: bradleypettit!users.noreply.github.com, bradley.pettit!grafana.com, bradleypettit16!gmail.com
+bradleypettit: bradley.pettit!grafana.com, bradleypettit!users.noreply.github.com, bradleypettit16!gmail.com
+	Independent until 2022-09-01
 	Grafana Labs from 2022-09-01
 bradlygreen: bradlygreen!gmail.com, bradlygreen!users.noreply.github.com
 	Google LLC until 2017-06-01

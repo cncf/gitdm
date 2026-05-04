@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Trainline:
+	afscrome: afscrome!users.noreply.github.com from 2015-03-01 until 2015-12-01
+	alex3165: alexr.3165!gmail.com from 2016-10-01 until 2018-03-01
+	chtitux: chtitux!gmail.com from 2015-11-01 until 2021-06-01
+	moabukar: moabukar!users.noreply.github.com from 2022-08-01 until 2024-06-01
+	sengjea: sengjea!users.noreply.github.com from 2016-08-01 until 2019-01-01
 Trainline.com Limited:
 	craigbilner: craig.bilner!gmail.com, craigbilner!users.noreply.github.com from 2015-07-15 until 2016-02-15
 	razaj92: razaj92!users.noreply.github.com, razajhaveri!googlemail.com
@@ -4728,7 +4734,7 @@ VMware Inc.:
 	RubenV-dev: 55550481+RubenV-dev!users.noreply.github.com, RubenV-dev!users.noreply.github.com from 2021-07-26
 	SDBrett: SDBrett!users.noreply.github.com, brett!sdbrett.com from 2017-05-01
 	Sagar2366: Sagar2366!users.noreply.github.com, sagarutekar2366!gmail.com from 2021-03-01
-	Salaboy: Salaboy!gmail.com, Salaboy!users.noreply.github.com from 2021-07-04
+	Salaboy: Salaboy!gmail.com, Salaboy!users.noreply.github.com, mauricio.salatino!dash0.com, salaboy!dash0.com from 2021-07-04 until 2026-04-01
 	SandeepPissay: SandeepPissay!users.noreply.github.com, ssrinivas!vmware.com
 	SanikaGawhane: SanikaGawhane!users.noreply.github.com from 2019-11-01 until 2024-03-01
 	ScriptAutomate: ScriptAutomate!users.noreply.github.com from 2020-10-01 until 2021-10-01
@@ -16203,18 +16209,3 @@ Zolplay:
 	CaliCastle: hi!cali.so
 Zolve:
 	neeltom92: neeltom92!gmail.com from 2021-04-01 until 2022-05-01
-Zomato:
-	17sushmita: 17sushmita!gmail.com from 2021-09-01
-	aktech: aktech!users.noreply.github.com, dtu.amit!gmail.com from 2016-10-01 until 2017-10-01
-	chartotu19: chartotu19!users.noreply.github.com until 2015-04-01
-	dilip640: dilip.sharma!zomato.com, dilip640!users.noreply.github.com from 2021-07-01
-	mohakkataria: mohakkataria!outlook.com from 2015-01-01 until 2017-04-01
-	phoenix24: phoenix24!users.noreply.github.com from 2017-03-01 until 2018-08-01
-	rishantagarwal: bindasrishant!gmail.com, rishantagarwal!users.noreply.github.com until 2014-08-01
-	shubhamchaudhary: shubhamchaudhary!users.noreply.github.com from 2015-07-01 until 2019-02-01
-Zombie Labs:
-	benhutchins: ben!hutchins.co, benhutchins!users.noreply.github.com from 2016-12-01 until 2018-01-01
-Zomentum:
-	shashankn91: nagamalla.shashank50!gmail.com, shashankn91!users.noreply.github.com from 2019-06-01 until 2020-06-01
-Zona Zero:
-	eavelardev: eavelardev!gmail.com, eavelardev!users.noreply.github.com until 2015-11-01
