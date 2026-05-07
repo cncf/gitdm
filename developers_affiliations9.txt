@@ -5,6 +5,88 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+skinsbursky: skinsbursky!virtuozzo.com
+	Virtuozzo International GmbH
+skippy: adam.greene!gmail.com, skippy!users.noreply.github.com
+	Independent
+skiptomyliu: skiptomyliu!users.noreply.github.com
+	Guidebook until 2015-03-01
+	Independent from 2015-03-01 until 2015-08-01
+	Pandora from 2015-08-01 until 2018-04-01
+	Lyft Inc. from 2018-04-01
+skirsten: skirsten!users.noreply.github.com
+	Independent until 2020-02-01
+	Genesis from 2020-02-01
+skitt: skitt!users.noreply.github.com
+	Enedis until 2015-06-01
+	Red Hat Inc. from 2015-06-01
+skjolber: skjolber!users.noreply.github.com, thomas.skjolberg!gmail.com
+	Greenbird until 2016-07-01
+	CGI Norge from 2016-07-01 until 2022-02-01
+	Sportyer from 2022-02-01
+skk2142: skk2142!users.noreply.github.com
+	Independent until 2019-07-01
+	kollate from 2019-07-01 until 2022-01-01
+	HappyFunCorp from 2022-01-01
+skl: skl!users.noreply.github.com, stephen.lang!grafana.com
+	Independent until 2023-01-09
+	Grafana Labs from 2023-01-09
+skladany: skladany!users.noreply.github.com
+	North Street until 2018-03-01
+	Red Ventures from 2018-03-01 until 2021-03-01
+	Minerva from 2021-03-01 until 2022-08-01
+	Odeko from 2022-08-01 until 2023-12-01
+	Independent from 2023-12-01 until 2024-04-01
+	AWS from 2024-04-01 until 2025-06-01
+	Amazon from 2025-06-01
+skloss: skloss!users.noreply.github.com, stefan.kloss!smartfrog.com
+	Smartfrog
+skmaingi: skmaingi!users.noreply.github.com
+	Nucleus Enterprise
+skmatti: skmatti!users.noreply.github.com, smatti!google.com
+	Independent until 2017-06-01
+	Informatica Corporation from 2017-06-01 until 2017-09-01
+	Independent from 2017-09-01 until 2018-05-01
+	NVIDIA Corporation from 2018-05-01 until 2019-07-01
+	Google LLC from 2019-07-01
+skmkzyk: kasakemi!microsoft.com, skmkzyk!users.noreply.github.com
+	Internet Initiative until 2017-11-01
+	Tata from 2017-11-01 until 2019-03-01
+	Microsoft Corporation from 2019-03-01
+sknop-cgn: sknop-cgn!users.noreply.github.com
+	PlusServer
+sknorr: sknorr!suse.de
+	SUSE LLC
+sknsean: sean!geanix.com, sean!nyekjaer.dk, sean.nyekjaer!prevas.dk
+	Geanix ApS
+skodialb-bmc: skodialb-bmc!users.noreply.github.com
+	BMC Software Inc
+skoef: reinier!skoef.nl, skoef!users.noreply.github.com
+	TransIP
+skoenig: skoenig!users.noreply.github.com
+	Zalando SE until 2014-05-01
+	Independent from 2014-05-01 until 2020-06-01
+	Zalando SE from 2020-06-01 until 2020-10-01
+	Fit Analytics from 2020-10-01
+skoeva: skoeva!users.noreply.github.com
+	Microsoft Corporation
+skogsbrus: contact!skogsbrus.xyz, skogsbrus!users.noreply.github.com
+	Independent until 2018-06-01
+	Independent from 2018-06-01 until 2019-02-01
+	Modcam from 2019-02-01 until 2019-06-01
+	Independent from 2019-06-01 until 2019-08-01
+	Modcam from 2019-08-01 until 2020-08-01
+	Emerse from 2020-08-01 until 2081-08-01
+	Cisco Systems Inc. from 2081-08-01
+skogtwin: skogtwin!users.noreply.github.com
+	Meta Platforms Inc.
+skokaina: skokaina!users.noreply.github.com
+	Independent until 2018-10-01
+	DigiServ from 2018-10-01 until 2019-09-01
+	Editions ENI from 2019-09-01 until 2020-09-01
+	McKinsey & Company from 2020-09-01
+skolekonov: skolekonov!mirantis.com, skolekonov!users.noreply.github.com
+	Mirantis Inc.
 skolenkin: fr05t1k4!gmail.com, skolenkin!users.noreply.github.com, stas.kolenkin!gmail.com
 	Mirantis until 2017-04-01
 	DataArt Solutions Inc. DBA: DeviceHive from 2017-04-01 until 2018-03-01
@@ -1953,6 +2035,8 @@ sostheim: rick!sostheim.com
 sostheim: sostheim!users.noreply.github.com
 	Samsung SDS until 2018-05-25
 	Amazon from 2018-05-25
+sosyz: sonui!apache.org
+	Mercallure
 sotayamashita: sotayamashita!users.noreply.github.com
 	Deis Inc. (EngineYard) until 2014-04-01
 	CyberAgent from 2014-04-01 until 2017-04-01
@@ -16646,6 +16730,8 @@ urimashi: uri.mashiach!compulab.co.il
 urish: uri!salsa4fun.co.il, uri!urishaked.com, urish!users.noreply.github.com
 	BlackBerry Limited until 2018-11-01
 	VoiceOn from 2018-11-01
+urlyy: urlyy!apache.org
+	Independent
 uromahn: uromahn!users.noreply.github.com
 	PayPal until 2015-05-01
 	GRIN from 2015-05-01 until 2016-05-01
@@ -23579,6 +23665,13 @@ wolvery: GUISIGO!GMAIL.COM
 	CI&T from 2020-08-01 until 2020-11-01
 	Inter from 2020-11-01 until 2022-02-01
 	Glovo from 2022-02-01
+womaohuala: womaohuala!users.noreply.github.com
+	Allianz Deutschland AG until 2015-05-01
+	Independent from 2015-05-01 until 2017-07-01
+	FWD from 2017-07-01 until 2020-02-01
+	Pacific Life Re from 2020-02-01 until 2024-01-01
+	Independent from 2024-01-01 until 2024-08-01
+	Prudential from 2024-08-01
 wombat: mail!wombatsoftware.de, wombat!users.noreply.github.com
 	ShopAdvisors until 2015-06-01
 	Wombat Software UG from 2015-06-01
@@ -23893,86 +23986,3 @@ wsargent: rednaxe!gmail.com, will.sargent!gmail.com, wsargent!users.noreply.gith
 	Lightbend Inc
 wsbmilk: wsbmilk!users.noreply.github.com
 	wecash
-wseaton: wseaton!users.noreply.github.com
-	Independent until 2015-05-01
-	MaxPoint from 2015-05-01 until 2016-01-01
-	Independent from 2016-01-01 until 2016-04-01
-	Valassis Marketing Solutions from 2016-04-01 until 2018-04-01
-	Lenovo from 2018-04-01 until 2018-10-01
-	Red Hat Inc. from 2018-10-01
-wsf11: wsf11!users.noreply.github.com
-	Independent until 2015-06-01
-	Seltek from 2015-06-01 until 2015-08-01
-	Independent from 2015-08-01 until 2016-05-01
-	Capital One Financial Corporation from 2016-05-01 until 2016-07-01
-	Independent from 2016-07-01 until 2017-05-01
-	CloudHealth by VMware from 2017-05-01 until 2017-08-01
-	Independent from 2017-08-01 until 2018-05-01
-	Microsoft Corporation from 2018-05-01 until 2018-08-01
-	Independent from 2018-08-01 until 2019-08-01
-	Microsoft Corporation from 2019-08-01
-wsh: wsh!users.noreply.github.com
-	Google LLC
-wshaffer: wshaffer!users.noreply.github.com, wshaffer74!mac.com
-	VMware Inc.
-wshihadeh: wshihadeh!users.noreply.github.com, wshihadeh.dev!gmail.com
-	Airbus until 2014-10-01
-	Independent from 2014-10-01 until 2015-10-01
-	Fidor Solutions from 2015-10-01
-wsilva: wsilva!users.noreply.github.com, wsilva!usp.br
-	Dafiti until 2014-09-01
-	Tricae from 2014-09-01 until 2017-03-01
-	Easy from 2017-03-01 until 2018-10-01
-	Cabify from 2018-10-01 until 2019-12-01
-	Independent from 2019-12-01 until 2020-02-01
-	iFood from 2020-02-01
-wsong: wsong!docker.com, wsong!users.noreply.github.com
-	Docker Inc.
-wsoualhi: wsoualhi!users.noreply.github.com
-	Ericsson until 2017-12-01
-	Bouygues Telecom from 2017-12-01 until 2021-08-01
-	Mirantis from 2021-08-01
-wssgyyg: 827580591!qq.com, wssgyyg!users.noreply.github.com
-	Tencent Holdings Limited
-wstarzak: wstarzak!users.noreply.github.com
-	Teltom until 2016-06-01
-	Telewizja Kablowa Dipol from 2016-06-01 until 2016-08-01
-	Independent from 2016-08-01 until 2017-06-01
-	Instapage from 2017-06-01 until 2020-05-01
-	Netguru from 2020-05-01 until 2022-04-01
-	CCC Group from 2022-04-01 until 2022-10-01
-	Tellent from 2022-10-01
-wstewartii: wstewartii!users.noreply.github.com
-	Hostway Corporation until 2015-06-01
-	InvestCloud from 2015-06-01 until 2017-11-01
-	Homes from 2017-11-01 until 2018-02-01
-	Kolide from 2018-02-01 until 2018-11-01
-	Gerdau from 2018-11-01 until 2019-12-01
-	Contino from 2019-12-01
-wstrange: warren.strange!gmail.com, wstrange!users.noreply.github.com
-	ForgeRock until 2022-03-01
-	Independent from 2022-03-01
-wswcfan: wswcfan!gmail.com, wswcfan!users.noreply.github.com
-	Tencent Holdings Limited
-wsxiaozhang: wsxiaozhang!gmail.com, wsxiaozhang!users.noreply.github.com
-	Alibaba Group
-wtait1-ff: wtait1-ff!users.noreply.github.com
-	Independent until 2016-06-01
-	Integral Partners from 2016-06-01 until 2016-08-01
-	Independent from 2016-08-01 until 2017-05-01
-	Intuit Inc. from 2017-05-01 until 2017-08-01
-	Independent from 2017-08-01 until 2018-01-01
-	Intuit Inc. from 2018-01-01 until 2021-09-01
-	Flock Freight from 2021-09-01
-wtam2018: 44041377+wtam2018!users.noreply.github.com, email.wtam!gmail.com, phil!gyford.com, wtam!redhat.com, wtam2018!users.noreply.github.com
-	Red Hat Inc.
-wtcampos: wtcampos!users.noreply.github.com
-	Globo until 2019-07-01
-	HelloFresh from 2019-07-01 until 2020-12-01
-	TomTom International B.V. from 2020-12-01 until 2022-04-01
-	SeatGeek from 2022-04-01 until 2023-06-01
-	Preply Inc. from 2023-06-01
-wteiken: wteiken!google.com, wteiken!users.noreply.github.com
-	Google LLC
-wtgodbe: wigodbe!microsoft.com, wtgodbe!users.noreply.github.com
-	Microsoft Corporation
