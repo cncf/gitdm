@@ -19306,6 +19306,7 @@ emirot: emirot!users.noreply.github.com
 	RelayRides from 2015-02-01 until 2015-08-01
 	Turo from 2015-08-01 until 2019-08-01
 	Zillow Inc. from 2019-08-01 until 2022-06-01
+	Independent from 2022-06-01 until 2026-04-01
 	VMware Inc. from 2026-04-01
 emirsaidh: emirsaidh!users.noreply.github.com
 	Independent until 2021-06-01
@@ -23806,6 +23807,3 @@ fiendish: fiendish!users.noreply.github.com, patcherton.fixesthings!gmail.com
 fifieldt: tom!openstack.org
 	Independent until 2013-06-03
 	OpenStack Foundation from 2013-06-03
-fifthposition: ben!silver-chalice.com, bklein!pivotal.io, fifthposition!users.noreply.github.com
-	Silver Chalice until 2015-06-01
-	Pivotal from 2015-06-01
