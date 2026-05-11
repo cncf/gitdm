@@ -5,6 +5,9 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+fifieldt: tom!openstack.org
+	Independent until 2013-06-03
+	OpenStack Foundation from 2013-06-03
 fifthposition: ben!silver-chalice.com, bklein!pivotal.io, fifthposition!users.noreply.github.com
 	Silver Chalice until 2015-06-01
 	Pivotal from 2015-06-01
@@ -4002,8 +4005,9 @@ gdidok: gdidok!users.noreply.github.com
 	Leonardo Worldwide from 2018-02-01 until 2020-07-01
 	OANDA Corporation from 2020-07-01 until 2022-04-01
 	Veeva from 2022-04-01
-gdivya-nr: gdivya!newrelic.com, 256059029+gdivya-nr!users.noreply.github.com
-	New Relic from 2026-01-19
+gdivya-nr: 256059029+gdivya-nr!users.noreply.github.com, gdivya!newrelic.com
+	Independent until 2026-01-19
+	New Relic Inc. from 2026-01-19
 gdmello: gavindmello!gmail.com, gdmello!users.noreply.github.com
 	Points International Ltd.
 gdoctor: gdoctor!users.noreply.github.com
@@ -23889,9 +23893,3 @@ jkbschmid: jakob.schmid!sap.com, jkbschmid!users.noreply.github.com
 jkears: jkears!users.noreply.github.com
 	Avanade Inc. until 2019-03-01
 	NextWare from 2019-03-01
-jkenefick: jkenefick!users.noreply.github.com
-	International Business Machines Corporation until 2016-06-01
-	VCE from 2016-06-01 until 2017-12-01
-	Johnson Controls from 2017-12-01
-jkev53: jkev53!users.noreply.github.com, jkevlin!ibm.com
-	International Business Machines Corporation

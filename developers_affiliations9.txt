@@ -5,6 +5,23 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+skinlayers: skinlayers!users.noreply.github.com
+	ExtraHop Networks Inc until 2014-09-01
+	Airbiquity from 2014-09-01 until 2015-03-01
+	Independent from 2015-03-01 until 2015-07-01
+	DreamBox Learning from 2015-07-01 until 2016-12-01
+	Unity Technologies Youdy Software (Shanghai) Co. Ltd. from 2016-12-01
+skinny: skinny!users.noreply.github.com
+	IDlab until 2015-09-01
+	New Black from 2015-09-01
+skinnylatte: adrianna!planetscale.com, skinnylatte!gmail.com, skinnylatte!users.noreply.github.com
+	Silicon Straits until 2015-01-01
+	Wobe Indonezia from 2015-01-01 until 2018-06-01
+	PlanetScale from 2018-06-01 until 2019-01-01
+	Independent from 2019-01-01
+skinowski: tolga.ceylan!gmail.com, tolga.ceylan!oracle.com
+	Symantec Corporation until 2015-05-01
+	Oracle America Inc. from 2015-05-01
 skinsbursky: skinsbursky!virtuozzo.com
 	Virtuozzo International GmbH
 skippy: adam.greene!gmail.com, skippy!users.noreply.github.com
@@ -2436,10 +2453,11 @@ sparsick: sparsick!users.noreply.github.com
 	ThyssenKrupp Steel Europe from 2016-12-01 until 2017-09-01
 	Valtech Mobility from 2017-09-01 until 2018-09-01
 	Independent from 2018-09-01
+spathlavath: 170392297+spathlavath!users.noreply.github.com, spathlavath!newrelic.com
+	Independent until 2024-05-21
+	New Relic Inc. from 2024-05-21
 spatronis: spatronis!gmail.com, spatronis!users.noreply.github.com
 	Auto Data Direct
-spathlavath: spathlavath!newrelic.com, 170392297+spathlavath!users.noreply.github.com
-	New Relic from 2024-05-21
 spawnia: benedikt!franke.tech, spawnia!users.noreply.github.com
 	Independent until 2017-01-01
 	twofour digitale Agentur from 2017-01-01 until 2017-12-01
@@ -9916,6 +9934,9 @@ tharudaya: 42183861+tharudaya!users.noreply.github.com, tharudaya!users.noreply.
 	eight25 from 2019-09-01 until 2021-01-01
 	John Wiley & Sons Inc. from 2021-01-01 until 2022-12-01
 	Creative from 2022-12-01
+tharun0064: 177614882+tharun0064!users.noreply.github.com, tbalanagu!newrelic.com
+	Independent until 2024-07-22
+	New Relic Inc. from 2024-07-22
 tharun208: rajendrantharun!live.com, tharun208!users.noreply.github.com
 	Independent until 2017-06-01
 	JUSPAY from 2017-06-01 until 2018-01-01
@@ -9924,8 +9945,6 @@ tharun208: rajendrantharun!live.com, tharun208!users.noreply.github.com
 	ThoughtWorks Inc from 2019-09-01 until 2022-01-01
 	HousingAnywhere from 2022-01-01 until 2022-02-01
 	HousingAnywhere from 2022-02-01
-tharun0064: tbalanagu!newrelic.com, 177614882+tharun0064!users.noreply.github.com
-	New Relic from 2024-07-22
 thassss: thassss!users.noreply.github.com, thomas.e.hass!gmail.com, tommy!vsco.co
 	VSCO
 thatarchguy: thatarchguy!users.noreply.github.com, wangzefeng!huawei.com
@@ -23961,32 +23980,3 @@ wrousseau: wrousseau!users.noreply.github.com
 	Theodo from 2016-09-01 until 2017-06-01
 	Independent from 2017-06-01 until 2017-09-01
 	Sipios from 2017-09-01
-wrowe: wrowe!pivotal.io, wrowe!rowe-clan.net, wrowe!users.noreply.github.com, wrowe!vmware.com
-	VMware Inc. until 2023-01-24
-	Independent from 2023-01-24
-wrsPeterMitsis: peter.mitsis!windriver.com
-	Wind River Systems Inc.
-wrsbwang: bintian.wang!huawei.com, wangbintian!gmail.com
-	Huawei Technologies Co. Ltd
-wrtabhi611: abhishek.raj!mayadata.io
-	MayaData Inc. (f/k/a CloudByte Inc)
-wrwg: wrwg!users.noreply.github.com
-	Google LLC until 2019-09-01
-	Meta Platforms Inc. from 2019-09-01
-wryun: cipaflorescu!gmail.com, james.haggerty!gmail.com, rgonzalezj1480!gmail.com, wryun!users.noreply.github.com
-	Atlassian
-wrzolekLukasz: wrzolekLukasz!users.noreply.github.com
-	Independent until 2016-06-01
-	Atradius from 2016-06-01 until 2017-07-01
-	Independent from 2017-07-01 until 2019-10-01
-	Sipher from 2019-10-01 until 2020-04-01
-	Proctor & Gamble Company from 2020-04-01 until 2025-07-01
-	Netflix Inc. from 2025-07-01
-wsalembi: willem.salembier!gmail.com
-	Smals
-wsams: wsams!users.noreply.github.com
-	Independent
-wsargent: rednaxe!gmail.com, will.sargent!gmail.com, wsargent!users.noreply.github.com
-	Lightbend Inc
-wsbmilk: wsbmilk!users.noreply.github.com
-	wecash

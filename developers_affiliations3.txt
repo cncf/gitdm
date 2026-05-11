@@ -8741,8 +8741,9 @@ avade: alex!alexley.co.uk, aley!pivotal.io, avade!users.noreply.github.com
 avadhut123pisal: avadhut.pisal!logicmonitor.com
 	Independent until 2021-07-01
 	LogicMonitor Inc. from 2021-07-01
-avadla: avadla!newrelic.com, 176316227+avadla!users.noreply.github.com
-	New Relic from 2024-07-22
+avadla: 176316227+avadla!users.noreply.github.com, avadla!newrelic.com
+	Independent until 2024-07-22
+	New Relic Inc. from 2024-07-22
 avagin: avagin!gmail.com, avagin!openvz.org, avagin!users.noreply.github.com, avagin!virtuozzo.com
 	Parallels Research until 2015-12-01
 	Independent from 2015-12-01 until 2016-01-01
@@ -23672,5 +23673,3 @@ christarazi: chris!isovalent.com, christarazi!users.noreply.github.com
 	Applied Medical from 2016-05-01 until 2018-07-01
 	VMware Inc. from 2018-07-01 until 2020-03-01
 	Isovalent from 2020-03-01
-christensenemc: christensen.em!gmail.com, christensenemc!users.noreply.github.com
-	Fulcrum Mobile Solutions LLC

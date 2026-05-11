@@ -5,6 +5,16 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+marpaia: marpaia!users.noreply.github.com, mike!arpaia.co
+	Etsy Inc. until 2014-02-01
+	Meta Platforms Inc. from 2014-02-01 until 2016-06-01
+	Kolide from 2016-06-01 until 2019-01-01
+	Independent from 2019-01-01 until 2019-05-01
+	Mila from 2019-05-01 until 2019-12-01
+	Workday Inc. from 2019-12-01 until 2020-11-01
+	Moonfire from 2020-11-01
+marqc: marqc!users.noreply.github.com, mchodor!google.com
+	Google LLC
 marquiz: markus.lehtonen!intel.com, markus.lehtonen!linux.intel.com, marquiz!users.noreply.github.com
 	Intel Corporation
 marratj: marrat!marrat.de, marratj!users.noreply.github.com
@@ -23757,12 +23767,3 @@ pgdagenais: pdagenais!nuglif.com, pgdagenais!gmail.com, pgdagenais!users.noreply
 	Ubisoft Montréal from 2019-08-01
 pgenera: pg!fivesevenfive.org
 	Google LLC
-pgerv12: pgerv12!users.noreply.github.com
-	International Business Machines Corporation until 2014-08-01
-	Independent from 2014-08-01 until 2015-07-01
-	International Business Machines Corporation from 2015-07-01
-pgibbs-openmake: phil.gibbs!openmakesoftware.com
-	OpenMake until 2018-01-01
-	Bibby from 2018-01-01
-pgier: pgier!redhat.com, pgier!users.noreply.github.com
-	Red Hat Inc.

@@ -5,6 +5,15 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+pgerv12: pgerv12!users.noreply.github.com
+	International Business Machines Corporation until 2014-08-01
+	Independent from 2014-08-01 until 2015-07-01
+	International Business Machines Corporation from 2015-07-01
+pgibbs-openmake: phil.gibbs!openmakesoftware.com
+	OpenMake until 2018-01-01
+	Bibby from 2018-01-01
+pgier: pgier!redhat.com, pgier!users.noreply.github.com
+	Red Hat Inc.
 pgilad: gilad!giladpeleg.com, giladp007!gmail.com, pgilad!users.noreply.github.com
 	Appstr.io until 2014-05-01
 	BlazeMeter from 2014-05-01 until 2019-09-01
@@ -1399,8 +1408,9 @@ pkubowicz: piotr.kubowicz!gmail.com, pkubowicz!users.noreply.github.com
 	OCADO GROUP PLC
 pkuczynski: piotr.kuczynski!gmail.com
 	Independent
-pkulkarni-newrelic: pkulkarni!newrelic.com, 190833598+pkulkarni-newrelic!users.noreply.github.com
-	New Relic from 2024-12-02
+pkulkarni-newrelic: 190833598+pkulkarni-newrelic!users.noreply.github.com, pkulkarni!newrelic.com
+	Independent until 2024-12-02
+	New Relic Inc. from 2024-12-02
 pkulsh: pkulsh!users.noreply.github.com, pkulshre!google.com
 	Google LLC
 pkwarren: pkwarren!users.noreply.github.com
@@ -23479,8 +23489,9 @@ sjwaight: sjwaight!users.noreply.github.com
 sjwoodman: sjwoodman!users.noreply.github.com, swoodman!redhat.com
 	Inkspot until 2018-05-01
 	Red Hat Inc. from 2018-05-01
-sjyothi54: jsurampudi!newrelic.com, 99384747+sjyothi54!users.noreply.github.com
-	New Relic from 2022-01-12
+sjyothi54: 99384747+sjyothi54!users.noreply.github.com, jsurampudi!newrelic.com
+	Independent until 2022-01-12
+	New Relic Inc. from 2022-01-12
 sjzlsr: sjzlsr!users.noreply.github.com
 	Jd.Com
 sk-: sk-!users.noreply.github.com
@@ -23597,20 +23608,3 @@ skilxn-go: skilxn-go!users.noreply.github.com
 	SAP from 2017-01-01
 skim1420: skim1420!users.noreply.github.com, stevenkim!google.com
 	Google LLC
-skinlayers: skinlayers!users.noreply.github.com
-	ExtraHop Networks Inc until 2014-09-01
-	Airbiquity from 2014-09-01 until 2015-03-01
-	Independent from 2015-03-01 until 2015-07-01
-	DreamBox Learning from 2015-07-01 until 2016-12-01
-	Unity Technologies Youdy Software (Shanghai) Co. Ltd. from 2016-12-01
-skinny: skinny!users.noreply.github.com
-	IDlab until 2015-09-01
-	New Black from 2015-09-01
-skinnylatte: adrianna!planetscale.com, skinnylatte!gmail.com, skinnylatte!users.noreply.github.com
-	Silicon Straits until 2015-01-01
-	Wobe Indonezia from 2015-01-01 until 2018-06-01
-	PlanetScale from 2018-06-01 until 2019-01-01
-	Independent from 2019-01-01
-skinowski: tolga.ceylan!gmail.com, tolga.ceylan!oracle.com
-	Symantec Corporation until 2015-05-01
-	Oracle America Inc. from 2015-05-01
