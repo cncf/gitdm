@@ -2,6 +2,11 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Siemens Healthcare GmbH:
+	ayan-b: ayan-b!users.noreply.github.com, ayanbanerjee7777!gmail.com, ayanbn7!gmail.com from 2020-08-01 until 2021-10-01
+	hno2: github!simonklug.de, hno2!users.noreply.github.com until 2014-08-01
+	sarnava1: konarsarnava!gmail.com, sarnava1!users.noreply.github.com from 2020-08-01
+	selstam: selstam!users.noreply.github.com until 2016-01-01
 Siemens Software:
 	joerocklin: joe.rocklin!gmail.com, joerocklin!users.noreply.github.com, joseph.rocklin!siemens.com from 2012-05-01
 Siemens Wind Power:
@@ -1292,6 +1297,7 @@ Skydragon Logistics:
 	mountkin: mountkin!gmail.com, mountkin!users.noreply.github.com
 Skyeng:
 	antonmarin: antonmarin!users.noreply.github.com from 2019-10-01 until 2020-02-01
+	wwoytenko: vadim.voitenko!greenmask.io from 2021-06-01 until 2022-06-01
 Skyera:
 	bathina2: bathina2!users.noreply.github.com until 2015-01-01
 Skyfii:
@@ -2669,6 +2675,8 @@ SoftTec:
 	wolfeaustin: wolfeaustin!users.noreply.github.com from 2016-08-01 until 2017-08-01
 SoftTeco:
 	Zava2012: Zava2012!users.noreply.github.com from 2019-11-01
+SoftTelematics:
+	wwoytenko: vadim.voitenko!greenmask.io from 2019-12-01 until 2021-06-01
 SoftWeave:
 	danieleharel: danieleharel!users.noreply.github.com from 2016-01-01 until 2017-03-01
 SoftWorks AI:
@@ -12868,6 +12876,8 @@ Ternium:
 	caiodelgadonew: caiodelgadonew!users.noreply.github.com until 2018-10-01
 Ternium Apprenticeship:
 	alejandroroiz: alejandroroiz!users.noreply.github.com from 2017-08-01 until 2017-12-01
+Tero Inc.:
+	jaronoff97: jaronoff97!users.noreply.github.com from 2025-10-01
 Terovania UG:
 	Salzian: salzian.dev!gmail.com from 2019-04-01 until 2020-05-01
 Terra:
@@ -16396,12 +16406,3 @@ TrafficLand:
 	jontow: jontow!users.noreply.github.com from 2016-04-01 until 2019-07-01
 TrafficProtector:
 	alphara: alphara!users.noreply.github.com until 2016-10-01
-Trafigura:
-	badgeratu: badgeratu!googlemail.com from 2016-03-01 until 2016-06-01
-	timothyclarke: timothy.clarke!serverbox.co.uk, timothyclarke!users.noreply.github.com until 2015-02-01
-Trafigura Global:
-	Abhiger: abhijitger!hotmail.com from 2014-10-01 until 2018-12-01
-Trafikförvaltningen:
-	Marza: Marza!users.noreply.github.com from 2021-12-01
-Trail:
-	hpohl: hpohl!users.noreply.github.com from 2017-02-01

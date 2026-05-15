@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+RETIT:
+	kon-angelo: kon-angelo!users.noreply.github.com, konstantinos.angelopoulos!sap.com from 2016-10-01 until 2017-05-01
+RETROSER:
+	cebecifaruk: cebecifaruk!users.noreply.github.com from 2020-03-01 until 2020-12-01
 REVE Systems:
 	taybur43: taybur43!users.noreply.github.com from 2016-12-01 until 2018-08-01
 REVO PTY:
@@ -15843,8 +15847,3 @@ Siemens Gamesa:
 Siemens Healthcare:
 	npalm: dev.npalm!gmail.com, npalm!users.noreply.github.com until 2015-03-01
 	shuchu: shuchu.han!gmail.com from 2015-06-01 until 2015-08-01
-Siemens Healthcare GmbH:
-	ayan-b: ayan-b!users.noreply.github.com, ayanbanerjee7777!gmail.com, ayanbn7!gmail.com from 2020-08-01 until 2021-10-01
-	hno2: github!simonklug.de, hno2!users.noreply.github.com until 2014-08-01
-	sarnava1: konarsarnava!gmail.com, sarnava1!users.noreply.github.com from 2020-08-01
-	selstam: selstam!users.noreply.github.com until 2016-01-01
