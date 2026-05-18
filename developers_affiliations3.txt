@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+amartya-ac: amartya-ac!users.noreply.github.com
+	International Business Machines Corporation until 2018-03-01
+	HealthEdge from 2018-03-01 until 2019-05-01
+	yellow from 2019-05-01 until 2019-09-01
+	Standard Chartered Bank from 2019-09-01
 amarzavery: amarzavery!users.noreply.github.com, amzavery!microsoft.com
 	Microsoft Corporation
 amasolov: amasolov!users.noreply.github.com
@@ -22181,6 +22186,8 @@ chchliang: chchliang!users.noreply.github.com, chen.chuanliang!zte.com.cn
 chchrist: christomanos!gmail.com
 	Gamesys group until 2020-03-01
 	Bally’s from 2020-03-01
+chcost: chcost!us.ibm.com
+	International Business Machines Corporation
 chcosta: chcosta!microsoft.com, chcosta!users.noreply.github.com
 	Microsoft Corporation
 chdalski: chdalski!users.noreply.github.com
@@ -23664,7 +23671,3 @@ chrissng: chrissng!users.noreply.github.com
 	Basis Technologies from 2019-08-01
 chrissound: chris!soundshare.co.uk, chrissound!users.noreply.github.com
 	Independent
-christ66: schristou88!gmail.com
-	CloudBees Inc. until 2016-04-01
-	Google LLC from 2016-04-01 until 2016-08-01
-	CloudBees Inc. from 2016-08-01

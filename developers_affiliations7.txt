@@ -5,6 +5,35 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+markxnelson: mark.x.nelson!oracle.com
+	Oracle America Inc.
+marky-mark: marky-mark!users.noreply.github.com, mkelly28!tcd.ie
+	Zalando SE
+markyjackson-taulia: marky.r.jackson!gmail.com, markyjackson-taulia!users.noreply.github.com
+	Independent until 2016-04-01
+	AT&T from 2016-04-01 until 2017-12-31
+	Sysdig Inc. from 2017-12-31 until 2020-04-30
+	Anchore Inc from 2020-04-30 until 2020-06-30
+	OpsMx from 2020-06-30 until 2020-10-31
+	Equinix Inc. from 2020-10-31
+markyzq: mark.yao!rock-chips.com
+	Independent until 2017-11-01
+	Guangdong OPPO Mobile Telecommunications Corp. Ltd. from 2017-11-01
+markzhang0928: markzhang0928!users.noreply.github.com, zhangyiscut!gmail.com
+	Tencent Holdings Limited
+marler8997: johnnymarler!gmail.com, marler8997!users.noreply.github.com
+	HP Inc.
+marleypowell: marleypowell!users.noreply.github.com
+	PingCAP
+marlinla: marlinla!users.noreply.github.com
+	Independent
+marload: marload!users.noreply.github.com, rladhkstn8!gmail.com
+	Independent until 2019-06-01
+	SWM from 2019-06-01 until 2019-12-01
+	Onycom Inc from 2019-12-01 until 2020-08-01
+	OpenMined from 2020-08-01
+marlon360: m.lueckert!me.com, marlon360!users.noreply.github.com
+	Apple Inc.
 marlonmg09: v-mamejia!expediagroup.com
 	Independent until 2017-01-01
 	Sánchez y Martín from 2017-01-01 until 2017-07-01
@@ -4087,6 +4116,9 @@ mengjiao-liu: liumengjiao69!gmail.com, mengjiao-liu!users.noreply.github.com, me
 	DaoCloud Network Technology Co. Ltd.
 mengkai94: mengkai01!baidu.com, mengkai94!users.noreply.github.com
 	BaiDu
+mengmeiye: mye!ibm.com
+	Independent until 2021-06-01
+	International Business Machines Corporation from 2021-06-01
 mengmichael1: mengmichael1!users.noreply.github.com
 	Apax until 2018-03-01
 	Stellar Health from 2018-03-01
@@ -19942,6 +19974,8 @@ ornew: old.river.new!gmail.com, ornew!users.noreply.github.com
 	Yahoo! Inc.
 orosp: poros!redhat.com
 	Red Hat Inc.
+orozery: orozery!users.noreply.github.com
+	International Business Machines Corporation
 orphaner: orphaner!users.noreply.github.com
 	Independent until 2016-06-01
 	Zenika from 2016-06-01
@@ -23311,6 +23345,19 @@ petebeegle: pete.beegle!hpe.com
 petebowden: petebow4!gmail.com
 	Cigna until 2016-06-01
 	Red Hat Inc. from 2016-06-01
+petecheslock: petecheslock!users.noreply.github.com
+	Dyn until 2014-05-01
+	Independent from 2014-05-01 until 2014-08-01
+	Threat Stack Inc. from 2014-08-01 until 2018-08-01
+	ChaosSearch from 2018-08-01 until 2019-12-01
+	Independent from 2019-12-01 until 2020-04-01
+	Duckbill from 2020-04-01 until 2021-03-01
+	Allma from 2021-03-01 until 2021-12-01
+	Duckbill from 2021-12-01 until 2022-06-01
+	Variance from 2022-06-01 until 2024-01-01
+	AppMap from 2024-01-01 until 2024-12-01
+	Independent from 2024-12-01 until 2025-03-01
+	Red Hat Inc. from 2025-03-01
 petegriffin: peter.griffin!linaro.org
 	Linaro Limited
 petehayes: petehayes!gmail.com, peter.hayes!pega.com
@@ -23724,49 +23771,3 @@ pfeifferj: github!josie.lol, gitlab!josie.lol, hi!josie.lol, josephine.pfeiffer!
 	Red Hat Inc. from 2023-01-01
 pfeodrippe: blessochampion!gmail.com, pfeodrippe!gmail.com, pfeodrippe!users.noreply.github.com
 	Teslabit
-pffijt: pffijt!gmail.com, pffijt!users.noreply.github.com
-	Independent until 2017-08-01
-	Apotheek Westerkade from 2017-08-01 until 2019-07-01
-	Sweco Inc. from 2019-07-01 until 2021-12-01
-	National Road Traffic from 2021-12-01
-pfhdzg0: david.glodich!compuware.com, pfhdzg0!users.noreply.github.com
-	Compuware
-pfiled: pfiled!users.noreply.github.com
-	Independent until 2018-11-01
-	Cloud Lake from 2018-11-01
-pfisterer: github!farberg.de, pfisterer!users.noreply.github.com
-	DHBW Stuttgart
-pfl: patrik.flykt!linux.intel.com
-	Intel Corporation
-pforman: pforman!rocketjets.com
-	Bodybuilding until 2016-12-01
-	Vitalize from 2016-12-01 until 2017-04-01
-	Independent from 2017-04-01 until 2017-09-01
-	Driver from 2017-09-01 until 2018-10-01
-	ZYMERGEN INC. from 2018-10-01
-pfreixes: pfreixes!gmail.com, pfreixes!users.noreply.github.com
-	M2M until 2015-12-01
-	Skyscanner from 2015-12-01 until 2020-06-01
-	Onna Technologies Inc from 2020-06-01
-pfremm: pfremm!users.noreply.github.com
-	Northwestern Mutual Life Insurance Company
-pfsmorigo: pfsmorigo!linux.vnet.ibm.com
-	International Business Machines Corporation
-pfuhrmann: fuhrmann.patrik!gmail.com, github!pinglf.com, pfuhrmann!users.noreply.github.com
-	Independent until 2015-02-01
-	Babylon Partners Ltd from 2015-02-01 until 2016-09-01
-	Cloudflare Inc from 2016-09-01 until 2017-09-01
-	Docler Holding from 2017-09-01 until 2018-01-01
-	SO Connect from 2018-01-01 until 2019-06-01
-	Dealroom.co from 2019-06-01
-pgadige: pgadige!users.noreply.github.com, poojagadige!gmail.com
-	FastSet until 2017-07-01
-	Independent from 2017-07-01 until 2018-09-01
-	Rapyuta Robotics from 2018-09-01
-pgagarinov: pgagarinov!users.noreply.github.com
-	Allied Testing until 2021-07-01
-	Independent from 2021-07-01 until 2022-02-01
-	PayPal from 2022-02-01 until 2022-07-01
-	Allied Testing from 2022-07-01
-pgaglani1: gaglani!ca.ibm.com, pgaglani1!gmail.com, pgaglani1!users.noreply.github.com
-	International Business Machines Corporation

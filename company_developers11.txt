@@ -2,6 +2,9 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Siemens Healthcare:
+	npalm: dev.npalm!gmail.com, npalm!users.noreply.github.com until 2015-03-01
+	shuchu: shuchu.han!gmail.com from 2015-06-01 until 2015-08-01
 Siemens Healthcare GmbH:
 	ayan-b: ayan-b!users.noreply.github.com, ayanbanerjee7777!gmail.com, ayanbn7!gmail.com from 2020-08-01 until 2021-10-01
 	hno2: github!simonklug.de, hno2!users.noreply.github.com until 2014-08-01
@@ -14772,6 +14775,7 @@ Threat Stack Inc.:
 	benpatterson: benpatterson!users.noreply.github.com, patterson.ben!gmail.com from 2017-05-01 until 2019-11-01
 	mikec-bullhorn: mikec!bullhorn.com from 2018-04-01
 	olhado: code!mikec.123mail.org, github!mikec.123mail.org from 2018-04-01
+	petecheslock: petecheslock!users.noreply.github.com from 2014-08-01 until 2018-08-01
 ThreatConnect:
 	g0dfl3sh: g0dfl3sh!users.noreply.github.com from 2024-06-01
 ThreatMark:
@@ -16400,9 +16404,3 @@ Traffic Control Services.:
 	zdw: zdw!artisancomputer.com, zdw!cs.arizona.edu, zdw!opennetworking.org, zdw!users.noreply.github.com until 2016-05-01
 Traffic Light:
 	TheFreaky: TheFreaky!users.noreply.github.com, maksoh88!gmail.com from 2019-04-01 until 2020-05-01
-TrafficDNA:
-	ajax-surovskyi-y: ajax-surovskyi-y!users.noreply.github.com from 2016-07-01 until 2020-05-01
-TrafficLand:
-	jontow: jontow!users.noreply.github.com from 2016-04-01 until 2019-07-01
-TrafficProtector:
-	alphara: alphara!users.noreply.github.com until 2016-10-01

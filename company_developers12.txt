@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+TrafficDNA:
+	ajax-surovskyi-y: ajax-surovskyi-y!users.noreply.github.com from 2016-07-01 until 2020-05-01
+TrafficLand:
+	jontow: jontow!users.noreply.github.com from 2016-04-01 until 2019-07-01
+TrafficProtector:
+	alphara: alphara!users.noreply.github.com until 2016-10-01
 Trafigura:
 	badgeratu: badgeratu!googlemail.com from 2016-03-01 until 2016-06-01
 	timothyclarke: timothy.clarke!serverbox.co.uk, timothyclarke!users.noreply.github.com until 2015-02-01
@@ -6303,6 +6309,7 @@ Varian Medical Systems:
 	teemumurtola: teemu.murtola!gmail.com
 	tonycgil: tonycgil!users.noreply.github.com from 2017-07-01
 Variance:
+	petecheslock: petecheslock!users.noreply.github.com from 2022-06-01 until 2024-01-01
 	zachdaniel: zachary.s.daniel!gmail.com, zachdaniel!users.noreply.github.com from 2020-02-01
 Variant:
 	rosvik: rosvik!users.noreply.github.com from 2020-06-01 until 2020-08-01, from 2021-08-01
@@ -16217,5 +16224,3 @@ Zodio:
 	jai: govindani!gmail.com, jai!users.noreply.github.com until 2014-09-01
 Zodor:
 	thebarshablog: thebarshablog!gmail.com from 2024-09-01 until 2024-12-01
-Zogo:
-	zcason: zcason!users.noreply.github.com from 2021-12-01 until 2022-10-01
