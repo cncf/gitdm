@@ -4908,7 +4908,7 @@ Athulpai12: Athulpai12!users.noreply.github.com
 	BrowserStack from 2023-04-01
 Ati59: ati59!users.noreply.github.com, aurelien.tison!icloud.com, aurelien.tison!solo.io
 	Solo.io
-Atish-iaf: Atish-iaf!users.noreply.github.com, atish.iaf!gmail.com katish!vmware.com kumar.atish!broadcom.com
+Atish-iaf: Atish-iaf!users.noreply.github.com, atish.iaf!gmail.com, katish!vmware.com, kumar.atish!broadcom.com
 	Independent until 2022-01-12
 	VMware Inc. from 2022-01-12
 AtkinsChang: AtkinsChang!users.noreply.github.com, atkinschang!gmail.com
@@ -5725,6 +5725,11 @@ BenjaminBeggs: 45314356+benjaminbeggs!users.noreply.github.com, BenjaminBeggs!us
 	Independent
 BenjaminBeichler: benjamin.beichler!uni-rostock.de
 	Independent
+BenjaminBraunDev: BenjaminBraunDev!users.noreply.github.com
+	IONOS until 2017-10-01
+	virtual7 from 2017-10-01 until 2020-12-01
+	SAP from 2020-12-01 until 2025-11-01
+	CNCF from 2025-11-01
 BenjaminBurton: BenjaminBurton!users.noreply.github.com
 	Independent until 2023-03-01
 	Compu21 Institute from 2023-03-01 until 2024-06-01
@@ -7648,8 +7653,6 @@ ChethanUK: ChethanUK!users.noreply.github.com, chethanuk!outlook.com
 	Rapido from 2018-10-01 until 2022-02-01
 	Tessian from 2022-02-01 until 2023-02-01
 	Apache from 2023-02-01
-Chethanv28: chethan.venkatesh!broadcom.com, chethanv!vmware.com, chethanv28!users.noreply.github.com
-	VMware Inc. from 2019-06-20
 CheyiLin: CheyiLin!users.noreply.github.com, zack_lin!trend.com.tw
 	Trend Micro Incorporated
 Chids-gs: chidambaram.g!gmail.com
@@ -11059,6 +11062,13 @@ EdwinWalela: EdwinWalela!users.noreply.github.com, edwinwalela!gmail.com
 	@iLabAfrica from 2021-02-01 until 2021-08-01
 	Independent from 2021-08-01 until 2022-02-01
 	Crafted Systems from 2022-02-01
+Edwinhr716: Edwinhr716!users.noreply.github.com
+	Independent until 2021-06-01
+	Qualcomm from 2021-06-01 until 2021-08-01
+	Independent from 2021-08-01 until 2022-05-01
+	Google LLC from 2022-05-01 until 2022-08-01
+	Independent from 2022-08-01 until 2023-10-01
+	Google LLC from 2023-10-01
 Eeemil: Eeemil!users.noreply.github.com, emil.marklund!vkmedia.se
 	Independent until 2016-05-01
 	Elastisys AB from 2016-05-01 until 2017-08-01
@@ -11318,9 +11328,7 @@ Emily-Jiang: Emily-Jiang!users.noreply.github.com, emijiang6!googlemail.com
 EmilyM1: EmilyM1!users.noreply.github.com
 	Red Hat Inc.
 EmilyNamugaanyi: EmilyNamugaanyi!users.noreply.github.com, emilynam!thoughtworks.com
-	ThoughtWorks
-EmilyXinyi: 52259856+EmilyXinyi!users.noreply.github.com, EmilyXinyi!users.noreply.github.com, emily.chen!akuity.io, xinyi_0302!yahoo.com
-	Akuity Inc. from 2026-12-06
+	ThoughtWorks Inc
 EmilyShepherd: EmilyShepherd!users.noreply.github.com, emily!redcoat.dev
 	Spa Staff until 2016-09-01
 	Independent from 2016-09-01 until 2017-01-01
@@ -11330,6 +11338,9 @@ EmilyShepherd: EmilyShepherd!users.noreply.github.com, emily!redcoat.dev
 	Symec from 2019-06-01 until 2020-05-01
 	Candide Gardening from 2020-05-01 until 2021-03-01
 	Red Coat from 2021-03-01
+EmilyXinyi: 52259856+EmilyXinyi!users.noreply.github.com, EmilyXinyi!users.noreply.github.com, emily.chen!akuity.io, xinyi_0302!yahoo.com
+	Independent until 2026-12-06
+	Akuity Inc. from 2026-12-06
 Emma-uestc: 18755117609!163.com
 	uestc
 EmmaMunley: emmamunley!google.com, emmamunley!users.noreply.github.com
@@ -11590,7 +11601,7 @@ EronWright: EronWright!users.noreply.github.com, eron.wright!akuity.io, eronwrig
 	Dell EMC until 2020-01-01
 	StreamNative from 2020-01-01 until 2023-08-01
 	Pulumi from 2023-08-01 until 2025-12-01
-	Akuity Inc. from 2026-02-16
+	Akuity Inc. from 2025-12-01
 Eronarn: Eronarn!users.noreply.github.com, eronarn!gmail.com
 	AppNet until 2014-10-01
 	Independent from 2014-10-01 until 2015-03-01
@@ -13765,7 +13776,8 @@ Gregoirevda: greg!hackages.io, gregoirevandera!gmail.com
 GregorBiswanger: GregorBiswanger!users.noreply.github.com, gregor.biswanger!web-enliven.de
 	Independent
 Gregory-Pereira: Gregory-Pereira!users.noreply.github.com, gregpere17!gmail.com, grpereir!redhat.com
-	Red Hat Inc.
+	Independent until 2024-10-01
+	Red Hat Inc. from 2024-10-01
 GregoryHlavac: GregoryHlavac!users.noreply.github.com
 	Independent
 GreyBalloonYU: GreyBalloonYU!users.noreply.github.com, cvdfed_19981009!126.com
@@ -16687,6 +16699,9 @@ Jay-Funk: Jay-Funk!users.noreply.github.com
 	Independent from 2018-08-01 until 2018-10-01
 	PwC Deutschland from 2018-10-01 until 2021-09-01
 	SVA from 2021-09-01
+Jay-Pd: jay.prasad!nutanix.com
+	Independent until 2025-01-01
+	Nutanix Inc. from 2025-01-01
 JayBeale: JayBeale!users.noreply.github.com, jay.beale!gmail.com
 	InGuardians
 JayG-EBSCO: JayG-EBSCO!users.noreply.github.com, jgrant!ebsco.com
@@ -20770,6 +20785,15 @@ Luke035: Luke035!users.noreply.github.com, luca.grazioli!outlook.com
 	Docebo from 2019-02-01 until 2022-05-01
 	CARDO AI from 2022-05-01 until 2022-06-01
 	DHL Express from 2022-06-01
+LukeAVanDrie: lukevandrie!google.com
+	Independent until 2019-05-01
+	Proxibid from 2019-05-01 until 2019-08-01
+	Independent from 2019-08-01 until 2020-05-01
+	DMSi from 2020-05-01 until 2021-01-01
+	Independent from 2021-01-01 until 2021-05-01
+	AWS from 2021-05-01 until 2021-07-01
+	Independent from 2021-07-01 until 2022-08-01
+	Google LLC from 2022-08-01
 LukeCarrier: LukeCarrier!users.noreply.github.com, luke!carrier.im
 	Independent until 2015-01-01
 	Avado from 2015-01-01 until 2020-11-01
@@ -23320,11 +23344,15 @@ Mosseridan: Mosseridan!users.noreply.github.com
 	TradeMarker from 2017-12-01 until 2021-11-01
 	Stealth from 2021-11-01
 MostafaGazar: MostafaGazar!users.noreply.github.com, me!mostafagazar.com
-	Independent
-MostafaMegahid: MostafaMegahid!users.noreply.github.com, mostafa.megahid!akuity.io, mostafa.megahid!gmail.com
-	Akuity Inc. from 2026-05-18
+	HoverChat until 2015-12-01
+	Trade Me from 2015-12-01 until 2019-01-01
+	Various Machine Learning from 2019-01-01 until 2020-12-01
+	Software Daily from 2020-12-01 until 2021-01-01
 	Booking.com B.V. from 2021-01-01 until 2021-09-01
 	Snap Snap from 2021-09-01
+MostafaMegahid: MostafaMegahid!users.noreply.github.com, mostafa.megahid!akuity.io, mostafa.megahid!gmail.com
+	Independent until 2026-05-18
+	Akuity Inc. from 2026-05-18
 MostlyAmiable: MostlyAmiable!users.noreply.github.com
 	Independent until 2017-09-01
 	ActiveCampaign from 2017-09-01 until 2020-02-01
@@ -23663,35 +23691,3 @@ MundraAnkur: MundraAnkur!users.noreply.github.com
 	Red Hat Inc. from 2022-05-01
 Muni10: Muni10!users.noreply.github.com
 	NAV
-MunzerDw: munzerdwedari!gmail.com
-	Independent until 2018-08-01
-	Fehling from 2018-08-01 until 2019-04-01
-	Dwedari & Jadallah from 2019-04-01 until 2020-09-01
-	thaltegos from 2020-09-01 until 2021-03-01
-	Chargylize from 2021-03-01 until 2021-08-01
-	Flash AIO from 2021-08-01 until 2022-04-01
-	Independent from 2022-04-01 until 2022-11-01
-	TUM.ai from 2022-11-01 until 2023-09-01
-	Independent from 2023-09-01
-Murali-P: murali.p!huawei.com
-	Huawei Technologies Co. Ltd
-MurzNN: MurzNN!users.noreply.github.com, murznn!gmail.com
-	Caramba until 2019-12-01
-	Digiterra from 2019-12-01
-Musab1258: Musab1258!users.noreply.github.com
-	Independent until 2021-03-01
-	Zuri from 2021-03-01 until 2021-07-01
-	Google LLC from 2021-07-01 until 2021-12-01
-	Heritage from 2021-12-01
-MushuEE: MushuEE!users.noreply.github.com, gkm006!bucknell.edu
-	GE Healthcare until 2015-08-01
-	Independent from 2015-08-01 until 2016-06-01
-	128 Technology from 2016-06-01 until 2020-04-01
-	Google LLC from 2020-04-01
-MustafaHaddara: MustafaHaddara!users.noreply.github.com, mustafa!honeycomb.io
-	Independent until 2024-03-11
-	Hound Technology Inc. dba Honeycomb from 2024-03-11
-MustaphaRashiduddin: MustaphaRashiduddin!users.noreply.github.com
-	EMIRATES AIRLINE
-MutantOctopus: mutantoctopusdevelopment!outlook.com
-	Mutant Octopus
