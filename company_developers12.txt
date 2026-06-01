@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Trackunit:
+	tandrup: tandrup!users.noreply.github.com from 2021-11-01
+	van-vliet: van-vliet!users.noreply.github.com from 2018-11-01
+Tracr:
+	MrSaints: ian!fyianlai.com, mrsaints!users.noreply.github.com from 2018-12-01
+	hydratim: hydratim!users.noreply.github.com from 2019-07-01 until 2020-10-01
 Tractable:
 	cmaddalozzo: cmaddalozzo!users.noreply.github.com from 2020-04-01 until 2023-02-01
 	eastlondoner: 8148776+eastlondoner!users.noreply.github.com, eastlondoner!users.noreply.github.com from 2016-01-01 until 2017-10-01
@@ -4957,6 +4963,7 @@ VMware Inc.:
 	a-peek4: a-peek4!users.noreply.github.com from 2020-09-01
 	aalexandrov: aalexandrov!users.noreply.github.com from 2019-10-01 until 2020-08-01
 	aaroniscode: aaroniscode!users.noreply.github.com from 2018-12-01 until 2020-08-01
+	aaronjwood: aaron.wood!broadcom.com, aaronjwood!gmail.com, aaronjwood!users.noreply.github.com, me!aaronjwood.com, woodaaron!vmware.com from 2018-02-05
 	aaronorosen: aaronorosen!gmail.com, arosen!nicira.com until 2016-09-01
 	aartij17: aartij17!users.noreply.github.com from 2020-06-01 until 2020-09-01, from 2021-07-01 until 2022-06-01
 	aayushrangwala: aayushrangwala!gmail.com, aayushrangwala!users.noreply.github.com, arangwala!vmware.com, ayush.rangwala!gmail.com from 2020-12-01 until 2022-05-01
@@ -5745,6 +5752,7 @@ VMware Inc.:
 	skriss: krisss!vmware.com, skriss!redhat.com, skriss!users.noreply.github.com, stephen.kriss!gmail.com, steve!heptio.com from 2018-12-11 until 2024-10-01
 	slevine111: slevine111!gmail.com from 2020-01-01 until 2022-08-01
 	slimm609: slimm609!gmail.com, slimm609!users.noreply.github.com from 2020-07-12
+	smarunich: marunich.s!gmail.com, smarunich!users.noreply.github.com from 2016-02-01 until 2021-01-01
 	sonasingh46: ashutosh.kumar!mayadata.io, ashutosh.kumar!openebs.io, sonasingh46!gmail.com, sonasingh46!users.noreply.github.com from 2021-08-01 until 2023-06-01
 	sonujose: sonujose!users.noreply.github.com, sonujose993!gmail.com from 2022-06-01
 	soschwei: soschwei!users.noreply.github.com until 2016-11-01
@@ -7122,7 +7130,7 @@ Verizon:
 	RohanBhirangi: RohanBhirangi!users.noreply.github.com, rohanbhirangi17!gmail.com from 2017-06-01 until 2017-08-01
 	SaikiranDaripelli: SaikiranDaripelli!users.noreply.github.com, mail!lucasmotta.com, saikirandaripelli!gmail.com, undrfined!gmail.com
 	SirishaGopigiri: SirishaGopigiri!users.noreply.github.com from 2018-07-01 until 2020-03-01
-	aaronjwood: aaronjwood!gmail.com, aaronjwood!users.noreply.github.com
+	aaronjwood: aaron.wood!broadcom.com, aaronjwood!gmail.com, aaronjwood!users.noreply.github.com, me!aaronjwood.com, woodaaron!vmware.com until 2018-01-01
 	anandfresh: anandajith!gmail.com, anandfresh!users.noreply.github.com from 2016-06-01 until 2018-12-01
 	anmolsachan: anmolsachan!users.noreply.github.com, asachan!redhat.com from 2017-05-01 until 2018-04-01
 	anunarapureddy: narapureddyanusha!gmail.com from 2016-04-01 until 2017-05-01
@@ -16188,12 +16196,3 @@ Zilingo:
 	lprakashv: lprakashv!gmail.com from 2017-02-01 until 2018-06-01
 	niketh: niketh!users.noreply.github.com, niketh.sabbineni!gmail.com from 2019-09-01 until 2020-08-01
 	praphull-purohit: praphull-purohit!users.noreply.github.com from 2016-06-01 until 2020-01-01
-Zilker:
-	darnone: darnone!users.noreply.github.com, david.arnone!nrg.com from 2017-01-01 until 2020-07-01
-Zilkr:
-	omieomye: omieomye!users.noreply.github.com from 2016-03-01 until 2018-11-01
-Zillion Data:
-	Negashev: Negashev!users.noreply.github.com, i!negash.ru until 2016-11-01
-Zilliz:
-	Anosh21: Anosh21!users.noreply.github.com, anoshbhakare064!gmail.com from 2022-02-01 until 2022-03-01
-	haorenfsa: haorenfsa!gmail.com, haorenfsa!users.noreply.github.com

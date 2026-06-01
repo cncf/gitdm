@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+REMA 1000 Danmark:
+	neobonde: neobonde!gmail.com from 2015-02-01 until 2016-08-01
+REMA 1000 i Norge:
+	FredrikAugust: FredrikAugust!users.noreply.github.com, mail.fredrikaugust!gmail.com until 2014-07-01
 REMEO GELATO LTD:
 	Roman-Ka: Roman-Ka!users.noreply.github.com from 2016-06-01 until 2016-08-01
 RENAPS:
@@ -2995,6 +2999,7 @@ Red Hat Inc.:
 	dhowells: dhowells!redhat.com
 	dichen16: di.chen16!outlook.com, dichen16!users.noreply.github.com
 	didierofrivia: didierofrivia!users.noreply.github.com
+	diego-torres: diego-torres!users.noreply.github.com from 2016-09-01
 	diegolovison: diegolovison!gmail.com, diegolovison!users.noreply.github.com from 2017-12-01
 	diegs: diegs!users.noreply.github.com, dpontor!gmail.com from 2017-03-01 until 2018-03-01
 	dieterdm: dieterdm!users.noreply.github.com from 2018-03-01
@@ -4729,6 +4734,7 @@ Red Hat Inc.:
 	sm43: sm43!users.noreply.github.com, smukhade!redhat.com from 2019-09-01 until 2023-01-01
 	smalleni: smalleni!redhat.com, smalleni!users.noreply.github.com from 2019-03-01
 	smarterclayton: ccoleman!redhat.com, claytoncoleman!google.com, smarterclayton!users.noreply.github.com from 2012-01-01 until 2023-06-25
+	smarunich: marunich.s!gmail.com, smarunich!users.noreply.github.com from 2021-01-01 until 2021-06-01
 	smccarthy-ie: smccarthy-ie!users.noreply.github.com from 2019-04-01
 	smg247: sgoeddel247!gmail.com, smg247!users.noreply.github.com from 2021-06-01
 	smiklosovic: smiklosovic!users.noreply.github.com until 2015-07-01
@@ -7166,6 +7172,7 @@ Roblox:
 	BenV: vinsonb!gmail.com from 2021-08-01
 	Brantone: brantone!letrabb.com, brantone!users.noreply.github.com, brenton!letrabb.com, brenton.bartel!disney.com from 2016-11-01
 	ahlaw: ahlaw!users.noreply.github.com from 2020-05-01 until 2020-08-01
+	anyasabo: anyasabo!users.noreply.github.com from 2022-01-20
 	arvganesh: arvganesh!users.noreply.github.com from 2023-10-01
 	brian-pane: bpane!pinterest.com, brian-pane!users.noreply.github.com, brianp+github!brianp.net from 2019-03-01
 	cadmuxe: cadmuxe!gmail.com, cadmuxe!users.noreply.github.com, koonwah!google.com from 2022-07-01
@@ -7501,6 +7508,8 @@ Roke:
 	ndyer: nick!shmanahar.org, nick.dyer!itdev.co.uk from 2016-07-01
 	ojhughes: ojhughes!users.noreply.github.com until 2016-10-01
 	smpurkis: Sam.Purkis!hotmail.co.uk from 2017-07-01 until 2017-08-01
+Rokos:
+	bredamatt: bredamatt!users.noreply.github.com from 2023-10-01 until 2024-08-01
 Rokstad:
 	joeldeteves: joeldeteves!users.noreply.github.com from 2014-09-01 until 2015-10-01
 Rokt:
@@ -8470,7 +8479,6 @@ SAP:
 	chrislinan: chrisbarry!sina.com, chrislinan!users.noreply.github.com
 	clebs: bclement!redhat.com, borja.clemente!gmail.com, cborja!vmware.com, clebs!users.noreply.github.com from 2018-02-01 until 2023-02-01
 	coderanger: coderanger!users.noreply.github.com, noah!coderanger.net from 2017-12-01 until 2018-04-01
-	cr7258: cr7258!users.noreply.github.com
 	cviktorov: cviktorov!users.noreply.github.com from 2015-09-01
 	d-nishi: d-nishi!users.noreply.github.com, dnishi!amazon.com, dnishi1218!gmail.com from 2015-10-01 until 2017-10-01
 	dacamposol: dacamposol!users.noreply.github.com, nuda.light!gmail.com from 2022-01-01
@@ -11624,6 +11632,8 @@ Salin:
 	yunwoo-yu: skypnal12!gmail.com
 Salle Auriol Seattle:
 	jmcrumb: jmcrumb!users.noreply.github.com from 2019-06-01 until 2019-08-01
+Sallie Mae Inc.:
+	aniketmohanty82: aniketmohanty82!users.noreply.github.com from 2023-05-01 until 2023-08-01
 Salmat:
 	nightah: nightah!users.noreply.github.com until 2016-01-01
 Salomatic:
