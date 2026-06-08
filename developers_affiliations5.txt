@@ -5,6 +5,57 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+fermayo: fermayo!gmail.com, fermayo!users.noreply.github.com
+	Tutum until 2015-08-01
+	Docker Inc. from 2015-08-01 until 2017-12-01
+	Undefined Labs Inc. from 2017-12-01 until 2020-07-01
+	Datadog Inc from 2020-07-01
+fermybot: fermybot!users.noreply.github.com
+	b
+fernando-bosso: lfernando.bosso!gmail.com
+	Independent until 2015-07-01
+	Ramgo14 from 2015-07-01 until 2015-12-01
+	Independent from 2015-12-01 until 2017-03-01
+	Ateliê de Software Webgoal from 2017-03-01 until 2018-12-01
+	Floz from 2018-12-01 until 2019-06-01
+	Vindi from 2019-06-01 until 2021-09-01
+	PayWith Worldwide from 2021-09-01
+fernando-villalba: fernando-villalba!users.noreply.github.com
+	Freshfields until 2015-05-01
+	Time Off from 2015-05-01 until 2015-10-01
+	PEX from 2015-10-01 until 2017-03-01
+	ECS Digital from 2017-03-01 until 2017-08-01
+	Cloud.IQ from 2017-08-01 until 2019-04-01
+	Monese from 2019-04-01 until 2021-03-01
+	Contino from 2021-03-01 until 2022-10-01
+	Humanitec from 2022-10-01 until 2023-08-01
+	OpsLevel from 2023-08-01 until 2024-02-01
+	DevOps Society from 2024-02-01 until 2024-04-01
+	Civo from 2024-04-01
+fernandoBRS: fedeoliv!microsoft.com, fernandoBRS!users.noreply.github.com
+	Independent until 2015-09-01
+	Microsoft Corporation from 2015-09-01
+fernandocarletti: contato!fernandocarletti.net, fernandocarletti!users.noreply.github.com
+	Rocket until 2015-03-01
+	Linio from 2015-03-01 until 2019-05-01
+	Credijusto. from 2019-05-01
+fernandodelaiglesia: fernandodelaiglesia!users.noreply.github.com
+	Independent until 2021-07-01
+	Quside from 2021-07-01
+fernandoneto: fernandoneto!users.noreply.github.com
+	junglecloud until 2016-03-01
+	AgrozimVet from 2016-03-01
+fernape: fernando.apesteguia!gmail.com
+	Open Sistemas until 2015-10-01
+	Stratio Big Data from 2015-10-01 until 2016-05-01
+	OpenSistems from 2016-05-01 until 2018-03-01
+	FreeBSD from 2018-03-01
+fernau: cfernau!sonatype.com, github-15-tmp!b.fernau.ch
+	BBC until 2015-03-01
+	The Times from 2015-03-01 until 2016-09-01
+	Sonatype Inc. from 2016-09-01
+ferngarc: fcgravalos!gmail.com, ferngarc!users.noreply.github.com, fernn.garcc!gmail.com
+	Bitnami Inc.
 feross: feross!feross.org, feross!users.noreply.github.com
 	WebTorrent LLC until 2015-01-01
 	JavaScript Standard Style from 2015-01-01 until 2018-01-01
@@ -6020,6 +6071,8 @@ gkleiman: gaston.kleiman!gmail.com, gkleiman!users.noreply.github.com
 gklp: gklp!users.noreply.github.com, gokalpkuscu!gmail.com
 	Yapı Kredi Technology until 2017-11-01
 	Siemens AG from 2017-11-01
+gkneighb: gkneighb!users.noreply.github.com
+	Red Hat Inc.
 gknepper: gknepper!users.noreply.github.com
 	International Business Machines Corporation until 2017-03-01
 	Independent from 2017-03-01 until 2017-10-01
@@ -8701,6 +8754,11 @@ gusfcarvalho: gusfcarvalho!users.noreply.github.com
 	Independent from 2017-05-01 until 2019-01-01
 	Doc88 from 2019-01-01 until 2021-04-01
 	Container Solutions BV from 2021-04-01
+gushob21: gushob21!users.noreply.github.com
+	Independent until 2015-01-01
+	Amazon from 2015-01-01 until 2015-12-01
+	IMImobile PLC from 2015-12-01 until 2018-09-01
+	Google LLC from 2018-09-01
 guslcho: guslcho!users.noreply.github.com, jamie14!naver.com
 	Samsung SDS
 guspan-tanadi: guspan-tanadi!users.noreply.github.com
@@ -10102,6 +10160,8 @@ harobed: harobed!users.noreply.github.com
 harold-padilla: harold-padilla!users.noreply.github.com
 	International Business Machines Corporation until 2018-02-01
 	HCL Software from 2018-02-01
+haroldship: haroldship!users.noreply.github.com
+	International Business Machines Corporation
 harper-huang: cshuangjiwang!163.com, harper-huang!users.noreply.github.com
 	Inspur Group
 harper1011: harper1011!users.noreply.github.com
@@ -11299,6 +11359,8 @@ herasoo: herasoo!users.noreply.github.com
 heratech: junaid.baldick!justpark.com
 	Wiseserve until 2019-09-01
 	JustPark from 2019-09-01
+herbertkb: herbertkb!users.noreply.github.com
+	Red Hat Inc.
 herbertx: herbert!gondor.apana.org.au
 	Red Hat Inc.
 herbguo: herbguo!users.noreply.github.com
@@ -11454,7 +11516,9 @@ hexdigest: hexdigest!gmail.com, hexdigest!users.noreply.github.com
 hexfusion: hexfusion!users.noreply.github.com, sam!hexfusion.com, samb!endpoint.com, sbatsche!redhat.com, sbatschelet!mac.com
 	Westh Branch Resort until 2015-10-01
 	End Point Corporation from 2015-10-01 until 2018-10-01
-	Red Hat Inc. from 2018-10-01
+	Red Hat Inc. from 2018-10-01 until 2022-01-01
+	Ava Labs from 2022-01-01 until 2023-12-01
+	Red Hat Inc. from 2023-12-01
 hextechpal: prashant.pal!harness.io
 	Vy Capital until 2015-04-01
 	Pickingo Logixpress Private from 2015-04-01 until 2016-02-01
@@ -23812,64 +23876,3 @@ jimmymalhan: jimmymalhan!users.noreply.github.com
 	Sarpanch International until 2016-01-01
 	Skechers from 2016-01-01 until 2018-12-01
 	AWS from 2018-12-01
-jimmyraywv: jimmyraywv!users.noreply.github.com, jimmyraywv!yahoo.com
-	CloudBees Inc. until 2014-05-01
-	AuthX from 2014-05-01 until 2016-02-01
-	Independent from 2016-02-01 until 2016-09-01
-	Capital One Financial Corporation from 2016-09-01
-jimmyseto: jimmyseto!gmail.com, jimmyseto!users.noreply.github.com
-	Dell EMC until 2018-06-01
-	Independent from 2018-06-01 until 2018-08-01
-	NetApp Inc from 2018-08-01
-jimmytsang: jimmytsang!users.noreply.github.com
-	Independent until 2016-05-01
-	Paolucci Salling & Martin from 2016-05-01 until 2016-08-01
-	Independent from 2016-08-01 until 2017-06-01
-	Cartrack USA from 2017-06-01 until 2017-08-01
-	Independent from 2017-08-01 until 2018-01-01
-	Tesla Inc. from 2018-01-01 until 2018-08-01
-	Independent from 2018-08-01 until 2019-08-01
-	Tesla Inc. from 2019-08-01
-jimmyyan: jm.y8581!gmail.com
-	Tencent Holdings Limited
-jimparis: jim!jtan.com
-	Darling
-jimrandell: jim!jimrandell.com
-	Independent until 2017-11-01
-	Computech from 2017-11-01
-jimrollenhagen: jim!jimrollenhagen.com, jimrollenhagen!users.noreply.github.com, ods94065!gmail.com
-	Independent until 2017-12-04
-	Rackspace from 2017-12-04
-jimthompson5802: jimthompson5802!gmail.com, jimthompson5802!users.noreply.github.com
-	Independent until 2014-09-01
-	GoDaddy Operating Company LLC from 2014-09-01 until 2016-05-01
-	VerifAction from 2016-05-01 until 2019-02-01
-	Warner Bros. Entertainment Inc. from 2019-02-01 until 2020-10-01
-	Deliveroo from 2020-10-01 until 2022-07-01
-	Ardius from 2022-07-01
-jimwsplk: jimwsplk!users.noreply.github.com
-	Motorola Mobility Inc. until 2015-04-01
-	Cyanogen from 2015-04-01 until 2016-04-01
-	Apple Inc. from 2016-04-01
-jin: jin!users.noreply.github.com, jingwen!google.com
-	Google LLC
-jinan-zhou: jinan.zhou!nutanix.com
-	Independent until 2018-08-01
-	Cisco Systems Inc. from 2018-08-01 until 2019-07-01
-	Independent from 2019-07-01 until 2020-05-01
-	Meta Platforms Inc. from 2020-05-01 until 2022-08-01
-	Independent from 2022-08-01 until 2023-01-01
-	Genesis Therapeutics from 2023-01-01 until 2023-08-01
-	Nutanix Inc. from 2023-08-01
-jinchihe: hejinchi!cn.ibm.com, jinchihe!users.noreply.github.com
-	International Business Machines Corporation
-jing-rui: jing-rui!users.noreply.github.com, jingrui!huawei.com
-	Huawei Technologies Co. Ltd
-jingai-db: jingai-db!users.noreply.github.com
-	Google LLC until 2019-05-01
-	Ant Group from 2019-05-01 until 2022-08-01
-	Databricks Inc. from 2022-08-01
-jingax10: jinga!google.com, jingax10!users.noreply.github.com
-	Google LLC until 2019-05-01
-	ant group from 2019-05-01 until 2022-08-01
-	Databricks Inc. from 2022-08-01

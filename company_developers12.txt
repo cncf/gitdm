@@ -2,6 +2,9 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Tracktl:
+	christophehurpeau: christophe!hurpeau.com, christophe.hurpeau+github!gmail.com from 2017-03-01 until 2017-12-01
+	christophehurpeau: christophehurpeau!users.noreply.github.com from 2017-03-01 until 2017-12-01
 Trackunit:
 	tandrup: tandrup!users.noreply.github.com from 2021-11-01
 	van-vliet: van-vliet!users.noreply.github.com from 2018-11-01
@@ -2159,8 +2162,6 @@ Typhoon Trading:
 	moose-consulting: moose-consulting!users.noreply.github.com from 2019-03-01 until 2020-03-01
 Typito:
 	mojojoji: jojimail!gmail.com, mojojoji!users.noreply.github.com from 2018-05-01 until 2020-02-01
-Typof:
-	Sonichigo: Sonichigo!users.noreply.github.com from 2021-05-01 until 2021-08-01
 TyreConnect:
 	joshuataylor: joshuataylor!users.noreply.github.com, joshuataylorx!gmail.com from 2017-06-01 until 2019-07-01
 TyresOnTheDrive:
@@ -5558,6 +5559,7 @@ VMware Inc.:
 	mwright-pivotal: mwright-pivotal!users.noreply.github.com from 2020-01-01
 	mxplusb: mike!reboot3times.org, mxplusb!users.noreply.github.com until 2015-04-01
 	mychen66: michaelchen!vmware.com, mychen66!users.noreply.github.com
+	myechuri: myechuri!users.noreply.github.com until 2015-03-01
 	mylesagray: mg!mylesgray.com, mylesagray!users.noreply.github.com from 2017-08-01
 	n3wscott: 32305648+n3wscott!users.noreply.github.com, n3wscott!chainguard.dev, n3wscott!users.noreply.github.com, nicholss!google.com from 2019-11-01 until 2021-09-01
 	naaronne: naaronne!users.noreply.github.com from 2020-10-01
@@ -9288,6 +9290,8 @@ WANDR:
 WANdisco Inc:
 	peterpakos: peterpakos!users.noreply.github.com until 2019-10-01
 	posix4e: posix4e!users.noreply.github.com until 2015-08-01
+WAPL:
+	Zerohertz: ohg3417!gmail.com from 2024-09-01 until 2024-11-01
 WAPPO AB:
 	williamleven: william!leven.id from 2019-08-01 until 2019-10-01
 WARDA:
@@ -10944,6 +10948,9 @@ Webveloper:
 	adrafiq: adrafiq!users.noreply.github.com from 2019-11-01 until 2020-09-01
 Webware OÜ:
 	AkselAllas: AkselAllas!users.noreply.github.com from 2017-09-01 until 2018-05-01
+Webz.io:
+	senanz: senanz!users.noreply.github.com from 2019-10-01 until 2021-02-01
+	szedan-rh: szedan-rh!users.noreply.github.com from 2019-10-01 until 2021-02-01
 Webzilla:
 	amarao: amarao!users.noreply.github.com until 2015-03-01
 Wechaty:
@@ -15046,6 +15053,8 @@ Yusp:
 	gaborbernat: gaborbernat!users.noreply.github.com, gaborjbernat!gmail.com until 2016-03-01
 Yutvil:
 	fsb4000: fsb4000!yandex.ru until 2015-08-01
+Yuye:
+	yewentao256: yewentao256!users.noreply.github.com from 2019-06-01 until 2019-11-01
 Yuñ Solutions:
 	vinayxooa: 47859337+vinayxooa!users.noreply.github.com, vinay.bagul!xooa.com from 2015-07-01 until 2018-09-01
 Yōki Works:
@@ -16186,13 +16195,3 @@ Ziff Davis B2B:
 	RyanGrange: RyanGrange!users.noreply.github.com from 2017-04-01 until 2022-02-01
 Ziften:
 	goshlanguage: goshlanguage!users.noreply.github.com until 2015-09-01
-Ziglu:
-	alexykot: alexykot!gmail.com, alexykot!users.noreply.github.com from 2018-11-01
-	cyclingwithelephants: cyclingwithelephants!users.noreply.github.com from 2020-03-01
-	manupm87: manugijon!gmail.com, manupm87!users.noreply.github.com from 2021-01-01
-Zignal:
-	marc-obrien: marc-obrien!users.noreply.github.com, marobrie!redhat.com from 2018-09-01 until 2019-07-01
-Zilingo:
-	lprakashv: lprakashv!gmail.com from 2017-02-01 until 2018-06-01
-	niketh: niketh!users.noreply.github.com, niketh.sabbineni!gmail.com from 2019-09-01 until 2020-08-01
-	praphull-purohit: praphull-purohit!users.noreply.github.com from 2016-06-01 until 2020-01-01
