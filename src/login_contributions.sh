@@ -1,6 +1,7 @@
 #!/bin/bash
 # TESTSRV=1
 # ADB=allcdf or ADB=allprj
+kubectl config use-context prod
 if [ -z "${ADB}" ]
 then
   export ADB=allprj
