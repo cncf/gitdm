@@ -5,6 +5,93 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+chpl: chaim.platonov!env0.com
+	Mentor until 2015-02-01
+	Aternity from 2015-02-01 until 2019-06-01
+	Shefing from 2019-06-01 until 2024-04-01
+	env0 from 2024-04-01
+chr-fritz: mail!chr-fritz.de
+	Qaware
+chr-g: christophf!google.com
+	Google LLC
+chr15murray: chr15murray!users.noreply.github.com
+	Rakuten Group Inc. until 2017-03-01
+	General Electric Company from 2017-03-01 until 2018-11-01
+	Repositive from 2018-11-01 until 2019-03-01
+	Fetch.ai from 2019-03-01 until 2020-04-01
+	Ieso Digital Health from 2020-04-01
+chr15p: chr15p!users.noreply.github.com
+	Red Hat Inc. until 2018-01-01
+	Canonical from 2018-01-01 until 2018-08-01
+	Red Hat Inc. from 2018-08-01
+chradcliffe: chradcliffe!users.noreply.github.com
+	Avvasi Incorporated until 2016-08-01
+	NETSCOUT from 2016-08-01 until 2018-11-01
+	Symantec Corporation from 2018-11-01 until 2019-11-01
+	Broadcom Corporation from 2019-11-01
+chreniuc: cristi!hreniuc.dev
+	Independent until 2017-07-01
+	Quick Screen Trading/CVS from 2017-07-01
+chrigl: c.glaubitz!syseleven.de, chrigl!users.noreply.github.com, chris!chrigl.de, christoph.glaubitz!innovo-cloud.de
+	SysEleven Gmbh until 2017-01-01
+	iNNOVO Cloud from 2017-01-01 until 2021-09-30
+	SysEleven Gmbh from 2021-09-30
+chrira: chrira!users.noreply.github.com
+	Puzzle
+chris-armstrong: chris!deis.com, chris-armstrong!users.noreply.github.com
+	Microsoft Corporation
+chris-crone: chris-crone!users.noreply.github.com
+	Infinit until 2016-02-01
+	Docker Inc. from 2016-02-01
+chris-david-taylor: ccmtaylor!gmail.com, chris-david-taylor!users.noreply.github.com
+	SoundCloud Global Limited & Co. KG
+chris-downs: chris-downs!users.noreply.github.com
+	Activision Publishing Inc. until 2016-06-01
+	Grubhub from 2016-06-01 until 2017-03-01
+	Pythian from 2017-03-01 until 2017-08-01
+	Arcuity from 2017-08-01 until 2018-04-01
+	Mythical from 2018-04-01
+chris-esterlein: chris-esterlein!users.noreply.github.com
+	Independent until 2021-11-01
+	Pando Telecom from 2021-11-01
+chris-giblin: cgi!zurich.ibm.com
+	International Business Machines Corporation
+chris-hamper: chris-hamper!users.noreply.github.com
+	Independent until 2015-06-01
+	Acquia Inc. from 2015-06-01 until 2021-03-01
+	ZeroNorth from 2021-03-01 until 2021-12-01
+	ZeroNorth from 2021-12-01
+chris-jansson: chris-jansson!users.noreply.github.com
+	Independent until 2015-06-01
+	Mastercard International Incorporated from 2015-06-01 until 2016-08-01
+	Independent from 2016-08-01 until 2017-06-01
+	Mastercard International Incorporated from 2017-06-01 until 2017-08-01
+	Independent from 2017-08-01 until 2018-07-01
+	Mastercard International Incorporated from 2018-07-01
+chris-kaiser-7: 58376705+chris-kaiser-7!users.noreply.github.com
+	Independent
+chris-mccoy: chris!chr.is, chris-mccoy!users.noreply.github.com
+	Cisco Systems Inc.
+chris-milsted: chris-milsted!users.noreply.github.com
+	Red Hat Inc. until 2019-11-01
+	VMware Inc. from 2019-11-01 until 2021-11-01
+	Ondat from 2021-11-01 until 2023-03-01
+	Akamai Technologies Inc. from 2023-03-01
+chris-ng-scmp: chris-ng-scmp!users.noreply.github.com
+	South China Morning Post SCMP until 2022-03-01
+	Asia from 2022-03-01
+chris-ramon: chris-ramon!users.noreply.github.com, rchristian.ramon!gmail.com
+	Bespoken
+chris-rock: chris!lollyrock.com, chris-rock!users.noreply.github.com
+	Sessionbird until 2015-03-15
+	T-Labs from 2015-03-15 until 2015-07-15
+	Vulcano Security from 2015-07-15 until 2015-10-15
+	Chef Software Inc. from 2015-10-15
+chris-sanders: chris-sanders!users.noreply.github.com, sanders.chris!gmail.com
+	Synapse Wireless until 2015-12-01
+	AWS from 2015-12-01 until 2016-06-01
+	Canonical from 2016-06-01 until 2021-12-01
+	Replicated Inc. from 2021-12-01
 chris-short: chris!chrisshort.net, chris-short!users.noreply.github.com
 	McClatchy until 2014-03-01
 	Cree Inc. from 2014-03-01 until 2014-05-01
@@ -2129,6 +2216,9 @@ cmoore15: carolinemoore!google.com, cmoore15!users.noreply.github.com
 	Google LLC
 cmoore42: chris.moore!emulex.com, cmoore042!gmail.com
 	Emulex Corporation
+cmorinupgrade: cmorinupgrade!users.noreply.github.com
+	Independent until 2022-04-01
+	Upgrade Inc. from 2022-04-01
 cmorty: morty!gmx.net
 	Independent until 2015-12-01
 	Redheads from 2015-12-01
@@ -10394,6 +10484,12 @@ dereulenspiegel: dereulenspiegel!users.noreply.github.com
 	IoT Conctd from 2016-02-01
 derick-schoonbee: derick-schoonbee!users.noreply.github.com
 	CRM Centric
+derickmr: derickmartinss1!gmail.com
+	Independent until 2018-09-01
+	SAP from 2018-09-01 until 2021-01-01
+	KPS UK from 2021-01-01 until 2021-11-01
+	PayPal from 2021-11-01 until 2022-09-01
+	X-Team from 2022-09-01
 derkoe: derkoe!users.noreply.github.com
 	Porsche Informatik
 dernDren161: dernDren161!users.noreply.github.com, kitsarpgyawali!gmail.com
@@ -23698,105 +23794,3 @@ felixfbecker: felix.b!outlook.com, felixfbecker!users.noreply.github.com, j!nhie
 	Sourcegraph Inc
 felixfontein: felixfontein!users.noreply.github.com
 	Alemira
-felixfriedrich: felix!fri.edri.ch, felixfriedrich!users.noreply.github.com
-	Springer Nature until 2020-05-01
-	Delivery Hero from 2020-05-01 until 2022-12-01
-	Independent from 2022-12-01 until 2023-03-01
-	On from 2023-03-01
-felixge: felix!debuggable.com, felixge!users.noreply.github.com
-	Apple Inc. until 2020-12-01
-	Datadog Inc from 2020-12-01
-felixheinonen: felixheinonen!users.noreply.github.com
-	Independent until 2019-04-01
-	Digitalents Helsinki from 2019-04-01 until 2019-12-01
-	RELEX from 2019-12-01 until 2020-06-01
-	Virta from 2020-06-01 until 2020-10-01
-	Independent from 2020-10-01 until 2020-12-01
-	Solita from 2020-12-01 until 2021-08-01
-	Reaktor from 2021-08-01
-felixklauke: felix!klauke-enterprises.com
-	Independent until 2017-08-01
-	itemis DE from 2017-08-01 until 2021-09-01
-	Klauke Enterprises from 2021-09-01
-felixmulder: felix.mulder!gmail.com, felixmulder!users.noreply.github.com
-	Sole Proprietor until 2014-12-01
-	Axis from 2014-12-01 until 2016-04-01
-	EPFL from 2016-04-01 until 2016-05-01
-	Google LLC from 2016-05-01 until 2016-08-01
-	EPFL from 2016-08-01 until 2017-09-01
-	Klarna from 2017-09-01
-felixonmars: felixonmars!archlinux.org, felixonmars!users.noreply.github.com
-	Brothers Bridge until 2017-01-01
-	Whan Deepin from 2017-01-01
-felixrabe: felix!rabe.io, felixrabe!users.noreply.github.com
-	Winteler AG until 2015-02-01
-	Independent from 2015-02-01 until 2015-03-01
-	rabe.io from 2015-03-01
-felixtran39: felixtran39!users.noreply.github.com
-	Independent until 2018-09-01
-	MIT Digital Humanities from 2018-09-01 until 2019-05-01
-	Independent from 2019-05-01 until 2020-01-01
-	Microsoft Corporation from 2020-01-01 until 2020-02-01
-	Independent from 2020-02-01 until 2020-05-01
-	Google LLC from 2020-05-01 until 2020-08-01
-	Independent from 2020-08-01 until 2021-01-01
-	Microsoft Corporation from 2021-01-01 until 2021-02-01
-	Independent from 2021-02-01 until 2021-06-01
-	Google LLC from 2021-06-01
-felixwidjaja: felixwidjaja!users.noreply.github.com
-	PanaOIL until 2019-04-01
-	PT Eka Surya Mustika from 2019-04-01
-fellhorn: fellhorn!users.noreply.github.com
-	Independent until 2015-01-01
-	ROCK5 from 2015-01-01 until 2017-07-01
-	understand from 2017-07-01 until 2022-07-01
-	Recogni from 2022-07-01
-feloy: contact!elol.fr, feloy!users.noreply.github.com
-	Actimeo until 2017-05-01
-	Anevia from 2017-05-01 until 2019-06-01
-	BNP Paribas from 2019-06-01 until 2020-03-01
-	Independent from 2020-03-01 until 2020-08-01
-	CNCF from 2020-08-01 until 2020-11-01
-	Red Hat Inc. from 2020-11-01
-felpasl: felipe.lambert!outlook.com, felpasl!users.noreply.github.com
-	Capgemini until 2016-03-01
-	GWCloud from 2016-03-01
-feluxe: feluxe!users.noreply.github.com
-	Independent
-femininjaneer: lidza.louina!gmail.com
-	Bocoup until 2014-01-01
-	Red Hat Inc. from 2014-01-01 until 2017-06-01
-	DigitalOcean from 2017-06-01
-femrtnz: femrtnz!gmail.com, femrtnz!users.noreply.github.com
-	Câmara de Comercialização de Energia Elét until 2014-12-01
-	CI&T from 2014-12-01 until 2016-11-01
-	Playtech from 2016-11-01 until 2017-11-01
-	PA Consulting Holdings Limited from 2017-11-01 until 2018-03-01
-	Tribal Worldwide from 2018-03-01 until 2018-07-01
-	Open Credo Limited from 2018-07-01 until 2019-04-01
-	Babylon Partners Ltd from 2019-04-01 until 2019-09-01
-	NatWest from 2019-09-01 until 2020-06-01
-	Equal Experts from 2020-06-01 until 2020-12-01
-	Improbable Worlds Limited from 2020-12-01 until 2023-01-01
-	DoiT from 2023-01-01
-fen4o: fen4o!users.noreply.github.com, martin.vladev!gmail.com, martinvladev!gmail.com
-	SAP
-fenak: fenak!users.noreply.github.com
-	UOL DIVEO until 2015-07-01
-	Jora from 2015-07-01 until 2020-10-01
-	SEEK from 2020-10-01 until 2022-03-01
-	Mr Yum from 2022-03-01 until 2023-01-01
-	SafetyCulture from 2023-01-01
-feng-lu: lu.feng!6wind.com
-	6WIND S.A.
-fengguang: fengguang.wu!intel.com
-	Intel Corporation
-fenggw-fnst: fenggw-fnst!users.noreply.github.com
-	FNST
-fenghan89: feng.han!uber.com
-	Zillow until 2014-08-01
-	Independent from 2014-08-01 until 2015-07-01
-	Zillow from 2015-07-01 until 2017-10-01
-	Independent from 2017-10-01 until 2018-02-01
-	Uber from 2018-02-01 until 2023-11-01
-	Independent from 2023-11-01

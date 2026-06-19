@@ -3464,6 +3464,7 @@ AWS:
 	bisdavid: bisdavid!amazon.com from 2014-10-01 until 2023-09-01
 	bitoku: atokubi!redhat.com, attokubi!amazon.com, bitoku!users.noreply.github.com from 2021-03-01 until 2023-02-03
 	bjrara: bjrara!gmail.com, bjrara!users.noreply.github.com from 2021-01-01
+	blacktooth: blacktooth!users.noreply.github.com from 2020-05-01
 	blubben: blubben!gmail.com from 2024-10-01
 	boblodgett: boblodgett!users.noreply.github.com from 2018-08-01
 	bonclay7: bonclay7!users.noreply.github.com from 2020-05-01
@@ -4408,6 +4409,7 @@ Accel Frontline:
 Accel Interactive:
 	apemberton: pembertona!gmail.com until 2016-12-01
 AccelByte:
+	accelbyte-raymond: accelbyte-raymond!users.noreply.github.com from 2019-07-01 until 2025-03-01
 	fanadol: fanadol!users.noreply.github.com from 2021-03-01
 	goodryanboy: goodryanboy!users.noreply.github.com from 2022-12-01
 	prksu: prksu!users.noreply.github.com, prksu.sh!gmail.com from 2023-07-01
@@ -8235,6 +8237,8 @@ Allbest:
 	budiprihhastomo: budi.prihhastomo27!gmail.com, budiprihhastomo!users.noreply.github.com from 2019-12-01 until 2020-08-01
 Allegiance:
 	sanjay990: sanjay990!users.noreply.github.com from 2014-05-01 until 2014-07-01
+Allego:
+	rvankruistum: rvankruistum!gmail.com, rvankruistum!users.noreply.github.com from 2018-08-01 until 2019-12-01
 Allegro Retail a.s.:
 	iropz: ignacio!ropz.ch, ignacio.perez!allegro.com from 2024-04-01
 Allegro.pl sp. z o.o.:
@@ -8317,6 +8321,7 @@ Alliander:
 	madeddie: madeddie!users.noreply.github.com until 2015-03-01
 	peterbosalliandercom: peter.bos!alliander.com, peterbosalliandercom!users.noreply.github.com
 	robbertvdg: robbertvdg!users.noreply.github.com from 2017-10-01 until 2017-12-01
+	rvankruistum: rvankruistum!gmail.com, rvankruistum!users.noreply.github.com from 2020-12-01 until 2022-03-01
 	sander-su: sander-su!users.noreply.github.com
 Alliants:
 	ayqazi: ayqazi!users.noreply.github.com from 2015-10-01 until 2016-08-01
@@ -9212,6 +9217,7 @@ Amazon:
 	bjlee72: bjlee!etri.re.kr, bjlee72!users.noreply.github.com
 	bjucs: bjucs!users.noreply.github.com from 2022-12-01 until 2024-12-01
 	bketelsen: bketelsen!gmail.com, bketelsen!users.noreply.github.com, mail!bjk.fyi from 2022-06-15 until 2023-11-01
+	blacktooth: blacktooth!users.noreply.github.com until 2020-05-01
 	blackwith: blackwith!users.noreply.github.com, mathieu.collin.pro!gmail.com from 2018-07-01
 	blubben: blubben!gmail.com until 2024-10-01
 	bnrjee: bnrjee!users.noreply.github.com from 2020-07-01
@@ -9638,6 +9644,7 @@ Amazon:
 	schmutze: schmutze!amazon.com
 	sculley: sam!samculley.co.uk, sculley!users.noreply.github.com from 2015-10-01
 	sdimitro: sdimitro!users.noreply.github.com, serapheim!delphix.com until 2015-08-01
+	sdpoueme: sdpoueme!users.noreply.github.com from 2028-05-01
 	seanmonstar: sean!buoyant.io, sean!seanmonstar.com, sean.monstar!gmail.com, seanmonstar!users.noreply.github.com from 2020-05-01 until 2023-07-01
 	seanzatzdev-amazon: seanzatzdev!gmail.com, seanzatzdev!users.noreply.github.com, seanzatzdev-amazon!users.noreply.github.com, zatzsea!amazon.com
 	segabond: segabond!users.noreply.github.com from 2019-10-01
@@ -11341,7 +11348,7 @@ AppDynamics LLC:
 	sgracias1: sgracias!cisco.com, sgracias1985!gmail.com from 2016-06-01 until 2017-06-01
 	shantanu-vsbhosale: shantanu-vsbhosale!users.noreply.github.com from 2018-07-01 until 2020-08-01
 	stepanv: stepanv!users.noreply.github.com from 2017-11-01
-	svrnm: neumanns!cisco.com, severin.neumann!altmuehlnet.de, severin.neumann!appdynamics.com, sneumann!causely.ai, svrnm!users.noreply.github.com from 2016-02-01 until 2017-06-01
+	svrnm: neumanns!cisco.com, severin!bronto.io, severin.neumann!altmuehlnet.de, severin.neumann!appdynamics.com, sneumann!causely.ai, svrnm!users.noreply.github.com from 2016-02-01 until 2017-06-01
 	tcf909: sowcow!pm.me, tcf909!gmail.com, tcf909!users.noreply.github.com from 2015-01-01 until 2016-06-01
 AppFiss:
 	felix1209: felix.xavier!gmail.com from 2016-06-01 until 2018-10-01
@@ -11468,8 +11475,6 @@ Appbase.io:
 	chrstnwhlrt: chrstnwhlrt!users.noreply.github.com
 	gszr: gsz!acm.org from 2016-10-01 until 2017-07-01
 	palash25: npalash25!gmail.com, palash25!users.noreply.github.com from 2018-08-01 until 2019-07-01
-Appcara:
-	gavinkflam: gavinkflam!users.noreply.github.com from 2016-08-01 until 2019-04-01
 Appcelerator:
 	jhaynie: jhaynie!gmail.com, jhaynie!users.noreply.github.com until 2016-01-01
 Appcot:
@@ -12004,6 +12009,8 @@ Apple via Apex Systems:
 	a-peek4: a-peek4!users.noreply.github.com from 2016-06-01 until 2017-09-01
 AppleApple:
 	ApsOps: ApsOps!users.noreply.github.com, aps.sids!gmail.com from 2021-08-01
+AppleJuice iRepairs:
+	aThorp96: aThorp96!users.noreply.github.com, andrew.thorp.dev!gmail.com from 2015-11-01 until 2019-12-01
 Applemint:
 	VolCh: VolCh!users.noreply.github.com from 2020-05-01
 ApplicAfro:
@@ -14937,6 +14944,7 @@ Automobile Comercio De Pecas Ltda:
 	BorjaEst: BorjaEst!users.noreply.github.com
 	DeanPH: DeanPH!users.noreply.github.com from 2017-09-01 until 2018-04-01
 	Krakean: Krakean!users.noreply.github.com
+	VINNUSAURUS: vinaytejareddy!gmail.com
 	bbung: bbung!users.noreply.github.com
 	bkniffler: bkniffler!me.com, bkniffler!users.noreply.github.com
 	cmhokej: cmhokej!users.noreply.github.com
@@ -15860,6 +15868,7 @@ B:
 	konvergence: konvergence!users.noreply.github.com
 	kubescapebot: kubescapebot!users.noreply.github.com
 	nightwatchcyber: nightwatchcyber!users.noreply.github.com
+	obabec: ond.babec!gmail.com
 	opentelemetrybot: opentelemetrybot!users.noreply.github.com
 	operon-io: operon-io!users.noreply.github.com
 	sbeskin-redhat: sbeskin-redhat!users.noreply.github.com
@@ -15929,19 +15938,3 @@ B2W:
 	andreclaudino: andreclaudino!users.noreply.github.com, claudino!d2x.com.br from 2018-02-01 until 2021-03-01
 	cupello: cupello!users.noreply.github.com, rafacupello!gmail.com from 2015-08-01
 	northonheld: northonheld!users.noreply.github.com until 2015-05-01
-B2W Digital:
-	diegopedroso: pedrosodiego!gmail.com from 2019-12-01 until 2020-01-01
-	igorabiola: igorabiola!gmail.com from 2014-05-01 until 2019-01-01
-	jpfaria: jpfaria!gmail.com, jpfaria!users.noreply.github.com
-	marcosborges: contato!marcosborges.com, marcosborges!users.noreply.github.com from 2014-10-01 until 2016-03-01
-	seufagner: fagnermoura!gmail.com, seufagner!users.noreply.github.com from 2016-08-01 until 2017-02-01
-B2i Healthcare:
-	ekovacs: ekovacs!users.noreply.github.com from 2016-08-01 until 2017-07-01
-B302:
-	niekberenschot: niek!n-bit.nl from 2016-01-01 until 2018-02-01
-B3G:
-	benmed00: ben94med!gmail.com from 2018-04-01 until 2018-09-01
-B3i Services AG:
-	vglafirov: vglafirov!gmail.com, vglafirov!users.noreply.github.com from 2019-07-01
-B4D Network:
-	MrZak-dev: zakaria.guenna!gmail.com from 2020-04-01

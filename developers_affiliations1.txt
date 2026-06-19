@@ -2480,6 +2480,13 @@ AlekseyMarchuk: alexeymar!mellanox.com, willbeason!google.com
 	Intel Corporation
 AlekseyTs: alekseyt!microsoft.com
 	Microsoft Corporation
+Aleromerog: Aleromerog!users.noreply.github.com
+	Independent until 2020-06-01
+	Custom from 2020-06-01 until 2021-06-01
+	Google LLC from 2021-06-01 until 2021-08-01
+	Oracle America Inc. from 2021-08-01 until 2021-09-01
+	Oracle America Inc. from 2021-09-01 until 2022-02-01
+	Google LLC from 2022-02-01
 AlessioCasco: AlessioCasco!users.noreply.github.com
 	Nexmo until 2019-03-01
 	Independent from 2019-03-01 until 2019-05-01
@@ -2676,9 +2683,9 @@ AlexanderPraegla: alexander.praegla!gmail.com
 	PROCON IT GmbH
 AlexanderWells-diamond: AlexanderWells-diamond!users.noreply.github.com
 	Red Hat Inc.
-AlexanderWert: AlexanderWert!users.noreply.github.com, alexander.wert!elastic.co, alex.wert!dash0.com
+AlexanderWert: AlexanderWert!users.noreply.github.com, alex.wert!dash0.com, alexander.wert!elastic.co
 	Elasticsearch Inc. until 2026-06-12
-	Dash0 Inc. from 2026-06-13
+	Dash0 Inc. from 2026-06-12
 AlexanderWiechert: awiechert!elastic2ls.com
 	Talend Inc. until 2015-03-01
 	Independent from 2015-03-01 until 2015-05-01
@@ -5525,6 +5532,9 @@ BasBenIk: Bas.v.Baalen!gmail.com
 	Devwire
 BasPH: basharenslak!godatadriven.com, basph!users.noreply.github.com
 	GoDataDriven
+Basavaraju-G: Basavaraju-G!users.noreply.github.com, bgirriam!redhat.com
+	Vembu until 2014-06-01
+	International Business Machines Corporation from 2014-06-01
 BaskiGIT: BaskiGIT!users.noreply.github.com, bskr.psgtech!gmail.com
 	Cachematrix until 2015-07-01
 	Independent from 2015-07-01 until 2019-03-01
@@ -11542,6 +11552,8 @@ EricTendian: EricTendian!users.noreply.github.com, erictendian!gmail.com
 	Clarify until 2017-05-01
 	Packback from 2017-05-01 until 2022-08-01
 	WPEngine Inc. from 2022-08-01
+EricWittbot: EricWittbot!users.noreply.github.com
+	Red Hat Inc.
 EricWittmann: EricWittmann!users.noreply.github.com
 	Red Hat Inc.
 EricXie7: 1668398275!qq.com, ericxie7!users.noreply.github.com, xiedong01!inspur.com
@@ -12670,7 +12682,7 @@ Frassle: Frassle!users.noreply.github.com, frassle!gmail.com
 Frawless: Frawless!users.noreply.github.com, jstejska!redhat.com, stejskinek!gmail.com, xstejs24!gmail.com
 	Independent until 2017-07-01
 	Red Hat Inc. from 2017-07-01 until 2025-07-01
-	IBM from 2025-07-01
+	International Business Machines Corporation from 2025-07-01
 FrazerClews: frazerleslieclews!gmail.com
 	This is The Foundry until 2014-04-01
 	Independent from 2014-04-01 until 2016-07-01
@@ -21003,7 +21015,7 @@ Lykathia: Lykathia!users.noreply.github.com, lowry.e!gmail.com
 	NTT DATA until 2015-05-01
 	PitchPlay from 2015-05-01 until 2017-04-01
 	BeyondTrust from 2017-04-01
-Lyndon-Li: yonghui.li!broadcom.com, lyonghui!vmware.com, lyndon-li!hotmail.com, 98304688+Lyndon-Li!users.noreply.github.com
+Lyndon-Li: 98304688+Lyndon-Li!users.noreply.github.com, Lyndon-Li!users.noreply.github.com, lyndon-li!hotmail.com, lyonghui!vmware.com, yonghui.li!broadcom.com
 	Independent until 2022-02-07
 	VMware Inc. from 2022-02-07
 Lynskylate: Lynskylate!users.noreply.github.com
@@ -23673,17 +23685,3 @@ MrMarble: contact!mrmarble.dev
 	Red Hat Inc. from 2024-05-01
 MrMinimal: MrMinimal!users.noreply.github.com
 	Independent
-MrPointer: MrPointer!users.noreply.github.com, timor.gruber!gmail.com
-	Independent
-MrSaints: ian!fyianlai.com, mrsaints!users.noreply.github.com
-	Independent until 2015-11-01
-	Arachnys from 2015-11-01 until 2018-12-01
-	Tracr from 2018-12-01
-MrSanZhi: 1758975670!qq.com
-	KLM until 2020-12-01
-	European Patent Office from 2020-12-01 until 2021-03-01
-	ING from 2021-03-01 until 2022-04-01
-	KLM from 2022-04-01
-MrShaddix: MrShaddix!users.noreply.github.com
-	Computer until 2015-10-01
-	EBSCO from 2015-10-01
