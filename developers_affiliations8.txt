@@ -5,6 +5,22 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+pcx: hi!pcx.io
+	ZeMoSo Technologies
+pcx: pcx!users.noreply.github.com
+	ReportGarden
+pdalpra: dalpra.pierre!gmail.com
+	Gatling until 2015-04-01
+	Teads SA from 2015-04-01 until 2019-04-01
+	SPIDEO from 2019-04-01
+pdavid31: pdavid31!users.noreply.github.com
+	Hochschule Neubrandenburg
+pdbogen: patrick!srcclr.com, pdbogen!users.noreply.github.com
+	SourceClear until 2016-12-01
+	Slack Technologies Inc. from 2016-12-01
+pddenhar: pddenhar!users.noreply.github.com
+	WiRover until 2017-07-01
+	Tormach from 2017-07-01
 pdebruin: pdebruin!users.noreply.github.com
 	Microsoft Corporation until 2017-03-01
 	Docker Inc. from 2017-03-01 until 2019-02-01
@@ -4266,6 +4282,10 @@ pridhi-arora: pridhi-arora!users.noreply.github.com
 priettt: priettt!gmail.com, priettt!users.noreply.github.com
 	Independent until 2021-12-01
 	Embrace from 2021-12-01
+prietyc123: prietyc123!gmail.com, prietyc123!users.noreply.github.com
+	Independent until 2017-03-01
+	Wipro from 2017-03-01 until 2019-09-01
+	Red Hat Inc. from 2019-09-01
 priley86: priley86!gmail.com, priley86!users.noreply.github.com
 	Red Hat Inc.
 primael: primael!l-infini.fr
@@ -19945,6 +19965,9 @@ sedooe: sedat!sedooe.com, sedooe!users.noreply.github.com
 sedovalx: sedovalx!users.noreply.github.com
 	CROC until 2016-06-01
 	JetBrains s.r.o. from 2016-06-01
+see-quick: maros.orsak159!gmail.com, see-quick!users.noreply.github.com
+	Red Hat Inc. until 2025-07-01
+	International Business Machines Corporation from 2025-07-01
 seebe: chris.brandt!renesas.com
 	Renesas Electronics Corporation
 seecsea: seecsea!users.noreply.github.com
@@ -19980,9 +20003,6 @@ seenickcode: seenickcode!users.noreply.github.com
 	Smalltalk from 2017-01-01 until 2018-12-01
 	Independent from 2018-12-01 until 2019-05-01
 	Capital One from 2019-05-01
-see-quick: see-quick!users.noreply.github.com, maros.orsak159!gmail.com
-    Red Hat Inc. until 2025-07-01
-    IBM from 2025-07-01
 seerickcode: seerickcode!users.noreply.github.com
 	Crafty Penguins
 seeruk: seeruk!users.noreply.github.com
@@ -23569,25 +23589,3 @@ siddhu-opsmx: siddhu-opsmx!users.noreply.github.com
 	OpsMx
 siddontang: siddontang!gmail.com, siddontang!users.noreply.github.com
 	PingCAP
-sideeffffect: sideeffffect!users.noreply.github.com
-	CS SOFT until 2015-02-01
-	Independent from 2015-02-01 until 2015-09-01
-	Barclays Corporate & Investment Bank from 2015-09-01 until 2019-01-01
-	Avast Software s.r.o. from 2019-01-01
-sidewinder12s: sidewinder12s!users.noreply.github.com
-	JPMorgan Chase until 2014-08-01
-	Independent from 2014-08-01 until 2015-06-01
-	Juniper Networks Inc. from 2015-06-01 until 2015-08-01
-	Independent from 2015-08-01 until 2016-02-01
-	Juniper Networks Inc. from 2016-02-01 until 2017-10-01
-	Tesla Inc. from 2017-10-01 until 2019-08-01
-	Aurora from 2019-08-01
-sidharta-s: sidharta-s!users.noreply.github.com, sidharta.apache!gmail.com
-	Cloudera Inc.
-sidharthanup: sanupkri!redhat.com, sidharthanup!users.noreply.github.com
-	Red Hat Inc.
-sidharthramesh: sidharthramesh!users.noreply.github.com, tornadoalert!gmail.com
-	Independent until 2019-03-01
-	Medblocks from 2019-03-01
-sidharthsurana: sidharthsurana!users.noreply.github.com, ssurana!vmware.com
-	VMware Inc.

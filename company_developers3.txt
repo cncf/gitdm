@@ -2,6 +2,11 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+CloudLock:
+	citizenken: citizenken!users.noreply.github.com from 2015-02-01 until 2017-11-01
+	decarboxy: sam!decarboxy.com until 2018-02-01
+	josephbarnett: josephbarnett!users.noreply.github.com from 2017-01-01 until 2020-09-01
+	twall: twall!users.noreply.github.com until 2017-10-01
 CloudMine:
 	bflad: bflad!users.noreply.github.com from 2015-10-01 until 2016-10-01
 CloudMosa:
@@ -4290,8 +4295,8 @@ Cotecna:
 	jcarloscandela: jcarloscandela!users.noreply.github.com from 2024-09-01
 Coteng:
 	bravecobra: bravecobra!users.noreply.github.com from 2016-06-01 until 2019-01-01
-Coterie Baby Inc.:
-	brianpursley: bpursley!cinlogic.com, brianpursley!users.noreply.github.com from 2018-12-01 until 2019-08-01
+Coterie Insurance:
+	brianpursley: bpursley!cinlogic.com, brian.pursley!defenseunicorns.com, brianpursley!users.noreply.github.com from 2018-12-01 until 2019-08-01
 Cotiviti:
 	apoland: apoland!users.noreply.github.com from 2016-01-01 until 2016-10-01
 	bryanateoan: bryanateoan!users.noreply.github.com from 2018-03-01 until 2019-06-01
@@ -8722,6 +8727,7 @@ Dave:
 	andoriyu: andoriyu!users.noreply.github.com from 2021-01-01
 	jjm340: jjm340!gmail.com from 2018-10-01
 	leigh-johnson: leigh!bitsy.ai, leigh-johnson!users.noreply.github.com from 2017-01-01 until 2018-12-01
+	williamlfish: williamleofish!gmail.com, williamlfish!users.noreply.github.com from 2021-10-01 until 2022-09-01
 Dave James Miller:
 	davejamesmiller: dave!davejamesmiller.com
 Dave Mueller:
@@ -9242,6 +9248,7 @@ Defense:
 	aniruddha2000: aniruddha2000!users.noreply.github.com, codewithaniruddha!gmail.com from 2022-08-01 until 2023-05-01
 	wcrum: wcrum!users.noreply.github.com until 2020-02-01
 Defense Unicorns:
+	brianpursley: bpursley!cinlogic.com, brian.pursley!defenseunicorns.com, brianpursley!users.noreply.github.com from 2026-06-08
 	eddiezane: eddiezane!chainguard.dev, eddiezane!gmail.com, eddiezane!users.noreply.github.com from 2024-01-08
 	gerred: gerred!users.noreply.github.com, hello!gerred.com from 2023-01-01
 	jasonwashburn: jasonwashburn!users.noreply.github.com from 2024-09-01
@@ -9836,7 +9843,7 @@ Dell Technologies:
 	souravpy: souravpy!users.noreply.github.com from 2023-05-01
 	srideepDell: srideep_devireddy!dell.com
 	stephbman: stephbman!users.noreply.github.com from 2015-07-01 until 2016-12-01
-	stmcginnis: sean!lambdal.com, sean.mcginnis!dell.com, sean.mcginnis!gmail.com, sean.mcginnis!huawei.com, sean_mcginnis!dell.com, smcginnis!vmware.com, stmcg!amazon.com, stmcginnis!users.noreply.github.com until 2017-04-07, from 2019-06-01 until 2020-09-17
+	stmcginnis: sean!lambda.ai, sean!lambdal.com, sean.mcginnis!dell.com, sean.mcginnis!gmail.com, sean.mcginnis!huawei.com, sean_mcginnis!dell.com, smcginnis!vmware.com, stmcg!amazon.com, stmcginnis!users.noreply.github.com until 2017-04-07, from 2019-06-01 until 2020-09-17
 	strikingraghu: strikingraghu!users.noreply.github.com
 	superm1: mario.limonciello!dell.com, mario_limonciello!dell.com
 	swgupta-vmw: swgupta-vmw!users.noreply.github.com from 2022-11-01
