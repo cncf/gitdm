@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+marcofranssen: marcofranssen!users.noreply.github.com
+	Atos until 2016-03-01
+	blueKiwi from 2016-03-01 until 2016-07-01
+	DynaCommerce from 2016-07-01 until 2019-10-01
+	Philips from 2019-10-01
 marcogschmidt: marcog.schmidt!gmail.com
 	Reply until 2016-07-01
 	Independent from 2016-07-01 until 2017-02-01
@@ -23770,10 +23775,3 @@ pcrost: crosthwaite.peter!gmail.com, crosthwaitepeter!gmail.com
 pcuixa: pcuixa!users.noreply.github.com
 	International Business Machines Corporation until 2020-03-01
 	Red Hat Inc. from 2020-03-01
-pculka: anagiop!gmail.com, pculka!users.noreply.github.com
-	Independent until 2015-04-15
-	First Order from 2015-04-15 until 2016-02-15
-	Independent from 2016-02-15 until 2016-10-15
-	Datadog Inc from 2016-10-15
-pcwiese: pcwiese!users.noreply.github.com, petercwiese!gmail.com
-	Microsoft Corporation

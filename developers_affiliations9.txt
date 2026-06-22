@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+siddhu-opsmx: siddhu-opsmx!users.noreply.github.com
+	OpsMx
+siddontang: siddontang!gmail.com, siddontang!users.noreply.github.com
+	PingCAP
 sideeffffect: sideeffffect!users.noreply.github.com
 	CS SOFT until 2015-02-01
 	Independent from 2015-02-01 until 2015-09-01
