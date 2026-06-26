@@ -2,6 +2,19 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+B2C2:
+	cedws: cedws!users.noreply.github.com from 2022-04-01
+	danielburrell: danielburrell!users.noreply.github.com from 2021-11-01
+	vokracko: lukas!vokracko.cz, vokracko!users.noreply.github.com from 2021-02-01
+	z0mbix: z0mbix!users.noreply.github.com from 2019-05-01 until 2020-01-01
+B2CDirect:
+	mstrYoda: mstrYoda!users.noreply.github.com from 2018-12-01 until 2019-04-01
+B2International:
+	ekovacs: ekovacs!users.noreply.github.com until 2016-08-01
+B2W:
+	andreclaudino: andreclaudino!users.noreply.github.com, claudino!d2x.com.br from 2018-02-01 until 2021-03-01
+	cupello: cupello!users.noreply.github.com, rafacupello!gmail.com from 2015-08-01
+	northonheld: northonheld!users.noreply.github.com until 2015-05-01
 B2W Digital:
 	diegopedroso: pedrosodiego!gmail.com from 2019-12-01 until 2020-01-01
 	igorabiola: igorabiola!gmail.com from 2014-05-01 until 2019-01-01
@@ -274,6 +287,8 @@ BD Internship:
 	bgalkows: bgalkows!users.noreply.github.com from 2015-06-01 until 2015-09-01
 BDA Partners:
 	baejinsoo: baejinsoo!users.noreply.github.com, jinsoo941010!naver.com from 2015-06-01 until 2015-09-01
+BDB.ai:
+	jparsai: jparsai!redhat.com, jparsai!users.noreply.github.com until 2020-04-01
 BDC:
 	bobbyangers: bobbyangers!hotmail.com from 2019-03-01 until 2019-08-01
 BDDW:
@@ -3267,6 +3282,8 @@ Bharti Airtel:
 	eKuG: ekanshgupta.eku!gmail.com from 2019-06-01 until 2019-07-01
 Bharti Infratel Limited:
 	ispeakc0de: ashubham314!gmail.com, ispeakc0de!users.noreply.github.com, shubham!chaosnative.com, shubham.chaudhary!mayadata.io from 2018-06-01 until 2018-07-01
+Bhaskar:
+	sravankumar777: sravankumar777!users.noreply.github.com from 2019-08-01 until 2020-11-01
 Bhumi:
 	swiftdiaries: adhita.selvaraj!gmail.com, adhita94!gmail.com, swiftdiaries!users.noreply.github.com from 2015-07-01 until 2016-07-01
 BiQ:
@@ -6064,6 +6081,8 @@ Brain Corp:
 	tlossen: tlossen!users.noreply.github.com from 2018-01-01
 	tmroeder: tmroeder!google.com from 2018-01-01
 	tomleb: tomlebreux!cock.li from 2018-01-01
+Brain Station:
+	pkbhowmick: pkbhowmick!users.noreply.github.com, pkbhowmick007!gmail.com from 2020-02-01 until 2020-11-01
 Brain4Net:
 	akostrikov: alexandr.kostrikov!gmail.com from 2017-02-01 until 2020-08-01
 	romanspb80: romanspb!yahoo.com from 2018-10-01 until 2019-04-01
@@ -9032,6 +9051,7 @@ CNCF:
 	dixudx: di.xu!arm.com, dixudx!users.noreply.github.com, stephenhsu90!gmail.com from 2023-10-01
 	donaldliu: donaldliu!gmail.com, donaldliu!users.noreply.github.com from 2017-12-01
 	dwindsor: dave!progbits.org, dwindsor!users.noreply.github.com from 2017-06-01 until 2018-05-01
+	eameh: eameh!users.noreply.github.com from 2021-04-01
 	edeNFed: edeNFed!users.noreply.github.com, edenf2k!gmail.com from 2022-08-01
 	edeediong: edeediong!users.noreply.github.com, edidiongmichael08!gmail.com from 2020-10-01 until 2020-12-01
 	eirinikos: eirinikos!gmail.com, eirinikos!users.noreply.github.com from 2018-03-01
@@ -9600,6 +9620,8 @@ CSDNet:
 	ParkerVR: ParkerVR!users.noreply.github.com until 2017-08-01
 CSE:
 	ProvoK: ProvoK!users.noreply.github.com, vittorio.camisa!gmail.com from 2016-09-01 until 2017-03-01
+CSE Club PSTU:
+	Superm4n97: Superm4n97!users.noreply.github.com from 2021-06-01 until 2022-06-01
 CSE IIT KANPUR:
 	apeeyush: peeyushagarwal1994!gmail.com
 CSES NIT Warangal:
@@ -9755,6 +9777,8 @@ CUBRC:
 	jmlogan: jmlogan!users.noreply.github.com
 CUBS:
 	taisph: taisph!users.noreply.github.com from 2014-12-01
+CUE:
+	mathur07: shumathu!redhat.com from 2020-05-01 until 2021-04-01
 CUEBiCink:
 	nakabonne: nakabonne!gmail.com, nakabonne!users.noreply.github.com, rodriguez.nak!gmail.com from 2016-05-01 until 2018-01-01
 CUGB:
@@ -15759,7 +15783,7 @@ CloudBees Inc.:
 	christ66: schristou88!gmail.com until 2016-04-01, from 2016-08-01
 	cliffmeyers: cliff.meyers!gmail.com from 2016-03-01 until 2018-01-01
 	corinnekrych: corinnekrych!gmail.com, corinnekrych!users.noreply.github.com from 2019-05-01
-	cyrille-leclerc: 459691+cyrille-leclerc!users.noreply.github.com, cleclerc!cloudbees.com, cyrille!cyrilleleclerc.com, cyrille.leclerc!elastic.co, cyrille.lelclerc!grafana.com until 2020-01-01
+	cyrille-leclerc: 459691+cyrille-leclerc!users.noreply.github.com, cleclerc!cloudbees.com, cyrille!cyrilleleclerc.com, cyrille.leclerc!datadoghq.com, cyrille.leclerc!elastic.co, cyrille.lelclerc!grafana.com until 2020-01-01
 	daniel-beck: 1831569+daniel-beck!users.noreply.github.com, daniel-beck!github.com, daniel-beck!users.noreply.github.com
 	darinpope: darin!planetpope.com from 2016-08-01
 	davidbees: 42557086+davidbees!users.noreply.github.com, davidbees!users.noreply.github.com
@@ -16006,27 +16030,3 @@ CloudHeroCloudHero:
 CloudIQ:
 	asubmani: asubmani!gmail.com, asubmani!users.noreply.github.com from 2019-03-01
 	rganesan: rganesan!gmail.com from 2022-01-01
-CloudJournee:
-	Venkat19967: Venkat19967!users.noreply.github.com from 2016-06-01 until 2016-07-01
-CloudKitchens:
-	irl-segfault: irl-segfault!users.noreply.github.com from 2019-05-01 until 2020-07-01
-CloudKnox:
-	arkentos: arkentos!gmail.com, arkentos!users.noreply.github.com from 2021-05-01 until 2021-08-01
-CloudLayer:
-	sotiris84: sotiris84!users.noreply.github.com from 2016-08-01 until 2018-05-01
-CloudLink LLC:
-	smaclennan: seanm!seanm.ca until 2015-11-01
-CloudLinux:
-	aborilov: aborilov!gmail.com, aborilov!users.noreply.github.com, pavel!akuity.io from 2015-10-01 until 2017-02-01
-	digitallman: drivengroove!gmail.com from 2016-09-01
-	lightme16: lightme16!users.noreply.github.com from 2016-09-01 until 2018-06-01
-	paboldin: 4bdulll4!gmail.com, boldin.pavel!gmail.com
-	ssergiienko: fr05t1k4!gmail.com, ssergiienko!users.noreply.github.com
-	telepenin: telepenin!users.noreply.github.com, telepenin.nikolay!gmail.com
-CloudLock:
-	citizenken: citizenken!users.noreply.github.com from 2015-02-01 until 2017-11-01
-	decarboxy: sam!decarboxy.com until 2018-02-01
-	josephbarnett: josephbarnett!users.noreply.github.com from 2017-01-01 until 2020-09-01
-	twall: twall!users.noreply.github.com until 2017-10-01
-CloudMine:
-	bflad: bflad!users.noreply.github.com from 2015-10-01 until 2016-10-01

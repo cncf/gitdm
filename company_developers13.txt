@@ -2,6 +2,63 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Zengines:
+	dfsdevops: dfsdevops!users.noreply.github.com from 2023-06-01
+ZeniMax Media Inc:
+	CarlosOVillanueva: CarlosOVillanueva!users.noreply.github.com from 2015-04-01 until 2015-06-01
+	Redundancy: Redundancy!users.noreply.github.com from 2016-06-01
+	jaygorrell: jaygorrell!users.noreply.github.com, jgorrell.dev!gmail.com until 2015-01-01
+Zenigo:
+	phedoreanu: adrian.fedoreanu!gmail.com, phedoreanu!users.noreply.github.com until 2014-09-01
+Zenika:
+	EmileVauge: emile!vauge.com from 2014-10-01 until 2016-02-01
+	McPatate: McPatate!users.noreply.github.com from 2018-11-01 until 2019-12-01
+	Rude-Monkey: Rude-Monkey!users.noreply.github.com from 2018-06-01 until 2018-12-01
+	aoudiamoncef: aoudiamoncef!users.noreply.github.com from 2018-10-01 until 2021-01-01
+	bgauduch: bgauduch!users.noreply.github.com
+	charlyx: charlyx!users.noreply.github.com from 2017-06-01 until 2021-08-01
+	douglassix-dkt: douglassix-dkt!users.noreply.github.com from 2019-04-01
+	ebriand: 1011902+ebriand!users.noreply.github.com, ebriand!users.noreply.github.com, eric.briand!gmail.com
+	emilevauge: emilevauge!users.noreply.github.com from 2014-10-01 until 2016-02-01
+	ericcitaire: ericcitaire!users.noreply.github.com from 2016-11-01
+	gboissinot: gregory.boissinot!gmail.com until 2015-08-01
+	guillaumeLamanda: guillaume.lamanda!gmail.com from 2019-09-01
+	halfa: halfa!users.noreply.github.com, m.richer!naitways.com from 2016-06-01 until 2016-08-01
+	isurusiri: isurusiri!protonmail.com, isurusiri!users.noreply.github.com from 2018-09-01 until 2022-07-01
+	jeanbisutti: jeanbisutti!users.noreply.github.com from 2019-09-01 until 2022-03-01
+	kratisto: jeffrey.duroyon!gmail.com from 2023-11-01 until 2023-12-01
+	l0rd: l0rd!users.noreply.github.com, mario.loriedo!gmail.com until 2016-05-01
+	ldez: ldez!users.noreply.github.com, lfernandez.dev!gmail.com, ludovic.fernandez!zenika.com from 2014-07-01 until 2017-03-01
+	loicmathieu: loicmathieu!users.noreply.github.com, loikeseke!gmail.com from 2018-09-01
+	looztra: christophe.furmaniak!gmail.com, looztra!users.noreply.github.com
+	louiznk: louis.tournayre!zenika.com, louiznk!users.noreply.github.com from 2017-02-01
+	mabouchacra: mabouchacra!users.noreply.github.com from 2016-03-01
+	maxwo: maxime.wojtczak!yahoo.fr, maxwo!users.noreply.github.com
+	mcorbin: corbin.math!gmail.com, mcorbin!users.noreply.github.com
+	nbouron: nbouron!users.noreply.github.com, nicolas.bouron!gmail.com
+	orphaner: orphaner!users.noreply.github.com from 2016-06-01
+	pyaillet: pyaillet!users.noreply.github.com
+	vdemeester: vdemeest!redhat.com, vdemeester!users.noreply.github.com, vincent!sbr.pm from 2014-03-01 until 2016-10-01
+	vgramer: vgramer!gmail.com, vgramer!users.noreply.github.com from 2020-01-01
+	zigarn: zigarn!gmail.com, zigarn!users.noreply.github.com
+Zenior AS:
+	erikgb: egboye!gmail.com, erikgb!users.noreply.github.com
+Zenitech:
+	AugustasV: AugustasV!users.noreply.github.com from 2020-12-01 until 2021-01-01
+	IgnasA: IgnasA!users.noreply.github.com from 2018-02-01 until 2020-08-01
+	Paulius0112: paulius.gasp!gmail.com from 2021-05-01 until 2022-06-01
+Zenitel:
+	hjelmeland: privat!egil-hjelmeland.no
+Zenith:
+	gothicfann: gothicfann!users.noreply.github.com from 2016-11-01 until 2019-01-01
+Zenith Hygiene:
+	rkoosaar: rkoosaar!users.noreply.github.com until 2017-05-01
+Zenjob:
+	runningcode: runningcode!users.noreply.github.com from 2017-09-01 until 2018-09-01
+	tcondeixa: tcondeixa!users.noreply.github.com from 2018-12-01 until 2021-07-01
+Zenjoy:
+	dedene: dedene!users.noreply.github.com
+	wouterh: wouterh!users.noreply.github.com from 2015-03-01
 Zenly:
 	clmssz: clmssz!users.noreply.github.com from 2016-09-01
 	gwik: antonin.amand!gmail.com, gwik!users.noreply.github.com
@@ -77,6 +134,8 @@ Zephir Works:
 	giorgian: giorgian!users.noreply.github.com
 Zephyr Project:
 	uLipe: ryukokki.felipe!gmail.com, uLipe!users.noreply.github.com from 2017-12-01 until 2018-12-01
+Zephyr Solutions:
+	RyanCarlisle: RyanCarlisle!users.noreply.github.com, bhuswarnakashyap!gmail.com from 2021-06-01 until 2021-09-01
 Zepl:
 	AyWa: AyWa!users.noreply.github.com, marc.hurabielle!gmail.com from 2017-05-01 until 2020-01-01
 	zmarouf: zmarouf!users.noreply.github.com from 2019-03-01 until 2020-12-01
@@ -1239,9 +1298,11 @@ anynines GmbH:
 	FloorD: FloorD!users.noreply.github.com, mark!wolfe.id.au until 2014-07-01
 	FlrnFrmm: flrn.frmm!gmail.com from 2019-01-01 until 2020-10-01
 	abdulhaseeb2: abdulhaseeb2!users.noreply.github.com, haseeb!stakater.com from 2022-11-01
+	algor1th: algor1th!users.noreply.github.com from 2021-11-01
 	benjaminguttmann-avtq: benjaminguttmann-avtq!users.noreply.github.com from 2015-07-01
 	fischerjulian: fischerjulian!users.noreply.github.com from 2018-09-01
 	iamNoah1: iamNoah1!users.noreply.github.com from 2016-04-01 until 2019-09-01
+	lhaendler: lhaendler!users.noreply.github.com from 2021-11-01
 	matteoolivi: matteoolivi!users.noreply.github.com from 2020-10-01
 anzu.io:
 	Zeka13: Zeka13!users.noreply.github.com
@@ -1446,6 +1507,8 @@ b2bpolis:
 	yuridevx: yuridevx!users.noreply.github.com from 2016-02-01 until 2018-11-01
 bGrid:
 	mfiumara: mattia.fiumara!bgridsolutions.com from 2017-09-01
+bITeSys:
+	RyanCarlisle: RyanCarlisle!users.noreply.github.com, bhuswarnakashyap!gmail.com from 2026-06-01
 bPol:
 	pshanoop: pshanoop!users.noreply.github.com from 2016-04-01 until 2018-07-01
 bSmart:
@@ -3722,6 +3785,7 @@ glueckkanja:
 	philband: philband!users.noreply.github.com from 2024-03-01
 gnani.ai:
 	BharathShankar15: BharathShankar15!users.noreply.github.com from 2019-03-01
+	akhil97: akhil97!users.noreply.github.com, akhilm97!gmail.com from 2018-05-01 until 2018-06-01
 	sai3010: sai3010!users.noreply.github.com, saiprasanth2007!gmail.com from 2018-12-01 until 2019-08-01
 gnuine:
 	orimarti: orimarti!users.noreply.github.com until 2014-03-01

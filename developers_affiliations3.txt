@@ -5,6 +5,67 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+aluedeke: aluedeke!users.noreply.github.com
+	TestObject until 2016-12-10
+	Sauce Labs Inc from 2016-12-10
+alugowski: alugowski!users.noreply.github.com
+	Independent until 2014-10-01
+	Turn from 2014-10-01 until 2017-08-01
+	EPFL from 2017-08-01 until 2017-11-01
+	Independent from 2017-11-01
+alukyan: alukyan!users.noreply.github.com
+	Microsoft Corporation
+alunsford: alunsford!users.noreply.github.com
+	WebAssign until 2016-10-01
+	Independent from 2016-10-01 until 2016-12-01
+	Cengage Learning from 2016-12-01 until 2018-06-01
+	Independent from 2018-06-01 until 2020-01-01
+	TransLoc from 2020-01-01 until 2022-04-01
+	ONE from 2022-04-01
+aluong: aluong!users.noreply.github.com
+	Microsoft Corporation
+aluu317: an317gel!gmail.com
+	International Business Machines Corporation
+aluzzardi: aluzzardi!gmail.com, aluzzardi!users.noreply.github.com
+	Google LLC until 2014-09-01
+	Docker Inc. from 2014-09-01
+alvadb: alvab!outlook.com
+	Microsoft Corporation
+alvaroaleman: alv2412!googlemail.com, alvaroaleman!users.noreply.github.com
+	Independent until 2015-01-01
+	Silpion from 2015-01-01 until 2017-04-01
+	inovex GmbH from 2017-04-01 until 2017-09-01
+	Zeus Holding Market Ltd. from 2017-09-01 until 2018-01-01
+	Kubermatic GmbH from 2018-01-01 until 2020-01-01
+	Red Hat Inc. from 2020-01-01 until 2022-09-01
+	Confluent from 2022-09-01
+alvarobacelar: alvarobacelar!users.noreply.github.com, alvarobsttl!gmail.com
+	The Brazilian Army Mission until 2016-02-01
+	Maida.health from 2016-02-01 until 2018-07-01
+	TIVIT from 2018-07-01 until 2019-06-01
+	Itaú Unibanco from 2019-06-01
+alvarocabanas: alvarocabanas!users.noreply.github.com
+	LINKA until 2016-01-01
+	bodas.net from 2016-01-01 until 2018-10-01
+	Europcar Mobility from 2018-10-01 until 2021-04-01
+	New Relic Inc. from 2021-04-01
+alvarogimenez: alvarogimenez!users.noreply.github.com
+	TecnologÃ­a Sistemas y Aplicaciones S.L. until 2022-12-01
+	vidIQ from 2022-12-01
+alvarogonzalez-packlink: alvarogonzalez-packlink!users.noreply.github.com
+	Kanteron until 2016-08-01
+	video2brain from 2016-08-01 until 2016-10-01
+	The Cocktail from 2016-10-01 until 2019-03-01
+	Kanteron from 2019-03-01 until 2021-05-01
+	Packlink from 2021-05-01
+alvarogzp: alvarogzp!users.noreply.github.com
+	Tuenti until 2015-04-01
+	Independent from 2015-04-01 until 2016-01-01
+	BQ from 2016-01-01 until 2016-06-01
+	Independent from 2016-06-01 until 2018-06-01
+	RStor from 2018-06-01 until 2018-11-01
+	Atrio from 2018-11-01 until 2019-09-01
+	Independent from 2019-09-01
 alvarolinarescabre: alvarolinarescabre!gmail.com
 	Hispawedb until 2014-12-01
 	BQ from 2014-12-01 until 2015-06-01
@@ -4406,6 +4467,12 @@ antonmatsiuk: antonmatsiuk!users.noreply.github.com
 antonmedv: anton+github!medv.io
 	UMI.ru until 2015-03-01
 	Aviasales from 2015-03-01
+antonmry: antonmry!users.noreply.github.com
+	Optare until 2019-05-01
+	Inditex from 2019-05-01 until 2021-04-01
+	New Relic Inc. from 2021-04-01 until 2025-06-01
+	Independent from 2025-06-01 until 2025-11-01
+	Coral from 2025-11-01
 antonosmond: antonosmond!users.noreply.github.com
 	BGL until 2014-02-01
 	Comparethemarket from 2014-02-01 until 2016-02-01
@@ -19991,6 +20058,8 @@ capoferro: capoferro!users.noreply.github.com
 capotej: jcapote!gmail.com
 	Twitter Inc. until 2015-01-01
 	Computology from 2015-01-01
+cappyzawa: cappyzawa!users.noreply.github.com, cappyzawa!yahoo.ne.jp
+	ArkEdge
 caproven: caproven!users.noreply.github.com
 	Independent until 2020-05-01
 	SAS from 2020-05-01
@@ -21810,6 +21879,12 @@ cforce: cforce!users.noreply.github.com
 cfortier2: cfortier2!gmail.com, fortier!behance.com
 	Adobe Inc. until 2015-11-01
 	Two Sigma Investments LP from 2015-11-01
+cfoskin: cfoskin!users.noreply.github.com
+	Independent until 2016-01-01
+	Errigal from 2016-01-01 until 2016-08-01
+	Independent from 2016-08-01 until 2017-06-01
+	Red Hat Inc. from 2017-06-01 until 2020-11-01
+	Distilled from 2020-11-01
 cfra: cfra!users.noreply.github.com, chris!opensourcerouting.org, nobody!nowhere.ws
 	Independent
 cfrantsen: cfrantsen!users.noreply.github.com
@@ -23610,77 +23685,3 @@ chobostar: chobostar!users.noreply.github.com
 	OZON.ru from 2020-03-01 until 2021-07-01
 	AliExpress from 2021-07-01 until 2022-02-01
 	nda from 2022-02-01
-choffmeister: choffmeister!users.noreply.github.com
-	PTA until 2014-12-01
-	Independent from 2014-12-01 until 2016-05-01
-	ePages from 2016-05-01 until 2017-10-01
-	welevel from 2017-10-01 until 2019-05-01
-	airfocus from 2019-05-01
-chofnar: catalin.hofnar!gmail.com
-	Independent until 2020-07-01
-	American Greetings from 2020-07-01 until 2021-08-01
-	Luxoft from 2021-08-01
-choijunwoo: choigo92!gmail.com
-	kakaobank
-chokhareganesh: chokhareganesh!outlook.com, chokhareganesh!users.noreply.github.com
-	Independent until 2018-01-01
-	GsLab from 2018-01-01
-cholcombe973: cholcombe973!users.noreply.github.com, xfactor973!gmail.com
-	Meta Platforms Inc. until 2014-09-01
-	Nebula from 2014-09-01 until 2015-04-01
-	Canonical Ltd. from 2015-04-01 until 2017-07-01
-	Comcast Cable Communications LLC (Xfinity) from 2017-07-01
-choleraehyq: choleraehyq!gmail.com, choleraehyq!users.noreply.github.com
-	Independent until 2016-07-01
-	Tencent Holdings Limited from 2016-07-01 until 2016-09-01
-	Independent from 2016-09-01 until 2017-01-01
-	PingCAP from 2017-01-01 until 2017-09-01
-	Independent from 2017-09-01 until 2018-03-01
-	Bytedance Ltd from 2018-03-01
-cholick: cholick!gmail.com, cholick!users.noreply.github.com
-	Pivotal
-cholin-bmc: Chowie_Lin!bmc.com
-	BMC Software Inc
-choman: choman!gmail.com, choman!users.noreply.github.com
-	Independent
-chonton: chas!apache.org, chas!honton.org
-	Intuit Inc. until 2014-09-01
-	Amazon from 2014-09-01 until 2015-06-01
-	Elementum Ltd from 2015-06-01 until 2018-06-01
-	Proofpoint Inc. from 2018-06-01
-chonton: chonton!users.noreply.github.com
-	Intuit Inc. until 2014-08-01
-	Amazon from 2014-08-01 until 2015-06-01
-	Elementum Ltd from 2015-06-01 until 2018-06-01
-	Proofpoint Inc. from 2018-06-01
-chopeen: chopeen!users.noreply.github.com
-	Independent until 2015-09-01
-	Roche from 2015-09-01
-choplin: choplin!users.noreply.github.com, choplin.choplin!gmail.com
-	Scaleout
-chorrell: chorrell!nymi.com, chorrell!users.noreply.github.com, christopher!horrell.ca
-	Joyent Inc. until 2017-05-01
-	Nymi from 2017-05-01
-chosenken: chosenken!gmail.com, chosenken!users.noreply.github.com
-	Tata
-chotiwat: chotiwat!users.noreply.github.com, chotiwat.c!hotmail.com
-	RightLang until 2017-08-01
-	Blend from 2017-08-01
-chouchen22: rene.robert!orange.com
-	Orange SA
-choudellier-1A: choudellier-1A!users.noreply.github.com
-	Amadeus until 2020-06-01
-	PROBTP from 2020-06-01
-choudhryfrompak: choudhryfrompak!users.noreply.github.com
-	Independent until 2020-05-01
-	Revenue Icon from 2020-05-01 until 2021-05-01
-	Independent from 2021-05-01 until 2023-08-01
-	Sino-Pak from 2023-08-01 until 2024-07-01
-	Forbmax from 2024-07-01
-choutos: choutos!users.noreply.github.com
-	Ingenico until 2014-08-01
-	BetVictor from 2014-08-01 until 2017-03-01
-	Alpega from 2017-03-01 until 2021-09-01
-	Telnyx from 2021-09-01
-chowchow316: chowchow316!users.noreply.github.com, hahasunqian!gmail.com, qians!google.com
-	Google LLC

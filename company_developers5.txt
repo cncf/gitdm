@@ -547,6 +547,7 @@ Google LLC:
 	alexlo03: alexlo!gmail.com, alexlo03!users.noreply.github.com from 2017-06-01
 	alexwolfe: alexwolfe!users.noreply.github.com, thewolfe!gmail.com from 2015-05-01 until 2016-03-01
 	alexzielenski: alexzielenski!users.noreply.github.com, zielenski!google.com from 2021-09-01
+	alhuizenga: al.huizenga!gmail.com, alhuizenga!users.noreply.github.com from 2022-05-01
 	aliahmed58: aliahmed58!users.noreply.github.com from 2023-11-01 until 2024-05-01
 	aliciafmachado: aliciafmachado!users.noreply.github.com from 2020-06-01
 	alin-amana: alin-amana!users.noreply.github.com until 2016-11-01
@@ -3680,7 +3681,7 @@ Grafana Labs:
 	csmarchbanks: csmarchbanks!gmail.com from 2021-01-01
 	csmarchbanks: csmarchbanks!users.noreply.github.com from 2021-01-01
 	cstyan: callumstyan!gmail.com, cstyan!users.noreply.github.com from 2018-07-01
-	cyrille-leclerc: 459691+cyrille-leclerc!users.noreply.github.com, cleclerc!cloudbees.com, cyrille!cyrilleleclerc.com, cyrille.leclerc!elastic.co, cyrille.lelclerc!grafana.com from 2022-10-01
+	cyrille-leclerc: 459691+cyrille-leclerc!users.noreply.github.com, cleclerc!cloudbees.com, cyrille!cyrilleleclerc.com, cyrille.leclerc!datadoghq.com, cyrille.leclerc!elastic.co, cyrille.lelclerc!grafana.com from 2022-10-01 until 2026-06-01
 	cyriltovena: cyril.tovena!gmail.com, cyriltovena!users.noreply.github.com from 2019-04-01
 	daniellee: daniellee!users.noreply.github.com from 2016-01-01 until 2023-07-01
 	danifitz: danfitzgerald90!gmail.com, daniel.fitzgerald!grafana.com, danifitz!users.noreply.github.com from 2024-09-01
@@ -5860,6 +5861,7 @@ HP Inc.:
 	tristanm-cisco: tristanm-cisco!users.noreply.github.com from 2015-01-01 until 2016-01-01
 	tteggel: thom!tteggel.org until 2015-10-31, from 2015-10-31 until 2015-12-01
 	u1f35c: noodles!earth.li until 2014-01-01
+	vandanayadav7: vandanayadav7!users.noreply.github.com from 2015-02-01 until 2017-05-01
 	vandewilly: energyarun.r!gmail.com, vandewilly!gmail.com, vandewilly!users.noreply.github.com
 	vanugrah: vanugrah!users.noreply.github.com from 2016-05-01 until 2016-07-01
 	velascoluis: velascoluis!users.noreply.github.com from 2015-08-01 until 2019-09-01
@@ -6368,6 +6370,8 @@ HaierGE:
 	strongjz: strong.james.e!gmail.com, strongjz!users.noreply.github.com until 2016-09-01
 Haiku:
 	AnirudhMurali: AnirudhMurali!users.noreply.github.com, m.anirudh18!gmail.com from 2017-04-01 until 2017-08-01
+HailTrace:
+	mike-serchenia: mike-serchenia!users.noreply.github.com from 2024-12-01 until 2026-01-01
 Hailo:
 	dbnegative: dbnegative!users.noreply.github.com until 2017-05-01
 	domwong: domwong!users.noreply.github.com until 2015-05-01
@@ -8577,6 +8581,7 @@ Hitachi Ltd.:
 	toyooka: hiraku.toyooka.gu!hitachi.com
 	tsekiyama: tomoki.sekiyama!hds.com
 	ttakahashi21: 106098375+ttakahashi21!users.noreply.github.com, takafumi.takahashi!hitachivantara.com, takafumi.takahashi.fs!hitachi.com, ttakahashi21!users.noreply.github.com
+	vandanayadav7: vandanayadav7!users.noreply.github.com from 2021-09-01 until 2023-04-01
 	willwill96: willwill96!users.noreply.github.com until 2020-07-01
 	y-tabata: y-tabata!users.noreply.github.com
 	yuichi-nakamura: yuichi-nakamura!users.noreply.github.com
@@ -9035,6 +9040,7 @@ Honeywell International:
 	teaguecole: teaguecole!users.noreply.github.com, tnc1443!gmail.com from 2017-06-01 until 2017-08-01
 	timostamm: timostamm!users.noreply.github.com from 2021-07-01
 	valentin-stefan-popa: valentin-stefan-popa!users.noreply.github.com from 2018-03-01 until 2019-08-01
+	vandanayadav7: vandanayadav7!users.noreply.github.com from 2017-05-01 until 2019-09-01
 	vishnupatekar: vishnupatekar0510!gmail.com until 2014-05-01
 	yongzhang: yongzhang!users.noreply.github.com from 2016-10-01 until 2018-12-01
 Honeywell Safety & Productivity:
@@ -10658,6 +10664,8 @@ IABG:
 IAC Publishing:
 	bartlinga: aronb!bustleandflurry.com from 2015-12-01 until 2017-12-01
 	bergerx: bekir.dogan!servicenow.com, bekirdo!gmail.com, bergerx!users.noreply.github.com from 2016-05-01 until 2016-11-01
+IAC/InterActiveCorp:
+	mike-serchenia: mike-serchenia!users.noreply.github.com until 2019-02-01
 IAE Nantes:
 	gregoiremahe: gregoiremahe!users.noreply.github.com from 2019-09-01 until 2020-01-01
 IAEA:

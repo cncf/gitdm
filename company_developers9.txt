@@ -2,6 +2,24 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+NeuroNav:
+	dmegbert: dmegbert!users.noreply.github.com from 2022-08-01 until 2023-03-01
+NeuroSYS:
+	rkrawiel: rkrawiel!users.noreply.github.com until 2015-09-01
+NeuroSoft:
+	kobejn-jb: kobejn-jb!users.noreply.github.com until 2016-10-01
+Neuroglia SPRL:
+	cdavernas: cdavernas!users.noreply.github.com
+Neuroglia SRL:
+	JBBianchi: JBBianchi!users.noreply.github.com from 2021-08-01
+Neurologics:
+	menehune23: menehune23!users.noreply.github.com from 2018-02-01 until 2020-06-01
+Neuromancers - IIT BHUBANESWAR:
+	jagpreetsinghsasan: jagpreetsinghsasan!users.noreply.github.com from 2017-07-01 until 2018-09-01
+Neuromation:
+	artemlops: ajuszkowski!ya.ru, artemlops!users.noreply.github.com from 2018-10-01 until 2020-02-01
+Neuromatters:
+	cpcloud: cpcloud!gmail.com, cpcloud!users.noreply.github.com until 2014-08-01
 Neuromorphic:
 	alexklibisz: alexklibisz!users.noreply.github.com from 2016-03-01 until 2016-12-01
 Neuromorphicism:
@@ -125,6 +143,7 @@ New Relic Inc.:
 	alvarocabanas: alvarocabanas!users.noreply.github.com from 2021-04-01
 	am: am!users.noreply.github.com, antsmiranda!gmail.com from 2019-02-01
 	angelatan2: angelatan!newrelic.com, angelatan2!users.noreply.github.com from 2020-08-10
+	antonmry: antonmry!users.noreply.github.com from 2021-04-01 until 2025-06-01
 	armchairlinguist: alexisg!gmail.com until 2016-11-01
 	astorm: astorm!users.noreply.github.com from 2017-08-01
 	aughr: andrew!newrelic.com, aughr!users.noreply.github.com until 2021-09-01
@@ -4301,6 +4320,8 @@ Omnitracs:
 	ag-ramachandran: ag-ramachandran!users.noreply.github.com from 2020-03-01 until 2022-05-01
 	danielkimuipath: danielkimuipath!users.noreply.github.com from 2020-10-01 until 2021-07-01
 Omniva:
+	AcidLeroy: AcidLeroy!users.noreply.github.com, cody!codyeilar.com, cody.eilar!omniva.com from 2024-05-20
+	Nalum: Nalum!users.noreply.github.com, luke!axonista.com, luke!mallon.ie, luke!mallon.io, luke.mallon!axonista.com, luke.mallon!omniva.com, luke.mallon!weave.works, mallon.luke!gmail.com from 2024-03-20
 	richardcase: richard!weave.works, richard.case!omniva.com, richard.case!outlook.com, richard.case!suse.com, richardcase!users.noreply.github.com, richmcase!gmail.com from 2024-05-28
 Omnivore:
 	Jdsleppy: Jdsleppy!users.noreply.github.com from 2016-07-01 until 2020-04-01
@@ -5156,6 +5177,7 @@ OpenFlame:
 OpenFlowLabs:
 	Toasterson: Toasterson!users.noreply.github.com, toasterson!gmail.com until 2020-08-01
 OpenGenus Foundation:
+	HamzaMateen: HamzaMateen!users.noreply.github.com from 2023-09-01 until 2024-02-01
 	KashishLakhara: kashiish19!gmail.com from 2022-12-01 until 2023-03-01
 	NishkarshRaj: NishkarshRaj!users.noreply.github.com, nishkarshraj000!gmail.com from 2019-07-01 until 2019-09-01
 	Rupeshiya: Rupeshiya!users.noreply.github.com, rupeshiya!gmail.com from 2018-10-01 until 2018-11-01
@@ -5692,6 +5714,7 @@ Optable:
 Optanix:
 	kalinon: holden.omans!gmail.com, kalinon!users.noreply.github.com until 2019-05-01
 Optare:
+	antonmry: antonmry!users.noreply.github.com until 2019-05-01
 	xosevp: xose.vazquez!gmail.com
 OptareSolutions:
 	ebarped: ebarped!users.noreply.github.com
@@ -5756,6 +5779,7 @@ Optimizely Inc.:
 	james-o-johnstone: james-o-johnstone!users.noreply.github.com from 2020-01-01
 	jsm: jsm!users.noreply.github.com, sanmiguelje!yahoo.com from 2014-05-01 until 2017-03-01
 	mjburling: michaeljburling!gmail.com from 2020-12-01
+	pkbhowmick: pkbhowmick!users.noreply.github.com, pkbhowmick007!gmail.com from 2023-03-01 until 2024-12-01
 	spencerwilson: spencerwilson!users.noreply.github.com from 2016-06-01 until 2016-09-01, from 2017-01-01 until 2021-01-01
 	vdhanan: vdhanan!users.noreply.github.com from 2018-06-01 until 2018-08-01
 	yywandb: yywandb!users.noreply.github.com from 2017-06-01 until 2017-09-01
@@ -7631,6 +7655,8 @@ PLAYTRON:
 	LukeShortCloud: ekultails!gmail.com from 2022-12-01
 PLAYWISE:
 	bbenzikry: bbenzikry!gmail.com, bbenzikry!users.noreply.github.com until 2014-10-01
+PLC Group:
+	HamzaMateen: HamzaMateen!users.noreply.github.com from 2022-08-01 until 2022-10-01
 PLEXIA:
 	ianthpun: ianthpun!users.noreply.github.com until 2015-08-01
 PLUMgrid Inc.:
@@ -7915,6 +7941,8 @@ PST.AG:
 	omarkhammassi: omarkhammassi!users.noreply.github.com from 2017-05-01 until 2018-05-01
 PT ANTAM Tbk:
 	irfani: irfani!users.noreply.github.com
+PT Adicipta Inovasi:
+	ec2ainun: ai!algo.fit, ec2ainun!users.noreply.github.com from 2016-05-01
 PT Bank:
 	luphieanza: luphieanza!gmail.com from 2018-02-01 until 2018-04-01
 PT Bank Bukopin Tbk:
@@ -10219,6 +10247,7 @@ Persistent Systems:
 	Prajyot-Parab: Prajyot-Parab!users.noreply.github.com, prajyot.parab2!ibm.com until 2015-12-01, from 2017-10-01 until 2021-09-01
 	Rami-Y: Rami-Y!users.noreply.github.com until 2015-05-01
 	Ramyrus19: Ramyrus19!users.noreply.github.com until 2015-05-01
+	Siddhesh-Ghadi: Siddhesh-Ghadi!users.noreply.github.com from 2019-07-01 until 2023-03-01
 	SirishaGuduru: sguduru!walmartlabs.com until 2014-09-12
 	UrsusLvovich: UrsusLvovich!users.noreply.github.com from 2016-04-01
 	abalki001: abalki001!users.noreply.github.com
@@ -15405,6 +15434,8 @@ Qbox Inc.:
 	taaraora: dmytro.tsapko!gmail.com, taaraora!users.noreply.github.com from 2018-10-01
 Qbrick:
 	Fresa: Fresa!users.noreply.github.com, fresa!fresa.se from 2014-08-01 until 2017-08-01
+Qconnect:
+	sravankumar777: sravankumar777!users.noreply.github.com from 2021-02-01 until 2021-09-01
 Qdentity:
 	dvic: dvic!users.noreply.github.com from 2015-01-01
 Qdrant:
@@ -16529,35 +16560,3 @@ RADcube:
 	papovyr: papovyr!users.noreply.github.com, ruben.papovyan!umusic.com from 2020-05-01
 RAGE Frameworks:
 	sanketg86: sanketg86!users.noreply.github.com from 2017-03-01 until 2018-12-01
-RAIDIX:
-	dzeban: dzeban!users.noreply.github.com until 2014-09-01
-RAIN:
-	rmtuckerphx: mark!shazaml.com from 2020-12-01 until 2025-05-01
-RAINN:
-	ajchili: ajchili!users.noreply.github.com, kirinpatel!gmail.com from 2019-08-01 until 2020-05-01
-RAKBANK:
-	vermabhaskar99: verma.bhaskar99!gmail.com from 2015-11-01 until 2016-11-01
-RAKH Properties:
-	ashleighgregory: ashleighgregory!users.noreply.github.com from 2015-07-01 until 2016-07-01
-RAKO Maschinenbau:
-	lusu007: lukas.jost!outlook.com from 2018-05-01 until 2018-08-01, from 2019-01-01 until 2019-08-01
-RALEDUC:
-	gcavalcante8808: gabriel.cavalcante88!gmail.com, gcavalcante8808!users.noreply.github.com from 2022-06-01 until 2022-09-01
-RAMAX:
-	vadiminshakov: vadimInshakov!users.noreply.github.com, vadiminshakov!gmail.com from 2018-04-01 until 2019-09-01
-RAMBLER:
-	doctornkz: doctornkz!users.noreply.github.com, doctornkz!yandex.ru from 2018-01-01 until 2019-04-01
-	pilosus: pilosus!users.noreply.github.com, vrs!pilosus.org from 2017-02-01 until 2019-01-01
-	proydakov: cijie!ualberta.ca, e.proydakov!gmail.com, lord.tiran!gmail.com, proydakov!users.noreply.github.com from 2016-09-15
-RAMBLER&Co:
-	docktorrr: docktorrr!users.noreply.github.com from 2015-12-01 until 2019-01-01
-RAMSGATE ENGINEERING INC.:
-	therealmitchconnors: mitchconnors!gmail.com, therealmitchconnors!users.noreply.github.com until 2014-04-01
-RANGER Studio:
-	WoLfulus: WoLfulus!users.noreply.github.com from 2020-01-01 until 2020-03-01
-RAPID:
-	awanlin: awanlin!users.noreply.github.com from 2019-03-01
-RAPID RTC:
-	coryallegory: coryallegory!users.noreply.github.com from 2019-10-01
-RATE YOUR LEADER:
-	noelenwenede: noelenwenede!users.noreply.github.com from 2018-01-01 until 2018-08-01

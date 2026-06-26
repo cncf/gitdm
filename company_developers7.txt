@@ -92,6 +92,7 @@ Indisera:
 	mstrYoda: mstrYoda!users.noreply.github.com from 2016-03-01 until 2017-05-01
 Inditex:
 	Anakrod: Anakrod!users.noreply.github.com from 2019-05-01 until 2020-07-01
+	antonmry: antonmry!users.noreply.github.com from 2019-05-01 until 2021-04-01
 	mdaguete: manuel!aguete.org, mdaguete!users.noreply.github.com from 2017-10-01
 	recena: changkon12!gmail.com, nivaldogmelo!gmail.com, recena!gmail.com, recena!users.noreply.github.com from 2018-06-01
 	samuelgmartinez: samuelgmartinez!gmail.com from 2019-03-01
@@ -767,6 +768,7 @@ Infosys Limited:
 	madvimer: ravish.rathod!infosys.com
 	manishbansal8843: manishbansal8843!gmail.com, manishbansal8843!users.noreply.github.com until 2015-07-01, from 2017-07-01
 	manojrayar: manojrayar!users.noreply.github.com from 2021-11-01
+	mathur07: shumathu!redhat.com from 2019-01-01 until 2020-02-01
 	mihirvadalia: mihirvadalia91!gmail.com from 2018-07-01 until 2022-06-01
 	mik-dass: mik-dass!users.noreply.github.com from 2017-02-01 until 2017-05-01
 	mikestef9: mikestef9!users.noreply.github.com from 2018-09-01 until 2018-12-01
@@ -1023,6 +1025,7 @@ Ingram Micro Cloud:
 	TylerBrock: TylerBrock!users.noreply.github.com from 2016-01-01 until 2018-09-01
 	Typositoire: Typositoire!users.noreply.github.com from 2016-01-01 until 2018-09-01
 	UsamaMehboob: UsamaMehboob!users.noreply.github.com, musamamehboob!gmail.com from 2016-01-01 until 2018-09-01
+	alhuizenga: al.huizenga!gmail.com, alhuizenga!users.noreply.github.com from 2017-01-01 until 2018-10-01
 	hayorov: hayorov!gmail.com, hayorov!users.noreply.github.com, i!hayorov.ru from 2015-12-01 until 2018-09-01
 	josegob: jose.gob!gmail.com, josegob!users.noreply.github.com from 2019-09-01 until 2020-03-01
 	movergan: movergan!users.noreply.github.com from 2015-12-01 until 2016-03-01
@@ -3838,6 +3841,7 @@ International Business Machines Corporation:
 	Romeh: mahmoud.romeh!gmail.com until 2017-09-01
 	SPYFF: spyff!users.noreply.github.com from 2018-01-01 until 2018-05-01
 	SRodi: SRodi!users.noreply.github.com, simone.rodigari!ibm.com
+	Sachin-Itagi: sachin.itagi!ibm.com from 2021-12-01 until 2024-08-01
 	Saeger: Saeger!users.noreply.github.com, marcio!marciosaeger.com.br from 2015-02-01 until 2019-09-01
 	SantiagoTorres: SantiagoTorres!users.noreply.github.com, santiago!archlinux.org, santiago!nyu.edu, torresariass!gmail.com from 2017-05-01 until 2017-10-01
 	SaschaSchwarze0: SaschaSchwarze0!users.noreply.github.com, schwarzs!de.ibm.com
@@ -4668,6 +4672,7 @@ International Business Machines Corporation:
 	jrnp7: jrnp7!users.noreply.github.com until 2020-03-01
 	jrubinstein-dev: jrubinstein-dev!users.noreply.github.com from 2019-07-01 until 2021-03-01
 	jsloyer: jbsloyer!us.ibm.com, jsloyer!gmail.com, jsloyer!users.noreply.github.com
+	jsminem: jsminem!users.noreply.github.com
 	jswarren4: jswarren!us.ibm.com
 	jtborek: jborek!us.ibm.com, jtborek!users.noreply.github.com
 	jthomas: james!jamesthom.as, james.thomas!uk.ibm.com, jthomas.uk!gmail.com
@@ -11154,6 +11159,8 @@ Knockout:
 	diana-borbe-consensys: diana-borbe-consensys!users.noreply.github.com from 2018-04-01 until 2019-03-01
 Knockri:
 	samanamp: samanamp!users.noreply.github.com from 2018-12-01 until 2019-12-01
+Knoit:
+	karthikjeeyar: karthik.jk11!gmail.com, karthikjeeyar!users.noreply.github.com from 2018-02-01 until 2018-10-01
 Knoldus:
 	etashsingh: etashsingh!users.noreply.github.com, etashsingh29!gmail.com from 2019-07-01 until 2019-08-01
 	kunal642: kunal642!users.noreply.github.com, kunalkapoor642!gmail.com from 2016-01-01 until 2018-06-01
@@ -11754,6 +11761,8 @@ Kredaro:
 	SandeepVaman: SandeepVaman!users.noreply.github.com from 2018-05-01 until 2019-04-01
 Kredit:
 	jscannell: jscannell!users.noreply.github.com from 2022-07-01
+KreditBee:
+	RyanCarlisle: RyanCarlisle!users.noreply.github.com, bhuswarnakashyap!gmail.com from 2022-12-01 until 2025-06-01
 Kreditech:
 	MartiUK: MartiUK!users.noreply.github.com from 2017-11-01 until 2018-03-01
 	blacs30: blacs30!users.noreply.github.com from 2017-06-01 until 2019-12-01
@@ -11881,6 +11890,10 @@ Kubak:
 	shkarface: shkarface!gmail.com, shkarface!users.noreply.github.com from 2018-12-01 until 2021-04-01
 Kube-Squared:
 	himansri: himansri!users.noreply.github.com
+KubeDB:
+	pkbhowmick: pkbhowmick!users.noreply.github.com, pkbhowmick007!gmail.com from 2020-11-01 until 2023-03-01
+KubeDB by AppsCode:
+	Superm4n97: Superm4n97!users.noreply.github.com from 2022-06-01
 KubeHuddle:
 	rawkode: david!rawkode.com, david!rawkode.dev, david.andrew.mckay!gmail.com, rawkode!users.noreply.github.com from 2022-04-01
 	thebarshablog: thebarshablog!gmail.com from 2023-04-01 until 2023-05-01
@@ -13116,6 +13129,7 @@ Lagash:
 	nelsonghezzi: nelsonghezzi!users.noreply.github.com until 2020-08-01
 Lagorta:
 	AGKhalil: AGKhalil!users.noreply.github.com, elghazalykhalil!gmail.com from 2018-07-01 until 2021-08-01
+	eameh: eameh!users.noreply.github.com from 2018-07-01 until 2021-04-01
 Lai:
 	badbart: badbart!users.noreply.github.com, tom.zille!gmail.com from 2024-10-01
 Laird:
@@ -13312,6 +13326,8 @@ Laplace Systems:
 	robogeek: robogeek!users.noreply.github.com from 2016-07-01 until 2017-03-01
 Lappresse:
 	ROunofF: ROunofF!users.noreply.github.com, brunemat!amazon.com, mbruneau!lapresse.ca, mbruneau!nuglif.com, rounoff!gmail.com from 2011-09-01 until 2015-05-01
+Lapsi Soft:
+	mike-serchenia: mike-serchenia!users.noreply.github.com from 2024-08-01 until 2024-12-01
 Lapsus Next:
 	designanderror: designanderror!users.noreply.github.com from 2017-06-01 until 2021-01-01
 Lar Cooperativa Agroindustrial:
