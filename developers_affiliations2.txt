@@ -18360,13 +18360,11 @@ agaffney: agaffney!users.noreply.github.com, andrew!agaffney.org
 	Turn from 2014-08-01 until 2017-12-01
 	Cisco Systems Inc. from 2017-12-01 until 2018-10-01
 	Applause Inc. from 2018-10-01
-agagniere: angagnie!student.42.fr
-	Independent until 2015-08-01
-	Vossloh Cogifer from 2015-08-01 until 2015-11-01
-	Independent from 2015-11-01 until 2017-06-01
-	Thales from 2017-06-01 until 2019-04-01
-	Amadeus from 2019-04-01 until 2022-12-01
-	Orolia 2S from 2022-12-01
+agagniere: angagnie!student.42.fr, antoine.gagniere!yahoo.com, antoine.gagniere!amadeus.com, antoine.gagniere!orolia2s.com, antoine.gagniere!datadoghq.com, antoine!gagniere.dev
+	Thales from 2017-06-01 until 2019-04-30
+	Amadeus from 2019-05-01 until 2022-12-31
+	Safran from 2023-01-01 until 2025-09-30
+	Datadog Inc from 2025-10-01
 agaillar: agaillar!users.noreply.github.com
 	Sogeti until 2021-01-01
 	Devoteam Revolve from 2021-01-01
