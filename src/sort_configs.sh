@@ -8,7 +8,8 @@ cat aliases | sort | uniq > out; mv out aliases
 cd ..
 # No more needed with 2nd mapping approach
 # cat company-names-mapping | sort | uniq > out; mv out company-names-mapping
-sed -i '1d' all_affs.csv
+# sed -i '1d' all_affs.csv
+sed '1d' all_affs.csv > out && mv out all_affs.csv
 cat all_affs.csv | sort | uniq > out
 echo '"email","name","company","date_to","source"' > all_affs.csv
 cat out >> all_affs.csv
