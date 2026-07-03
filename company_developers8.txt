@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Loci ML:
+	VonRehberg: VonRehberg!users.noreply.github.com from 2022-01-01
+LockState:
+	rafaelsales: rafaelcds!gmail.com, rafaelsales!users.noreply.github.com
 Lockheed Martin:
 	ChandlerSwift: chandler!chandlerswift.com from 2017-06-01 until 2017-08-01
 	Charlesthebird: Charlesthebird!users.noreply.github.com, admin!nicholasbucher.com from 2017-05-01 until 2017-08-01
@@ -2296,6 +2300,7 @@ Macaca:
 	sableangle: sableangle!gmail.com
 Macadamian Technologies:
 	cnadeau: christian.nadeau!gmail.com, cnadeau!users.noreply.github.com, weludwig!gmail.com
+	joellord: joellord!users.noreply.github.com, joelphy!gmail.com until 2016-05-01
 	shanesmith: shanesmith!users.noreply.github.com until 2017-12-01
 Macaroni Studios:
 	MickeMakaron: MickeMakaron!users.noreply.github.com from 2019-01-01
@@ -2870,6 +2875,7 @@ Majin:
 	imajindev: imajindev!users.noreply.github.com
 Major League Baseball:
 	Adityashar: Adityashar!users.noreply.github.com from 2021-02-01 until 2021-04-01
+	MLBMatt: MLBMatt!users.noreply.github.com from 2018-06-01 until 2021-11-01
 	ashwinexe: ashwinexe!users.noreply.github.com from 2022-06-01
 	ericandrewmeadows: ericandrewmeadows!users.noreply.github.com from 2020-01-01 until 2021-06-01
 	ericmeadows: ericmeadows!users.noreply.github.com from 2020-01-01 until 2021-06-01
@@ -8012,6 +8018,7 @@ Microsoft Corporation:
 	galiacheng: galiacheng!users.noreply.github.com, haixia.cheng!microsoft.com from 2019-12-01
 	galiniliev: iliev!galcho.com
 	galvesribeiro: galvesribeiro!users.noreply.github.com from 2017-05-01 until 2017-07-01
+	gambtho: gambtho!users.noreply.github.com, thomasgamble2!gmail.com
 	gandhipr: gandhipr!users.noreply.github.com from 2021-11-01
 	ganeshkumarashok: ganeshkumarashok!users.noreply.github.com from 2019-04-01 until 2019-08-01, from 2020-05-01
 	ganga1980: ganga1980!users.noreply.github.com, gangams!microsoft.com
@@ -9090,6 +9097,7 @@ Microsoft Corporation:
 	tdykstra: tdykstra!microsoft.com
 	technosophos: matt.butcher!microsoft.com, mbutcher!deis.com, mbutcher!engineyard.com, technosophos!gmail.com, technosophos!users.noreply.github.com from 2015-06-15
 	tedchamb: tedchamb!github.com
+	tejhan: tejhan!users.noreply.github.com
 	teowa: teowa!users.noreply.github.com
 	terala: terala!users.noreply.github.com until 2015-09-01
 	terencet-dev: terencet-dev!users.noreply.github.com from 2021-06-01
@@ -9899,6 +9907,7 @@ Miovision Technologies Inc.:
 	adrianchung: adrianchung!users.noreply.github.com until 2020-02-01
 	asad-awadia: asad-awadia!users.noreply.github.com from 2020-12-01 until 2021-10-01
 	jangold-miovision: jangold-miovision!users.noreply.github.com from 2019-07-01
+	khalkie: khalk!google.com, khalkie!users.noreply.github.com until 2020-07-01
 	mhaley-miovision: mhaley-miovision!users.noreply.github.com from 2015-05-01 until 2021-05-01
 	ravangen: ravangen!gmail.com until 2014-09-01
 	talham7391: talham7391!users.noreply.github.com from 2017-05-01 until 2017-08-01
@@ -15882,13 +15891,3 @@ Neuranet:
 	pkanal: pkanal!users.noreply.github.com until 2016-07-01
 Neuri Pte:
 	kmmanto: kmmanto!users.noreply.github.com from 2018-11-01 until 2019-10-01
-Neurilink:
-	fullmetal-fred: fullmetal-fred!users.noreply.github.com from 2015-06-01 until 2018-05-01
-Neuro:
-	artemlops: ajuszkowski!ya.ru, artemlops!users.noreply.github.com from 2020-07-01
-Neuro-ID:
-	chriskuchin: chriskuchin!users.noreply.github.com from 2019-10-01 until 2022-01-01
-NeuroBlade:
-	saarwasserman: saarwasserman!users.noreply.github.com from 2018-09-01 until 2020-12-01
-NeuroDyne:
-	tampler: tampler!users.noreply.github.com from 2019-09-01 until 2020-06-01

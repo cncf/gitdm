@@ -2,6 +2,28 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+CloudGeometry:
+	nickchase: nchase!mirantis.com, nickchase!users.noreply.github.com from 2023-05-01
+CloudHaul:
+	aioue: aioue!users.noreply.github.com from 2017-02-01
+CloudHealth:
+	andrewjdawson2016: andrewjdawson2016!users.noreply.github.com from 2017-11-01 until 2019-01-01
+	fishpen0: fishpen0!users.noreply.github.com from 2017-03-01 until 2018-01-01
+CloudHealth Technologies Inc:
+	aschepis: adam.schepis!gmail.com, aschepis!users.noreply.github.com
+CloudHealth by VMware:
+	wsf11: wsf11!users.noreply.github.com from 2017-05-01 until 2017-08-01
+CloudHedge:
+	mustufa5689: mustufa5689!users.noreply.github.com from 2021-02-01 until 2021-11-01
+CloudHero:
+	andreimc: andreimc!users.noreply.github.com from 2019-02-01 until 2019-06-01
+	andreipetrescu95: andrei.petrescu1995!gmail.com, andreipetrescu95!users.noreply.github.com from 2017-07-01
+	taragurung: taragurung!users.noreply.github.com, taraprasad336!gmail.com
+CloudHeroCloudHero:
+	tuladhar: tuladhar!users.noreply.github.com, tuladharpuru!gmail.com from 2022-01-01
+CloudIQ:
+	asubmani: asubmani!gmail.com, asubmani!users.noreply.github.com from 2019-03-01
+	rganesan: rganesan!gmail.com from 2022-01-01
 CloudJournee:
 	Venkat19967: Venkat19967!users.noreply.github.com from 2016-06-01 until 2016-07-01
 CloudKitchens:
@@ -2204,6 +2226,7 @@ Comcast Cable Communications LLC (Xfinity):
 	BrittanyIstenes: BrittanyIstenes!users.noreply.github.com from 2017-10-01 until 2018-06-01, from 2019-05-01 until 2021-09-01
 	CVTJNII: CVTJNII!users.noreply.github.com from 2014-05-01 until 2015-05-01
 	ChrisHines: ChrisHines!users.noreply.github.com, github!cs-guy.com from 2016-04-01
+	MoOyeg: MoOyeg!users.noreply.github.com from 2016-02-01 until 2018-10-01
 	Noreen21: Noreen21!users.noreply.github.com from 2016-01-01 until 2019-01-01
 	SBGoods: SBGoods!users.noreply.github.com from 2020-07-01 until 2022-06-01
 	TJNII: TJNII!users.noreply.github.com from 2014-06-01 until 2015-05-01
@@ -2327,6 +2350,7 @@ CommScope:
 	KRANTHI0918: KRANTHI0918!users.noreply.github.com from 2021-03-01
 	jayaramcloud: jayaramcloud!users.noreply.github.com from 2023-12-01
 	surajit-ats: surajit-ats!users.noreply.github.com from 2020-11-01
+	uqix: uqix!users.noreply.github.com, zenkiezhu!gmail.com from 2017-02-01 until 2019-08-01
 CommScope Inc.:
 	Bouncey: Bouncey!users.noreply.github.com, staylor1012!gmail.com from 2019-04-01 until 2020-12-01
 	askawu: askawu!gmail.com, askawu!users.noreply.github.com, contact!ofarukcaki.com from 2018-04-01
@@ -2370,6 +2394,7 @@ Commerzbank:
 	cleveritcz: cleveritcz!users.noreply.github.com from 2020-09-01 until 2021-03-01
 	hginzel: hans!matfyz.cz from 2021-11-01 until 2023-08-01
 	khmarbaise: github!soebes.com, github!soebes.de, info!soebes.de, kama!soebes.de, khmarbaise!apache.org from 2014-02-01 until 2015-12-01
+	lsegv: vachagan.balayan!lseg.com from 2017-05-01 until 2018-08-01
 	siforster: siforster!users.noreply.github.com until 2015-08-01, from 2017-04-01 until 2021-03-01
 Commerzbank branch:
 	Bartket: Bartket!users.noreply.github.com from 2019-08-01 until 2021-05-01
@@ -5916,6 +5941,8 @@ Cyberlytic:
 	rsdy: me!rhapsodhy.hu, rsdy!users.noreply.github.com from 2015-09-01 until 2018-05-01
 Cybernetex:
 	anovis: anovis!users.noreply.github.com from 2019-07-01 until 2020-03-01
+Cybernetex.ai:
+	freefood89: freefood89!users.noreply.github.com from 2018-03-01 until 2020-03-01
 Cybernetics:
 	abattersby: tonyb!cybernetics.com
 Cyberobject:
@@ -8345,6 +8372,7 @@ Datadog Inc:
 	Rigdon: Rigdon!users.noreply.github.com, ryan.rigdon!datadoghq.com
 	abayer: abayer!users.noreply.github.com, andrew.bayer!gmail.com from 2022-10-30
 	adussarps: adussarps!users.noreply.github.com from 2020-04-01 until 2024-03-01
+	agagniere: angagnie!student.42.fr, antoine!gagniere.dev, antoine.gagniere!amadeus.com, antoine.gagniere!datadoghq.com, antoine.gagniere!orolia2s.com, antoine.gagniere!yahoo.com from 2025-09-30
 	ahmed-mez: 38987709+ahmed-mez!users.noreply.github.com, ahmed-mez!users.noreply.github.com from 2019-02-01
 	ajacquemot: ajacquemot!users.noreply.github.com from 2017-11-01
 	alq666: alq!datadoghq.com, alq666!users.noreply.github.com
@@ -10200,6 +10228,7 @@ Dematic North America:
 	bpoland: bpoland!users.noreply.github.com from 2018-10-01 until 2019-10-01
 	dmartinol: dmartinol!users.noreply.github.com from 2020-03-01 until 2020-07-01
 	grahamwoodward: graham.woodward!ibm.com from 2021-08-01 until 2021-10-01
+	jonathanhughes: jonathanhughes!users.noreply.github.com from 2023-02-01
 	scurvydoggo: scurvydoggo!users.noreply.github.com until 2016-01-01
 	tiagoassis00: tiagoassis00!gmail.com until 2016-04-01
 Dembach Goo Informatik GmbH & Co. KG:

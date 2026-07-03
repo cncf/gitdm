@@ -2,6 +2,16 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Neurilink:
+	fullmetal-fred: fullmetal-fred!users.noreply.github.com from 2015-06-01 until 2018-05-01
+Neuro:
+	artemlops: ajuszkowski!ya.ru, artemlops!users.noreply.github.com from 2020-07-01
+Neuro-ID:
+	chriskuchin: chriskuchin!users.noreply.github.com from 2019-10-01 until 2022-01-01
+NeuroBlade:
+	saarwasserman: saarwasserman!users.noreply.github.com from 2018-09-01 until 2020-12-01
+NeuroDyne:
+	tampler: tampler!users.noreply.github.com from 2019-09-01 until 2020-06-01
 NeuroNav:
 	dmegbert: dmegbert!users.noreply.github.com from 2022-08-01 until 2023-03-01
 NeuroSYS:
@@ -134,7 +144,7 @@ New Relic Inc.:
 	MrJoy: MrJoy!users.noreply.github.com from 2016-01-01 until 2016-08-01
 	RichVanderwal: RichVanderwal!users.noreply.github.com, rvanderwal!newrelic.com from 2023-02-21
 	StephenWeber: StephenWeber!users.noreply.github.com, stephen.t.weber!gmail.com, stephen.weber!jivesoftware.com from 2017-07-01
-	TylerHelmuth: 12352919+TylerHelmuth!users.noreply.github.com, TylerHelmuth!users.noreply.github.com, thelmuth!newrelic.com, tylerhelmuth!honeycomb.io from 2022-02-22 until 2022-09-14
+	TylerHelmuth: 12352919+TylerHelmuth!users.noreply.github.com, TylerHelmuth!users.noreply.github.com, thelmuth!newrelic.com, tyler.helmuth!grafana.com, tylerhelmuth!honeycomb.io from 2022-02-22 until 2022-09-14
 	a-feld: a-feld!users.noreply.github.com, afeldman!newrelic.com from 2016-08-29 until 2021-09-24
 	ac427: ac427!users.noreply.github.com from 2022-02-01
 	agarvin-nr: 225066157+agarvin-nr!users.noreply.github.com, agarvin!newrelic.com from 2025-07-01
@@ -1027,6 +1037,8 @@ Ninjaas:
 	Rohith-Raju: Rohith-Raju!users.noreply.github.com from 2021-08-01 until 2021-09-01
 Ninjaneers:
 	cfstras: cfstras!users.noreply.github.com from 2018-08-01 until 2021-02-01
+Ninjavan:
+	lsegv: vachagan.balayan!lseg.com from 2016-04-01 until 2017-05-01
 Nintendo:
 	TimoVerbrugghe: TimoVerbrugghe!users.noreply.github.com from 2017-02-01 until 2018-06-01
 	akesterson: akesterson!users.noreply.github.com until 2022-04-01
@@ -4158,6 +4170,7 @@ OllyGarden:
 Olmait:
 	gothicfann: gothicfann!users.noreply.github.com from 2020-07-01 until 2020-11-01
 Olo:
+	MLBMatt: MLBMatt!users.noreply.github.com until 2015-07-01
 	WolfgangSenff: kyle.szklenski!gmail.com from 2016-03-01
 	jzbrooks: justin.brooks!cfacorp.com from 2023-04-01 until 2023-06-01
 	pjking07: pjking07!users.noreply.github.com from 2015-02-01
@@ -6051,6 +6064,7 @@ Oracle America Inc.:
 	dkennetzoracle: dennis.kennetz!oracle.com from 2024-08-01
 	doberloh: doberloh!users.noreply.github.com, dustin.oberloh!oracle.com, dustinoberloh!gmail.com
 	doschkinow: doschkinow!users.noreply.github.com
+	drnushooz: drnushooz!users.noreply.github.com from 2024-08-01
 	drobison00: drobison00!users.noreply.github.com from 2014-08-01 until 2018-01-01
 	drwill-ms: drwill-ms!users.noreply.github.com
 	dsahern: dsa!cumulusnetworks.com, dsahern!gmail.com from 2015-01-01 until 2015-06-01
@@ -6764,8 +6778,6 @@ Oro:
 	mbessolov: mbessolov!users.noreply.github.com
 Oroboro:
 	khawaga: khawaga!users.noreply.github.com from 2017-10-01 until 2018-09-01
-Orolia 2S:
-	agagniere: angagnie!student.42.fr from 2022-12-01
 Orpheus:
 	clemensvonschwerin: clemensvonschwerin!users.noreply.github.com from 2019-06-01
 Orpiva:
@@ -7062,6 +7074,7 @@ Outreachy:
 	akoserwal: akoserwal!users.noreply.github.com until 2015-07-01
 	anshikavashistha: anshikavashistha!users.noreply.github.com from 2024-02-01 until 2024-07-01
 	azuretek: azuretek!users.noreply.github.com from 2017-11-01
+	chandanikumari: chandanikumari!users.noreply.github.com from 2019-12-01 until 2020-12-01
 	davidquarles: david.e.quarles!gmail.com, davidquarles!users.noreply.github.com from 2018-02-01 until 2020-01-01
 	deregtd: deregtd!users.noreply.github.com from 2019-10-01
 	edithturn: edithturn!users.noreply.github.com from 2021-12-01 until 2022-03-01
@@ -7746,6 +7759,7 @@ POA:
 POAP:
 	cig0: cig0!users.noreply.github.com from 2021-06-01
 PODS:
+	BillBensing: BillBensing!users.noreply.github.com from 2017-11-01 until 2017-12-01
 	mkubilus: mkubilus!users.noreply.github.com from 2016-12-01 until 2017-07-01
 POGR:
 	Bioblaze: Bioblaze!users.noreply.github.com, BioblazePayne!gmail.com from 2022-03-01
@@ -13376,6 +13390,8 @@ Pret A Manger:
 	markoskandylis: markoskandylis!users.noreply.github.com until 2018-11-01
 Pretty Robots:
 	bigeasy: alan!prettyrobots.com, bigeasy!users.noreply.github.com
+PrettyFamousFund:
+	lsegv: vachagan.balayan!lseg.com from 2023-09-01 until 2024-09-01
 Prevas:
 	Kludentwo: Kludentwo!users.noreply.github.com from 2016-08-01
 	Villemoes: linux!rasmusvillemoes.dk from 2015-12-01
@@ -16541,22 +16557,3 @@ RACQ:
 RAD:
 	RamLavi: RamLavi!users.noreply.github.com until 2015-08-01
 	pancernik: pancernik!users.noreply.github.com from 2022-05-01
-RADAR:
-	bhcleek: bc!radarfirst.com, bhcleek!gmail.com, bhcleek!users.noreply.github.com, billie.cleek!idexpertscorp.com from 2014-03-01 until 2017-08-01
-	flylo: flylo!users.noreply.github.com, zacp!spotify.com from 2020-01-01
-RADCOM S.R.L.:
-	TsahiCX: tsahi.bar!checkmarx.com from 2016-12-01
-	asheryerm: asheryer!amazon.com until 2020-04-01
-	eilonash92: eilonash92!gmail.com from 2017-08-01 until 2018-04-01
-RADI:
-	moreirayokoyama: moreirayokoyama!users.noreply.github.com until 2015-04-01
-RADICALi:
-	sudonitesh: sudonitesh!users.noreply.github.com from 2019-10-01 until 2019-11-01
-RADTONICS:
-	ShubhamTatvamasi: ShubhamTatvamasi!users.noreply.github.com, shubhamtatvamasi!gmail.com from 2018-08-01
-RADWIN:
-	RamLavi: RamLavi!users.noreply.github.com from 2016-12-01 until 2019-11-01
-RADcube:
-	papovyr: papovyr!users.noreply.github.com, ruben.papovyan!umusic.com from 2020-05-01
-RAGE Frameworks:
-	sanketg86: sanketg86!users.noreply.github.com from 2017-03-01 until 2018-12-01

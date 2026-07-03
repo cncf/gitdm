@@ -2237,6 +2237,7 @@ Intel Corporation:
 	ManojSubbarao: ManojSubbarao!users.noreply.github.com from 2016-11-01
 	MichalMankowski: MichalMankowski!users.noreply.github.com, michal.mankowski!intel.com, michalmankowskixx!gmail.com from 2015-04-01 until 2017-05-01
 	Mionsz: Mionsz!users.noreply.github.com, milosz.linkiewicz!intel.com from 2021-09-01
+	MoOyeg: MoOyeg!users.noreply.github.com from 2018-10-01 until 2019-10-01
 	Nasf-Fan: fan.yong!intel.com
 	NickLavrov: NickLavrov!users.noreply.github.com from 2015-10-01 until 2017-07-01
 	NiuYawei: yawei.niu!gmail.com, yawei.niu!intel.com
@@ -4127,6 +4128,7 @@ International Business Machines Corporation:
 	brutif: brutif!users.noreply.github.com
 	bshifter: bshifter!users.noreply.github.com until 2020-02-01
 	bsingharora: bsingharora!gmail.com from 2015-12-01
+	burigolucas: burigolucas!users.noreply.github.com until 2021-12-01
 	butler54: butler54!users.noreply.github.com until 2022-01-01
 	c4po: c4po!users.noreply.github.com, k.hirakawa88!gmail.com, zhiyuan.cai!gmail.com from 2017-08-01 until 2018-06-01
 	cadawson: cdawson!redhat.com until 2020-02-01
@@ -4852,6 +4854,7 @@ International Business Machines Corporation:
 	mailtokun: mailtokun!users.noreply.github.com
 	makandre: makandre!users.noreply.github.com
 	manalilatkar: manali.latkar!ibm.com, manalilatkar!users.noreply.github.com from 2024-07-01
+	maneeshmehra: maneeshmehra!users.noreply.github.com until 2019-05-01
 	manesioz: manesioz!users.noreply.github.com from 2019-12-01 until 2020-04-01
 	manju956: manjunath-a-c!users.noreply.github.com, manjunath.a.c!ibm.com, manjunath.ac956!gmail.com from 2024-08-30
 	manoelmarques: manoelmarques!users.noreply.github.com
@@ -6463,6 +6466,8 @@ IronSight:
 	erik-h: erik-h!users.noreply.github.com from 2023-01-01 until 2023-09-01
 Ironbit:
 	ivanhoe: ivanhoe!users.noreply.github.com from 2015-06-01 until 2015-12-01
+Ironclad:
+	burigolucas: burigolucas!users.noreply.github.com from 2021-12-01
 Ironhack:
 	Kikobeats: Kikobeats!users.noreply.github.com, josefrancisco.verdu!gmail.com from 2017-01-01 until 2018-01-01
 	rafadc: rafadc!users.noreply.github.com, rafael!micubiculo.com from 2014-07-01 until 2015-02-01
@@ -9274,6 +9279,7 @@ KSYS:
 	xp-1000: xp-1000!users.noreply.github.com from 2015-10-01 until 2016-07-01
 KT:
 	chamankang: chaman.kang!gmail.com, chamankang!users.noreply.github.com until 2014-05-31
+	haedaal: haedaal!gmail.com, haedaal!users.noreply.github.com from 2025-04-01
 KT NexR:
 	minyk: minyk!users.noreply.github.com from 2019-04-01
 	youngwookim: youngwookim!users.noreply.github.com, ywkim!apache.org until 2015-08-01
@@ -13884,8 +13890,6 @@ Learnosity Ltd.:
 	eoghanmcilwaine: eoghanmcilwaine!users.noreply.github.com until 2019-05-01
 Learnship:
 	acwn1976: acwn1976!users.noreply.github.com from 2016-04-01 until 2020-06-01
-Learnsity:
-	jjbustamante: jbustamante!vmware.com until 2019-10-01
 Lease:
 	cjlpowers: cjlpowers!users.noreply.github.com until 2019-02-01
 LeasePlan:
@@ -15851,6 +15855,7 @@ Lixar Fuelled by BDO:
 	joostschriek: joostschriek!users.noreply.github.com until 2015-07-01
 Lixar IT:
 	Zebreu: Zebreu!users.noreply.github.com from 2017-11-01 until 2018-09-01
+	andrewballantyne: andrewballantyne!users.noreply.github.com from 2016-12-01 until 2017-02-01
 	jkirkham-ratehub: jkirkham-ratehub!users.noreply.github.com until 2017-09-01
 	obriensystems: obriensystems!users.noreply.github.com from 2017-03-01 until 2017-05-01
 LixarIT:
@@ -15982,7 +15987,3 @@ Locaweb:
 	jcmartins: jcmartins!users.noreply.github.com from 2014-08-01 until 2014-10-01
 	raizdepi: raizdepi!gmail.com until 2015-05-01
 	thiago-scherrer: thiago-scherrer!users.noreply.github.com from 2015-10-01 until 2018-10-01
-Loci ML:
-	VonRehberg: VonRehberg!users.noreply.github.com from 2022-01-01
-LockState:
-	rafaelsales: rafaelcds!gmail.com, rafaelsales!users.noreply.github.com

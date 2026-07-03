@@ -2,6 +2,17 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+B2 Management:
+	bluzarraga: bluzarraga!users.noreply.github.com from 2016-04-01 until 2016-10-01
+B23 LLC:
+	bobby: bobby!users.noreply.github.com from 2014-10-01 until 2015-08-01
+	dbkegley: dbkegley!users.noreply.github.com
+B2B IT:
+	alxbse: alex!alxb.se, alxbse!users.noreply.github.com until 2016-11-01
+B2B Soft:
+	tivrobo: tivrobo!users.noreply.github.com from 2016-02-01
+B2Broker:
+	frenchbread: damir.mustafin!protonmail.ch, frenchbread!users.noreply.github.com from 2018-10-01 until 2018-11-01
 B2C2:
 	cedws: cedws!users.noreply.github.com from 2022-04-01
 	danielburrell: danielburrell!users.noreply.github.com from 2021-11-01
@@ -3456,6 +3467,8 @@ BigPanda:
 	guyelia: guy2607!gmail.com, guyelia!users.noreply.github.com from 2020-03-01
 	moshevayner: moshe!vayner.me from 2024-01-01
 	oded-dd: oded-dd!users.noreply.github.com from 2017-06-01 until 2018-01-01
+BigPay:
+	lsegv: vachagan.balayan!lseg.com from 2018-08-01 until 2021-11-01
 BigRed//Hacks:
 	maxmchu: max!onlab.us, maxmchu!gmail.com from 2017-12-01
 BigStep Technologies Pvt. Ltd.:
@@ -5234,6 +5247,7 @@ Boehringer Ingelheim:
 Boeing:
 	AkhilJ321: jamwalakhil109!gmail.com from 2023-10-01
 	Anushka30: Anushka30!users.noreply.github.com from 2018-01-01 until 2019-08-01
+	BillBensing: BillBensing!users.noreply.github.com until 2015-01-01
 	Galaxy613: Galaxy613!gmail.com from 2016-12-01
 	GokGokalp: gok.gokalp!yahoo.com from 2019-10-01
 	NickMeves: gills-vector-0p!icloud.com until 2019-01-01
@@ -6765,6 +6779,7 @@ Broadcom Corporation:
 	ihgann: ihgann!users.noreply.github.com from 2023-11-01
 	jasonuy: jason.uy!broadcom.com
 	jchandra-brcm: jchandra!broadcom.com
+	jjbustamante: jbustamante!vmware.com from 2024-02-01
 	jnrbarnard: john.barnard!broadcom.com, yangyong.zheng!qq.com
 	jonathanrichardson: jonathan.richardson!broadcom.com, jonathar!broadcom.com
 	jsmart-gh: jsmart2021!gmail.com
@@ -7267,6 +7282,7 @@ Bullhorn Inc.:
 	setheen: andywins!live.com, setheen!users.noreply.github.com
 Bullish:
 	BrentDouglas: BrentDouglas!users.noreply.github.com, brent.n.douglas!gmail.com from 2021-04-01
+	lsegv: vachagan.balayan!lseg.com from 2025-09-01
 	swod00: swod00!users.noreply.github.com from 2020-06-01 until 2022-05-01
 Bullish Ventures:
 	corymsmith: cory.m.smith!gmail.com, corymsmith!users.noreply.github.com
@@ -9050,6 +9066,7 @@ CNCF:
 	ditsuke: ditsuke!protonmail.com, ditsuke!users.noreply.github.com from 2022-02-01 until 2022-06-01
 	dixudx: di.xu!arm.com, dixudx!users.noreply.github.com, stephenhsu90!gmail.com from 2023-10-01
 	donaldliu: donaldliu!gmail.com, donaldliu!users.noreply.github.com from 2017-12-01
+	drnushooz: drnushooz!users.noreply.github.com from 2024-03-01 until 2024-08-01
 	dwindsor: dave!progbits.org, dwindsor!users.noreply.github.com from 2017-06-01 until 2018-05-01
 	eameh: eameh!users.noreply.github.com from 2021-04-01
 	edeNFed: edeNFed!users.noreply.github.com, edenf2k!gmail.com from 2022-08-01
@@ -10958,6 +10975,7 @@ Capital One:
 	dsvua: dsvua!users.noreply.github.com from 2017-07-01 until 2019-03-01
 	edmondop: edmondo.porcu!gmail.com from 2023-12-01
 	elohmrow: elohmrow!users.noreply.github.com until 2015-01-01
+	freefood89: freefood89!users.noreply.github.com until 2018-03-01
 	freemansoft: freemansoft!users.noreply.github.com from 2019-02-01 until 2020-07-01
 	garrett-compass: garrett-compass!users.noreply.github.com from 2019-03-01 until 2021-09-01
 	hanitn: hanitn!users.noreply.github.com from 2018-01-01 until 2018-12-10
@@ -11602,6 +11620,7 @@ Carvana:
 	Dispersia: Dispersia!users.noreply.github.com from 2019-09-01
 	EIrwin: 906942774!qq.com, EIrwin!users.noreply.github.com, Eric.Irwin1124!gmail.com, mcuelenaere!gmail.com, rwren!cloudbees.com from 2015-11-01 until 2016-10-01
 	dkapellusch: dkapellusch!users.noreply.github.com from 2018-10-01
+	freefood89: freefood89!users.noreply.github.com from 2020-09-01
 Carve:
 	meadori: abhilashreddybly!gmail.com, meadori!codesourcery.com, meadori!gmail.com from 2017-11-01
 Carview:
@@ -13405,6 +13424,7 @@ ChronWell:
 	PaulMiami: PaulMiami!users.noreply.github.com from 2017-10-01
 Chronicle:
 	devesh-bedrock: devesh-bedrock!users.noreply.github.com from 2019-04-01 until 2019-08-01
+	lsegv: vachagan.balayan!lseg.com from 2022-04-01 until 2023-05-01
 	nairb774: nairb774!gmail.com, nairb774!users.noreply.github.com from 2019-01-01 until 2019-09-01
 Chronicled:
 	arun057: arun!arunram.com from 2019-07-01 until 2019-11-01
@@ -15127,6 +15147,8 @@ Classroom Clinic:
 	abierbaum: abierbaum!gmail.com, abierbaum!users.noreply.github.com from 2023-06-01
 Classy:
 	kmfk: keith!kmfk.io from 2015-08-01 until 2019-05-01
+Clatsch:
+	BillBensing: BillBensing!users.noreply.github.com from 2017-12-01 until 2020-01-01
 Clault:
 	lahirurd: lahirurd!users.noreply.github.com until 2014-06-01
 Clause Inc.:
@@ -16008,25 +16030,3 @@ CloudGear:
 	geku: geku!users.noreply.github.com
 CloudGenera:
 	aaroniscode: aaroniscode!users.noreply.github.com until 2016-11-01
-CloudGeometry:
-	nickchase: nchase!mirantis.com, nickchase!users.noreply.github.com from 2023-05-01
-CloudHaul:
-	aioue: aioue!users.noreply.github.com from 2017-02-01
-CloudHealth:
-	andrewjdawson2016: andrewjdawson2016!users.noreply.github.com from 2017-11-01 until 2019-01-01
-	fishpen0: fishpen0!users.noreply.github.com from 2017-03-01 until 2018-01-01
-CloudHealth Technologies Inc:
-	aschepis: adam.schepis!gmail.com, aschepis!users.noreply.github.com
-CloudHealth by VMware:
-	wsf11: wsf11!users.noreply.github.com from 2017-05-01 until 2017-08-01
-CloudHedge:
-	mustufa5689: mustufa5689!users.noreply.github.com from 2021-02-01 until 2021-11-01
-CloudHero:
-	andreimc: andreimc!users.noreply.github.com from 2019-02-01 until 2019-06-01
-	andreipetrescu95: andrei.petrescu1995!gmail.com, andreipetrescu95!users.noreply.github.com from 2017-07-01
-	taragurung: taragurung!users.noreply.github.com, taraprasad336!gmail.com
-CloudHeroCloudHero:
-	tuladhar: tuladhar!users.noreply.github.com, tuladharpuru!gmail.com from 2022-01-01
-CloudIQ:
-	asubmani: asubmani!gmail.com, asubmani!users.noreply.github.com from 2019-03-01
-	rganesan: rganesan!gmail.com from 2022-01-01

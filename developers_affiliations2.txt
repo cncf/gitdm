@@ -5,6 +5,46 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+MrDienns: MrDienns!dyescape.com, MrDienns!users.noreply.github.com
+	Independent until 2015-08-01
+	Dynalean b.v. from 2015-08-01 until 2016-02-01
+	Independent from 2016-02-01 until 2016-07-01
+	Dynalean b.v. from 2016-07-01 until 2016-09-01
+	Independent from 2016-09-01 until 2016-12-01
+	Dyescape from 2016-12-01 until 2017-08-01
+	DynaCommerce from 2017-08-01
+MrErlison: MrErlison!users.noreply.github.com
+	Alcatel-Lucent until 2019-01-01
+	Nokia Corporation from 2019-01-01
+MrFoxPro: MrFoxPro!users.noreply.github.com
+	ФСИН Маркетплейс
+MrFreezeex: MrFreezeex!users.noreply.github.com
+	Independent until 2017-06-01
+	ARaymond Network from 2017-06-01 until 2017-07-01
+	Independent from 2017-07-01 until 2018-06-01
+	Firebnb from 2018-06-01 until 2018-07-01
+	Independent from 2018-07-01 until 2019-09-01
+	Objectif Libre from 2019-09-01 until 2020-01-01
+	EPITA from 2020-01-01 until 2021-03-01
+	CERN from 2021-03-01 until 2022-09-01
+	Proton from 2022-09-01 until 2023-07-01
+	Ledger from 2023-07-01
+MrGossett: MrGossett!users.noreply.github.com, tim!cloud.com, tim!mrgossett.com
+	Citrix Systems Inc.
+MrHohn: MrHohn!users.noreply.github.com, zihongz!google.com
+	Independent until 2016-07-01
+	Google LLC from 2016-07-01
+MrJoy: MrJoy!users.noreply.github.com
+	RepairPal until 2014-12-01
+	Renzu from 2014-12-01 until 2015-11-01
+	Independent from 2015-11-01 until 2016-01-01
+	New Relic Inc. from 2016-01-01 until 2016-08-01
+	Independent from 2016-08-01 until 2016-10-01
+	Hired from 2016-10-01 until 2017-09-01
+	Lightning AI from 2017-09-01 until 2018-04-01
+	Valimail from 2018-04-01 until 2019-12-01
+	Independent from 2019-12-01 until 2020-04-01
+	Thryve!Work from 2020-04-01
 MrL1605: mrl1605!users.noreply.github.com
 	Independent until 2014-11-01
 	CorpsInsights from 2014-11-01 until 2015-04-01
@@ -5738,6 +5778,8 @@ Romiko: Romiko!users.noreply.github.com, romikov!gmail.com
 	Campaign Monitor from 2015-02-01 until 2015-10-01
 	Independent from 2015-10-01 until 2016-10-01
 	Independent from 2016-10-01
+Roming22: Roming22!users.noreply.github.com
+	Red Hat Inc.
 RonAmihai: RonAmihai!users.noreply.github.com
 	Philips until 2016-03-01
 	Dell Technologies from 2016-03-01
@@ -11340,7 +11382,7 @@ TylerGillson: TylerGillson!users.noreply.github.com
 TylerHaigh: TylerHaigh!users.noreply.github.com
 	Pacific National until 2018-08-01
 	NSW Health Pathology from 2018-08-01
-TylerHelmuth: 12352919+TylerHelmuth!users.noreply.github.com, TylerHelmuth!users.noreply.github.com, thelmuth!newrelic.com, tylerhelmuth!honeycomb.io, tyler.helmuth!grafana.com
+TylerHelmuth: 12352919+TylerHelmuth!users.noreply.github.com, TylerHelmuth!users.noreply.github.com, thelmuth!newrelic.com, tyler.helmuth!grafana.com, tylerhelmuth!honeycomb.io
 	Independent until 2022-02-22
 	New Relic Inc. from 2022-02-22 until 2022-09-14
 	Hound Technology Inc. dba Honeycomb from 2022-09-14 until 2026-06-02
@@ -14229,6 +14271,8 @@ a-robinson: a-robinson!users.noreply.github.com, alexdwanerobinson!gmail.com, ar
 	Google LLC until 2016-08-01
 	Cockroach Labs from 2016-08-01 until 2019-01-01
 	Cloudflare Inc from 2019-01-01
+a-rothwell: a-rothwell!users.noreply.github.com
+	Independent
 a-rustacean: a-rustacean!outlook.com
 	Independent until 2027-07-01
 	Cosdata from 2027-07-01
@@ -18360,11 +18404,12 @@ agaffney: agaffney!users.noreply.github.com, andrew!agaffney.org
 	Turn from 2014-08-01 until 2017-12-01
 	Cisco Systems Inc. from 2017-12-01 until 2018-10-01
 	Applause Inc. from 2018-10-01
-agagniere: angagnie!student.42.fr, antoine.gagniere!yahoo.com, antoine.gagniere!amadeus.com, antoine.gagniere!orolia2s.com, antoine.gagniere!datadoghq.com, antoine!gagniere.dev
+agagniere: angagnie!student.42.fr, antoine!gagniere.dev, antoine.gagniere!amadeus.com, antoine.gagniere!datadoghq.com, antoine.gagniere!orolia2s.com, antoine.gagniere!yahoo.com
+	Independent until 2017-06-01
 	Thales from 2017-06-01 until 2019-04-30
-	Amadeus from 2019-05-01 until 2022-12-31
-	Safran from 2023-01-01 until 2025-09-30
-	Datadog Inc from 2025-10-01
+	Amadeus from 2019-04-30 until 2022-12-31
+	Safran from 2022-12-31 until 2025-09-30
+	Datadog Inc from 2025-09-30
 agaillar: agaillar!users.noreply.github.com
 	Sogeti until 2021-01-01
 	Devoteam Revolve from 2021-01-01
@@ -23510,55 +23555,3 @@ alshopov: alshopov!users.noreply.github.com, ash!kambanaria.org, ashopov!uber.co
 	Cisco Systems Inc. until 2014-12-01
 	Gnome from 2014-12-01 until 2015-01-01
 	Uber from 2015-01-01
-alsrgv: alexander.sergeev!live.com, alsrgv!users.noreply.github.com
-	Microsoft Corporation until 2016-09-01
-	Uber from 2016-09-01 until 2019-10-01
-	Carbon Robotics from 2019-10-01
-alsuren: alsuren!users.noreply.github.com
-	Truphone until 2014-03-01
-	Independent from 2014-03-01 until 2015-12-01
-	Conversocial from 2015-12-01 until 2019-07-01
-	Independent from 2019-07-01 until 2019-10-01
-	Red Badger Consulting Limited from 2019-10-01
-alswl: alswl!users.noreply.github.com
-	Alipay
-alter: alter!users.noreply.github.com
-	Mail Ru until 2016-02-01
-	IPONWEB from 2016-02-01 until 2017-09-01
-	GreenWaves Technologies from 2017-09-01
-althafh: althaf.hameez!grabtaxi.com
-	Grab
-althati: althati!users.noreply.github.com
-	SAP until 2015-07-01
-	Deloitte New Zealand from 2015-07-01 until 2020-08-01
-	Ciox Health from 2020-08-01
-altinokdarici: altinok.darici!gmail.com
-	Faisal Bank of Cyprus until 2015-06-01
-	Microsoft Corporation from 2015-06-01 until 2017-10-01
-	Booking.com B.V. from 2017-10-01 until 2018-10-01
-	Independent from 2018-10-01 until 2019-01-01
-	Microsoft Corporation from 2019-01-01
-altinoren: altinoren!users.noreply.github.com
-	Nurturia until 2017-01-01
-	Microsoft Corporation from 2017-01-01 until 2019-10-01
-	Imdependent from 2019-10-01 until 2020-07-01
-	Microsoft Corporation from 2020-07-01 until 2021-03-01
-	Independent from 2021-03-01
-altinukshini: altin.ukshini!gmail.com
-	Independent
-altitdb: altitdb!gmail.com
-	SMG until 2017-07-01
-	Matera from 2017-07-01 until 2018-06-01
-	DB1 Global from 2018-06-01 until 2020-06-01
-	PagBank PagSeguro from 2020-06-01
-altmas5: altmas5!users.noreply.github.com
-	E. Chamorro until 2020-04-01
-	Linguistica International from 2020-04-01
-altostratous: altostratous!users.noreply.github.com
-	Ponisha until 2017-06-01
-	Independent from 2017-06-01 until 2018-07-01
-	EPFL from 2018-07-01 until 2018-09-01
-	NaaD from 2018-09-01 until 2019-03-01
-	Yektanet from 2019-03-01
-altran01: jacek.swiderski!codilime.com
-	NTT Corporation

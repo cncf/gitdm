@@ -1534,6 +1534,7 @@ Google LLC:
 	igsong: igsong!gmail.com, igsong!users.noreply.github.com from 2021-02-01
 	ihac: hac!zju.edu.cn, ihac!users.noreply.github.com from 2019-06-01 until 2019-08-01
 	ihmccreery: ihmccreery!gmail.com, ihmccreery!google.com, ihmccreery!users.noreply.github.com from 2015-03-01 until 2016-06-01
+	ijschwabacher: ijschwabacher!users.noreply.github.com
 	ikai: ikai.lan!gmail.com until 2014-08-01
 	ikarienator: bzhang!shapesecurity.com, ikarienator!gmail.com, ikarienator!users.noreply.github.com until 2014-01-01
 	ike-ma: ike-ma!users.noreply.github.com from 2020-06-01
@@ -1853,6 +1854,7 @@ Google LLC:
 	kgolab: github!stegriff.co.uk, kgolab!google.com, kgolab!users.noreply.github.com
 	kgrygiel: kgr!nomagic.ai, kgrygiel!users.noreply.github.com, kgrygiel+github!google.com, ns.fejes.stefan!gmail.com until 2018-06-01
 	kh-chang: kh-chang!users.noreply.github.com, kyuc!google.com, kyuhyun217!gmail.com
+	khalkie: khalk!google.com, khalkie!users.noreply.github.com from 2020-07-01
 	khazhyk: khazhy!google.com
 	khipkin: khipkin!users.noreply.github.com
 	khyatisoneji: khyatisoneji!users.noreply.github.com from 2019-11-01 until 2020-01-01
@@ -3650,7 +3652,7 @@ Grafana Labs:
 	Rperry2174: Rperry2174!users.noreply.github.com, ryan.perry!grafana.com
 	SeamusGrafana: 102023327+seamusgrafana!users.noreply.github.com, seamusgrafana!users.noreply.github.com from 2022-03-01
 	TomClqncy: 10931458+tomclqncy!users.noreply.github.com, TomClqncy!users.noreply.github.com from 2022-10-01
-	TylerHelmuth: 12352919+TylerHelmuth!users.noreply.github.com, TylerHelmuth!users.noreply.github.com, thelmuth!newrelic.com, tylerhelmuth!honeycomb.io from 2026-06-02
+	TylerHelmuth: 12352919+TylerHelmuth!users.noreply.github.com, TylerHelmuth!users.noreply.github.com, thelmuth!newrelic.com, tyler.helmuth!grafana.com, tylerhelmuth!honeycomb.io from 2026-06-02
 	adriansr: adriansr!users.noreply.github.com from 2022-08-01
 	aknuds1: aknuds1!users.noreply.github.com, arve.knudsen!gmail.com from 2019-09-01
 	albert0fg: 86233856+albert0fg!users.noreply.github.com, albert0fg!users.noreply.github.com from 2025-08-01
@@ -3763,6 +3765,7 @@ Grafana Labs:
 	mem: marcelo.magallon!gmail.com from 2020-01-01
 	moxious: david.allen!grafana.com, david.allen!oldhat.org, moxious!oldhat.org, moxious!users.noreply.github.com
 	mstumpfx: 31015658+mstumpfx!users.noreply.github.com, mstumpf!signalfx.com, mstumpfx!users.noreply.github.com from 2024-11-01
+	mwimpelberg28: 120263653+mwimpelberg28!users.noreply.github.com, matt.wimpelberg!grafana.com from 2024-07-01
 	nachogiljaldo: nachogiljaldo!users.noreply.github.com, naranja82!gmail.com from 2022-03-01
 	nadiamoe: 969721+nadiamoe!users.noreply.github.com, nadiamoe!users.noreply.github.com from 2023-04-01
 	nerd-ajurquhart: nerd-ajurquhart!users.noreply.github.com from 2024-09-01
@@ -9376,7 +9379,7 @@ Hound Technology Inc. dba Honeycomb:
 	McSick: michael.c.sickles!gmail.com, michaelsickles!honeycomb.io from 2020-11-30
 	MikeGoldsmith: MikeGoldsmith!users.noreply.github.com, goldsmith.mike!gmail.com, mike!honeycomb.io from 2020-06-26
 	MustafaHaddara: MustafaHaddara!users.noreply.github.com, mustafa!honeycomb.io from 2024-03-11
-	TylerHelmuth: 12352919+TylerHelmuth!users.noreply.github.com, TylerHelmuth!users.noreply.github.com, thelmuth!newrelic.com, tylerhelmuth!honeycomb.io from 2022-09-14 until 2026-06-02
+	TylerHelmuth: 12352919+TylerHelmuth!users.noreply.github.com, TylerHelmuth!users.noreply.github.com, thelmuth!newrelic.com, tyler.helmuth!grafana.com, tylerhelmuth!honeycomb.io from 2022-09-14 until 2026-06-02
 	VinozzZ: VinozzZ!users.noreply.github.com from 2023-02-15
 	akvanhar: akvanhar!users.noreply.github.com, alyson!honeycomb.io, avanhardenberg!honeycomb.io
 	anthonydmitriyev: anthony.dmitriyev!coinbase.com from 2015-09-01 until 2017-06-01
@@ -10128,6 +10131,7 @@ Hues:
 Huf Group:
 	loxy: loxy!users.noreply.github.com from 2015-06-01 until 2015-10-01
 HuffPost:
+	MLBMatt: MLBMatt!users.noreply.github.com from 2015-07-01 until 2016-11-01
 	raphaeleidus: raphaeleidus!users.noreply.github.com from 2014-03-01 until 2019-09-01
 	shmargum: mivanov1!gmail.com, shmargum!users.noreply.github.com until 2021-05-01
 Hufsy:
