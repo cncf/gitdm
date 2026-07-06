@@ -5,6 +5,23 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+chkohner: chkohner!users.noreply.github.com
+	Harebrained until 2016-07-01
+	Errant Phase from 2016-07-01 until 2019-11-01
+	Microsoft Corporation from 2019-11-01 until 2023-05-01
+	Riot Games from 2023-05-01
+chkpnt: chkpnt!users.noreply.github.com, dschung!cs.uni-kl.de
+	andrena until 2020-03-01
+	KAISER+KRAFT from 2020-03-01 until 2020-06-01
+	LBS Süd from 2020-06-01
+chl178: chl178!ucsd.edu, chl178!users.noreply.github.com
+	Independent until 2023-05-01
+	Google LLC from 2023-05-01
+chlam4: chlam4!users.noreply.github.com
+	Dell Technologies until 2017-03-01
+	Turbonomic from 2017-03-01
+chleit: christian.leitner!microsoft.com
+	Microsoft Corporation
 chleroy: christophe.leroy!c-s.fr
 	DSI of Pôle Emploi until 2016-03-01
 	FutureNet from 2016-03-01
@@ -4422,6 +4439,8 @@ crozzy: crozzy!users.noreply.github.com, joseph.crosland!gmail.com
 	Careesma until 2014-10-01
 	NowSecure from 2014-10-01 until 2015-10-01
 	Kochava from 2015-10-01
+crshnburn: crshnburn!users.noreply.github.com, smithson!uk.ibm.com
+	International Business Machines Corporation
 crstamps2: crstamps2!users.noreply.github.com
 	The Home Depot until 2019-11-01
 	Calendly from 2019-11-01 until 2024-12-01
@@ -15574,6 +15593,8 @@ drpicox: david.rodenas!gmail.com, david.rodenas+github!gmail.com, drpicox!users.
 drpmma: drpmma!users.noreply.github.com, zhouxzhan!gmail.com
 	Independent until 2018-10-01
 	Alibaba Group from 2018-10-01
+drriguz: drriguz!users.noreply.github.com
+	ThoughtWorks Inc
 drrt: dave!scytale.io, dirt!monkey.org, drrt!users.noreply.github.com
 	Endgame until 2015-11-01
 	eatsa from 2015-11-01 until 2017-07-01
@@ -17495,6 +17516,13 @@ ebbeelsborg: ebbeelsborg!users.noreply.github.com, ee!blackwoodseven.com
 	Blackwood Seven A/S from 2016-09-15
 ebblake: eblake!redhat.com
 	Red Hat Inc.
+ebbnflow: ebbnflow!users.noreply.github.com
+	Mediasoft until 2017-02-01
+	G2G3 Digital from 2017-02-01 until 2017-12-01
+	Independent from 2017-12-01 until 2019-01-01
+	Airwalk Reply from 2019-01-01 until 2020-05-01
+	Practice Made Perfect from 2020-05-01 until 2026-01-01
+	Here Now Adventures from 2026-01-01
 ebd2: ebd2!users.noreply.github.com
 	Delphix until 2015-04-01
 	Independent from 2015-04-01 until 2015-08-01
@@ -23778,31 +23806,3 @@ fedepad: fedepad!users.noreply.github.com, federico_padua!yahoo.it
 fedepaol: fedepaol!gmail.com, fedepaol!users.noreply.github.com, fpaoline!redhat.com
 	LIST S.p.A. until 2019-05-01
 	Red Hat Inc. from 2019-05-01
-federico-sysdig: federico-sysdig!users.noreply.github.com
-	Carestream Health until 2018-09-01
-	Ambarella from 2018-09-01 until 2019-10-01
-	Amadeus from 2019-10-01 until 2021-06-01
-	Viz from 2021-06-01 until 2022-01-01
-	Sysdig Inc. from 2022-01-01
-federicobaldo: federico.baldo!eurotech.com, federicobaldo!users.noreply.github.com
-	Eurotech S.p.A.
-federicopires: federicopires!users.noreply.github.com
-	Globant LLC until 2015-05-01
-	Avenida Compras S.A. from 2015-05-01 until 2016-11-01
-	Independent from 2016-11-01 until 2019-03-01
-	Personalized Beauty Discovery Inc from 2019-03-01 until 2020-05-01
-	Upsight from 2020-05-01 until 2021-06-01
-	Ring from 2021-06-01 until 2021-08-01
-	Embrace from 2021-08-01
-fediazgon: fediazgon!gmail.com, fediazgon!users.noreply.github.com
-	Independent until 2017-10-01
-	LeanXcale from 2017-10-01 until 2018-07-01
-	Independent from 2018-07-01 until 2019-01-01
-	Ericsson from 2019-01-01 until 2019-06-01
-	Spotify AB from 2019-06-01
-fedinskiy: fdudinsk!redhat.com
-	Red Hat Inc.
-fedyiv: ivan.a.fedyanin!gmail.com
-	Luxoft until 2021-12-01
-	DINS from 2021-12-01 until 2022-04-01
-	JettyCloud from 2022-04-01
