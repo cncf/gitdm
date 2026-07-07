@@ -5758,10 +5758,9 @@ ardbiesheuvel: ard.biesheuvel!linaro.org
 	Linaro Limited
 arden: arden!tujiao.com, arden!users.noreply.github.com
 	深圳市土椒科技有限公司
-ardentperf: ardentperf!users.noreply.github.com
-	Bad Voltage until 2014-11-01
-	Linux Fund from 2014-11-01 until 2024-06-01
-	CNCF from 2024-06-01
+ardentperf: ardentperf!users.noreply.github.com, schneider!ardentperf.com
+	Amazon Web Services from 2017-07-01 until 2024-08-01
+	GEICO from 2024-08-01
 ardeshir: ardeshir!users.noreply.github.com, ardeshir.org!gmail.com
 	Hennepin until 2016-06-01
 	Univrs.io from 2016-06-01 until 2018-05-01
