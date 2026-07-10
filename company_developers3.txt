@@ -2,6 +2,22 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+CloudCoreo:
+	armaneous: 1041698+armaneous!users.noreply.github.com, andrew!cloudcoreo.com from 2016-08-01 until 2018-02-01
+	pauldallen: paul!cloudcoreo.com from 2014-03-01
+CloudCove:
+	harsh4870: harsh.manvar111!gmail.com, harsh4870!users.noreply.github.com from 2019-01-01 until 2020-03-01
+CloudCover Pte. Ltd.:
+	abhianand09: abhianand09!users.noreply.github.com from 2018-04-01
+	amitsh728: amitsh728!users.noreply.github.com from 2019-08-01
+	codingmaths: codingmaths!users.noreply.github.com, sanjaym756!gmail.com from 2017-09-01 until 2018-06-01
+	craigleander: craigleander!users.noreply.github.com from 2018-01-01 until 2021-01-01
+	himanshuDevopsGuy: himanshuDevopsGuy!users.noreply.github.com from 2022-05-01
+	jakirpatel: jakirpatel!users.noreply.github.com from 2015-12-01 until 2016-01-01
+	sachougule: sachougule!users.noreply.github.com from 2019-02-01 until 2021-07-01
+	sweetib: sweetib!users.noreply.github.com from 2015-10-01
+CloudDC:
+	adiantum: adiantum!users.noreply.github.com, ilyaalekseyev!acm.org from 2011-07-07 until 2017-03-14
 CloudDog:
 	rooque: victor.rooque!gmail.com from 2018-03-01 until 2018-09-01
 CloudDrove:
@@ -572,6 +588,7 @@ Cloudwatt:
 	jkhelil: jkhelil!gmail.com, jkhelil!users.noreply.github.com until 2016-10-01
 	kri5: 13161670059!163.com, christophe.courtaut!gmail.com, kri5!users.noreply.github.com, mailmorgandubois!gmail.com until 2014-06-01
 	michaelferwer: michaelferwer!users.noreply.github.com until 2016-05-01
+	nicolasbernard: nicolasbernard!users.noreply.github.com from 2015-01-01 until 2017-06-01
 	rrondeau: rrondeau!users.noreply.github.com until 2015-03-01
 	rvrignaud: rvrignaud!users.noreply.github.com until 2015-06-01
 	sahid: sahid!users.noreply.github.com, sahid.ferdjaoui!cloudwatt.com, sahid.ferdjaoui!gmail.com, sahid.ferdjaoui!redhat.com until 2014-08-18
@@ -1055,6 +1072,8 @@ CodeCreate:
 	henryzhao95: henryzhao95!users.noreply.github.com from 2017-11-01 until 2017-12-01
 CodeCrowd OÜ:
 	madis: madis!users.noreply.github.com, madis.nomme!gmail.com
+CodeCrux:
+	binkkatal: binkkatal!users.noreply.github.com, binkkatal.r!gmail.com from 2015-06-01 until 2020-04-01
 CodeDay:
 	jamesylgan: jamesylgan!users.noreply.github.com from 2017-12-01 until 2019-07-01
 	tjhorner: me!tjhorner.com, tjhorner!users.noreply.github.com from 2015-01-01 until 2019-08-01
@@ -2437,6 +2456,7 @@ Common Code:
 	garthk: garth!garthk.com, garthk!users.noreply.github.com from 2015-06-01 until 2016-05-01
 Common Computer:
 	minho-comcom-ai: minho-comcom-ai!users.noreply.github.com from 2020-01-01
+	minhoryang: minhoryang!gmail.com from 2020-01-01 until 2024-10-01
 Common Fate:
 	JoshuaWilkes: JoshuaWilkes!users.noreply.github.com from 2022-07-01 until 2025-01-01
 	chrnorm: 17420369+chrnorm!users.noreply.github.com, chrnorm!users.noreply.github.com from 2022-07-01 until 2025-02-01
@@ -4475,6 +4495,7 @@ Coursera:
 	jpbetz: jpbetz!gmail.com, jpbetz!google.com, jpbetz!users.noreply.github.com from 2015-02-01 until 2016-03-01
 	rgoldfinger-quizlet: rgoldfinger-quizlet!users.noreply.github.com until 2015-11-01
 	richardchen331: richardchen331!users.noreply.github.com from 2014-11-01 until 2016-06-01
+	urvashigupta7: urvashi072000!gmail.com, urvashigupta7!users.noreply.github.com from 2024-11-01
 Coursix:
 	blakestoddard: blake.m.stoddard!gmail.com, blakestoddard!users.noreply.github.com until 2017-04-01
 Courtanet:
@@ -13739,6 +13760,8 @@ Dynatrace LLC:
 	z1c0: wolfgang.ziegler!dynatrace.com, wziegler!live.at, z1c0!users.noreply.github.com from 2017-09-01
 Dynavideo:
 	aeciopires: aeciopires!users.noreply.github.com until 2018-10-01
+Dyne:
+	kilahm: kilahm!users.noreply.github.com until 2015-10-01
 Dyno:
 	flaviuvadan: flaviuvadan!gmail.com from 2020-11-01
 Dypomatic:
@@ -14611,6 +14634,7 @@ EPAM Systems Inc:
 	Pldi23: Pldi23!users.noreply.github.com from 2019-05-01 until 2021-09-01
 	RodionGork: RodionGork!users.noreply.github.com from 2017-03-01 until 2018-03-01
 	RomanSharapov: info!romansharapov.com from 2017-06-01
+	SergK: SergK!users.noreply.github.com from 2017-03-01
 	SiarheiDubovik: siarhei_dubovik!epam.com
 	Subhamverma2407: Subhamverma2407!users.noreply.github.com, subhamverma2407!gmail.com from 2024-08-01
 	SychevIgor: SychevIgor!users.noreply.github.com from 2018-12-01
@@ -15591,6 +15615,8 @@ Eclectic Events:
 EclecticIQ:
 	mariusv: mariusv!users.noreply.github.com, myself!mariusv.com from 2018-02-01
 	orsinium: mail!orsinium.dev, orsinium!users.noreply.github.com from 2019-05-01 until 2020-11-01
+Eclerx:
+	NikishaPatil: nipatil!ibm.com from 2015-01-01 until 2016-02-01
 Eclipse:
 	Manuri: Manuri!users.noreply.github.com from 2015-05-01 until 2015-08-01
 	azatsarynnyy: azatsarynnyy!users.noreply.github.com until 2017-07-01
@@ -15779,6 +15805,7 @@ EdgeUno:
 EdgeVerve:
 	Dr-N00B: Dr-N00B!users.noreply.github.com from 2019-08-01 until 2021-04-01
 	conorfennell: conorfennell!users.noreply.github.com from 2016-07-01 until 2017-09-01
+	kaushalnavneet: kaushalnavneet!users.noreply.github.com from 2015-07-01 until 2018-08-01
 	manishbansal8843: manishbansal8843!gmail.com, manishbansal8843!users.noreply.github.com from 2015-07-01 until 2017-07-01
 	praddy26: praddy26!users.noreply.github.com from 2015-07-01 until 2021-01-01
 	rohithnarasimha: rohithnarasimha!users.noreply.github.com from 2015-07-01 until 2021-01-01
@@ -16223,13 +16250,3 @@ Elastic Path Software Inc:
 	andrew-waters: andrew-waters!users.noreply.github.com from 2017-03-01 until 2019-01-01
 	notrab: hi_jamie!me.com, jamie!notrab.dev, notrab!users.noreply.github.com from 2017-12-01 until 2019-10-01
 	zot24: zot24!users.noreply.github.com from 2015-08-01 until 2018-09-01
-ElasticBox:
-	DiegoSanjuan: diego!elasticbox.com, diegosanjuan!users.noreply.github.com until 2016-06-01
-	hectorj2f: hectorj!gmail.com, hectorj2f!users.noreply.github.com, hfernandez!mesosphere.com until 2015-04-01
-	mattnickles: matt!elasticbox.com, mattnickles!users.noreply.github.com
-	oserna3: oserna3!users.noreply.github.com, serna!elasticbox.com from 2015-10-01
-	pascualin: ignacio!elasticbox.com until 2015-10-01
-ElasticHosts Ltd.:
-	OwenTuz: OwenTuz!users.noreply.github.com until 2014-12-01
-Elasticbrains:
-	bauerd: bauerd!users.noreply.github.com from 2018-03-01

@@ -550,6 +550,13 @@
 	Spotify AB until 2015-07-15
 	Weaveworks Inc. from 2015-07-15 until 2020-03-01
 	Stellar from 2020-03-01
+2pai: 2pai!users.noreply.github.com
+	PT PLN until 2017-01-01
+	Independent from 2017-01-01 until 2017-02-01
+	Independent from 2017-02-01 until 2018-05-01
+	PT Revolusi Anak Langit from 2018-05-01 until 2018-07-01
+	Independent from 2018-07-01 until 2020-09-01
+	Pintu from 2020-09-01
 2phost: 2phost!users.noreply.github.com
 	Independent until 2014-09-01
 	PI R Quadrado Tutoring Center from 2014-09-01 until 2016-03-01
@@ -2414,6 +2421,13 @@ AldairCoronel: AldairCoronel!users.noreply.github.com
 	Microsoft Corporation from 2021-06-01 until 2021-09-01
 	Independent from 2021-09-01 until 2022-09-01
 	Fondeso from 2022-09-01
+AleStranieri: AleStranieri!users.noreply.github.com
+	Independent until 2015-04-01
+	MazzMedia Srl from 2015-04-01 until 2015-09-01
+	The Outplay from 2015-09-01 until 2021-04-01
+	Fiscozen from 2021-04-01 until 2022-12-01
+	Red Hat Inc. from 2022-12-01 until 2025-06-01
+	International Business Machines Corporation from 2025-06-01
 AlecAivazis: alec!aivazis.com
 	Independent until 2015-01-01
 	Authorea from 2015-01-01 until 2016-02-01
@@ -2900,6 +2914,9 @@ AllMight2099: AllMight2099!users.noreply.github.com
 	SDSLabs from 2021-12-01
 AllardKrings: allardkrings!gmail.com
 	Belastingdienst
+Allda: Allda!users.noreply.github.com, ales.raszka!gmail.com
+	Independent until 2015-07-01
+	Red Hat Inc. from 2015-07-01
 Allen-987: yangyang19!sensetime.com
 	SenseTime
 AllenFang: ayu780129!hotmail.com
@@ -3237,6 +3254,13 @@ Amojow: Amojow!users.noreply.github.com
 	Superprof from 2017-07-01 until 2018-06-01
 	Independent from 2018-06-01 until 2019-02-01
 	Capgemini from 2019-02-01
+Amoncy: amoncy!redhat.com
+	Independent until 2020-09-01
+	Red Hat Inc. from 2020-09-01 until 2022-08-01
+	Independent from 2022-08-01 until 2023-06-01
+	Red Hat Inc. from 2023-06-01 until 2023-12-01
+	Independent from 2023-12-01 until 2024-04-01
+	Red Hat Inc. from 2024-04-01
 AmorBielyi: romanbielyi.amor!gmail.com
 	Independent until 2018-02-01
 	3D Atelier from 2018-02-01 until 2018-08-01
@@ -4778,6 +4802,10 @@ AshwinRamaniPsg: AshwinRamaniPsg!users.noreply.github.com
 	Aruba from 2015-11-01 until 2017-05-01
 	Cisco Systems Inc. from 2017-05-01 until 2020-11-01
 	eBay from 2020-11-01
+AshwinSridharan0410: AshwinSridharan0410!users.noreply.github.com
+	Independent until 2022-12-01
+	Virtusa Corporation from 2022-12-01 until 2023-04-01
+	Johnson Controls from 2023-04-01
 AshwiniSwain: AshwiniSwain!users.noreply.github.com, ashwinswain84!gmail.com
 	Independent until 2018-07-01
 	Quantiphi from 2018-07-01 until 2019-11-01
@@ -20294,6 +20322,8 @@ Letme: Letme!users.noreply.github.com, cmo!melexis.com
 	Melexis
 LetsUseGerrit: LetsUseGerrit!users.noreply.github.com
 	(Robots)
+Letty5411: Letty5411!users.noreply.github.com
+	Alibaba Group
 LetzNico: LetzNico!users.noreply.github.com
 	Daimler Truck
 Lev1ty: Lev1ty!users.noreply.github.com
@@ -23653,33 +23683,3 @@ MrBlaise: MrBlaise!users.noreply.github.com, rostas.balazs!gmail.com
 	Independent until 2016-09-01
 	Avatao from 2016-09-01 until 2020-07-01
 	Bitrise from 2020-07-01
-MrBokeh: MrBokeh!users.noreply.github.com
-	Adventvr
-MrChaos1993: MrChaos1993!users.noreply.github.com, alex2789!gmail.com
-	NFLabs
-MrCoffey: MrCoffey!users.noreply.github.com
-	Schlumberger Limited until 2014-01-01
-	Independent from 2014-01-01 until 2014-08-01
-	Desafío Latam from 2014-08-01 until 2015-01-01
-	Tarefa.co from 2015-01-01 until 2015-06-01
-	Independent from 2015-06-01 until 2016-01-01
-	tpaga from 2016-01-01 until 2016-10-01
-	Liftit from 2016-10-01 until 2020-11-01
-	Globant LLC from 2020-11-01 until 2021-09-01
-	Flywheel from 2021-09-01
-MrColeC: Cole.Christie!invitae.com
-	Invitae Corporation
-MrCroxx: MrCroxx!users.noreply.github.com, mrcroxx!outlook.com
-	Singularit
-MrCull: MrCull!users.noreply.github.com
-	TBA Group
-MrD2: MrD2!users.noreply.github.com
-	INESC-ID until 2014-07-01
-	Independent from 2014-07-01 until 2016-02-01
-	Arxi from 2016-02-01 until 2017-12-01
-	Watt-IS S.A from 2017-12-01 until 2018-09-01
-	CERN from 2018-09-01
-MrDXY: MrDXY!users.noreply.github.com, xinyuandu!bupt.cn
-	Independent until 2022-09-01
-	Hulu LLC from 2022-09-01 until 2023-07-01
-	VMware Inc. from 2023-07-01

@@ -2,6 +2,16 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+ElasticBox:
+	DiegoSanjuan: diego!elasticbox.com, diegosanjuan!users.noreply.github.com until 2016-06-01
+	hectorj2f: hectorj!gmail.com, hectorj2f!users.noreply.github.com, hfernandez!mesosphere.com until 2015-04-01
+	mattnickles: matt!elasticbox.com, mattnickles!users.noreply.github.com
+	oserna3: oserna3!users.noreply.github.com, serna!elasticbox.com from 2015-10-01
+	pascualin: ignacio!elasticbox.com until 2015-10-01
+ElasticHosts Ltd.:
+	OwenTuz: OwenTuz!users.noreply.github.com until 2014-12-01
+Elasticbrains:
+	bauerd: bauerd!users.noreply.github.com from 2018-03-01
 Elasticsearch Inc.:
 	111andre111: 111andre111!users.noreply.github.com from 2019-02-01
 	AlexanderWert: AlexanderWert!users.noreply.github.com, alex.wert!dash0.com, alexander.wert!elastic.co until 2026-06-12
@@ -1677,6 +1687,7 @@ Entrepreneurship Cell IEM Kolkata:
 	itisaby: itisaby!users.noreply.github.com from 2022-07-01 until 2022-09-01
 Entria:
 	JCMais: JCMais!users.noreply.github.com, me!jonathancardoso.com from 2017-05-01 until 2018-08-01
+	sibelius: sibelius!users.noreply.github.com, sibeliusseraphini!gmail.com, sup!aguz.me from 2016-08-01 until 2025-08-01
 Entropea Labs Limited:
 	entone: ccote!thecitybase.com, chris!entropealabs.com, entone!users.noreply.github.com until 2018-04-01
 Entrust Inc.:
@@ -6143,6 +6154,7 @@ FireEye:
 	murarisumit: murarisumit!gmail.com, murarisumit!users.noreply.github.com, sumit!cloudyuga.guru, sumit!murari.me from 2016-06-01 until 2017-11-01
 	pnguyen-okta: pnguyen-okta!users.noreply.github.com from 2016-02-01 until 2019-08-01
 	snobear: snobear!users.noreply.github.com from 2017-04-01
+	spstarr: shawn.starr!rogers.com, spstarr!users.noreply.github.com from 2018-01-01 until 2019-04-01
 	tinajohnson: tinajohnson.1234!gmail.com from 2019-05-01 until 2019-07-01
 FireForge:
 	onefrankguy: me!frankmitchell.org until 2015-09-01
@@ -6177,6 +6189,8 @@ Firedome:
 	edeNFed: edeNFed!users.noreply.github.com, edenf2k!gmail.com from 2018-03-01 until 2019-07-01
 Firedrop:
 	Carmezim: Carmezim!users.noreply.github.com, Carmezim.filho!gmail.com from 2018-04-01 until 2019-06-01
+Fireflies.ai:
+	caiocampoos: caiocampoosbr!gmail.com from 2024-10-01
 Firefly:
 	Routhinator: Routhinator!users.noreply.github.com from 2017-07-01 until 2020-07-01
 	gebn: gebn!users.noreply.github.com until 2014-08-01
@@ -6307,6 +6321,7 @@ Firstup:
 Fisch:
 	ArdaXi: ArdaXi!users.noreply.github.com, arda!ardaxi.com from 2018-06-01 until 2018-12-01
 Fiscozen:
+	AleStranieri: AleStranieri!users.noreply.github.com from 2021-04-01 until 2022-12-01
 	vannitotaro: ingtotaro!ingtotaro.it, vanni.totaro!gmail.com, vannitotaro!users.noreply.github.com from 2017-10-01
 Fiser:
 	garethjevans: gareth!bryncynfelin.co.uk, garethjevans!users.noreply.github.com from 2017-12-01 until 2018-06-01
@@ -7377,6 +7392,7 @@ Ford Motor Company:
 	Phlip79: Phlip79!users.noreply.github.com from 2017-05-01 until 2017-08-01, from 2018-05-01 until 2018-08-01
 	jiwang576: jiwang576!users.noreply.github.com from 2015-01-01 until 2015-04-01
 	kcloutie: kcloutie!users.noreply.github.com
+	manojbison: manojbison!users.noreply.github.com from 2018-10-01 until 2022-05-01
 	scott-doyland-burrows: scott-doyland-burrows!users.noreply.github.com from 2017-11-01 until 2019-11-01
 Ford Otosan:
 	hazarguney: hazarguney!users.noreply.github.com until 2016-10-01
@@ -10643,6 +10659,7 @@ General Electric Company:
 	comps3: bhuynh!csumb.edu, comps3!users.noreply.github.com from 2016-05-01 until 2018-11-01
 	dabansal: bansalcooldheeraj!gmail.com, dabansal!users.noreply.github.com from 2017-05-01 until 2019-08-01
 	emilyaherbert: emilyaherbert!users.noreply.github.com, emilyherbert!cs.umass.edu from 2016-06-01 until 2016-08-01
+	haidouks: canald!gmail.com, haidouks!users.noreply.github.com from 2021-12-01 until 2022-07-01
 	hdefazio: h2defazio!gmail.com from 2019-05-01 until 2019-08-01
 	hs0210: hs0210!users.noreply.github.com, hus.fnst!cn.fujitsu.com from 2016-06-01 until 2018-08-01
 	igorborgest: igorborgest!users.noreply.github.com from 2015-01-01 until 2016-01-01
@@ -11489,6 +11506,7 @@ GitHub Inc.:
 	Vikash-8090-Yadav: Vikash-8090-Yadav!users.noreply.github.com, yadav621gzp!gmail.com from 2023-04-01 until 2023-08-01
 	aaronbbrown: aaronbbrown!users.noreply.github.com from 2016-01-01
 	aashah: aashah!users.noreply.github.com from 2020-08-01
+	ahpook: ahpook!gmail.com, ahpook!users.noreply.github.com, eric!puppet.com from 2022-07-01
 	aibaars: aibaars!users.noreply.github.com from 2019-09-01
 	aidagha: aida.ghazizadeh!gmail.com, aidagha!users.noreply.github.com from 2019-06-01 until 2020-08-01
 	aizatsky-at-google: aizatsky!google.com from 2019-06-01 until 2020-08-01
