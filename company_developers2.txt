@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+B&R Business Solutions:
+	joshdcar: joshdcar!users.noreply.github.com until 2018-09-01
+B&W:
+	mbrgm: mbrgm!users.noreply.github.com until 2019-08-01
 B-Code:
 	pbabilas: babilas.pawel!gmail.com, pbabilas!users.noreply.github.com
 B-Logic:
@@ -2742,6 +2746,7 @@ Belastingdienst:
 	MichaelTrip: michael!alcatrash.org from 2025-03-01 until 2025-08-01
 	elucidator: pieter!elucidator.nl from 2019-07-01
 	jresoort: jresoort!users.noreply.github.com from 2016-08-01 until 2017-03-01
+	kad-vriese1: kad-vriese1!users.noreply.github.com until 2018-06-01
 	vincentfree: vincentfree!users.noreply.github.com until 2014-11-01
 Belatrix:
 	athak: athak!users.noreply.github.com from 2018-05-01 until 2019-12-01
@@ -15458,6 +15463,8 @@ Click:
 	varunsrinivasan2: varun!robustintelligence.com from 2018-07-01 until 2021-05-01
 Click Creative:
 	joshuataylor: joshuataylor!users.noreply.github.com, joshuataylorx!gmail.com from 2015-04-01 until 2015-09-01
+Click House:
+	leshikus: alexei.fedotov!gmail.com from 2025-10-01
 Click Medix:
 	tuannvm: me!tuannvm.com, tuannvm!users.noreply.github.com from 2016-07-01 until 2017-06-01
 Click Security:
@@ -16023,14 +16030,3 @@ CloudCasa:
 	0x113: 0x113!users.noreply.github.com from 2020-09-01 until 2023-05-01
 CloudCheckout™:
 	jcs224: jcs224!users.noreply.github.com from 2019-10-01
-CloudCheckr Inc.:
-	alecrajeev: alecinthecloud!gmail.com, alecrajeev!users.noreply.github.com from 2017-06-01 until 2018-12-01, from 2019-02-01
-	aphedges: aphedges!users.noreply.github.com from 2018-01-01 until 2018-08-01
-	duncaan: duncaan!users.noreply.github.com from 2020-09-01
-	geowa4: geowa4!users.noreply.github.com, oss!geowa4.software from 2016-02-01 until 2017-07-01
-	jdfalk: jdfalk!users.noreply.github.com from 2020-04-01
-	varodrig: varodrig!users.noreply.github.com from 2018-05-01 until 2018-08-01, from 2019-05-01 until 2020-02-01
-CloudChef:
-	wgui1: guienator!gmail.com, wgui1!users.noreply.github.com
-CloudCore:
-	joshuamkite: joshuamkite!users.noreply.github.com from 2020-04-01 until 2025-03-01
