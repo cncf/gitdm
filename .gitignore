@@ -41,6 +41,7 @@ backup.json
 affiliated.json
 stripped.json
 *.htm*
+src*.txt
 src/check_spell
 src/mtp
 src/check_shas
