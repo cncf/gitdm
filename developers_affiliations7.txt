@@ -22154,9 +22154,10 @@ ozradi: ozradi!users.noreply.github.com
 	Permit.io from 2021-12-01
 p-bakker: p-bakker!users.noreply.github.com, paul.bakker!luminis.eu
 	Luminis
-p-fruck: dev!p-fruck.de
+p-fruck: dev!p-fruck.de, philipp.fruck!telekom.de
 	Independent until 2019-09-01
-	Hewlett from 2019-09-01
+	Hewlett from 2019-09-01 untils 2025-05-01
+	Deutsche Telekom from 2025-06-01
 p-gonzo: p-gonzo!users.noreply.github.com
 	Peace Corps until 2015-03-01
 	Independent from 2015-03-01 until 2018-07-01
