@@ -2829,6 +2829,11 @@ AlginMaduro: alginmaduro!users.noreply.github.com
 	Independent
 Algodev-github: paolo.valente!linaro.org
 	Linaro Limited
+Alhanaqtah: Alhanaqtah!users.noreply.github.com
+	Independent until 2020-02-01
+	Corelight from 2020-02-01 until 2022-03-01
+	LEGID from 2022-03-01 until 2024-05-01
+	Geomotiv from 2024-05-01
 Ali-Dalal: Ali-Dalal!users.noreply.github.com
 	Independent until 2016-05-01
 	Apliman from 2016-05-01 until 2017-08-01
@@ -6168,6 +6173,10 @@ BjoernSchotte: bjoern.schotte!googlemail.com
 BjoernT: BjoernT!users.noreply.github.com
 	Internet Brands Inc. until 2014-09-01
 	Rackspace from 2014-09-01
+Bl4d3s: Bl4d3s!users.noreply.github.com, michaelschmitz!live.de
+	Independent until 2016-09-01
+	Sopra from 2016-09-01 until 2021-03-01
+	infsoft from 2021-03-01
 BlaM: BlaM!users.noreply.github.com
 	adlytics
 BlackBsd: BlackBsd!users.noreply.github.com
@@ -7183,6 +7192,14 @@ CameronFranke: cameron!onlab.us
 CameronHall: CameronHall!users.noreply.github.com, a.jansons!gmail.com, me!chall.id.au
 	VentraIP until 2020-11-01
 	Catch from 2020-11-01
+CameronHudson8: CameronHudson8!users.noreply.github.com
+	Amec Foster Wheeler until 2016-03-01
+	Independent from 2016-03-01 until 2016-08-01
+	Axens from 2016-08-01 until 2017-05-01
+	Independent from 2017-05-01 until 2019-06-01
+	Airport from 2019-06-01 until 2019-08-01
+	Independent from 2019-08-01 until 2019-12-01
+	Apple Inc. from 2019-12-01
 CameronLonsdale: Cameron.Lonsdale!gmail.com, CameronLonsdale!users.noreply.github.com
 	Outpost until 2015-04-01
 	Independent from 2015-04-01 until 2015-12-01
@@ -17403,6 +17420,8 @@ JimmyCYJ: JimmyCYJ!users.noreply.github.com, jimmychen.0102!gmail.com
 	Longo's until 2018-02-01
 	ATB Financial from 2018-02-01 until 2018-12-01
 	Scotiabank from 2018-12-01
+Jin-Whee-Park: Jin-Whee-Park!users.noreply.github.com
+	Independent
 JinFuxin1: 824347363!qq.com, JinFuxin1!users.noreply.github.com, jinfuxin!inspur.com
 	Inspur Group
 Jinchul81: Jinchul81!users.noreply.github.com
@@ -19832,6 +19851,11 @@ LMWF: LMWF!users.noreply.github.com
 	Microsoft Corporation
 LOMOGO: LOMOGO!users.noreply.github.com
 	null
+LOZORD: LOZORD!users.noreply.github.com
+	Independent until 2022-08-01
+	Amnesty from 2022-08-01 until 2022-12-01
+	UNF from 2022-12-01 until 2023-08-01
+	Amnesty from 2023-08-01
 LP0101: LP0101!users.noreply.github.com
 	7shifts
 LPowlett: LPowlett!users.noreply.github.com
@@ -23540,6 +23564,10 @@ Moshe-Immerman: Moshe-Immerman!users.noreply.github.com, moshe.immerman!gmail.co
 	Flanksource
 Moshe-Rappaport-CA: 89577611+Moshe-Rappaport-CA!users.noreply.github.com, Moshe-Rappaport-CA!users.noreply.github.com, moshep!armosec.io
 	ARMO
+MosheElisha: MosheElisha!users.noreply.github.com
+	Independent until 2015-06-01
+	Nokia Corporation from 2015-06-01 until 2023-09-01
+	AlgoSec from 2023-09-01
 Moshem123: Moshem123!users.noreply.github.com, moshe.avni!naturalint.com
 	IAF - Israeli Air Force until 2014-10-01
 	Independent from 2014-10-01 until 2015-01-01
@@ -23653,33 +23681,3 @@ MrAlias: MrAlias!users.noreply.github.com, codingalias!gmail.com, tyahn!newrelic
 	Independent until 2019-03-04
 	New Relic Inc. from 2019-03-04 until 2020-02-07
 	Splunk Inc. from 2020-02-07
-MrAmbiG: MrAmbiG!users.noreply.github.com
-	Hewlett until 2014-10-01
-	Dell EMC from 2014-10-01 until 2018-06-01
-	International Business Machines Corporation from 2018-06-01 until 2019-12-01
-	Advanced Micro Devices (AMD) from 2019-12-01
-MrAnno: MrAnno!users.noreply.github.com
-	Independent until 2016-01-01
-	Balabit from 2016-01-01 until 2019-01-01
-	One from 2019-01-01 until 2022-11-01
-	Independent from 2022-11-01 until 2023-01-01
-	Axoflow from 2023-01-01
-MrArnoldPalmer: mitchellvaline!yahoo.com
-	Independent until 2015-05-01
-	Startup from 2015-05-01 until 2015-08-01
-	Mirum Agency from 2015-08-01 until 2018-04-01
-	Ring from 2018-04-01 until 2019-10-01
-	Amazon from 2019-10-01
-MrBLightning: MrBLightning!users.noreply.github.com
-	Lightning until 2019-04-01
-	Independent from 2019-04-01 until 2019-10-01
-	Algoretail from 2019-10-01 until 2021-02-01
-	Circles from 2021-02-01 until 2021-07-01
-	Independent from 2021-07-01 until 2021-11-01
-	Independent from 2021-11-01
-MrBeast: MrBeast!users.noreply.github.com
-	Flant JCS
-MrBlaise: MrBlaise!users.noreply.github.com, rostas.balazs!gmail.com
-	Independent until 2016-09-01
-	Avatao from 2016-09-01 until 2020-07-01
-	Bitrise from 2020-07-01
