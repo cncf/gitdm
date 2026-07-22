@@ -12757,8 +12757,10 @@ mtancoigne: mtancoigne!users.noreply.github.com
 	Independent from 2016-06-01 until 2017-01-01
 	IMIE from 2017-01-01 until 2018-01-01
 	Independent from 2018-01-01
-mtanda: mitsuhiro.tanda!gmail.com, mtanda!users.noreply.github.com
-	GREE
+mtanda: mitsuhiro.tanda!gmail.com, mitsuhiro.tanda!grafana.com, mtanda!users.noreply.github.com
+	GREE from 2011-01-01 until 2025-06-30
+	Datachain from 2025-07-01 until 2026-06-01
+	Grafana Labs from 2026-06-02
 mtanino: mitsuhiro.tanino!hds.com, mitsuhiro.tanino!hitachivantara.com, mitsuhiro.tanino.gm!hitachi.com, mtanino!users.noreply.github.com
 	OpenStack Foundation until 2017-01-01
 	Hitachi Ltd. from 2017-01-01 until 2019-07-01
