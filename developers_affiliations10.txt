@@ -5772,8 +5772,10 @@ ymlbright: yml_bright!163.com
 	NetEase Inc
 ymmt2005: ymmt!cybozu.com, ymmt2005!gmail.com, ymmt2005!users.noreply.github.com
 	Cybozu
-ymotongpoo: ymotongpoo!users.noreply.github.com
-	Google LLC
+ymotongpoo: ymotongpoo!users.noreply.github.com, ymotongpoo!gmail.com, yoshi.yamaguchi!grafana.com
+	Google LLC until 2024-11-01
+	AWS from 2024-11-01 until 2026-04-07
+	Grafana Labs from 2026-04-07
 ymtdzzz: ymtdzzz!users.noreply.github.com
 	Independent
 ynambiar: ynambiar!users.noreply.github.com
