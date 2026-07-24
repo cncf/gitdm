@@ -5,6 +5,52 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+alml: alml!google.com, alml!users.noreply.github.com
+	Google LLC
+almogtavor: almogtavor!users.noreply.github.com
+	International Business Machines Corporation
+almonteb: almonteb!users.noreply.github.com
+	Hitachi Vantara LLC until 2016-11-01
+	Zillow from 2016-11-01
+almos98: almos98!users.noreply.github.com
+	Advania until 2014-04-01
+	Reiknistofa bankanna from 2014-04-01 until 2018-04-01
+	LS Retail from 2018-04-01 until 2018-07-01
+	Genuity Science Inc. from 2018-07-01 until 2019-05-01
+	NetApp from 2019-05-01
+almostivan: jbaron!akamai.com
+	Akamai Technologies Inc.
+almudenasanz: almudena.sanz!elastic.co, almudenasanz!users.noreply.github.com
+	Independent until 2023-05-03
+	Elasticsearch Inc. from 2023-05-03
+almusil: amusil!redhat.com
+	Red Hat Inc.
+alnr: alnr!users.noreply.github.com
+	Ochsenfeld until 2017-01-01
+	PPRO from 2017-01-01 until 2022-09-01
+	Ory Corp from 2022-09-01
+alnutile: alfrednutile!gmail.com, alnutile!users.noreply.github.com
+	Amazon until 2020-01-01
+	Pfizer from 2020-01-01
+alnutile: drnkwati!gmail.com
+	Advania until 2014-04-01
+	Reiknistofa bankanna from 2014-04-01 until 2018-04-01
+	LS Retail from 2018-04-01 until 2018-07-01
+	Genuity Science Inc. from 2018-07-01 until 2019-05-01
+	NetApp from 2019-05-01
+alobbs: alobbs!users.noreply.github.com, alvaro!gnu.org
+	GNU until 2017-06-15
+	Akamai Technologies Inc. from 2017-06-15
+alock: adam-26!users.noreply.github.com, alock!users.noreply.github.com
+	Mesosphere
+aloismayr: aloismayr!users.noreply.github.com
+	Advania until 2014-04-01
+	Reiknistofa bankanna from 2014-04-01 until 2018-04-01
+	LS Retail from 2018-04-01 until 2018-07-01
+	Genuity Science Inc. from 2018-07-01 until 2019-05-01
+	NetApp from 2019-05-01
+alok-samsung: pandey.alok!samsung.com
+	Samsung Electronics Co. Ltd.
 alok15ee: alok15ee!users.noreply.github.com, alokskr.singh!gmail.com
 	Independent until 2018-02-01
 	Mozilla Corporation from 2018-02-01 until 2020-04-01
@@ -1253,6 +1299,11 @@ amkiryushkin: amkiryushkin!users.noreply.github.com
 	Cisco Systems Inc. from 2021-05-01
 amlinux: aml!rulezz.ru, amlinux!users.noreply.github.com
 	Google LLC
+amlozano: amlozano!users.noreply.github.com
+	Ericsson until 2015-11-01
+	SAP from 2015-11-01 until 2019-05-01
+	Volkswagen from 2019-05-01 until 2025-10-01
+	SAP from 2025-10-01
 amluto: luto!kernel.org
 	AMA ARCHITECTS
 amlweems: amlweems!gmail.com
@@ -3460,6 +3511,10 @@ aniketsingh03: aniketsingh.sachan!gmail.com, aniketsingh03!users.noreply.github.
 	Tetrate.io from 2021-12-01
 anikin-aa: anikin-aa!users.noreply.github.com
 	Netcracker Technology Corporation
+anilabhabaral: anilabhabaral!users.noreply.github.com
+	Independent until 2021-06-01
+	Red Hat Inc. from 2021-06-01 until 2025-07-01
+	Confluent from 2025-07-01
 anilarora: anil.arora!oracle.com, anilarora!users.noreply.github.com
 	Oracle America Inc.
 anildhingra: anildhingra!users.noreply.github.com
@@ -6659,6 +6714,8 @@ arnobroekhof: arnobroekhof!gmail.com, arnobroekhof!users.noreply.github.com
 	Politie Nederland from 2018-08-01 until 2018-12-01
 	Port of Rotterdam Authority from 2018-12-01
 arnoldas500: akurbanovas!albany.edu
+	Independent
+arnoldmashava: arnoldmashava!gmail.com
 	Independent
 arnoldrw: arnoldrw!users.noreply.github.com
 	Proctor & Gamble Company
@@ -22738,6 +22795,9 @@ charlesmcchan: charles!opennetworking.org, rascov!gmail.com
 	D-Link Corporation until 2015-09-01
 	ON.Lab from 2015-09-01 until 2016-09-01
 	Open Networking Foundation from 2016-09-01
+charlesmorin: charlesmorin!users.noreply.github.com
+	Independent until 2022-04-01
+	Upgrade Inc. from 2022-04-01
 charlesnagy: charlesnagy!users.noreply.github.com
 	Booking.com B.V. until 2016-03-01
 	Backbase from 2016-03-01 until 2016-11-01
@@ -23625,63 +23685,3 @@ chiehtu: albert.t!inwinstack.com
 	InwinSTACK
 chien-intel: chien.tin.tung!intel.com
 	Intel Corporation
-chifu1234: chifu1234!users.noreply.github.com, kevin.klopfenstein!gmail.com, kk!sudo-i.net
-	Bedag Informatique until 2024-04-01
-	Buzz-IT from 2024-04-01
-chigia001: chigia001!users.noreply.github.com
-	KMS Technology Inc. until 2017-04-01
-	Parcel Perform from 2017-04-01 until 2019-06-01
-	Skedulo from 2019-06-01 until 2022-10-01
-	McKinsey & Company from 2022-10-01
-chih-hung: chh!google.com
-	Google LLC
-chihau: chihau!gmail.com
-	Independent
-chikathreesix: chikathreesix!users.noreply.github.com, ryo!autify.com
-	Viki until 2016-02-01
-	Pixel Eyewear from 2016-02-01 until 2016-09-01
-	Autify from 2016-09-01
-chikei: chikei!gmail.com, chikei!users.noreply.github.com
-	Softnext Technologies
-chilagrow: chilagrow!users.noreply.github.com
-	Independent until 2015-11-01
-	Metail from 2015-11-01 until 2019-08-01
-	Heetch from 2019-08-01 until 2021-12-01
-	Independent from 2021-12-01 until 2022-10-01
-	FerretDB from 2022-10-01 until 2025-10-01
-	Independent from 2025-10-01 until 2025-12-01
-	Solanica from 2025-12-01
-chilcano: chilcano!users.noreply.github.com
-	Capgemini until 2015-09-01
-	Independent from 2015-09-01 until 2015-11-01
-	INTIX from 2015-11-01 until 2016-03-01
-	Barclays from 2016-03-01 until 2017-03-01
-	Independent from 2017-03-01 until 2017-05-01
-	Barclays from 2017-05-01 until 2018-09-01
-	Co-op from 2018-09-01 until 2018-12-01
-	Independent from 2018-12-01 until 2020-06-01
-	ECS from 2020-06-01
-childsb: bchilds!redhat.com, bdc!redhat.com, childsb!users.noreply.github.com
-	Red Hat Inc.
-chilicheech: thiagoo!yahoo-inc.com
-	Yahoo! Inc.
-chillTschill: chillTschill!users.noreply.github.com
-	Bedag
-chillaxd: chdatta!cisco.com, chillaxd!users.noreply.github.com, myself.chiranjit!gmail.com
-	Cisco Systems Inc.
-chiltonj: john.chilton!hitachivantara.com
-	Dell EMC until 2016-07-01
-	Hitachi Vantara LLC from 2016-07-01 until 2021-03-01
-	EDB from 2021-03-01 until 2022-08-01
-	Charles River Development from 2022-08-01
-chiluk: chiluk!users.noreply.github.com
-	Canonical Ltd. until 2017-04-01
-	Indeed Inc. from 2017-04-01
-chimanjain: chimanjain15!gmail.com
-	Independent
-chinaran: chinaran!users.noreply.github.com, gchinaran!gmail.com
-	Independent until 2021-07-01
-	The Walt Disney Company from 2021-07-01 until 2023-07-01
-	Serra from 2023-07-01
-chinazj: chinazj!users.noreply.github.com, jian.zhang!jhlinux.com
-	Independent

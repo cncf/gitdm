@@ -5,6 +5,40 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+Mozilla-GitHub-Standards: Mozilla-GitHub-Standards!users.noreply.github.com
+	(Robots)
+Mpdreamz: Mpdreamz!users.noreply.github.com, ml!elastic.co, mpdreamz!gmail.com
+	Elasticsearch Inc.
+Mr-DG-Wick: Mr-DG-Wick!users.noreply.github.com, deepak.gupta.h401!gmail.com
+	Independent until 2021-09-01
+	Google LLC from 2021-09-01 until 2022-01-01
+	Slik Safe from 2022-01-01
+Mr-Howard-Roark: Mr-Howard-Roark!users.noreply.github.com, mjuster88!gmail.com
+	Fidessa Corporation until 2015-10-01
+	CNA Financial Corporation from 2015-10-01 until 2016-04-01
+	2 Cranes & Sun Inc. from 2016-04-01 until 2017-07-01
+	Nordstrom Trunk Club from 2017-07-01 until 2018-10-01
+	Balyasny Asset Management from 2018-10-01
+Mr-Linus: 708863861!qq.com, Mr-Linus!users.noreply.github.com
+	Twitter Inc. until 2018-01-01
+	Basis AI from 2018-01-01 until 2021-01-01
+	Monk's Hill Ventures from 2021-01-01 until 2023-01-01
+	Aicadium from 2023-01-01
+Mr-Slurpy: Mr-Slurpy!users.noreply.github.com
+	Independent
+Mr-istov: Mr-istov!users.noreply.github.com
+	Independent until 2017-05-01
+	Netcetera from 2017-05-01 until 2017-07-01
+	Independent from 2017-07-01 until 2018-06-01
+	Netcetera from 2018-06-01 until 2018-09-01
+	Independent from 2018-09-01 until 2019-02-01
+	Netcetera from 2019-02-01 until 2019-05-01
+	Independent from 2019-05-01 until 2019-08-01
+	H4 from 2019-08-01
+MrAlias: MrAlias!users.noreply.github.com, codingalias!gmail.com, tyahn!newrelic.com, tyahn!splunk.com
+	Independent until 2019-03-04
+	New Relic Inc. from 2019-03-04 until 2020-02-07
+	Splunk Inc. from 2020-02-07
 MrAmbiG: MrAmbiG!users.noreply.github.com
 	Hewlett until 2014-10-01
 	Dell EMC from 2014-10-01 until 2018-06-01
@@ -602,6 +636,9 @@ NareshKoduru: NareshKoduru!users.noreply.github.com
 	Adobe Inc. from 2018-03-01
 NargiT: NargiT!users.noreply.github.com
 	Swissquote
+Naros: ccranfor!ibm.com
+	Setech until 2016-03-01
+	Red Hat Inc. from 2016-03-01
 Narretz: Narretz!users.noreply.github.com, mjstaffa!gmail.com, mjstaffa!googlemail.com
 	Independent
 Narsail: Narsail!users.noreply.github.com, david.luengo!superawesome.tv
@@ -11907,6 +11944,8 @@ VaibhavPage: VaibhavPage!users.noreply.github.com, vaibhav.page!gmail.com
 	BlackRock Inc. from 2015-05-01 until 2015-07-01
 	Independent from 2015-07-01 until 2016-08-01
 	BlackRock Inc. from 2016-08-01
+Vaishnav88sk: vaishnav88sk!users.noreply.github.com, vaishnavsk8804!gmail.com
+	Independent
 Vaishnavi1411: Vaishnavi1411!users.noreply.github.com
 	Independent until 2022-06-01
 	Virtusa Corporation from 2022-06-01
@@ -23403,6 +23442,11 @@ allevimi: allevimi!users.noreply.github.com
 	NTT DATA
 allex32: alex2789!gmail.com, allex32!users.noreply.github.com
 	NFLabs
+alliasgher: alliasgher!users.noreply.github.com
+	Zumigo until 2015-06-01
+	Sage from 2015-06-01 until 2022-04-01
+	SAP from 2022-04-01 until 2025-02-01
+	o9 Solutions from 2025-02-01
 allingeek: jeff!allingeek.com
 	Amazon until 2014-09-01
 	Independent from 2014-09-01 until 2015-05-01
@@ -23510,49 +23554,3 @@ almightyfoon: almightyfoon!users.noreply.github.com
 	R Systems until 2015-04-01
 	StorageCraft from 2015-04-01 until 2018-03-01
 	Centrify from 2018-03-01
-alml: alml!google.com, alml!users.noreply.github.com
-	Google LLC
-almogtavor: almogtavor!users.noreply.github.com
-	International Business Machines Corporation
-almonteb: almonteb!users.noreply.github.com
-	Hitachi Vantara LLC until 2016-11-01
-	Zillow from 2016-11-01
-almos98: almos98!users.noreply.github.com
-	Advania until 2014-04-01
-	Reiknistofa bankanna from 2014-04-01 until 2018-04-01
-	LS Retail from 2018-04-01 until 2018-07-01
-	Genuity Science Inc. from 2018-07-01 until 2019-05-01
-	NetApp from 2019-05-01
-almostivan: jbaron!akamai.com
-	Akamai Technologies Inc.
-almudenasanz: almudena.sanz!elastic.co, almudenasanz!users.noreply.github.com
-	Independent until 2023-05-03
-	Elasticsearch Inc. from 2023-05-03
-almusil: amusil!redhat.com
-	Red Hat Inc.
-alnr: alnr!users.noreply.github.com
-	Ochsenfeld until 2017-01-01
-	PPRO from 2017-01-01 until 2022-09-01
-	Ory Corp from 2022-09-01
-alnutile: alfrednutile!gmail.com, alnutile!users.noreply.github.com
-	Amazon until 2020-01-01
-	Pfizer from 2020-01-01
-alnutile: drnkwati!gmail.com
-	Advania until 2014-04-01
-	Reiknistofa bankanna from 2014-04-01 until 2018-04-01
-	LS Retail from 2018-04-01 until 2018-07-01
-	Genuity Science Inc. from 2018-07-01 until 2019-05-01
-	NetApp from 2019-05-01
-alobbs: alobbs!users.noreply.github.com, alvaro!gnu.org
-	GNU until 2017-06-15
-	Akamai Technologies Inc. from 2017-06-15
-alock: adam-26!users.noreply.github.com, alock!users.noreply.github.com
-	Mesosphere
-aloismayr: aloismayr!users.noreply.github.com
-	Advania until 2014-04-01
-	Reiknistofa bankanna from 2014-04-01 until 2018-04-01
-	LS Retail from 2018-04-01 until 2018-07-01
-	Genuity Science Inc. from 2018-07-01 until 2019-05-01
-	NetApp from 2019-05-01
-alok-samsung: pandey.alok!samsung.com
-	Samsung Electronics Co. Ltd.
