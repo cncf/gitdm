@@ -21619,13 +21619,8 @@ luna-duclos: luna-duclos!users.noreply.github.com
 	CoreWeave from 2025-05-01
 lunarfs: lunarfs!users.noreply.github.com
 	American Power Conversion
-lunarwhite: dwcn22!outlook.com
-	Independent until 2022-07-01
-	VMware Inc. from 2022-07-01 until 2022-09-01
-	Independent from 2022-09-01 until 2022-12-01
-	SAP from 2022-12-01 until 2023-05-01
-	Independent from 2023-05-01 until 2023-08-01
-	Red Hat Inc. from 2023-08-01
+lunarwhite: lunarwhite!users.noreply.github.com, 57584831+lunarwhite!users.noreply.github.com, dwcn22!outlook.com
+	Independent
 lundbird: lundbird!users.noreply.github.com
 	Independent until 2017-01-01
 	Domtar Inc from 2017-01-01 until 2017-08-01
