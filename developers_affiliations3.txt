@@ -5,6 +5,52 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+allpoints: allpoints!users.noreply.github.com
+	HubSpot Inc. until 2014-03-01
+	Onshape from 2014-03-01 until 2015-05-01
+	MC10 from 2015-05-01 until 2020-07-01
+	NTT Corporation from 2020-07-01 until 2022-07-01
+	Marpin from 2022-07-01
+alltilla: attila.szakacs!axoflow.com
+	Independent until 2017-02-01
+	Ericsson from 2017-02-01 until 2018-11-01
+	One Identity from 2018-11-01 until 2022-08-01
+	Commsignia from 2022-08-01 until 2023-02-01
+	Axoflow from 2023-02-01
+allurisravanth: allurisravanth!users.noreply.github.com
+	Independent until 2017-01-01
+	Accenture Global Solutions Limited from 2017-01-01 until 2019-11-01
+	SAP from 2019-11-01
+allyford: allyford!users.noreply.github.com, ford.99!live.com
+	Microsoft Corporation
+allyishida: allyishida!users.noreply.github.com
+	International Business Machines Corporation
+allymparker: allymparker!users.noreply.github.com
+	Advania until 2014-04-01
+	Reiknistofa bankanna from 2014-04-01 until 2018-04-01
+	LS Retail from 2018-04-01 until 2018-07-01
+	Genuity Science Inc. from 2018-07-01 until 2019-05-01
+	NetApp from 2019-05-01
+almariah: abdullahalmariah!gmail.com, almariah!users.noreply.github.com
+	Mnbaa until 2014-08-15
+	Telecom Egypt from 2014-08-15 until 2016-11-01
+	Cake Solutions from 2016-11-01 until 2017-05-01
+	Smaato from 2017-05-01
+almas33: ahmadalmas.786.aa!gmail.com, almas33!users.noreply.github.com
+	CNCF until 2021-05-01
+	Independent from 2021-05-01 until 2021-06-01
+	Independent from 2021-06-01 until 2023-01-01
+	Una Brands from 2023-01-01 until 2023-06-01
+	Independent from 2023-06-01 until 2023-08-01
+	C-DOT from 2023-08-01
+almen-ng: almen000509!gmail.com
+	Independent until 2019-03-01
+	McMaster Engineers Without Borders from 2019-03-01 until 2020-04-01
+	Independent from 2020-04-01 until 2020-09-01
+	DeltaHacks from 2020-09-01 until 2021-05-01
+	Red Hat Inc. from 2021-05-01
+almereyda: almereyda!users.noreply.github.com, jon!allmende.io
+	allmende
 almerico: almerico!gmail.com, almerico!users.noreply.github.com
 	Luxoft Global Operations GmbH until 2017-04-01
 	Luxoft Global Operations GmbH from 2017-04-01
@@ -349,6 +395,14 @@ alvarolobato: alvarolobato!gmail.com
 	Abengoa until 2016-03-01
 	CloudBees Inc. from 2016-03-01 until 2018-02-01
 	Elasticsearch Inc. from 2018-02-01
+alvarolop: alopezme!redhat.com
+	Independent until 2015-03-01
+	Accenture Global Solutions Limited from 2015-03-01 until 2015-08-01
+	Independent from 2015-08-01 until 2015-12-01
+	Telefonica from 2015-12-01 until 2016-06-01
+	Independent from 2016-06-01 until 2017-06-01
+	Thales from 2017-06-01 until 2017-12-01
+	Red Hat Inc. from 2017-12-01
 alvarosaavedrau: alvarosaavedrau!users.noreply.github.com
 	Independent until 2018-03-01
 	Kapsch from 2018-03-01 until 2018-06-01
@@ -23628,59 +23682,3 @@ chhanz: chhanz!users.noreply.github.com
 	International Business Machines Corporation from 2019-08-01
 chhaosh: 34704048+chhaosh!users.noreply.github.com, chenghao.shi!oracle.com
 	Oracle America Inc.
-chhetripradeep: 30620077+chhetripradeep!users.noreply.github.com, chhetripradeep!users.noreply.github.com, pradeep!stashaway.com
-	StashAway
-chhsia0: chhsia0!users.noreply.github.com, chhsiao!mesosphere.io
-	Mesosphere
-chibicode: shu!chibicode.com
-	EdSurge
-chibuikeIg: paulchibuikeigweze!gmail.com
-	Independent until 2018-07-01
-	Independent from 2018-07-01 until 2019-04-01
-	HNG from 2019-04-01 until 2019-05-01
-	SARU TECH from 2019-05-01 until 2021-01-01
-	Independent from 2021-01-01 until 2021-07-01
-	StoreHux from 2021-07-01 until 2022-09-01
-	Independent from 2022-09-01 until 2023-02-01
-	Flatfeedesign from 2023-02-01 until 2024-01-01
-	Independent from 2024-01-01 until 2024-10-01
-	rb media from 2024-10-01
-chicagozer: chicagozer!users.noreply.github.com, jim!rheosoft.com
-	Xtime until 2021-05-01
-	Cox Automotive from 2021-05-01
-chicco785: chicco785!users.noreply.github.com
-	FBK CREATE-NET until 2015-12-01
-	Martel Innovate from 2015-12-01
-chicks-net: chicks-net!users.noreply.github.com
-	BrightRoll until 2014-10-01
-	Marin from 2014-10-01 until 2015-07-01
-	Uber from 2015-07-01 until 2016-05-01
-	Telmate from 2016-05-01 until 2019-02-01
-	Bastille from 2019-02-01 until 2019-07-01
-	Blueshift from 2019-07-01 until 2020-10-01
-	McD from 2020-10-01 until 2022-01-01
-	Tubi from 2022-01-01
-chicobento: chicobento!users.noreply.github.com, francisco.bento.silva.neto!ericsson.com
-	Ericsson
-chicocvenancio: chicocvenancio!gmail.com, chicocvenancio!users.noreply.github.com
-	VMTECH until 2020-11-01
-	Argyle from 2020-11-01
-chicofranchico: chicofranchico!users.noreply.github.com
-	GetYourGuide until 2014-06-01
-	Unic from 2014-06-01 until 2015-11-01
-	Swisscom from 2015-11-01 until 2016-06-01
-	Teralytics AG from 2016-06-01
-chicoribas: chicoribas!users.noreply.github.com
-	BNE until 2019-11-01
-	Grupo Boticário from 2019-11-01
-chicoxyzzy: chi187!gmail.com, chicoxyzzy!users.noreply.github.com
-	NPTV until 2014-11-01
-	Ex-Ante from 2014-11-01 until 2019-07-01
-	BeerJS Moscow from 2019-07-01
-chief93: chief93!users.noreply.github.com
-	Weekend until 2014-09-01
-	Funway Interactive from 2014-09-01 until 2019-07-01
-	Esempla from 2019-07-01
-chiefkarlin: chiefkarlin!users.noreply.github.com, robv!google.com
-	International Business Machines Corporation until 2018-09-01
-	Google LLC from 2018-09-01

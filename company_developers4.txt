@@ -2,6 +2,20 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+EdgeWorks:
+	nfam: nfam!users.noreply.github.com from 2020-08-01 until 2020-11-01
+Edgecast:
+	SeanKnight: SeanKnight!users.noreply.github.com, git!seanknight.com from 2021-09-01
+Edgecore Network Corporation:
+	EvenChang: rabbid15!hotmail.com from 2019-10-01 until 2021-12-01
+	macauleycheng: macauley_cheng!accton.com, macauleycheng!gmail.com, macauleycheng!users.noreply.github.com
+	tjjh89017: tjjh89017!hotmail.com, tjjh89017!users.noreply.github.com from 2019-05-01 until 2021-12-01
+Edgefolio:
+	bredamatt: bredamatt!users.noreply.github.com until 2014-09-01
+	r3mattia: r3mattia!users.noreply.github.com until 2014-09-01
+Edgegap:
+	eye0fra: mathieu.duperre!gmail.com from 2018-08-01
+	mathieuduperre: mathieu.duperre!gmail.com from 2018-08-01
 Edgeless Systems:
 	derpsteb: derpsteb!users.noreply.github.com from 2022-06-01
 	leongross: leongross!users.noreply.github.com
@@ -220,6 +234,8 @@ Eficode Praqma:
 	sheeeng: lel!praqma.net, leonard.lee!praqma.com, sheeeng!users.noreply.github.com from 2017-01-01
 Efron:
 	stoledano: stoledano!autentia.com until 2014-03-01
+Egan-Jones:
+	mdhender: mdhender!users.noreply.github.com from 2019-10-01 until 2022-04-01
 Egde:
 	runenilsenoe: runen!egdeconsulting.no from 2021-07-01
 Ege Sağlık Vakf:
@@ -525,6 +541,7 @@ Elasticsearch Inc.:
 	jackshirazi: jack.shirazi!elastic.co, jacks!fasterj.com, jackshirazi!users.noreply.github.com
 	jethr0null: jethr0null!users.noreply.github.com, mnikki137!gmail.com from 2018-07-01 until 2023-01-17
 	jlind23: julien.lind!elastic.co, lind23!users.noreply.github.com, vincent.lind!elastic.co, vj.lind!gmail.com
+	jmlrt: jmlrt!users.noreply.github.com from 2019-04-01
 	joecompute: joe.caprino!elastic.co, joecompute!users.noreply.github.com from 2025-05-27
 	jonas: jonas!users.noreply.github.com from 2022-01-09
 	joshdover: joshdover!users.noreply.github.com, joshua.dover!elastic.co, me!joshdover.com
@@ -616,6 +633,7 @@ Elastisys AB:
 	Pradyumnakashyap: pradyumnakas!gmail.com from 2020-09-01
 	Xartos: Xartos!users.noreply.github.com, freddeliv!hotmail.com from 2017-08-01
 	cristiklein: cristiklein!users.noreply.github.com from 2017-12-01
+	davidumea: david.andersson!elastisys.com, davidumea!users.noreply.github.com
 	lentzi90: lennart.jern!gmail.com, lentzi90!users.noreply.github.com from 2017-06-01 until 2021-05-17
 	llarsson: llarsson!users.noreply.github.com from 2018-03-01 until 2019-01-01
 	mikejoh: mik.json!gmail.com, mikejoh!users.noreply.github.com from 2021-08-01 until 2022-03-01
@@ -2383,6 +2401,7 @@ Equal Experts:
 	pedroresende: pedroresende!users.noreply.github.com from 2020-12-01 until 2021-10-01
 	prashantkalkar: prashantkalkar!users.noreply.github.com until 2019-06-01
 	stuartgunter: stuartgunter!users.noreply.github.com from 2018-04-01 until 2019-04-01
+	webvictim: github!webvictim.net, webvictim!users.noreply.github.com from 2016-09-01 until 2018-03-01
 Equal Experts\:
 	andrewshawcare: andrewshawcare!users.noreply.github.com from 2021-07-01
 Equaleyes:
@@ -4465,6 +4484,7 @@ F-Secure Cyber Security (Pty) Ltd):
 	eoftedal: eoftedal!users.noreply.github.com from 2015-05-01 until 2016-03-01
 	freetom: tomasbortoli!gmail.com from 2018-11-01
 	ibbadhafeez: ibbadhafeez!users.noreply.github.com from 2017-12-01 until 2020-09-01
+	ishani2412: ishani2412!users.noreply.github.com from 2022-08-01 until 2023-07-01
 	juissi-t: juissi-t!users.noreply.github.com until 2016-11-01
 	lauriholmas: lauriholmas!users.noreply.github.com until 2014-12-01
 	oliora: oliora!gmail.com until 2014-03-01
@@ -4874,6 +4894,8 @@ FLÅM GUIDE SERVICE Rune Tokvam:
 	jaxels10: jaxels10!users.noreply.github.com from 2015-04-01 until 2017-02-01
 FM Global:
 	conradj3: conradj3!users.noreply.github.com
+FM:Systems:
+	jgiardino: jgiardino!users.noreply.github.com until 2016-07-01
 FMC:
 	jcountsNR: jcountsNR!users.noreply.github.com until 2016-12-01
 FMC Technologies:
@@ -4897,6 +4919,7 @@ FNT:
 	m-no-2017: m-no-2017!users.noreply.github.com, manuel.novak!fntsoftware.com from 2017-02-01 until 2020-03-01
 FNZ:
 	kmmanto: kmmanto!users.noreply.github.com from 2022-04-01
+	msillence: msillence!users.noreply.github.com
 	rdhar: rdhar!users.noreply.github.com from 2019-11-01 until 2021-11-01
 FOD Economie:
 	cblomart: cblomart!users.noreply.github.com from 2018-12-01 until 2020-02-01
@@ -9003,6 +9026,7 @@ Fujitsu Limited:
 	mohclips: mohclips!users.noreply.github.com until 2022-05-01
 	muddydixon: muddydixon!gmail.com, muddydixon!users.noreply.github.com until 2017-06-01
 	mwilck: mwilck!arcor.de, mwilck!suse.com until 2016-01-01
+	naosekine: naosekine!users.noreply.github.com until 2024-02-01
 	naota: naohiro.aota!wdc.com, naota!elisp.net from 2014-03-01 until 2014-10-01
 	natarajan0007: natarajan0007!users.noreply.github.com, natarajan28311782!gmail.com from 2018-09-01 until 2019-11-01
 	ntk148v: kiennt2609!gmail.com, ntk148v!gmail.com, ntk148v!users.noreply.github.com from 2017-06-01 until 2018-03-01
@@ -9881,6 +9905,7 @@ GFI Software:
 	georgevella: georgevella!users.noreply.github.com until 2015-12-01
 GFT:
 	a10pepo: a10pepo!users.noreply.github.com until 2022-10-01
+	claudiohs-inditex: claudiohs-inditex!users.noreply.github.com from 2017-10-01 until 2018-10-01, from 2020-08-01
 	domderen: domderen!users.noreply.github.com from 2015-01-01 until 2015-03-01
 	pmendelski: mendelski.pawel!gmail.com, pmendelski!users.noreply.github.com from 2016-03-01 until 2016-08-01
 	pseymournutanix: paul.seymour!nutanix.com, pseymournutanix!users.noreply.github.com from 2020-07-01 until 2021-12-01
@@ -9924,6 +9949,8 @@ GHGSat:
 	ntdt: alois.cochard!gmail.com, loureirorg!gmail.com, nguyenduytho!gmail.com, ntdt!users.noreply.github.com from 2020-08-01
 GHSix:
 	EthraZa: EthraZa!users.noreply.github.com, ethraza!gmail.com
+GIAL:
+	kvanbrabant: kvanbrabant!users.noreply.github.com until 2019-02-01
 GIASSA.NET:
 	Dev0Null: Dev0Null!users.noreply.github.com, matthew!giassa.net until 2016-06-01
 GIC:
@@ -11820,6 +11847,7 @@ GirlScript Foundation:
 	1Shubham7: 1Shubham7!users.noreply.github.com from 2023-05-01 until 2023-08-01
 	ADITYADAS1999: ADITYADAS1999!users.noreply.github.com from 2022-03-01
 	Abinash-bit: Abinash-bit!users.noreply.github.com from 2022-11-01 until 2023-01-01
+	AdityaTeltia: AdityaTeltia!users.noreply.github.com from 2021-02-01 until 2021-05-01
 	Aman-Codes: Aman-Codes!users.noreply.github.com from 2020-03-01 until 2020-05-01
 	AmanSarraf: AmanSarraf!users.noreply.github.com from 2022-04-01 until 2022-05-01
 	Amishakumari544: Amishakumari544!users.noreply.github.com, amishakumari544!gmail.com from 2021-08-01 until 2021-08-15
@@ -12574,6 +12602,7 @@ Globant LLC:
 	mgdevstack: 8110509+mgdevstack!users.noreply.github.com, mgdevstack!users.noreply.github.com from 2017-09-01 until 2019-12-01
 	mlpaucara: mlpaucara!users.noreply.github.com from 2019-12-01 until 2021-07-01
 	pablobastidasv: pablobastidasv!gmail.com from 2015-07-01 until 2016-10-01
+	pabloromeo: pabloromeo!users.noreply.github.com until 2018-01-01
 	phelinor: gera.glez!gmail.com from 2019-11-01
 	pontiyaraja: pandiyaraja.r!globant.com, pontiyaraja!users.noreply.github.com, ramamoorthypandiyaraja!gmail.com from 2018-08-01 until 2019-07-01
 	pranavpandit1: pranavpandit1!users.noreply.github.com from 2021-05-01 until 2021-10-01
