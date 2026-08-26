@@ -20799,13 +20799,15 @@ eniomachado: eniomachado!users.noreply.github.com, eniomachadod!gmail.com
 	ORAEX from 2019-02-01
 enis: enis!apache.org, enis!hortonworks.com, enis!users.noreply.github.com
 	Cloudera Inc.
-enisoc: enisoc!enisoc.dev, enisoc!google.com, enisoc!planetscale.com, enisoc!users.noreply.github.com
+enisoc: enisoc!enisoc.dev, enisoc!google.com, enisoc!planetscale.com, enisoc!users.noreply.github.com, ayeh!paloaltonetworks.com
 	YouTube until 2016-10-01
-	Google LLC from 2016-10-01 until 2019-03-01
-	PlanetScale from 2019-03-01 until 2021-04-01
+	Google LLC from 2016-10-01 until 2019-04-01
+	PlanetScale from 2019-04-01 until 2021-04-01
 	Signadot from 2021-04-01 until 2022-09-01
 	Chronosphere Inc. from 2022-09-01 until 2023-06-01
-	Logits from 2023-06-01
+	Independent from 2023-06-01 until 2024-04-01
+	Chronosphere Inc. from 2024-04-01 until 2026-01-29
+	Palo Alto Networks from 2026-01-29
 enisoc-bot: enisoc!google.com
 	YouTube until 2016-10-01
 	Google LLC from 2016-10-01 until 2019-03-01
