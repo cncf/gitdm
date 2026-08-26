@@ -2978,6 +2978,7 @@ codeblooded: codeblooded!users.noreply.github.com
 codeboten: 223565+codeboten!users.noreply.github.com, alrex.boten!gmail.com, codeboten!users.noreply.github.com
 	LightStep Inc. until 2024-02-16
 	Hound Technology Inc. dba Honeycomb from 2024-02-16 until 2026-07-17
+	Independent from 2026-07-17 until 2026-08-04
 	Grafana Labs from 2026-08-04
 codebutler: eric!codebutler.com
 	Uber until 2017-09-01
@@ -20810,8 +20811,13 @@ enisoc: enisoc!enisoc.dev, enisoc!google.com, enisoc!planetscale.com, enisoc!use
 	Palo Alto Networks from 2026-01-29
 enisoc-bot: enisoc!google.com
 	YouTube until 2016-10-01
-	Google LLC from 2016-10-01 until 2019-03-01
-	PlanetScale from 2019-03-01
+	Google LLC from 2016-10-01 until 2019-04-01
+	PlanetScale from 2019-04-01 until 2021-04-01
+	Signadot from 2021-04-01 until 2022-09-01
+	Chronosphere Inc. from 2022-09-01 until 2023-06-01
+	Independent from 2023-06-01 until 2024-04-01
+	Chronosphere Inc. from 2024-04-01 until 2026-01-29
+	Palo Alto Networks from 2026-01-29
 enj: enj!users.noreply.github.com, i!monis.app, mkhan!redhat.com, mok!microsoft.com, mok!vmware.com, monis!redhat.com
 	Red Hat Inc. until 2019-11-04
 	VMware Inc. from 2019-11-04 until 2022-08-08
