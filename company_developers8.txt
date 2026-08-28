@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+LiveStories:
+	xinbinhuang: xinbinhuang!users.noreply.github.com from 2019-01-01 until 2019-04-01
+LiveStyle:
+	robmadole: robmadole!gmail.com, robmadole!users.noreply.github.com until 2014-08-01
 LiveTex:
 	asakaev: akhtyam.sakaev!gmail.com, asakaev!users.noreply.github.com from 2015-04-01 until 2017-08-01
 LiveTiles:
@@ -782,9 +786,6 @@ Loylty Rewardz:
 	santoshyadav198613: santosh.yadav198613!gmail.com, santoshyadav198613!users.noreply.github.com until 2016-03-01
 Loyo:
 	wahyd4: wahyd4!gmail.com, wahyd4!users.noreply.github.com from 2016-01-01 until 2016-07-01
-Ltd.:
-	LJTian: LJTian!users.noreply.github.com, tianlijun315!gmail.com
-	shixiuguo: shixiuguo!users.noreply.github.com
 Lua:
 	bealesh: david!beale.sh from 2018-02-01 until 2019-01-01
 Luasity:
@@ -2917,6 +2918,7 @@ Magnite:
 Magnitude Software:
 	11fenil11: 11fenil11!users.noreply.github.com from 2021-02-01 until 2021-11-01
 Magnolia:
+	dohoangkhiem: dohoangkhiem!gmail.com, dohoangkhiem!users.noreply.github.com from 2023-04-01
 	elohmrow: elohmrow!users.noreply.github.com from 2015-10-01 until 2019-09-01, from 2021-02-01 until 2022-01-01
 Magnus Deininger:
 	machineperson: machineperson!users.noreply.github.com, nadja!ef.gy
@@ -3257,8 +3259,9 @@ Mall Ops:
 MallGroup:
 	ReLium: jurij.kaminskij!gmail.com from 2018-08-01 until 2022-07-01
 	TomasKohout: TomasKohout!users.noreply.github.com, tomas.kohout1995!gmail.com from 2020-11-01
-	mishak87: ardentpark!outlook.com, atulbz90!gmail.com, mishak!mishak.net, mishak87!users.noreply.github.com
 	waldauf: waldauf!users.noreply.github.com, wwwaldauf!gmail.com from 2018-11-01
+MallGroup a.s.:
+	mishak87: ardentpark!outlook.com, atulbz90!gmail.com, mishak!mishak.net, mishak87!users.noreply.github.com
 Mallet:
 	CosimoMatassini: CosimoMatassini!users.noreply.github.com from 2021-11-01
 Mallzee:
@@ -3567,6 +3570,7 @@ MapLarge:
 	jshin47: jshin47!users.noreply.github.com from 2017-08-01 until 2022-06-01
 MapQuest:
 	85matthew: 85matthew!users.noreply.github.com from 2016-02-01 until 2017-04-01
+	coyote240: coyote240!users.noreply.github.com until 2015-08-01
 	rhyas: github!coronastreet.net, rhyas!users.noreply.github.com, sysop!scream.com from 2016-05-01 until 2017-07-01
 	sfjava: sfjava!users.noreply.github.com from 2017-05-01 until 2019-01-01
 MapR:
@@ -7044,6 +7048,8 @@ Metroline:
 	braydonk: braydonk!users.noreply.github.com from 2018-08-01 until 2019-09-01
 Metromile:
 	sanathkr: sanathkr!amazon.com until 2014-06-01
+Metron Aviation:
+	ChrisPaul33: ChrisPaul33!users.noreply.github.com from 2024-02-01 until 2024-06-01
 Metronome Systems:
 	starkpister: starkpister!users.noreply.github.com until 2014-04-01
 Metropia:
@@ -13549,7 +13555,6 @@ NTT Corporation:
 	ivardu: ivardu!users.noreply.github.com from 2018-02-01 until 2021-11-01
 	jryberg: johan!securit.se, jryberg!users.noreply.github.com
 	k-nishimoto: nishimoto!opennetworking.org until 2018-04-01
-	kanlkan: kanlkan!users.noreply.github.com, kanlkan.naklnak!gmail.com from 2100-01-01
 	kazum: ayush-_-singh!live.com, morita.kazutaka!gmail.com, wayo.cavazos!gmail.com
 	konis: konishi.ryusuke!lab.ntt.co.jp
 	ktock: ktock!users.noreply.github.com, ktokunaga.mail!gmail.com from 2018-03-01
@@ -13577,6 +13582,8 @@ NTT Corporation:
 	yamada-h: yamada.hideki!lab.ntt.co.jp
 	yomaytk: yomaytk!users.noreply.github.com, yoshimura.masashi.frbs!gmail.com
 	yudai: yudai!arielworks.com, yudai!users.noreply.github.com, yudai.iwasaki!ntti3.com
+NTT Corporation Inc.:
+	kanlkan: kanlkan!users.noreply.github.com, kanlkan.naklnak!gmail.com
 NTT DAT:
 	nicmr: 81moni1bif!hft-stuttgart.de, nicmr!users.noreply.github.com from 2019-03-01 until 2019-08-01
 NTT DATA:

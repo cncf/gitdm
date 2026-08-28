@@ -5864,6 +5864,7 @@ Interswitch:
 	startnow65: startnow65!gmail.com, startnow65!users.noreply.github.com from 2015-05-01 until 2018-07-01
 	zaycodes: abuzain1995!gmail.com, zaycodes!users.noreply.github.com from 2020-03-01 until 2021-09-01
 Interswitch Group:
+	demola09: demola09!users.noreply.github.com from 2019-10-01
 	didicodes: didicodes!users.noreply.github.com from 2019-04-01 until 2020-06-01
 Intertec:
 	Exodus: Exodus!users.noreply.github.com, miguel.alvarado!gorillalogic.com from 2015-06-01 until 2017-07-01
@@ -8058,6 +8059,7 @@ Jimboy's:
 Jimdo GmbH:
 	AmitKumarDas: AmitKumarDas!users.noreply.github.com, amit.das!cloudbyte.com, amit.das!mayadata.io, amit.das!openebs.io from 2021-07-04 until 2022-07-04
 	Bonko: Bonko!users.noreply.github.com, bonko!jimdo.com
+	Chimney42: Chimney42!users.noreply.github.com, draggili!gmail.com from 2015-09-01 until 2016-11-01
 	Luzifer: Luzifer!users.noreply.github.com, github-pub!luzifer.io until 2017-06-01
 	TalalMahmoodChaudhry: TalalMahmoodChaudhry!users.noreply.github.com from 2016-07-01 until 2018-10-01
 	bracki: bracki!users.noreply.github.com, jan.brauer!jimdo.com, jan.brauer!superluminar.io
@@ -8923,7 +8925,7 @@ KAI Square:
 KAISER+KRAFT:
 	chkpnt: chkpnt!users.noreply.github.com, dschung!cs.uni-kl.de from 2020-03-01 until 2020-06-01
 KAIST:
-	hodduc: hodduc!hodduc.net, hodduc!users.noreply.github.com from 2100-01-01
+	hodduc: hodduc!hodduc.net, hodduc!users.noreply.github.com
 	mosfet1kg: mosfet1kg!users.noreply.github.com
 	tpaschalis: paschalis.tsilias!grafana.com, paschalist0!gmail.com, tpaschalis!users.noreply.github.com from 2016-07-01 until 2016-08-01
 KAIST GSIS:
@@ -12146,6 +12148,8 @@ Kubernetes Innovation:
 	olensmar: ole!lensmar.com, olensmar!users.noreply.github.com from 2021-04-01
 Kubernetes Pilot:
 	yifan-gu-anchorage: yifan-gu-anchorage!users.noreply.github.com from 2018-10-01 until 2022-02-01
+Kuberoke:
+	Chimney42: Chimney42!users.noreply.github.com, draggili!gmail.com from 2025-06-01 until 2026-06-01
 Kubeshop:
 	TheBrunoLopes: TheBrunoLopes!users.noreply.github.com from 2021-12-01
 	cesarlbf: cesar.ibm.campus!gmail.com, cesarlbf!users.noreply.github.com from 2022-06-01
@@ -12466,7 +12470,7 @@ L.S:
 L1NDA Connect BV:
 	flmmartins: flmmartins!gmail.com, flmmartins!users.noreply.github.com from 2018-09-01
 	hayzer: hayzer!users.noreply.github.com from 2018-05-01 until 2018-09-01
-	opthomas-prime: contact!thomas-maier.net from 2018-05-01 until 2018-09-01, from 2018-09-01 until 2018-09-01
+	opthomas-prime: contact!thomas-maier.net from 2018-05-01 until 2018-09-01
 L2:
 	mtbdeano: mtbdeano!users.noreply.github.com from 2014-07-01 until 2017-01-01
 L3 Software Technology:
@@ -12774,6 +12778,7 @@ LINE Corporation:
 	11janci: 11janci!seznam.cz, 11janci!users.noreply.github.com from 2019-11-01
 	KMilhan: KMilhan!users.noreply.github.com, kimmilhan!gmail.com from 2019-07-01 until 2020-07-01
 	KeisukeYamashita: 19yamashita15!gmail.com, KeisukeYamashita!users.noreply.github.com from 2017-08-01 until 2017-09-01
+	Shikugawa: R.shimizu100202.sush!gmail.com, Shikugawa!users.noreply.github.com from 2022-04-01 until 2023-10-01
 	bang9211: bang9211!users.noreply.github.com, gksdudxkr!gmail.com from 2022-01-01
 	ebyhr: ebyhr!users.noreply.github.com, ebyhry!gmail.com from 2018-11-01 until 2019-01-01
 	hichihara: hichihara!users.noreply.github.com, ichihara.hirofumi!gmail.com from 2018-11-01
@@ -12781,8 +12786,6 @@ LINE Corporation:
 	koki-sato: koki-sato!users.noreply.github.com from 2018-01-01 until 2018-04-01
 	sett4: sett4!users.noreply.github.com from 2015-03-01
 	suzuki-shunsuke: suzuki-shunsuke!users.noreply.github.com, suzuki.shunsuke.1989!gmail.com from 2017-03-01 until 2019-09-01
-LINE Corporation until 2023-10-01:
-	Shikugawa: R.shimizu100202.sush!gmail.com, Shikugawa!users.noreply.github.com from 2022-04-01
 LINE Fukuoka:
 	tkengo: embrace.ddd.flake.peace!gmail.com, tkengo!users.noreply.github.com
 	zeronone: majafer10!gmail.com, me!arifrezai.com, zeronone!users.noreply.github.com from 2018-02-01
@@ -13108,7 +13111,7 @@ LXQt:
 	paulolieuthier: paulolieuthier!users.noreply.github.com until 2016-04-01
 LY Corporation:
 	Asuforce: Asuforce!users.noreply.github.com, owata.sn!gmail.com, shun.nishitsuji!lycorp.co.jp from 2024-11-01
-	Shikugawa: R.shimizu100202.sush!gmail.com, Shikugawa!users.noreply.github.com from 2100-01-01
+	Shikugawa: R.shimizu100202.sush!gmail.com, Shikugawa!users.noreply.github.com from 2023-10-01
 	ciffelia: ciffelia!users.noreply.github.com from 2025-07-01 until 2025-09-01
 	everpeace: everpeace!gmail.com, everpeace!users.noreply.github.com, omura!preferred.jp, somura!lycorp.co.jp from 2024-11-01
 	musaprg: inoue.kotaro!linecorp.com, inoue.kotaro!lycorp.co.jp, k.musaino!gmail.com, mail!mssn.dev, musaprg!amazon.co.jp, musaprg!amazon.com, musaprg!users.noreply.github.com from 2023-10-01 until 2025-10-01
@@ -15956,7 +15959,3 @@ LiveRoute:
 	ssabih: sabih.saeed!microsoft.com, ssabih!users.noreply.github.com until 2015-02-01
 LiveRun:
 	joaocarvalhowd: joaocarvalhowd!users.noreply.github.com from 2018-10-01 until 2018-12-01
-LiveStories:
-	xinbinhuang: xinbinhuang!users.noreply.github.com from 2019-01-01 until 2019-04-01
-LiveStyle:
-	robmadole: robmadole!gmail.com, robmadole!users.noreply.github.com until 2014-08-01

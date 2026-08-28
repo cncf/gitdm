@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Quantic Telecom:
+	baptiste-dauphin: baptiste-dauphin!users.noreply.github.com, baptistedauphin!protonmail.com from 2017-02-01 until 2018-01-01
 QuanticMind:
 	85matthew: 85matthew!users.noreply.github.com from 2017-04-01 until 2017-05-01, from 2017-05-01 until 2018-06-01
 	gonrial: gonrial!users.noreply.github.com from 2018-05-01 until 2019-11-01
@@ -1260,6 +1262,7 @@ Rabble:
 	micke: hi!micke.me, micke!users.noreply.github.com until 2018-09-01
 Rabobank:
 	1aziz: 1aziz!users.noreply.github.com from 2019-07-01 until 2020-04-01
+	Chimney42: Chimney42!users.noreply.github.com, draggili!gmail.com from 2026-06-01
 	EvertonSA: EvertonSA!users.noreply.github.com from 2024-07-01
 	F3licity: eftychiathomaidou!gmail.com from 2018-08-01 until 2019-05-01
 	NigelVanHattum: NigelVanHattum!users.noreply.github.com from 2024-12-01
@@ -2547,6 +2550,7 @@ Ready Set:
 ReadyTalk:
 	LucioFranco: LucioFranco!users.noreply.github.com from 2016-06-01 until 2016-08-01
 	blimmer: ben!benlimmer.com, ben!ibotta.com, blimmer!users.noreply.github.com, hello!benlimmer.com until 2014-03-01
+	coyote240: coyote240!users.noreply.github.com from 2017-10-01 until 2020-01-01
 	dansomething: dansomething!users.noreply.github.com until 2016-06-01
 	dicej: dicej!users.noreply.github.com, joel.dice!gmail.com until 2015-01-01
 	ebelisle: ebelisle!users.noreply.github.com from 2016-03-01 until 2018-10-01
@@ -3001,6 +3005,7 @@ Red Hat Inc.:
 	Elbehery: Elbehery!users.noreply.github.com, melbeher!redhat.com
 	ElijahCaine: ElijahCaine!users.noreply.github.com, elijah.caine!coreos.com, elijahcainemv!gmail.com, voigte!osuosl.org
 	ElioLopez: ElioLopez!users.noreply.github.com from 2015-12-01 until 2017-09-01
+	Elkasitu: Elkasitu!users.noreply.github.com from 2025-05-01
 	EmilienM: EmilienM!users.noreply.github.com
 	EmilyM1: EmilyM1!users.noreply.github.com
 	EranIsraeli: EranIsraeli!users.noreply.github.com from 2021-01-01
@@ -7519,6 +7524,7 @@ Revolt:
 Revolt Games:
 	nwmqpa: thomas.nicollet!nebulis.io from 2020-03-01 until 2020-07-01
 Revolut:
+	Elkasitu: Elkasitu!users.noreply.github.com from 2024-09-01 until 2025-05-01
 	JPedro2: JPedro2!users.noreply.github.com from 2016-02-01 until 2016-07-01
 	allnightlong: allnightlong!allnightlong.ru from 2022-03-01
 	c00ler: c00ler!users.noreply.github.com from 2019-10-01 until 2020-12-01
@@ -7549,6 +7555,8 @@ Revterra:
 	NeoKish: NeoKish!users.noreply.github.com from 2019-08-01 until 2019-11-01
 Rewardly Inc.:
 	erikmunson: emunson!netflix.com, erik!ipsumcreative.com, zentus!cimantra.com from 2017-01-01
+Rex Consulting:
+	ChrisPaul33: ChrisPaul33!users.noreply.github.com from 2024-06-01
 Rex Direct Net:
 	mrthinger: mrthinger!users.noreply.github.com from 2018-12-01 until 2020-09-01
 Rex Three:
@@ -8285,6 +8293,7 @@ Rocana:
 Roch:
 	vasily-codefresh: vasily-codefresh!users.noreply.github.com until 2015-01-01
 Roche:
+	ChrisPaul33: ChrisPaul33!users.noreply.github.com from 2023-10-01 until 2024-02-01
 	KarolKraskiewicz: KarolKraskiewicz!users.noreply.github.com, karol.kraskiewicz!gmail.com until 2017-09-01
 	NikolaLohinski: NikolaLohinski!users.noreply.github.com from 2015-07-01 until 2015-08-01
 	Phantomape: cxucheng!outlook.com from 2017-04-01 until 2017-11-01
@@ -8806,8 +8815,8 @@ Rowan-Salisbury:
 	trutled3: trutled3!users.noreply.github.com from 2015-07-01 until 2015-08-01
 Rowl:
 	etsuo: etsuo!users.noreply.github.com, jp!poveda.net until 2014-09-01
-Rowland Institute:
-	AlanStern: stern!rowland.harvard.edu from 2100-01-01
+Rowland Institute Harvard University:
+	AlanStern: stern!rowland.harvard.edu
 Rowm:
 	Inlustra: Inlustra!users.noreply.github.com from 2021-01-01
 Rownd:
@@ -15879,17 +15888,3 @@ Seven Bridges:
 	vandot: vandot!users.noreply.github.com from 2015-01-01 until 2017-11-01
 Seven Eighths:
 	DomFleischmann: DomFleischmann!users.noreply.github.com from 2017-08-01 until 2018-05-01
-Seven Minds:
-	mironov: mironov!users.noreply.github.com
-Seven Networks:
-	bguiz: bguiz!users.noreply.github.com from 2016-06-01 until 2017-07-01
-Seven Senders:
-	FeltrinN: FeltrinN!users.noreply.github.com from 2018-09-01 until 2020-09-01
-Seven Stars:
-	RJvH: RJvH!users.noreply.github.com until 2015-01-01
-Seven.One:
-	birapjr: birapjr!users.noreply.github.com from 2018-09-01 until 2021-10-01
-SevenD:
-	robinschneider: robinschneider!users.noreply.github.com from 2020-09-01 until 2021-03-01
-Seventy Seven Energy:
-	ammills01: ammills01!gmail.com, ammills01!users.noreply.github.com from 2015-04-01 until 2015-12-01
