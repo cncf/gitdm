@@ -5,6 +5,42 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+fabboe: fabboe!users.noreply.github.com
+	HackZurich until 2015-04-01
+	Teralytics AG from 2015-04-01 until 2019-02-01
+	Independent from 2019-02-01 until 2019-07-01
+	Autonomous Intelligent Driving from 2019-07-01 until 2020-05-01
+	Argo AI LLC from 2020-05-01 until 2020-07-01
+	Independent from 2020-07-01 until 2020-10-01
+	Kognic from 2020-10-01
+fabdouglas: fabrice.daugan!gmail.com
+	DGFIP until 2018-12-01
+	Independent from 2018-12-01
+faberge-eggs: faberge-eggs!users.noreply.github.com
+	Idinaidi
+fabianallendorf: fabian.allendorf!node.energy
+	Independent until 2018-03-01
+	node.energy from 2018-03-01
+fabianbaier: fabianbaier!users.noreply.github.com, me!fabianbaier.io
+	Baier Multi-Hosting until 2015-07-01
+	Onsite at Fortune from 2015-07-01 until 2015-09-01
+	Mesosphere from 2015-09-01 until 2019-08-01
+	D2iQ Inc. (f/k/a Mesosphere) from 2019-08-01 until 2019-12-01
+	Freenome from 2019-12-01
+fabiand: fabian.deutsch!gmx.de, fabiand!fedoraproject.org, fabiand!redhat.com, fabiand!users.noreply.github.com, fdeutsch!redhat.com
+	Red Hat Inc.
+fabianfrederick: fabf!skynet.be
+	Telefonica Movistar
+fabianmet: fabianmet!users.noreply.github.com
+	Sue B.V. until 2015-07-01
+	Beslist.nl from 2015-07-01 until 2016-05-01
+	CRV from 2016-05-01 until 2017-01-01
+	IceMobile Agency B.V. from 2017-01-01 until 2017-07-01
+	Schuberg Philis from 2017-07-01 until 2020-02-01
+	de Volksbank from 2020-02-01 until 2021-04-01
+	Fullstaq from 2021-04-01
+fabianofranz: contact!fabianofranz.com, fabianofranz!users.noreply.github.com, ffranz!redhat.com
+	Red Hat Inc.
 fabianrbz: fabianrbz!gmail.com
 	WyeWorks until 2014-09-01
 	Paragon Labs from 2014-09-01 until 2017-12-01
@@ -166,6 +202,15 @@ fadeltd: fadeltd!hotmail.com, fadeltd!users.noreply.github.com
 	Bukalapak from 2018-06-01
 fadesiderio: fadesiderio!users.noreply.github.com
 	CONECEL
+faebr: faebr!users.noreply.github.com
+	Independent until 2017-03-01
+	Shoppingzeit Gutschein Finder from 2017-03-01 until 2017-06-01
+	ennos ag from 2017-06-01 until 2017-08-01
+	EPFL from 2017-08-01 until 2018-02-01
+	Swisscom from 2018-02-01 until 2019-08-01
+	ennos ag from 2019-08-01 until 2019-10-01
+	Semtech from 2019-10-01 until 2024-01-01
+	Swisscom from 2024-01-01
 faec: fae.charlton!elastic.co, faec!users.noreply.github.com
 	Elasticsearch Inc.
 fafg: fafg!users.noreply.github.com
@@ -3078,6 +3123,8 @@ francois-travais: francois-travais!users.noreply.github.com, francois.travais!gm
 	Eniram Oy until 2017-04-01
 	NL Acoustics from 2017-04-01 until 2017-10-01
 	1Tipi2Bicycles from 2017-10-01
+francoisdeturenne: francoisdeturenne!users.noreply.github.com
+	Orange SA
 francoism90: francoism90!users.noreply.github.com
 	Esaote until 2014-07-01
 	Independent from 2014-07-01 until 2015-09-01
@@ -3311,6 +3358,8 @@ freddy33: freddy33!users.noreply.github.com
 	JFrog
 freddy77: freddy77!gmail.com, frediano.ziglio!citrix.com
 	Citrix Systems Inc.
+frederic-loui: frederic-loui!users.noreply.github.com
+	RENATER
 frederich: frederich!users.noreply.github.com, jfrederich!gmail.com
 	Independent
 frederick0329: frederick0329!users.noreply.github.com
@@ -11304,6 +11353,10 @@ hansonw: hansonw!users.noreply.github.com
 	Meta Platforms Inc.
 hanstest: hanstest!163.com
 	NetEase Inc
+hansthienpondt: hansthienpondt!users.noreply.github.com
+	Telenet until 2015-11-01
+	Amazon from 2015-11-01 until 2017-05-01
+	Nokia Corporation from 2017-05-01
 hantaowang: hantaowang!users.noreply.github.com, hww!google.com
 	Independent until 2017-09-01
 	Berkeleytime LLC from 2017-09-01 until 2019-05-01
@@ -18392,8 +18445,8 @@ isaaguilar: isa!aguilarstory.com, isaaguilar!users.noreply.github.com
 isaced: isaced!163.com, mmeister!suse.de
 	NetEase Inc
 isadominguez314: 113560565+isadominguez314!users.noreply.github.com, isadominguez!google.com
-      Independent until 2026-07-01
-      Google LLC from 2026-07-01
+	Independent until 2026-07-01
+	Google LLC from 2026-07-01
 isaias: Marek.Pieta!nordicsemi.no, isaias!users.noreply.github.com, isaias.barroso!gmail.com, raduamarie!softbinator.ro
 	ABRACCINTI until 2014-10-01
 	Independent from 2014-10-01 until 2015-10-01
@@ -23767,6 +23820,8 @@ jerbob92: jerbob92!users.noreply.github.com
 	Klippa
 jerdfelt: johannes!erdfelt.com
 	Rackspace
+jerem0808: jerem0808!users.noreply.github.com
+	Swisscom
 jeremejevs: jeremejevs!users.noreply.github.com, olegs!jeremejevs.com
 	Auzom
 jeremiaswerner: jeremias.werner!gmail.com, jerewern!de.ibm.com
@@ -23777,63 +23832,3 @@ jeremievallee: jeremievallee!users.noreply.github.com
 	EditorEye until 2016-10-01
 	Babylon Partners Ltd from 2016-10-01 until 2020-05-01
 	Duo Security from 2020-05-01
-jeremy-albinet: jeremy-albinet!users.noreply.github.com
-	Claranet France until 2016-08-01
-	Netvibes from 2016-08-01 until 2017-10-01
-	Scaleway from 2017-10-01 until 2020-02-01
-	Domingo from 2020-02-01 until 2021-07-01
-	Brainboard from 2021-07-01
-jeremy-e-mills: jeremy-e-mills!users.noreply.github.com
-	CommScope Inc. until 2016-12-01
-	Remsdaq from 2016-12-01
-jeremybbrown: jeremy.b.brown2!hpe.com
-	HP Inc.
-jeremych1000: jeremych!outlook.com, jeremych1000!users.noreply.github.com
-	HKT until 2014-08-01
-	Independent from 2014-08-01 until 2015-07-01
-	Altera from 2015-07-01 until 2015-09-01
-	Independent from 2015-09-01 until 2016-06-01
-	Intel Corporation from 2016-06-01 until 2016-09-01
-	Independent from 2016-09-01 until 2017-07-01
-	Afiniti from 2017-07-01 until 2017-09-01
-	Accenture Global Solutions Limited from 2017-09-01 until 2020-01-01
-	OakNorth from 2020-01-01 until 2021-03-01
-	Millennium Management LLC from 2021-03-01
-jeremychase: jeremy.chase!gmail.com
-	Gawker until 2015-11-01
-	Wenner Media from 2015-11-01 until 2018-05-01
-	lamp from 2018-05-01 until 2020-08-01
-	Independent from 2020-08-01 until 2022-06-01
-	Buoyant Inc. from 2022-06-01
-jeremychauvet: jeremychauvet!users.noreply.github.com
-	Multitoll until 2015-08-01
-	Independent from 2015-08-01 until 2017-02-01
-	Capgemini from 2017-02-01 until 2021-04-01
-	Inetum from 2021-04-01 until 2021-06-01
-	Jellysmack from 2021-06-01 until 2022-06-01
-	AWS from 2022-06-01 until 2022-07-01
-	Allianz Deutschland AG from 2022-07-01 until 2024-11-01
-	HashiCorp Inc from 2024-11-01 until 2025-03-01
-	TotalEnergies from 2025-03-01
-jeremycline: ademir!spidersofthouse.com, jcline!redhat.com, jeremy!jcline.org
-	Red Hat Inc.
-jeremyd: jeremyd!users.noreply.github.com, jeremydeininger!gmail.com
-	Lookout Inc until 2014-12-01
-	Independent from 2014-12-01 until 2015-06-01
-	Coinbase Inc. from 2015-06-01 until 2016-05-01
-	Independent from 2016-05-01 until 2016-10-01
-	Checkr from 2016-10-01
-jeremydvoss: jeremydvoss!users.noreply.github.com
-	Independent until 2016-06-01
-	Independent from 2016-06-01 until 2017-07-01
-	Descartes Systems from 2017-07-01 until 2017-08-01
-	Independent from 2017-08-01 until 2019-06-01
-	OpenMarket from 2019-06-01 until 2019-09-01
-	Independent from 2019-09-01 until 2020-09-01
-	AWS from 2020-09-01 until 2022-05-01
-	Microsoft Corporation from 2022-05-01
-jeremyeder: jeder!redhat.com, jeremyeder!users.noreply.github.com
-	Red Hat Inc.
-jeremygovi: jeremygovi!users.noreply.github.com
-	TheFork until 2021-03-01
-	OpenClassrooms from 2021-03-01

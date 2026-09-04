@@ -2,6 +2,27 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Quantcast Corporation:
+	ValFadeev: ValFadeev!users.noreply.github.com, fadeevvalentin!gmail.com from 2017-07-01 until 2018-07-01
+	andredasilvapinto: andredasilvapinto!users.noreply.github.com from 2018-11-01 until 2020-11-01
+	autocracy: autocracy!users.noreply.github.com, jeff!storyinmemo.com from 2016-03-01 until 2019-08-01
+	cwoerner: cwoerner!users.noreply.github.com until 2019-01-01
+	gkze: george.kontridze!gmail.com, gkze!users.noreply.github.com from 2015-08-01 until 2016-05-01
+	mbeitchman: mbeitchman!users.noreply.github.com from 2018-03-01 until 2019-02-01
+	noahgoldman: noah!phaaze.com from 2015-06-01 until 2015-08-01, from 2016-06-01
+	paulrevere4: paulrevere4!users.noreply.github.com from 2016-06-01 until 2016-08-01, from 2017-06-01
+	stevvooe: stephen.day!docker.com, stephen.day!getcruise.com, stevvooe!gmail.com, stevvooe!users.noreply.github.com until 2014-11-15
+	u-quark: u-quark!users.noreply.github.com until 2014-09-01
+	uablrek: lars.g.ekman!est.tech, uablrek!users.noreply.github.com until 2014-09-01
+	ublubu: ublubu!users.noreply.github.com until 2014-09-01
+	udzura: udzura!users.noreply.github.com until 2014-09-01
+	zhiyanfoo: zhiyanfoo!users.noreply.github.com from 2017-03-01 until 2017-07-01
+Quantcast Internship:
+	thedtripp: thedtripp!users.noreply.github.com from 2021-07-01 until 2021-10-01
+Quantel:
+	arpitBhalla: arpitBhalla!users.noreply.github.com from 2020-12-01 until 2021-03-01
+Quantemplate:
+	jarimatti: jarimatti!me.com, jarimatti!users.noreply.github.com from 2019-04-01
 Quantenna Communications Inc:
 	Sheph: Sheph!users.noreply.github.com from 2016-09-01 until 2017-07-01
 	dlebed: dlebed!quantenna.com, lebed.dmitry!gmail.com from 2015-12-01
@@ -635,6 +656,7 @@ R2 Semiconductor:
 	Mike-Landers: Mike-Landers!users.noreply.github.com until 2015-01-01
 R2Devops:
 	AlexandreBrg: burgoni!pm.me from 2020-10-01 until 2022-07-01
+	thomasboni: thomas!r2devops.io, thomasboni!users.noreply.github.com from 2022-06-01 until 2025-12-01
 R2M Mexico:
 	albertorm95: albertorm95!users.noreply.github.com from 2015-02-01 until 2015-06-01
 R2Tech:
@@ -893,6 +915,9 @@ RENAPS:
 	louisfelix: louisfelix!gmail.com, louisfelix!users.noreply.github.com until 2014-04-01
 RENAPSI:
 	paulozava: paulozava!users.noreply.github.com from 2018-07-01 until 2019-04-01
+RENATER:
+	frederic-loui: frederic-loui!users.noreply.github.com
+	melheithem: elhaithem.mohammedi!gmail.com from 2023-09-01
 RENDO-Groep:
 	AlbertWillemsen-Centric: AlbertWillemsen-Centric!users.noreply.github.com, albert.willemsen!centric.eu from 2016-03-01 until 2016-05-01
 REOL Services:
@@ -3224,6 +3249,7 @@ Red Hat Inc.:
 	SelenaChen123: SelenaChen123!users.noreply.github.com from 2022-05-01
 	Senjuti256: Senjuti256!users.noreply.github.com from 2023-01-01 until 2024-08-01
 	Seraf: Seraf!users.noreply.github.com until 2015-07-01
+	Sgitario: Sgitario!users.noreply.github.com from 2020-01-01
 	ShazaAldawamneh: ShazaAldawamneh!users.noreply.github.com from 2023-02-01
 	ShellyKa13: ShellyKa13!users.noreply.github.com from 2021-01-01
 	SherinV: shvarugh!redhat.com from 2018-06-01
@@ -3241,6 +3267,7 @@ Red Hat Inc.:
 	Srivaralakshmi: srr!redhat.com from 2021-01-01
 	StacyCannon: stcannon!redhat.com from 2020-03-01
 	SteveMattar: Steve.Mattar!Gmail.com, SteveMattar!users.noreply.github.com from 2020-04-01
+	Stringls: Stringls!users.noreply.github.com from 2025-02-01
 	StykMartin: StykMartin!users.noreply.github.com from 2018-10-01
 	T0MASD: T0MASD!users.noreply.github.com, tomas.it!gmail.com until 2018-10-01, from 2021-04-01
 	Tal-or: Tal-or!users.noreply.github.com, titzhak!redhat.com from 2021-01-01
@@ -5460,6 +5487,7 @@ Red Hat Inc.:
 	rgormley: rgormley!users.noreply.github.com, robert!gormley.me from 2023-08-01 until 2023-12-01
 	rh-hemartin: rh-hemartin!users.noreply.github.com from 2021-06-01
 	rh-iatanaso: rh-iatanaso!users.noreply.github.com from 2017-10-01
+	rh-rahulshetty: rh-rahulshetty!users.noreply.github.com from 2024-02-01
 	rh-tguittet: rh-tguittet!users.noreply.github.com from 2021-06-01
 	rh-ulrich-o: uobergfe!redhat.com
 	rhamilto: rhamilto!redhat.com, rhamilto!users.noreply.github.com
@@ -9831,6 +9859,7 @@ SAP:
 	suhuruli: suhuruli!users.noreply.github.com until 2014-08-01
 	suleymanakbas91: ehalpern!quip.com, suleymanakbas91!gmail.com, suleymanakbas91!users.noreply.github.com, vyshnavkr!gmail.com
 	suukit: suukit!users.noreply.github.com from 2020-10-01
+	syurevich: syurevich!users.noreply.github.com from 2018-03-01
 	tapaswenipathak: tapaswenipathak!gmail.com from 2015-01-01 until 2018-01-01
 	tareksamni: tarek.samni!gmail.com, tareksamni!users.noreply.github.com from 2016-05-01 until 2017-12-01
 	tareqhs: tareq.sha!gmail.com, tareq.sharafy!sap.com, tareqhs!users.noreply.github.com
@@ -10430,6 +10459,8 @@ SHARE NOW GmbH:
 	amalkurup89: amalkurup89!users.noreply.github.com from 2019-07-01
 SHAREIGHT:
 	mattiasarro: mattiasarro!users.noreply.github.com from 2017-12-01 until 2018-11-01
+SHAREit:
+	Pradumnasaraf: Pradumnasaraf!users.noreply.github.com, pradumnasaraf!gmail.com from 2016-06-01 until 2019-01-01
 SHAW Video On Demand:
 	twk-b: bernie!dcbl.ca, twk-b!users.noreply.github.com until 2016-08-01
 SHE:
@@ -14940,6 +14971,7 @@ SecuritySide:
 Securonix:
 	AJEETRAI707: AJEETRAI707!users.noreply.github.com from 2021-01-01 until 2023-05-01
 	Yadumathur: Yadumathur!users.noreply.github.com from 2016-10-01 until 2017-10-01
+	vigneshashokan: vigneshashokan!users.noreply.github.com until 2019-06-01
 Securr:
 	kirtanchandak: kirtanchandak!users.noreply.github.com from 2023-04-01
 Sed:
@@ -15293,6 +15325,7 @@ Semrush:
 	ozerovandrei: andrei.ozerov92!gmail.com, ozerovandrei!users.noreply.github.com from 2020-09-01 until 2021-12-01
 Semtech:
 	dylanhart: dylanhart!users.noreply.github.com from 2017-07-01 until 2018-09-01
+	faebr: faebr!users.noreply.github.com from 2019-10-01 until 2024-01-01
 Semusi:
 	yashaswi2000: yashaswi.makula!gmail.com, yashaswi2000!users.noreply.github.com from 2020-05-01 until 2020-07-01
 Semut:
@@ -15754,6 +15787,8 @@ Service layer:
 	marcostvz: marcos.stvz!gmail.com, marcostvz!users.noreply.github.com from 2018-09-01
 Service-Bund:
 	megastef: githoniel88!gmail.com, github!bigdata-analyst.de, megastef!users.noreply.github.com, s.thies!bigdata-analyst.de from 2020-03-01
+ServiceHub:
+	serg-bs: serg-bs!users.noreply.github.com, serg-bs!yandex.ru from 2018-12-01 until 2021-12-01
 ServiceLaunch:
 	lelandsindttouchnet: 45494740+lelandsindttouchnet!users.noreply.github.com, lelandsindttouchnet!users.noreply.github.com from 2022-01-01
 ServiceMax:
@@ -15787,6 +15822,7 @@ ServiceNow:
 	munjal-patel: munjal-patel!users.noreply.github.com from 2017-03-01
 	munjalpatel: munjalpatel!users.noreply.github.com from 2017-03-01
 	pravinpushkar: pravin7007!gmail.com, pravinpushkar!users.noreply.github.com from 2020-10-01 until 2021-12-01
+	ratripathi: ratripathi!users.noreply.github.com from 2025-01-01
 	ravibeta: ravibeta!hotmail.com from 2020-09-01
 	roger-rainey: roger-rainey!users.noreply.github.com from 2020-01-01
 	salonigoyal2309: salonigoyal2309!gmail.com, salonigoyal2309!users.noreply.github.com from 2023-06-01 until 2024-08-01
@@ -15846,45 +15882,3 @@ Servoy:
 	stefan-chivu: stefan-chivu!users.noreply.github.com from 2024-01-01
 Servpac:
 	komljen: alen.komljen!live.com, komljen!users.noreply.github.com until 2016-06-01
-Sesame:
-	Guyzeroth: Guyzeroth!users.noreply.github.com from 2018-08-01
-	lolletsoc: lolletsoc!users.noreply.github.com, nripendra.newa!gmail.com from 2018-09-01
-	markusjevringsesame: markusjevringsesame!users.noreply.github.com from 2019-10-01
-SessionM Inc:
-	mansikulkarni96: mankulka!redhat.com, mansikulkarni96!users.noreply.github.com from 2018-06-01 until 2018-12-01
-	nfuden: nfuden!users.noreply.github.com from 2019-06-01 until 2021-10-01
-Sessionbird:
-	chris-rock: chris!lollyrock.com, chris-rock!users.noreply.github.com until 2015-03-15
-Set Solutions:
-	kennyparsons: kennyparsons!users.noreply.github.com from 2018-11-01 until 2021-04-01, from 2022-09-01 until 2023-05-01
-SetOps:
-	Shark: Shark!users.noreply.github.com from 2021-04-01
-SetPay:
-	carlossg: carlos!apache.org, carlossg!users.noreply.github.com, csanchez!maestrodev.com, github!carlossanchez.eu from 2015-10-01 until 2018-03-01
-	raul-arabaolaza: rarabaolaza!cloudbees.com, raul.arabaolaza!gmail.com from 2014-12-01 until 2016-05-01
-SetSight:
-	calebTree: ande4905!gmail.com from 2022-10-01
-Seta Beauty:
-	damianobarbati: damiano.barbati!gmail.com, damianobarbati!users.noreply.github.com from 2015-09-01 until 2016-01-01
-Setec:
-	DeclanTraill: DeclanTraill!users.noreply.github.com from 2017-04-01
-	nixward: nix.ward!gmail.com, nixward!users.noreply.github.com from 2015-09-01
-	nwsetec: nick.ward!setec.com.au, nwsetec!users.noreply.github.com from 2015-09-01
-Setech:
-	Naros: ccranfor!ibm.com until 2016-03-01
-Setel:
-	muhammadn: muhammad!taqisystems.com from 2021-03-01
-SetelHellas:
-	agelosnm: agelosnm!users.noreply.github.com, angelosnaoum!gmail.com from 2019-05-01 until 2020-08-01
-Setfil Water:
-	hainenber: hainenber!users.noreply.github.com from 2018-08-01 until 2020-03-01
-Seth Miller Building:
-	iamseth: iamseth!users.noreply.github.com, seth!sethmiller.me
-Setipe:
-	alileza: alileza!users.noreply.github.com, alirezayahya!gmail.com until 2016-02-01
-Sette:
-	zhiyanfoo: zhiyanfoo!users.noreply.github.com from 2019-01-01 until 2019-04-01
-Setton Consulting:
-	tristanm-cisco: tristanm-cisco!users.noreply.github.com from 2023-12-01
-Setu:
-	sayanibhattacharjee: qwerty.sayani!gmail.com, sayanibhattacharjee!users.noreply.github.com from 2020-07-01
