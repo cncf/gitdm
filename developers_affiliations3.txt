@@ -5,6 +5,27 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+alinskens: alinskens!users.noreply.github.com
+	BuildCentral until 2014-09-01
+	Independent from 2014-09-01 until 2016-07-01
+	GTG Consultants from 2016-07-01 until 2020-01-01
+	EPAM Systems Inc from 2020-01-01 until 2020-04-01
+	Independent from 2020-04-01 until 2020-06-01
+	CAN Softtech from 2020-06-01 until 2020-09-01
+	NSONE Inc. from 2020-09-01 until 2022-05-01
+	Sonatype Inc. from 2022-05-01
+aliok: aliok!apache.org, aliok!redhat.com, aliok!users.noreply.github.com
+	Red Hat Inc.
+alirajabi: alirajabi!users.noreply.github.com
+	Independent until 2015-08-01
+	Cafe Bazaar from 2015-08-01
+alireza-esmaeeli: alireza-esmaeeli!users.noreply.github.com
+	Telecommunication
+alirezaDavid: alireza.david22!gmail.com, alirezaDavid!users.noreply.github.com
+	LinkIT
+alirezamirian: alireza.mirian!gmail.com, alirezamirian!users.noreply.github.com
+	Hasin Group until 2017-03-01
+	Raya Navid from 2017-03-01
 alirezazamani: alirezazamani!users.noreply.github.com
 	Independent until 2019-06-01
 	LinkedIn from 2019-06-01 until 2021-10-01
@@ -8468,6 +8489,7 @@ ashishsangwan2: ashishsangwan2!gmail.com
 	MapR Technologies from 2015-09-01 until 2018-05-01
 	Nutanix Inc. from 2018-05-01
 ashishsinghnr: 167757488+ashishsinghnr!users.noreply.github.com
+	Independent until 2024-04-22
 	New Relic Inc. from 2024-04-22
 ashishtilara: ashishtilara!users.noreply.github.com
 	PMI until 2017-05-01
@@ -10834,9 +10856,9 @@ ayodelespencer: ayodelespencer!users.noreply.github.com
 	Whatadeal Africa from 2023-07-01 until 2023-10-01
 	Information from 2023-10-01 until 2025-02-01
 	Health Research Authority from 2025-02-01
-ayoisaiah: ayisaiah!gmail.com, ayo!freshman.tech, ayooluwa.isaiah!dash0.com, ayo!betterstack.com, ayoisaiah!users.noreply.github.com
-	Independent 2022-01-17
-	BetterStack from 2022-01-18 until 2025-04-28
+ayoisaiah: ayisaiah!gmail.com, ayo!betterstack.com, ayo!freshman.tech, ayoisaiah!users.noreply.github.com, ayooluwa.isaiah!dash0.com
+	Independent until 2022-01-17
+	BetterStack from 2022-01-17 until 2025-04-28
 	Independent from 2025-04-28 until 2025-05-05
 	Dash0 Inc. from 2025-05-05
 ayoubbensakhria: ayoubbensakhria!users.noreply.github.com
@@ -12300,7 +12322,7 @@ bausmeier: bausmeier!users.noreply.github.com
 bautrey37: brandon.c.autrey!gmail.com
 	Independent until 2021-07-01
 	Glia from 2021-07-01
-bavarianbidi: bavarianbidi!users.noreply.github.com, github!constanti.de, marioc!giantswarm.io, mario.constanti!daimler.com, mario.constanti!mercedes-benz.com, mario!constanti.de
+bavarianbidi: bavarianbidi!users.noreply.github.com, github!constanti.de, mario!constanti.de, mario.constanti!daimler.com, mario.constanti!mercedes-benz.com, marioc!giantswarm.io
 	Independent until 2015-08-01
 	Mercedes-Benz AG from 2015-08-01 until 2022-04-01
 	Giant Swarm GmbH from 2022-04-01 until 2023-07-01
@@ -14782,7 +14804,8 @@ bidipeppercrap: bidipeppercrap!users.noreply.github.com
 	bidipeppercrap
 big-henry: henry!bigtera.com, henry_chang!bigtera.com
 	Bigtera
-big-kahuna-burger: 11753867+big-kahuna-burger!users.noreply.github.com, arandjel.sarenac!dash0.com
+big-kahuna-burger: 11753867+big-kahuna-burger!users.noreply.github.com, arandjel!kahunahub.com, arandjel.sarenac!dash0.com, big-kahuna-burger!users.noreply.github.com
+	Independent until 2026-06-22
 	Dash0 Inc. from 2026-06-22
 bigLucas: bigLucas!users.noreply.github.com
 	Steintec Automação until 2016-11-01
@@ -17568,7 +17591,7 @@ branch-predictor: branch-predictor!users.noreply.github.com, ceph!predictor.org.
 brancz: brancz!users.noreply.github.com, fbranczyk!gmail.com
 	Wimdu until 2016-07-01
 	Red Hat Inc. from 2016-07-01 until 2020-08-31
-	Dash0 from 2020-08-31
+	Dash0 Inc. from 2020-08-31
 brandon-bethke-neudesic: brandon-bethke-neudesic!users.noreply.github.com, brandon.bethke!neudesic.com
 	Neudesic LLC
 brandon-dacrib: brandon!dacrib.net, brandon-dacrib!users.noreply.github.com
@@ -23660,45 +23683,3 @@ cheld: cheld!users.noreply.github.com, christoph.held!est.fujitsu.com, christoph
 	Fujitsu Limited until 2018-03-01
 	NTT DATA DACH from 2018-03-01 until 2021-11-01
 	Allianz Deutschland AG from 2021-11-01
-chelseychen: chelseychen!users.noreply.github.com
-	Independent until 2015-05-01
-	Home Trust from 2015-05-01 until 2015-08-01
-	Independent from 2015-08-01 until 2016-01-01
-	TrustPoint from 2016-01-01 until 2016-04-01
-	Independent from 2016-04-01 until 2016-09-01
-	International Business Machines Corporation from 2016-09-01 until 2017-04-01
-	Independent from 2017-04-01 until 2018-01-01
-	LinkedIn Corporation from 2018-01-01 until 2018-04-01
-	Independent from 2018-04-01 until 2018-11-01
-	Google LLC from 2018-11-01
-chelsiocrypto: atul.gupta!chelsio.com
-	Chelsio Communications
-chelsiocudbg: rahul.lakkireddy!chelsio.com
-	Chelsio Communications
-chemag: chema!google.com
-	Google LLC
-chembu: chembu!users.noreply.github.com, psreep!gmail.com
-	Google LLC until 2014-05-01
-	eBay Inc. from 2014-05-01 until 2015-08-01
-	Independent from 2015-08-01 until 2015-10-01
-	Google LLC from 2015-10-01 until 2017-10-01
-	Apple Inc. from 2017-10-01
-chemicL: chemicL!users.noreply.github.com, dariusz.jedrzejczyk!gmail.com
-	Last.fm until 2014-08-01
-	Big Data Partnership from 2014-08-01 until 2015-07-01
-	Allegro.pl sp. z o.o. from 2015-07-01
-chemidy: chemidy!users.noreply.github.com, cyrille.hemidy!gmail.com
-	LivingPackets
-chemikadze: chemikadze!gmail.com, chemikadze!users.noreply.github.com
-	Qubell until 2015-12-01
-	Grid Dynamics from 2015-12-01 until 2019-05-01
-	Google LLC from 2019-05-01
-chen-anders: chen-anders!users.noreply.github.com
-	Ooyala until 2015-03-01
-	Wistia from 2015-03-01
-chen-keinan: chen-keinan!users.noreply.github.com, hen.keinan!gmail.com
-	Avaya Inc. until 2014-11-01
-	JFrog from 2014-11-01 until 2020-04-01
-	AppsFlyer from 2020-04-01 until 2021-04-01
-	Snyk from 2021-04-01 until 2022-01-01
-	Aqua from 2022-01-01

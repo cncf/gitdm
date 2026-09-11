@@ -1945,6 +1945,7 @@ Instana Inc.:
 	basti1302: basti1302!users.noreply.github.com, bastian.krol!dash0.com, bastian.krol!ibm.com, bastian.krol!instana.com, bastian.krol!web.de from 2018-01-01 until 2021-12-01
 	bripkens: ben.blackmore!dash0.com, ben.blackmore!instana.com, ben.blackmore!steadybit.com, ben.ripkens!codecentric.de, ben.ripkens!instana.com, bripkens!gmail.com, bripkens!users.noreply.github.com, bripkens.dev!gmail.com from 2015-07-01 until 2022-01-01
 	cedricziel: cedric!cedric-ziel.com, cedric.ziel!gmail.com, cedric.ziel!grafana.com, cedric.ziel!ibm.com, cedric.ziel!instana.com, cedricziel!users.noreply.github.com, mail!cedric-ziel.com from 2018-10-31 until 2022-01-01
+	codepitbull: codepitbull!users.noreply.github.com, pflanzenmoerder!web.de from 2018-06-30 until 2021-09-30
 	dlbock: 149529+dlbock!users.noreply.github.com, dlbock!users.noreply.github.com from 2018-12-01
 	dusansusic: dsn.ssc!gmail.com, dusan.susic!gmail.com, dusan.susic!instana.com, dusansusic!users.noreply.github.com from 2018-05-01
 	fstab: fabian!fstab.de, fabian!prometheus.io, fabian.staeber!grafana.com, fstab!users.noreply.github.com from 2019-01-01 until 2022-01-01
@@ -3778,6 +3779,7 @@ International Business Machines Corporation:
 	Govinda-Fichtner: Govinda-Fichtner!users.noreply.github.com, govinda.fichtner!googlemail.com from 2018-09-01 until 2019-12-01
 	GregHanson: GregHanson!users.noreply.github.com, adrian!obel.me, gihanson!us.ibm.com, gregory.hanson!solo.io from 2013-06-03 until 2022-03-21
 	GunaKKIBM: GunaKKIBM!users.noreply.github.com
+	HOEBOER: HOEBOER!users.noreply.github.com
 	HSBawa: hsbawa!users.noreply.github.com from 2015-08-01
 	Hachimaki: Hachimaki!users.noreply.github.com from 2017-05-01 until 2017-08-01, from 2018-09-01
 	HackToday: HackToday!users.noreply.github.com, wkq5325!gmail.com
@@ -4736,6 +4738,7 @@ International Business Machines Corporation:
 	jonnylangefeld: jonnylangefeld!users.noreply.github.com until 2017-03-01
 	jonpspri: jonpspri!gmail.com from 2014-08-01
 	jordemort: jordan!jordemort.dev until 2015-12-01
+	joscherrer: joscherrer!users.noreply.github.com from 2022-03-01 until 2025-01-01
 	josecv: jose!autonomic.ai, jose.cortesvarela!mail.utoronto.ca, josecv!users.noreply.github.com until 2015-08-01, from 2016-09-01 until 2018-01-01
 	josephglaspie: josephglaspie!users.noreply.github.com until 2015-03-01
 	joshisa: joshisa!us.ibm.com, joshisa!users.noreply.github.com
@@ -5367,6 +5370,7 @@ International Business Machines Corporation:
 	seabaylea: baileyc!uk.ibm.com, seabaylea!users.noreply.github.com
 	seanyoung: mohamed.mohamed!safarifoneict.com, sean!mess.org, sean.young!monax.io until 2018-03-01
 	seaunderwater: seaunderwater!users.noreply.github.com from 2015-05-01 until 2015-08-01, from 2016-06-01 until 2016-12-01
+	seb-pereira: seb-pereira!users.noreply.github.com
 	seblaz: sebastian.blazquez96!gmail.com, seblaz!users.noreply.github.com from 2018-08-01 until 2020-01-01
 	sebott: sebott!linux.ibm.com
 	sectorsize512: tarasov!vasily.name
@@ -7380,6 +7384,7 @@ JPMorganChase:
 	ipolyzos: ipolyzos!users.noreply.github.com until 2017-02-01
 	johnsonaj: johnsonaj!users.noreply.github.com from 2021-02-01 until 2022-01-01
 	nilakshi104: nilakshi104!users.noreply.github.com from 2021-05-01 until 2025-01-01
+	pumpkin-eater-69: pumpkin-eater-69!users.noreply.github.com from 2024-06-01
 	rcskosir: rcskosir!users.noreply.github.com from 2020-07-01 until 2020-08-01, from 2021-06-01 until 2023-04-01
 	salmanrafique-soloio: salmanrafique-soloio!users.noreply.github.com until 2014-03-01
 	sivakku: sivakk!gmail.com, sivakku!users.noreply.github.com until 2015-05-01
@@ -7463,6 +7468,7 @@ JULIAN:
 JUMBO:
 	michaelharrigan: michaelharrigan!users.noreply.github.com from 2020-03-01 until 2023-07-01
 JUMO:
+	coetzeevs: coetzeevs!users.noreply.github.com from 2015-12-01 until 2016-10-01
 	komuW: komuW!users.noreply.github.com from 2015-03-01
 	thehunt33r: hello!matthieu-antoine.me from 2019-11-01
 JUMO.WORLD:
@@ -8542,6 +8548,8 @@ Jumbo:
 	bpinto: bpinto!users.noreply.github.com, brunoferreirapinto!gmail.com from 2022-01-01 until 2022-02-01
 	d23: d23!users.noreply.github.com from 2019-01-01
 	tonejito: tonejito!users.noreply.github.com from 2019-01-01 until 2020-05-01
+Jumbo Mana:
+	joscherrer: joscherrer!users.noreply.github.com from 2025-01-01 until 2025-11-01
 Jumbo Privacy:
 	davidweissler: davidweissler!users.noreply.github.com from 2019-10-01 until 2023-07-01
 Jumbo Supermarkten:
@@ -11184,6 +11192,7 @@ Klarna's:
 Klarrio BV:
 	RoelVanNyen: RoelVanNyen!users.noreply.github.com, roel.vannyen!gmail.com from 2017-01-01
 	TomBillietKlarrio: TomBillietKlarrio!users.noreply.github.com, tom.billiet!klarrio.com from 2020-04-01
+	domsj: domsj!users.noreply.github.com from 2021-09-01 until 2022-10-01
 	nvanrymenant: nvanrymenant!users.noreply.github.com from 2018-11-01
 	rgruchalski-klarrio: rgruchalski-klarrio!users.noreply.github.com from 2019-04-01
 	svyotov: 29090864+svyotov!users.noreply.github.com, svyotov!users.noreply.github.com from 2017-04-01 until 2019-04-01
@@ -11591,6 +11600,7 @@ Kollective:
 	Aaron-ML: Aaron-ML!users.noreply.github.com, github!alucas.me from 2018-04-01
 	AlexDHoffer: AlexDHoffer!users.noreply.github.com, alexdchoffer!gmail.com from 2019-09-01
 	gparton: gparton!users.noreply.github.com from 2018-05-01 until 2018-09-01
+	ikstewa: ikstewa!users.noreply.github.com from 2020-04-01
 Kollekt:
 	boedy: boedy!users.noreply.github.com
 Kollmorgen:
@@ -12028,6 +12038,8 @@ Krungthai-AXA Life Insurance PCL:
 	bprager: bernd!prager.ws from 2019-07-01 until 2020-09-01
 Krupczak Consulting:
 	mkrupczak3: mkrupczak3!users.noreply.github.com until 2015-05-01
+Kruso:
+	cthtrifork: cthtrifork!users.noreply.github.com from 2016-01-01 until 2019-11-01
 Krux Digital:
 	jgreens: jgreens!users.noreply.github.com from 2015-05-01 until 2018-05-01
 	khhirani: khhirani!users.noreply.github.com from 2016-05-01 until 2016-08-01
@@ -12078,6 +12090,7 @@ KubeDB:
 	pkbhowmick: pkbhowmick!users.noreply.github.com, pkbhowmick007!gmail.com from 2020-11-01 until 2023-03-01
 KubeDB by AppsCode:
 	Superm4n97: Superm4n97!users.noreply.github.com from 2022-06-01
+	kamolhasan: kamolhasan!users.noreply.github.com, kamolhasan383!gmail.com from 2018-12-01 until 2022-09-01
 KubeHuddle:
 	rawkode: david!rawkode.com, david!rawkode.dev, david.andrew.mckay!gmail.com, rawkode!users.noreply.github.com from 2022-04-01
 	thebarshablog: thebarshablog!gmail.com from 2023-04-01 until 2023-05-01
@@ -12351,7 +12364,7 @@ Kvalitetskontroll AS:
 Kvantum:
 	anuragsachdeva28: anurag.sach28!gmail.com, anuragsachdeva28!users.noreply.github.com from 2021-02-01 until 2021-03-01
 Kvist:
-	FredrikAugust: FredrikAugust!users.noreply.github.com, mail.fredrikaugust!gmail.com from 2023-03-01
+	FredrikAugust: FredrikAugust!users.noreply.github.com, mail.fredrikaugust!gmail.com from 2023-03-01 until 2026-01-01
 Kvist Analytics:
 	kvedes: kvedes!users.noreply.github.com from 2022-10-01 until 2022-11-01
 Kwai:
@@ -14854,6 +14867,7 @@ Lichess Org:
 	isaacl: isaac.r.levy!gmail.com, isaacl!users.noreply.github.com from 2017-01-01
 Licious:
 	arshadkazmi42: arshadkazmi42!gmail.com, arshadkazmi42!users.noreply.github.com from 2016-02-01 until 2018-01-01
+	kumud-hs: kumud-hs!users.noreply.github.com from 2020-02-01 until 2022-01-01
 Lickity:
 	rathpc: rathpc!users.noreply.github.com, steven!rathpc.com from 2014-03-01 until 2015-04-01
 Lidl:
@@ -15044,7 +15058,7 @@ LightStep Inc.:
 	joeblubaugh: joe!lightstep.com, joeblubaugh!users.noreply.github.com from 2016-11-01 until 2022-03-01
 	kristinapathak: kristinapathak!users.noreply.github.com from 2022-06-01
 	mwear: matthew.wear!gmail.com, mwear!users.noreply.github.com from 2019-09-27 until 2026-06-03
-	ocelotl: ocelotl!users.noreply.github.com
+	ocelotl: 5069942+ocelotl!users.noreply.github.com, ocelotl!users.noreply.github.com until 2024-09-30
 	piu28: piu28!users.noreply.github.com, pritianka!gmail.com
 	pritianka: pritianka!gmail.com, pritianka!users.noreply.github.com
 	robswhitmore: 50384513+robswhitmore!users.noreply.github.com, robswhitmore!users.noreply.github.com from 2019-03-01
@@ -15949,5 +15963,3 @@ LiveNeighborly:
 	damianobarbati: damiano.barbati!gmail.com, damianobarbati!users.noreply.github.com from 2016-05-01 until 2016-10-01
 LiveOps:
 	jwitko: jason!witkow.ski, jwitko!users.noreply.github.com until 2016-03-01
-LiveOutThere:
-	TylerGillson: TylerGillson!users.noreply.github.com until 2014-07-01

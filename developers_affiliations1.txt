@@ -8829,6 +8829,10 @@ CrowdHailer: CrowdHailer!users.noreply.github.com
 	Independent from 2016-10-01 until 2017-01-01
 	ching from 2017-01-01 until 2022-08-01
 	Northvolt from 2022-08-01
+CrowdSalat: CrowdSalat!users.noreply.github.com
+	HDI until 2019-06-01
+	Independent from 2019-06-01 until 2024-07-01
+	Red Hat Inc. from 2024-07-01
 Croydon: Croydon!users.noreply.github.com, hi!cr0ydon.com
 	Salt Search Ltd.
 Crusty82: Crusty82!users.noreply.github.com, rothoerl!in.tum.de
@@ -13164,6 +13168,9 @@ GDvalle: GDvalle!users.noreply.github.com
 	LeadPages
 GFilipek: GFilipek!users.noreply.github.com, gfilipek!google.com
 	Google LLC
+GFriedrich: GFriedrich!users.noreply.github.com
+	Webfleet until 2021-07-01
+	GRID esports from 2021-07-01
 GHF: xo!geekshavefeelings.com, xow!google.com
 	Google LLC
 GJKrupa: GJKrupa!users.noreply.github.com
@@ -14387,6 +14394,8 @@ HM-8: hiwotmedhings!gmail.com
 	Independent from 2022-03-01 until 2022-08-01
 	Udacity Inc. from 2022-08-01 until 2022-11-01
 	Independent from 2022-11-01
+HOEBOER: HOEBOER!users.noreply.github.com
+	International Business Machines Corporation
 HOSTED-POWER: HOSTED-POWER!users.noreply.github.com
 	B
 HP-Nunes: HP-Nunes!users.noreply.github.com
@@ -16149,6 +16158,11 @@ Izzette: Izzette!users.noreply.github.com
 	Doctolib from 2021-01-01 until 2022-08-01
 	Independent from 2022-08-01 until 2022-11-01
 	BACK MARKET Inc. from 2022-11-01
+J-Harmson: J-Harmson!users.noreply.github.com
+	Independent until 2021-09-01
+	Slimming World from 2021-09-01 until 2025-12-01
+	Altrad from 2025-12-01 until 2026-06-01
+	Specsavers from 2026-06-01
 J-Liu: proljc!gmail.com
 	Hewlett
 J-Swift: J-Swift!users.noreply.github.com
@@ -17628,6 +17642,8 @@ Jinchul81: Jinchul81!users.noreply.github.com
 	SAP until 2017-02-01
 	SK Telecom from 2017-02-01 until 2018-02-01
 	Apache from 2018-02-01
+JinchunWei: JinchunWei!users.noreply.github.com
+	Ericsson
 Jing-Scott: jingwenjun!cmss.chinamobile.com, jingwj152!163.com
 	China Mobile Communication Company Ltd
 JingboWangGoogle: jingbow!google.com
@@ -18278,6 +18294,8 @@ JorritSalverda: jorritsalverda!users.noreply.github.com
 	Startup from 2023-03-01
 Jorropo: Jorropo!users.noreply.github.com, jorropo.pgm!gmail.com
 	Berty
+JoschaLaubach: JoschaLaubach!users.noreply.github.com
+	REWE Digital GmbH
 JoseIgor: JoseIgor!users.noreply.github.com, joseigorcfm!gmail.com
 	Fiat Chrysler
 JoseLArantes: jlarantes!gmail.com
@@ -23331,6 +23349,11 @@ MikeSpreitzer: MikeSpreitzer!users.noreply.github.com, mspreitz!us.ibm.com
 	International Business Machines Corporation
 MikeStall: mikestall!hotmail.com
 	Microsoft Corporation
+MikeStovallZebra: MikeStovallZebra!users.noreply.github.com
+	Grainger until 2015-05-01
+	Independent from 2015-05-01 until 2017-10-01
+	Zebra from 2017-10-01 until 2026-09-01
+	NinjaOne from 2026-09-01
 MikeZappa87: MikeZappa87!users.noreply.github.com
 	SIG until 2019-01-01
 	Next Gear from 2019-01-01 until 2020-02-01
@@ -23670,25 +23693,3 @@ Mohiit70: mail.mohitbisht!gmail.com
 	Google LLC from 2022-11-01 until 2023-05-02
 	GirlScript Foundation from 2023-05-02 until 2023-08-01
 	CNCF from 2023-08-01
-Mohit-Gaur: Mohit-Gaur!users.noreply.github.com
-	Independent until 2021-07-01
-	Red Hat Inc. from 2021-07-01
-Mohith234: Mohith234!users.noreply.github.com
-	Independent
-Mohjive: Mohjive!users.noreply.github.com
-	Independent until 2020-09-01
-	CGI Danmark from 2020-09-01 until 2025-07-01
-	Netic from 2025-07-01
-Mohkam: Mohkam!users.noreply.github.com
-	Fairdeal Enterprises until 2016-01-01
-	Imanami Corporation from 2016-01-01 until 2018-06-01
-	Microsoft Corporation from 2018-06-01 until 2020-03-01
-	Independent from 2020-03-01 until 2020-11-01
-	TransPerfect from 2020-11-01 until 2022-05-01
-	Leasepath from 2022-05-01
-MohsenMahdieh: MohsenMahdieh!users.noreply.github.com
-	WooliesX
-MoienTajik: MoienTajik!users.noreply.github.com
-	Independent until 2018-09-01
-	XEPOS from 2018-09-01 until 2019-08-01
-	Alibaba Travels from 2019-08-01

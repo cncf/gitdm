@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+LiveOutThere:
+	TylerGillson: TylerGillson!users.noreply.github.com until 2014-07-01
 LivePerson Inc.:
 	AlexBrohshtut: AlexBrohshtut!users.noreply.github.com from 2016-01-01 until 2019-01-01
 	Drupi: Drupi!users.noreply.github.com, dchrzanowski94!gmail.com from 2023-03-01
@@ -6017,7 +6019,7 @@ Mercedes-Benz AG:
 	Rahul1804: Rahul1804!users.noreply.github.com, rahul.iert09!gmail.com from 2017-09-01 until 2018-11-01
 	TheBrunoLopes: TheBrunoLopes!users.noreply.github.com from 2021-06-01 until 2021-12-01
 	ag-ramachandran: ag-ramachandran!users.noreply.github.com from 2016-07-01 until 2020-03-01
-	bavarianbidi: bavarianbidi!users.noreply.github.com, github!constanti.de from 2015-08-01 until 2023-11-01
+	bavarianbidi: bavarianbidi!users.noreply.github.com, github!constanti.de, mario!constanti.de, mario.constanti!daimler.com, mario.constanti!mercedes-benz.com, marioc!giantswarm.io from 2015-08-01 until 2022-04-01, from 2023-07-01
 	benhxy: benhxy!users.noreply.github.com, bensea!google.com from 2018-03-01 until 2018-08-01
 	bobthebuilderberlin: bobthebuilderberlin!users.noreply.github.com from 2025-04-01
 	cforce: cforce!users.noreply.github.com from 2022-05-01
@@ -11059,6 +11061,7 @@ Mollie:
 	Spazzy757: Spazzy757!users.noreply.github.com from 2023-08-01 until 2023-11-01
 	YP28: YP28!users.noreply.github.com, hi!yordipauptit.com from 2021-07-01 until 2022-07-01
 	bruhsb: bruh-sb!live.com from 2024-03-01
+	pedromazala: pedroh.mazala!gmail.com, pedromazala!users.noreply.github.com from 2020-10-01 until 2021-11-01
 	sharathsivakumar: sharathsivakumar!users.noreply.github.com from 2022-07-01
 Molnmyra:
 	desek: desek!users.noreply.github.com from 2018-12-01
@@ -14580,6 +14583,7 @@ Nativo Inc.:
 Natixis Global Asset Management L.P.:
 	arthur-r-oliveira: arthur-r-oliveira!users.noreply.github.com from 2019-01-01 until 2021-11-01
 	babariviere: babariviere!users.noreply.github.com from 2017-08-01 until 2017-09-01
+	cvgaviao: cvgaviao!users.noreply.github.com from 2021-06-01
 	mayaCostantini: mayaCostantini!users.noreply.github.com from 2020-06-01 until 2020-08-01
 	ranakan19: ranakan19!users.noreply.github.com from 2019-06-01 until 2019-12-01
 Natun:
@@ -15234,6 +15238,8 @@ Nest Labs:
 	darconeous: darco!deepdarc.com until 2017-01-01
 Nestapart:
 	diytronic: diytronic!diytronic.ru, diytronic!users.noreply.github.com, diytronic!yandex.ru
+Nestaway:
+	kumud-hs: kumud-hs!users.noreply.github.com from 2017-02-01 until 2018-10-01
 Nestec:
 	DaviSoares454: DaviSoares454!users.noreply.github.com from 2021-02-01 until 2021-09-01
 NestedData:
