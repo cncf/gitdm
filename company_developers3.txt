@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Cloud Works:
+	mumoshu: mumoshu!users.noreply.github.com, ykuoka!gmail.com until 2015-10-01
+Cloud&Heat:
+	wojciech12: wojciech12!users.noreply.github.com until 2016-04-01
+Cloud&Heat Technologies GmbH:
+	horazont: horazont!users.noreply.github.com, j.wielicki!sotecware.net, jonas.wielicki!cloudandheat.com
 Cloud-Native:
 	aliakbar-hemmati: aliakbar-hemmati!users.noreply.github.com from 2019-12-01
 Cloud.IQ:
@@ -1100,6 +1106,7 @@ Cockroach Labs:
 	abarganier: abarganier!users.noreply.github.com from 2021-02-01
 	andreimatei: andrei!cockroachlabs.com, andreimatei1!gmail.com
 	andy-kimball: andy-kimball!users.noreply.github.com, andyk!cockroachlabs.com from 2018-01-01
+	asubiotto: alfonso!cockroachlabs.com, alfonso.subiotto!dash0.com, alfonso.subiotto!polarsignals.com, asubiotto!users.noreply.github.com from 2016-09-01 until 2021-04-01
 	awoods187: andy!cockroachlabs.com from 2017-09-01
 	bdarnell: bdarnell!users.noreply.github.com, ben!bendarnell.com
 	benesch: benesch!users.noreply.github.com, nikhil.benesch!gmail.com
@@ -3737,6 +3744,7 @@ Consulting:
 	glycerine: glycerine!users.noreply.github.com, j.e.aten!gmail.com from 2016-08-01
 	iggy: iggy!users.noreply.github.com from 2024-08-01
 	mattcaswell: frodo!baggins.org, matt!openssl.org, mattcaswell!users.noreply.github.com
+	subkanthi: subkanthi!gmail.com from 2022-04-01
 Consumable:
 	jsoo1: jsoo1!users.noreply.github.com from 2020-08-01 until 2021-09-01
 Consumedias:
@@ -6680,6 +6688,7 @@ DAILYMOTION SA:
 	JordanGoasdoue: JordanGoasdoue!users.noreply.github.com from 2020-11-01
 	Maximilien-R: maximilien.raulic!gmail.com from 2017-03-01
 	Smana: Smana!users.noreply.github.com, smainklh!gmail.com from 2017-01-01 until 2021-01-01
+	achedeuzot: achedeuzot!users.noreply.github.com from 2017-02-01 until 2018-09-01, from 2019-02-01 until 2020-11-01
 	akhenakh: akhenakh!users.noreply.github.com until 2015-05-01
 	anthony-pastor: anthony-pastor!users.noreply.github.com from 2019-04-01
 	cyril-corbon: cyril-corbon!users.noreply.github.com from 2021-10-01
@@ -8254,6 +8263,7 @@ Dash0 Inc.:
 	CodingFabian: codingfabian!users.noreply.github.com, fabian.lange!codecentric.de, fabian.lange!dash0.com, fabian.lange!ibm.com, fabian.lange!instana.com, lange.fabian!gmail.com from 2024-05-01
 	FredrikAugust: FredrikAugust!users.noreply.github.com, mail.fredrikaugust!gmail.com from 2026-01-01
 	Salaboy: Salaboy!gmail.com, Salaboy!users.noreply.github.com, mauricio.salatino!dash0.com, salaboy!dash0.com from 2026-04-01
+	asubiotto: alfonso!cockroachlabs.com, alfonso.subiotto!dash0.com, alfonso.subiotto!polarsignals.com, asubiotto!users.noreply.github.com from 2026-08-01
 	ayoisaiah: ayisaiah!gmail.com, ayo!betterstack.com, ayo!freshman.tech, ayoisaiah!users.noreply.github.com, ayooluwa.isaiah!dash0.com from 2025-05-05
 	basti1302: basti1302!users.noreply.github.com, bastian.krol!dash0.com, bastian.krol!ibm.com, bastian.krol!instana.com, bastian.krol!web.de from 2024-01-01
 	big-kahuna-burger: 11753867+big-kahuna-burger!users.noreply.github.com, arandjel!kahunahub.com, arandjel.sarenac!dash0.com, big-kahuna-burger!users.noreply.github.com from 2026-06-22
@@ -15151,6 +15161,7 @@ EPAM Systems Inc:
 	sniok: dubenko.oleksandr!gmail.com from 2022-05-01 until 2024-04-01
 	sporokh: sporokh!users.noreply.github.com from 2016-09-01
 	stephen-lazarionok: stephen-lazarionok!users.noreply.github.com until 2017-01-01, from 2020-03-01
+	stn1slv: devyatov!gmail.com from 2018-03-01
 	storozhilov: storozhilov!users.noreply.github.com until 2015-11-01, from 2016-03-01
 	sumit-158: mr.sumitkrr!gmail.com from 2021-01-01 until 2022-01-01
 	sviatlo: sviatlo!users.noreply.github.com until 2016-09-01
@@ -16055,18 +16066,3 @@ Econet:
 	jamesdube: jamesdube!users.noreply.github.com from 2018-08-01
 Econify:
 	thomasbaldwin: thomasbaldwin!users.noreply.github.com from 2022-07-01
-Econis:
-	madchr1st: ch.haller!gmail.com until 2018-12-01
-Econocom:
-	bcolucci: brice.colucci!gmail.com from 2015-04-01 until 2015-09-01
-	guillaumedossantos: guillaumedossantos!users.noreply.github.com from 2014-02-01 until 2014-10-01
-	hackthem: abdellah.azougarh!free.fr until 2016-03-01
-	joscherrer: joscherrer!users.noreply.github.com from 2018-01-01 until 2022-03-01
-	li-adrienloiseau: li-adrienloiseau!users.noreply.github.com until 2014-06-01
-	mmatur: michael.matur!gmail.com, mmatur!users.noreply.github.com until 2014-09-01
-Econocom Nexica:
-	genete: genete!users.noreply.github.com until 2014-08-01
-Econocom-Osiatis:
-	ldez: ldez!users.noreply.github.com, lfernandez.dev!gmail.com, ludovic.fernandez!zenika.com until 2014-07-01
-Economat des armées:
-	fjudith: fjudith!users.noreply.github.com from 2015-08-01 until 2018-01-01

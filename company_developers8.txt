@@ -2,6 +2,12 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+LiveMusicStage:
+	petkaantonov: petka.antonov!gmail.com, petka_antonov!hotmail.com, petkaantonov!users.noreply.github.com until 2014-01-01
+LiveNeighborly:
+	damianobarbati: damiano.barbati!gmail.com, damianobarbati!users.noreply.github.com from 2016-05-01 until 2016-10-01
+LiveOps:
+	jwitko: jason!witkow.ski, jwitko!users.noreply.github.com until 2016-03-01
 LiveOutThere:
 	TylerGillson: TylerGillson!users.noreply.github.com until 2014-07-01
 LivePerson Inc.:
@@ -844,6 +850,7 @@ Lucent:
 Lucera:
 	SupremeTechnopriest: SupremeTechnopriest!users.noreply.github.com until 2016-07-01
 Luchi:
+	Sonique: Sonique!users.noreply.github.com from 2023-07-01
 	asenyaev: asenyaev!users.noreply.github.com from 2023-04-01
 Luciap:
 	PaulBernier: PaulBernier!users.noreply.github.com from 2018-07-01 until 2020-04-01
@@ -3898,6 +3905,8 @@ Markup UK:
 	adamretter: adam.retter!googlemail.com, adamretter!users.noreply.github.com from 2018-05-01
 Marlabs:
 	liwenhao0810: liwenhao0810!users.noreply.github.com from 2016-01-01 until 2017-01-01
+Marlo:
+	viecili: viecili!users.noreply.github.com until 2017-12-01
 Marmalade:
 	sdmcclain: sdmcclain!users.noreply.github.com from 2021-04-01
 	steve-marmalade: steve-marmalade!users.noreply.github.com from 2021-04-01
@@ -11876,6 +11885,7 @@ MoveHQ:
 	Apollorion: Apollorion!users.noreply.github.com, joey!apollorion.com from 2017-10-01 until 2019-02-01
 MoveInSync:
 	sourabhaggrawal: sourabh.agrawal2!nutanix.com until 2020-08-01
+	souravagrawal: souravagrawal1111!gmail.com until 2020-08-01
 MoveMais:
 	jcmartins: jcmartins!users.noreply.github.com until 2014-08-01
 Movea:
