@@ -2,6 +2,11 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+EclecticIQ:
+	mariusv: mariusv!users.noreply.github.com, myself!mariusv.com from 2018-02-01
+	orsinium: mail!orsinium.dev, orsinium!users.noreply.github.com from 2019-05-01 until 2020-11-01
+Eclerx:
+	NikishaPatil: nipatil!ibm.com from 2015-01-01 until 2016-02-01
 Eclipse:
 	Manuri: Manuri!users.noreply.github.com from 2015-05-01 until 2015-08-01
 	azatsarynnyy: azatsarynnyy!users.noreply.github.com until 2017-07-01

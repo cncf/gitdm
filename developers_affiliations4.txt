@@ -5,6 +5,21 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+chasturansky: chas!turansky.net, chasturansky!users.noreply.github.com
+	Independent until 2015-06-01
+	META+Lab from 2015-06-01 until 2015-09-01
+	VISCOM from 2015-09-01 until 2016-01-01
+	Hamagami/Carroll from 2016-01-01 until 2016-06-01
+	Independent from 2016-06-01 until 2017-01-01
+	Yahoo! Inc. from 2017-01-01 until 2019-01-01
+	Verizon Media from 2019-01-01 until 2021-04-01
+	Yahoo! Inc. from 2021-04-01
+chateauxvt: chateauxvt!users.noreply.github.com
+	Independent until 2018-08-01
+	Virginia Tech from 2018-08-01 until 2019-05-01
+	Independent from 2019-05-01 until 2021-05-01
+	Kryptowire from 2021-05-01 until 2021-12-01
+	Virginia Tech from 2021-12-01
 chaten: chaten!users.noreply.github.com
 	Amazon until 2014-07-01
 	Porch from 2014-07-01 until 2015-11-01
@@ -20005,6 +20020,12 @@ ehudm1: ehud.michelson!hp.com
 	HP Inc.
 ehudmarvell: ehudn!marvell.com
 	Marvell International Ltd
+ehudyonasi: ehudyonasi!users.noreply.github.com, eudyonasi123!gmail.com
+	Mataf until 2017-11-01
+	Independent from 2017-11-01 until 2018-03-01
+	Red Hat Inc. from 2018-03-01 until 2022-04-01
+	Intel Corporation from 2022-04-01 until 2024-10-01
+	Tufin Technologies from 2024-10-01
 eiDear: eiDear!users.noreply.github.com, jianglei02!inspur.com, jianglei_fd!qq.com
 	Inspur Group
 eiabea: developer!eiabea.com
@@ -22806,6 +22827,9 @@ erroldo: orden.e.smith!intel.com
 	Intel Corporation
 errolpais: errol.pais!protonmail.com
 	ThoughtWorks Inc
+error418: error418!users.noreply.github.com
+	axenton until 2016-04-01
+	R+V from 2016-04-01
 errordeveloper: errordeveloper!gmail.com, errordeveloper!users.noreply.github.com
 	LOGMEIN INC. until 2014-10-01
 	Weaveworks Inc from 2014-10-01 until 2020-03-01
@@ -23036,6 +23060,14 @@ estebanz01: estebanz01!users.noreply.github.com
 	Wenia from 2025-01-01
 estechnical: ed!estechnical.co.uk, estechnical!users.noreply.github.com
 	ESImaging
+estei: estei!users.noreply.github.com, rasmus!lauridsen.me
+	Dansk Supermarked until 2018-07-01
+	Salling from 2018-07-01 until 2019-08-01
+	Region Midtjylland from 2019-08-01 until 2020-10-01
+	Salling Group from 2020-10-01 until 2021-04-01
+	Ucommerce from 2021-04-01 until 2025-05-01
+	Independent from 2025-05-01 until 2025-08-01
+	Kamstrup A/S from 2025-08-01
 estensen: estensen!users.noreply.github.com
 	Norwegian University of Science and Technology until 2016-04-01
 	Picterus AS from 2016-04-01 until 2016-06-01
@@ -23343,6 +23375,10 @@ euclidsun: euclidsun!users.noreply.github.com
 	VMware Inc. until 2024-12-01
 	Kong Inc. from 2024-12-01 until 2025-06-01
 	NVIDIA Corporation from 2025-06-01
+eudescosta: eudescosta!users.noreply.github.com
+	CESAR until 2016-02-01
+	ERNI from 2016-02-01 until 2021-05-01
+	Red Hat Inc. from 2021-05-01
 eug48: eug48!users.noreply.github.com
 	Independent until 2015-01-01
 	Queensland Health from 2015-01-01 until 2016-08-01
@@ -23748,43 +23784,3 @@ evolkmann: enzo!exportarts.io, evolkmann!users.noreply.github.com
 	Exportarts from 2018-01-01
 evolvah: evolvah!gmail.com, evolvah!users.noreply.github.com, sergey.maslyakov!viavisolutions.com
 	Viavi Solutions Inc.
-evqna: asalon!vmware.com
-	VMware Inc.
-evrardjp: evrardjp!users.noreply.github.com, github!a.spamming.party, jean-philippe!evrard.me, jean-philippe.evrard!belnet.be, jean-philippe.evrard!rackspace.co.uk, jean-philippe.evrard!suse.com, kubernetes-git!a.spamming.party, open-source!a.spamming.party
-	Independent until 2016-03-18
-	Rackspace from 2016-03-18 until 2018-04-25
-	Independent from 2018-04-25 until 2018-05-02
-	SUSE LLC from 2018-05-02 until 2021-05-31
-	Independent from 2021-05-31
-ew929595: eddie.wai!broadcom.com
-	Broadcom Corporation
-ewang: ewang!users.noreply.github.com
-	Nularis until 2016-05-01
-	GoodRx from 2016-05-01
-ewassef: ewassef!users.noreply.github.com
-	Alkami until 2019-03-01
-	Solera from 2019-03-01 until 2021-07-01
-	Vonage Holdings Corp. from 2021-07-01
-ewbankkit: Kit_Ewbank!hotmail.com, ewbankkit!users.noreply.github.com, kit.ewbank!capitalone.com
-	Capital One Financial Corporation
-eweiter: eweiter!us.ibm.com, krisztina.n.elekes!gmail.com
-	International Business Machines Corporation
-ewelinawilkosz: ewe!praqma.net, ewelina.w!gmail.com
-	Ericsson until 2016-12-01
-	Praqma A/S from 2016-12-01
-ewhamilton: eric!kasten.io
-	Harmonic Inc. until 2018-01-01
-	Independent from 2018-01-01 until 2018-03-01
-	Kasten from 2018-03-01
-ewilde: ewilde!gmail.com, ewilde!users.noreply.github.com
-	Form3 Financial Cloud
-ewilderj: ewilderj!users.noreply.github.com
-	Silicon until 2017-08-01
-	Google LLC from 2017-08-01 until 2022-05-01
-	Sysdig Inc. from 2022-05-01
-ewindisch: eric!iopipe.com, eric!windisch.us, ewindisch!users.noreply.github.com
-	Cloudscaling until 2014-01-01
-	Docker Inc. from 2014-01-01 until 2015-10-01
-	Iopipe from 2015-10-01
-ewiseblatt: ewiseblatt!google.com
-	Google LLC
