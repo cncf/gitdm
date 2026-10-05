@@ -5382,11 +5382,10 @@ fineart:
 	znbang: znbang!gmail.com, znbang!users.noreply.github.com
 finesse.io:
 	petemill: miller.pete!gmail.com, petemill!users.noreply.github.com
-finleap:
-	jastBytes: github!jast-bytes.de, jastBytes!users.noreply.github.com from 2015-09-01
 finleap connect GmbH:
 	christianhuening: christian.huening!figo.io, christian.huening!haw-hamburg.de, christianhuening!googlemail.com, christianhuening!users.noreply.github.com from 2018-06-01
 	cypherfox: cypherfox!users.noreply.github.com from 2019-01-01
+	jastBytes: github!jast-bytes.de, jan!jast-bytes.de, jan.steffen!advision-digital.de, jan.steffen!bwi.de, jan.steffen!figo.io, jan.steffen!finleap-connect.com, jan.steffen!mail.schwarz, jan.steffen!neveling.net, jan.steffen!stackit.cloud, jastBytes!users.noreply.github.com from 2019-06-01 until 2023-04-01
 	lewiscowper: lewis.cowper!googlemail.com, lewiscowper!users.noreply.github.com from 2015-08-01 until 2016-08-01, from 2018-06-01 until 2019-03-01, from 2019-03-01
 	moolen: beller.moritz!googlemail.com, moolen!users.noreply.github.com from 2017-07-01 until 2018-10-01
 	vasergen: vasergen!gmail.com, vasergen!users.noreply.github.com from 2018-02-01
@@ -7975,6 +7974,8 @@ neu:
 	User1m: User1m!users.noreply.github.com, mbembac!gmail.com from 2018-07-01
 neurocode:
 	donchev7: donchev7!users.noreply.github.com from 2020-02-01
+neveling.net GmbH:
+	jastBytes: github!jast-bytes.de, jan!jast-bytes.de, jan.steffen!advision-digital.de, jan.steffen!bwi.de, jan.steffen!figo.io, jan.steffen!finleap-connect.com, jan.steffen!mail.schwarz, jan.steffen!neveling.net, jan.steffen!stackit.cloud, jastBytes!users.noreply.github.com from 2015-09-01 until 2017-01-01
 newcubator:
 	jansauer: jan!jansauer.de, jansauer!users.noreply.github.com from 2020-03-01
 newpush:
