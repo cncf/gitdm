@@ -83,6 +83,7 @@ Qualcomm:
 	thesuhas: thesuhas!users.noreply.github.com from 2022-06-01 until 2022-08-01
 	tswanson-cs: tswanson-cs!users.noreply.github.com from 2018-05-01 until 2018-09-01, from 2019-01-01 until 2021-08-01
 	twpedersen: thomas!cozybit.com, twpedersen!gmail.com from 2016-04-01
+	vivekBoii: vivekBoii!users.noreply.github.com from 2017-07-01 until 2022-09-01
 	vivekgautam1: vivek.gautam!codeaurora.org from 2016-07-01
 	vivian-xu: vivian-xu!users.noreply.github.com, vivian.zxx53!gmail.com
 	xhuang: xiong!qca.qualcomm.com
@@ -1170,6 +1171,7 @@ REWE Digital GmbH:
 	yacut: roman.rogozhnikov!gmail.com, yacut!users.noreply.github.com from 2017-07-01
 REX:
 	atran-brex: atran-brex!users.noreply.github.com from 2020-06-01 until 2021-09-01
+	coltmcnealy-lh: coltmcnealy-lh!users.noreply.github.com from 2020-11-01 until 2021-08-01
 	postmaxin: postmaxin!users.noreply.github.com from 2019-09-01
 	rblank96: rblank96!users.noreply.github.com, ryan.w.blankemeier.20!dartmouth.edu until 2017-09-01
 REalyse:
@@ -3528,6 +3530,7 @@ Red Hat Inc.:
 	abhinandan13jan: abhinandan13jan!gmail.com from 2018-11-01
 	abhinavdahiya: abhinav.dahiya!coreos.com, abhinav.dahiya!redhat.com, abhinavdahiya!users.noreply.github.com, abhinavdtu2012!gmail.com from 2018-05-01 until 2021-10-01
 	abonas: abonas!redhat.com, abonas!users.noreply.github.com, mikeyteva!gmail.com
+	aboucham: aboucham!redhat.com, aboucham!users.noreply.github.com
 	abrennan89: 40172997+abrennan89!users.noreply.github.com, abrennan!redhat.com, abrennan89!users.noreply.github.com
 	abrugaro: abrugaro!users.noreply.github.com from 2022-11-01
 	abstractj: abstractj!users.noreply.github.com, bruno!abstractj.org from 2012-03-12 until 2025-07-01
@@ -3626,6 +3629,7 @@ Red Hat Inc.:
 	alinaryan: alinaryan!users.noreply.github.com from 2020-05-01
 	aliok: aliok!apache.org, aliok!redhat.com, aliok!users.noreply.github.com
 	alishaIBM: Alisha.prabhu1!ibm.com, alishaIBM!users.noreply.github.com
+	alizard0: alizard0!users.noreply.github.com, mse.andre.lizardo!gmail.com from 2020-10-01
 	aljesusg: aljesusg!gmail.com, aljesusg!users.noreply.github.com from 2017-09-01
 	alknopfler: alberto.morgante!suse.com from 2021-03-01 until 2023-01-01
 	allisonkarlitskaya: allison.karlitskaya!redhat.com, allisonkarlitskaya!users.noreply.github.com
@@ -4106,6 +4110,7 @@ Red Hat Inc.:
 	dav1x: dav1x!users.noreply.github.com, davis.phillips!gmail.com
 	davem330: davem!davemloft.net
 	daveyoung: dyoung!redhat.com
+	davgordo: davgordo!users.noreply.github.com from 2015-02-01
 	david-marchand: david-marchand!users.noreply.github.com from 2018-10-01
 	david-martin: david-martin!users.noreply.github.com, david.martin!redhat.com
 	david-rh: david.anderson!redhat.com
@@ -6845,6 +6850,9 @@ Reflec:
 	lucperkins: lucperkins!gmail.com, lucperkins!users.noreply.github.com, mrmattrichards!gmail.com from 2016-11-01 until 2017-05-01
 Reflect Software Inc:
 	kyleterry: bakz!bakzdesign.com, kirk!strauser.com, kyle!kyleterry.com, kyleterry!users.noreply.github.com, maryx.camp!intel.com, oriol.tauleria!gmail.com from 2016-09-01 until 2018-06-01
+Reflection:
+	amogkam: amogkam!users.noreply.github.com from 2026-03-01
+	bveeramani: bveeramani!berkeley.edu from 2026-08-01
 Reflective:
 	sentientmonkey: sentientmonkey!users.noreply.github.com from 2020-10-01
 Reflektion:
@@ -13188,6 +13196,7 @@ Samsara Networks Inc:
 	kcarlson2915: kcarlson2915!users.noreply.github.com from 2018-12-01 until 2020-05-01
 	kireledan: erik.nadel!gmail.com, kireledan!users.noreply.github.com from 2018-04-01 until 2019-07-01
 	nathanboktae: nathan!nathanblack.org from 2023-08-01
+	stephanie-wang: swang!cs.berkeley.edu from 2017-06-01 until 2017-08-01
 Samse:
 	laurentleseigneur: laurent.leseigneur!bonitasoft.com, laurentleseigneur!users.noreply.github.com until 2014-01-01
 Samsi Design:
@@ -15839,11 +15848,3 @@ Sentendo:
 Senti AI:
 	arianyambao: arianyambao!gmail.com, arianyambao!users.noreply.github.com from 2017-12-01 until 2021-07-01
 	zmdelima: zmdelima!users.noreply.github.com from 2018-04-01 until 2022-08-01
-SentiMeasure:
-	nemccarthy: nathan!nemccarthy.me, nathan.mccarthy!quantium.com.au, nemccarthy!users.noreply.github.com
-SentiSum:
-	sounak98: sounak.98!gmail.com from 2019-09-01
-Sentia Australia:
-	bipashant: bipashant!users.noreply.github.com from 2021-02-01 until 2021-05-01
-Sentia Belgium:
-	verwilst: bart!intux.be, bart!verwilst.be, verwilst!users.noreply.github.com until 2021-01-01

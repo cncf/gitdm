@@ -2,6 +2,14 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+SentiMeasure:
+	nemccarthy: nathan!nemccarthy.me, nathan.mccarthy!quantium.com.au, nemccarthy!users.noreply.github.com
+SentiSum:
+	sounak98: sounak.98!gmail.com from 2019-09-01
+Sentia Australia:
+	bipashant: bipashant!users.noreply.github.com from 2021-02-01 until 2021-05-01
+Sentia Belgium:
+	verwilst: bart!intux.be, bart!verwilst.be, verwilst!users.noreply.github.com until 2021-01-01
 Sentia Netherlands:
 	apetrovYa: apetrov.ya!yandex.ru, apetrovYa!users.noreply.github.com from 2018-11-01 until 2020-09-01
 	dalfos: dalfos!mail.ru, dalfos!users.noreply.github.com from 2018-11-01 until 2020-09-01
@@ -2909,6 +2917,7 @@ Skyfire:
 Skyhawk Security:
 	skhreshefsharvit: reshef.sharvit!skyhawk.security from 2023-07-01
 Skyhigh:
+	VinothBalakrish: VinothBalakrish!users.noreply.github.com from 2026-02-01
 	kinarashah: kinara!rancher.com, kinarashah!users.noreply.github.com from 2016-05-01 until 2016-08-01
 Skyhigh Networks:
 	danielhoherd: daniel.hoherd!gmail.com, danielhoherd!users.noreply.github.com, mail!h3po.de from 2017-11-01 until 2018-02-01
@@ -3261,6 +3270,7 @@ Smart Buildings Limited:
 Smart Cats:
 	Arhell: 26163841+arhell!users.noreply.github.com, Arhell!users.noreply.github.com from 2020-01-01
 Smart Data:
+	DevinGillman: DevinGillman!users.noreply.github.com until 2015-06-01
 	dben: dben!users.noreply.github.com from 2014-09-01 until 2019-07-01
 	sgentile: Steven.gentile!gmail.com, mfirulin!gmail.com, nick!xnds.co, sgentile!users.noreply.github.com from 2014-08-01 until 2016-07-01
 Smart Data Innovation:
@@ -4692,6 +4702,8 @@ Soleta:
 	anarey: anarey!gmail.com from 2014-09-01 until 2015-03-01
 Solfácil:
 	mourad: danilo.moura!spirent.com from 2020-12-01
+Solibri:
+	verokarhu: andreas.metsala!gmail.com from 2017-08-01 until 2020-02-01
 Solicom:
 	adriangb: adriangb!users.noreply.github.com until 2015-06-01
 Solid:
@@ -5337,6 +5349,7 @@ Sopra Steria Group:
 	antoineozenne: antoineozenne!users.noreply.github.com from 2017-02-01 until 2019-06-01
 	aqilbeig: aqilbeig!users.noreply.github.com until 2017-10-01
 	baptistexaxa: baptistexaxa!users.noreply.github.com
+	bastijns-jeroen: bastijns-jeroen!users.noreply.github.com from 2022-04-01
 	bonnetb: benjamin.bonnet!m4x.org from 2014-03-01
 	brehen: marius!kluften.dev from 2018-08-01 until 2020-01-01
 	cschockaert: cschockaert!users.noreply.github.com until 2015-10-01
@@ -5714,6 +5727,9 @@ SpaceX:
 	ciriarte: ciriarte!gmail.com, ciriarte!users.noreply.github.com from 2016-08-01 until 2018-07-01
 	fejta: erick!fejta.com, fejta!google.com, fejta!users.noreply.github.com from 2022-06-01
 	lsmurray: lsmurray!users.noreply.github.com from 2018-06-01 until 2018-08-01
+SpaceXAI:
+	jjyao: jjyao!users.noreply.github.com from 2026-08-01
+	rkooo567: rkooo567!gmail.com, rkooo567!users.noreply.github.com from 2024-12-01 until 2026-02-01
 Spaceback:
 	maxbeatty: githublove!maxbeatty.com, max!beatty.me, maxbeatty!users.noreply.github.com from 2016-11-01 until 2017-05-01
 Spacefill:
@@ -9565,6 +9581,8 @@ Surfaceart:
 	mrcodecloud: raza.abbasi!hotmail.com from 2020-02-01 until 2021-02-01
 Surfboard Ventures:
 	rohansx: hello!rohan.sh from 2023-07-01
+Surfline:
+	drew: drew!users.noreply.github.com from 2015-05-01 until 2018-09-01
 Surge:
 	kevin-lindsay-1: kevin-lindsay-1!users.noreply.github.com from 2019-02-01
 	programmerq: jefferya!programmerq.net until 2014-10-01
@@ -11610,6 +11628,8 @@ TOP-IX:
 TOPIC Embedded:
 	MikeLooijmans: mike.looijmans!topic.nl
 	kvdz: kay20!hotmail.com, kvdz!users.noreply.github.com from 2018-07-01 until 2018-08-01
+TOPPAN:
+	raulchen: chenh1024!gmail.com, raulchen!users.noreply.github.com from 2018-05-01 until 2020-02-01
 TOPSCCC:
 	rfleschenberg: rene!fleschenberg.net, rfleschenberg!users.noreply.github.com until 2018-04-01
 TOPdesk:
@@ -13086,6 +13106,7 @@ Team REI:
 	brentspector: brentspector!users.noreply.github.com until 2019-12-01
 Team Rockstars:
 	teunw: teunw!users.noreply.github.com from 2019-01-01
+	wei-qiang: wei-qiang!users.noreply.github.com from 2023-08-01
 Team Rover ASEB:
 	csahithi: csahithi!users.noreply.github.com from 2019-06-01 until 2020-01-01
 Team SRMAUV:
@@ -14905,6 +14926,7 @@ Test Mile Software Testing Pvt Limited:
 	srivastav-abhishek: Abhishek.kr.srivastav!ibm.com, abhishek.srivastav!maplelabs.com, aksrivastav86!yahoo.com, srivastav-abhishek!users.noreply.github.com from 2013-09-27 until 2015-05-13
 Test Yantra:
 	RenukaMane: RenukaMane!users.noreply.github.com from 2022-01-01 until 2022-06-01
+	VinothBalakrish: VinothBalakrish!users.noreply.github.com from 2021-03-01 until 2022-10-01
 Test and Controls:
 	naiduv: naiduv!users.noreply.github.com until 2015-05-01
 TestFairy Ltd:
@@ -16359,17 +16381,3 @@ ThorTech Solutions L.L.C:
 Thorgate:
 	Jyrno42: Jyrno42!users.noreply.github.com, jyrno42!gmail.com
 	raunofreiberg: freiberggg!gmail.com, raunofreiberg!users.noreply.github.com from 2017-05-01 until 2018-01-01
-Thorn:
-	jacobwgillespie: jacobwgillespie!gmail.com, jacobwgillespie!users.noreply.github.com from 2017-08-01
-Thornton Tomasetti:
-	mostaphaRoudsari: mostapha!ladybug.tools, mostaphaRoudsari!users.noreply.github.com until 2015-09-01
-Thoro.ai:
-	joelholmes: joelholmes!users.noreply.github.com from 2021-10-01
-Thoucentric:
-	Lucifergene: Lucifergene!users.noreply.github.com, avikkundu8d!gmail.com from 2021-04-01 until 2021-07-01
-ThoughWorks:
-	JiangYanghai: yhjiang!thoughtworks.com
-Thought:
-	goddenrich: goddenrich!users.noreply.github.com from 2018-11-01
-Thought Express:
-	Charles-Schleich: schleich.cdaniel!gmail.com from 2016-11-01 until 2017-01-01, from 2017-10-01 until 2021-02-01
