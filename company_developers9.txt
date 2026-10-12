@@ -2,6 +2,21 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Netapsys:
+	julienperignon: julienperignon!users.noreply.github.com, perignon.julien!gmail.com until 2016-05-01
+	olivierboudet: olivierboudet!users.noreply.github.com from 2016-07-01 until 2019-04-01
+	rakotomandimby: mihamina.rakotomandimby!rktmb.org until 2016-11-01
+	sdurrheimer: s.durrheimer!gmail.com, sdurrheimer!users.noreply.github.com until 2018-11-01
+	sebglon: glon.sebastien!free.fr, sebastien.glon!akeneo.com, sebglon!users.noreply.github.com until 2017-06-01
+Netatmo:
+	telemac: telemac!users.noreply.github.com from 2019-08-01 until 2019-12-01
+Netaş Telekomünikasyon A.Ş.:
+	erkanerol: erkanerol!users.noreply.github.com, erkanerol92!gmail.com, jharaphula!gmail.com from 2015-06-01 until 2017-12-01
+	gokhansengun: erdem.asga!gmail.com, gokhansengun!gmail.com, gokhansengun!users.noreply.github.com until 2021-03-01
+Netcentric AG:
+	clebs: bclement!redhat.com, borja.clemente!gmail.com, cborja!vmware.com, clebs!users.noreply.github.com until 2017-09-01
+	ghenzler: georg.henzler!netcentric.biz, ghenzler!users.noreply.github.com, github!ghenzler.de
+	julianxhokaxhiu: julianxhokaxhiu!users.noreply.github.com from 2019-04-01
 Netcetera:
 	Mr-istov: Mr-istov!users.noreply.github.com from 2017-05-01 until 2017-07-01, from 2018-06-01 until 2018-09-01, from 2019-02-01 until 2019-05-01
 	cimnine: cimnine!users.noreply.github.com until 2016-04-01
@@ -3595,6 +3610,8 @@ OM1:
 	jreslock: jreslock!users.noreply.github.com from 2017-10-01 until 2019-08-01, from 2021-03-01
 OMD USA:
 	jrn: jrnieder!gmail.com from 2018-05-01
+OME:
+	machichima: machichima!users.noreply.github.com from 2021-07-01 until 2021-08-01
 OMEGA POINT:
 	bcolucci: brice.colucci!gmail.com from 2021-07-01 until 2022-01-01
 OMERS:
@@ -5674,7 +5691,7 @@ Open System:
 Open Systems:
 	dotmnd: iulia.manda21!gmail.com from 2018-01-01
 	erispoe: favrebulle!gmail.com from 2018-05-01
-	florianl: dev!der-flo.net, florian.lehner!elastic.co, florianl!users.noreply.github.com from 2017-06-30 until 2019-12-31
+	florianl: dev!der-flo.net, florian.lehner!datadoghq.com, florian.lehner!elastic.co, florianl!users.noreply.github.com from 2017-06-30 until 2019-12-31
 	snorwin: norwin.schnyder+github!gmail.com, snorwin!users.noreply.github.com from 2016-02-01 until 2018-02-01
 Open Systems International Inc.:
 	mikedupuis: mike.dupuis.0!gmail.com until 2018-06-01
@@ -6783,6 +6800,7 @@ Oracle America Inc.:
 	jfdenise: jdenise!redhat.com, jfdenise!users.noreply.github.com until 2016-03-01
 	jgmartinez: jgmartinez!users.noreply.github.com from 2021-04-01 until 2022-05-01
 	jhorwit2: horwitzja!gmail.com, jhorwit2!users.noreply.github.com, josh.horwitz!oracle.com from 2016-04-01
+	jianoaix: jianoaix!users.noreply.github.com
 	jiaqchenO: jiaqchenO!users.noreply.github.com from 2023-07-01
 	jiquigl: jim.quigley!oracle.com
 	jitendar-singh: jitendar-singh!users.noreply.github.com, jitsingh!redhat.com from 2017-07-01 until 2019-08-01
