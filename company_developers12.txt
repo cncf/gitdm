@@ -3752,8 +3752,6 @@ Twitch Interactive Inc:
 	rancerbeta: mcchang!google.com, rancerbeta!users.noreply.github.com from 2017-12-01 until 2018-07-01
 	rhysh: rhys.hiltner!gmail.com, rhysh!users.noreply.github.com
 	timcosta: tim!timcosta.io, timcosta!users.noreply.github.com from 2022-04-01
-Twitter Inc:
-	chuckha: chuck!heptio.com, chuck!twitter.com, chuckh!vmware.com, chuckha!users.noreply.github.com, ha.chuck!gmail.com from 2021-07-04 until 2023-01-01
 Twitter Inc.:
 	9len: 9len!users.noreply.github.com, glen!turbinelabs.io until 2015-04-01
 	AbimbolaE: AbimbolaE!users.noreply.github.com from 2016-09-01 until 2017-02-01
@@ -3799,6 +3797,7 @@ Twitter Inc.:
 	casassg: casassg!users.noreply.github.com from 2019-04-01 until 2023-02-01
 	chrischen: chrischen!users.noreply.github.com until 2015-09-01
 	chrisgoffinet: chris!threecomma.io, chrisgoffinet!users.noreply.github.com, pijus.navickas!gmail.com until 2015-06-01
+	chuckha: chuck!heptio.com, chuck!twitter.com, chuckh!vmware.com, chuckha!users.noreply.github.com, ha.chuck!gmail.com from 2021-07-04 until 2023-01-01
 	chuegle: chuegle!users.noreply.github.com from 2015-05-01 until 2015-12-01
 	congwang: xiyou.wangcong!gmail.com from 2013-09-01
 	crw: crw!users.noreply.github.com until 2015-12-01
@@ -4151,9 +4150,6 @@ UBC:
 UBC Bionics:
 	eunice98k: eunice98k!users.noreply.github.com, kimeuni!amazon.com from 2018-09-01 until 2019-09-01
 	euniceek: euniceek!users.noreply.github.com, kimeuni!amazon.com from 2018-09-01 until 2019-09-01
-UBER:
-	Omenien: Omenien!users.noreply.github.com from 2015-07-01 until 2017-06-01
-	karthikv2k: karthikv2k!users.noreply.github.com from 2016-01-01 until 2018-08-01
 UBI Banca:
 	jekil: jekil!users.noreply.github.com
 UBIK Ingénierie:
@@ -4615,6 +4611,7 @@ Uber:
 	Kanav-7: Kanav-7!users.noreply.github.com, kanavgupta0711!gmail.com from 2019-05-01 until 2019-07-01
 	MarkSRobinson: MarkSRobinson!users.noreply.github.com, mrobinson!plaid.com from 2017-03-01 until 2018-08-01
 	NullSoldier: NullSoldier!users.noreply.github.com from 2018-12-01 until 2020-09-01
+	Omenien: Omenien!users.noreply.github.com from 2015-07-01 until 2017-06-01
 	Qix-: i.am.qix!gmail.com, josh!junon.me, junon!uber.com, junon!zeit.co, qix-!users.noreply.github.com from 2016-02-01 until 2017-04-01
 	Raynos: Raynos!users.noreply.github.com, raynos2!gmail.com until 2018-09-01
 	SaurabhGoyal: saurabh.2561!gmail.com from 2022-11-01 until 2024-04-01, from 2024-09-01
@@ -4738,6 +4735,7 @@ Uber:
 	jwolski2: jeff!wercker.com, jwolski2!users.noreply.github.com from 2013-05-01 until 2017-03-15
 	jxiong: jinshan.xiong!gmail.com from 2018-02-01
 	kageiit: gkorlam!uber.com, kageiit!gmail.com, kageiit!users.noreply.github.com
+	karthikv2k: karthikv2k!users.noreply.github.com from 2016-01-01 until 2018-08-01
 	kaushikb11: kaushikb11!users.noreply.github.com from 2019-04-01 until 2019-06-01
 	keisni: keisni!users.noreply.github.com, keisni!yeah.net from 2023-09-01
 	ketsiambaku: ketsiambaku!users.noreply.github.com from 2022-10-01
@@ -4779,6 +4777,7 @@ Uber:
 	nathanboktae: nathan!nathanblack.org from 2017-02-01 until 2019-11-01
 	neil-xie: neil-xie!users.noreply.github.com from 2022-04-01
 	nerd0: nerd0!users.noreply.github.com
+	nklijia2011: nklijia2011!users.noreply.github.com
 	notbdu: notbdu!users.noreply.github.com from 2018-06-01 until 2019-08-01
 	nshalman: nshalman!users.noreply.github.com from 2017-05-01 until 2021-02-01
 	nvbkdw: nvbkdw!users.noreply.github.com from 2020-12-01 until 2022-12-01
@@ -12601,8 +12600,6 @@ Weave Lab!IIITD:
 	Nisinghal: Nisinghal!users.noreply.github.com from 2019-08-01 until 2020-06-01
 WeaveUp:
 	locriani: locriani!gmail.com, locriani!users.noreply.github.com
-Weaveworks Inc:
-	errordeveloper: errordeveloper!gmail.com, errordeveloper!users.noreply.github.com from 2014-10-01 until 2020-03-01
 Weaveworks Inc.:
 	2opremio: 2opremio!users.noreply.github.com, alfonso.acosta!gmail.com, fons!spotify.com, fons!syntacticsugar.consulting, fons!weave.works from 2015-07-15 until 2020-03-01
 	Callisto13: Callisto13!users.noreply.github.com, claudia!weave.works
@@ -12641,6 +12638,7 @@ Weaveworks Inc.:
 	dj1k: dj1k!users.noreply.github.com from 2019-06-01
 	dlespiau: damien!weave.works, dlespiau!users.noreply.github.com
 	dpw: david!weave.works, david!wragg.org, dpw!users.noreply.github.com from 2014-12-01 until 2016-05-01
+	errordeveloper: errordeveloper!gmail.com, errordeveloper!users.noreply.github.com from 2014-10-01 until 2020-03-01
 	fbarl: fbarl!users.noreply.github.com, filip!weave.works, filip.barl!gmail.com from 2016-07-01
 	foot: foot!users.noreply.github.com, footless!gmail.com, simon!weave.works from 2016-06-01
 	fsequeira1: fsequeira1!users.noreply.github.com from 2021-09-01
@@ -14592,7 +14590,7 @@ Woodcock & Wilson:
 Woodcore:
 	BBimie: BBimie!users.noreply.github.com, babatolatemi!gmail.com from 2022-04-01
 	samuelarogbonlo: samuelarogbonlo!users.noreply.github.com from 2020-12-01 until 2021-09-01
-Woodieâ€™s DIY Ltd:
+Woodie’s DIY Ltd:
 	zohaib85: zohaib85!users.noreply.github.com, zuh1!hotmail.com until 2017-07-01
 Woodlawn Church:
 	zackman0010: zachary!sistrunk.dev until 2014-07-01
@@ -15145,8 +15143,6 @@ Wysdom.AI:
 	andres-de-castro: andres-de-castro!users.noreply.github.com from 2016-08-01 until 2017-10-01
 Wyzant:
 	evan-hines-firebolt: evan-hines-firebolt!users.noreply.github.com until 2017-07-01
-WÃ¼rth Phoenix S.r.l.:
-	b1zzu: b1zzu!users.noreply.github.com from 2016-05-01 until 2018-05-01
 Wärtsilä:
 	so-jelly: so-jelly!users.noreply.github.com, sodell!gmail.com from 2019-09-01
 Wärtsilä Voyage:
@@ -15157,6 +15153,8 @@ Würth:
 	severindellsperger: severin.dellsperger!gmail.com from 2017-08-01 until 2019-03-01
 Würth ITensis AG:
 	mdnix: mdnix!users.noreply.github.com until 2018-01-01
+Würth Phoenix S.r.l.:
+	b1zzu: b1zzu!users.noreply.github.com from 2016-05-01 until 2018-05-01
 X:
 	sfc-gh-jopel: sfc-gh-jopel!users.noreply.github.com from 2024-08-01
 X BY 2:

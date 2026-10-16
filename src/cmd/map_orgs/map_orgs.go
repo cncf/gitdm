@@ -330,10 +330,6 @@ func mapOrganization(db *sql.DB, companyName, lCompanyName string, mapOrgNames *
 					ch <- ""
 					return
 				}
-				if pre == nil {
-					ch <- ""
-					return
-				}
 				match := re.MatcherString(lCompanyName, 0).Matches()
 				if match {
 					to := mp[1]
