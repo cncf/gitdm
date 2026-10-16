@@ -2,6 +2,24 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Sensu Inc:
+	asachs01: aaronm.sachs!gmail.com, asachs01!users.noreply.github.com from 2017-08-01
+	grepory: greg.istehbest!gmail.com, grepory!users.noreply.github.com from 2017-01-01 until 2019-01-01
+	jamesdphillips: jamesdphillips!gmail.com
+	jspaleta: jspaleta!gmail.com, jspaleta!users.noreply.github.com from 2018-04-01 until 2021-07-01
+	portertech: 149630+portertech!users.noreply.github.com, portertech!gmail.com, portertech!users.noreply.github.com until 2024-08-01
+Sensus:
+	mbbroberg: 1744971+mbbroberg!users.noreply.github.com, mbbroberg!users.noreply.github.com from 2017-07-01 until 2018-09-01
+	simingweng: siming.weng!gmail.com, simingweng!users.noreply.github.com from 2018-07-01 until 2019-05-01
+Sensyne Health:
+	duanhaowei: duanhaowei!users.noreply.github.com from 2022-03-01
+	robertlagrant: robertlagrant!users.noreply.github.com from 2017-11-01
+Sensys Gatso Group:
+	kaskavalci: 1646238+kaskavalci!users.noreply.github.com, kaskavalci!users.noreply.github.com from 2019-01-01 until 2020-11-01
+Sentai:
+	jeanlouisboudart: jeanlouis.boudart!gmail.com from 2014-08-01 until 2015-12-01
+Sente:
+	wicharypawel: wicharypawel!gmail.com from 2016-03-01 until 2016-05-01
 Sentendo:
 	TLmaK0: TLmaK0!users.noreply.github.com, hugofreiregil!gmail.com from 2019-03-01 until 2019-09-01
 Senti AI:
@@ -2948,6 +2966,7 @@ Skymill:
 Skymind Inc.:
 	crockpotveggies: crockpotveggies!users.noreply.github.com from 2017-10-01 until 2019-08-01
 	jpatanooga: josh!floe.tv, jpatanooga!users.noreply.github.com from 2016-04-01 until 2018-03-01
+	maxpumperla: max.pumperla!googlemail.com from 2017-07-01 until 2020-04-01
 	yptheangel: choowilson93!gmail.com, yptheangel!users.noreply.github.com from 2019-05-01 until 2020-10-01
 Skymizer:
 	Hsiangkai: hsiangkai!gmail.com from 2016-02-01 until 2016-12-01
@@ -5623,6 +5642,8 @@ South China Morning Post SCMP:
 	chris-ng-scmp: chris-ng-scmp!users.noreply.github.com until 2022-03-01
 South London and Maudsley NHS Foundation Trust:
 	robdyke: robdyke!gmail.com from 2018-12-01 until 2019-03-01
+South Park:
+	kamil-kaczmarek: kamil-kaczmarek!users.noreply.github.com from 2026-06-01
 South Park Commons:
 	alexandraj777: alexandraj777!users.noreply.github.com from 2021-12-01 until 2022-07-01
 	nmatare: nmatare!users.noreply.github.com from 2020-12-01
@@ -6945,6 +6966,7 @@ Square Inc.:
 	brandonweeks: weeks!squareup.com
 	cpu: daniel!binaryparadox.net from 2020-05-01
 	csstaub: cs!css.bio, cs!squareup.com, css!css.bio, csstaub!users.noreply.github.com
+	cszhu: cszhu!users.noreply.github.com from 2019-04-01 until 2022-11-01
 	danielcorin: danielcorin!users.noreply.github.com, dcorin6!gmail.com, guyhecht1990!gmail.com from 2022-09-01
 	davidhao3300: david.hao!addepar.com, davidhao3300!gmail.com, davidhao3300!users.noreply.github.com, davidhao3300!yahoo.com until 2014-08-01
 	derektamsen: derektamsen!users.noreply.github.com until 2019-08-01
@@ -7914,6 +7936,7 @@ Stealth:
 	sfrooster: sfrooster!users.noreply.github.com from 2019-09-01 until 2019-12-01
 	sjuls: sjuls!users.noreply.github.com from 2021-05-01
 	sparkingdark: sparkingdark!users.noreply.github.com from 2022-02-01 until 2024-04-01
+	suquark: suquark!users.noreply.github.com from 2024-06-01 until 2026-04-01
 	suryaprabhakark: suryaprabhakark!users.noreply.github.com from 2018-08-01 until 2019-09-01
 	unleashed: alex!flawedcode.org, unleashed!users.noreply.github.com from 2022-05-01 until 2024-02-01
 	vincentjorgensen: vincent!moveworks.ai, vincentjorgensen!users.noreply.github.com from 2017-10-01
@@ -11818,6 +11841,7 @@ TSI:
 TSM:
 	yanganto: yanganto!gmail.com from 2015-03-01 until 2015-08-01
 TSMC (TAIWAN SEMICONDUCTOR MANUFACTURING COMPANY LIMITED):
+	JiangJiaWei1103: JiangJiaWei1103!users.noreply.github.com from 2024-10-01 until 2026-02-01
 	jeffweilee: jeffweilee!gmail.com, jeffweilee!users.noreply.github.com from 2016-07-01 until 2016-08-01, from 2017-11-01
 TSP Consulting Services:
 	jmealo: jmealo!users.noreply.github.com from 2019-10-01 until 2020-01-01
@@ -14537,6 +14561,8 @@ Tenslab:
 Tensor:
 	baryluk: baryluk!users.noreply.github.com from 2017-10-01
 	odivlad: odivlad!gmail.com, odivlad!users.noreply.github.com from 2020-12-01 until 2021-12-01
+TensorCell:
+	kamil-kaczmarek: kamil-kaczmarek!users.noreply.github.com from 2019-02-01 until 2020-06-01
 TensorChord:
 	VoVAllen: VoVAllen!users.noreply.github.com from 2022-04-01
 	Zheaoli: Zheaoli!users.noreply.github.com, me!manjusaka.me
@@ -15879,6 +15905,7 @@ The Recovery Watchdog:
 The Red Flag Group:
 	tonyStreet: anthony.lansangan26!gmail.com from 2015-08-01 until 2018-03-01
 The Regents of the University of California:
+	MengjinYan: MengjinYan!users.noreply.github.com until 2014-09-01
 	aishukamal: aishuk!google.com from 2015-09-01 until 2016-06-01
 	davidboren: davidboren!users.noreply.github.com until 2015-09-01
 	ltartarini: ltartarini!users.noreply.github.com from 2015-04-01 until 2015-06-01
@@ -16265,6 +16292,8 @@ Thinking Machines:
 	jtmiclat: jtmiclat!users.noreply.github.com from 2019-07-01
 Thinking Stack:
 	dunefro: dunefro!users.noreply.github.com from 2022-02-01 until 2022-05-01
+ThinkingAI:
+	kincoy: kincoyao!gmail.com from 2025-07-14
 ThinkingStorm:
 	AlexanderEllis: AlexanderEllis!users.noreply.github.com from 2016-07-01 until 2017-06-01
 Thinkingbox:

@@ -2,6 +2,35 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+NetSys:
+	hantaowang: hantaowang!users.noreply.github.com, hww!google.com from 2019-08-01 until 2020-06-01
+	kklin: kklin!users.noreply.github.com from 2016-08-01 until 2017-05-01
+	miguelmota: miguelmota!users.noreply.github.com, miguelmota2!gmail.com from 2018-06-01 until 2019-03-01
+	silveryfu: silveryfu!gmail.com
+NetThings:
+	canon-cmre-benoit-lecardonnel: canon-cmre-benoit-lecardonnel!users.noreply.github.com from 2017-05-01 until 2018-12-01
+NetUSE AG:
+	ldawert-sys11: ldawert-sys11!users.noreply.github.com from 2017-08-01 until 2022-01-01
+NetUp:
+	aospan: aospan!netup.ru until 2018-09-01
+NetWatcher:
+	kshelton: kshelton!defensative.com, kshelton!users.noreply.github.com
+NetWerks:
+	ServerNinja: ServerNinja!users.noreply.github.com, john.reed!bluescape.com until 2017-12-01
+NetWish:
+	AndersonFirmino: anderson.araujoprog!gmail.com from 2015-01-01 until 2015-08-01
+NetXposure:
+	dfsdevops: dfsdevops!users.noreply.github.com until 2019-06-01
+Netacea:
+	danielloader: danielloader!users.noreply.github.com from 2021-01-01 until 2022-06-01
+Netafy:
+	kc-adawson: kc-adawson!users.noreply.github.com from 2021-04-01 until 2022-03-01
+Netafy Broadband:
+	andrewjdawson2016: andrewjdawson2016!users.noreply.github.com from 2021-07-01 until 2022-03-01
+Netafy Internet:
+	boscloud: andrew!boscloud.com from 2021-04-01 until 2022-03-01
+Netapp:
+	rbizzell40: hardworker30!gmail.com, rbizzell40!users.noreply.github.com until 2015-07-01
 Netapsys:
 	julienperignon: julienperignon!users.noreply.github.com, perignon.julien!gmail.com until 2016-05-01
 	olivierboudet: olivierboudet!users.noreply.github.com from 2016-07-01 until 2019-04-01
@@ -2614,6 +2643,7 @@ Notino:
 Notion:
 	HunterLarco: HunterLarco!users.noreply.github.com, hunter!larcolabs.com from 2020-06-01 until 2020-09-01
 	abiogenesis-now: abiogenesis-now!users.noreply.github.com, jessica!heptio.com from 2023-08-01
+	scottjlee: scottjlee!users.noreply.github.com from 2026-04-01
 Notionovus:
 	zenware: munepompom!gmail.com, zenware!users.noreply.github.com from 2016-08-01 until 2017-09-01
 Notivize:
@@ -3026,6 +3056,8 @@ Numascale Asia:
 	tsailiming: tsailiming!users.noreply.github.com until 2016-03-01
 Number42:
 	Lutzifer: wlut!num42.de
+NumberFour:
+	maxpumperla: max.pumperla!googlemail.com from 2015-01-01 until 2016-06-01
 NumberFour AG:
 	clifford-github: clifford650!gmail.com from 2014-05-01 until 2019-03-01
 	mirosval: miroslav.zoricak!gmail.com, mirosval!users.noreply.github.com
@@ -3239,6 +3271,8 @@ Nuuday:
 	yatanasov: yatanasov!users.noreply.github.com from 2018-08-01 until 2021-12-01
 Nuuly:
 	tszumowski: tszumowski!users.noreply.github.com from 2019-03-01 until 2021-04-01
+Nuva:
+	jiaodong: sophchess!gmail.com from 2023-07-01
 Nuvalence:
 	alexbrand: abrand!apprenda.com, abrand!heptio.com, alexb!heptio.com, alexbrand!users.noreply.github.com, alexbrand09!gmail.com, branda!vmware.com from 2021-02-01
 	lahenn: lahenn!users.noreply.github.com from 2021-09-01 until 2024-04-01
@@ -5327,6 +5361,7 @@ Onehot:
 	acarl005: acarl005!g.ucla.edu from 2018-09-01
 Onehouse:
 	alexeykudinkin: alexey.kudinkin!gmail.com, alexey.kudinkin!uber.com, alexeykudinkin!users.noreply.github.com from 2021-09-01 until 2023-02-01
+	sampan-s-nayak: sampansnayak2!gmail.com from 2023-04-01 until 2025-07-01
 Onehub:
 	loe: andrew!andrewloe.com, loe!users.noreply.github.com until 2015-01-01
 Onelity:
@@ -5718,6 +5753,7 @@ OpenAI Inc.:
 	RenaudWasTaken: RenaudWasTaken!users.noreply.github.com, renaud.gaubert!gmail.com, rgaubert!nvidia.com from 2023-02-01
 	Yard1: antoni.baum!protonmail.com from 2024-08-01 until 2026-07-01
 	amogkam: amogkam!users.noreply.github.com from 2025-09-01 until 2026-03-01
+	anyscalesam: anyscalesam!users.noreply.github.com from 2024-10-01
 	cberner: cberner!users.noreply.github.com from 2017-02-01
 	crizCraig: cquiter!gmail.com, cquiter+githubpublic!gmail.com, crizCraig!users.noreply.github.com from 2016-09-15 until 2016-10-15
 	cswinter: alanrraso!gmail.com, clemenswinter1!gmail.com, cswinter!users.noreply.github.com from 2018-11-01
@@ -5847,6 +5883,8 @@ OpenID:
 OpenIO SAS:
 	fatpat: fatpat!users.noreply.github.com from 2018-09-01 until 2020-10-01
 	vincele: vincent.legoll!gmail.com from 2017-04-01
+OpenInfra Foundation:
+	sihanwang41: sihanwang41!gmail.com from 2015-07-01 until 2023-03-01
 OpenJS Foundation:
 	dmethvin: dave.methvin!gmail.com, dmethvin!users.noreply.github.com from 2017-07-01 until 2018-06-01
 	scottgonzalez: scott.gonzalez!gmail.com, scottgonzalez!users.noreply.github.com
@@ -15874,6 +15912,8 @@ PyMi.vn:
 	hvnsweeting: hvn!familug.org, hvnsweeting!gmail.com, hvnsweeting!users.noreply.github.com from 2017-04-01 until 2017-11-01
 PyPI:
 	ijl: ijl!mailbox.org, ijl!users.noreply.github.com
+PyPy:
+	mattip: mattip!users.noreply.github.com until 2022-04-01
 PyTorch Lightning:
 	kaushikb11: kaushikb11!users.noreply.github.com from 2021-01-01
 Pydantic:
@@ -16476,9 +16516,3 @@ Quaff Media:
 	Garima-Negi: Garima-Negi!users.noreply.github.com, garima.negy!gmail.com from 2016-06-01 until 2016-07-01
 QualCare:
 	thatblindgeye: thatblindgeye!users.noreply.github.com from 2015-08-01 until 2015-12-01
-Quala:
-	jhonderson: cmuller13!gmail.com, jhonderson!users.noreply.github.com, jhonderson2007!gmail.com, jhonderson2007!hotmail.com from 2016-04-01 until 2016-12-01
-Qualaroo:
-	mmikowski: mmikowski!users.noreply.github.com, z_mikowski!yahoo.com until 2014-10-01
-Qualascend:
-	hussainanjar: hussainanjar!users.noreply.github.com from 2019-07-01

@@ -5,6 +5,47 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+alexxed: alexxed!users.noreply.github.com
+	Flanco until 2019-04-01
+	UniCredit from 2019-04-01
+alexykot: alexykot!gmail.com, alexykot!users.noreply.github.com
+	BXTerminal until 2017-04-01
+	BlockEx from 2017-04-01 until 2018-11-01
+	Ziglu from 2018-11-01
+alexymantha: alexy!mantha.dev
+	Independent until 2021-09-01
+	GoTo from 2021-09-01
+alexzhc: alex.zheng!daocloud.io, alexzhc!users.noreply.github.com
+	DaoCloud Network Technology Co. Ltd.
+alexzielenski: alexzielenski!users.noreply.github.com, zielenski!google.com
+	Independent until 2016-05-01
+	Apple Inc. from 2016-05-01 until 2016-08-01
+	Independent from 2016-08-01 until 2017-06-01
+	Apple Inc. from 2017-06-01 until 2017-08-01
+	Independent from 2017-08-01 until 2018-07-01
+	Green Hills from 2018-07-01 until 2021-09-01
+	Google LLC from 2021-09-01
+alexzimmer96: 7714821+alexzimmer96!users.noreply.github.com, alexzimmer96!users.noreply.github.com
+	Independent until 2017-06-01
+	MT AG from 2017-06-01
+aleyrizvi: aley.rizvi!icloud.com
+	Nomado Telecom until 2021-02-01
+	Qstep from 2021-02-01 until 2022-11-01
+	Independent from 2022-11-01 until 2023-01-01
+	Gridio from 2023-01-01 until 2023-05-01
+	Independent from 2023-05-01
+alezzandro: alezzandro!gmail.com, alezzandro!users.noreply.github.com
+	Hewlett until 2015-04-01
+	Red Hat Inc. from 2015-04-01
+alfanse: alex.ouzounis!solarwinds.com
+	wisamar Bildungsgesellschaft until 2014-12-01
+	Independent from 2014-12-01 until 2015-04-01
+	Robert Walters from 2015-04-01 until 2016-08-01
+	Independent from 2016-08-01 until 2017-03-01
+	flexis from 2017-03-01 until 2017-08-01
+	prudsys AG from 2017-08-01 until 2018-07-01
+	EXXETA GmbH from 2018-07-01 until 2019-01-01
+	noris from 2019-01-01
 alfanse: alfanse!users.noreply.github.com
 	77ps until 2017-06-01
 	3logic Systems from 2017-06-01 until 2017-12-01
@@ -5896,6 +5937,11 @@ anycodes: anycodes!users.noreply.github.com, service!52exe.cn
 	Alibaba Group
 anygaard: anygaard!inselo.no
 	Inselo
+anyscalesam: anyscalesam!users.noreply.github.com
+	Microsoft Corporation until 2020-12-01
+	Uber from 2020-12-01 until 2022-12-01
+	Anyscale from 2022-12-01 until 2024-10-01
+	OpenAI Inc. from 2024-10-01
 anythink-wx: xi!anythink.com.cn
 	Independent until 2015-08-01
 	Lavelle Networks from 2015-08-01 until 2017-02-01
@@ -8141,6 +8187,9 @@ aruneli: aruneli!users.noreply.github.com, elrarun!gmail.com
 	Lacework from 2016-01-01 until 2018-12-01
 	Armorblox from 2018-12-01 until 2020-01-01
 	Independent from 2020-01-01
+aruneshpa: arunesh-kumar.pandey!broadcom.com, aruneshpa!gmail.com, aruneshpa!users.noreply.github.com, parunesh!vmware.com
+	Independent until 2018-03-12
+	VMware Inc. from 2018-03-12
 arunfung: arunfung!gmail.com
 	Independent until 2015-11-01
 	上海桔尚信息科技有限公司 from 2015-11-01
@@ -17049,7 +17098,8 @@ bobbyvacco: bobbyvacco!users.noreply.github.com
 	Nintex from 2018-10-01 until 2019-01-01
 	CU Direct from 2019-01-01 until 2019-07-01
 	CoStar from 2019-07-01
-bobbywang-google: bobbywang!google.com, bobbywang-google!users.noreply.github.com, 320485076+bobbywang-google!users.noreply.github.com
+bobbywang-google: 320485076+bobbywang-google!users.noreply.github.com, bobbywang!google.com, bobbywang-google!users.noreply.github.com
+	Independent until 2019-04-23
 	Google LLC from 2019-04-23
 bobbywatson3: bobbywatson3!users.noreply.github.com
 	Dell EMC until 2015-06-01
@@ -20557,6 +20607,14 @@ cacois: cacois!users.noreply.github.com
 cadawson: cdawson!redhat.com
 	International Business Machines Corporation until 2020-02-01
 	Red Hat Inc. from 2020-02-01
+cadedaniel: cadedaniel!users.noreply.github.com
+	Independent until 2018-05-01
+	Microsoft Corporation from 2018-05-01 until 2018-08-01
+	Independent from 2018-08-01 until 2019-06-01
+	AWS from 2019-06-01 until 2021-12-01
+	Anyscale from 2021-12-01 until 2024-09-01
+	Databricks Inc. from 2024-09-01 until 2026-04-01
+	Engram from 2026-04-01
 cadeniyi: cadeniyi!users.noreply.github.com, chris.adeniyi-jones!arm.com
 	ARM
 cadmuxe: cadmuxe!gmail.com, cadmuxe!users.noreply.github.com, koonwah!google.com
@@ -23632,65 +23690,3 @@ chandresh-pancholi: 3134439+chandresh-pancholi!users.noreply.github.com, chandre
 	Flipkart Internet Private Limited until 2016-10-01
 	Apache from 2016-10-01 until 2018-09-01
 	One Concern from 2018-09-01
-chandru-kumar: chandru-kumar!users.noreply.github.com, chandru.dec26!gmail.com
-	Independent until 2016-07-01
-	Avalon from 2016-07-01 until 2017-07-01
-	Salzer from 2017-07-01 until 2019-05-01
-	Independent from 2019-05-01 until 2019-12-01
-	SFO from 2019-12-01
-chandu-atina: catina!cisco.com, chandu-atina!users.noreply.github.com
-	Cisco Systems Inc.
-chanezon: chanezon!users.noreply.github.com, patlist!chanezon.com
-	Microsoft Corporation until 2015-03-15
-	CNCF from 2015-03-15
-changbindu: changbin.du!gmail.com
-	Intel Corporation
-changhc: changhc84!gmail.com
-	Independent until 2016-07-01
-	Microsoft Corporation from 2016-07-01 until 2017-06-01
-	Independent from 2017-06-01 until 2018-09-01
-	Shopee from 2018-09-01 until 2019-04-01
-	Basis Technologies from 2019-04-01
-changli3: chang4li!gmail.com
-	Independent until 2018-06-01
-	Smartronix from 2018-06-01
-changminbark: changminbark!users.noreply.github.com
-	Independent
-changpe1: changpeng.liu!intel.com, liuchp!gmail.com
-	Intel Corporation
-changshuchao: chang.shuchao1!zte.com.cn, changshuchao!users.noreply.github.com
-	ZTE Corporation
-changsijay: changsijay!users.noreply.github.com, kylefox!gmail.com
-	Dell Technologies until 2019-10-01
-	Dell EMC from 2019-10-01
-changweige: changweige!gmail.com, changweige!users.noreply.github.com
-	Huawei Technologies Co. Ltd until 2014-08-01
-	Nokia Corporation from 2014-08-01 until 2015-12-01
-	New H3C from 2015-12-01 until 2019-04-01
-	Ant Group from 2019-04-01
-changyaowei: 156511344!qq.com, changchang0905!gmail.com, changyaowei!users.noreply.github.com
-	Alibaba Group
-chanjarster: chanjarster!gmail.com, chanjarster!users.noreply.github.com, jaawerth!gmail.com
-	Supwisdom
-chanllen: buptca!gmail.com, chanllen!users.noreply.github.com
-	Walt Disney Animation Studios until 2014-06-01
-	Independent from 2014-06-01 until 2015-01-01
-	Opex Analytics from 2015-01-01 until 2016-01-01
-	LinkedIn Corporation from 2016-01-01 until 2018-01-01
-	Meta Platforms Inc. from 2018-01-01
-chanseokoh: chanseokoh!users.noreply.github.com
-	Google LLC until 2014-08-01
-	Independent from 2014-08-01 until 2015-05-01
-	Google LLC from 2015-05-01 until 2015-08-01
-	Independent from 2015-08-01 until 2016-02-01
-	Google LLC from 2016-02-01
-chanstev: steven.s.chan!oracle.com
-	The Hong Kong Jockey Club until 2016-12-01
-	Microsoft Corporation from 2016-12-01 until 2021-07-01
-	Oracle America Inc. from 2021-07-01
-chanten: chanyeol.park!gmail.com, chanyeol.park!samsung.com
-	Samsung Electronics Co. Ltd.
-chanukov: alon.chanukov!apcera.com
-	Apcera
-chanukov: chanukov!users.noreply.github.com
-	Slack Technologies Inc.
