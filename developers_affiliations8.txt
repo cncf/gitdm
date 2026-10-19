@@ -16346,10 +16346,11 @@ rogeralsing: rogeralsing!users.noreply.github.com
 	Akka.NET from 2016-05-01 until 2016-12-01
 	Betsson Group from 2016-12-01 until 2017-08-01
 	Bonliva from 2017-08-01
-rogercoll: roger.coll!elastic.co, rogercoll!protonmail.com, rogercoll!users.noreply.github.com
+rogercoll: rogercoll!protonmail.com, roger.coll!grafana.com, roger.coll!elastic.co, rogercoll!users.noreply.github.com
 	Independent until 2021-11-15
 	New Relic Inc. from 2021-11-15 until 2024-05-05
-	Elasticsearch Inc. from 2024-05-05
+	Elasticsearch Inc. from 2024-05-05 until 2026-10-12
+	Grafana Labs from 2026-10-12
 rogerhu: rhu!hearsaycorp.com, roger.hu!gmail.com
 	Hearsay Social until 2019-08-01
 	Square Inc. from 2019-08-01
