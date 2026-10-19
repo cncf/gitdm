@@ -2,6 +2,22 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Sensity:
+	miguelvr: miguelvr!users.noreply.github.com, miguelvramos92!gmail.com from 2019-08-01 until 2020-11-01
+	sradc: sradc!users.noreply.github.com from 2021-06-01 until 2021-07-01
+Sensonix:
+	pclass-sensonix: pclass-sensonix!users.noreply.github.com
+Sensor:
+	perkam: perkam!users.noreply.github.com from 2022-11-01
+Sensor Tower:
+	kollektiv: kollektiv!users.noreply.github.com from 2014-07-01 until 2015-08-01
+Sensorfact:
+	GeorgeSapkin: GeorgeSapkin!users.noreply.github.com, george.sapkin!gmail.com from 2016-10-01
+Sensormatic:
+	ferhatguneri: ferhatguneri!outlook.com until 2016-02-01
+Sensory:
+	arielb135: arielb135!users.noreply.github.com from 2016-01-01
+	paleozogt: paleozogt!users.noreply.github.com until 2020-01-01
 Sensu Inc:
 	asachs01: aaronm.sachs!gmail.com, asachs01!users.noreply.github.com from 2017-08-01
 	grepory: greg.istehbest!gmail.com, grepory!users.noreply.github.com from 2017-01-01 until 2019-01-01
@@ -6875,6 +6891,7 @@ Sprinklr:
 	rverma-nikiai: 38323616+rverma-nikiai!users.noreply.github.com, rverma-nikiai!users.noreply.github.com from 2017-07-01 until 2017-11-01
 	sachinkaushik: mrsachinsharma12!gmail.com from 2024-10-01
 Sprint Corporation:
+	Levaj2000: Levaj2000!users.noreply.github.com until 2018-01-01
 	NiharDudam: NiharDudam!users.noreply.github.com from 2016-05-01 until 2016-12-01
 	SystemZ: SystemZ!users.noreply.github.com from 2016-08-01 until 2016-11-01
 	Syzygy24: Syzygy24!users.noreply.github.com from 2016-08-01 until 2016-11-01
@@ -9938,6 +9955,7 @@ Swiss RE:
 	Rolinh: Rolinh!users.noreply.github.com, robin.hahling!gw-computing.net from 2016-11-01 until 2019-12-01
 	chlete: chlete!users.noreply.github.com from 2016-08-01 until 2016-11-01
 	hs0210: hs0210!users.noreply.github.com, hus.fnst!cn.fujitsu.com from 2018-08-01
+	r-papso: rastislav.papso!gmail.com from 2021-08-01 until 2022-08-01, from 2024-01-01 until 2026-07-01
 	stefanhenseler: stefanhenseler!users.noreply.github.com from 2017-01-01 until 2017-11-01
 	synax: stefan.henseler!synax.ch, synax!users.noreply.github.com from 2017-01-01 until 2017-11-01
 	synoptase: synoptase!users.noreply.github.com from 2017-01-01 until 2017-11-01

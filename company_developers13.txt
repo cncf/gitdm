@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+YCloud:
+	longdeqidao: longdeqidao!users.noreply.github.com from 2022-07-01
 YDB:
 	dakl: dakl!users.noreply.github.com from 2018-09-01 until 2019-02-01
 	simonwahlgren: simon.wahlgren!gmail.com, simonwahlgren!users.noreply.github.com from 2018-09-01 until 2019-02-01

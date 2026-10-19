@@ -2,6 +2,15 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Axessions:
+	swehacker: patrik!patrikfalk.com from 2018-12-01
+Axfood:
+	SebRosander: SebRosander!users.noreply.github.com from 2020-10-01 until 2021-06-01
+Axiad:
+	MathieuMailhos: MathieuMailhos!users.noreply.github.com from 2015-01-01 until 2016-10-01
+	aparandian: aparandian!users.noreply.github.com until 2019-01-01
+Axial Healthcare Inc.:
+	combinatorist: combinatorist!users.noreply.github.com from 2015-08-01
 Axians:
 	ChamMach: ChamMach!users.noreply.github.com, saadoune.cham!gmail.com from 2016-08-01 until 2021-07-01
 	Syntax3rror404: Syntax3rror404!users.noreply.github.com from 2016-09-01 until 2020-05-01
@@ -1343,6 +1352,7 @@ BSides:
 	cloudmatt: cloudmatt!users.noreply.github.com from 2024-04-01
 BT:
 	CalvinHartwell: CalvinHartwell!users.noreply.github.com, calvin!calvinhartwell.com, mail!calvinhartwell.com until 2015-05-01
+	Levaj2000: Levaj2000!users.noreply.github.com from 2018-01-01 until 2019-01-01
 	amritanshu-pandey: amp.msit!gmail.com, amritanshu-pandey!users.noreply.github.com from 2017-12-01
 	davehewy: dave!bytewire.co.uk from 2015-10-01 until 2017-12-01
 	dylan8902: dyl!anjon.es until 2020-10-01
@@ -7025,6 +7035,7 @@ BrightEdge:
 BrightHR:
 	barrydobson: barrydobson!users.noreply.github.com from 2017-05-01 until 2018-06-01
 BrightLocal:
+	Artemon-line: Artemon-line!users.noreply.github.com from 2018-09-01 until 2019-09-01
 	dmitryk-dk: kozlovdmitriyy!gmail.com from 2016-02-01 until 2018-07-01, from 2019-05-01 until 2020-03-01
 	incu6us: vyacheslavpryimak!gmail.com from 2017-06-01 until 2018-04-01
 	msoap: msoap!users.noreply.github.com, sergey.mudrik!gmail.com from 2018-05-01
@@ -8148,6 +8159,7 @@ Bytedance Ltd:
 	Summer-Field: Summer-Field!users.noreply.github.com from 2020-01-01
 	SwanSpouse: SwanSpouse!users.noreply.github.com, li_mingji!126.com
 	Tsukilc: Tsukilc!users.noreply.github.com
+	WangTaoTheTonic: WangTaoTheTonic!users.noreply.github.com, wangtao111!huawei.com from 2024-07-01
 	WillemJiang: willem.jiang!gmail.com from 2023-02-01
 	YTGhost: 283304489!qq.com, YTGhost!users.noreply.github.com, dengliang!harmonycloud.cn, ytdengliang!gmail.com from 2020-08-01 until 2021-06-01, from 2022-01-01 until 2022-09-01
 	Yicheng-Lu-llll: Yicheng-Lu-llll!users.noreply.github.com from 2024-06-01 until 2025-11-01
@@ -16078,16 +16090,3 @@ ClickDimensions:
 	tshaiman: tshaiman!users.noreply.github.com from 2014-12-01 until 2016-01-01
 ClickFox:
 	ChrisHirsch: ChrisHirsch!users.noreply.github.com from 2014-12-01 until 2016-05-01
-ClickHouse:
-	SpencerTorres: contact!spencertorres.com from 2023-08-01
-	andremm: andre.maidl!clickhouse.com, andre.murbachmaidl!elastic.co, andremm!gmail.com, andremm!users.noreply.github.com from 2025-08-18
-	bianpengyuan: 34738376+bianpengyuan!users.noreply.github.com, bianpengyuan!google.com, bianpengyuan!users.noreply.github.com, pengyuan!clickhouse.com from 2022-04-01
-	embik: embik!users.noreply.github.com, mail!embik.me, marvin!kubermatic.com, marvin.beckers!clickhouse.com from 2025-12-01
-	hbahadorzadeh: hbahadorzadeh!users.noreply.github.com
-	incfly: hujianfei258!gmail.com, incfly!users.noreply.github.com, jianfeih!google.com from 2022-10-01
-	kgoralski: goralski.k!gmail.com, kgoralski!users.noreply.github.com from 2022-07-01
-	leshikus: alexei.fedotov!gmail.com from 2025-10-01
-	mdcurran: mdcurran!users.noreply.github.com from 2024-03-01
-	primeroz: primeroz!users.noreply.github.com from 2023-08-01
-	serprex: serprex!users.noreply.github.com from 2024-07-01
-	tbragin: tbragin!users.noreply.github.com from 2022-01-01

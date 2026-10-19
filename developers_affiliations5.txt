@@ -5,6 +5,63 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+ethirolle: ethirolle!users.noreply.github.com
+	Cisco Systems Inc. until 2014-11-01
+	Lenovo from 2014-11-01 until 2015-07-01
+	Cisco Systems Inc. from 2015-07-01 until 2017-10-01
+	Zenoss Inc. from 2017-10-01 until 2020-07-01
+	Grafana Labs from 2020-07-01
+ethnt: ethan!turkeltaub.dev
+	Fanzter until 2014-10-01
+	Independent from 2014-10-01 until 2015-06-01
+	Oak Studios from 2015-06-01 until 2018-03-01
+	Aircall.io. Inc. from 2018-03-01 until 2020-02-01
+	Enlitic from 2020-02-01 until 2021-01-01
+	Stripe Inc. from 2021-01-01
+etho201: etho201!users.noreply.github.com
+	Boeing until 2020-09-01
+	Booz Allen Hamilton Inc from 2020-09-01 until 2021-09-01
+	Oracle America Inc. from 2021-09-01
+etichy: etichy!users.noreply.github.com
+	Independent until 2016-11-01
+	SolarWinds Worldwide LLC from 2016-11-01
+etienne-lms: etienne.carriere!linaro.org
+	Linaro Limited
+etiennecoutaud: e.coutaud!gmail.com, etienne.coutaud!pyxida.io
+	Independent until 2015-02-01
+	Accenture Global Solutions Limited from 2015-02-01 until 2015-08-01
+	Independent from 2015-08-01 until 2016-01-01
+	EPITA from 2016-01-01 until 2016-12-01
+	CNCF from 2016-12-01
+etiennedesign: etienne.leprette!advantys.com
+	ADVANCED Schema until 2014-12-01
+	Accenture Global Solutions Limited from 2014-12-01 until 2015-08-01
+	École pour l'Informatique et les Techniques Av from 2015-08-01 until 2017-12-01
+	CNCF from 2017-12-01
+etiennedi: etiennedi!users.noreply.github.com
+	Independent
+etiennetremel: etienne!kogusenn.com, etienne.tremel!container-solutions.com, etienne.tremel!orange.fr, etiennetremel!users.noreply.github.com, etremel!travix.com
+	Container Solutions BV
+etifontaine: etienne.fontaine1!gmail.com, etifontaine!users.noreply.github.com
+	Independent until 2017-05-01
+	Studio 221 from 2017-05-01 until 2018-07-01
+	Meetic from 2018-07-01 until 2018-10-01
+	Independent from 2018-10-01 until 2019-06-01
+	BlaBlaCar from 2019-06-01
+etingof: etingof!users.noreply.github.com
+	Independent until 2015-06-01
+	Red Hat Inc. from 2015-06-01
+etix: etix!users.noreply.github.com
+	VideoLabs until 2019-11-01
+	STORM from 2019-11-01
+etlars: color.park!samsung.com, etlars!gmail.com, etlars!users.noreply.github.com
+	Samsung SDS
+etoews: etoews!users.noreply.github.com, everett.toews!gmail.com
+	Rackspace
+etoster: t.ostermann!celonis.com
+	Independent until 2016-08-01
+	SAP from 2016-08-01 until 2021-02-01
+	Celonis from 2021-02-01
 etotheipi: etotheipi!users.noreply.github.com
 	Armory Inc. until 2016-03-01
 	IronNet Cybersecurity Inc from 2016-03-01 until 2019-09-01
@@ -5052,6 +5109,8 @@ fyockm: fyockm!gmail.com, fyockm!users.noreply.github.com
 	Bessemer Alliance from 2015-01-01 until 2017-06-01
 	Auth0 by Okta from 2017-06-01 until 2021-05-01
 	Buf from 2021-05-01
+fyrestone: fyrestone!users.noreply.github.com
+	Independent
 fyuan1316: fyuan1316!users.noreply.github.com, yuanfang!alauda.io
 	AlaudaInc
 fz197: fz197!users.noreply.github.com
@@ -13745,6 +13804,11 @@ henryzhao95: henryzhao95!users.noreply.github.com
 	UNSW from 2017-02-01 until 2017-11-01
 	CodeCreate from 2017-11-01 until 2017-12-01
 	Commonwealth Bank from 2017-12-01
+henschwartz: henschwartz!users.noreply.github.com
+	Independent until 2019-10-01
+	SAP from 2019-10-01 until 2021-10-01
+	Nokia Corporation from 2021-10-01 until 2023-09-01
+	Red Hat Inc. from 2023-09-01
 henvic: henriquevicente!gmail.com, henvic!users.noreply.github.com
 	Liferay Inc. until 2019-05-01
 	HousingAnywhere from 2019-05-01 until 2021-01-01
@@ -23772,66 +23836,3 @@ jcmuller: jcmuller!users.noreply.github.com
 	Greenhouse Software Inc. from 2014-07-01
 jcmvbkbc: jcmvbkbc!gmail.com, max.filippov!cogentembedded.com
 	Nokia Corporation
-jcodybaker: cody!codybaker.com, jcodybaker!users.noreply.github.com
-	Squirrels until 2017-02-01
-	Independent from 2017-02-01 until 2017-06-01
-	Apcera from 2017-06-01 until 2018-06-01
-	Ericsson from 2018-06-01 until 2019-01-01
-	DigitalOcean from 2019-01-01
-jcoelho93: jcoelho93!users.noreply.github.com
-	Independent until 2015-03-01
-	EEM from 2015-03-01 until 2016-02-01
-	Independent from 2016-02-01 until 2016-05-01
-	European GNSS A from 2016-05-01 until 2017-04-01
-	Independent from 2017-04-01 until 2017-08-01
-	Asseco PST from 2017-08-01 until 2019-08-01
-	Bosch from 2019-08-01 until 2020-10-01
-	Feedzai from 2020-10-01 until 2023-03-01
-	Mindera UK Limited from 2023-03-01 until 2023-07-01
-	PagerDuty from 2023-07-01
-jcoeltjen: jcoeltjen!users.noreply.github.com, oss!jcoeltjen.de
-	BTC
-jcollie: jcollie!users.noreply.github.com, jeff!ocjtech.us
-	Fedora
-jcookfastrobot: jcook!fastrobot.com
-	FastRobot
-jcooklin: jcooklin!users.noreply.github.com, joel.cooklin!gmail.com
-	Intel Corporation until 2018-06-01
-	Nike Inc. from 2018-06-01
-jcooley: james!cooley.ie
-	Avaya Inc. until 2017-06-01
-	Cisco Systems Inc. from 2017-06-01 until 2019-09-01
-	Independent from 2019-09-01 until 2019-11-01
-	Aspect Software Inc. from 2019-11-01
-jcorde: jcorde!users.noreply.github.com, jvcc!cesar.org.br
-	Independent until 2018-09-01
-	CESAR from 2018-09-01 until 2019-09-01
-	Embraer Aircraft Maintenance Services Inc from 2019-09-01
-jcoste-orange: julien.coste!orange.com
-	Orange SA
-jcountsNR: jcountsNR!users.noreply.github.com
-	FMC until 2016-12-01
-	Black Box Corporation from 2016-12-01 until 2017-12-01
-	Independent from 2017-12-01 until 2018-08-01
-	Accenture Global Solutions Limited from 2018-08-01 until 2021-11-01
-	New Relic Inc. from 2021-11-01
-jcouv: jcouv!microsoft.com, jcouv!users.noreply.github.com, julien.couvreur!gmail.com
-	Microsoft Corporation
-jcowgill: jcowgill!debian.org
-	Debian
-jcpowermac: jcallen!redhat.com, jcpowermac!gmail.com, jcpowermac!users.noreply.github.com
-	Red Hat Inc.
-jcpunk: jcpunk!users.noreply.github.com, riehecky!fnal.gov
-	Fermilab
-jcreixell: 1193802+jcreixell!users.noreply.github.com, jcreixell!users.noreply.github.com
-	Independent until 2022-08-01
-	Grafana Labs from 2022-08-01
-jcrosel: jcrosel!users.noreply.github.com
-	Independent until 2014-07-01
-	BearingPoint GmbH from 2014-07-01 until 2014-08-01
-	Independent from 2014-08-01 until 2015-04-01
-	BINDER TRITTENWEIN Kommunikation from 2015-04-01 until 2015-06-01
-	Independent from 2015-06-01 until 2015-09-01
-	BINDER TRITTENWEIN Kommunikation from 2015-09-01 until 2016-03-01
-	BearingPoint GmbH from 2016-03-01 until 2019-01-01
-	ADB SAFEGATE from 2019-01-01

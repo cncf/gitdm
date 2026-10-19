@@ -2,6 +2,18 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+QuadraMed Corporation:
+	eroji: eroji!users.noreply.github.com until 2014-09-01
+QuadraNet:
+	jeff-caylent: jeff-caylent!users.noreply.github.com from 2014-05-01 until 2015-07-01
+Quadrev:
+	conuigwe: conuigwe!users.noreply.github.com
+Quadrotech:
+	r-papso: rastislav.papso!gmail.com from 2020-07-01 until 2020-09-01
+Quaff Media:
+	Garima-Negi: Garima-Negi!users.noreply.github.com, garima.negy!gmail.com from 2016-06-01 until 2016-07-01
+QualCare:
+	thatblindgeye: thatblindgeye!users.noreply.github.com from 2015-08-01 until 2015-12-01
 Quala:
 	jhonderson: cmuller13!gmail.com, jhonderson!users.noreply.github.com, jhonderson2007!gmail.com, jhonderson2007!hotmail.com from 2016-04-01 until 2016-12-01
 Qualaroo:
@@ -3217,6 +3229,7 @@ Red Hat Inc.:
 	AndrienkoAleksandr: AndrienkoAleksandr!users.noreply.github.com, oandriie!redhat.com
 	Ankit152: Ankit152!users.noreply.github.com, ankitkurmi152!gmail.com from 2022-07-01
 	ArangoGutierrez: ArangoGutierrez!users.noreply.github.com, eduardo!sylabs.io from 2019-11-01 until 2022-09-01
+	Artemon-line: Artemon-line!users.noreply.github.com from 2025-05-01
 	Ashutosh-Shukla: shukla.as!husky.neu.edu until 2018-08-01
 	Avielyo10: avielyo10!gmail.com from 2017-09-01 until 2018-08-01
 	Avni-Sharma: 16avnisharma!gmail.com, Avni-Sharma!users.noreply.github.com from 2018-08-01
@@ -3264,6 +3277,7 @@ Red Hat Inc.:
 	Edward5hen: weshen!redhat.com from 2016-07-01
 	EgorLu: EgorLu!users.noreply.github.com from 2020-02-01 until 2021-01-01
 	Elbehery: Elbehery!users.noreply.github.com, melbeher!redhat.com
+	EleanorWho: EleanorWho!users.noreply.github.com from 2025-11-01
 	ElijahCaine: ElijahCaine!users.noreply.github.com, elijah.caine!coreos.com, elijahcainemv!gmail.com, voigte!osuosl.org
 	ElioLopez: ElioLopez!users.noreply.github.com from 2015-12-01 until 2017-09-01
 	Elkasitu: Elkasitu!users.noreply.github.com from 2025-05-01
@@ -3352,6 +3366,7 @@ Red Hat Inc.:
 	Kyl-Bempah: Kyl-Bempah!users.noreply.github.com from 2020-03-01
 	LCaparelli: LCaparelli!users.noreply.github.com from 2018-01-01
 	LaVLaS: LaVLaS!users.noreply.github.com from 2015-11-01
+	Ladas: Ladas!users.noreply.github.com, lsmola!redhat.com
 	Ladicek: Ladicek!users.noreply.github.com until 2025-06-01
 	LalatenduMohanty: LalatenduMohanty!users.noreply.github.com, lmohanty!redhat.com
 	LaneWolf: lanewolf!gmail.com, mrezanin!redhat.com
@@ -3739,6 +3754,7 @@ Red Hat Inc.:
 	arvin-a: arvin-a!users.noreply.github.com
 	arxcruz: apcruz!br.ibm.com
 	aryaman02: aryamandas02!gmail.com from 2022-06-01 until 2022-09-01
+	asaadbalum: asaadbalum!users.noreply.github.com from 2023-09-01
 	asalkeld: angus.salkeld!rackspace.com, asalkeld!mirantis.com, asalkeld!redhat.com, asalkeld!users.noreply.github.com until 2014-01-03, from 2018-09-01 until 2021-12-01
 	asamalik: asamalik!users.noreply.github.com
 	ashcrow: ashcrow!users.noreply.github.com, smilner!redhat.com, stevem!gnulinux.net
@@ -4557,6 +4573,7 @@ Red Hat Inc.:
 	hemantaltair: gethemant!gmail.com, hemant.kumar2!altair.com, hemantaltair!users.noreply.github.com, its!superdan.io, yazpik!gmail.com
 	hemantksingh: gethemant!gmail.com, hemantksingh!users.noreply.github.com
 	henryZrncik: henryZrncik!users.noreply.github.com
+	henschwartz: henschwartz!users.noreply.github.com from 2023-09-01
 	herbertkb: herbertkb!users.noreply.github.com
 	herbertx: herbert!gondor.apana.org.au
 	heroic: heroic!users.noreply.github.com
@@ -5049,6 +5066,7 @@ Red Hat Inc.:
 	lholmquist: lholmqui!redhat.com
 	liangxia: liangxia!users.noreply.github.com, lxia!redhat.com
 	liangxiao1: xiliang!redhat.com
+	liavweiss: liavweiss!users.noreply.github.com from 2023-09-01
 	liewegas: jfedgar!gmail.com, liewegas!users.noreply.github.com, sage!inktank.com, sage!newdream.net, sage!redhat.com from 2014-05-01
 	liggitt: jliggitt!redhat.com, jordan!liggitt.net, liggitt!google.com, liggitt!users.noreply.github.com until 2018-08-01
 	linup2011: jishi!redhat.com
@@ -5658,6 +5676,7 @@ Red Hat Inc.:
 	quchangl-github: cqu!redhat.com
 	quintesse: quintesse!users.noreply.github.com, tako!codejive.org until 2025-06-01
 	qwang1: matt.barnes!live.com, qwang!redhat.com
+	r-papso: rastislav.papso!gmail.com from 2026-07-01
 	r2dedios: alex.ansi.c!gmail.com, r2dedios!users.noreply.github.com from 2021-08-01
 	r4f4: r4f4!users.noreply.github.com, r4f4rfs!gmail.com
 	raakella: raakella!gmail.com until 2017-10-01
@@ -5832,6 +5851,7 @@ Red Hat Inc.:
 	ryansb: sb!ryansb.com
 	ryneli: lizhenqiangsnake!gmail.com from 2015-08-01
 	rzarzynski: radoslaw.zarzynski!gmail.com, rzarzyns!redhat.com, rzarzynski!mirantis.com, rzarzynski!users.noreply.github.com from 2017-06-01
+	s-akhtar-baig: s-akhtar-baig!users.noreply.github.com from 2024-12-01
 	s-urbaniak: s-urbaniak!users.noreply.github.com, serg.urbaniak!defenseunicorns.com, sergiusz.urbaniak!gmail.com, sur!coreos.com from 2016-03-01 until 2023-10-01
 	s1061123: s1061123!gmail.com, s1061123!users.noreply.github.com, tohayash!redhat.com
 	sHaggYcaT: xlisovsk!redhat.com
@@ -9924,6 +9944,7 @@ SAP:
 	hariyada: hari.yada007!gmail.com, hariyada!users.noreply.github.com
 	harshithbelagur: h.belagur1980!gmail.com from 2018-12-01 until 2019-01-01
 	hbagdi: harrybagdi!gmail.com, hbagdi!users.noreply.github.com from 2017-09-01 until 2018-02-01
+	henschwartz: henschwartz!users.noreply.github.com from 2019-10-01 until 2021-10-01
 	holgerkoser: holger.koser!sap.com, holgerkoser!users.noreply.github.com
 	holgero: holger.oehm!holger-oehm.de, holger.oehm!sap.com, holgero!users.noreply.github.com
 	holgpar: 418121364!qq.com, holger.partsch!sap.com, holgpar!users.noreply.github.com
@@ -15825,19 +15846,3 @@ Sensis:
 Sensitech:
 	ckaczor: ckaczor!users.noreply.github.com from 2018-04-01
 	joestafford: joestafford!users.noreply.github.com from 2016-09-01 until 2018-08-01
-Sensity:
-	miguelvr: miguelvr!users.noreply.github.com, miguelvramos92!gmail.com from 2019-08-01 until 2020-11-01
-	sradc: sradc!users.noreply.github.com from 2021-06-01 until 2021-07-01
-Sensonix:
-	pclass-sensonix: pclass-sensonix!users.noreply.github.com
-Sensor:
-	perkam: perkam!users.noreply.github.com from 2022-11-01
-Sensor Tower:
-	kollektiv: kollektiv!users.noreply.github.com from 2014-07-01 until 2015-08-01
-Sensorfact:
-	GeorgeSapkin: GeorgeSapkin!users.noreply.github.com, george.sapkin!gmail.com from 2016-10-01
-Sensormatic:
-	ferhatguneri: ferhatguneri!outlook.com until 2016-02-01
-Sensory:
-	arielb135: arielb135!users.noreply.github.com from 2016-01-01
-	paleozogt: paleozogt!users.noreply.github.com until 2020-01-01

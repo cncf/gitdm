@@ -2,6 +2,11 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+NetSuite:
+	Freddy-Montero: fmontero!redhat.com from 2014-08-01 until 2016-03-01
+	aosoriodw: aosoriodw!users.noreply.github.com until 2017-03-01
+	stark-tech25: stark-tech25!users.noreply.github.com from 2017-11-01 until 2021-12-01
+	zlymeda: zlymeda!gmail.com, zlymeda!users.noreply.github.com from 2014-09-01 until 2019-07-01
 NetSys:
 	hantaowang: hantaowang!users.noreply.github.com, hww!google.com from 2019-08-01 until 2020-06-01
 	kklin: kklin!users.noreply.github.com from 2016-08-01 until 2017-05-01
@@ -801,7 +806,7 @@ New Relic Inc.:
 	rachelleahklein: rachel.leah.klein!gmail.com
 	reese-lee: reese-lee!users.noreply.github.com, reeselee!newrelic.com from 2019-12-16
 	rkbodenner: ralph!newrelic.com, rkbodenner+github!gmail.com
-	rogercoll: roger.coll!elastic.co, rogercoll!protonmail.com, rogercoll!users.noreply.github.com from 2021-11-15 until 2024-05-05
+	rogercoll: roger.coll!elastic.co, roger.coll!grafana.com, rogercoll!protonmail.com, rogercoll!users.noreply.github.com from 2021-11-15 until 2024-05-05
 	rubenruizdegauna: rubenruizdegauna!gmail.com, rubenruizdegauna!users.noreply.github.com from 2021-04-19
 	rudoi: andrewrudoi!gmail.com, arudoi!newrelic.com, rudoi!users.noreply.github.com from 2019-02-01 until 2020-10-01
 	salmanrafique-soloio: salmanrafique-soloio!users.noreply.github.com from 2022-02-01 until 2025-08-01
@@ -1923,6 +1928,7 @@ Nokia Corporation:
 	antongisli: antongisli!users.noreply.github.com from 2016-11-01 until 2017-11-01
 	anu-kailash: anu-kailash!users.noreply.github.com until 2014-08-01
 	arachmani: arachman!redhat.com, arachmani!users.noreply.github.com from 2015-08-01 until 2018-03-01
+	asaadbalum: asaadbalum!users.noreply.github.com from 2020-02-01 until 2023-09-01
 	ashyti: andi!etezian.org, andi.shyti!gmail.com, andi.shyti!samsung.com until 2015-09-01
 	asimell: aleksi.simell!eficode.com, simell.aleksi!gmail.com from 2015-05-01 until 2016-03-01
 	asverdlin: alexander.sverdlin!nokia.com
@@ -1976,6 +1982,7 @@ Nokia Corporation:
 	harper1011: harper1011!users.noreply.github.com until 2017-08-01
 	hemantha-kumara: hemantha-kumara!users.noreply.github.com from 2016-08-01
 	henderiw: henderiw!users.noreply.github.com, wim.henderickx!gmail.com from 2016-01-01
+	henschwartz: henschwartz!users.noreply.github.com from 2021-10-01 until 2023-09-01
 	heyleke: heyleke!users.noreply.github.com from 2014-11-01
 	hot13399: hot13399!gmail.com, hot13399!users.noreply.github.com, jacob.richard!gmail.com from 2016-05-01 until 2017-04-01
 	hrizwan86: rizwan.haider!nokia.com
@@ -2017,6 +2024,7 @@ Nokia Corporation:
 	kjokinie: kalle.jokiniemi!jollamobile.com from 2016-01-01 until 2018-05-01
 	klem23: klem.dev!gmail.com from 2018-05-01
 	langeno: langeno!users.noreply.github.com from 2022-10-01
+	liavweiss: liavweiss!users.noreply.github.com from 2021-10-01 until 2023-09-01
 	libesz: gergo.huszty!digitaltrip.hu, gergo.huszty!nokia.com, huszty.gergo!digitaltrip.hu, libesz!users.noreply.github.com
 	lukehinds: lukehinds!users.noreply.github.com until 2016-03-01
 	majk-p: majk-p!users.noreply.github.com from 2015-05-01
@@ -7725,6 +7733,8 @@ Outfox.Energy:
 	marcosmartinezfco: marcosmartinezfco!gmail.com from 2022-11-01 until 2024-07-01
 Outlet Expert:
 	lenicatko: lenicatko!users.noreply.github.com from 2016-12-01 until 2017-03-01
+Outlier:
+	EleanorWho: EleanorWho!users.noreply.github.com from 2024-11-01 until 2025-06-01
 Outlyer:
 	HHogg: HHogg!users.noreply.github.com from 2018-10-01 until 2021-08-01
 	dgildeh: dgildeh!users.noreply.github.com until 2019-03-01
@@ -16494,13 +16504,3 @@ Quadira:
 Quadpay:
 	FranCao: FranCao!users.noreply.github.com
 	ImIOImI: ImIOImI!users.noreply.github.com from 2021-07-01 until 2022-12-01
-QuadraMed Corporation:
-	eroji: eroji!users.noreply.github.com until 2014-09-01
-QuadraNet:
-	jeff-caylent: jeff-caylent!users.noreply.github.com from 2014-05-01 until 2015-07-01
-Quadrev:
-	conuigwe: conuigwe!users.noreply.github.com
-Quaff Media:
-	Garima-Negi: Garima-Negi!users.noreply.github.com, garima.negy!gmail.com from 2016-06-01 until 2016-07-01
-QualCare:
-	thatblindgeye: thatblindgeye!users.noreply.github.com from 2015-08-01 until 2015-12-01
