@@ -5,6 +5,66 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+alexsnaps: alex!wcgw.dev
+	Terracotta until 2015-12-01
+	Terracotta from 2015-12-01 until 2016-10-01
+	Shopify Inc. from 2016-10-01 until 2021-03-01
+	Red Hat Inc. from 2021-03-01
+alexsomai: alex_somai!yahoo.com, somai.alexandru!gmail.com
+	PitechPlus until 2015-11-01
+	Grupo Tora Argentina from 2015-11-01 until 2016-10-01
+	Flutter Entertainment PLC from 2016-10-01
+alexsomesan: alex.somesan!gmail.com
+	Red Hat Inc.
+alexsomesan: alexsomesan!users.noreply.github.com
+	CoreOS Inc.
+alexsorkin: alexsorkin!users.noreply.github.com
+	Amdocs Limited until 2016-04-01
+	Independent from 2016-04-01
+alexsotocx: alexsotocx!users.noreply.github.com
+	Eventtia until 2016-10-01
+	Fidor from 2016-10-01 until 2018-10-01
+	MindDoc Health GmbH from 2018-10-01 until 2022-01-01
+	pink from 2022-01-01
+alexstan12: alexstan12!users.noreply.github.com
+	Independent until 2021-04-01
+	BRD - Groupe Societe Generale from 2021-04-01 until 2022-04-01
+	Luxoft from 2022-04-01
+alexstojda: alexstojda!users.noreply.github.com
+	Jay Peak until 2020-03-01
+	CFES | FCEG from 2020-03-01 until 2022-06-01
+	Sonder from 2022-06-01
+alexsven: alexsven!users.noreply.github.com
+	Data Respons until 2017-12-01
+	Nordic Semiconductor ASA from 2017-12-01
+alexthissen: athissen!xpirit.com
+	Microsoft Corporation until 2015-06-01
+	Xpirit from 2015-06-01
+alextoombs: alex!apcera.com, alex.m.toombs!gmail.com, mabraitm!microsoft.com, mdurchho!gmail.com
+	Apcera until 2016-12-01
+	AltoPharmacy from 2016-12-01
+alextsam: alextsam!users.noreply.github.com
+	MIDIS until 2015-10-01
+	Actinius from 2015-10-01
+alextuning: a.sinchinov!gmail.com, alextuning!users.noreply.github.com
+	Parallels Research until 2014-05-01
+	Odin Health from 2014-05-01 until 2016-07-01
+	CFT from 2016-07-01
+alexvaluyskiy: alexvaluyskiy!users.noreply.github.com
+	Donnelley Financial until 2017-03-01
+	SBTech from 2017-03-01 until 2017-09-01
+	Maxitech from 2017-09-01 until 2021-10-01
+	Playtika from 2021-10-01
+alexvanboxel: alexvanboxel!users.noreply.github.com, cocobiz!126.com
+	Vente-exclusive until 2019-01-01
+	vente-privee devient Veepee from 2019-01-01 until 2020-04-01
+	Collibra Connect from 2020-04-01
+alexvanbrunt: avanbrunt!nvidia.com
+	NVIDIA Corporation
+alexvaque: alexvaque!users.noreply.github.com
+	eDreams until 2015-09-01
+	Letgo Global BV from 2015-09-01 until 2021-08-01
+	Sportradar from 2021-08-01
 alexvicegrab: a.vicente.grab!gmail.com, alexvicegrab!users.noreply.github.com, sasha!aid.technology
 	Independent until 2014-09-01
 	Touchido from 2014-09-01 until 2015-02-01
@@ -4311,6 +4371,11 @@ anicr7: anicr7!users.noreply.github.com, anramach!google.com
 	Akamai Technologies Inc. until 2016-08-01
 	Independent from 2016-08-01 until 2017-06-01
 	Google LLC from 2017-06-01
+anidroid1184: valencialondonojuansebastian!gmail.com
+	Arte Mecatrónica until 2015-11-01
+	Independent from 2015-11-01 until 2025-03-01
+	Independent from 2025-03-01 until 2026-09-01
+	GrandBay from 2026-09-01
 aniekgul: aniekgul!users.noreply.github.com
 	Independent until 2015-09-01
 	PRGX Global from 2015-09-01 until 2015-12-01
@@ -9819,6 +9884,14 @@ athanatos: athanatos!users.noreply.github.com, rexludorum!gmail.com, sjust!redha
 	Inktank until 2014-07-01
 	Red Hat Inc. from 2014-07-01 until 2017-02-01
 	Salesforce.com Inc. from 2017-02-01
+atharvamhaske: atharvamhaske!users.noreply.github.com
+	Independent until 2025-07-01
+	Socialease from 2025-07-01 until 2025-08-01
+	Voxxi from 2025-08-01 until 2025-09-01
+	Independent from 2025-09-01 until 2026-05-01
+	CNCF from 2026-05-01 until 2026-08-01
+	Google LLC from 2026-08-01 until 2026-09-01
+	OpenTelemetry from 2026-09-01
 atharvkarajgi: atharvkarajgi!users.noreply.github.com
 	Independent until 2021-05-01
 	CNCF from 2021-05-01 until 2022-12-01
@@ -10117,6 +10190,11 @@ atulaggarwal: atulaggarwal!users.noreply.github.com
 atull-altera: atull!kernel.org
 	Altera until 2016-01-01
 	Intel Corporation from 2016-01-01
+atumanov: atumanov!users.noreply.github.com
+	Independent until 2019-06-01
+	Anyscale from 2019-06-01 until 2021-09-01
+	Independent from 2021-09-01 until 2026-05-01
+	Anyscale from 2026-05-01
 atx: atx!atx.name
 	Independent
 atye: atye!users.noreply.github.com
@@ -11895,6 +11973,9 @@ baburciu: baburciu!users.noreply.github.com
 	FairMoney Orange from 2024-11-01
 baby1111: 2929596187!qq.com, baby1111!users.noreply.github.com, gaowenfeng!inspur.com
 	Inspur Group
+babyblueviper1: contact!invinoveritas.dev
+	Independent until 2025-05-01
+	Viper from 2025-05-01
 bacherfl: bacherfl!gmail.com
 	Independent until 2016-02-01
 	addIT Dienstleistungen from 2016-02-01 until 2018-11-01
@@ -23618,80 +23699,3 @@ challapradyumna: challapradyumna!gmail.com, challapradyumna!users.noreply.github
 	Honeywell International until 2016-06-01
 	Carista from 2016-06-01 until 2018-08-01
 	Softway from 2018-08-01
-challett: challett!users.noreply.github.com, connor.hallett!gmail.com
-	Independent until 2015-05-01
-	IOU Concepts from 2015-05-01 until 2017-05-01
-	Capco from 2017-05-01
-chaluli: mutmoth!amazon.com
-	Independent until 2020-06-01
-	AWS from 2020-06-01 until 2020-09-01
-	Independent from 2020-09-01 until 2025-01-01
-	AWS from 2025-01-01
-chalut01: chalut01!users.noreply.github.com
-	Independent
-chamankang: chaman.kang!gmail.com, chamankang!users.noreply.github.com
-	KT until 2014-05-31
-	OpenStack Foundation from 2014-05-31
-chambridge: chambrid!redhat.com, chambridge!users.noreply.github.com
-	International Business Machines Corporation until 2017-06-01
-	Red Hat Inc. from 2017-06-01
-chameleon82: chameleon82!users.noreply.github.com
-	S7 Airlines until 2015-05-01
-	Independent from 2015-05-01 until 2015-09-01
-	CFT from 2015-09-01 until 2017-05-01
-	Agoda Company Pte. Ltd. from 2017-05-01
-chamodshehanka: hcsperera!gmail.com
-	Independent until 2020-01-01
-	Platformer from 2020-01-01 until 2021-06-01
-	WSO2 Inc. from 2021-06-01 until 2022-06-01
-	Independent from 2022-06-01 until 2022-08-01
-	Restorize from 2022-08-01 until 2023-11-01
-	Independent from 2023-11-01 until 2024-11-01
-	Circles from 2024-11-01
-championshuttler: championshuttler!users.noreply.github.com, moeidsaleem!gmail.com
-	Independent until 2019-05-01
-	Google LLC from 2019-05-01 until 2019-07-01
-	CNCF from 2019-07-01 until 2019-10-01
-	HackDelhi from 2019-10-01 until 2020-01-01
-	HackerRank from 2020-01-01 until 2020-07-01
-	Mozilla Corporation from 2020-07-01
-champon1020: nagatelu1020!gmail.com
-	Independent until 2021-08-01
-	Mercari Inc from 2021-08-01 until 2021-09-01
-	株式会社ミクシィ from 2021-09-01 until 2021-12-01
-	Independent from 2021-12-01 until 2023-03-01
-	pluszero from 2023-03-01 until 2023-09-01
-	Mercari Inc from 2023-09-01
-champs: peerakit.somsuk!instacart.com
-	Exablox until 2017-04-01
-	Matterport from 2017-04-01 until 2019-05-01
-	Cisco Systems Inc. from 2019-05-01 until 2019-09-01
-	TSPACE Digital from 2019-09-01 until 2020-09-01
-	Pallet from 2020-09-01 until 2020-11-01
-	Instacart from 2020-11-01
-champtar: champtar!users.noreply.github.com
-	Independent
-chancez: chance!coreos.com, chance.zibolski!coreos.com, chance.zibolski!gmail.com, chancez!redhat.com, chancez!users.noreply.github.com
-	Mozilla Corporation until 2014-08-01
-	Independent from 2014-08-01 until 2015-07-01
-	Red Hat Inc. from 2015-07-01 until 2019-12-01
-	Rigetti & Co Inc from 2019-12-01 until 2021-05-01
-	Apple Inc. from 2021-05-01 until 2022-02-01
-	Isovalent from 2022-02-01
-chanchalkhatri19: chanchal.khatri01!infosys.com
-	Infosys Limited
-chandan-srm: chandan-srm!users.noreply.github.com
-	Independent
-chandanbn: chandanbn!users.noreply.github.com
-	OpenGrok Foundation until 2015-06-01
-	FIRST from 2015-06-01 until 2018-03-01
-	OpenGrok Foundation from 2018-03-01 until 2019-11-01
-	Palo Alto from 2019-11-01
-chandanchowdhury: chandan.chowdhury!hotmail.com
-	Corelight
-chandanikumari: chandanikumari!users.noreply.github.com
-	Wipro until 2019-12-01
-	Outreachy from 2019-12-01 until 2020-12-01
-	Schedar from 2020-12-01
-chandanjonson: chakuma!cisco.com, chandanjonson!users.noreply.github.com
-	Cisco Systems Inc.

@@ -2,6 +2,40 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+EXFO Inc.:
+	StingRayZA: raimund.hook!exfo.com from 2015-10-01
+	benbennett: benbennett!gmail.com, benbennett!users.noreply.github.com until 2015-06-01
+	danielburrell: danielburrell!users.noreply.github.com from 2017-10-01 until 2021-11-01
+	jeffsec-aws: jeffsec-aws!users.noreply.github.com from 2019-01-01 until 2020-09-01
+	mohsek: mohamed.sekour!exfo.com from 2020-05-01 until 2025-11-01
+EXILANT:
+	stark-tech25: stark-tech25!users.noreply.github.com from 2016-02-01 until 2017-11-01
+EXIMIUS:
+	Aman1440: Aman1440!users.noreply.github.com from 2019-07-01 until 2019-08-01
+EXIS LIMITED:
+	pwhelan: pwhelan!users.noreply.github.com from 2015-09-01 until 2018-09-01
+EXO ARNVIND:
+	carlbordum: carl!bordum.dk, carlbordum!users.noreply.github.com from 2017-12-01 until 2018-08-01
+EXOR International:
+	davidebettio: davide.bettio!gmail.com from 2021-07-01
+EXPERTIME:
+	jthin: jthin!users.noreply.github.com from 2017-01-01 until 2018-06-01
+EXTRAORDY:
+	ValentinoUberti: vuberti!redhat.com from 2021-04-01 until 2021-05-01
+	kubealex: kubealex!users.noreply.github.com from 2019-09-01
+EXXETA AG:
+	ggogel: gerrit!gogel.me, ggogel!users.noreply.github.com from 2021-04-01
+EXXETA GmbH:
+	Blaimi: Blaimi!users.noreply.github.com from 2021-02-01
+	alfanse: alex.ouzounis!solarwinds.com from 2018-07-01 until 2019-01-01
+	asbachb: asbachb!users.noreply.github.com until 2016-02-01
+	asxalex: alex.ouzounis!solarwinds.com from 2018-07-01 until 2019-01-01
+	damongant: alex.ouzounis!solarwinds.com from 2018-07-01 until 2019-01-01
+	derpsteb: derpsteb!users.noreply.github.com from 2018-03-01 until 2018-07-01
+	obitech: ajknipping!mailbox.org, alex.ouzounis!solarwinds.com, obitech!users.noreply.github.com from 2018-07-01 until 2019-01-01
+	roehrijn: jan!roehrich.info, roehrijn!users.noreply.github.com until 2015-12-01
+EXconcept:
+	v0d1ch: Nikita.miroshnichenko!yahoo.com, brutallesale!gmail.com, sasa.bogicevic!pm.me from 2016-04-01 until 2016-10-01
 EY:
 	Abhiger: abhijitger!hotmail.com from 2018-12-01
 	Hritik003: hritik.raj!nutanix.com from 2024-02-01 until 2024-04-01
@@ -33,6 +67,7 @@ EY:
 	lhenn-au: lhenn-au!users.noreply.github.com from 2024-05-01
 	lixin9311: lixin9311!users.noreply.github.com from 2016-05-01 until 2016-08-01
 	magoon: magoon!users.noreply.github.com from 2015-10-01
+	mahenarayan: mahenarayan!users.noreply.github.com from 2026-03-01
 	mittal-ishaan: ishaanmittal123!gmail.com from 2023-12-01 until 2024-01-01
 	mnbbrown: mnbbrown!users.noreply.github.com from 2015-02-01 until 2016-07-01
 	postmeback: poddararka27!gmail.com, postmeback!users.noreply.github.com from 2022-08-01
@@ -1592,6 +1627,8 @@ Ellie Mae Inc.:
 	ajmsra: ajaymisra.work!gmail.com from 2017-05-01 until 2018-09-01
 	ansoni: ansoni!gmail.com, ansoni!users.noreply.github.com
 	mateusz-lubanski-sinch: mateusz-lubanski-sinch!users.noreply.github.com from 2020-05-01 until 2021-06-01
+Ellis:
+	Nickgonzales76017: Nickgonzales76017!users.noreply.github.com from 2026-08-01
 Ellis & Associates:
 	invertigo: invertigo!users.noreply.github.com from 2019-11-01 until 2020-02-01
 EllisDon:
@@ -4242,6 +4279,8 @@ Eversight:
 	pwittrock: phil.wittrock!gmail.com, pwittroc!google.com, pwittroc+github!google.com, pwittrock!users.noreply.github.com from 2014-08-01 until 2015-09-01
 Eversource Energy:
 	Joshua-Beha: Joshua-Beha!users.noreply.github.com from 2020-06-01 until 2020-08-01, from 2020-11-01 until 2021-01-01
+Everspin:
+	kyuds: kyuds!users.noreply.github.com from 2023-08-01 until 2025-12-01
 EvertString:
 	rodrigc: rodrigc!freebsd.org, rodrigc!users.noreply.github.com from 2015-10-01 until 2018-06-01
 Evertz:
@@ -8090,6 +8129,8 @@ Flow.ai:
 	Stephanvs: Stephanvs!users.noreply.github.com from 2016-06-01 until 2017-02-01
 FlowFactor:
 	depauna: depauna!users.noreply.github.com from 2017-09-01
+FlowMode:
+	Nickgonzales76017: Nickgonzales76017!users.noreply.github.com from 2025-09-01 until 2026-01-01
 FlowPro.io:
 	dioptre: dioptre!gmail.com, dioptre!users.noreply.github.com until 2018-01-01
 FlowUp:
@@ -8954,6 +8995,7 @@ Foxit:
 	michaelkolber: michaelkolber!users.noreply.github.com from 2016-06-01 until 2016-08-01
 	runtu666: mryang8614!163.com
 Foxmula:
+	AayushSaini101: AayushSaini101!users.noreply.github.com from 2022-07-01 until 2022-09-01
 	vijay5158: vijay5158!users.noreply.github.com from 2020-03-01 until 2020-08-01
 Foxtel:
 	kentnsw: kentnsw!users.noreply.github.com from 2018-03-01 until 2020-06-01
@@ -8984,6 +9026,8 @@ Fractalio:
 Fractalio Data:
 	rohan47: rohan47!users.noreply.github.com, rohanrgupta1996!gmail.com, rohgupta!redhat.com from 2016-01-01 until 2017-02-01
 	rohangupta231: rohangupta231!gmail.com from 2016-12-01 until 2017-01-01
+Fractional:
+	Nickgonzales76017: Nickgonzales76017!users.noreply.github.com from 2026-01-01 until 2026-04-01
 Fracture:
 	whitlaaa: alex.whitler!gmail.com, whitlaaa!users.noreply.github.com from 2022-04-01
 Fractured Atlas:
@@ -9037,6 +9081,8 @@ Franklin American Mortgage Company:
 Frankly:
 	achille-roussel: achille-roussel!users.noreply.github.com from 2014-10-01 until 2016-04-01
 	chowmean: chowmean!users.noreply.github.com, gaurav.dev.iiitm!gmail.com from 2015-05-01 until 2015-07-01
+Frankly Media:
+	pavitrabhalla: pavitra!superserve.ai from 2015-01-01 until 2017-01-01
 Frasca:
 	kdelorey: kdelorey!users.noreply.github.com until 2020-12-01
 Frasers:
@@ -11651,6 +11697,7 @@ GeeksGod:
 	KalagaSahitya: KalagaSahitya!users.noreply.github.com, kalagasahitya8!gmail.com from 2020-04-01 until 2020-05-01
 GeeksforGeeks:
 	1Shubham7: 1Shubham7!users.noreply.github.com from 2023-09-01
+	AayushSaini101: AayushSaini101!users.noreply.github.com from 2022-11-01 until 2024-10-01
 	AmitVishwash: AmitVishwash!users.noreply.github.com from 2016-07-01 until 2017-05-01
 	HarshCasper: HarshCasper!users.noreply.github.com from 2020-10-01 until 2020-12-01
 	Jougan-0: Jougan-0!users.noreply.github.com from 2022-10-01 until 2023-08-01
