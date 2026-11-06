@@ -12092,6 +12092,8 @@ EtienneCoutaud: EtienneCoutaud!users.noreply.github.com
 	Independent from 2015-08-01 until 2016-01-01
 	EPITA from 2016-01-01 until 2016-12-01
 	CNCF from 2016-12-01
+EtiennePerot: EtiennePerot!users.noreply.github.com
+	Google LLC
 Etsukata: Etsukata!users.noreply.github.com, devel!etsukata.com
 	Hitachi Ltd. until 2014-08-01
 	FreakOut Inc. from 2014-08-01
@@ -17537,8 +17539,7 @@ Jens-G: jensg!apache.org
 	Apache
 JensErat: JensErat!users.noreply.github.com, email!jenserat.de, jens.erat!daimler.com, jens.erat!mercedes-benz.com, jens.erat!telekom.de
 	Independent until 2017-01-01
-	Mercedes-Benz AG from 2017-01-01 until 2024-01-01
-	Deutsche Telekom from 2024-01-01
+	Mercedes-Benz AG from 2017-01-01
 JensKula: JensKula!users.noreply.github.com
 	Siemens
 JensPauwels: JensPauwels!users.noreply.github.com
@@ -23677,6 +23678,3 @@ Mionsz: Mionsz!users.noreply.github.com, milosz.linkiewicz!intel.com
 	Copernicus from 2018-10-01 until 2019-05-01
 	GarageFarm from 2019-05-01 until 2021-09-01
 	Intel Corporation from 2021-09-01
-Miouge1: maxime!root314.com, maxime.guyot!elits.com, miouge!gmail.com, miouge1!users.noreply.github.com
-	ELITS until 2017-01-01
-	BRAINER REMAKERS CO. LTD. from 2017-01-01

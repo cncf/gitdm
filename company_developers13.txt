@@ -2,6 +2,27 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Xilinx Inc:
+	Sundeep-Bhatta: subbaraya.sundeep.bhatta!xilinx.com
+	chkohn: christian.kohn!xilinx.com
+	davidholsgrove: david.holsgrove!xilinx.com
+	dcfocus: bjslax!gmail.com, dcfocus!users.noreply.github.com until 2018-02-01
+	harini-katakam: harini.katakam!xilinx.com
+	jackrosenthal: jack!rosenth.al, jackrosenthal!users.noreply.github.com from 2018-05-01 until 2018-12-01
+	jason--wu: j.wu!xilinx.com
+	michalsimek: michal.simek!xilinx.com
+	nathanrossi: nathan!nathanrossi.com, nathan.rossi!xilinx.com until 2015-06-01
+	pcrost: crosthwaite.peter!gmail.com, crosthwaitepeter!gmail.com until 2015-07-01
+	pete128: peter.crosthwaite!xilinx.com
+	rajanv-xilinx: rajan.vaja!xilinx.com, rajanv!xilinx.com
+	sorenb-xlnx: soren.brinkmann!xilinx.com
+	sstabellini: sstabellini!kernel.org, sstabellini!users.noreply.github.com from 2018-04-01
+	starhwk: hyun.kwon!xilinx.com, hyun.w.kwonn!gmail.com
+	stefano-xilinx: stefanos!xilinx.com
+	sthokal: sthokal!xilinx.com
+	zma-barefoot: 30326088+zma-barefoot!users.noreply.github.com until 2017-06-01
+Xin Gong Chang:
+	GuoJing: GuoJing!users.noreply.github.com from 2014-06-01
 XinDaBoYu:
 	tina9253: katrina9253!gmail.com, tina9253!users.noreply.github.com until 2014-08-01
 XinJiang:
@@ -1272,6 +1293,7 @@ YouTube:
 	enisoc-bot: enisoc!google.com until 2016-10-01
 	gresrun: greg!greghaines.net, greghaines!google.com, gresrun!gmail.com, gresrun!users.noreply.github.com, nick!nickgerleman.com
 	joshkaplinsky: joshkaplinsky!users.noreply.github.com until 2018-05-01
+	kevinGC: kevinGC!users.noreply.github.com until 2016-06-01
 	m4gr3d: fhuyakou!gmail.com from 2016-05-01 until 2018-04-01
 	mnshaw: mnshaw!andrew.cmu.edu, mnshaw!google.com, mnshaw!users.noreply.github.com from 2018-05-01
 	ninjaSec7: ninjaSec7!users.noreply.github.com from 2023-02-01 until 2024-08-01
@@ -6194,6 +6216,7 @@ gomedisys:
 good:
 	DmitryShonin: DmitryShonin!users.noreply.github.com
 googlers:
+	jinmouil: jinmouil!users.noreply.github.com
 	mlevesquedion: mlevesquedion!users.noreply.github.com
 goop:
 	tzilist: tzilist!users.noreply.github.com from 2019-09-01

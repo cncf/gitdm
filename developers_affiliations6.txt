@@ -5,6 +5,102 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+jbohanon: jacob.bohanon!solo.io, jacobbohanon!gmail.com, jbohanon!users.noreply.github.com
+	Independent until 2022-04-18
+	Solo.io from 2022-04-18
+jbolinger: jbolinger!google.com, jbolinger!users.noreply.github.com, kyulee!microsoft.com, ruan!ruanbekker.com
+	Google LLC
+jbonachera: jbonachera!users.noreply.github.com, jbonachera!xebia.fr
+	xebia.fr
+jboner: jboner!users.noreply.github.com
+	Lightbend Inc until 2020-05-01
+	CNCF from 2020-05-01
+jborghi: jborghi!cisco.com
+	Cisco Systems Inc.
+jborleis: jbe!pengutronix.de
+	Pengutronix
+jbornemann: bornemannjs!gmail.com, jbornemann!users.noreply.github.com, jeff.bornemann!oracle.com
+	Oracle America Inc.
+jbotelho2-bb: jbotelho2-bb!users.noreply.github.com
+	Bloomberg
+jbottum: jbottum!users.noreply.github.com, joshbottum!gmail.com
+	Cisco Systems Inc. until 2014-10-01
+	Independent from 2014-10-01 until 2014-12-01
+	NetApp from 2014-12-01 until 2016-04-01
+	Canonical from 2016-04-01 until 2019-03-01
+	Arrikto from 2019-03-01 until 2022-02-01
+	Kubeflow from 2022-02-01
+jbouzekri: jbouzekri!users.noreply.github.com
+	Smile until 2015-08-01
+	Weenect from 2015-08-01
+jbovet: jbovet!users.noreply.github.com, jose.bovet!gmail.com
+	RetailSBS until 2017-06-01
+	Cencosud from 2017-06-01 until 2017-11-01
+	Independent from 2017-11-01 until 2018-01-01
+	Seguros Falabella from 2018-01-01 until 2018-08-01
+	Walmart Inc. from 2018-08-01
+jbowes: jbowes!repl.ca, jbowes!users.noreply.github.com
+	Manifold.co
+jboyd01: jaboyd!redhat.com, jboyd01!gmail.com, jboyd01!users.noreply.github.com
+	International Business Machines Corporation until 2017-06-01
+	Red Hat Inc. from 2017-06-01 until 2019-05-01
+	HCL Technologies Ltd. from 2019-05-01
+jbpratt: jbpratt!users.noreply.github.com, jbpratt78!gmail.com
+	Independent until 2021-03-01
+	Red Hat Inc. from 2021-03-01
+jbrandeb: jesse.brandeburg!intel.com
+	Intel Corporation
+jbrannst: jbrannst!redhat.com, matthew!mmwd.co
+	Red Hat Inc.
+jbrannst: theo!iconara.net
+	Burt
+jbrassow: jbrassow!redhat.com
+	Red Hat Inc.
+jbrawdy: jbrawdy!gmail.com
+	CENGN
+jbreiding: jbreiding!hotmail.com
+	CrowdStrike
+jbrette: jbrette!gmail.com, jbrette!users.noreply.github.com
+	Ericsson until 2021-04-01
+	Dell Technologies from 2021-04-01
+jbrianceau: jbriance!cisco.com
+	Microsoft Corporation
+jbriggs22: jbriggs!synopsys.com, jbriggs22!users.noreply.github.com
+	Coverity Inc. until 2015-12-01
+	Synopsys Inc from 2015-12-01
+jbrisbin: jbrisbin!users.noreply.github.com, jon!jbrisbin.com
+	Pivotal until 2015-06-01
+	Basho from 2015-06-01 until 2017-04-01
+	Instana Inc. from 2017-04-01
+jbrook: james.brook!spaaza.com, jbrook!users.noreply.github.com
+	Spaaza until 2017-06-01
+	Google LLC from 2017-06-01
+jbrooks2-godaddy: jbrooks2-godaddy!users.noreply.github.com
+	EDPlus Holdings until 2014-08-01
+	Independent from 2014-08-01 until 2015-05-01
+	GoDaddy Operating Company LLC from 2015-05-01 until 2015-08-01
+	Independent from 2015-08-01 until 2017-06-01
+	GoDaddy Operating Company LLC from 2017-06-01 until 2017-08-01
+	Independent from 2017-08-01 until 2018-01-01
+	GoDaddy Operating Company LLC from 2018-01-01
+jbrosenz: joel.b.rosenzweig!intel.com
+	Intel Corporation
+jbrownfield: Jim_Brownfield!radical.com
+	Radical until 2020-09-01
+	Waste Management Inc. from 2020-09-01
+jbrownsw: jbrownsw!users.noreply.github.com
+	Exacq
+jbrunton: jbrunton!users.noreply.github.com
+	Zipcar Inc. until 2020-04-01
+	Converge from 2020-04-01
+jbrzozoski: jbrzozoski!users.noreply.github.com, justin.brzozoski!signal-fire.com
+	Bergantino until 2019-01-01
+	SignalFire from 2019-01-01
+jbtk: jbtk!users.noreply.github.com
+	Google LLC
+jbtrystram: jbtrystram!users.noreply.github.com
+	EDF until 2016-10-01
+	Red Hat Inc. from 2016-10-01
 jbu: jbu!users.noreply.github.com
 	LShift until 2016-10-01
 	Independent from 2016-10-01 until 2016-12-01
@@ -3246,6 +3342,8 @@ jinleileiking: egor.v.panfilov!gmail.com, jinleileiking!gmail.com, jinleileiking
 	Ksyun
 jinmeiib: jinmeiib!users.noreply.github.com, jtatuya!infoblox.com
 	Infoblox Inc.
+jinmouil: jinmouil!users.noreply.github.com
+	googlers
 jinnko: jinnko!users.noreply.github.com
 	Ixydo until 2021-04-01
 	Trint from 2021-04-01
@@ -8485,6 +8583,8 @@ jsoler: jsoler!users.noreply.github.com
 	Pragsis Bidoop from 2019-09-01
 jsomervi: jim.somerville!windriver.com
 	Wind River Systems Inc.
+jsonbruce: xuhuan!live.cn
+	StreamNative
 jsoo1: jsoo1!users.noreply.github.com
 	Independent until 2015-05-01
 	Verys from 2015-05-01 until 2018-03-01
@@ -9226,14 +9326,14 @@ julianocosta89: juliano.costa!dash0.com, juliano.costa!datadoghq.com, julianocos
 	Independent until 2019-01-01
 	Dynatrace LLC from 2019-01-01 until 2023-12-31
 	Independent from 2023-12-31 until 2024-01-08
-	Datadog Inc from 2024-01-08 until 2026-10-31
-	Independent from 2026-10-31 until 2026-11-01
-	Dash0 Inc. from 2026-11-02
+	Datadog Inc from 2024-01-08 until 2026-11-01
+	Dash0 Inc. from 2026-11-01
 julianocosta89-dt: julianocosta89-dt!users.noreply.github.com
 	Independent until 2019-01-01
 	Dynatrace LLC from 2019-01-01 until 2023-12-31
 	Independent from 2023-12-31 until 2024-01-08
-	Datadog Inc from 2024-01-08
+	Datadog Inc from 2024-01-08 until 2026-11-01
+	Dash0 Inc. from 2026-11-01
 julianoes: julianoes!users.noreply.github.com
 	Independent until 2014-12-01
 	Amazon from 2014-12-01 until 2015-12-01
@@ -13421,6 +13521,9 @@ kevin85421: kaihsun!apache.org, kevin85421!users.noreply.github.com
 	Independent from 2021-05-01 until 2022-05-01
 	Databricks Inc. from 2022-05-01 until 2022-08-01
 	Anyscale from 2022-08-01
+kevinGC: kevinGC!users.noreply.github.com
+	YouTube until 2016-06-01
+	Google LLC from 2016-06-01
 kevinantonythomas: kevin.thomas!nutanix.com
 	Nutanix Inc. until 2016-09-01
 	Nutanix Inc. from 2016-09-01
@@ -16109,6 +16212,20 @@ konstantin-axenov: konstantin-axenov!users.noreply.github.com, konstantin.akseno
 konstantin-dzreev: k.dzreyev!gmail.com, konstantin-dzreev!users.noreply.github.com
 	RightScale until 2016-09-01
 	SecureDocs from 2016-09-01
+konstantin-s-bogom: bogomolov!google.com
+	Independent until 2015-08-01
+	HOERBIGER from 2015-08-01 until 2015-12-01
+	Independent from 2015-12-01 until 2016-05-01
+	International Financial Data Services Canada from 2016-05-01 until 2016-08-01
+	Independent from 2016-08-01 until 2017-01-01
+	McAfee from 2017-01-01 until 2017-04-01
+	Independent from 2017-04-01 until 2017-09-01
+	Dejero from 2017-09-01 until 2017-12-01
+	Independent from 2017-12-01 until 2018-04-01
+	NVIDIA Corporation from 2018-04-01 until 2018-12-01
+	Independent from 2018-12-01 until 2019-09-01
+	NVIDIA Corporation from 2019-09-01 until 2022-01-01
+	Google LLC from 2022-01-01
 konstruktoid: konstruktoid!users.noreply.github.com
 	Konica Minolta until 2015-02-01
 	Svenska Spel AB from 2015-02-01
@@ -23699,115 +23816,3 @@ luctowers: luctowers!gmail.com, luctowers!users.noreply.github.com
 lucvoo: luc.vanoostenryck!gmail.com
 	Atos until 2014-01-01
 	Independent from 2014-01-01
-lucwillems: lucwillems!users.noreply.github.com
-	T.M.M & IT 4 You until 2017-11-01
-	The Sniffers from 2017-11-01
-ludfjig: 4257730+ludfjig!users.noreply.github.com, lliljenberg!microsoft.com, ludfjig!hotmail.com, ludfjig!users.noreply.github.com
-	Independent until 2015-08-01
-	Fjäderborgen Badminton Center from 2015-08-01 until 2018-08-01
-	Independent from 2018-08-01 until 2021-06-01
-	Apple Inc. from 2021-06-01 until 2021-09-01
-	Independent from 2021-09-01 until 2022-06-01
-	Microsoft Corporation from 2022-06-01 until 2022-09-01
-	Independent from 2022-09-01 until 2023-07-01
-	Microsoft Corporation from 2023-07-01
-ludoch: ludoch!users.noreply.github.com, ludovic.champenois!gmail.com
-	Google LLC
-ludokx: ludo.devel!gmail.com
-	Netflix Inc.
-ludoo: ludomagno!google.com
-	SIA S.p.A. until 2015-01-01
-	Google LLC from 2015-01-01
-ludovic-pourrat: ludovic-pourrat!users.noreply.github.com
-	Independent until 2020-02-01
-	Lombard Odier Darier Hentsch & Cie (USA) from 2020-02-01
-ludovicMercier: ludovicMercier!users.noreply.github.com
-	Apside
-ludovicRoucoux: ludovic.roucoux!gmail.com, ludovic.roucoux!novia-systems.fr
-	Independent until 2015-03-01
-	Novia Systems from 2015-03-01 until 2016-07-01
-	NORGAY SAS from 2016-07-01
-ludovicbonivert: ludovicbonivert!users.noreply.github.com
-	Independent until 2015-06-01
-	International Business Machines Corporation from 2015-06-01 until 2015-09-01
-	Independent from 2015-09-01 until 2016-02-01
-	Walt Disney Animation Studios from 2016-02-01 until 2016-05-01
-	Independent from 2016-05-01 until 2016-09-01
-	International Business Machines Corporation from 2016-09-01 until 2022-10-01
-	Belfius from 2022-10-01
-ludusrusso: ludus.russo!gmail.com, ludusrusso!users.noreply.github.com
-	CINI until 2017-05-01
-	HotBlack Robotics from 2017-05-01 until 2020-02-01
-	GDG Cloud Milano from 2020-02-01 until 2022-03-01
-	RedCarbon from 2022-03-01
-ludydoo: ludydoo!users.noreply.github.com
-	Les Logiciels Easymage until 2019-10-01
-	Tempo from 2019-10-01 until 2020-11-01
-	NRC from 2020-11-01
-luebken: luebken!users.noreply.github.com, matthias.luebken!gmail.com, namngology!gmail.com
-	Giant Swarm GmbH until 2014-06-01
-	Giant Swarm GmbH from 2014-06-01 until 2016-03-01
-	Red Hat Inc. from 2016-03-01 until 2017-12-01
-	Instana Inc. from 2017-12-01
-lueenavarro: lueenavarro!users.noreply.github.com
-	Independent until 2019-01-01
-	DXC Technology from 2019-01-01 until 2021-05-01
-	Stratpoint from 2021-05-01
-lufia: lufia!users.noreply.github.com
-	Independent
-lugeng: lugeng!users.noreply.github.com
-	Bytedance Ltd
-lugi0: lgiorgi!redhat.com
-	Independent until 2015-07-01
-	Cisco Systems Inc. from 2015-07-01 until 2015-09-01
-	Independent from 2015-09-01 until 2017-11-01
-	Deloitte Italia from 2017-11-01 until 2018-07-01
-	Red Hat Inc. from 2018-07-01
-luginbash: luginbash!users.noreply.github.com
-	Independent until 2020-10-01
-	IABG from 2020-10-01 until 2024-09-01
-	Hetzner from 2024-09-01
-luhaixun: luhaixun!gmail.com, luhaixun!users.noreply.github.com
-	SAP
-luhenry: luhenry!microsoft.com
-	Microsoft Corporation
-luhn: luhn!users.noreply.github.com, theron!luhn.com
-	Guest Innovations
-luigi-riefolo: luigi-riefolo!users.noreply.github.com
-	McAfee LLC until 2016-03-01
-	Independent from 2016-03-01
-luigidellaquila: luigi.dellaquila!gmail.com, luigidellaquila!users.noreply.github.com
-	GiGroup until 2015-05-01
-	OrientDB from 2015-05-01
-luigigubello: luigigubello!users.noreply.github.com
-	Independent until 2019-11-01
-	Arduino from 2019-11-01 until 2020-12-01
-	Smallpdf from 2020-12-01 until 2021-11-01
-	Pitch from 2021-11-01
-luigizhou: luigizhou!users.noreply.github.com
-	Omnys until 2015-05-01
-	IKS from 2015-05-01 until 2017-01-01
-	YOOX NET A PORTER GROUP SPA from 2017-01-01 until 2018-03-01
-	Sky UK Limited from 2018-03-01 until 2019-07-01
-	Expedia Inc. from 2019-07-01 until 2020-01-01
-	Square Enix from 2020-01-01 until 2021-07-01
-	G-Research from 2021-07-01
-luiorpe1: luiorpe1!gmail.com
-	Ajuntament de Vinalesa until 2017-05-01
-	Consorcio Provincial de Bomberos de Valencia from 2017-05-01
-luis-giraldo: luis-giraldo!users.noreply.github.com
-	Independent until 2021-01-01
-	International Business Machines Corporation from 2021-01-01 until 2022-05-01
-	Azumo from 2022-05-01 until 2022-08-01
-	Sonatype Inc. from 2022-08-01
-luis-guimaraes-exoawk: luis-guimaraes-exoawk!users.noreply.github.com
-	Cloudpear until 2021-02-01
-	Efacec from 2021-02-01 until 2021-06-01
-	Exoawk from 2021-06-01
-luis-henrix: henrix!camandro.org, lhenriques!suse.com
-	SUSE LLC
-luis-silva: luis-silva!users.noreply.github.com
-	Bradesco until 2019-05-01
-	MATRIX from 2019-05-01 until 2020-09-01
-	European from 2020-09-01 until 2022-03-01
-	Homeprotect from 2022-03-01
