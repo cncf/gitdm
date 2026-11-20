@@ -2,6 +2,95 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+ETH:
+	cmeury: cedric!meury.com, cmeury!users.noreply.github.com from 2019-11-01 until 2021-09-01
+	photoni-137: photoni-137!users.noreply.github.com from 2019-11-01 until 2020-01-01
+	shyamjvs: jeedigv!amazon.com, shyam123.jvs95!gmail.com, shyamjvs!google.com, shyamjvs!users.noreply.github.com from 2016-05-01 until 2016-07-01
+ETH Zurich:
+	Oncilla: Oncilla!users.noreply.github.com from 2016-09-01 until 2018-10-01
+	borkmann: borkmann!users.noreply.github.com, danborkmann!iogearbox.net, daniel!iogearbox.net, dborkman!kernel.org, dborkman!redhat.com, dxchgb!gmail.com until 2012-01-01
+	gandro: gandro!gmx.net, gandro!users.noreply.github.com, sebastian!isovalent.com until 2014-12-01
+	remoe: remo.eichenberger!gmail.com, remoe!users.noreply.github.com
+ETH Zürich:
+	chaehni: chaehni!users.noreply.github.com from 2017-11-01 until 2021-06-01
+	christianprim: christianprim!users.noreply.github.com from 2017-07-01
+	dns2utf8: dns2utf8!users.noreply.github.com from 2017-02-01 until 2019-02-01
+	f4z3r: beckmann_jakob!hotmail.fr, f4z3r!users.noreply.github.com from 2017-12-01 until 2018-03-01
+	luciusf: luciusf!users.noreply.github.com until 2015-08-01
+	lukasmoellerch: mail!lukas-moeller.ch from 2020-09-01
+	mageirakos: mageirakos!users.noreply.github.com from 2022-11-01
+	mahdi-asadpour-rr: mahdi-asadpour-rr!users.noreply.github.com until 2015-08-01
+	mkowalski: m!kowalski.xyz, mateusz!mkowalski.com, mko!redhat.com, mkowalski!users.noreply.github.com from 2019-04-30 until 2019-12-31
+	shock0572: shock0572!users.noreply.github.com from 2020-12-01 until 2024-06-01
+	simu: simu!users.noreply.github.com until 2018-10-01
+	soramichi: akiyama!m.soramichi.jp from 2019-04-01
+	tlrmchlsmth: tlrmchlsmth!users.noreply.github.com from 2018-01-01 until 2019-11-01
+	zakkg3: zakkg3!gmail.com, zakkg3!users.noreply.github.com from 2019-06-01
+ETHZurich:
+	klausman: klausman!users.noreply.github.com from 2016-08-01 until 2018-12-10
+ETIC INSA:
+	mthoretton: mathieu!thoretton.com, mthoretton!users.noreply.github.com until 2016-03-01
+ETIN GROUP:
+	kwladyka: kwladyka!users.noreply.github.com from 2016-06-01 until 2017-07-01
+ETISAL:
+	eslam-gomaa: eslam-gomaa!users.noreply.github.com from 2016-04-01 until 2017-03-01
+ETM:
+	mPokornyETM: mPokornyETM!users.noreply.github.com
+ETM Australia:
+	Karocyt: Karocyt!users.noreply.github.com from 2016-12-01 until 2017-06-01
+ETNA:
+	arthurpi: arthurpi!users.noreply.github.com until 2015-02-01
+	hamon-e: hamon-e!users.noreply.github.com from 2017-10-01 until 2017-11-01
+	tuxity: Tuxity!users.noreply.github.com until 2014-09-01
+ETQ:
+	YToutah993: ytoutah!expedia.com from 2016-06-01 until 2018-04-01
+ETRI:
+	baek9: thn7440!gmail.com
+	sykim-etri: sykim!etri.re.kr
+	yunkon-kim: yunkon-kim!users.noreply.github.com from 2020-08-01
+ETS:
+	rokka-n: rokka-n!users.noreply.github.com, roman!naumenko.ca from 2020-08-01 until 2021-03-01
+	ttauveron: ttauveron!users.noreply.github.com from 2018-07-01 until 2018-08-01
+ETS Global:
+	Prims47: Prims47!users.noreply.github.com from 2015-12-01 until 2017-03-01
+ETS-Lindgren:
+	xiongzubiao: xiongzubiao!users.noreply.github.com from 2016-09-01 until 2019-05-01
+ETSY:
+	bealesh: david!beale.sh from 2019-01-01 until 2019-12-01
+ETT:
+	dhcn: dhcn!users.noreply.github.com
+ETZ:
+	jonhoare: jonhoare!users.noreply.github.com until 2016-06-01
+ETegro:
+	Difrex: difrex.punk!gmail.com until 2014-09-01
+EU FP7:
+	Rid: Rid!users.noreply.github.com until 2014-03-01
+EUHackathon:
+	aijanai: aijanai!users.noreply.github.com from 2015-09-01 until 2015-10-01
+EUIPO - European Union Intellectual Property Office:
+	emedina: emedina!users.noreply.github.com, enrique!medinamontenegro.com, enrique!medinamontenegro.es from 2015-04-01 until 2019-07-01
+	kutyel: flaviocorpa!gmail.com, kutyel!users.noreply.github.com from 2016-08-01 until 2019-02-01
+	miquelsi: miquelsi!users.noreply.github.com until 2016-05-01
+EUMETSAT:
+	armagankaratosun: armagankaratosun!gmail.com, armagankaratosun!users.noreply.github.com from 2019-10-01 until 2022-12-01
+EURA NOVA:
+	PrathamSolanki: PrathamSolanki!users.noreply.github.com, pratham.c.solanki!gmail.com from 2019-06-01 until 2019-09-01
+EURECOM:
+	cedricvanrompay-datadog: cedricvanrompay-datadog!users.noreply.github.com until 2018-10-01
+EUREKA SCIENTIFIC:
+	justincely: justin.ely!deciphernow.com, justincely!users.noreply.github.com, vahid.m.dev!gmail.com from 2017-03-01 until 2020-03-01
+EURISCO:
+	jonaslagoni: jonaslagoni!users.noreply.github.com from 2017-02-01 until 2020-11-01
+EURO ONE Számítástechnikai:
+	patrik93: patrik93!users.noreply.github.com from 2017-09-01 until 2019-06-01
+EUROAVIA:
+	mageirakos: mageirakos!users.noreply.github.com from 2018-05-01 until 2019-08-01
+EUROBAUT:
+	SkYNewZ: SkYNewZ!users.noreply.github.com, quentin!lemairepro.fr from 2016-08-01 until 2016-10-01
+EUROCONTROL:
+	DenisBalan: DenisBalan!users.noreply.github.com from 2023-12-01
+EUROPEAN DYNAMICS:
+	sealmove: sealmove!users.noreply.github.com from 2021-10-01 until 2023-01-01
 EUVIC:
 	antoniaklja: antoniaklja!gmail.com, antoniaklja!users.noreply.github.com from 2016-09-01 until 2017-10-01
 	mateusz-lubanski-sinch: mateusz-lubanski-sinch!users.noreply.github.com until 2015-06-01
@@ -1945,6 +2034,8 @@ Embraer Aircraft Maintenance Services Inc:
 	jcorde: jcorde!users.noreply.github.com, jvcc!cesar.org.br from 2019-09-01
 Embrane:
 	rchincha: rchincha!users.noreply.github.com
+Embucket:
+	YaroslavLitvinov: YaroslavLitvinov!users.noreply.github.com from 2025-01-01 until 2026-01-01
 Emburse:
 	RobertKozak: RobertKozak!users.noreply.github.com from 2020-02-01
 	alex067: alex067!users.noreply.github.com from 2020-04-01 until 2021-06-01
@@ -2711,6 +2802,8 @@ Enroute:
 	gtzefrain: gtz.efrain!gmail.com, gtzefrain!users.noreply.github.com from 2019-04-01 until 2021-03-01
 Ensaras:
 	ishaansehgal99: ishaanforthewin!gmail.com from 2021-12-01 until 2022-03-01
+Ensemble:
+	trantoji: trantoji!users.noreply.github.com until 2016-08-01
 Ensequence:
 	weisjohn: ben!benramsey.com, weisjohn!users.noreply.github.com until 2014-09-01
 Ensighten:
@@ -4609,6 +4702,8 @@ ExamTime Ltd:
 	richardmcmillen: richardmcmillen!users.noreply.github.com until 2016-03-01
 Examarly:
 	Vishalk91-4: Vishalk91-4!users.noreply.github.com from 2023-01-01 until 2023-03-01
+Exambazaar:
+	rajatgoel: rajatgoel!users.noreply.github.com from 2018-02-01 until 2018-06-01
 Examine:
 	kzap: andre!enthropia.com, kzap!users.noreply.github.com from 2015-12-01 until 2017-10-01
 Examiner:
@@ -6441,6 +6536,8 @@ FarziEngineer:
 	srivastavaayu: srivastavaayu!users.noreply.github.com from 2021-12-01 until 2022-01-01
 FasTrax Infotech:
 	PavanMakadia: phmakadia!gmail.com from 2018-12-01 until 2021-07-01
+Fashion AI:
+	botirkhaltaev: botirkhaltaev!users.noreply.github.com from 2023-11-01 until 2024-03-01
 Fashion Cloud:
 	mohammed-ali-1: mohammad10596!gmail.com, mohammed-ali-1!users.noreply.github.com, mohammed.alameen!protonmail.ch from 2021-05-01
 Fashion Digital:
@@ -6782,6 +6879,7 @@ Femmecubator:
 Fender:
 	szahn: szahn!users.noreply.github.com from 2019-06-01 until 2019-08-01
 Fenix:
+	arthurpi: arthurpi!users.noreply.github.com from 2018-01-01 until 2019-02-01
 	jffernandez: jffernandez!users.noreply.github.com from 2016-05-01
 Fennia:
 	suulperi: suulperi!users.noreply.github.com until 2017-09-01
@@ -10272,6 +10370,8 @@ FutureNet:
 	chleroy: christophe.leroy!c-s.fr from 2016-03-01
 FutureOn:
 	olivierchatry: olivierchatry!users.noreply.github.com from 2016-09-01
+FutureScape:
+	carzh: carolinezhu!google.com from 2020-03-01 until 2021-05-01
 FutureSkills Prime:
 	Nawaz027: Nawaz027!users.noreply.github.com, nawazsiddiqui27!gmail.com from 2021-10-01 until 2021-12-01
 Futured:
@@ -14029,6 +14129,7 @@ Goldman Sachs & Co. LLC:
 	kmag: kmag!users.noreply.github.com
 	krishagarwal278: krishagarwal278!users.noreply.github.com from 2023-12-01 until 2024-02-01
 	kvedurmu: kvedurmu!users.noreply.github.com from 2015-05-01 until 2015-08-01
+	lpfhs: lpfhs!users.noreply.github.com from 2026-08-01
 	mfrw: falakreyaz!gmail.com, mfrw!users.noreply.github.com from 2017-12-01
 	micya: micya!users.noreply.github.com from 2018-06-01 until 2018-08-01
 	migueloller: migueloller!users.noreply.github.com from 2014-05-01 until 2014-08-01
