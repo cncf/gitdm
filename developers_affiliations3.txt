@@ -11826,13 +11826,13 @@ ayushr2: ayushr2!illinois.edu, ayushr2!users.noreply.github.com
 	Independent until 2017-08-01
 	BioEnable from 2017-08-01 until 2017-11-01
 	Independent from 2017-11-01 until 2018-01-01
-	COUNTRY Financial from 2018-01-01 until 2018-05-01
+	COUNTRY from 2018-01-01 until 2018-05-01
 	Emergent Trading from 2018-05-01 until 2018-08-01
 	Independent from 2018-08-01 until 2019-05-01
 	Google LLC from 2019-05-01 until 2019-08-01
 	Meta Platforms Inc. from 2019-08-01 until 2019-12-01
-	Independent from 2019-12-01 until 2020-06-01
-	Google LLC from 2020-06-01 until 2026-07-01
+	Independent from 2019-12-01 until 2020-01-01
+	Google LLC from 2020-01-01 until 2026-07-01
 	Modal from 2026-07-01
 ayushrakesh: ayushrakesh!users.noreply.github.com
 	Independent
@@ -19815,8 +19815,7 @@ bryanuribe: bryanuribe!users.noreply.github.com
 	Independent from 2020-08-01 until 2021-05-01
 	Amazon from 2021-05-01
 bryanv: bryanv!users.noreply.github.com
-	NetApp until 2016-01-01
-	Khoros from 2016-01-01 until 2017-07-01
+	FreeBSD until 2017-07-01
 	VMware Inc. from 2017-07-01
 bryanwux: bryanwu610!gmail.com, bryanwux!users.noreply.github.com, jiayu1.wu!intel.com
 	Intel Corporation
