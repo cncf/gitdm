@@ -2,6 +2,10 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+ClearTrail:
+	abhimanyunagrath: abhimanyunagrath!users.noreply.github.com until 2015-08-01
+ClearVoice:
+	jeffnappi: jeffnappi!users.noreply.github.com from 2014-06-01 until 2022-12-01
 Clearbit:
 	mattatcha: matt!lanciv.com, mattatcha!users.noreply.github.com from 2018-01-01
 	rimusz: rimusz!users.noreply.github.com, rmocius!gmail.com from 2016-10-01 until 2017-04-01
@@ -3406,7 +3410,6 @@ Compass:
 	luranhe: lhe!alumni.harvard.edu from 2019-06-01 until 2022-04-01
 	meyerkev: meyerkev!users.noreply.github.com from 2017-03-01 until 2018-12-01
 	mightyguava: maladiere.vincent!yahoo.fr, mightyguava!gmail.com, mightyguava!users.noreply.github.com, ramganesh7k!gmail.com from 2015-06-01 until 2017-01-01
-	nathan-ca: nathan-ca!users.noreply.github.com from 2019-09-01 until 2021-04-01
 	threejeez: threejeez!users.noreply.github.com from 2020-01-01
 	tomjohnburton: tomjohnburton!users.noreply.github.com from 2016-06-01 until 2016-07-01
 	wdhorton: wdhorton!users.noreply.github.com, wdt.horton!gmail.com from 2018-06-01 until 2021-03-01
@@ -5379,7 +5382,7 @@ Coviam:
 	ABHIYANSHU: ABHIYANSHU!users.noreply.github.com, abhiyanshu11!gmail.com from 2019-01-01 until 2019-05-01
 	ikmrgrv: ikmrgrv!users.noreply.github.com from 2018-12-01
 Covington & Burling:
-	peterwj: peterwj!users.noreply.github.com from 2024-05-01 until 2024-07-01, from 2025-07-01
+	peterwj: peterwj!users.noreply.github.com from 2022-06-01 until 2022-07-01, from 2025-01-01
 Covéa:
 	manekinekko: 1699357+manekinekko!users.noreply.github.com, github!wassim.app, github!wassim.dev, github!wassimchegham.com, maneki.nekko!gmail.com, manekinekko!users.noreply.github.com from 2014-11-01 until 2015-11-01
 Cowboy Coders:
@@ -9885,8 +9888,6 @@ Deako Smart Lighting:
 	btashton: bashton!brennanashton.com, btashton!users.noreply.github.com from 2016-05-01 until 2018-08-01
 Deal:
 	omnibs: omnibs!users.noreply.github.com from 2015-03-01 until 2016-08-01
-Deal Engine:
-	luiscape: luiscape!users.noreply.github.com from 2025-04-01 until 2026-09-01
 DealDash:
 	Nipsuli: Nipsuli!users.noreply.github.com until 2014-05-01
 DealMaker:

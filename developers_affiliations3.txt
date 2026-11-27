@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+alexivkin: alexivkin!users.noreply.github.com
+	Prolifics until 2015-03-01
+	Blue Bay from 2015-03-01 until 2017-10-01
+	Checkmarx from 2017-10-01 until 2018-09-01
+	Eclypsium from 2018-09-01
 alexjfisher: alex!linfratech.co.uk, alexjfisher!users.noreply.github.com
 	Independent until 2015-06-01
 	Pershing Square from 2015-06-01 until 2015-08-01
@@ -12433,6 +12438,9 @@ bainsy88: bainsy88!users.noreply.github.com
 	International Business Machines Corporation
 baixueyu: baixueyu!inspur.com
 	Inspur Group
+baizhenyu: baizhenyu!users.noreply.github.com, timbai!google.com
+	Parsons until 2021-07-01
+	Google LLC from 2021-07-01
 baizhushui: yanlvchao!sensetime.com
 	SenseTime
 bajacondor: bajacondor!users.noreply.github.com, dave!schile.com, justinwlai2!gmail.com, kousiksundar!gmail.com
@@ -16882,9 +16890,9 @@ bleathem: bleathem!users.noreply.github.com
 blechschmidt: git!blechschmidt.io
 	Independent until 2015-04-01
 	ShortHill from 2015-04-01 until 2016-05-01
-	CISPA Helmholtz Center for Information Security from 2016-05-01 until 2019-11-01
+	CISPA from 2016-05-01 until 2019-11-01
 	Independent from 2019-11-01 until 2023-05-01
-	T Security from 2023-05-01 until 2024-11-01
+	T Security - DACH from 2023-05-01 until 2024-11-01
 	Liebherr from 2024-11-01
 bleech1: bleech1!users.noreply.github.com
 	Mastercard International Incorporated
@@ -18102,13 +18110,12 @@ botengyao: botengyao!gmail.com
 botirkhaltaev: botirkhaltaev!users.noreply.github.com
 	Independent until 2023-11-01
 	Fashion AI from 2023-11-01 until 2024-03-01
-	Independent from 2024-03-01 until 2024-06-01
-	Bright Network from 2024-06-01 until 2024-07-01
-	Meta Platforms Inc. from 2024-07-01 until 2024-09-01
+	Bright Network from 2024-03-01 until 2024-05-01
+	Independent from 2024-05-01 until 2024-06-01
+	Meta Platforms Inc. from 2024-06-01 until 2024-09-01
 	SquaredUp from 2024-09-01 until 2025-07-01
 	Snyk from 2025-07-01 until 2026-03-01
-	Nordlys Labs from 2026-03-01 until 2026-05-01
-	Modal from 2026-05-01
+	Modal from 2026-03-01
 bottkars: Karsten.Bott!bottnet.de, bottkars!users.noreply.github.com
 	Karsten Bott
 botzill: botzill!users.noreply.github.com
@@ -23693,12 +23700,3 @@ cezarsa: cezarsa!users.noreply.github.com
 	tsuru
 cezarygerard: cezarygerard!users.noreply.github.com, czawadka!google.com
 	Google LLC
-cezaryzukowski: c.zukowski!samsung.com, cezaryzukowski!users.noreply.github.com
-	Independent until 2016-01-01
-	Independent from 2016-01-01 until 2018-08-01
-	Samsung Electronics Co. Ltd. from 2018-08-01 until 2022-08-01
-	IQVIA from 2022-08-01
-cfallin: 2212362272!qq.com, 875499765!qq.com, cfallin!c1f.net, cfallin!google.com, rodrigo!correaecastro.com.br
-	Independent
-cfarquhar: cfarquhar!cfarquhar.com, cfarquhar!users.noreply.github.com
-	Rackspace

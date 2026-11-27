@@ -5,6 +5,38 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+ofaaland: faaland1!llnl.gov, ofaaland!users.noreply.github.com
+	Lawrence Livermore National Laboratory (LLNL)
+ofaz: ofaz!users.noreply.github.com
+	Independent until 2017-06-01
+	MAX KELSEN PTY. LTD. from 2017-06-01
+ofcourseican: ofcourseican!users.noreply.github.com
+	chemmedia AG until 2015-12-01
+	Staffbase from 2015-12-01
+ofek: ofek!users.noreply.github.com, ofekmeister!gmail.com
+	Independent until 2017-12-01
+	Datadog Inc from 2017-12-01
+ofelix03: ofelix03!gmail.com
+	Independent until 2016-08-01
+	The Quantum Group from 2016-08-01 until 2023-07-01
+	Glo from 2023-07-01
+ofer-tvil: andrey.ko3yrev!gmail.com, ofer-tvil!users.noreply.github.com, ofer.tvil!arm.com
+	Discretix until 2015-07-01
+	ARM from 2015-07-01
+oferhz: oferh!marvell.com
+	Marvell International Ltd
+ofesseler: ofesseler!gmail.com, ofesseler!users.noreply.github.com, oliver!fesseler.info
+	Leomedia GmbH
+offbyone: joe!yolk.cc, offbyone!users.noreply.github.com, offline!offby1.net
+	AWS until 2022-08-01
+	Independent from 2022-08-01
+officel: officel!users.noreply.github.com
+	業務委託でSRE業務委託でSREソシャゲ会社 until 2019-06-01
+	Oisix ra daichi from 2019-06-01 until 2024-07-01
+	業務委託でSRE業務委託でSREイオンスマートテクノロジー株式会社 from 2024-07-01
+offlinehacker: offlinehacker!users.noreply.github.com
+	NixOS until 2015-03-01
+	GateHub from 2015-03-01
 offzale: goga.enrique!gmail.com, offzale!users.noreply.github.com
 	inLab FIB until 2016-01-01
 	Made of Genes from 2016-01-01 until 2017-04-01
@@ -5314,11 +5346,11 @@ peterwj: peterwj!users.noreply.github.com
 	Independent from 2016-11-01 until 2017-07-01
 	Flexport from 2017-07-01 until 2018-12-01
 	Pilot from 2018-12-01 until 2020-06-01
-	Retool from 2020-06-01 until 2022-06-01
-	Independent from 2022-06-01 until 2024-05-01
-	Covington & Burling from 2024-05-01 until 2024-07-01
-	Independent from 2024-07-01 until 2025-07-01
-	Covington & Burling from 2025-07-01
+	Independent from 2020-06-01 until 2022-05-01
+	Retool from 2022-05-01 until 2022-06-01
+	Covington & Burling from 2022-06-01 until 2022-07-01
+	Independent from 2022-07-01 until 2025-01-01
+	Covington & Burling from 2025-01-01
 peteryuhang: peteryuhang!users.noreply.github.com
 	Independent until 2017-06-01
 	CDW Corporation from 2017-06-01 until 2017-12-01
@@ -8544,9 +8576,7 @@ pratikzingade: pratik.zingade!foresee.com, pratikzingade!users.noreply.github.co
 	Kronos Incorporated until 2016-08-01
 	ForeSee from 2016-08-01
 prattmic: prattmic!users.noreply.github.com
-	Visible World until 2017-07-01
-	OkCupid from 2017-07-01 until 2018-10-01
-	Google LLC from 2018-10-01
+	Google LLC
 pratulw: pratulw!users.noreply.github.com
 	Applatix
 pravarag: pravarag!gmail.com, pravarag!users.noreply.github.com
@@ -14008,7 +14038,10 @@ rekup: rekup!users.noreply.github.com
 relaxdiego: mmaglana!gmail.com, relaxdiego!users.noreply.github.com
 	Teradata
 relkochta: relkochta!users.noreply.github.com
-	Google LLC
+	Independent until 2023-06-01
+	Freddie Mac from 2023-06-01 until 2023-08-01
+	Independent from 2023-08-01 until 2025-06-01
+	Amazon from 2025-06-01
 relu: aurelcanciu!gmail.com, relu!users.noreply.github.com
 	oDesk until 2015-05-01
 	Upwork Global Inc. from 2015-05-01 until 2019-09-01
@@ -14841,7 +14874,7 @@ rhr323: istvan.nagy!elastic.co
 rhrazdil: 32546791+rhrazdil!users.noreply.github.com, rhrazdil!redhat.com, rhrazdil!users.noreply.github.com
 	Independent until 2017-02-01
 	Red Hat Inc. from 2017-02-01
-rhrmo: rhrmo!users.noreply.github.com, rhrmo!redhat.com, hrmorichard2!gmail.com
+rhrmo: hrmorichard2!gmail.com, rhrmo!redhat.com, rhrmo!users.noreply.github.com
 	Independent until 2022-07-01
 	Red Hat Inc. from 2022-07-01
 rhs: rhs!alum.mit.edu, rhs!users.noreply.github.com
@@ -23642,37 +23675,3 @@ schickling: schickling.j!gmail.com
 	Prisma from 2016-04-01
 schiederme: maximilian.schieder!posteo.net
 	Independent
-schiele: rschiele!gmail.com
-	Nokia Corporation
-schischi: adrien+dev!schischi.me
-	London School of Economics and Political Science until 2016-02-01
-	NVIDIA Corporation from 2016-02-01 until 2016-05-01
-	Google LLC from 2016-05-01 until 2016-12-01
-	Meta Platforms Inc. from 2016-12-01
-schlakob: schlakob!users.noreply.github.com
-	Independent until 2017-10-01
-	Conrad Electronic from 2017-10-01 until 2020-09-01
-	Re-In from 2020-09-01 until 2021-05-01
-	CompuGroup Medical USA from 2021-05-01
-schlichtanders: schlichtanders!users.noreply.github.com, stephan.sahm!jolin.io
-	Independent until 2016-11-01
-	Reply from 2016-11-01 until 2021-04-01
-	jolin.io from 2021-04-01
-schlomo: schlomo!users.noreply.github.com
-	Immobilien Scout until 2016-07-01
-	Zalando SE from 2016-07-01 until 2017-10-01
-	DB Systel GmbH from 2017-10-01 until 2021-10-01
-	Forto from 2021-10-01
-schmalliso: allison!mistressofinformation.com, schmalliso!users.noreply.github.com
-	monday.com Limited
-schmalzs: schmalzs!users.noreply.github.com
-	Liberty Mutual Insurance Company until 2018-05-01
-	HubSpot Inc. from 2018-05-01 until 2019-07-01
-	Liberty Mutual Insurance Company from 2019-07-01 until 2021-11-01
-	Trellis from 2021-11-01 until 2022-05-01
-	Paper Ventures from 2022-05-01
-schmaustech: schmaustech!users.noreply.github.com
-	Target until 2015-05-01
-	Red Hat Inc. from 2015-05-01
-schmich: chris.schmich+remove-this-if-youre-not-a-bot!agilityspeaks.com, schmich!users.noreply.github.com
-	DimplTeam

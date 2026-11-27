@@ -2,6 +2,15 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Avolve:
+	bencmaps: bencmaps!users.noreply.github.com from 2025-01-01
+Avon:
+	cz75ww: cz75ww!users.noreply.github.com until 2016-08-01
+	lgecse: lgecse!users.noreply.github.com from 2015-06-01 until 2022-10-01
+Avtec:
+	prestist: prestist!users.noreply.github.com from 2015-05-01 until 2015-08-01
+Avuba:
+	kirrg001: katharina.irrgang!googlemail.com, kirrg001!users.noreply.github.com until 2016-03-01
 Avvasi Incorporated:
 	bradhoekstra: bhoekstra!google.com, bradhoekstra!users.noreply.github.com until 2015-07-01
 	chradcliffe: chradcliffe!users.noreply.github.com until 2016-08-01
@@ -6873,7 +6882,6 @@ Brandwatch:
 	HHogg: HHogg!users.noreply.github.com from 2015-12-01 until 2018-10-01
 	aeruder: andrew.ruder!elecsyscorp.com, andy!aeruder.net until 2014-12-01
 	ahume: ahume!users.noreply.github.com, andyhume!gmail.com
-	luiscape: luiscape!users.noreply.github.com until 2025-04-01
 	spmason: spmason!users.noreply.github.com until 2023-10-01
 	stefanbuck: stefanbuck!users.noreply.github.com from 2014-12-01
 Brane Enterprises:
@@ -7139,7 +7147,7 @@ Bright Machines:
 	spacether: spacether!users.noreply.github.com from 2024-08-01
 Bright Network:
 	Hilzygift: Hilzygift!users.noreply.github.com from 2020-07-01 until 2020-08-01
-	botirkhaltaev: botirkhaltaev!users.noreply.github.com from 2024-06-01 until 2024-07-01
+	botirkhaltaev: botirkhaltaev!users.noreply.github.com from 2024-03-01 until 2024-05-01
 	patrick-merchant: patrick-merchant!users.noreply.github.com from 2022-04-01 until 2022-07-01
 	stafordtituss: stafordtituss!users.noreply.github.com from 2020-05-01 until 2020-07-01
 Bright Pixel:
@@ -9435,7 +9443,7 @@ CISO:
 	TobiasS1402: TobiasS1402!users.noreply.github.com from 2021-08-01 until 2022-02-01
 	deepaksood619: deepaksood619!gmail.com from 2016-12-01 until 2017-07-01
 	deepaksood619: deepaksood619!users.noreply.github.com from 2016-12-01 until 2017-07-01
-CISPA Helmholtz Center for Information Security:
+CISPA:
 	blechschmidt: git!blechschmidt.io from 2016-05-01 until 2019-11-01
 CISS:
 	diegolovison: diegolovison!gmail.com, diegolovison!users.noreply.github.com from 2017-07-01 until 2017-12-01
@@ -9862,6 +9870,7 @@ CNCF:
 	microwavables: microwavables!users.noreply.github.com, nancil!vmware.com from 2018-03-01 until 2020-12-01
 	mikeal: mikeal!users.noreply.github.com, mikeal.rogers!gmail.com from 2015-07-01 until 2017-07-01
 	mikedanese: mikedanese!gmail.com, mikedanese!google.com, mikedanese!users.noreply.github.com from 2018-07-01 until 2023-10-01
+	milantracy: milantracy!gmail.com, milantracy!users.noreply.github.com from 2024-06-01
 	mitul3737: mitul3737!users.noreply.github.com, shahriyarmitul3737!gmail.com from 2022-02-01
 	mjlodge: git!mathewlodge.com, mjlodge!users.noreply.github.com, ml!lodgephoto.com from 2016-12-01 until 2017-01-01
 	mlavacca: lavacca.mattia!gmail.com, mlavacca!users.noreply.github.com from 2019-05-01 until 2019-08-01
@@ -11612,7 +11621,7 @@ Capgemini:
 	thennetirajesh: thennetirajesh!users.noreply.github.com from 2018-05-01 until 2018-11-01
 	tiagoassis00: tiagoassis00!gmail.com from 2018-01-01 until 2020-09-01
 	torrespro: torrespro!users.noreply.github.com from 2015-01-01 until 2015-06-01
-	tuunit: jan!larwig.com, tuunit!users.noreply.github.com from 2019-06-01 until 2024-09-01
+	tuunit: jan!larwig.com, jan.larwig!digits.schwarz, tuunit!users.noreply.github.com from 2019-06-01 until 2024-09-01
 	uhinze: uhinze!users.noreply.github.com from 2015-01-01 until 2019-07-01
 	vamsidvk09: vamsidvk09!users.noreply.github.com from 2020-01-01
 	varunjain99: varunjain99!gmail.com until 2015-07-01
@@ -16099,7 +16108,3 @@ ClearTax:
 	atulaggarwal: atulaggarwal!users.noreply.github.com
 	kunjee17: kunjee17!users.noreply.github.com from 2017-06-01 until 2018-01-01
 	shashankn91: nagamalla.shashank50!gmail.com, shashankn91!users.noreply.github.com from 2016-03-01 until 2017-12-01
-ClearTrail:
-	abhimanyunagrath: abhimanyunagrath!users.noreply.github.com until 2015-08-01
-ClearVoice:
-	jeffnappi: jeffnappi!users.noreply.github.com from 2014-06-01 until 2022-12-01

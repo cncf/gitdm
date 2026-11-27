@@ -4276,7 +4276,7 @@ Snowflake:
 	dontreboot: dontreboot!users.noreply.github.com from 2019-06-01
 	dvdizon: daviddizon!gmail.com, dvdizon!users.noreply.github.com from 2022-05-01
 	g-karthik: g-karthik!users.noreply.github.com from 2020-03-01
-	hugelgupf: c!chrisko.ch, hugelgupf!users.noreply.github.com, nijynot!gmail.com from 2026-03-01
+	hugelgupf: c!chrisko.ch, hugelgupf!users.noreply.github.com, nijynot!gmail.com
 	idigdoug: idigdoug!users.noreply.github.com from 2020-11-01
 	jkowalski: jaak!jkowalski.net, jkowalski!users.noreply.github.com from 2022-01-01
 	kow3ns: kow3ns!users.noreply.github.com, kowens0826!gmail.com, owensk!google.com from 2022-08-01
@@ -6179,7 +6179,6 @@ SpaceX:
 	ciriarte: ciriarte!gmail.com, ciriarte!users.noreply.github.com from 2016-08-01 until 2018-07-01
 	fejta: erick!fejta.com, fejta!google.com, fejta!users.noreply.github.com from 2022-06-01
 	ildar-safarov: ildar-safarov!users.noreply.github.com from 2022-10-01 until 2026-07-01
-	liornm: liornm!users.noreply.github.com from 2025-12-01 until 2026-03-01
 	lsmurray: lsmurray!users.noreply.github.com from 2018-06-01 until 2018-08-01
 SpaceXAI:
 	jjyao: jjyao!users.noreply.github.com from 2026-08-01
@@ -8075,6 +8074,7 @@ Startup:
 	RomansWorks: RomansWorks!users.noreply.github.com until 2015-07-01
 	Russell-IO: Russell-IO!users.noreply.github.com from 2021-01-01
 	SameerMahajan-GSLab: SameerMahajan-GSLab!users.noreply.github.com until 2015-02-01
+	aakashchan: aakashchan24!gmail.com from 2017-04-01 until 2018-01-01
 	ablekh: ablekh!users.noreply.github.com from 2019-09-01
 	afilipchik: afilipchik!gmail.com, afilipchik!users.noreply.github.com from 2019-02-01
 	andizzle: andizzle!users.noreply.github.com, andizzle.zhang!gmail.com from 2020-12-01 until 2021-04-01
@@ -8128,8 +8128,6 @@ Startup:
 	tomtom94: tomtom94!users.noreply.github.com from 2018-04-01 until 2018-06-01
 	tw4dl: david.liu07!sap.com, tw4dl!users.noreply.github.com from 2016-08-01 until 2017-02-01
 	van-vliet: van-vliet!users.noreply.github.com from 2018-08-01 until 2018-11-01
-Startup Events:
-	aakashchan: aakashchan24!gmail.com from 2017-04-01 until 2018-01-01
 StartupHeroes:
 	cemo: cemalettin.koc!gmail.com, cemo!users.noreply.github.com from 2016-04-15
 	ibalat: ibalat!users.noreply.github.com from 2023-09-01
@@ -9644,6 +9642,8 @@ Summit:
 	jt-shippit: jt-shippit!users.noreply.github.com from 2016-02-01 until 2018-04-01
 Summit Group Solutions:
 	EXPErdelfavero: rdelfaverojr!expedia.com from 2017-01-01 until 2019-08-01
+Summit Range:
+	ibondarenko1: hi!ibondarenko.com from 2022-11-01
 Sumo:
 	mgol: m.goleb!gmail.com, mgol!users.noreply.github.com from 2018-07-01
 	mzgol: mzgol!users.noreply.github.com from 2018-07-01
@@ -11328,7 +11328,7 @@ Sınava Doğru:
 	hbceylan: hbceylan!users.noreply.github.com until 2014-04-01
 T Dispatch:
 	mohannadbanayosi: mohannadbanayosi!users.noreply.github.com from 2015-03-01 until 2017-01-01
-T Security:
+T Security - DACH:
 	blechschmidt: git!blechschmidt.io from 2023-05-01 until 2024-11-01
 T-Base Oy:
 	ToniIltanen: ToniIltanen!users.noreply.github.com until 2015-01-01
@@ -15374,7 +15374,6 @@ Tesla Inc.:
 	monopole: jeff.regan!gmail.com, jregan!google.com, monopole!users.noreply.github.com from 2021-07-01
 	nap32: nap32!users.noreply.github.com from 2020-11-01
 	natemurthy: drip.dr0p.dr0p!gmail.com, natemurthy!users.noreply.github.com
-	nathan-ca: nathan-ca!users.noreply.github.com from 2022-11-01 until 2024-06-01
 	olofj: dkamenda!infoblox.com, olof!lixom.net, pavel.mikhalchuk!gmail.com from 2016-05-01 until 2018-05-01
 	rmehta19: rmehta19!users.noreply.github.com from 2022-01-01 until 2022-05-01
 	royxue: hi!chadoh.com, royxue!users.noreply.github.com, xljroy!gmail.com from 2016-09-01 until 2018-03-01
